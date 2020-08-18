@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\StarLib.Dynamic\\StarLib.Dynamic.csproj": {}
+    "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\StarLib.Dynamic\\StarLib.Dynamic.csproj": {
+    "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\StarLib.Dynamic\\StarLib.Dynamic.csproj",
-        "projectName": "StarLib.Dynamic",
-        "projectPath": "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\StarLib.Dynamic\\StarLib.Dynamic.csproj",
+        "projectUniqueName": "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\SiliconProphet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\StarLib.Dynamic\\obj\\",
+        "outputPath": "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SiliconProphet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netcoreapp3.1": {
             "projectReferences": {
               "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\StarLib\\StarLib.csproj": {
                 "projectPath": "C:\\Users\\SiliconProphet\\Documents\\GitHub\\StarDate2\\StarLib\\StarLib.csproj"
@@ -40,15 +40,7 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -59,6 +51,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
