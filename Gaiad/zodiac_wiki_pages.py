@@ -528,6 +528,9 @@ def nth_weekday_holidays_for_year(year: int):
     rules["US Columbus Day / Indigenous Peoples’ Day (2nd Mon Oct)"] = nth_weekday_of_month(year, 10, 0, 2)
     us_thanks = nth_weekday_of_month(year, 11, 3, 4)  # Thu=3
     rules["US Thanksgiving (4th Thu Nov)"] = us_thanks
+    us_elect = nth_weekday_of_month(year, 11, 1, 1)  # Thu=3
+    rules["US Election Monday (1st Monday of November)"] = us_elect
+    rules["US Election Day (The Tuesday after the first Monday of November)"] = us_elect + timedelta(days=1)
 
     # Black Friday = day after US Thanksgiving
     rules["US Black Friday (Fri after US Thanksgiving)"] = us_thanks + timedelta(days=1)
@@ -550,6 +553,47 @@ def nth_weekday_holidays_for_year(year: int):
     rules["Japan Marine Day (3rd Mon Jul)"] = nth_weekday_of_month(year, 7, 0, 3)
     rules["Japan Respect for the Aged Day (3rd Mon Sep)"] = nth_weekday_of_month(year, 9, 0, 3)
     rules["Japan Sports Day (2nd Mon Oct)"] = nth_weekday_of_month(year, 10, 0, 2)
+
+        # CANADA – fixed-date general election day (subject to early dissolution)
+    # Canada Elections Act: third Monday in October. :contentReference[oaicite:0]{index=0}
+    rules["Canada Federal Election Day (fixed-date, 3rd Mon Oct)"] = nth_weekday_of_month(year, 10, 0, 3)
+
+    # MEXICO – federal elections are held the FIRST SUNDAY IN JUNE
+    # (Presidential every 6 years; deputies every 3. We encode the weekday rule here.) :contentReference[oaicite:1]{index=1}
+    rules["Mexico Federal Election Day (1st Sun Jun)"] = nth_weekday_of_month(year, 6, 6, 1)
+
+    # BRAZIL – 1st round: FIRST SUNDAY IN OCTOBER; 2nd round (if needed): LAST SUNDAY IN OCTOBER
+    # (Applies to presidential/gubernatorial when needed). :contentReference[oaicite:2]{index=2}
+    rules["Brazil General Elections – 1st round (1st Sun Oct)"] = nth_weekday_of_month(year, 10, 6, 1)
+    rules["Brazil General Elections – 2nd round (last Sun Oct, if needed)"] = last_weekday_of_month(year, 10, 6)
+
+    # ARGENTINA – general elections: FOURTH SUNDAY IN OCTOBER (runoff typically in November)
+    # Encodes the weekday rule used in recent cycles. :contentReference[oaicite:3]{index=3}
+    rules["Argentina General Election (4th Sun Oct)"] = nth_weekday_of_month(year, 10, 6, 4)
+
+    # SWEDEN – general election: SECOND SUNDAY IN SEPTEMBER, every 4 years
+    # We add the date only in election years (years % 4 == 2: e.g., 2018, 2022, 2026). :contentReference[oaicite:4]{index=4}
+    if year % 4 == 2:
+        rules["Sweden General Election (2nd Sun Sep)"] = nth_weekday_of_month(year, 9, 6, 2)
+
+    # NORWAY – parliamentary election: MONDAY IN SEPTEMBER, every 4 years
+    # Official practice is a Monday in September; next is 8 Sep 2025. Use 2nd Monday as the standard rule. :contentReference[oaicite:5]{index=5}
+    if year % 4 == 1:  # 2025, 2029, ...
+        rules["Norway Parliamentary Election (2nd Mon Sep)"] = nth_weekday_of_month(year, 9, 0, 2)
+
+    # RUSSIA – presidential election: SECOND SUNDAY IN MARCH, every 6 years (unless shifted);
+    # Duma elections: often THIRD SUNDAY IN SEPTEMBER (5-year cycle; may be moved or multi-day).
+    # Encode the base weekday rules. :contentReference[oaicite:6]{index=6}
+    if (year - 2018) % 6 == 0:
+        rules["Russia Presidential Election (2nd Sun Mar)"] = nth_weekday_of_month(year, 3, 6, 2)
+    if (year - 2021) % 5 == 0:
+        rules["Russia State Duma Election (3rd Sun Sep)"] = nth_weekday_of_month(year, 9, 6, 3)
+
+    # NETHERLANDS – municipal/provincial elections are on a WEDNESDAY in March; 
+    # municipalities are the THIRD WEDNESDAY in March (every 4 years). (General elections are usually Wed but not formula-fixed.)
+    # If you want municipal elections:
+    # rules["Netherlands Municipal Elections (3rd Wed Mar)"] = nth_weekday_of_month(year, 3, 2, 3)
+
 
     return rules
 
