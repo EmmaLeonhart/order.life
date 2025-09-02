@@ -53,7 +53,6 @@
     <revision>
       <id>2370835</id>
       <parentid>2370826</parentid>
-      <timestamp>2025-08-19T18:49:11Z</timestamp>
       <contributor>
         <username>Immanuelle</username>
         <id>2</id>
@@ -121,7 +120,10 @@ local function isoWeekDateAstr(yA, m, d)
   local N = ((z + 3) % 7) + 1 -- 1970-01-01 is Thu (ISO 4)
   local th = z + (4 - N)     -- shift to Thursday of this week
   local yW = civil_from_days(th) -- ISO week-year = Gregorian year of that Thursday
-  local firstTh = days_from_civil(yW, 1, 4) -- Jan 4 is always in week 1
+  -- Find Thursday of week 1: Jan 4 is always in week 1, find its Thursday
+  local jan4 = days_from_civil(yW, 1, 4)
+  local jan4_weekday = ((jan4 + 3) % 7) + 1
+  local firstTh = jan4 + (4 - jan4_weekday) -- Thursday of week containing Jan 4
   local W = 1 + math.floor((th - firstTh)/7)
   return W, N, yW
 end

@@ -3,11 +3,6 @@
 
 import time
 from datetime import date, datetime, timedelta
-from datetime import date, timedelta
-
-# stdlib imports you need
-import time
-from datetime import date, datetime, timedelta
 
 # if your script makes HTTP calls (it does, for MediaWiki):
 import requests
@@ -18,8 +13,8 @@ from typing import Dict, List, Tuple, Optional
 
 
 
-import requests
 import sys
+import argparse
 
 API_URL     = "https://evolutionism.miraheze.org/w/api.php"
 USER_AGENT  = "ZodiacWikiBot/0.2 (User:Immanuelle; contact: you@example.com)"
@@ -35,14 +30,8 @@ CHINESE_DIST_END   = 2100
 
 
 
-# Robust convertdate import (avoids local shadowing and only logs to console)
-import os, sys, importlib
-
-# Robust convertdate import (no user-facing noise; explicit submodule imports)
-import os, sys, importlib
-
 # ---- Calendar libs ----
-import importlib
+import os, sys, importlib
 
 # Hebrew via convertdate (works on your install)
 try:
@@ -147,8 +136,6 @@ if HAVE_CHINESE:
     C = _CShim
 
 
-from datetime import date, timedelta
-
 def _cn_from_greg(g: date):
     """Return (lyear, lmonth, lday, leap_flag) using lunardate."""
     ld = LunarDate.fromSolarDate(g.year, g.month, g.day)
@@ -166,7 +153,7 @@ def chinese_event_matches_gregorian(g: date, ev: dict):
         lyear, lmonth, lday, leap = _cn_from_greg(g)
         want_m, want_d = ev["month"], ev["day"]
         if ev.get("leap") is not None:
-            return (lmonth == want_m) and (lday == want_d) and (leap is bool(ev["leap"]))
+            return (lmonth == want_m) and (lday == want_d) and (leap == bool(ev["leap"]))
         # default: only match non-leap months (public festivals are non-leap)
         return (lmonth == want_m) and (lday == want_d) and (not leap)
 
@@ -198,8 +185,6 @@ def hebrew_month_number(name: str, hy: int, rule: str | None) -> int:
 
 
 # ---------- CHINESE MATCHERS ----------
-from datetime import date, timedelta
-
 def chinese_lunar_tuple(g: date):
     # (cycle, year, month, is_leap, day)
     return C.from_gregorian(g.year, g.month, g.day)
@@ -283,10 +268,6 @@ def hebrew_distribution_block(m_idx: int, d_m: int,
         elif hm == 13:
             label, idx = ("Adar II", 13)
         else:
-            HEB_NAMES = {
-                1:"Nisan", 2:"Iyar", 3:"Sivan", 4:"Tammuz", 5:"Av", 6:"Elul",
-                7:"Tishrei", 8:"Cheshvan", 9:"Kislev", 10:"Tevet", 11:"Shevat"
-            }
             label, idx = (HEB_NAMES[hm], hm)
 
         if 1 <= hd <= 30:
@@ -320,7 +301,6 @@ def chinese_distribution_block(m_idx: int, d_m: int,
 
     # Clamp to supported window explicitly; no out-of-range probing.
     sy = max(start_year, CHINESE_DIST_START)
-    sy = 1900
     ey = min(end_year, CHINESE_DIST_END)
 
     from collections import Counter
@@ -365,10 +345,6 @@ def chinese_distribution_block(m_idx: int, d_m: int,
 
 
 # --- helper: append a category tag inline with the label when there’s a hit ---
-def label_with_category(name: str, hit_count: int) -> str:
-    return f"{name} [[Category:Days that {name} falls on]]" if hit_count > 0 else name
-
-
 def label_with_category(name: str, hit_count: int) -> str:
     return f"{name} [[Category:Days that {name} falls on]]" if hit_count > 0 else name
 
@@ -816,11 +792,6 @@ def easter_offsets_block(m_idx: int, d_m: int,
     lines.append("|}")
     return "\n".join(lines)
 
-def ordinal(n: int) -> str:
-    if 10 <= n % 100 <= 20: suf = "th"
-    else: suf = {1:"st",2:"nd",3:"rd"}.get(n % 10, "th")
-    return f"{n}{suf}"
-
 # ---- FIXED-DATE EVENTS YOU CARE ABOUT ----
 # name -> (month, day)
 FIXED_DATE_EVENTS = {
@@ -996,9 +967,29 @@ def build_page(m_idx: int, d_m: int, wiki: 'Wiki' = None) -> (str, str):
     ord1 = ordinal_in_year(m_idx, d_m)
     reading = reading_for_ordinal(ord1)
 
-    # neighbors
-    pm, pd = (m_idx, d_m-1) if d_m>1 else ((13 if m_idx==1 else m_idx-1), 28)
-    nm, nd = (m_idx, d_m+1) if d_m<28 else ((1 if m_idx==13 else m_idx+1), 1)
+    # neighbors - handle intercalary month (Horus) specially
+    if m_idx == 14:  # Horus intercalary month
+        if d_m > 1:
+            pm, pd = (14, d_m-1)
+        else:
+            pm, pd = (13, 28)  # Last day of Ophiuchus
+        
+        if d_m < 7:
+            nm, nd = (14, d_m+1)
+        else:
+            nm, nd = (1, 1)  # First day of next year's Sagittarius
+    else:
+        # Regular month navigation
+        pm, pd = (m_idx, d_m-1) if d_m>1 else ((13 if m_idx==1 else m_idx-1), 28)
+        if m_idx == 13:  # Ophiuchus
+            if d_m < 28:
+                nm, nd = (m_idx, d_m+1)
+            else:
+                # Check if next year has intercalary days (week 53)
+                # For simplicity, assume regular transition to next year
+                nm, nd = (1, 1)
+        else:
+            nm, nd = (m_idx, d_m+1) if d_m<28 else ((m_idx+1 if m_idx<13 else 1), 1)
     prev_title = f"{MONTHS[pm-1]} {pd}"
     next_title = f"{MONTHS[nm-1]} {nd}"
 
@@ -1062,7 +1053,7 @@ def build_page(m_idx: int, d_m: int, wiki: 'Wiki' = None) -> (str, str):
     if category_lines:
         parts.append("\n".join(category_lines))
     parts.append("\n[[Category:Gaiad calendar days]]\n")
-    parts.append("\n<!-- Generated by zodiac_wiki_pages.py.py -->\n")
+    parts.append("\n<!-- Generated by zodiac_wiki_pages.py -->\n")
     return title, "\n".join(parts)
 
 # ------------- Minimal MediaWiki client -------------
@@ -1135,15 +1126,14 @@ class Wiki:
 # ------------- Run all pages -------------
 
 def main():
-    if len(sys.argv) != 3:
-        print("Usage: python zodiac_wiki_pages.py <username> <password>")
-        sys.exit(1)
+    parser = argparse.ArgumentParser(description='Generate Gaian calendar wiki pages')
+    parser.add_argument('--username', required=True, help='Wiki username')
+    parser.add_argument('--password', required=True, help='Wiki password')
     
-    username = sys.argv[1]
-    password = sys.argv[2]
+    args = parser.parse_args()
     
     wiki = Wiki(API_URL)
-    wiki.login_bot(username, password)
+    wiki.login_bot(args.username, args.password)
 
     # Regular months: 13×28 = 364 days
     targets = [(m_idx, d) for m_idx in range(1, 14) for d in range(1, 29)]
