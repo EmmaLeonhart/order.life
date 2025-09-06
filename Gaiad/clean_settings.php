@@ -1,1 +1,0 @@
-$wgWBRepoSettings["allowEntityImport"] = true;
