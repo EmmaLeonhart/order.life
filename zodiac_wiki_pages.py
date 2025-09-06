@@ -165,38 +165,30 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
             reader = csv.DictReader(f)
             for row in reader:
                 if int(row['GaianYear']) == year:
-                    # Parse "December 30, 9998 BC" format
-                    start_date_str = row['StartDate']
-                    # Handle comma in BC date
-                    parts = start_date_str.split(', ')
-                    if len(parts) >= 2:
-                        month_day = parts[0]  # "December 30"
-                        year_part = parts[1]  # "9998 BC"
+                    start_date_str = row['StartDate']  # Just "December 29" 
+                    
+                    try:
+                        month_name, day_str = start_date_str.split(' ')
+                        day_num = int(day_str)
                         
-                        # Parse the date
-                        try:
-                            # For BC dates, we need to approximate since exact BC calculation is complex
-                            month_name, day_str = month_day.split(' ')
-                            day_num = int(day_str)
-                            bc_year_num = int(year_part.split(' ')[0])
-                            
-                            # Create approximate start date (use positive year as approximation)
-                            month_map = {
-                                'January': 1, 'February': 2, 'March': 3, 'April': 4,
-                                'May': 5, 'June': 6, 'July': 7, 'August': 8,
-                                'September': 9, 'October': 10, 'November': 11, 'December': 12
-                            }
-                            
-                            # Use modern year for date calculation, we'll just show the formatted BC dates
-                            gaian_year_start = date(2000, month_map[month_name], day_num)
-                            break
-                        except (ValueError, KeyError):
-                            pass
+                        month_map = {
+                            'January': 1, 'February': 2, 'March': 3, 'April': 4,
+                            'May': 5, 'June': 6, 'July': 7, 'August': 8,
+                            'September': 9, 'October': 10, 'November': 11, 'December': 12
+                        }
+                        
+                        gaian_year_start = date(2000, month_map[month_name], day_num)
+                        break
+                    except (ValueError, KeyError):
+                        pass
                     break
     
     if gaian_year_start is None:
-        # Fallback if CSV not found
         gaian_year_start = date(2000, 12, 30)
+    
+    # Calculate main year for purple highlighting (where Sagittarius 4 falls)
+    sagittarius_4_date = gaian_year_start + timedelta(days=3)  # Sagittarius 4 = day 3 (0-based)
+    main_year = sagittarius_4_date.year
     
     # Build the table with 14 columns (2 weeks) - IDENTICAL TO AD YEARS
     lines.append('{| class="wikitable" style="table-layout:fixed; width:100%; font-size:90%;"')
@@ -221,16 +213,29 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
         # First week row (days 1-7 and 8-14) - IDENTICAL FORMAT
         day_row_1 = f'! rowspan="4" | [[{month_name}]]'
         for day in range(1, 15):  # Days 1-14
-            # Check if Sunday (days 7, 14)
-            is_sunday = (day % 7 == 0)
+            day_of_year = (m_idx - 1) * 28 + (day - 1)
             
-            # Build cell styles - IDENTICAL LOGIC
-            if is_sunday:
-                day_style = ' style="background:#ffd700;"'
-            else:
-                day_style = ""
-            
-            day_row_1 += f' ||{day_style} | [[{month_name} {day}|{day}]]'
+            try:
+                gregorian_date = gaian_year_start + timedelta(days=day_of_year)
+                
+                # Check if Sunday (days 7, 14)
+                is_sunday = (day % 7 == 0)
+                
+                # Check if this date is in adjacent year (for purple background)
+                is_adjacent_year = (gregorian_date.year != main_year)
+                
+                # Build cell styles - same priority as AD function
+                if is_adjacent_year:
+                    day_style = ' style="background:#E6E6FA;"'
+                elif is_sunday:
+                    day_style = ' style="background:#ffd700;"'
+                else:
+                    day_style = ""
+                
+                day_row_1 += f' ||{day_style} | [[{month_name} {day}|{day}]]'
+                
+            except (ValueError, OverflowError):
+                day_row_1 += ' || —'
         
         # First week date row with actual BC dates
         date_row_1 = ''
@@ -243,8 +248,13 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
                 # Check if Sunday (days 7, 14)
                 is_sunday = (day % 7 == 0)
                 
-                # Build cell styles
-                if is_sunday:
+                # Check if this date is in adjacent year (for purple background)
+                is_adjacent_year = (gregorian_date.year != main_year)
+                
+                # Build cell styles - same priority as AD function
+                if is_adjacent_year:
+                    date_style = ' style="background:#E6E6FA;"'
+                elif is_sunday:
                     date_style = ' style="background:#ffd700;"'
                 else:
                     date_style = ""
@@ -259,15 +269,29 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
         # Second week row (days 15-21 and 22-28) - IDENTICAL FORMAT
         day_row_2 = ''
         for day in range(15, 29):  # Days 15-28
-            # Check if Sunday (days 21, 28)
-            is_sunday = (day % 7 == 0)
+            day_of_year = (m_idx - 1) * 28 + (day - 1)
             
-            if is_sunday:
-                day_style = ' style="background:#ffd700;"'
-            else:
-                day_style = ""
-            
-            day_row_2 += f' ||{day_style} | [[{month_name} {day}|{day}]]'
+            try:
+                gregorian_date = gaian_year_start + timedelta(days=day_of_year)
+                
+                # Check if Sunday (days 21, 28)
+                is_sunday = (day % 7 == 0)
+                
+                # Check if this date is in adjacent year (for purple background)
+                is_adjacent_year = (gregorian_date.year != main_year)
+                
+                # Build cell styles - same priority as AD function
+                if is_adjacent_year:
+                    day_style = ' style="background:#E6E6FA;"'
+                elif is_sunday:
+                    day_style = ' style="background:#ffd700;"'
+                else:
+                    day_style = ""
+                
+                day_row_2 += f' ||{day_style} | [[{month_name} {day}|{day}]]'
+                
+            except (ValueError, OverflowError):
+                day_row_2 += ' || —'
         
         # Second week date row with actual BC dates
         date_row_2 = ''
@@ -280,8 +304,13 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
                 # Check if Sunday (days 21, 28)
                 is_sunday = (day % 7 == 0)
                 
-                # Build cell styles
-                if is_sunday:
+                # Check if this date is in adjacent year (for purple background)
+                is_adjacent_year = (gregorian_date.year != main_year)
+                
+                # Build cell styles - same priority as AD function
+                if is_adjacent_year:
+                    date_style = ' style="background:#E6E6FA;"'
+                elif is_sunday:
                     date_style = ' style="background:#ffd700;"'
                 else:
                     date_style = ""
