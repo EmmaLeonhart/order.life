@@ -173,17 +173,21 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
                         month_day = parts[0]  # "December 30"
                         year_part = parts[1]  # "9998 BC"
                         
+                        # Parse the date
                         try:
+                            # For BC dates, we need to approximate since exact BC calculation is complex
                             month_name, day_str = month_day.split(' ')
                             day_num = int(day_str)
                             bc_year_num = int(year_part.split(' ')[0])
                             
+                            # Create approximate start date (use positive year as approximation)
                             month_map = {
                                 'January': 1, 'February': 2, 'March': 3, 'April': 4,
                                 'May': 5, 'June': 6, 'July': 7, 'August': 8,
                                 'September': 9, 'October': 10, 'November': 11, 'December': 12
                             }
                             
+                            # Use modern year for date calculation, we'll just show the formatted BC dates
                             gaian_year_start = date(2000, month_map[month_name], day_num)
                             break
                         except (ValueError, KeyError):
