@@ -159,26 +159,45 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
     # Get the start date from CSV data
     csv_path = os.path.join('GaianDateRangeGenerator', 'gaian_minimal.csv')
     gaian_year_start = None
+    is_leap_year = False
+    days_in_year = 364
     
     if os.path.exists(csv_path):
         with open(csv_path, 'r') as f:
             reader = csv.DictReader(f)
             for row in reader:
                 if int(row['GaianYear']) == year:
-                    start_date_str = row['StartDate']  # Just "December 29" 
+                    # CSV parsing is shifted due to comma in StartDate
+                    start_date_str = row['StartDate'] + ',' + row['GregorianLeapYear']  # "December 29, 9997 BC"
+                    
+                    # Get leap year status and days from shifted CSV columns
+                    try:
+                        is_leap_year = row.get('DaysInYear', 'False').lower() == 'true'  # Actually GaianLeapYear
+                        none_data = row.get(None, [])
+                        if isinstance(none_data, list) and none_data:
+                            days_in_year = int(none_data[0])
+                        else:
+                            days_in_year = int(str(none_data).strip("[]'"))
+                    except (ValueError, TypeError):
+                        is_leap_year = False
+                        days_in_year = 364
                     
                     try:
-                        month_name, day_str = start_date_str.split(' ')
-                        day_num = int(day_str)
-                        
-                        month_map = {
-                            'January': 1, 'February': 2, 'March': 3, 'April': 4,
-                            'May': 5, 'June': 6, 'July': 7, 'August': 8,
-                            'September': 9, 'October': 10, 'November': 11, 'December': 12
-                        }
-                        
-                        gaian_year_start = date(2000, month_map[month_name], day_num)
-                        break
+                        # Parse "December 29, 9997 BC" format
+                        parts = start_date_str.split(', ')
+                        if len(parts) >= 2:
+                            month_day = parts[0]  # "December 29"
+                            month_name, day_str = month_day.split(' ')
+                            day_num = int(day_str)
+                            
+                            month_map = {
+                                'January': 1, 'February': 2, 'March': 3, 'April': 4,
+                                'May': 5, 'June': 6, 'July': 7, 'August': 8,
+                                'September': 9, 'October': 10, 'November': 11, 'December': 12
+                            }
+                            
+                            gaian_year_start = date(2000, month_map[month_name], day_num)
+                            break
                     except (ValueError, KeyError):
                         pass
                     break
@@ -189,6 +208,9 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
     # Calculate main year for purple highlighting (where Sagittarius 4 falls)
     sagittarius_4_date = gaian_year_start + timedelta(days=3)  # Sagittarius 4 = day 3 (0-based)
     main_year = sagittarius_4_date.year
+    
+    # Set intercalary flag for leap years
+    has_intercalary = is_leap_year
     
     # Build the table with 14 columns (2 weeks) - IDENTICAL TO AD YEARS
     lines.append('{| class="wikitable" style="table-layout:fixed; width:100%; font-size:90%;"')
@@ -341,17 +363,36 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
         
         # Only 7 days for Horus, fill remaining 7 cells with empty
         for day in range(1, 8):  # Days 1-7
-            is_sunday = (day == 7)  # Only day 7 is Sunday
+            day_of_year = 364 + (day - 1)  # Horus starts after regular 364 days
             
-            if is_sunday:
-                day_style = ' style="background:#ffd700;"'
-                date_style = ' style="background:#ffd700;"'
-            else:
-                day_style = ""
-                date_style = ""
-            
-            horus_day_row += f' ||{day_style} | [[Horus {day}|{day}]]'
-            horus_date_row += f' ||{date_style} | <small>BC</small>'
+            try:
+                gregorian_date = gaian_year_start + timedelta(days=day_of_year)
+                
+                is_sunday = (day == 7)  # Only day 7 is Sunday
+                
+                # Check if this date is in adjacent year (for purple background)
+                is_adjacent_year = (gregorian_date.year != main_year)
+                
+                # Build cell styles - same priority as AD function
+                if is_adjacent_year:
+                    day_style = ' style="background:#E6E6FA;"'
+                    date_style = ' style="background:#E6E6FA;"'
+                elif is_sunday:
+                    day_style = ' style="background:#ffd700;"'
+                    date_style = ' style="background:#ffd700;"'
+                else:
+                    day_style = ""
+                    date_style = ""
+                
+                horus_day_row += f' ||{day_style} | [[Horus {day}|{day}]]'
+                
+                # Show actual BC dates
+                bc_date_str = f"[[:en:{gregorian_date.strftime('%B')} {gregorian_date.day}|{gregorian_date.strftime('%b')} {gregorian_date.day}]] BC"
+                horus_date_row += f' ||{date_style} | {bc_date_str}'
+                
+            except (ValueError, OverflowError):
+                horus_day_row += f' || [[Horus {day}|{day}]]'
+                horus_date_row += ' || BC'
         
         # Fill remaining 7 cells with empty cells
         for i in range(7):
@@ -2181,15 +2222,27 @@ def build_year_page(year: int, wiki: 'Wiki' = None) -> (str, str):
     # Convert to ISO year (subtract 10,000)
     iso_year = year - 10000
     
-    # Check if this is a leap year (has 53 weeks)
+    # Check if this is a leap year - use CSV data for BC years
     has_intercalary = False
-    try:
-        from datetime import date
-        # Try to create week 53, day 1
-        date.fromisocalendar(iso_year, 53, 1)
-        has_intercalary = True
-    except ValueError:
-        has_intercalary = False
+    if iso_year <= 0:  # BC year
+        # Use CSV data like the BC table function does
+        csv_path = os.path.join('GaianDateRangeGenerator', 'gaian_minimal.csv')
+        if os.path.exists(csv_path):
+            with open(csv_path, 'r') as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    if int(row['GaianYear']) == year:
+                        # CSV parsing is shifted due to comma in StartDate
+                        has_intercalary = row.get('DaysInYear', 'False').lower() == 'true'  # Actually GaianLeapYear
+                        break
+    else:  # AD year
+        try:
+            from datetime import date
+            # Try to create week 53, day 1
+            date.fromisocalendar(iso_year, 53, 1)
+            has_intercalary = True
+        except ValueError:
+            has_intercalary = False
     
     total_days = 371 if has_intercalary else 364
     
