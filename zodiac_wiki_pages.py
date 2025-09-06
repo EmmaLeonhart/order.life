@@ -116,7 +116,7 @@ def format_bc_date_for_display(date_obj) -> str:
         year = date_obj['bc_year']
         month = date_obj['month']
         day = date_obj['day']
-        return f"{year:04d}-{month:02d}-{day:02d} BC"
+        return f"{year:04d}-{month:02d}-{day:02d}"
     else:
         return date_obj.isoformat() if hasattr(date_obj, 'isoformat') else str(date_obj)
 
@@ -152,7 +152,7 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
     # Parse basic info and get BC start date from CSV
     iso_year = year - 10000
     bc_year = abs(iso_year - 1)
-    year_label = f"{bc_year} BC"
+    year_label = f"{bc_year}"
     
     lines = [f"== {year_label} Calendar =="]
     
@@ -278,7 +278,7 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
                     date_style = ""
                 
                 # Show actual BC dates in same format as AD but with BC year
-                bc_date_str = f"[[:en:{gregorian_date.strftime('%B')} {gregorian_date.day}|{gregorian_date.strftime('%b')} {gregorian_date.day}]] BC"
+                bc_date_str = f"[[:en:{gregorian_date.strftime('%B')} {gregorian_date.day}|{gregorian_date.strftime('%b')} {gregorian_date.day}]]"
                 date_row_1 += f' ||{date_style} | {bc_date_str}'
                 
             except (ValueError, OverflowError):
@@ -334,7 +334,7 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
                     date_style = ""
                 
                 # Show actual BC dates in same format as AD but with BC year
-                bc_date_str = f"[[:en:{gregorian_date.strftime('%B')} {gregorian_date.day}|{gregorian_date.strftime('%b')} {gregorian_date.day}]] BC"
+                bc_date_str = f"[[:en:{gregorian_date.strftime('%B')} {gregorian_date.day}|{gregorian_date.strftime('%b')} {gregorian_date.day}]]"
                 date_row_2 += f' ||{date_style} | {bc_date_str}'
                 
             except (ValueError, OverflowError):
@@ -383,7 +383,7 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
                 horus_day_row += f' ||{day_style} | [[Horus {day}|{day}]]'
                 
                 # Show actual BC dates
-                bc_date_str = f"[[:en:{gregorian_date.strftime('%B')} {gregorian_date.day}|{gregorian_date.strftime('%b')} {gregorian_date.day}]] BC"
+                bc_date_str = f"[[:en:{gregorian_date.strftime('%B')} {gregorian_date.day}|{gregorian_date.strftime('%b')} {gregorian_date.day}]]"
                 horus_date_row += f' ||{date_style} | {bc_date_str}'
                 
             except (ValueError, OverflowError):
