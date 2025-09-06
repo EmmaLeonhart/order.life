@@ -6,8 +6,8 @@ sys.path.append('.')
 
 from zodiac_wiki_pages import build_year_page
 
-# Test with year 3 (BC common year)
-title, content = build_year_page(3)
+# Test with year 10 (leap year from CSV)
+title, content = build_year_page(10)
 
 print(f"TITLE: {title}")
 print("\nCONTENT:")

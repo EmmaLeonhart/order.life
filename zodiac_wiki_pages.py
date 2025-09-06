@@ -167,17 +167,13 @@ def build_bc_gregorian_correspondence_table(year: int) -> str:
             reader = csv.DictReader(f)
             for row in reader:
                 if int(row['GaianYear']) == year:
-                    # CSV parsing is shifted due to comma in StartDate
-                    start_date_str = row['StartDate'] + ',' + row['GregorianLeapYear']  # "December 29, 9997 BC"
+                    # CSV format is now correct - no more parsing issues
+                    start_date_str = row['StartDate']  # "December 29, 9997 BC"
                     
-                    # Get leap year status and days from shifted CSV columns
+                    # Get leap year status and days from correct CSV columns
                     try:
-                        is_leap_year = row.get('DaysInYear', 'False').lower() == 'true'  # Actually GaianLeapYear
-                        none_data = row.get(None, [])
-                        if isinstance(none_data, list) and none_data:
-                            days_in_year = int(none_data[0])
-                        else:
-                            days_in_year = int(str(none_data).strip("[]'"))
+                        is_leap_year = row.get('GaianLeapYear', 'False').lower() == 'true'
+                        days_in_year = int(row.get('DaysInYear', 364))
                     except (ValueError, TypeError):
                         is_leap_year = False
                         days_in_year = 364
@@ -2232,8 +2228,8 @@ def build_year_page(year: int, wiki: 'Wiki' = None) -> (str, str):
                 reader = csv.DictReader(f)
                 for row in reader:
                     if int(row['GaianYear']) == year:
-                        # CSV parsing is shifted due to comma in StartDate
-                        has_intercalary = row.get('DaysInYear', 'False').lower() == 'true'  # Actually GaianLeapYear
+                        # CSV format is now correct
+                        has_intercalary = row.get('GaianLeapYear', 'False').lower() == 'true'
                         break
     else:  # AD year
         try:
