@@ -102,8 +102,8 @@ def parse_bc_date_string(date_str: str) -> date:
         return date(year, month, day)
 
 def is_bc_year(gaian_year: int) -> bool:
-    """Check if this is a BC year (Gaian year < 10000)."""
-    return gaian_year < 10000
+    """Check if this is a BC year (Gaian year <= 10000, including 10000 GE which is ISO year 0/1 BC)."""
+    return gaian_year <= 10000
 
 def get_bc_year_info(gaian_year: int) -> Dict:
     """Get BC year information from CSV data."""
@@ -1770,7 +1770,7 @@ def build_holiday_dates_for_year(year: int) -> str:
     iso_year = year - 10000
     
     # For BC years, use a different approach
-    if year < 10000:
+    if year <= 10000:  # Changed from < to <= to include 10000 GE (ISO year 0)
         return build_bc_holiday_dates_for_year(year)
     
     # Check if dates can be calculated for this year
@@ -1997,6 +1997,10 @@ def build_gregorian_correspondence_table(year: int) -> str:
     
     # For AD years, use direct calculation
     iso_year = year - 10000
+    
+    # Special handling for ISO year 0 (which doesn't exist - it's 1 BC)
+    if iso_year <= 0:
+        return build_bc_gregorian_correspondence_table(year)
     
     # Check if dates can be calculated for this year
     try:
