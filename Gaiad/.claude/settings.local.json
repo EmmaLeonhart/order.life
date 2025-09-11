@@ -1,22 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(rm:*)",
-      "Bash(git add:*)",
-      "Bash(for i in {1..9})",
-      "Bash(do mv chapter_0$i.md chapter_00$i.md)",
-      "Bash(done)",
-      "Bash(for i in {10..99})",
-      "Bash(do if [ -f \"chapter_$i.md\" ])",
-      "Bash(then mv chapter_$i.md chapter_0$i.md)",
-      "Bash(fi)",
-      "Bash(grep:*)",
-      "Bash(for i in {002..011} {013..020} {027..034} {045..057} {059..083})",
-      "Bash([ ! -f \"notes/chapter_$i_notes.md\" ])",
-      "Bash(then echo $i)",
-      "Bash(for file in *.csv)",
-      "Bash(do echo \"=== $file ===\")",
-      "Bash(head:*)"
+      "Bash(cat:*)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": [],
