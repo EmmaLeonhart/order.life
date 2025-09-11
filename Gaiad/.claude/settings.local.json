@@ -13,7 +13,10 @@
       "Bash(grep:*)",
       "Bash(for i in {002..011} {013..020} {027..034} {045..057} {059..083})",
       "Bash([ ! -f \"notes/chapter_$i_notes.md\" ])",
-      "Bash(then echo $i)"
+      "Bash(then echo $i)",
+      "Bash(for file in *.csv)",
+      "Bash(do echo \"=== $file ===\")",
+      "Bash(head:*)"
     ],
     "deny": [],
     "ask": [],
