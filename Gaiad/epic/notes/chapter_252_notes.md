@@ -1,22 +1,46 @@
-# Chapter 252 Notes: [TITLE] (Leo 28)
+# Chapter 252 Notes: Indian Removal & Book of Mormon (Leo 28)
 
 ## Main Themes
-- [TO BE FILLED]
+- Trail of Tears begins
+- Joseph Smith publishes Book of Mormon
+- Ironic timing of "misread" Indigenous record
+- End of Indigenous independence in eastern America
 
 ## Key Events
-- [TO BE FILLED]
+- Indian Removal Act signed (1830)
+- Cherokee, Choctaw, and other tribes forced westward
+- Joseph Smith publishes Book of Mormon (March 1830)
+- Beginning of systematic removal policy
+- End of tribal sovereignty in Southeast
 
 ## Character Elements
-- [TO BE FILLED]
+- Cherokee leaders like John Ross fighting removal
+- Families torn from ancestral lands
+- Joseph Smith and early Mormon community
+- Government officials implementing removal
+- Tribes resisting and adapting to displacement
 
 ## Book of Mormon Parallels
-- [TO BE FILLED]
+- Plates sealed/unsealed irony
+- Misreading of actual Aztec/Iroquois histories
+- Lamanite prophecies while real Indigenous peoples removed
+- Book published as Indigenous nations destroyed
 
 ## Historical Context
-- [TO BE FILLED]
+- 1830 - pivotal year
+- Andrew Jackson's Indian policy
+- Cherokee Nation legal battles
+- Beginning of westward tribal relocations
+- Mormon church establishment
 
 ## Narrative Arc
-- [TO BE FILLED]
+- Culmination of Indigenous displacement
+- Bitter irony of timing
+- End of "Book of Lehi" era
+- Transition from independence to exile
+- Real Indigenous voices silenced as fictional ones "revealed"
 
 ## Notes from Timeline
-- [TO BE FILLED]
+- Indian Removal & Book of Mormon (1830)
+- Trail of Tears begins; Joseph Smith publishes misread Aztec/Iroquois record
+- Plates sealed/unsealed irony
