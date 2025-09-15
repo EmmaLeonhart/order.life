@@ -1,41 +1,43 @@
-# Chapter 225 Notes: Bering Bridge Crossing (Leo 1)
+# Chapter 225 Notes: First Migration (Leo 1)
 
 ## Main Themes
-- First peopling of the Americas during Ice Age
-- Beringia land bridge crossing
-- Early hunter-gatherer societies
+- First peopling of the Americas via sea routes
+- Coastal migration during Ice Age
+- Early maritime peoples and navigation
 - Beginning of American Indigenous history
 
 ## Key Events
-- Ice Age conditions creating land bridge
-- Migration of peoples from Siberia to Alaska
-- Spread into North and South America
-- Establishment of first settlements
+- Sea-based migration from Asia to Americas (16,000–12,000 BCE)
+- Coastal route along Pacific rim
+- Island-hopping and maritime navigation
+- Spread into North and South America via coastal routes
+- Establishment of first coastal settlements
 
 ## Character Elements
-- First migrants as pioneers and ancestors
-- Connection to cosmic themes through human expansion
-- Aster's yarn strings reaching new continents through human migration
+- First maritime migrants as seafaring pioneers
+- Navigation specialists and boat builders
+- Coastal adaptation specialists
+- Connection to cosmic themes through oceanic journey
 
 ## Book of Mormon Parallels
-- Beginning of Lehi's journey parallel
-- First migration narrative
-- Establishment in new promised land
+- Lehi's ocean crossing parallel
+- Trans-oceanic journey to promised land
+- Navigation by divine guidance
+- Arrival in new world by sea
 
 ## Historical Context
-- ~15,000-30,000 years ago
-- Pleistocene epoch
-- Clovis culture development
-- Coastal vs inland migration routes
+- 16,000–12,000 years ago
+- Pleistocene epoch with lower sea levels
+- Pacific coastal migration route
+- Pre-dates Beringia land bridge migration
 
 ## Narrative Arc
 - Opening of the "Book of Lehi"
-- Setting stage for all subsequent American history
-- Connection between Old World and New World
+- First trans-oceanic journey to Americas
+- Sets oceanic/maritime theme
 - Beginning of separate Indigenous development
 
-## Notes from ChatGPT Conversation
-- This represents the "Lehi's Exodus" equivalent
-- First of multiple migration waves
-- Establishes the peopling narrative foundation
-- Connects to broader epic's migration themes
+## Notes from Timeline
+- Explicitly sea migration, not land bridge
+- Paleo-Indians cross into the Americas by sea
+- Lehi's ocean crossing parallel
