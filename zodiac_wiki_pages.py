@@ -538,6 +538,38 @@ HEBREW_EVENTS = [
     {"name": "Tisha B'Av", "type": "hebrew", "month": "Av", "day": 9, "rule": "postpone_if_shabbat"}
 ]
 
+# Indian/Hindu festivals using historical Gregorian dates
+INDIAN_EVENTS = [
+    {"name": "Diwali", "type": "historical_lookup", "dates": {
+        2000: (10, 26), 2001: (11, 14), 2002: (11, 4), 2003: (10, 25), 2004: (11, 11),
+        2005: (11, 1), 2006: (10, 21), 2007: (11, 9), 2008: (10, 28), 2009: (10, 17),
+        2010: (11, 5), 2011: (10, 26), 2012: (11, 13), 2013: (11, 3), 2014: (10, 23),
+        2015: (11, 11), 2016: (10, 30), 2017: (10, 19), 2018: (11, 7), 2019: (10, 27),
+        2020: (11, 14), 2021: (11, 4), 2022: (10, 24), 2023: (11, 12), 2024: (11, 1),
+        2025: (10, 20), 2026: (11, 8), 2027: (10, 29), 2028: (10, 17), 2029: (11, 5),
+        2030: (10, 26)
+    }},
+    {"name": "Holi", "type": "historical_lookup", "dates": {
+        2000: (3, 20), 2001: (3, 10), 2002: (3, 29), 2003: (3, 18), 2004: (3, 7),
+        2005: (3, 25), 2006: (3, 15), 2007: (3, 4), 2008: (3, 22), 2009: (3, 11),
+        2010: (3, 1), 2011: (3, 19), 2012: (3, 8), 2013: (3, 27), 2014: (3, 17),
+        2015: (3, 6), 2016: (3, 24), 2017: (3, 13), 2018: (3, 2), 2019: (3, 21),
+        2020: (3, 10), 2021: (3, 29), 2022: (3, 18), 2023: (3, 8), 2024: (3, 25),
+        2025: (3, 14), 2026: (3, 3), 2027: (3, 22), 2028: (3, 11), 2029: (2, 28),
+        2030: (3, 18)
+    }},
+    {"name": "Karva Chauth", "type": "historical_lookup", "dates": {
+        2020: (11, 4), 2021: (10, 24), 2022: (10, 13), 2023: (11, 1), 2024: (10, 20),
+        2025: (10, 9), 2026: (10, 29), 2027: (10, 18), 2028: (10, 6), 2029: (10, 26),
+        2030: (10, 15)
+    }},
+    {"name": "Dussehra/Vijayadashami", "type": "historical_lookup", "dates": {
+        2020: (10, 25), 2021: (10, 15), 2022: (10, 5), 2023: (10, 24), 2024: (10, 12),
+        2025: (10, 2), 2026: (10, 21), 2027: (10, 11), 2028: (9, 30), 2029: (10, 19),
+        2030: (10, 8)
+    }}
+]
+
 # Hebrew month indices expected by convertdate (ECCLESIASTICAL numbering: Nisan=1… Adar=12/13)
 HEBREW_MONTH_INDEX = {
     "nisan": 1, "iyyar": 2, "iyar": 2, "sivan": 3, "tammuz": 4, "av": 5, "elul": 6,
@@ -646,6 +678,18 @@ def chinese_event_matches_gregorian(g: date, ev: dict) -> bool | None:
     elif ev["type"] == "solar_term":
         # Requires astro calc (sun ecliptic longitude). Left unimplemented to avoid heavy deps.
         return None
+    return None
+
+
+def indian_event_matches_gregorian(g: date, ev: dict) -> bool | None:
+    """Return True if matches, False if not, None if event type not supported."""
+    if ev["type"] == "historical_lookup":
+        dates_dict = ev.get("dates", {})
+        lookup_date = dates_dict.get(g.year)
+        if lookup_date is None:
+            return None  # No data for this year
+        month, day = lookup_date
+        return g.month == month and g.day == day
     return None
 
 
@@ -825,6 +869,59 @@ def hebrew_event_matches_gregorian(g: date, ev: dict) -> bool:
         if observed.weekday() == 5:  # Sat=5 in Python (Mon=0)
             observed = observed + timedelta(days=1)
     return g == observed
+
+def indian_overlap_table(m_idx: int, d_m: int,
+                        start_iso_year: int = LONGRUN_START, end_iso_year: int = LONGRUN_END) -> str:
+    """
+    Returns a wikitable showing how often this zodiac day overlaps with each Indian holiday.
+    """
+    total = end_iso_year - start_iso_year + 1
+    rows = []
+    for ev in INDIAN_EVENTS:
+        matches = 0
+        for y in range(start_iso_year, end_iso_year + 1):
+            try:
+                # Check all valid days in the year for this event
+                for month in range(1, 13):
+                    # Get days in this month
+                    if month in [1, 3, 5, 7, 8, 10, 12]:
+                        days_in_month = 31
+                    elif month in [4, 6, 9, 11]:
+                        days_in_month = 30
+                    elif month == 2:
+                        # Check for leap year
+                        if (y % 4 == 0 and y % 100 != 0) or (y % 400 == 0):
+                            days_in_month = 29
+                        else:
+                            days_in_month = 28
+
+                    for day in range(1, days_in_month + 1):
+                        try:
+                            test_date = date(y, month, day)
+                            if indian_event_matches_gregorian(test_date, ev):
+                                g_m, g_d, _ = gregorian_to_gaian_date(test_date)
+                                if g_m == m_idx and g_d == d_m:
+                                    matches += 1
+                                    break
+                        except (ValueError, AttributeError):
+                            continue
+            except Exception:
+                continue
+
+        probability = matches / total if total > 0 else 0
+        rows.append((ev["name"], matches, f"{100 * probability:.2f}%"))
+
+    if not rows:
+        return "<!-- Indian overlap table: no data -->"
+
+    lines = [f"== Indian festival overlaps ({start_iso_year}–{end_iso_year}) ==",
+             '{| class="wikitable sortable"',
+             '! Indian festival !! Count !! Probability']
+
+    for name, count, prob in sorted(rows, key=lambda x: x[1], reverse=True):
+        lines.append(f"|- \n| {name} || {count} || {prob}")
+
+    return "\n".join(lines) + "\n|}"
 
 def hebrew_overlap_table(m_idx: int, d_m: int,
                          start_iso_year: int = LONGRUN_START, end_iso_year: int = LONGRUN_END) -> str:
@@ -1487,6 +1584,9 @@ def build_page(m_idx: int, d_m: int, wiki: 'Wiki' = None) -> (str, str):
     parts.append(f"\n=== Hebrew date distribution ({LONGRUN_START}–{LONGRUN_END}) ===")
     parts.append(hebrew_distribution_block(m_idx, d_m, LONGRUN_START, LONGRUN_END))
 
+    parts.append("\n=== Indian calendar overlaps ===")
+    parts.append(indian_overlap_table(m_idx, d_m, LONGRUN_START, LONGRUN_END))
+
 
 
     parts.append("\n== See also ==")
@@ -2096,7 +2196,21 @@ def build_holiday_dates_for_year(year: int) -> str:
                         continue
         except Exception:
             pass
-    
+
+    # 6. Indian holidays (using historical data)
+    try:
+        for event in INDIAN_EVENTS:
+            for test_date in [date(iso_year, m, d) for m in range(1, 13) for d in range(1, 32)]:
+                try:
+                    if indian_event_matches_gregorian(test_date, event):
+                        m_idx, d_m, month_name = gregorian_to_gaian_date(test_date)
+                        holidays.append((event["name"], f"[[{month_name} {d_m}]]", test_date, "Indian"))
+                        break
+                except (ValueError, AttributeError):
+                    continue
+    except Exception:
+        pass
+
     if not holidays:
         return f"== Holiday dates in {year} GE ==\nNo major holidays calculated for this year."
     
