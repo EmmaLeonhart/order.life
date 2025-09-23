@@ -1,45 +1,46 @@
-# PROPOSAL: Chapter 113 - "The Information Revolution"
+# PROPOSAL: Chapter 113 - "The Survivors" (Aries 1)
 
 **STATUS**: PROPOSAL DRAFT - NOT WRITTEN
-**Timeline**: Digital Age (~1970-2000 CE)
-**Location**: Global, focus on Silicon Valley, Japan, Europe
-**Context**: Personal computers, internet, globalization, digital transformation
+**Timeline**: Immediately after K-Pg extinction (~66 million years ago)
+**Location**: Global, post-extinction Earth
+**Context**: Post-apocalyptic world, survivors emerge from the ashes of the dinosaur age
+**Arc**: Pre-Human Animal Chapters - Stage I (After the K-Pg)
 
 ## Major Events
-### Computer Revolution
-- **Personal computers** Apple II, IBM PC bringing computing to masses
-- **Silicon Valley** technology cluster driving innovation
-- **Microsoft Windows** graphical interface making computers user-friendly
-- **Mobile phones** cellular networks enabling ubiquitous communication
+### K-Pg Extinction Aftermath
+- **Global devastation** Impact winter, acid rain, ecosystem collapse
+- **Mass die-offs** 75% of species extinct, food webs shattered
+- **Environmental recovery** Gradual return of sunlight, plant regrowth
+- **Ecological niches** Vacant roles waiting for new occupants
 
-### Internet Emergence
-- **ARPANET** military research network becoming civilian internet
-- **World Wide Web** Tim Berners-Lee's hypertext system
-- **Email and messaging** electronic communication revolutionizing correspondence
-- **Search engines** Google organizing world's information
+### The Survivors Emerge
+- **Crocodiles** Ancient archosaurs enduring through aquatic refugia
+- **Turtles** Shelled survivors weathering the catastrophe
+- **Birds** Feathered dinosaurs carrying the theropod legacy forward
+- **Mammals** Small, adaptable creatures inheriting the Earth
 
-### Globalization
-- **Trade liberalization** NAFTA, EU, WTO reducing barriers
-- **Multinational corporations** global supply chains and production
-- **Financial markets** 24-hour trading and capital flows
-- **Cultural exchange** global media and entertainment spread
+### Early Recovery
+- **Opportunistic expansion** Survivors exploring empty niches
+- **Rapid diversification** Adaptive radiation beginning
+- **New ecosystems** Different food webs establishing
+- **Pioneer species** First colonizers of devastated landscapes
 
-### Social Transformation
-- **Work patterns** knowledge economy and service sector growth
-- **Communication revolution** instant global connectivity
-- **Information access** democratization of knowledge through internet
-- **Digital divide** inequality in technology access
+### Evolutionary Strategies
+- **Conservative survivors** Maintaining proven ancient forms
+- **Adaptive radiators** Rapidly diversifying into new forms
+- **Generalist advantage** Flexible diets and behaviors succeeding
+- **Size constraints** Large body sizes temporarily disadvantageous
 
 ## Key Characters
-- **Bill Gates** - The Software King, Microsoft empire builder
-- **Steve Jobs** - The Innovator, Apple design and user experience pioneer
-- **Tim Berners-Lee** - The Web Creator, World Wide Web inventor
-- **Vint Cerf** - The Internet Father, TCP/IP protocol developer
+- **Archelon** - The Ancient Turtle, wisdom keeper of survival
+- **Crocodilus** - The Persistent Hunter, unchanged apex predator
+- **Aviala** - The Feathered Phoenix, dinosaur resurrection
+- **Mammalia** - The Small Inheritor, destined for greatness
 
 ## Themes
-- Technology accelerating pace of social change
-- Information becoming primary economic resource
-- Global connectivity reducing barriers and distances
-- Digital transformation reshaping human relationships
+- Survival through catastrophe and adaptation
+- Opportunity emerging from devastation
+- Ancient wisdom versus new possibilities
+- Inheritance of a transformed world
 
 ---

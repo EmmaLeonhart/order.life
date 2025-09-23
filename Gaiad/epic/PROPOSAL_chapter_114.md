@@ -1,45 +1,46 @@
-# PROPOSAL: Chapter 114 - "The Genomic Revolution"
+# PROPOSAL: Chapter 114 - "The Saga of Birds" (Aries 2)
 
 **STATUS**: PROPOSAL DRAFT - NOT WRITTEN
-**Timeline**: Genomic Age (~1990-2020 CE)
-**Location**: Global, focus on major research centers
-**Context**: Human Genome Project, genetic engineering, personalized medicine, CRISPR
+**Timeline**: Paleocene-Eocene (~66-34 million years ago)
+**Location**: Global, diverse habitats from forests to coasts
+**Context**: Avian recovery and radiation, Neoaves as the great expansion
+**Arc**: Pre-Human Animal Chapters - Stage I (After the K-Pg)
 
 ## Major Events
-### Genome Sequencing
-- **Human Genome Project** international collaboration mapping human DNA
-- **Craig Venter** private sector genome sequencing competition
-- **DNA sequencing** costs falling dramatically enabling widespread use
-- **Personal genomics** 23andMe, AncestryDNA consumer genetic testing
+### Avian Recovery
+- **Survival bottleneck** Few bird lineages surviving K-Pg extinction
+- **Rapid diversification** Explosive adaptive radiation in empty niches
+- **Size increase** Some flightless birds becoming giant (terror birds)
+- **Ecological dominance** Birds filling predator and scavenger roles
 
-### Genetic Engineering
-- **Recombinant DNA** techniques creating genetically modified organisms
-- **Gene therapy** treating diseases through genetic modification
-- **CRISPR-Cas9** precise gene editing tool revolution
-- **Genetically modified crops** increasing agricultural productivity
+### Neoaves Expansion
+- **Crown radiation** Modern bird orders diverging rapidly
+- **Passerine explosion** Songbirds becoming most diverse vertebrate group
+- **Specialized forms** Raptors, waterbirds, ground birds evolving
+- **Global distribution** Birds colonizing all continents and habitats
 
-### Medical Revolution
-- **Pharmacogenomics** drugs tailored to individual genetic profiles
-- **Cancer genomics** understanding genetic basis of malignancy
-- **Rare disease** diagnosis through genetic sequencing
-- **Preventive medicine** genetic risk assessment and intervention
+### Flight Mastery
+- **Aerodynamic refinement** Wing and feather optimization
+- **Metabolic efficiency** High-energy flight systems perfected
+- **Navigation systems** Magnetic, stellar, and landmark orientation
+- **Migratory patterns** Long-distance seasonal movements established
 
-### Ethical Debates
-- **Designer babies** genetic enhancement possibilities
-- **Privacy concerns** genetic discrimination and data protection
-- **Gene drives** potentially altering wild populations
-- **Playing God** accusations about manipulating human nature
+### Ecological Roles
+- **Seed dispersal** Birds becoming primary plant dispersal agents
+- **Pollination** Hummingbirds and honeyeaters co-evolving with flowers
+- **Pest control** Insectivorous birds regulating arthropod populations
+- **Apex predation** Large raptors dominating from above
 
 ## Key Characters
-- **James Watson** - The DNA Pioneer, double helix co-discoverer
-- **Craig Venter** - The Genome Entrepreneur, private sequencing leader
-- **Jennifer Doudna** - The CRISPR Inventor, gene editing pioneer
-- **Francis Collins** - The Project Director, Human Genome Project leader
+- **Neornithes** - The Crown Birds, modern avian ancestor
+- **Gastornis** - The Terror Bird, giant flightless predator
+- **Passera** - The Songbird, musical diversification pioneer
+- **Aquila** - The Sky Hunter, aerial predator supreme
 
 ## Themes
-- Scientific collaboration on unprecedented global scale
-- Genetic information transforming medicine and society
-- Ethical challenges of human genetic manipulation
-- Technology democratization enabling personal genomics
+- Recovery and triumph over extinction
+- Mastery of three-dimensional space
+- Diversification into countless ecological niches
+- Beauty, song, and freedom in flight
 
 ---
