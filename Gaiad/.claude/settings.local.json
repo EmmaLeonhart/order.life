@@ -11,7 +11,12 @@
       "Bash(for i in {225..252})",
       "Bash(do echo \"=== Chapter $i ===\")",
       "Bash(head:*)",
-      "Bash(awk:*)"
+      "Bash(awk:*)",
+      "Bash(for i in {330..364})",
+      "Bash(do if [ -f \"epic/notes/chapter_$i_notes.md\" ])",
+      "Bash(then echo \"=== Chapter $i ===\")",
+      "Bash(else echo \"=== Chapter $i === (no file)\")",
+      "Bash(fi)"
     ],
     "deny": [],
     "ask": [],
