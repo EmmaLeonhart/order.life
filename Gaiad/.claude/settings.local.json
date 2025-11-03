@@ -1,22 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "Bash(cat:*)",
-      "Bash(python:*)",
-      "Read(//c/Users/Immanuelle/.claude/**)",
-      "Bash(grep:*)",
-      "Bash(for i in {229,230,232,233,234,235,236,237,239,240,242,243,244,245,246,247,248,249,250,251,252})",
-      "Bash(do touch \"epic/notes/chapter_$i_notes.md\")",
-      "Bash(done)",
-      "Bash(for i in {225..252})",
-      "Bash(do echo \"=== Chapter $i ===\")",
+      "Bash(for file in chapter_0{31..062}_notes.md chapter_{063..129}_notes.md chapter_{225..252}_notes.md chapter_{329..364}_notes.md)",
+      "Bash(do:*)",
+      "Bash(echo:*)",
       "Bash(head:*)",
-      "Bash(awk:*)",
-      "Bash(for i in {330..364})",
-      "Bash(do if [ -f \"epic/notes/chapter_$i_notes.md\" ])",
-      "Bash(then echo \"=== Chapter $i ===\")",
-      "Bash(else echo \"=== Chapter $i === (no file)\")",
-      "Bash(fi)"
+      "Bash(done)"
     ],
     "deny": [],
     "ask": [],
