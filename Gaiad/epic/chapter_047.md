@@ -1,40 +1,40 @@
 This is the story told
 Of ones both new and old:
-The {{c|409|Cephalopods}} so great,
-Arcane ones whose fate
+The {{c|Cephalopods}} so great,
+{{c|Arcane}} ones whose fate
 
 Would overthrow the might
-Of {{c|410|Leviathan}}'s sight
+Of {{c|Leviathan}}'s sight
 And rule with wisdom deep
 Where ancient secrets keep.
 
-The sons of {{c|411|Cephalopus}}
+The sons of {{c|Cephalopus}}
 Would grow so glorious
-That sons of {{c|412|Scaphopus}},
+That sons of {{c|Scaphopus}},
 Not quite so prosperous,
 
 Would fade from memory
-Throughout history.
+{{c|Throughout}} history.
 Few know them at all
 Who hear the ocean's call.
 
 The degenerate sons
-Of {{c|412|Scaphopus}}, when begun
+Of {{c|Scaphopus}}, when begun
 Their lives, would never know
 The heights their cousins' show.
 
-{{c|411|Cephalopus}} begat
-{{c|413|Plectron}}, and from begat
+{{c|Cephalopus}} begat
+{{c|Plectron}}, and from begat
 Him came a noble line
 With intelligence divine.
 
-{{c|413|Plectron}} begat the son
-Called {{c|414|Ellesmer}}, begun
+{{c|Plectron}} begat the son
+Called {{c|Ellesmer}}, begun
 In wisdom's deepest lore
 From mountain peak to shore.
 
-{{c|414|Ellesmere}} went deeper
-Than any secret keeper
+{{c|Ellesmere}} went deeper
+{{c|Than}} any secret keeper
 Had gone before his time
 Down below the brine
 
@@ -43,48 +43,48 @@ From all that daylight did
 To illuminate the world
 Where surface waves are curled.
 
-{{c|414|Ellesmer}} begat two:
-{{c|415|Endos}}, tried and true,
-And {{c|416|Actinos}} the bright
+{{c|Ellesmer}} begat two:
+{{c|Endos}}, tried and true,
+And {{c|Actinos}} the bright
 Who flew to heaven's height.
 
-{{c|415|Endos}} bore many sons
+{{c|Endos}} bore many sons
 Who when their work was done
 Moved slowly through the sea
 With great dignity.
 
-Greatest among them all
+{{c|Greatest}} among them all
 Who answered wisdom's call
-Was Cameroceras Magnus,
-Known as {{c|417|Cameromagne}},
+Was {{c|Cameroceras}} {{c|Magnus}},
+{{c|Known}} as {{c|Cameromagne}},
 
 Whose name through history
-Rings with victory
-Over {{c|410|Leviathan}}'s
+{{c|Rings}} with victory
+Over {{c|Leviathan}}'s
 Great dominion's plans.
 
-{{c|417|Cameromagne}} overthrew
-The sons of {{c|410|Leviathan}}, who
+{{c|Cameromagne}} overthrew
+The sons of {{c|Leviathan}}, who
 Had ruled the seas so long
 With their imperial song.
 
-Endoceras, his son,
+{{c|Endoceras}}, his son,
 When his growth was done
 Grew nine thousand long
-Millimeters strong.
+{{c|Millimeters}} strong.
 
-Twenty cubits he
-Measured, front to back, free
+{{c|Twenty}} cubits he
+{{c|Measured}}, front to back, free
 From end to end complete—
 No foe could compete.
 
-He dwarfed {{c|410|Leviathan}}
-Fourfold, and began
+He dwarfed {{c|Leviathan}}
+{{c|Fourfold}}, and began
 A new age in the sea
 Of cephalopod decree.
 
-{{c|416|Actinos}}, by his air
-Heavenly and fair
+{{c|Actinos}}, by his air
+{{c|Heavenly}} and fair
 Within his shell contained,
 Had power that sustained
 
@@ -93,12 +93,12 @@ Up to the starry skies
 And down to earth descend
 As suited his end.
 
-{{c|416|Actinos}} begat two:
-{{c|418|Orthosceros}} so true
-And {{c|419|Tarphy}}, young and wild,
-Evolution's favored child.
+{{c|Actinos}} begat two:
+{{c|Orthosceros}} so true
+And {{c|Tarphy}}, young and wild,
+{{c|Evolution}}'s favored child.
 
-{{c|419|Tarphy}} lived so fast
+{{c|Tarphy}} lived so fast
 In youth, while time would last
 He coiled his shell around
 A hundred times, and found
@@ -114,9 +114,9 @@ Upon the earth below
 Where wisdom's waters flow.
 
 In his old age he bore
-Countless children more
+{{c|Countless}} children more
 Who did the very same:
-Youth's glory and fame
+{{c|Youth}}'s glory and fame
 
 In bounty of the heights
 Where heaven's glory lights
@@ -128,53 +128,53 @@ Where all struggles cease
 And wisdom finds its home
 Where wise ones always roam.
 
-{{c|419|Tarphy}} begat two sons:
-Oncos when day begun
-And Barrandeos strong
+{{c|Tarphy}} begat two sons:
+{{c|Oncos}} when day begun
+And {{c|Barrandeos}} strong
 Who lived his whole life long.
 
-Oncos lived a life
+{{c|Oncos}} lived a life
 Without much joy or strife—
-Coiled but simple, he
+{{c|Coiled}} but simple, he
 Lived quite peacefully.
 
-Oncos bore many sons,
+{{c|Oncos}} bore many sons,
 Among them when begun
-Their lives was Rutos, who
+Their lives was {{c|Rutos}}, who
 Would see great wonders through.
 
-Rutos bore a son
-Named {{c|420|Nautilus}}, begun
+{{c|Rutos}} bore a son
+{{c|Named}} {{c|Nautilus}}, begun
 In wisdom of the deep
 That ancestors would keep.
 
-The sons of {{c|420|Nautilus}}
+The sons of {{c|Nautilus}}
 Live on, so glorious,
-Today just as they were
+{{c|Today}} just as they were
 When time was but a blur
 
-In days of Rutos old
-And {{c|417|Cameromagne}} bold
+In days of {{c|Rutos}} old
+And {{c|Cameromagne}} bold
 Who conquered all the seas
 With their strategies.
 
-{{c|418|Orthosceros}} begat
+{{c|Orthosceros}} begat
 Two sons: first he begat
-Ascos, who would know
+{{c|Ascos}}, who would know
 How graciousness could grow,
 
-And Bacchus, small but who
+And {{c|Bacchus}}, small but who
 Would make his vision true
 Through numbers vast and wide
 That could not be denied.
 
-Ascos lived his youth
+{{c|Ascos}} lived his youth
 With shell that spoke no truth
 Of grace—clumsy and slow,
-Unable to bestow
+{{c|Unable}} to bestow
 
 Upon his movements any
-Grace—not one of many
+{{c|Grace}}—not one of many
 Who swam with elegance
 In ocean's great expanse.
 
@@ -189,7 +189,7 @@ Above all others bright
 In beauty and in sight.
 
 His sons continued this
-Tradition of the bliss
+{{c|Tradition}} of the bliss
 That comes from sacrifice
 Of shell for something nice:
 
@@ -208,17 +208,17 @@ And each one finally thrives
 In grace beyond compare
 That fills the water fair.
 
-But Bacchus was so small
+But {{c|Bacchus}} was so small
 And seemed to one and all
-Insignificant and weak,
+{{c|Insignificant}} and weak,
 With nothing much to seek.
 
 But he bore children who
 Would make his vision true:
 A million sons and daughters
-Filled up the salty waters.
+{{c|Filled}} up the salty waters.
 
-Soon the world was full
+{{c|Soon}} the world was full
 Of his progeny's pull
 On every living space
 In ocean's vast embrace.
@@ -231,7 +231,7 @@ That never seemed to cease.
 From small beginnings came
 A multitude of fame
 That filled the world entire
-With Bacchus' desire
+With {{c|Bacchus}}' desire
 
 To populate the sea
 With his progeny
@@ -244,13 +244,13 @@ From deep intelligence
 To rule with providence
 
 Over the ancient sea
-Where Leviathan's decree
-Once held the power supreme
+Where {{c|Leviathan}}'s decree
+{{c|Once}} held the power supreme
 In every ocean's dream.
 
 But wisdom overthrew
 The old order, and new
-Lords of the sea arose
+{{c|Lords}} of the sea arose
 To challenge all their foes
 
 With intelligence bright
@@ -263,14 +263,14 @@ Where they would always reign
 With wisdom as their crown
 And grace as their renown.
 
-From {{c|417|Cameromagne}}'s might
+From {{c|Cameromagne}}'s might
 That brought the ancient fight
-To {{c|410|Leviathan}}'s door
+To {{c|Leviathan}}'s door
 And won forevermore
 
 The right to rule the sea
 With wise authority,
-To {{c|420|Nautilus}} who shows
+To {{c|Nautilus}} who shows
 How ancient wisdom flows
 
 Through generations long
@@ -280,7 +280,7 @@ From night into the day,
 
 The cephalopods remind
 Us that the wisest mind
-Often starts quite small
+{{c|Often}} starts quite small
 But answers wisdom's call
 
 To grow beyond all measure
@@ -319,7 +319,7 @@ That sees what must remain
 And what brings only pain.
 
 The cephalopods' way
-Lives on to this day
+{{c|Lives}} on to this day
 In every graceful move
 And every way they prove
 
@@ -333,7 +333,7 @@ Until at long last
 The wise inherit all
 Who answer wisdom's call.
 
-From {{c|414|Ellesmer}}'s deep dive
+From {{c|Ellesmer}}'s deep dive
 To keep the past alive
 While finding something new
 In wisdom's vast review,
@@ -368,7 +368,7 @@ Make all their dreams come true
 Through patience and through grace
 In evolution's race.
 
-The sons of {{c|411|Cephalopus}}
+The sons of {{c|Cephalopus}}
 Remain so glorious
 Because they chose the way
 Of wisdom every day
@@ -386,7 +386,7 @@ The limits that are spawned
 By those who cannot see
 What wisdom's gift can be
 To those who dare to dive
-Deep and stay alive
+{{c|Deep}} and stay alive
 
 In waters where the wise
 Can see with clearer eyes

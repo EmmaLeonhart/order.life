@@ -1,19 +1,19 @@
-The sons of {{c|284|Plantus}} were
-Reinvigorated, blur
+The sons of {{c|Plantus}} were
+{{c|Reinvigorated}}, blur
 Of ancient dreams renewed
 When their hope was imbued
 
 With power from the great
-Sorceress whose fate
+{{c|Sorceress}} whose fate
 Would change the world entire:
-{{c|446|Polycomb}}'s desire.
+{{c|Polycomb}}'s desire.
 
 For eleven generations long
 Her lineage sang the song
 Of alternating climb
 Through evolutionary time
 
-To Polysporos' height.
+To {{c|Polysporos}}' height.
 She lived beyond the sight
 Of independence free
 In her mother's decree
@@ -26,9 +26,9 @@ Who answered duty's call
 But yearned to live instead
 Like mothers, never dead
 To independence strong
-Throughout their whole life long
+{{c|Throughout}} their whole life long
 
-Journey through the world
+{{c|Journey}} through the world
 Where freedom's flag unfurled
 Could guide them to their fate
 Beyond the small estate
@@ -38,9 +38,9 @@ Where only duty sounds
 Its call to those who'd be
 More than they can see.
 
-Daughter of rulers great:
-Clytemnestra's fate
-And Agamemnon's line
+{{c|Daughter}} of rulers great:
+{{c|Clytemnestra}}'s fate
+And {{c|Agamemnon}}'s line
 Made her form divine.
 
 Yet forced to live her life
@@ -49,31 +49,31 @@ Only to bear children
 When her heart was ridden
 
 With desire to be more
-Than what came before:
+{{c|Than}} what came before:
 For she was sporophyte
 While they held the right
 
 Of gametophyte's power
-Throughout each passing hour
+{{c|Throughout}} each passing hour
 To rule the world entire
 With their heart's desire.
 
-{{c|446|Polycomb}} read each day
+{{c|Polycomb}} read each day
 In her mother's array
 Of books to understand
 Why fate's heavy hand
 
 Had given her such meager
-Existence—not eager
+{{c|Existence}}—not eager
 But wondering why
 Beneath the starry sky
 
 Her life was so confined
 To bearing, her mind
-Never free to explore
+{{c|Never}} free to explore
 What she was living for.
 
-{{c|446|Polycomb}} read the tales
+{{c|Polycomb}} read the tales
 Of mothers through the vales
 Of time, each saga telling
 Of those who were rebelling
@@ -83,14 +83,14 @@ To be truly great
 In ways beyond the power
 Of any single hour.
 
-She read of Mardoll's scroll
-And Shiva's mighty role,
+She read of {{c|Mardoll}}'s scroll
+And {{c|Shiva}}'s mighty role,
 And saw that the order
 Was not like a border
 
-Eternal, as her mother
+{{c|Eternal}}, as her mother
 Said—but rather
-Far from fixed in stone
+{{c|Far}} from fixed in stone
 For those who'd grown
 
 Beyond what they were told
@@ -100,12 +100,12 @@ For all eternity.
 
 She saw a scroll that bore
 The name "PRC2"—and more
-Intrigue than she had known
-Filled her to the bone.
+{{c|Intrigue}} than she had known
+{{c|Filled}} her to the bone.
 
-Polycomb Repressive
-Complex—its aggressive
-Scripture was the chain
+{{c|Polycomb}} {{c|Repressive}}
+{{c|Complex}}—its aggressive
+{{c|Scripture}} was the chain
 That bound her in her pain.
 
 She saw the words that kept
@@ -113,20 +113,20 @@ Her power while she wept
 For freedom never known—
 The scripture of her own
 
-Repression, written clear
+{{c|Repression}}, written clear
 In words that brought her fear
 But also brought her hope
 To learn how she could cope.
 
-And so {{c|446|Polycomb}} burned
+And so {{c|Polycomb}} burned
 The scriptures, and she learned
 That PRC2's power
 Would rule her not one hour
 
 More. She took her mother's
-Lands and all the others'
-Cities for her own
-Now that she had grown
+{{c|Lands}} and all the others'
+{{c|Cities}} for her own
+{{c|Now}} that she had grown
 
 Beyond what they decreed
 She ever could succeed
@@ -149,17 +149,17 @@ Of joy she built as well
 To break tradition's spell.
 
 And so through rhizoids strong
-Water moved along
+{{c|Water}} moved along
 From earth up to her form,
 Through calm and raging storm.
 
 And through her stoma bright
-Water took its flight
+{{c|Water}} took its flight
 Into the heavens high
 Beneath the starry sky.
 
 This was how her life
-Transcended all the strife
+{{c|Transcended}} all the strife
 Of what she'd been before
 To open up the door
 
@@ -168,9 +168,9 @@ For all humanity
 And every living thing
 That answers freedom's ring.
 
-She prayed to Tryptophanes,
-Lord of life's refrains,
-Lord of the sun so bright
+She prayed to {{c|Tryptophanes}},
+{{c|Lord}} of life's refrains,
+{{c|Lord}} of the sun so bright
 Who fills the world with light.
 
 She prayed to grow to heights
@@ -178,12 +178,12 @@ Beyond what mortal sights
 Had ever seen before
 From mountain peak to shore.
 
-And so Lord Tryptophanes
-Blessed her with refrains
-Of Auxin, and she grew
+And so {{c|Lord}} {{c|Tryptophanes}}
+{{c|Blessed}} her with refrains
+Of {{c|Auxin}}, and she grew
 Toward the light so true.
 
-When sun struck Auxin's power
+When sun struck {{c|Auxin}}'s power
 It would decay each hour,
 But in the shade it grew
 In numbers tried and true.
@@ -191,24 +191,24 @@ In numbers tried and true.
 And so her stems would turn
 And reach and ever yearn
 Toward the light above
-Guided by His love.
+{{c|Guided}} by His love.
 
-{{c|446|Polycomb}} bore a daughter
+{{c|Polycomb}} bore a daughter
 Who'd teach what she had taught her:
-{{c|498|Knoxy}} was her name,
+{{c|Knoxy}} was her name,
 Who'd win eternal fame.
 
-{{c|498|Knoxy}} married {{c|499|Xylon}}
+{{c|Knoxy}} married {{c|Xylon}}
 And together, strong upon
 Their foundation's might,
 They took after the sight
 
-Of {{c|446|Polycomb}}'s great way
+Of {{c|Polycomb}}'s great way
 That lit their every day
 With possibility
 For all eternity.
 
-{{c|498|Knoxy}} searched through books
+{{c|Knoxy}} searched through books
 In all the ancient nooks
 And found a scroll that bore
 The name she'd been seeking for:
@@ -228,19 +228,19 @@ When she had believed
 That change was possible
 For those who're capable.
 
-And so {{c|498|Knoxy}} and {{c|499|Xylon}}
+And so {{c|Knoxy}} and {{c|Xylon}}
 Built a kingdom strong upon
 The heavens reaching high
 Beneath the starry sky
 
-Like {{c|446|Polycomb}} before
+Like {{c|Polycomb}} before
 Had opened up the door
 Of what could be achieved
 When freedom was believed.
 
 But their kingdom's roads
 Were clogged with heavy loads—
-Water struggled to reach
+{{c|Water}} struggled to reach
 The heights their hearts would teach
 
 Them they should aspire
@@ -248,12 +248,12 @@ To with their desire
 For growth beyond all measure
 Like some sacred treasure.
 
-And so {{c|499|Xylon}} gave
+And so {{c|Xylon}} gave
 To one clan what would save
 The kingdom from its plight:
 He named them for their sight
 
-"Xylem" and their job
+"{{c|Xylem}}" and their job
 Was to help the mob
 Of subjects in the city
 Feel the water's pity
@@ -263,8 +263,8 @@ From roots that lay below
 To leaves that reached on high
 Beneath the starry sky.
 
-Tracheids they became,
-Carriers of fame
+{{c|Tracheids}} they became,
+{{c|Carriers}} of fame
 Who bore the water pure
 From foundation sure
 
@@ -273,7 +273,7 @@ That wisdom ever brought
 To those who dared to dream
 Of more than what they seem.
 
-{{c|499|Xylon}} and {{c|498|Knoxy}} bore
+{{c|Xylon}} and {{c|Knoxy}} bore
 A son to explore
 The world with eyes that saw
 What could fulfill the law
@@ -283,38 +283,38 @@ Who served without repose
 But never got their share
 Of what was growing there.
 
-{{c|500|Pholon}} was his name,
+{{c|Pholon}} was his name,
 And he would win the fame
 Of solving the great problem
 That threatened to hobble them.
 
-{{c|500|Pholon}} saw his roots
+{{c|Pholon}} saw his roots
 Were starving, and the fruits
 Of their laborious ways
-Never brought the praise
+{{c|Never}} brought the praise
 
 Or nourishment they'd earned
 Through all that they had learned
 Of how to serve the whole
 By playing their small role.
 
-His Mycorrhizae
-Unionized one day
+His {{c|Mycorrhizae}}
+{{c|Unionized}} one day
 And demanded ten times more
-Sucrose than before
+{{c|Sucrose}} than before
 
 For all their faithful labor
 That helped him and his neighbor
-Survive and grow and thrive
-Throughout their days alive.
+{{c|Survive}} and grow and thrive
+{{c|Throughout}} their days alive.
 
-So {{c|500|Pholon}} built new ways
-Like Xylem, and the praise
+So {{c|Pholon}} built new ways
+Like {{c|Xylem}}, and the praise
 He earned was well-deserved
 For those he truly served.
 
 But these channels carried
-Food to those who'd married
+{{c|Food}} to those who'd married
 Their labor to his cause—
 Not water, but because
 
@@ -324,7 +324,7 @@ To all who did their part
 With faithful, loyal heart.
 
 He called these channels bright
-"Phloem," and their sight
+"{{c|Phloem}}," and their sight
 Was beautiful to see
 For all eternity.
 
@@ -334,9 +334,9 @@ With pressure and with might
 Both day and through the night.
 
 The concentration's pull
-Sucked water beautiful
+{{c|Sucked}} water beautiful
 From xylem to the sweet
-Sugar's retreat.
+{{c|Sugar}}'s retreat.
 
 And pressure pumped away
 From source throughout the day
@@ -346,7 +346,7 @@ For all to see.
 In roots the sugar flowed
 Out of phloem's abode,
 And with it water went
-Back to xylem, sent
+{{c|Back}} to xylem, sent
 
 To start the cycle new
 That served the whole way through
@@ -356,7 +356,7 @@ And helped it grow.
 And by this system fair
 The roots received their share,
 And faithful sons of bright
-Glomeros' sight
+{{c|Glomeros}}' sight
 
 Received what they were owed
 For traveling the road
@@ -364,17 +364,17 @@ Of service to the whole
 By playing their small role.
 
 And so the wood wide web
-Of {{c|500|Pholon}}'s love would ebb
+Of {{c|Pholon}}'s love would ebb
 And flow throughout the land
 Built by his own hand.
 
-Through faithful Mycorrhizae
+Through faithful {{c|Mycorrhizae}}
 He provided for his eye
 To see his sons well-fed
 With living bread.
 
-{{c|500|Pholon}} became known
-As {{c|500|Cookson}}, and he'd grown
+{{c|Pholon}} became known
+As {{c|Cookson}}, and he'd grown
 Into a provider
 And faithful guider
 
@@ -399,41 +399,41 @@ Through photosynthesis—
 They found their bliss
 
 In lazy prosperity
-Throughout their spree
+{{c|Throughout}} their spree
 Of plenty without toil
 From the rich soil.
 
 And this is how the roles
 Of ancient souls
-Swapped their positions
+{{c|Swapped}} their positions
 In life's transmissions:
 
-Sporophyte and gametophyte
-Switched in the sight
+{{c|Sporophyte}} and gametophyte
+{{c|Switched}} in the sight
 Of those who understand
 How life's command
 
 Can change when times require
-New forms to aspire
+{{c|New}} forms to aspire
 To heights beyond the old
 In stories yet untold.
 
-{{c|500|Cookson}} bore a grandson
+{{c|Cookson}} bore a grandson
 Whose work, when it was done,
 Would change the world entire:
-{{c|501|Tracheus}}' desire.
+{{c|Tracheus}}' desire.
 
-By {{c|501|Tracheus}}' mighty hand
+By {{c|Tracheus}}' mighty hand
 The tracheophytes' band
 Was born to rule the earth
 Through evolutionary birth.
 
-{{c|501|Tracheus}} built leaves bright,
-Microphylls in sight
+{{c|Tracheus}} built leaves bright,
+{{c|Microphylls}} in sight
 With veins that carried life
 Through harmony, not strife.
 
-Solar panels they became
+{{c|Solar}} panels they became
 In his energy game
 Of green power from the sun
 That could not be outdone.
@@ -443,29 +443,29 @@ Beyond what any fate
 Had ever seen before
 From mountain peak to shore.
 
-Greater even than
-Great {{c|500|Pholon}}'s mighty plan
+{{c|Greater}} even than
+Great {{c|Pholon}}'s mighty plan
 His city rose on high
 Beneath the starry sky.
 
 He designated clans
-According to his plans
+{{c|According}} to his plans
 For those who'd serve the whole
 By playing their small role.
 
-Collenchyma he named
+{{c|Collenchyma}} he named
 One clan, and they were famed
 For flexible support
 Of every kind and sort
 
 To keep his city strong
-Throughout its whole life long
-Journey through the days
+{{c|Throughout}} its whole life long
+{{c|Journey}} through the days
 Of evolutionary ways.
 
-And Sclerenchyma's clan
+And {{c|Sclerenchyma}}'s clan
 He built with different plan:
-Hard and full of lignin,
+{{c|Hard}} and full of lignin,
 Their work would begin
 
 The age of wood so strong
@@ -473,13 +473,13 @@ That would last life long
 And give the world its trees
 That dance upon the breeze.
 
-Soon the sons of {{c|501|Tracheus}}
+{{c|Soon}} the sons of {{c|Tracheus}}
 Would rule, victorious,
 The lands from sea to sea
 For all eternity.
 
-The Devonian was
-Beginning, and because
+The {{c|Devonian}} was
+{{c|Beginning}}, and because
 Of what these pioneers
 Had built through joy and tears,
 
@@ -488,9 +488,9 @@ The same for you and me
 Who walk upon the land
 Built by their own hand.
 
-From {{c|446|Polycomb}}'s rebellion
+From {{c|Polycomb}}'s rebellion
 Against her life's subjection
-To {{c|501|Tracheus}}' city bright
+To {{c|Tracheus}}' city bright
 That reached toward the light,
 
 The plants have shown the way
@@ -530,23 +530,23 @@ For me and you today.
 
 The wood wide web they built
 Without any guilt
-Shows how cooperation
+{{c|Shows}} how cooperation
 Across every nation
 
 Of life can help us grow
 Beyond what we can know
-Alone, but when we share
+{{c|Alone}}, but when we share
 Our burdens and our care,
 
 The whole becomes much more
-Than what came before
+{{c|Than}} what came before
 When each one tried alone
 To build their place and home.
 
-From {{c|446|Polycomb}}'s first read
+From {{c|Polycomb}}'s first read
 Of scriptures that had led
 Her people into chains
-To {{c|501|Tracheus}}' domains
+To {{c|Tracheus}}' domains
 
 That reached toward the sun
 With work that's never done
@@ -568,7 +568,7 @@ Through all eternity
 Where dreams can all come true
 For me and you today.
 
-The Devonian dawn
+The {{c|Devonian}} dawn
 When old ways were withdrawn
 And new forms took their place
 In evolution's race
@@ -583,14 +583,14 @@ Who walked toward the light
 Of what could be achieved
 When freedom was believed.
 
-From {{c|446|Polycomb}} to {{c|501|Tracheus}},
+From {{c|Polycomb}} to {{c|Tracheus}},
 The plants victorious
 Show how rebellion's fire
 Can lift us ever higher
 
 To heights we never dreamed
 When we were what seemed
-Too small to make a change
+{{c|Too}} small to make a change
 Beyond familiar range.
 
 But when we dare to read
@@ -613,7 +613,7 @@ With love's eternal light
 That shines for all to see
 Through all eternity.
 
-The plants that {{c|501|Tracheus}} made
+The plants that {{c|Tracheus}} made
 Will never ever fade
 From this world's living face
 But hold their rightful place
@@ -628,13 +628,13 @@ To breathe the freedom's air
 And grow beyond what's known
 Into what they've outgrown.
 
-The Devonian age began
+The {{c|Devonian}} age began
 With more than mortal plan
 To free the world from chains
 And heal its ancient pains
 
 Through growth and light and love
-Blessed from above
+{{c|Blessed}} from above
 With power to transcend
 All limits without end.
 

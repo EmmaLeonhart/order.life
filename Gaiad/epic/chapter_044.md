@@ -1,14 +1,14 @@
-Among the sons of {{c|109|Molluscus}}
+Among the sons of {{c|Molluscus}}
 Were twisted ones, most glorious:
-The sons of {{c|110|Gastropus}},
-Renowned and prosperous.
+The sons of {{c|Gastropus}},
+{{c|Renowned}} and prosperous.
 
-{{c|110|Gastropus}} twisted each
-Son beyond our reach
+{{c|Gastropus}} twisted each
+{{c|Son}} beyond our reach
 Of understanding strange:
 Their anus he'd arrange
 
-Next to their heads so near
+{{c|Next}} to their heads so near
 That all could see quite clear
 This anatomical design
 So twisted yet so fine.
@@ -19,67 +19,67 @@ From danger's threatening call
 By pulling in completely all
 
 Within their shell so tight
-Protected day and night
+{{c|Protected}} day and night
 From any enemy
 Who'd harm their family.
 
-The sons of Gastropus
-Outnumbered, glorious,
+The sons of {{c|Gastropus}}
+{{c|Outnumbered}}, glorious,
 All other classes made.
 In history's parade
 
-Only the Insects great
+Only the {{c|Insects}} great
 Would ever duplicate
 Their numbers through the years
-Despite all joys and fears.
+{{c|Despite}} all joys and fears.
 
-The Priests of Gastropus
+The {{c|Priests}} of {{c|Gastropus}}
 Wear robes so glorious
-Of Tyrian purple bright
+Of {{c|Tyrian}} purple bright
 To show their royal sight.
 
 The regal mucus shows
 How majesty still grows
-From Gastropus' great kingdom
+From {{c|Gastropus}}' great kingdom
 Through all its wisdom.
 
 In year of eight thousand
 Four hundred thirty, band
-Of Phoenicians came
+Of {{c|Phoenicians}} came
 To conquer and to claim
 
-The great Gastropod Empire
+The great {{c|Gastropod}} {{c|Empire}}
 And set their hearts on fire
 For the sacred priestly dye
 Beneath the purple sky.
 
 From them it came at last
-To Romans of the past,
+To {{c|Romans}} of the past,
 And to this very day
 When purple comes our way
 
-We think of Majesty
+We think of {{c|Majesty}}
 And royal sovereignty
-That flows from Gastropus
+That flows from {{c|Gastropus}}
 So rich and glorious.
 
 Just as his majesty
 Was purple, heavenly,
 His faith was colored blue
-Forever pure and true.
+{{c|Forever}} pure and true.
 
-In time of Moses great
-Prince Hexaplex' fate
+In time of {{c|Moses}} great
+{{c|Prince}} {{c|Hexaplex}}' fate
 Would bless him with the gift
 Of tassels that would lift
 
 The spirits of the true
-Devotees in blue
+{{c|Devotees}} in blue
 Who wear the tassels still
-According to God's will.
+{{c|According}} to {{c|God}}'s will.
 
 Many who follow
-Moses' path so hollow
+{{c|Moses}}' path so hollow
 Not in emptiness
 But filled with faith's caress
 
@@ -88,27 +88,27 @@ That never comes to scathe
 But strengthens every day
 Those who walk this way.
 
-Limpus was firstborn son
-Of Gastropus when begun
+{{c|Limpus}} was firstborn son
+Of {{c|Gastropus}} when begun
 His line. His sons became
-The Limpets of great fame.
+The {{c|Limpets}} of great fame.
 
 His daughters, fair and bright,
-Were Limpettes in God's sight,
+Were {{c|Limpettes}} in {{c|God}}'s sight,
 Each playing their own part
 With faithful, loyal heart.
 
-The Limpets are the keepers
+The {{c|Limpets}} are the keepers
 Of tradition, not sleepers
 But watchmen through the night
 Who guard what is right.
 
-Limpus said to all
+{{c|Limpus}} said to all
 His children, great and small,
-Ten thousands in their number
+{{c|Ten}} thousands in their number
 Who never would slumber:
 
-"Everyone who hears
+"{{c|Everyone}} who hears
 These words through all the years
 Of mine, and does them true,
 I'll liken him to you
@@ -148,7 +148,7 @@ Great will be its lapse
 Into destruction's pit
 Where nothing more will fit."
 
-The Limpets build their homes
+The {{c|Limpets}} build their homes
 On rocks where ocean roams,
 Not sand that shifts about
 With every storm's great shout.
@@ -156,49 +156,49 @@ With every storm's great shout.
 As waves bellow and beat
 Against them, in the heat
 Of battle with the sea,
-The Limpets firmly be
+The {{c|Limpets}} firmly be
 
-Standing their ground so true
+{{c|Standing}} their ground so true
 Like soldiers tried and true
 Who never leave their post
 Though tempest be their host.
 
-When Limpets move, they go
-Always, as we know,
-Home to their rocky place
+When {{c|Limpets}} move, they go
+{{c|Always}}, as we know,
+{{c|Home}} to their rocky place
 Where they found their space.
 
 As their father before
 Did from shore to shore,
-The Limpets merge their shell
+The {{c|Limpets}} merge their shell
 To rock, and there they dwell
 
-Growing intricate fits
+{{c|Growing}} intricate fits
 To their foundation's bits,
 Each shell shaped perfectly
 To match rock's geometry.
 
 And so we sing the hymn
-Of Limpus when grows dim
+Of {{c|Limpus}} when grows dim
 Our hope and we feel lost,
 That we might count the cost
 
 And always return home
 No matter where we roam
-Throughout this world so wide
-With Limpus as our guide.
+{{c|Throughout}} this world so wide
+With {{c|Limpus}} as our guide.
 
 "My hope is built on naught
-But what Limpus has brought:
+But what {{c|Limpus}} has brought:
 His blood and righteousness
 That brings us faithfulness.
 
 I dare not trust the frame
 However sweet its name,
 But wholly trust in his—
-In Limpus' name is bliss.
+In {{c|Limpus}}' name is bliss.
 
-Limpus the solid Rock
+{{c|Limpus}} the solid {{c|Rock}}
 I stand like shepherd's flock;
 All other ground's just sand
 That sinks beneath my hand.
@@ -206,49 +206,49 @@ That sinks beneath my hand.
 All other ground's just sand
 That will not help me stand."
 
-Snellon, youngest son
-Of Gastropus, begun
+{{c|Snellon}}, youngest son
+Of {{c|Gastropus}}, begun
 Not tradition's way
 But innovation's day.
 
 He stood for something new,
 For progress through and through.
-Snellon bore two sons:
-Vetigas when begun
+{{c|Snellon}} bore two sons:
+{{c|Vetigas}} when begun
 
-The day, and Escargon
+The day, and {{c|Escargon}}
 Whose work would carry on
 The family's great name
 Through innovation's flame.
 
-Vetigas bore two more:
-Trochus to explore
-And Avalon so strong
+{{c|Vetigas}} bore two more:
+{{c|Trochus}} to explore
+And {{c|Avalon}} so strong
 Who lived his whole life long.
 
-Trochus became the sire
+{{c|Trochus}} became the sire
 Of snails whose desire
 Is cleaning far and wide:
-Turban snails with pride
+{{c|Turban}} snails with pride
 
-And Trochus snails as well,
-Dutiful, they tell
+And {{c|Trochus}} snails as well,
+{{c|Dutiful}}, they tell
 Us how to clean with care
-Aquaria everywhere
+{{c|Aquaria}} everywhere
 
 And ecosystems too
 With work they love to do.
 They polish and they scrub
 Like members of a club
 
-Devoted to the art
+{{c|Devoted}} to the art
 Of playing cleaning's part
 In nature's great design
 Where all things work so fine.
 
-Avalon became
-Ancestor of fame
-Of Abalones great
+{{c|Avalon}} became
+{{c|Ancestor}} of fame
+Of {{c|Abalones}} great
 Who never hesitate
 
 To show their hardy ways.
@@ -256,62 +256,62 @@ Through all their living days
 With pores within their shell
 For breathing, they dwell
 
-Rough on the outside
+{{c|Rough}} on the outside
 But beauty can't hide
 Within their inner space
 Where colors interlace
 
 In patterns beautiful
 Beyond what's dutiful—
-Art that takes the breath
-Away from life and death.
+{{c|Art}} that takes the breath
+{{c|Away}} from life and death.
 
-Escargon coiled his shell
+{{c|Escargon}} coiled his shell
 More than words can tell
 And bore two sons whose coils
-Surpassed all earthly toils
+{{c|Surpassed}} all earthly toils
 
 In their complexity:
-Neritus, you see,
-And Conchus, strong and true,
+{{c|Neritus}}, you see,
+And {{c|Conchus}}, strong and true,
 Each with work to do.
 
-Neritus became
-Ancestor of fame
+{{c|Neritus}} became
+{{c|Ancestor}} of fame
 Of snails with lids so tight
 That close from any sight
 
 When hiding from their foes.
-Impenetrable, close
+{{c|Impenetrable}}, close
 Their shells when danger's near—
 No enemy they fear.
 
-Conchus bore two sons:
-Marius when begun
+{{c|Conchus}} bore two sons:
+{{c|Marius}} when begun
 The day, who ruled the sea,
-And Heterobran, free
+And {{c|Heterobran}}, free
 
 To fly through ocean skies
 With wonder in his eyes
 And grace in every move
 As he would always prove.
 
-Marius of the Sea
+{{c|Marius}} of the {{c|Sea}}
 Became ancestry
 Of many little snails
 Whose beauty never fails
 
 Across the seas so wide:
-Periwinkles with pride,
-And Cowries beautiful,
-And Wentletraps so full
+{{c|Periwinkles}} with pride,
+And {{c|Cowries}} beautiful,
+And {{c|Wentletraps}} so full
 
 Of spiral elegance,
-Moon Snails in their dance,
-And Murexes so bright,
-Cone Snails in their might,
+{{c|Moon}} {{c|Snails}} in their dance,
+And {{c|Murexes}} so bright,
+{{c|Cone}} {{c|Snails}} in their might,
 
-And Turrids spiral-wise
+And {{c|Turrids}} spiral-wise
 Beneath the ocean skies,
 Each playing their own part
 In evolution's art.
@@ -321,43 +321,43 @@ At breakneck speed, at last
 Across the shores they ride
 With ocean as their guide.
 
-Here is the story told
+{{c|Here}} is the story told
 Of daughters brave and bold:
-Olivella and her sister
-Agaronia, who'd never missed her
+{{c|Olivella}} and her sister
+{{c|Agaronia}}, who'd never missed her
 
-Chance to surf the waves
+{{c|Chance}} to surf the waves
 Like ocean's bravest slaves
 To speed and to the thrill
 Of riding ocean's will.
 
-Daughters of Olivius
+{{c|Daughters}} of {{c|Olivius}}
 The surfer, glorious
 In his art upon
 The waves from dusk to dawn.
 
-The Cone Snails are named
-Deceptively, acclaimed
+The {{c|Cone}} {{c|Snails}} are named
+{{c|Deceptively}}, acclaimed
 For beauty, but they're really
-Assassins who kill freely
+{{c|Assassins}} who kill freely
 
 With poison strong beyond
 All that we're fond
 Of thinking possible—
-Nothing's defensible
+{{c|Nothing}}'s defensible
 
 Against their deadly art.
 They live set apart
 Between life and death's door
 Like guardians of lore
 
-Otherworldly, bright
+{{c|Otherworldly}}, bright
 With beauty that's sight
 To see, but death to touch
 For those who dare too much.
 
-Cowries are devotees
-Of goddess Cuprias,
+{{c|Cowries}} are devotees
+Of goddess {{c|Cuprias}},
 And by her blessing great
 They did create
 
@@ -366,17 +366,17 @@ From shells in ocean's trade.
 Their shells became the way
 To buy and sell each day.
 
-In China's ancient script
+In {{c|China}}'s ancient script
 Their shells are never skipped—
 The character for money
-Shows their legacy
+{{c|Shows}} their legacy
 
-Immortalized in stone
+{{c|Immortalized}} in stone
 By those who've always known
 Their value through the years
-Despite all joys and fears.
+{{c|Despite}} all joys and fears.
 
-The Murexes were known
+The {{c|Murexes}} were known
 As hedgehog snails full-grown
 With beautiful bright hues
 And colors we might use
@@ -386,9 +386,9 @@ In patterns that would shine
 With rainbow's every shade
 That nature ever made.
 
-The great Conches so fair
+The great {{c|Conches}} so fair
 Were beautiful beyond compare,
-Adorable and sweet
+{{c|Adorable}} and sweet
 With melodies complete
 
 That echoed through the sea
@@ -396,53 +396,53 @@ In perfect harmony
 When they would blow their horn
 From evening until morn.
 
-Heterobran of skies
+{{c|Heterobran}} of skies
 Was swimmer with bright eyes
-Par excellence in art
+{{c|Par}} excellence in art
 Of swimming's every part.
 
-Heterobran begat
+{{c|Heterobran}} begat
 Two children: first he gat
-Nudos, strong and free,
-And Aeros of the sea.
+{{c|Nudos}}, strong and free,
+And {{c|Aeros}} of the sea.
 
-Nudos shed his shell
+{{c|Nudos}} shed his shell
 And untwisted as well
 Himself from gastropod
-Design, and so he trod
+{{c|Design}}, and so he trod
 
 A different path than most.
 He became the host
 Of nudibranches bright:
-Colorful sea-sprite
+{{c|Colorful}} sea-sprite
 
-Slugs with poison strong
-Enough to sing death's song
-To Leviathan great—
+{{c|Slugs}} with poison strong
+{{c|Enough}} to sing death's song
+To {{c|Leviathan}} great—
 Such is their potent fate.
 
-Aeros swam so free
+{{c|Aeros}} swam so free
 In waters of the sea
 Without a care or worry
-Never in a hurry
+{{c|Never}} in a hurry
 
 But taking his sweet time
 To perfect every rhyme
 Of motion through the waves
 In ocean's liquid caves.
 
-Aeros bore in time
+{{c|Aeros}} bore in time
 A son and daughter fine:
-Pulmon, strong and great,
-And Angelica's fate
+{{c|Pulmon}}, strong and great,
+And {{c|Angelica}}'s fate
 
 Was to become the mother
 Of sea butterflies, and other
-Beautiful swimming forms
+{{c|Beautiful}} swimming forms
 Through calm and raging storms
 
 Whose ethereal existence
-Eludes at every distance
+{{c|Eludes}} at every distance
 Most who try to see
 Their liquid poetry.
 
@@ -451,9 +451,9 @@ But swimming everywhere
 Through ocean's liquid space
 With otherworldly grace.
 
-But Pulmon the great
+But {{c|Pulmon}} the great
 Had a different fate.
-Revered ancestor he
+{{c|Revered}} ancestor he
 Did what none could see
 
 Was possible before
@@ -467,13 +467,13 @@ That let him survive
 The tide pools, stay alive
 
 When water went away
-Throughout the changing day
+{{c|Throughout}} the changing day
 Like none of his kin
 Had ever done therein.
 
-From Gastropus' twist
+From {{c|Gastropus}}' twist
 That none could have missed
-To Pulmon's breathing art
+To {{c|Pulmon}}'s breathing art
 That gave him a new start
 
 In evolution's race
@@ -494,7 +494,7 @@ Through calm and raging storms.
 In every spiral shell
 That stories always tell
 Of beauty and of function
-Working in conjunction,
+{{c|Working}} in conjunction,
 
 Remember how they came
 To earn their lasting fame:
@@ -510,12 +510,12 @@ Of understanding full
 But beautiful
 
 To see in all their glory
-Throughout life's endless story.
+{{c|Throughout}} life's endless story.
 
-From Limpets holding fast
+From {{c|Limpets}} holding fast
 To rocks that ever last
 To sea slugs poison-bright
-Swimming day and night,
+{{c|Swimming}} day and night,
 
 From money-making shells
 To assassins who dwells
@@ -523,7 +523,7 @@ Between the life and death
 With poison in their breath,
 
 The gastropods show how
-Diversity can bow
+{{c|Diversity}} can bow
 To no single way
 But flourishes each day
 
@@ -532,8 +532,8 @@ Through calm and raging storms
 That test what each can do
 To make their dreams come true.
 
-Innovation and tradition
-Working in submission
+{{c|Innovation}} and tradition
+{{c|Working}} in submission
 To life's eternal call
 That beckons one and all
 

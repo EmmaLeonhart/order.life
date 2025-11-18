@@ -1,32 +1,32 @@
-While sons of {{c|86|Cambrius}} flourished well
+While sons of {{c|Cambrius}} flourished well
 In seas where they would dwell,
-The sons of {{c|383|Symbio-Mygus}}
-And daughters of {{c|385|Charina-Plantus}}
+The sons of {{c|Symbio-Mygus}}
+And daughters of {{c|Charina-Plantus}}
 
-Pushed frontiers far and wide
+{{c|Pushed}} frontiers far and wide
 Across the world's divide.
 But soon they faced
-Competition in their place.
+{{c|Competition}} in their place.
 
-For {{c|427|Euthy}}, daughter brave
-Of {{c|428|Mandibulus}}, who gave
+For {{c|Euthy}}, daughter brave
+Of {{c|Mandibulus}}, who gave
 Her all to save her young,
 Was being chased among
 
 The waters by her foe:
-{{c|429|Anomalocaris}}, who'd show
+{{c|Anomalocaris}}, who'd show
 No mercy in his chase
 Across that watery space.
 
 Her precious eggs needed care
 And protection everywhere.
 So she did what she must—
-In {{c|7|Hausa}} placed her trust.
+In {{c|Hausa}} placed her trust.
 
 She jumped through shimmering sky
 Up rocks that reached so high
 To heavens bright above,
-Protecting those she'd love.
+{{c|Protecting}} those she'd love.
 
 And so she burst from sea
 Onto the land so free.
@@ -34,18 +34,18 @@ The first to make that leap
 From waters dark and deep.
 
 Upon the ground she fell,
-Suffocating well
+{{c|Suffocating}} well
 In air so thin and strange,
-Throughout that foreign range.
+{{c|Throughout}} that foreign range.
 
 But she and husband true
-Protected eggs they knew
+{{c|Protected}} eggs they knew
 Must live until the end—
 Their legacy to send.
 
-Among brave {{c|427|Euthy}}'s daughters
+Among brave {{c|Euthy}}'s daughters
 Who left the ancient waters
-Was {{c|430|Myry}} the trepanated,
+Was {{c|Myry}} the trepanated,
 By circumstance created.
 
 Like sisters she was born
@@ -54,13 +54,13 @@ She suffocated there
 In ocean's liquid lair.
 
 Her father, seeing this,
-Pierced holes he would not miss
+{{c|Pierced}} holes he would not miss
 Above her ten thousand legs
 Where breathing never begs.
 
 Through these holes she was free
 To receive directly
-{{c|7|Hausa}}'s blessings pure
+{{c|Hausa}}'s blessings pure
 Into her frame so sure.
 
 Her descendants to this day
@@ -69,43 +69,43 @@ The holes that saved her life
 Cut through terrestrial strife.
 
 And so the daughters all
-Of {{c|430|Myry}} heard the call
+Of {{c|Myry}} heard the call
 To breathe the air so sweet—
-The Myriapods complete.
+The {{c|Myriapods}} complete.
 
-{{c|430|Myry}} the pierced explored
+{{c|Myry}} the pierced explored
 The new lands she adored.
 She found she wasn't lone
 Upon this earthly zone.
 
-Tradition names this place
-"{{c|430|Myry}}'s coast" in grace,
+{{c|Tradition}} names this place
+"{{c|Myry}}'s coast" in grace,
 But she was not the first—
-History's truth rehearsed
+{{c|History}}'s truth rehearsed
 
-Now calls it "Coast of Three
-Kingdoms" truthfully
+{{c|Now}} calls it "{{c|Coast}} of Three
+{{c|Kingdoms}}" truthfully
 To honor every side
 Of history's great tide.
 
-{{c|430|Myry}} saw with wonder
-Cities torn asunder
+{{c|Myry}} saw with wonder
+{{c|Cities}} torn asunder
 By neither rain nor thunder:
-Lichen cities, born
+{{c|Lichen}} cities, born
 
 Of covenant between
-{{c|383|Symbio-Mygus}}, seen
-With {{c|385|Charina-Planta}}'s line—
-Partnership divine.
+{{c|Symbio-Mygus}}, seen
+With {{c|Charina-Planta}}'s line—
+{{c|Partnership}} divine.
 
-Sprawling cities wide
+{{c|Sprawling}} cities wide
 Half mold and moss beside
 Each other living well:
-Mycelium would delve
+{{c|Mycelium}} would delve
 
-Deep down to earthly gold
+{{c|Deep}} down to earthly gold
 While thallus, brave and bold,
-Basked in the sun's bright blessing
+{{c|Basked}} in the sun's bright blessing
 From heaven's light caressing.
 
 These cities spread so far
@@ -118,82 +118,82 @@ To live together now.
 Each nation wed the other
 Like sister and like brother.
 
-But {{c|430|Myry}} was not gentle
+But {{c|Myry}} was not gentle
 In her ways elemental.
 She ate the cities whole
 And stole what made them whole.
 
 But as she ran around
 She dropped on fertile ground
-Cells scattered everywhere
-Throughout the atmosphere.
+{{c|Cells}} scattered everywhere
+{{c|Throughout}} the atmosphere.
 
 Across the globe they fell,
 Her messy eating spell
 Left pieces of her meal
 For others to steal.
 
-Soon sons of {{c|383|Mygus}} built
-Cities without guilt
-With daughters of {{c|385|Charina}}
+{{c|Soon}} sons of {{c|Mygus}} built
+{{c|Cities}} without guilt
+With daughters of {{c|Charina}}
 Across each earthly arena.
 
-But {{c|430|Myry}} bore two sons:
-{{c|431|Cain}} when day begun
-And {{c|432|Abel}}, gentle, mild,
+But {{c|Myry}} bore two sons:
+{{c|Cain}} when day begun
+And {{c|Abel}}, gentle, mild,
 Her peaceful, loving child.
 
 In process of time came
 When each would bring by name
 An offering so true
-To {{c|3|Mithra}}'s judgment due.
+To {{c|Mithra}}'s judgment due.
 
-{{c|431|Cain}} brought the fruit
+{{c|Cain}} brought the fruit
 Of ground beneath his foot.
-{{c|432|Abel}} brought the best
+{{c|Abel}} brought the best
 Of flocks that he possessed.
 
-And {{c|3|Mithra}} had respect
-For {{c|432|Abel}}'s offering, blessed
+And {{c|Mithra}} had respect
+For {{c|Abel}}'s offering, blessed
 His sacrifice so true,
-But {{c|431|Cain}}'s he did eschew.
+But {{c|Cain}}'s he did eschew.
 
-Then {{c|431|Cain}} was wroth and fell
+Then {{c|Cain}} was wroth and fell
 His countenance, unwell.
-The Lord said unto {{c|431|Cain}}:
+The {{c|Lord}} said unto {{c|Cain}}:
 "Why is thy heart in pain?
 
 If thou doest well,
-Shalt thou not excel?
+{{c|Shalt}} thou not excel?
 But if thou doest wrong,
-Sin's desire is strong."
+{{c|Sin}}'s desire is strong."
 
-But {{c|431|Cain}} talked with {{c|432|Abel}}
+But {{c|Cain}} talked with {{c|Abel}}
 His brother at their table.
 And when they were alone
-{{c|431|Cain}}'s hatred had grown.
+{{c|Cain}}'s hatred had grown.
 
 In field he rose against
 His brother, and dispensed
-With {{c|432|Abel}}'s gentle life—
-Murder's sharpened knife.
+With {{c|Abel}}'s gentle life—
+{{c|Murder}}'s sharpened knife.
 
-And {{c|3|Mithra}} called to {{c|431|Cain}}:
+And {{c|Mithra}} called to {{c|Cain}}:
 "Where is thy brother slain?"
-"I know not," {{c|431|Cain}} replied,
+"I know not," {{c|Cain}} replied,
 "Am I to be his guide?"
 
 "What hast thou done today?
-Thy brother's blood doth pray
+{{c|Thy}} brother's blood doth pray
 From ground where he was killed—
-Thy curse shall be fulfilled.
+{{c|Thy}} curse shall be fulfilled.
 
 No more shall ground give strength
 To thee through all thy length
 Of days upon this earth—
 A wanderer from thy birth."
 
-Then {{c|431|Cain}} cried out in fear:
+Then {{c|Cain}} cried out in fear:
 "My punishment too dear!
 From earth and thee I'm driven,
 No rest to me is given.
@@ -203,38 +203,38 @@ And whosoever shall see
 Me wandering shall slay—
 I cannot get away."
 
-But {{c|3|Mithra}} marked him well:
-"Whoever thee shall fell,
-Sevenfold vengeance shall
+But {{c|Mithra}} marked him well:
+"{{c|Whoever}} thee shall fell,
+{{c|Sevenfold}} vengeance shall
 Upon that person fall."
 
-And {{c|431|Cain}} went forth in shame
-To land of Nod by name,
-East of Eden's gate
+And {{c|Cain}} went forth in shame
+To land of {{c|Nod}} by name,
+{{c|East}} of {{c|Eden}}'s gate
 To meet his chosen fate.
 
-There {{c|431|Cain}} knew his wife
+There {{c|Cain}} knew his wife
 And built a city-life.
-She bore him {{c|433|Centipus}},
-Son glorious.
+She bore him {{c|Centipus}},
+{{c|Son}} glorious.
 
 The city bore the name
-Of {{c|433|Centipus}}' fame.
-And {{c|431|Cain}} became ancestor
-Of Caintipedes, predecessor
+Of {{c|Centipus}}' fame.
+And {{c|Cain}} became ancestor
+Of {{c|Caintipedes}}, predecessor
 
-(Misspelled by Romans old
+({{c|Misspelled}} by {{c|Romans}} old
 As "centipedes," we're told)
 Who hunt with poison bite
-Throughout the day and night.
+{{c|Throughout}} the day and night.
 
-But {{c|432|Abel}}'s gentle wife
+But {{c|Abel}}'s gentle wife
 Was heavy with new life
-When {{c|431|Cain}}'s rage tore apart
+When {{c|Cain}}'s rage tore apart
 Her husband's gentle heart.
 
 In million pieces small
-{{c|432|Abel}}'s body fell.
+{{c|Abel}}'s body fell.
 His wife, with child blessed,
 Became ancestress
 
@@ -243,20 +243,20 @@ Who harm not beast or child
 But eat the leaves that fall
 And decompose them all.
 
-Enraged at {{c|432|Abel}}'s death
-{{c|430|Myry}} drew her breath
-And lunged at {{c|431|Cain}} with might—
+{{c|Enraged}} at {{c|Abel}}'s death
+{{c|Myry}} drew her breath
+And lunged at {{c|Cain}} with might—
 They fought their final fight.
 
-Both passed to Ghedos' realm
+Both passed to {{c|Ghedos}}' realm
 Where death holds the helm.
 But in their corpses lay
-Seeds for another day.
+{{c|Seeds}} for another day.
 
-In death, {{c|383|Mygus}}' sons
+In death, {{c|Mygus}}' sons
 Took revenge for wrongs done.
-Hera, daughter true,
-And Freyr, strong through and through,
+{{c|Hera}}, daughter true,
+And {{c|Freyr}}, strong through and through,
 
 In twentieth generation
 Found habitation
@@ -269,13 +269,13 @@ Their hyphae met at last
 When growing time had passed.
 
 When they met they wed
-But heard what {{c|3|Mithra}} said:
+But heard what {{c|Mithra}} said:
 "O couple great and true,
-Prosperity's with you.
+{{c|Prosperity}}'s with you.
 
 But barren you shall be
 For decades, wait and see.
-Postpone your marriage-bed
+{{c|Postpone}} your marriage-bed
 Until I give word instead.
 
 When children you shall bear
@@ -293,68 +293,68 @@ Each nucleus lived through
 In every cell they made—
 Their sacrifice well-paid.
 
-Dikaryotic cells
+{{c|Dikaryotic}} cells
 Their story always tells
 Of patience and of love
-Blessed from above.
+{{c|Blessed}} from above.
 
-Decades they waited long
-Decomposing strong
-The daughters of {{c|430|Myry}}—
+{{c|Decades}} they waited long
+{{c|Decomposing}} strong
+The daughters of {{c|Myry}}—
 Their patient ministry.
 
 They became ancestors
 Of high fungi, processors
 Of death into new life:
-Mushrooms and knife
+{{c|Mushrooms}} and knife
 
 Of penicillin's power
 To heal in darkest hour.
 The great fungi arose
 From where their love chose
 
-To wait for {{c|3|Mithra}}'s word
+To wait for {{c|Mithra}}'s word
 And let their love be heard
 Through patience in the ground
 Where wisdom could be found.
 
-Among great {{c|284|Plantus}}' sons
+Among great {{c|Plantus}}' sons
 Who stayed when day begun
-With sons of {{c|383|Mygus}} were
+With sons of {{c|Mygus}} were
 Two brothers everywhere:
 
-{{c|422|Stomatos}} and {{c|434|Hepatos}},
+{{c|Stomatos}} and {{c|Hepatos}},
 Who chose their separate ways.
-Connected to network
+{{c|Connected}} to network
 Of cells that always work
 
 At cellular level
 They built partnership's revel
-With sons of Glomulus
+With sons of {{c|Glomulus}}
 So glorious.
 
-{{c|422|Stomatos}} saw the holes
-In {{c|430|Myry}}'s sides and souls.
+{{c|Stomatos}} saw the holes
+In {{c|Myry}}'s sides and souls.
 He pierced himself as well
 To breathe and to excel.
 
-But {{c|434|Hepatos}} refused
+But {{c|Hepatos}} refused
 The foreign magic, used
 His ancient ways instead
 And kept his faithful tread.
 
-{{c|434|Hepatos}} became the sire
-Of Liverworts' choir
+{{c|Hepatos}} became the sire
+Of {{c|Liverworts}}' choir
 Who keep the ancient way
 Until this very day.
 
-But {{c|422|Stomatos}} became
-Ancestor of fame
+But {{c|Stomatos}} became
+{{c|Ancestor}} of fame
 Of all other plants
 Who dance their living dance.
 
-Today we honor him
-As Eloh, not dim
+{{c|Today}} we honor him
+As {{c|Eloh}}, not dim
 But bright transhumanist
 Who never would desist
 
@@ -365,12 +365,12 @@ He'd rearrange
 
 His understanding true
 To make his vision new.
-Always growing more
-Than he had been before.
+{{c|Always}} growing more
+{{c|Than}} he had been before.
 
-As sons of {{c|422|Stomatos}}
+As sons of {{c|Stomatos}}
 Rose like kratos
-Hillu struck back in rage
+{{c|Hillu}} struck back in rage
 Upon that earthly stage.
 
 So many lineages
@@ -378,12 +378,12 @@ Through all their pilgrimages
 Would be lost forever more
 On that primeval shore.
 
-The Coast of Three Kingdoms
+The {{c|Coast}} of Three {{c|Kingdoms}}
 Where life's great wisdom
 First met upon the land
-By {{c|3|Mithra}}'s guiding hand.
+By {{c|Mithra}}'s guiding hand.
 
-Plant and fungi wed
+{{c|Plant}} and fungi wed
 While arthropods were fed
 On both their partnership—
 The first tri-partnership.
@@ -403,27 +403,27 @@ Where partnership gives birth
 To beauty none could see
 In isolation's spree.
 
-From {{c|427|Euthy}}'s desperate leap
+From {{c|Euthy}}'s desperate leap
 To save her children deep
-Came {{c|430|Myry}}'s pierced way
+Came {{c|Myry}}'s pierced way
 Of breathing every day.
 
-From {{c|431|Cain}} and {{c|432|Abel}}'s strife
+From {{c|Cain}} and {{c|Abel}}'s strife
 Came death and new life:
-Centipedes who hunt
+{{c|Centipedes}} who hunt
 And millipedes who shunt
 
-Decay into rich earth
+{{c|Decay}} into rich earth
 For new plants' birth.
 From fungi's patient love
-Blessed from above
+{{c|Blessed}} from above
 
 Came mushrooms' mighty power
 In earth's darkest hour.
-From {{c|422|Stomatos}}' brave change
+From {{c|Stomatos}}' brave change
 Came plants' wide range.
 
-The Coast of Three Kingdoms
-Shows how life's wisdom
-Finds its truest way
+The {{c|Coast}} of Three {{c|Kingdoms}}
+{{c|Shows}} how life's wisdom
+{{c|Finds}} its truest way
 Through partnership's display.

@@ -1,9 +1,9 @@
-As sons of {{c|86|Cambrius}} grew in might
+As sons of {{c|Cambrius}} grew in might
 Across the world both day and night,
-All sons of {{c|22|Bios}} felt the change
-Throughout their ancient range.
+All sons of {{c|Bios}} felt the change
+{{c|Throughout}} their ancient range.
 
-The sons of {{c|69|Cubos}} and {{c|70|Scyphos}} rose
+The sons of {{c|Cubos}} and {{c|Scyphos}} rose
 To challenge all their foes.
 Their guerrilla war began
 That day when time began.
@@ -13,8 +13,8 @@ To hunt their living prey.
 Their ancient raid shall never cease
 Until they find their peace.
 
-Among great {{c|58|Demos}}' sponge-born line
-Came {{c|269|Cyath}}, builder fine.
+Among great {{c|Demos}}' sponge-born line
+Came {{c|Cyath}}, builder fine.
 Great cities he built 'cross the seas—
 The reefs beneath the breeze.
 
@@ -23,19 +23,19 @@ Beneath the ocean sky.
 Through countless rulers they endure
 With structures strong and pure.
 
-The Archaeocyathid race
+The {{c|Archaeocyathid}} race
 Built reefs in every place.
 Their legacy lives on today
 In reefs where fishes play.
 
-Among the sons of Demos came
+Among the sons of {{c|Demos}} came
 The hunters fierce of name:
-Great Chondrocles' hunting band
-Spread wide across the land.
+Great {{c|Chondrocles}}' hunting band
+{{c|Spread}} wide across the land.
 
-Carnivorous sponges they became,
+{{c|Carnivorous}} sponges they became,
 With predatory fame.
-They trap the sons of Cambrius
+They trap the sons of {{c|Cambrius}}
 With methods dangerous.
 
 Their hooks reach out with deadly art
@@ -43,8 +43,8 @@ To pierce the victim's heart.
 Their shieldmaidens come for the kill
 To satisfy their will.
 
-Among Spiralius' noble line
-The sons of Brachios shine.
+Among {{c|Spiralius}}' noble line
+The sons of {{c|Brachios}} shine.
 In new reefs they made their home
 Where prosperous they'd roam.
 
@@ -53,80 +53,80 @@ To fortune every day.
 The reefs became their fishing ground
 Where plenty could be found.
 
-And so began Tommotian days
+And so began {{c|Tommotian}} days
 Of glory and of praise.
 A new era had begun
 Beneath the shining sun.
 
-Here now we tell the tale
-Of Lobopus without fail.
+{{c|Here}} now we tell the tale
+Of {{c|Lobopus}} without fail.
 His vision he imposed with might
 On all the world's delight.
 
-Great Lobopus saw his will was weak,
+Great {{c|Lobopus}} saw his will was weak,
 His citizens made meek.
-A heart like Dutrus he built true
+A heart like {{c|Dutrus}} he built true
 To nourish all he knew.
 
-From Lobopus came forth
-Onychodictyon of worth.
+From {{c|Lobopus}} came forth
+{{c|Onychodictyon}} of worth.
 This son would bear two more:
-Tactopus to explore
-And Xenu, dark and fell,
+{{c|Tactopus}} to explore
+And {{c|Xenu}}, dark and fell,
 With stories he would tell.
 
-Tactopus bore twin sons of might:
-Ferreus burning bright
-And Ferox, strong and bold,
+{{c|Tactopus}} bore twin sons of might:
+{{c|Ferreus}} burning bright
+And {{c|Ferox}}, strong and bold,
 With stories to be told.
 
-But Xenu sought to rule the stars
+But {{c|Xenu}} sought to rule the stars
 And heal all psychic scars.
-Emperor of galaxy wide
+{{c|Emperor}} of galaxy wide
 He claimed with foolish pride.
 
 Into our minds he tried to write
-Stories of weakness' sight.
-But Gracilis, his noble son,
+{{c|Stories}} of weakness' sight.
+But {{c|Gracilis}}, his noble son,
 Put end to what he'd done.
 
 And so three houses came to birth:
-Velvetclaw upon the earth,
-Ironfoot with strength so true,
-And Waterbear's line too.
+{{c|Velvetclaw}} upon the earth,
+{{c|Ironfoot}} with strength so true,
+And {{c|Waterbear}}'s line too.
 
-Here now Velvetclaw's tale we tell
+{{c|Here}} now {{c|Velvetclaw}}'s tale we tell
 Of how they rose so well.
-From Gracilis came four sons strong:
-Paucipodes all along,
-Microdictyon brave and true,
-Xenianus through and through,
-And Therion Velvetclaw
+From {{c|Gracilis}} came four sons strong:
+{{c|Paucipodes}} all along,
+{{c|Microdictyon}} brave and true,
+{{c|Xenianus}} through and through,
+And {{c|Therion}} {{c|Velvetclaw}}
 Who followed nature's law.
 
-Xenianus bore twin maids:
-Xenusia in the glades
-And Diania the Cactus bright
+{{c|Xenianus}} bore twin maids:
+{{c|Xenusia}} in the glades
+And {{c|Diania}} the {{c|Cactus}} bright
 With spines to win the fight.
 
-Therion Velvetclaw begot
-Cardios, who fought
-And Hallucigena strange
-Throughout his living range.
+{{c|Therion}} {{c|Velvetclaw}} begot
+{{c|Cardios}}, who fought
+And {{c|Hallucigena}} strange
+{{c|Throughout}} his living range.
 
-From Hallucigena came
+From {{c|Hallucigena}} came
 Four children of great fame:
-Sparsa quick and light,
-Fortis strong in fight,
-Hongmen wise and old,
-And Annika, brave and bold.
+{{c|Sparsa}} quick and light,
+{{c|Fortis}} strong in fight,
+{{c|Hongmen}} wise and old,
+And {{c|Annika}}, brave and bold.
 
-Hongmen bore two sons so grand:
-Luolishania in the land
-And Collins Monster, fierce and wild,
-Nature's problem child.
+{{c|Hongmen}} bore two sons so grand:
+{{c|Luolishania}} in the land
+And {{c|Collins}} {{c|Monster}}, fierce and wild,
+{{c|Nature}}'s problem child.
 
-But Annika chose a different way,
+But {{c|Annika}} chose a different way,
 She cast her armor away.
 For agility she traded
 Her protection heavy-shaded.
@@ -136,51 +136,51 @@ Of velvet worms so blue.
 A caring matriarch is she
 Who guides them lovingly.
 
-In Ursus' line things went
+In {{c|Ursus}}' line things went
 Down a different bent.
-Ferox wanted to survive
-Whatever came alive.
+{{c|Ferox}} wanted to survive
+{{c|Whatever}} came alive.
 
 He downsized small and tough,
-Invulnerable stuff.
-From him came Ursus strong,
+{{c|Invulnerable}} stuff.
+From him came {{c|Ursus}} strong,
 Who lived both short and long.
 
-Ursus became the sire
+{{c|Ursus}} became the sire
 Of water bears' entire
-Line who first conquered land
+{{c|Line}} who first conquered land
 With their small, mighty band.
 
-Unable yet to breathe
+{{c|Unable}} yet to breathe
 On land's protecting sheath,
-As Tuns they go dormant true
+As {{c|Tuns}} they go dormant true
 Until the danger's through.
 
-In Ironfoot's great line
-Greatness would shine.
-Ferreus Ironfoot bore
+In {{c|Ironfoot}}'s great line
+{{c|Greatness}} would shine.
+{{c|Ferreus}} {{c|Ironfoot}} bore
 Two sons to explore:
 
-Gille built gills with care
+{{c|Gille}} built gills with care
 Above his legs so fair.
-His son Kerygmachelon
-Swam with gills upon.
+His son {{c|Kerygmachelon}}
+{{c|Swam}} with gills upon.
 
-Kerygmachelon the great
+{{c|Kerygmachelon}} the great
 Had a noble fate.
-He bore son Pambdelurion,
-Mighty champion.
+He bore son {{c|Pambdelurion}},
+{{c|Mighty}} champion.
 
-Pambdelurion bore three
-Children of destiny:
-Arthur strong and true,
-Anomalos who grew
+{{c|Pambdelurion}} bore three
+{{c|Children}} of destiny:
+{{c|Arthur}} strong and true,
+{{c|Anomalos}} who grew
 To rule with iron hand,
 And fair throughout the land,
-Opabinia the bright,
-Beautiful to sight.
+{{c|Opabinia}} the bright,
+{{c|Beautiful}} to sight.
 
-Arthur built armor strong
+{{c|Arthur}} built armor strong
 To last his whole life long.
 His flying gills he hardened tight
 And fused them for the fight.
@@ -190,88 +190,88 @@ The gill as exopod grew,
 The leg as endopod stayed—
 Thus arthropods were made.
 
-The sons of Anomalos ruled
+The sons of {{c|Anomalos}} ruled
 As none before had schooled.
 The world entire was theirs
 Through all their proud affairs.
 
 For generations ten they reigned
 While others were constrained.
-From realm of Ghedos dark
+From realm of {{c|Ghedos}} dark
 He watched his royal mark.
 
 But on his deathbed bed
 These words of doom were said:
-"Thy pomp brought down to grave,
+"{{c|Thy}} pomp brought down to grave,
 No power left to save.
 
 How art thou fallen down,
-O Anomalos from thy crown!
+O {{c|Anomalos}} from thy crown!
 From heaven thou art cast,
-Thy glory could not last."
+{{c|Thy}} glory could not last."
 
 Yet single death could not end
 The suffering they send.
 His sons would rule with might
 Through day and through the night.
 
-But fair Opabinia's daughters all
-Answered beauty's call.
-Humble lives they led
+But fair {{c|Opabinia}}'s daughters all
+{{c|Answered}} beauty's call.
+{{c|Humble}} lives they led
 With grace and gentle tread.
 
-And Arthur Ironfoot's line
+And {{c|Arthur}} {{c|Ironfoot}}'s line
 Would grow beyond design.
 Through hardship they endured
 With blood and sweat assured.
 
-The Arthropods they became
+The {{c|Arthropods}} they became
 With million-species fame.
-Today they rule the earth
+{{c|Today}} they rule the earth
 Since their ancient birth.
 
-From Lobopus came the tide
+From {{c|Lobopus}} came the tide
 That spread both far and wide.
 Three houses born that day
 Would rule in their own way.
 
-Velvetclaw with agile grace,
-Waterbear's enduring race,
-Ironfoot with strength so true—
+{{c|Velvetclaw}} with agile grace,
+{{c|Waterbear}}'s enduring race,
+{{c|Ironfoot}} with strength so true—
 All from one ancestor grew.
 
-The Tommotian age began
+The {{c|Tommotian}} age began
 With more than mortal plan.
 The reefs rose from the sea
 For all eternity.
 
 In every coral home
 Where fishes freely roam,
-Remember Cyath's art
+Remember {{c|Cyath}}'s art
 That gave the reefs their start.
 
 In every velvet worm
 That makes the earth worm squirm,
-Annika's caring way
-Lives on another day.
+{{c|Annika}}'s caring way
+{{c|Lives}} on another day.
 
 In every water bear
 That conquers everywhere,
-Ursus' strength endures
+{{c|Ursus}}' strength endures
 Through all that time assures.
 
 In every arthropod
 That walks upon the sod,
-Arthur's innovation
-Shaped our creation.
+{{c|Arthur}}'s innovation
+{{c|Shaped}} our creation.
 
-The sons of Cambrius changed
+The sons of {{c|Cambrius}} changed
 How all life was arranged.
 Their multiplication
 Changed all of creation.
 
 But from these changes came
-Lines of lasting fame:
+{{c|Lines}} of lasting fame:
 The builders of the reef,
 The hunters beyond belief.
 

@@ -1,36 +1,36 @@
-{{c|444|Vater}} was the son so great
+{{c|Vater}} was the son so great
 In the tenth generation's fate
-Of {{c|445|Pteraspis}}, and he'd be
-Ancestor of humanity
+Of {{c|Pteraspis}}, and he'd be
+{{c|Ancestor}} of humanity
 
 And myriad species more
 From mountain peak to shore.
 His innovation would
 Change all for the good.
 
-Vater built a channel
-Grand beyond all span-el
-Uniting liver bright
+{{c|Vater}} built a channel
+{{c|Grand}} beyond all span-el
+{{c|Uniting}} liver bright
 And pancreas in sight
 
 Into his belly's space.
 To this day we trace
 This channel's honored name:
-"Ampulla of {{c|444|Vater}}'s" fame.
+"{{c|Ampulla}} of {{c|Vater}}'s" fame.
 
 Such an exalted father,
-Father of more than other
-Men could ever dream,
-The Elohim's esteem
+{{c|Father}} of more than other
+{{c|Men}} could ever dream,
+The {{c|Elohim}}'s esteem
 
-Called him {{c|487|Abraham}}
-According to their plan
+Called him {{c|Abraham}}
+{{c|According}} to their plan
 For one whose progeny
 Would fill eternity.
 
-{{c|444|Vater}} bore two sons:
-{{c|488|Arandus}} when begun
-The day, and {{c|489|Hestracon}}
+{{c|Vater}} bore two sons:
+{{c|Arandus}} when begun
+The day, and {{c|Hestracon}}
 Whose work would carry on
 
 The family's great name
@@ -38,8 +38,8 @@ Through evolutionary flame
 That burns in every heart
 That plays innovation's part.
 
-Hestracon found his belly
-Inadequate, not ready
+{{c|Hestracon}} found his belly
+{{c|Inadequate}}, not ready
 For the work he knew
 That he would have to do.
 
@@ -48,17 +48,17 @@ The same, and he'd call
 This simple with disdain—
 Only his father's main
 
-Ampulla in the middle
+{{c|Ampulla}} in the middle
 To solve digestion's riddle.
 But this was not enough
 For one so strong and tough
 
-As {{c|489|Hestracon}}, who'd see
+As {{c|Hestracon}}, who'd see
 What greater good could be
 If he would dare to build
 What none before had willed.
 
-{{c|489|Hestracon}} built with care
+{{c|Hestracon}} built with care
 A chamber prepared
 Before his father's gift
 To give digestion lift.
@@ -83,29 +83,29 @@ The intestine, well-played
 In its appointed role
 To nourish the whole.
 
-{{c|489|Hestracon}} begat two:
-{{c|490|Astrops}}, tried and true,
-And {{c|491|Eteros}} the strong
+{{c|Hestracon}} begat two:
+{{c|Astrops}}, tried and true,
+And {{c|Eteros}} the strong
 Who lived his whole life long.
 
-{{c|491|Eteros}} begat then
+{{c|Eteros}} begat then
 Two sons beyond all ken:
-{{c|492|Cyatha}}, cup-shield bright,
-And {{c|493|Tsubasa}}'s sight
+{{c|Cyatha}}, cup-shield bright,
+And {{c|Tsubasa}}'s sight
 
-Wing-shielded, prepared
+{{c|Wing}}-shielded, prepared
 For all that he had dared
 To face in his lifetime
 Through reason and through rhyme.
 
-{{c|493|Tsubasa}} begat two:
-{{c|494|Thelos}}, tried and true,
-And {{c|495|Cephalus}} the wise
+{{c|Tsubasa}} begat two:
+{{c|Thelos}}, tried and true,
+And {{c|Cephalus}} the wise
 With penetrating eyes.
 
-Thelos broke his armor
+{{c|Thelos}} broke his armor
 Into scales—no former
-Rigidity would bind
+{{c|Rigidity}} would bind
 His innovative mind.
 
 Into innumerable scales
@@ -119,18 +119,18 @@ From rigid armor's weight
 That sealed their swimming fate.
 
 Where none others could bend
-Well enough to transcend
+{{c|Well}} enough to transcend
 The coral's tight embrace,
-{{c|494|Thelos}} found his place.
+{{c|Thelos}} found his place.
 
-Neither sons of {{c|393|Arthropus}}
-Nor sons of {{c|109|Molluscus}},
-Nor sons of {{c|75|Chordatus}}
+Neither sons of {{c|Arthropus}}
+Nor sons of {{c|Molluscus}},
+Nor sons of {{c|Chordatus}}
 Could match his status
 
 In the reef's tight spaces
 Where his grace replaces
-Rigidity with flow
+{{c|Rigidity}} with flow
 That helps him grow
 
 Into every niche
@@ -138,13 +138,13 @@ Where others couldn't reach
 The food that he could take
 For his own sake.
 
-Cephalus bore wings bright
+{{c|Cephalus}} bore wings bright
 On each side in sight
 Of his helmet's form,
 Through calm and raging storm.
 
 His head flew as he swam
-According to his plan
+{{c|According}} to his plan
 For stability and grace
 In every watery place.
 
@@ -154,13 +154,13 @@ In vigilance for all
 That might befall
 
 His swimming through the sea.
-Aware of all that he
+{{c|Aware}} of all that he
 Could sense around his form,
 He weathered every storm.
 
-{{c|495|Cephalus}} begat two:
-{{c|496|Galeas}}, tried and true,
-And {{c|497|Osteos}}, who'd see
+{{c|Cephalus}} begat two:
+{{c|Galeas}}, tried and true,
+And {{c|Osteos}}, who'd see
 What innovation's key
 
 Could open in the world
@@ -168,18 +168,18 @@ Where possibilities unfurled
 For those who dared to think
 Beyond tradition's link.
 
-{{c|497|Osteos}} was in plight—
+{{c|Osteos}} was in plight—
 His bones weren't right
 For efficiency, he knew.
 He had to make them new.
 
 His bones were expensive,
-Comprehensively
-Wasting countless moles
+{{c|Comprehensively}}
+{{c|Wasting}} countless moles
 Of calcium that rolls
 
 Through phosphorus and more
-Elements by the score
+{{c|Elements}} by the score
 That could be better used
 If they were not abused
 
@@ -193,12 +193,12 @@ Would build more cleverly
 His skeleton anew
 With wisdom tried and true.
 
-{{c|497|Osteos}} built with care
-Blood channels everywhere
+{{c|Osteos}} built with care
+{{c|Blood}} channels everywhere
 Inside his bones, making
-Living, breathing, taking
+{{c|Living}}, breathing, taking
 
-Stores of minerals
+{{c|Stores}} of minerals
 That worked like generals
 In abundance building up
 From nature's flowing cup,
@@ -210,7 +210,7 @@ Like treasure in his store.
 
 And so he grew more strong
 And prosperous life long
-Than all his relatives
+{{c|Than}} all his relatives
 Who took what nature gives
 
 But never learned to save
@@ -223,9 +223,9 @@ When resources weren't scanty
 But flowed like rivers wide
 With bounty as their guide.
 
-Osteos bore two sons:
-Pituri when begun
-The day, and Ostracos
+{{c|Osteos}} bore two sons:
+{{c|Pituri}} when begun
+The day, and {{c|Ostracos}}
 Whose children, glorious,
 
 Would multiply and spread
@@ -233,10 +233,10 @@ Until the world was fed
 With countless forms of life
 Through harmony, not strife.
 
-Ostracos bore a host
+{{c|Ostracos}} bore a host
 Of sons from coast to coast:
 A million who would spread
-Wherever they were led
+{{c|Wherever}} they were led
 
 By life's eternal call
 To multiply for all
@@ -248,17 +248,17 @@ Through calm and raging storms
 Of evolution's way
 From night into the day.
 
-Pituri grew a snout
-Long beyond all doubt
+{{c|Pituri}} grew a snout
+{{c|Long}} beyond all doubt
 The longest ever seen
 In evolution's scene.
 
-Pituri begat then
-Beakon beyond all ken
+{{c|Pituri}} begat then
+{{c|Beakon}} beyond all ken
 In wisdom and in might
 To see with clearer sight.
 
-Pituri's mouth was made
+{{c|Pituri}}'s mouth was made
 Of lips, but never strayed
 Into the realm of jaws—
 He followed simpler laws.
@@ -268,12 +268,12 @@ But never could erase
 His prey with biting might—
 No jaw was in his sight.
 
-But Beakon saw potential
+But {{c|Beakon}} saw potential
 In what was essential
 About his father's snout
 And figured it out.
 
-And so Beakon moved
+And so {{c|Beakon}} moved
 His gill arches and proved
 That innovation's art
 Could play a vital part.
@@ -283,10 +283,10 @@ The arches, and he fought
 For food in a new way
 That worked both night and day.
 
-Beakon's son named Gnathus
+{{c|Beakon}}'s son named {{c|Gnathus}}
 Saw potential, glorious,
-And he with wife Pelaca
-Hunted like none other.
+And he with wife {{c|Pelaca}}
+{{c|Hunted}} like none other.
 
 They hunted trilobites
 And brought them to their lights
@@ -301,16 +301,16 @@ And brought them to the sight
 Of their armored jaws
 That followed nature's laws
 But used them in new ways
-Throughout their living days.
+{{c|Throughout}} their living days.
 
 They sliced through every meal
 With jaws of steel-hard feel
 That brought life-giving food
 In their hunting mood.
 
-And so Jaws were born
+And so {{c|Jaws}} were born
 On that fateful morn
-When Gnathus and Pelaca
+When {{c|Gnathus}} and {{c|Pelaca}}
 Showed what none could match-a:
 
 The power to break through
@@ -333,30 +333,30 @@ That brought to sight
 A revolution new
 In what life could do.
 
-From Vater's ampulla
-To Gnathus' formula
+From {{c|Vater}}'s ampulla
+To {{c|Gnathus}}' formula
 For crushing with his jaws
-According to new laws,
+{{c|According}} to new laws,
 
 The vertebrates show how
-Innovation's vow
+{{c|Innovation}}'s vow
 To never be content
 With what is merely sent
 
 By fate, but always strive
 To be more alive
 And capable and strong
-Throughout their whole life long
+{{c|Throughout}} their whole life long
 
-Journey through the sea
+{{c|Journey}} through the sea
 Of possibility
 Where those who dare to grow
 Will always come to know
 
-New heights of what can be
+{{c|New}} heights of what can be
 For all eternity
 When innovation's fire
-Burns with true desire
+{{c|Burns}} with true desire
 
 To make the world more bright
 With new forms that take flight
@@ -368,13 +368,13 @@ For all humanity
 And every living thing
 That answers life's ring.
 
-From Hestracon's stomach
-To Osteos' pragmatic
-Bones with channels through,
-From scales that Thelos knew
+From {{c|Hestracon}}'s stomach
+To {{c|Osteos}}' pragmatic
+{{c|Bones}} with channels through,
+From scales that {{c|Thelos}} knew
 
 Would give him flexibility
-To Cephalus' ability
+To {{c|Cephalus}}' ability
 To fly through water's space
 With stabilizing grace,
 
@@ -408,17 +408,17 @@ Through all eternity
 Where dreams can all come true
 For me and you today.
 
-The jaws that Gnathus made
+The jaws that {{c|Gnathus}} made
 Will never ever fade
 From vertebrate design—
-Protection so fine
+{{c|Protection}} so fine
 
 Against the world's hard ways
-Throughout our living days
+{{c|Throughout}} our living days
 When we must fight to eat
 And make our lives complete.
 
-From Vater's family tree
+From {{c|Vater}}'s family tree
 To jaws that set us free
 From limitations old
 Of stories yet untold,
@@ -448,9 +448,9 @@ All limits and extend
 The boundaries of life
 Through harmony, not strife.
 
-The world that Gnathus bit
+The world that {{c|Gnathus}} bit
 With jaws of steel and grit
-Lives on in every tooth
+{{c|Lives}} on in every tooth
 That tells the truth
 
 Of how innovation's way
@@ -463,7 +463,7 @@ Of stories never told
 And write upon the page
 Of evolution's age
 
-New chapters yet unread
+{{c|New}} chapters yet unread
 Where we are led
 By wisdom's guiding light
 To make the future bright
@@ -483,7 +483,7 @@ For every woman, man,
 And every living thing
 That answers hope's ring.
 
-From Vater's great design
-To Gnathus' jaw so fine,
+From {{c|Vater}}'s great design
+To {{c|Gnathus}}' jaw so fine,
 The story's clear to see:
-Innovation sets us free.
+{{c|Innovation}} sets us free.
