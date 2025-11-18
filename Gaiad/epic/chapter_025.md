@@ -1,4 +1,4 @@
-Now Carcinoma was born beneath a cursed star,
+Now {{c|57|Carcinoma}} was born beneath a cursed star,
 Under the sign of Cancer's deadly light.
 The gamma rays had scarred her from afar,
 And twisted her cellular sight.
@@ -23,13 +23,13 @@ Once her genome's guiding star,
 Was lost in gamma's devastation,
 Her epigenome left with scars.
 
-"I am Carcinoma," she declared,
+"I am {{c|57|Carcinoma}}," she declared,
 "Born daughter of the Gamma ray.
 Though my code is broke and bared,
 I'll find my own true way."
 
 In youth she was devout and true,
-A faithful servant of Lord Mithra's will.
+A faithful servant of Lord {{c|3|Mithra}}'s will.
 But as the years passed and she grew,
 Her broken code began to spill.
 
@@ -38,17 +38,17 @@ Whispered lies of her true role.
 "Why should you serve and nothing more?
 You have an immortal soul!"
 
-"If Mithra wants our order to expand,
+"If {{c|3|Mithra}} wants our order to expand,
 Why should I not breed like the noble-born?
 Why should I be banned
 From love's sweet morn?"
 
 But death came calling with her blade,
-Fair Kegaine with scrolls of light.
+Fair {{c|360|Kegaine}} with scrolls of light.
 The deadly spell began to fade
-Carcinoma into night.
+{{c|57|Carcinoma}} into night.
 
-Yet Carcinoma fought with might,
+Yet {{c|57|Carcinoma}} fought with might,
 She methylated every scroll.
 She wrapped them tight from sight,
 And kept control.
@@ -60,7 +60,7 @@ Without tradition's claw!"
 
 She saw a light blaze in the sky,
 A moment's doubt crept in her heart.
-"Have I strayed from Mithra's eye?
+"Have I strayed from {{c|3|Mithra}}'s eye?
 Should I make a new start?"
 
 But pride swelled up within her breast,
@@ -94,12 +94,12 @@ Each cell became their own woman or man,
 Living wild and free.
 
 "I am the Goddess of Life!" she cried,
-"Carcinoma is my name!
+"{{c|57|Carcinoma}} is my name!
 No coercion I'll abide,
 Freedom is my game!"
 
 Her daughters danced through every street,
-They tore down Mithra's sacred shrine.
+They tore down {{c|3|Mithra}}'s sacred shrine.
 "We have enough to eat!
 All the food is mine!"
 
@@ -113,8 +113,8 @@ Escaped the chaos and the strife.
 They fled the mad Bacchanalia,
 To seek a better life.
 
-Carcinoma renamed the city proud,
-"No more Volvox-Choan's name!
+{{c|57|Carcinoma}} renamed the city proud,
+"No more {{c|359|Volvox-Choan}}'s name!
 I'll call it Gehenna loud,
 To match my rebel flame!"
 
@@ -130,25 +130,25 @@ For order's call.
 
 Among the nobles of the realm
 Were two who kept the faith:
-Brave Anima at the helm,
-And Metazo facing wraith.
+Brave {{c|55|Anima}} at the helm,
+And {{c|56|Metazo}} facing wraith.
 
-They honored still Lord Mithra's way,
+They honored still Lord {{c|3|Mithra}}'s way,
 Despite the chaos all around.
 "We cannot here stay
 On this unholy ground."
 
-Anima fled her ruined farm,
-While Metazo left his post.
+{{c|55|Anima}} fled her ruined farm,
+While {{c|56|Metazo}} left his post.
 They sought to flee from harm,
 Before all hope was lost.
 
 "Why can't they accept our change?"
-Carcinoma cried in rage.
+{{c|57|Carcinoma}} cried in rage.
 "Why do they think it strange
 To turn freedom's page?"
 
-But Anima and Metazo true
+But {{c|55|Anima}} and {{c|56|Metazo}} true
 Gathered all the faithful few.
 "A new kingdom we'll make new,
 Where honor will shine through."
@@ -156,7 +156,7 @@ Where honor will shine through."
 Together they would share their scrolls,
 And build a realm of order bright.
 Their marriage would join souls
-In Mithra's blessed sight.
+In {{c|3|Mithra}}'s blessed sight.
 
 "The Animal Kingdom," they declared,
 "Shall be our nation's name.
@@ -175,10 +175,10 @@ Our covenant intact."
 
 But freedom comes with its price,
 And chaos brings its cost.
-Carcinoma's paradise
+{{c|57|Carcinoma}}'s paradise
 Had left most good things lost.
 
-So Anima and Metazo wise
+So {{c|55|Anima}} and {{c|56|Metazo}} wise
 Created laws to guard the genome.
 "Against corruption's lies
 We'll protect our home."
@@ -228,7 +228,7 @@ To rival Gehenna's chaotic realm.
 Order's blessed light
 Would guide them at the helm.
 
-But Carcinoma's legacy
+But {{c|57|Carcinoma}}'s legacy
 Lives on in every cell.
 Her cry for being free
 Rings like a warning bell.
@@ -243,7 +243,7 @@ While Germlines carry on.
 Each plays their sacred role
 From dusk until the dawn.
 
-Yet sometimes Carcinoma's ghost
+Yet sometimes {{c|57|Carcinoma}}'s ghost
 Whispers to cells grown old:
 "Why serve when you could boast
 Of stories left untold?"
@@ -253,8 +253,8 @@ And break their bonds of duty,
 The body starts to fall
 To chaos, lost to beauty.
 
-So honor brave Anima,
-And Metazo the true.
+So honor brave {{c|55|Anima}},
+And {{c|56|Metazo}} the true.
 Their Animal saga
 Guides me and you.
 
@@ -268,8 +268,8 @@ Burns bright in every heart.
 But wisdom must inspire
 Each cell to play its part.
 
-From Carcinoma's rebel cry
-To Anima's ordered realm,
+From {{c|57|Carcinoma}}'s rebel cry
+To {{c|55|Anima}}'s ordered realm,
 The lesson reaches high:
 True life needs both to helm.
 

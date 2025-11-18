@@ -1,4 +1,4 @@
-This is the chronicle of Cnider,
+This is the chronicle of {{c|59|Cnider}},
 Who sat upon a rock so wide
 And built on each side of his throne
 A row of mouths, his very own.
@@ -13,19 +13,19 @@ A Siphonoglyph, perfectly spaced.
 Down each mouth, with skillful art,
 Each played their fishing part.
 
-Great Cnider made a sacred pact
-With Luna, keeping their contract.
+Great {{c|59|Cnider}} made a sacred pact
+With {{c|4|Luna}}, keeping their contract.
 By her blessing, bright and true,
 On the full moon he bore two.
 
 Two sons came in her silver light:
-Traditional Anthus, shining bright,
-And bold Anaxydros the new,
+Traditional {{c|61|Anthus}}, shining bright,
+And bold {{c|62|Anaxydros}} the new,
 Whose innovations would shine through.
 
-To this day when Luna's face
+To this day when {{c|4|Luna}}'s face
 Shines full upon the watery place,
-The sons of Cnider and fair Nettle
+The sons of {{c|59|Cnider}} and fair {{c|60|Nettle}}
 Their reproductive matters settle.
 
 By moonlight they bear their young,
@@ -33,27 +33,27 @@ As Luna's ancient song is sung.
 The tidal pull, the silver beam
 Fulfill their reproductive dream.
 
-Now Anthus kept the ancient way,
+Now {{c|61|Anthus}} kept the ancient way,
 Following tradition's display.
 His children built their homes on stone
 And never far from land they'd roam.
 
-But bold Anaxydros chose to change,
+But bold {{c|62|Anaxydros}} chose to change,
 His innovations were strange.
 From him came children two:
-Pompom and Meduson true.
+{{c|63|Pompom}} and {{c|64|Meduson}} true.
 
-Great Pompom chose the stalked path,
+Great {{c|63|Pompom}} chose the stalked path,
 To weather time and nature's wrath.
 He built upon the ocean floor
 And opened innovation's door.
 
-From Pompom came two sons of might:
-Conos and Stauros, burning bright.
+From {{c|63|Pompom}} came two sons of might:
+{{c|65|Conos}} and {{c|66|Stauros}}, burning bright.
 The stalked jellyfish they became,
 Adding to their ancestor's fame.
 
-But Meduson chose a different way,
+But {{c|64|Meduson}} chose a different way,
 He would not on the bottom stay.
 A new city he did build
 That with wanderlust was filled.
@@ -93,12 +93,12 @@ Helped them capture morning light.
 These partnerships would make
 The reefs for others' sake.
 
-From Meduson came children two:
-Bold Diplos and sweet Jelly true.
+From {{c|64|Meduson}} came children two:
+Bold {{c|67|Diplos}} and sweet {{c|68|Jelly}} true.
 Each would take a different path
 Through ocean's joy and wrath.
 
-Fair Jelly bore two mighty lines
+Fair {{c|68|Jelly}} bore two mighty lines
 Of jellyfish with grand designs:
 The Cubozoans, box-shaped, wise,
 Who learned to use their eyes.
@@ -108,7 +108,7 @@ Who granted many a sailor's wish
 To see their beauty in the deep
 Where ocean secrets keep.
 
-The sons of Scyphos numbered high,
+The sons of {{c|70|Scyphos}} numbered high,
 Beneath the sea and sky.
 Each polyp bore a myriad young
 Whose praises would be sung.
@@ -118,17 +118,17 @@ Through waters like a swimming ram.
 Their trailing tentacles so long
 Made predators think twice.
 
-But Cubos was a father kind,
+But {{c|69|Cubos}} was a father kind,
 With caring heart and mind.
 He bore but few children dear
 And held each one near.
 
-We pray to Cubos when we seek
+We pray to {{c|69|Cubos}} when we seek
 To be fathers strong, not weak.
 His example shows the way
 To care for young each day.
 
-The eyes of Cubos, complex, true,
+The eyes of {{c|69|Cubos}}, complex, true,
 Could see through waters blue.
 No simple spots of light were these,
 But eyes that truly seize.
@@ -138,7 +138,7 @@ Each movement, form, and face.
 The box jellyfish today
 Still see in Cubos' way.
 
-From Cnider's ancient line
+From {{c|59|Cnider}}'s ancient line
 Came forms both crude and fine.
 Some stayed upon the rocky shore
 While others chose to soar.
@@ -188,12 +188,12 @@ Of their biology
 Shows patterns clean and true
 In everything they do.
 
-So honor great Cnider,
+So honor great {{c|59|Cnider}},
 That ancient provider
 Who sat upon his stone
 And made the sea his own.
 
-His covenant with Luna's light
+His covenant with {{c|4|Luna}}'s light
 Still guides them through the night.
 When the full moon shines above,
 They make their spawn with love.

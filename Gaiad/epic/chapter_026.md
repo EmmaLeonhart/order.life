@@ -1,12 +1,12 @@
-From Euka's line arose kingdoms three,
+From {{c|24|Euka}}'s line arose kingdoms three,
 The greatest realms beneath the sea.
 Each house would claim its sovereignty,
 And rule with power, wild and free.
 
-The Kingdom of proud Plantus rose,
+The Kingdom of proud {{c|284|Plantus}} rose,
 Where photosynthetic glory grows.
-The realm of Mygus, where fungus flows,
-And Metazo's beasts in ordered rows.
+The realm of {{c|361|Mygus}}, where fungus flows,
+And {{c|56|Metazo}}'s beasts in ordered rows.
 
 Beside them stood the lesser lights:
 Mygaster's realm, Kelpus' heights,
@@ -18,18 +18,18 @@ While Myxo's daughters sought their food.
 Each scions built where they once stood
 Their cities in the neighborhood.
 
-From Metazo and fair Anima
+From {{c|56|Metazo}} and fair {{c|55|Anima}}
 Came creatures of the wild drama.
-From Mygus and sweet Funga
+From {{c|361|Mygus}} and sweet {{c|362|Funga}}
 Rose fungi's mystic saga.
 
-While Plantus and Virita bright
+While {{c|284|Plantus}} and {{c|325|Virita}} bright
 Begat the plants that seek the light.
 Each kingdom claimed its ancient right
 To rule with majesty and might.
 
 Upon a rock both firm and true,
-Great Metazo and Anima
+Great {{c|56|Metazo}} and {{c|55|Anima}}
 Built their city, small but new,
 The Animal Kingdom's first hurrah.
 
@@ -49,31 +49,31 @@ Their city, though it was not seen
 By many, shone with inner light.
 
 From this great union came a son,
-Bold Therion of noble birth.
+Bold {{c|363|Therion}} of noble birth.
 When his childhood days were done,
 He spread his lineage through the earth.
 
-Great Therion bore three children true:
-Brave Porifer, the sponge's king,
-And Thallus with his geometric view,
-And Cloudi, who would upward bring.
+Great {{c|363|Therion}} bore three children true:
+Brave {{c|364|Porifer}}, the sponge's king,
+And {{c|365|Thallus}} with his geometric view,
+And {{c|366|Cloudi}}, who would upward bring.
 
-Now Thallus chose the structured way,
+Now {{c|365|Thallus}} chose the structured way,
 With holdfasts gripping to the stone.
 His Choanoderms in bright array
 Extended in directions known.
 
-But Cloudi raised his ectoderm high,
+But {{c|366|Cloudi}} raised his ectoderm high,
 Above the ground his city soared.
 His children reached toward the sky,
 Each generation climbing forward.
 
-From Cloudi came two children bright:
-Fair Cloudina, growing slow,
+From {{c|366|Cloudi}} came two children bright:
+Fair {{c|367|Cloudina}}, growing slow,
 Who built her city with sediment's might,
 And let the layers gently flow.
 
-But brave Namacalathus rose
+But brave {{c|368|Namacalathus}} rose
 Above the ground to seek the air.
 His city's secrets, no one knows,
 His mysteries beyond compare.
@@ -83,7 +83,7 @@ Built cities strange and wondrous fair.
 Their forms we'll never quite detect,
 Their wisdom lost beyond our care.
 
-But Porifer chose a different path,
+But {{c|364|Porifer}} chose a different path,
 He was the first true sponge of old.
 With ectoderm's protective wrath,
 He kept his choanocytes bold.
@@ -93,12 +93,12 @@ His fishermen could work in peace.
 This innovation he gave
 Would make his line never cease.
 
-From Porifer came Wallas true,
+From {{c|364|Porifer}} came {{c|369|Wallas}} true,
 Who lived just like his father dear.
 But danger came into his view,
 A storm approached with deadly fear.
 
-"My people," Wallas cried aloud,
+"My people," {{c|369|Wallas}} cried aloud,
 "We must prepare for what's ahead!
 Pull tight your pseudopods, be proud,
 Or we shall all be dead!"
@@ -113,7 +113,7 @@ The mouths and other openings.
 The muscles would set free
 The power that contraction brings.
 
-From Wallas came great Solenos,
+From {{c|369|Wallas}} came great {{c|370|Solenos}},
 Who saw a better way to build.
 Through his city, waters' flows
 Would bring the food to be filled.
@@ -123,34 +123,34 @@ And water rushed through every gate.
 His city prospered, fully grown,
 With fish caught early and late.
 
-From Solenos came two sons:
-Bold Leucon and fair Sponga bright.
+From {{c|370|Solenos}} came two sons:
+Bold {{c|371|Leucon}} and fair {{c|372|Sponga}} bright.
 When their childhood was done,
 They filled the sea with their might.
 
 Together they bore children two:
-Great Vitrius of glass so clear,
-And Spongius, wise and true,
+Great {{c|373|Vitrius}} of glass so clear,
+And {{c|374|Spongius}}, wise and true,
 Whose name we hold dear.
 
-Now Leucon was a builder grand,
+Now {{c|371|Leucon}} was a builder grand,
 A Leuconoid of complex form.
 He filled his city through the land
 With labyrinths to weather storm.
 
 His gates and fishermen galore
 Made cities massive, wide, and tall.
-The sons of Leucon built much more
+The sons of {{c|371|Leucon}} built much more
 Than any seen before them all.
 
-But Vitrius, his eldest son,
+But {{c|373|Vitrius}}, his eldest son,
 Grew jealous of his father's fame.
 He thought his time had come
 To claim the royal name.
 
 With stone in hand, he struck his sire,
-And Leucon fell beneath the blow.
-Young Vitrius' dark desire
+And {{c|371|Leucon}} fell beneath the blow.
+Young {{c|373|Vitrius}}' dark desire
 Had brought his father low.
 
 "I claim the throne!" he cried with pride,
@@ -163,9 +163,9 @@ Made them work until they died.
 He merged their minds with no ease,
 A hive-mind he created with pride.
 
-When Spongius asked him why
+When {{c|374|Spongius}} asked him why
 He'd killed their father dear,
-Vitrius' cold reply
+{{c|373|Vitrius}}' cold reply
 Rang out for all to hear:
 
 "Our father was a tyrant cruel,
@@ -178,12 +178,12 @@ And shouted from behind the glass:
 "I am invincible, and none shall roam
 Against my rule! My power shall last!"
 
-But Spongius took a stone,
+But {{c|374|Spongius}} took a stone,
 And cast it with a steady aim.
 The glass house, overthrown,
 Shattered in a crystal rain.
 
-As Vitrius lay dying there,
+As {{c|373|Vitrius}} lay dying there,
 His brother spoke these words so wise:
 "Let all who hubris bear
 Remember where their folly lies.
@@ -195,41 +195,41 @@ And bring them crashing down."
 
 To this day we quote his name
 When pride goes before a fall.
-Spongius earned his fame
+{{c|374|Spongius}} earned his fame
 With wisdom shared by all.
 
-The sons of Vitrius became
+The sons of {{c|373|Vitrius}} became
 The glass sponges, strange and bright.
 On fringes they would claim
 Their territories, out of sight.
 
-But Spongius ruled with gentle hand,
+But {{c|374|Spongius}} ruled with gentle hand,
 Both just and kind to every soul.
 His wisdom spread throughout the land,
 And made his people whole.
 
 From him came two sons true:
-Great Aristos, noble-born,
-And Demos, through and through
+Great {{c|375|Aristos}}, noble-born,
+And {{c|58|Demos}}, through and through
 A leader without scorn.
 
-Now Demos ruled efficiently,
+Now {{c|58|Demos}} ruled efficiently,
 Yet kept the ancient ways.
 He led conservatively,
 Through all his ruling days.
 
 Most sponges in the world today
-Descend from Demos' line.
+Descend from {{c|58|Demos}}' line.
 Their forms in grand array
 Show heritage divine.
 
 Among them were the green
-Sons of Spongillus bright,
+Sons of {{c|376|Spongillus}} bright,
 Who farm in lands serene
 And give the waters light.
 
 In Siberia's frozen lake,
-Great Baikal, cold and deep,
+Great {{c|377|Baikal}}, cold and deep,
 Even there they make
 Their vigil while we sleep.
 
@@ -239,7 +239,7 @@ The green sons still divine
 Their food throughout the year.
 
 Beside them hunt and roam
-The sons of Chondrocles,
+The sons of {{c|270|Chondrocles}},
 Who've made the deep their home
 And hunt with greater ease.
 
@@ -248,17 +248,17 @@ Pursue their prey with might.
 Their hunting stories told
 Fill listeners with delight.
 
-From Aristos came two more:
-Great Anu, unique and strange,
-And Calcidoros' lore
+From {{c|375|Aristos}} came two more:
+Great {{c|378|Anu}}, unique and strange,
+And {{c|379|Calcidoros}}' lore
 Would through the reefs arrange.
 
-Bold Calcidoros built
+Bold {{c|379|Calcidoros}} built
 With calcium's bright blessing.
 His forms would never wilt
 Beneath the sea's caressing.
 
-With Calcifer's own power
+With {{c|380|Calcifer}}'s own power
 Over silicon's domain,
 He built each coral tower
 In forms without refrain.
@@ -268,7 +268,7 @@ His structures graced the reefs.
 In tropical waters blue,
 His beauty brings reliefs.
 
-But Anu was most unique,
+But {{c|378|Anu}} was most unique,
 With basement membranes rare.
 Among all sponges, he'd speak
 A language none could share.
@@ -298,8 +298,8 @@ Our bodies through the day,
 The openings that prove
 That life will find a way.
 
-From Porifer's first design
-To Spongius' wisdom deep,
+From {{c|364|Porifer}}'s first design
+To {{c|374|Spongius}}' wisdom deep,
 The sponges intertwine
 With promises they keep.
 

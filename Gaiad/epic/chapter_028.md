@@ -1,5 +1,5 @@
-Great Paraxus was blessed one day
-By Hecate, who showed the way.
+Great {{c|266|Paraxus}} was blessed one day
+By {{c|382|Hecate}}, who showed the way.
 The Hexenmaiden, wise and deep,
 Gave gifts that he would always keep.
 

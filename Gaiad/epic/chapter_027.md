@@ -1,15 +1,15 @@
-From Anu's unique lineage came
+From {{c|378|Anu}}'s unique lineage came
 Two sons of very different fame:
-Bold Enki, seeker of the sea,
-And Homos, keeping family.
+Bold {{c|260|Enki}}, seeker of the sea,
+And {{c|381|Homos}}, keeping family.
 
-While Homos chose his father's way,
+While {{c|381|Homos}} chose his father's way,
 Content to live as they always stay,
-Great Enki felt adventure's call
+Great {{c|260|Enki}} felt adventure's call
 To sail beyond the harbor wall.
 
 "I shall explore the ocean wide,"
-Declared brave Enki with great pride.
+Declared brave {{c|260|Enki}} with great pride.
 "My creatures shall both move and scurry
 Through seas and lands without worry."
 
