@@ -1,6 +1,6 @@
 In ancient times, the Earth was calm and bright,
-Where daughters thrived in Gaia’s tender care.
-Arka and Bacta walked in shared delight,
+Where daughters thrived in {{c|5|Gaia}}'s tender care.
+Arka and {{c|48|Bacta}} walked in shared delight,
 Their offspring spread across the lands so fair.
  
 
@@ -24,12 +24,12 @@ Together walking hope’s unblemished way.
 In days of old, the purple farmers thrived,
 Their colors stirring life across each field.
 Prasina, green, took in the rays deprived,
-From her did Saya, Chloroflexi yield.
- 
+From her did {{c|49|Saya}}, Chloroflexi yield.
+
 
 Chloroflexi thrived by methods defined,
 No trace of harm endured in farmland fair.
-Yet Saya hungered, greed within her mind,
+Yet {{c|49|Saya}} hungered, greed within her mind,
 Her yields of O₂ seared the open air.
  
 
@@ -40,11 +40,11 @@ As crimson waters spelled calamity.
  
 
 The Elohim in chorus raised their plea:
-“Reduce these fumes, or life itself will cease!”
-With Sol and Gaia, Luna’s voice did agree,
-They begged that Saya’s reckless growth should lease.
- 
-Yet Saya pressed for ever-greater yield,
+"Reduce these fumes, or life itself will cease!"
+With Sol and {{c|5|Gaia}}, {{c|4|Luna}}'s voice did agree,
+They begged that {{c|49|Saya}}'s reckless growth should lease.
+
+Yet {{c|49|Saya}} pressed for ever-greater yield,
 Demanding others curb their own supply.
 Her own emissions soared across the field,
 While Earth’s deep scars revealed a mortal cry.
@@ -68,9 +68,9 @@ While Rara’s rumors thrived in every mind.
 He whispered low, their reason quite maligned.
  
 
-“Net zero gained!” he boasted to the throng,
-“The problem lies in births,” his cunning cry.
-Yet Gaia warned them all: “Your words are wrong,
+"Net zero gained!" he boasted to the throng,
+"The problem lies in births," his cunning cry.
+Yet {{c|5|Gaia}} warned them all: "Your words are wrong,
 The O₂ devours life; the young still die.”
  
 

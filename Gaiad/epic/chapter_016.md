@@ -1,5 +1,5 @@
-From Luca's lineage, two daughters sprang,
-Arka and Bacta, shaped to change the world;
+From {{c|23|Luca}}'s lineage, two daughters sprang,
+Arka and {{c|48|Bacta}}, shaped to change the world;
 In marshy cradles, where their voices rang,
 Their stories intertwined, their fates unfurled.
 
@@ -8,18 +8,18 @@ Exploring Terra's depths and mysteries;
 Her courage blazed, a beacon and a guide,
 Upon her path, the sisters placed their pleas.
 
-And Bacta, strong, adaptable, and keen,
+And {{c|48|Bacta}}, strong, adaptable, and keen,
 Faced trials and change with steady resilience;
 In her, the sisters found a fortress sheen,
 A bastion of strength and firm compliance.
 
-United, these descendants of Bios' grace,
+United, these descendants of {{c|22|Bios}}' grace,
 Embarked upon their journey through the strife;
-With Arka's questing soul and Bacta's pace,
+With Arka's questing soul and {{c|48|Bacta}}'s pace,
 They forged ahead to carve a future life.
 
-One moonlit eve, as Luna graced the sky,
-Her voice rang clear to Luca, filled with light;
+One moonlit eve, as {{c|4|Luna}} graced the sky,
+Her voice rang clear to {{c|23|Luca}}, filled with light;
 A prophecy she whispered from on high,
 To share with both her daughters in the night.
 
@@ -33,13 +33,13 @@ Exploring lands unseen by mortal eyes;
 Her children brave and bold shall fears defeat,
 Discovering where hidden beauty lies.
 
-And Bacta's kin, resilient they'll remain,
+And {{c|48|Bacta}}'s kin, resilient they'll remain,
 Adapting to the ever-changing world;
 They'll hold their ground through hardship and through pain,
 Their legacy's banner never furled."
 
-With Luna's words, a promise made to keep,
-Luca, both hopeful and yet filled with care,
+With {{c|4|Luna}}'s words, a promise made to keep,
+{{c|23|Luca}}, both hopeful and yet filled with care,
 Gazed at her daughters, pondering paths deep,
 Of two great realms their destinies would bear.
 
@@ -59,7 +59,7 @@ And Barberton, where life first stirred and dreamed,
 The temples' influence had just begun.
 
 From Arka sprang a lineage of might:
-Dipana, Yuri, Proteus arose;
+Dipana, Yuri, {{c|81|Proteus}} arose;
 Their daughters ventured forth into the light,
 To every corner where the wind now blows.
 
@@ -95,15 +95,15 @@ Their tales of strength and cunning brought to sight.
 
 An epic lineage, these daughters bold,
 Their stories echo through the halls of time;
-From Luca's line, their destinies unfold,
+From {{c|23|Luca}}'s line, their destinies unfold,
 A tapestry of life, profound, sublime.
 
 Through trials faced and victories hard-won,
 They forged ahead to shape their universe;
-The legacy of Bios carried on,
+The legacy of {{c|22|Bios}} carried on,
 In every deed, in every whispered verse.
 
-With Luna's elixir waiting in the skies,
+With {{c|4|Luna}}'s elixir waiting in the skies,
 They journeyed forth, their faith forever strong;
 Awaiting when the stars would align their ties,
 To drink immortal life and join the song.

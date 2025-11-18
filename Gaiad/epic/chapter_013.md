@@ -13,7 +13,7 @@ Her fate was sealed, her path forever turned.
 A world of heat and clouds that choke within,
 Her beauty veiled by sulfur skies that burned.
 
-Then Earth, fair Gaia, tells her vibrant tale,
+Then Earth, fair {{c|5|Gaia}}, tells her vibrant tale,
 From seas arose the life that graced her face.
 With mountains high and skies where clouds set sail,
 A cradle formed for life's enduring race.
@@ -34,17 +34,17 @@ Their tales entwined within the cosmic lore,
 With storms that swirl and moons in endless chain.
 
 Around great Jupiter, his moons revolve,
-Io, Europa, Ganymede, they dance.
+{{c|16|Io}}, Europa, Ganymede, they dance.
 Their icy secrets waiting to evolve,
 A celestial show in night's expanse.
 
-But Io's fires within her heart did glow,
+But {{c|16|Io}}'s fires within her heart did glow,
 Her waters boiled beneath volcanic flame.
 Though some remained in hidden depths below,
 A testament to change, she stays the same.
 
 In Saturn's grasp, her moons of ice reside,
-Enceladus and Titan lead the way.
+Enceladus and {{c|17|Titan}} lead the way.
 A frozen kin around their mother glide,
 In cosmic dance, their fates in balance sway.
 

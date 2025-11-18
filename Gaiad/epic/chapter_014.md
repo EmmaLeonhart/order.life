@@ -28,8 +28,8 @@ Its moons a dance of grace and mystic lore,
 Their daughters flourished where the shadows speak,
 Creating tales that echo evermore.
 
-On Titan, life's spark found a place to dwell,
-The daughters of Bios, their journey wide,
+On {{c|17|Titan}}, life's spark found a place to dwell,
+The daughters of {{c|22|Bios}}, their journey wide,
 In ocean depths, they thrived where shadows quell,
 A secret world beneath the ice did hide.
 
@@ -59,13 +59,13 @@ And from the skies, where methane rivers churned,
 A rain of fire, their torrent swift and pale.
 
 In this new world, where life and ice entwined,
-The daughters of Bios, their journey steep,
-On Titan's shores, their destiny defined,
+The daughters of {{c|22|Bios}}, their journey steep,
+On {{c|17|Titan}}'s shores, their destiny defined,
 A tale of ice and fire, their secrets keep.
 
-In Titan's realm, where ice and fire dance,
+In {{c|17|Titan}}'s realm, where ice and fire dance,
 Five sisters grand, their tales of legend weave,
-Daughters of Titan, born of fates' advance,
+Daughters of {{c|17|Titan}}, born of fates' advance,
 These mighty seas, their majesty achieve.
 
 First Kraken, deepest of the sisters five,
@@ -93,12 +93,12 @@ Her icy shores, a haven for the lost,
 Her love and care, a mother's warmth like sun,
 Embracing all who braved her wintry frost.
 
-These sisters five, the daughters of Titan,
+These sisters five, the daughters of {{c|17|Titan}},
 Their lives entwined, their stories yet unfold,
 In frozen seas, where myth and truth align,
 The tales of Kraken sea and more are told.
 
-In Titan's seas, where ancient legends dwell,
+In {{c|17|Titan}}'s seas, where ancient legends dwell,
 Five sisters host the isles of myth and lore,
 Each island, archipelago, a shell,
 Where Titanians worship evermore.
@@ -208,7 +208,7 @@ From distant realms, it charged through space and time,
 A force unseen, it struck the rings, and then,
 The people of the rings were cast adrift.
 
-To Io's realm, their journey carried on,
+To {{c|16|Io}}'s realm, their journey carried on,
 This Jovian moon, with oceans deep and vast,
 A fiery heart, with energy abound,
 Its warmth and life a haven from the past.
@@ -218,12 +218,12 @@ As settlers found their footing, built anew,
 In fertile depths, a civilization rose,
 An empire born beneath the skies of blue.
 
-On Io's shores, and in its ocean's heart,
+On {{c|16|Io}}'s shores, and in its ocean's heart,
 A people thrived, their memories of old,
 A story etched in whispers of the past,
-Of Titan's fall, and wanderings untold.
+Of {{c|17|Titan}}'s fall, and wanderings untold.
 
-In time, the heat of Io's heart did rise,
+In time, the heat of {{c|16|Io}}'s heart did rise,
 As molten fires beneath the crust prevailed,
 The waters, once a life-supporting veil,
 Began to wane, a shrinking paradise.
@@ -233,7 +233,7 @@ A cosmic savior, from the sky it fell,
 A meteor's approach, a chance anew,
 To flee their home, escape the fiery brink.
 
-As Io's warmth, too fierce, consumed its grace,
+As {{c|16|Io}}'s warmth, too fierce, consumed its grace,
 The people found their way upon the stone,
 A vessel, swift and sure, to cross the void,
 And journey forth, to find a safer place.
@@ -251,7 +251,7 @@ A world reborn, from pain and loss they steer.
 Beneath Europa's icy shield they delved,
 To find an undersea world, vast and grand,
 Where deep below, the ocean's wonders thrived,
-A refuge, where the people of Io dwelled.
+A refuge, where the people of {{c|16|Io}} dwelled.
 
 In darkness, yet with hope, they built anew,
 A thriving realm amid the swirling tides,
@@ -263,7 +263,7 @@ In harmony with Europa's vast domain,
 Together, they would thrive in waters cold,
 Their spirit, ne'er defeated, nor in vain.
 
-The people of Io, now reborn,
+The people of {{c|16|Io}}, now reborn,
 In Europa's embrace, they found their home,
 A testament to strength and will, they stood,
 Resilient, strong, and nevermore alone.
@@ -318,7 +318,7 @@ Its green and azure beauty vast, profound.
 The daughters paused, their journey’s trials no more,
 And gazed in awe, where paradise was found.
 
-The daughters of Bios set their sights on Earth,
+The daughters of {{c|22|Bios}} set their sights on Earth,
 To sail the seas, and seek a home anew,
 In hope that fertile lands would welcome them,
 Their journey, driven by celestial birth.
@@ -333,14 +333,14 @@ Yet knew they could not dwell on what was lost,
 With heavy hearts, they charted course once more,
 And ventured on, propelled by stellar light.
 
-To Venus then, the daughters sailed ahead,
+To {{c|15|Venus}} then, the daughters sailed ahead,
 With hope that there, a refuge could be found,
 To build a life upon its clouded shores,
 And persevere, despite the path they tread.
 
-Upon fair Venus, daughters found their home,
+Upon fair {{c|15|Venus}}, daughters found their home,
 In twilight lands, they thrived and multiplied,
-For Venus, in her slow rotation, bloomed,
+For {{c|15|Venus}}, in her slow rotation, bloomed,
 And nurtured life, though days and nights belied.
 
 The sun would rise and set with languid grace,
@@ -351,7 +351,7 @@ As Muspelheim, the land of fire, took place.
 At night, her oceans froze in cold embrace,
 And Niflheim, the land of frost, emerged,
 Between these realms, the twilight realm was born,
-Where daughters of Venus lived with fervent pace.
+Where daughters of {{c|15|Venus}} lived with fervent pace.
 
 Beneath the surface, vents their life sustained,
 In twilight lands, both north and south they dwelled,
@@ -364,7 +364,7 @@ The Tribe of Ice, on Niflheim's frozen crust,
 And Twilight Tribe, eternal dusk their lair.
 
 The Water Tribe, beneath the ice they thrived,
-And Fire Tribe, in Venus' vents so deep,
+And Fire Tribe, in {{c|15|Venus}}' vents so deep,
 These daughters brave, amidst the war they grew,
 Muspel's fire and Niflheim's frost contrived.
 
@@ -373,13 +373,13 @@ Charged forth, led by Surtur's fiery blade,
 And in their wake, the ice and frost retreated,
 The winds of sun, the battle's victor won.
 
-The greenhouse reigns, as Venus' fate was sealed,
+The greenhouse reigns, as {{c|15|Venus}}' fate was sealed,
 Her hydrogen wiped clean, Deuter remained,
 The Tribe of Wind, now last survivors' tale,
 May they endure, their future yet revealed.
 
 The daughters of the wind, now restless grown,
-Decided that they'd leave fair Venus' hold,
+Decided that they'd leave fair {{c|15|Venus}}' hold,
 To Mercury, a realm yet unexplored,
 With hopes of finding lands to call their own.
 
