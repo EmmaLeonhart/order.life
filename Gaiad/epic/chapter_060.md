@@ -11,7 +11,7 @@ Yet life endured with banners still unfurled
 Through bitter days when many had to die.
 
 The daughter in the line of Silvio fair
-Was Rhea in her time—a woman blessed
+Was {{c|460|Rhea}} in her time—a woman blessed
 Who showed the faithful how to rise with care
 Above the darkness and surpass each test.
 

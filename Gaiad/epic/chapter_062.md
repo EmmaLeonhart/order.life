@@ -1,7 +1,7 @@
 # Chapter 62: The Final Breath
 
-Among the sons of Gastropus arose
-Great Pulmon, who in air would find delight,
+Among the sons of {{c|110|Gastropus}} arose
+Great {{c|464|Pulmon}}, who in air would find delight,
 Rejecting water's long ancestral prose
 To breathe the sweet communion of the light.
 

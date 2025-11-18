@@ -2,15 +2,15 @@
 
 'Twas in the time when all lands had received
 The children of three mothers bright and fair:
-Great Planta, Anima, and those conceived
-By Funga, spreading life through earth and air.
+Great {{c|456|Planta}}, {{c|55|Anima}}, and those conceived
+By {{c|457|Funga}}, spreading life through earth and air.
 
 They led their offspring across virgin ground
 Where peace and harmony would reign supreme,
 'Twas time of plenty when joy could be found
 Where earth and heaven shared the same sweet dream.
 
-But Shesha the Actinite and Matsya wise
+But {{c|458|Shesha}} the Actinite and {{c|459|Matsya}} wise
 Each saw a vision dread of coming doom,
 With prophetic sight they could recognize
 The shadow that would fill the world with gloom.

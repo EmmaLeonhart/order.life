@@ -1,10 +1,10 @@
-The sons of Eurypter would
+The sons of {{c|441|Eurypter}} would
 Usurp as no one could
-The sons of Cephalus
+The sons of {{c|442|Cephalus}}
 And rule victorious.
 
-Eurypter married fair
-Pulmona everywhere
+{{c|441|Eurypter}} married fair
+{{c|443|Pulmona}} everywhere
 Beloved, and they'd disagree
 On what their name would be.
 
@@ -13,7 +13,7 @@ For their ancestral line:
 "Eurypterids" he'd say,
 "Arachnopulmonates" her way.
 
-Eurypter and Pulmona
+{{c|441|Eurypter}} and {{c|443|Pulmona}}
 Bore children like none-a
 Other: Eurypteron
 And Styloner, begun

@@ -6,7 +6,7 @@
 
 ## The Great Division
 
-When Arboreus, son of Tracheus, claimed  
+When {{c|448|Arboreus}}, son of {{c|449|Tracheus}}, claimed  
 His throne among the ancient forest lords,  
 He looked upon the lands as yet unnamed  
 And spoke these wise and far-resounding words:  
