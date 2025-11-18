@@ -58,7 +58,7 @@ Of playing their true part
 In life's eternal dance
 Of every circumstance.
 
-When Devon moved his frame
+When {{c|447|Devon}} moved his frame
 Through waters without shame,
 He opened his mouth wide
 And let the water glide
@@ -138,7 +138,7 @@ Went waste, and none could mock-a
 The wisdom of design
 That was so fine.
 
-When Devon married fair
+When {{c|447|Devon}} married fair
 His wife beyond compare,
 He released his sperm bright
 Into her loving sight.
@@ -148,12 +148,12 @@ To her eggs, and what's more,
 From his million children
 Two would be the risen:
 
-Llŷr and Stennisio,
+{{c|502|Llŷr}} and {{c|503|Stennisio}},
 Both glorious
 In their appointed ways
 Throughout their living days.
 
-The sons of Stennisio
+The sons of {{c|503|Stennisio}}
 Lived in ratio
 Across the seafloor wide
 With ocean as their guide.
@@ -163,47 +163,47 @@ In their ancient way,
 They lived lives of the deep
 Where ocean secrets keep.
 
-Llŷr begat Bran so strong
+{{c|502|Llŷr}} begat {{c|504|Bran}} so strong
 Who lived his whole life long
 In wisdom and in might
 Both day and through the night.
 
-Bran begat Caradoc,
+{{c|504|Bran}} begat {{c|505|Caradoc}},
 Solid as a rock
 In all his noble ways
 Throughout his living days.
 
-Caradoc begat three:
-Cynan of the sea,
-Acantho, strong and true,
-And Sudopedal too.
+{{c|505|Caradoc}} begat three:
+{{c|506|Cynan}} of the sea,
+{{c|507|Acantho}}, strong and true,
+And {{c|508|Sudopedal}} too.
 
-The daughters of Acantho
+The daughters of {{c|507|Acantho}}
 Were beautiful, and so
 They filled the world with grace
 In every watery place.
 
-Cynan begat Cadwr,
+{{c|506|Cynan}} begat {{c|509|Cadwr}},
 Who'd be the withdrawer
 Of none from their true course
 But guide with gentle force.
 
-Cadwr begat Eudaf,
+{{c|509|Cadwr}} begat {{c|510|Eudaf}},
 Who never would laugh
 At those who tried their best
 To pass each mortal test.
 
-Eudaf begat Morfawr,
+{{c|510|Eudaf}} begat {{c|511|Morfawr}},
 Whose name means "great war"
 But he was man of peace
 Where all strife would cease.
 
-Morfawr begat two sons:
-Tudwal when day begun
-And Rhineheart the strong
+{{c|511|Morfawr}} begat two sons:
+{{c|512|Tudwal}} when day begun
+And {{c|513|Rhineheart}} the strong
 Who lived his whole life long.
 
-Rhineheart lived upon
+{{c|513|Rhineheart}} lived upon
 The Rhine when day begun,
 Flattened and hidden well
 Like some secret spell.
@@ -218,12 +218,12 @@ To win their lasting fame,
 He lived his hidden life
 Without much joy or strife.
 
-Tudwal begat two more:
-Cynfawr to explore
-And Antiarchon wild
+{{c|512|Tudwal}} begat two more:
+{{c|514|Cynfawr}} to explore
+And {{c|515|Antiarchon}} wild
 Who was rebellion's child.
 
-Antiarchon rebelled
+{{c|515|Antiarchon}} rebelled
 Against all that was held
 As truth by ancestors
 And other predecessors.
@@ -248,7 +248,7 @@ His revolutionary mind
 That plotted every day
 To make his enemies pay.
 
-The sons of Antiarchon
+The sons of {{c|515|Antiarchon}}
 Would form great bands upon
 The earth, guerrillas all
 Who'd answer freedom's call.
@@ -258,12 +258,12 @@ Animus day and night
 Until the world was free
 From their authority.
 
-But Cynfawr chose instead
+But {{c|514|Cynfawr}} chose instead
 A path where he was led
 By dreams of finding home
 Wherever he would roam.
 
-Custennin was his son
+{{c|516|Custennin}} was his son
 Who when his search begun
 Would travel far and wide
 With hope as his guide.
@@ -278,38 +278,38 @@ Upon the fertile ground
 Of China, far away,
 His home where he could stay.
 
-Custennin begat two:
-Uther, tried and true,
-And Petallon so bright
+{{c|516|Custennin}} begat two:
+{{c|517|Uther}}, tried and true,
+And {{c|518|Petallon}} so bright
 Who filled the world with sight.
 
-Uther begat then
+{{c|517|Uther}} begat then
 Two children beyond ken:
-Arthur and Maxil strong
+{{c|519|Arthur}} and {{c|520|Maxil}} strong
 Who lived their whole life long.
 
-Arthur bore in time
+{{c|519|Arthur}} bore in time
 A son and daughter fine:
-Arthur the Younger, who'd
+{{c|521|Arthur the Younger}}, who'd
 Do more than others could,
 
-And Ptycho, maiden fair
+And {{c|522|Ptycho}}, maiden fair
 Beyond all compare
 In beauty and in grace
 Throughout her dwelling place.
 
-The daughters of fair Ptycho
+The daughters of fair {{c|522|Ptycho}}
 Were numerous, and so
 Among them was one great:
-Mary, whose fate
+{{c|523|Mary}}, whose fate
 
 Would be to bear a son
 When her work was done
 That none had done before
 From mountain peak to shore.
 
-Mary, Mother of
-Icthys, blessed with love
+{{c|523|Mary}}, Mother of
+{{c|524|Icthys}}, blessed with love
 From heaven high above,
 Bore placenta's shove
 
@@ -318,8 +318,8 @@ Any others wore
 This gift of nurturing
 That motherhood would bring.
 
-The sons of Arthur then
-(The Younger) beyond ken
+The sons of {{c|519|Arthur}} then
+({{c|521|The Younger}}) beyond ken
 Became known far and wide
 As those who'd be the guide
 
@@ -328,67 +328,67 @@ With characteristics fine
 Throughout the world so vast
 From first unto the last.
 
-Arthur the Younger bore
+{{c|521|Arthur the Younger}} bore
 Three sons to explore
 The world with different eyes:
-Mordred, who'd comprise
+{{c|525|Mordred}}, who'd comprise
 
 Rebellion in his heart,
-And Wuttago's part,
-And Actino the bright
+And {{c|526|Wuttago}}'s part,
+And {{c|527|Actino}} the bright
 Who filled the world with sight.
 
-Mordred turned against
+{{c|525|Mordred}} turned against
 His father, and he fenced
 With honor's sacred code
 Upon dishonor's road.
 
 He bore two sons in time:
-Philip, so prime
+{{c|528|Philip}}, so prime
 In all his evil ways,
-And Melehan's days
+And {{c|529|Melehan}}'s days
 
 Of darkness and of shame
 That blackened his name
 Throughout the world entire
 With corruption's fire.
 
-Melehan begat two:
-Brachy, tried and true
+{{c|529|Melehan}} begat two:
+{{c|530|Brachy}}, tried and true
 In evil's darkest art,
-And Phlyctae's part.
+And {{c|531|Phlyctae}}'s part.
 
-The sons of Brachy ruled
+The sons of {{c|530|Brachy}} ruled
 The world, and they schooled
 All others in their might,
 Overthrowing the sight
 
-Of Silur's ancient line
+Of {{c|426|Silur}}'s ancient line
 That once was so divine
 But now would have to yield
-To Brachy's battlefield.
+To {{c|530|Brachy}}'s battlefield.
 
-Brachy begat three:
-Eubar of the sea,
-Buchan, strong and wild,
-And Homosteus' child.
+{{c|530|Brachy}} begat three:
+{{c|532|Eubar}} of the sea,
+{{c|533|Buchan}}, strong and wild,
+And {{c|534|Homosteus}}' child.
 
-Eubar begat two:
-Pachos, tried and true,
-And Coccos, who would be
+{{c|532|Eubar}} begat two:
+{{c|535|Pachos}}, tried and true,
+And {{c|536|Coccos}}, who would be
 Living by the sea.
 
-Pachos begat then
+{{c|535|Pachos}} begat then
 Two children beyond ken:
-Dunkella, who would grow
+{{c|537|Dunkella}}, who would grow
 Greater than we know
 
 Any had before
 From mountain peak to shore,
-And Aspino the bright
+And {{c|538|Aspino}} the bright
 Who filled the world with sight.
 
-Dunkella grew to be
+{{c|537|Dunkella}} grew to be
 Greatest yet to see
 Among all Metazo:
 Six meters high to show
@@ -404,7 +404,7 @@ And ruled with iron hand
 Throughout the entire land.
 
 The sons and daughters all
-Of Pachos heard the call
+Of {{c|535|Pachos}} heard the call
 To greatness, and they grew
 Strong and powerful too.
 
@@ -413,22 +413,22 @@ In that age of fire
 When power was the law
 That all the world saw.
 
-But Maxil, Arthur's brother,
+But {{c|520|Maxil}}, {{c|519|Arthur}}'s brother,
 Bore a child like no other:
-Qilinyu was his name,
+{{c|539|Qilinyu}} was his name,
 Who'd win eternal fame.
 
-Qilinyu begat
-Entelognathus, begat
+{{c|539|Qilinyu}} begat
+{{c|540|Entelognathus}}, begat
 With jaw that was complete
 From head down to feet.
 
-Entelognathus bore
-Janusicthus to explore
+{{c|540|Entelognathus}} bore
+{{c|541|Janusicthus}} to explore
 The world with newer art
 That set his line apart.
 
-Janusicthus brought
+{{c|541|Janusicthus}} brought
 His teeth as none had thought
 From gills unto his jaw
 According to new law.
@@ -453,8 +453,8 @@ Of all who'd aspire
 To be both fish and beast
 From greatest unto least.
 
-From Devon's city great
-To Janusicthus' fate
+From {{c|447|Devon}}'s city great
+To {{c|541|Janusicthus}}' fate
 That led to fish and more,
 The tale from shore to shore
 
@@ -483,12 +483,12 @@ Of peace from day to day
 And building something new
 That's beautiful and true.
 
-From Antiarchon's revolt
+From {{c|515|Antiarchon}}'s revolt
 Against the lightning bolt
 Of tyranny and power
 In that ancient hour,
 
-To Mary's gift of love
+To {{c|523|Mary}}'s gift of love
 Blessed from above
 That nurtured life within
 Her womb, free from sin,
@@ -508,9 +508,9 @@ And those who'd never yield
 To others' right to live
 But only take, not give.
 
-From Devon's peaceful ways
+From {{c|447|Devon}}'s peaceful ways
 Throughout his living days
-To Brachy's iron rule
+To {{c|530|Brachy}}'s iron rule
 That made the world his tool,
 
 The lesson's clear to see:
@@ -518,7 +518,7 @@ We choose what we will be
 And what our children learn
 As time's great pages turn.
 
-The fish that Janusicthus made
+The fish that {{c|541|Janusicthus}} made
 Will never ever fade
 From this world's waters bright
 But swim throughout the night
@@ -528,8 +528,8 @@ That follow nature's law
 But also serve the good
 As all creation should.
 
-From Devon's spiracle
-To Dunkella's miracle
+From {{c|447|Devon}}'s spiracle
+To {{c|537|Dunkella}}'s miracle
 Of size and power great,
 The vertebrates' fate
 
@@ -553,7 +553,7 @@ Where they could be found
 Living day by day
 In their chosen way.
 
-From Devon's city bright
+From {{c|447|Devon}}'s city bright
 To fish with tooth and sight,
 The age shows what can grow
 When we let courage flow
@@ -583,8 +583,8 @@ That plays the loving part
 In life's eternal song
 That makes the weak grow strong.
 
-From Devon's peaceful reign
-To Brachy's war-torn stain
+From {{c|447|Devon}}'s peaceful reign
+To {{c|530|Brachy}}'s war-torn stain
 Upon the world's bright face,
 The lesson and the grace
 
