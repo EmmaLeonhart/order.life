@@ -1,17 +1,17 @@
 While Molluscs were growing strong
 And singing their success song,
 We must not forget the foundation
-Of Mithra's great creation.
+Of {{c|3|Mithra}}'s great creation.
 
-First Amaterasu's light
+First {{c|275|Amaterasu}}'s light
 Blesses us both day and night.
 A millionth reaches Terra's seas
 To feed life's mysteries.
 
-And so the daughters of Bacta
+And so the daughters of {{c|48|Bacta}}
 Farm with light most attracta.
 First among them, daughters all
-Of Saya answer light's call.
+Of {{c|49|Saya}} answer light's call.
 
 The Blue Green Algae spread
 Like living ocean's bread.

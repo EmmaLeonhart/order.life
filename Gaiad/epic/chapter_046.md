@@ -1,24 +1,24 @@
 This is the story told
 Of war both new and old
-Among the Spiralians
+Among the {{c|401|Spiralians}}
 In their ancient plans.
 
 This is the saga great
 Of war and love and fate:
-The Brachiopods and more—
-The Bivalves at war.
+The {{c|402|Brachiopods}} and more—
+The {{c|403|Bivalves}} at war.
 
 The ancient house so proud
-Of Brachiopods cried loud
+Of {{c|402|Brachiopods}} cried loud
 As they found themselves pressed
 On all sides, distressed
 
-By rising Bivalves strong
+By rising {{c|403|Bivalves}} strong
 Who'd waited far too long
 To claim their rightful place
 In evolution's race.
 
-Bivos, who fished with care
+{{c|404|Bivos}}, who fished with care
 From his two shells so fair,
 Shed his radula
 Like some old formula
@@ -38,12 +38,12 @@ When time sees struggles through
 To their appointed end
 Where new forms transcend.
 
-Bivos bore a son
+{{c|404|Bivos}} bore a son
 And daughter when begun
-His lineage: Peter strong
-And Aphrodite's song.
+His lineage: {{c|405|Peter}} strong
+And {{c|406|Aphrodite}}'s song.
 
-Aphrodite became
+{{c|406|Aphrodite}} became
 Ancestress of fame
 Of Oysters everywhere
 Who rest without a care
@@ -53,14 +53,14 @@ From mountain peak to shore,
 Creating pearls so bright
 That fill the world with light.
 
-Peter bore many sons
+{{c|405|Peter}} bore many sons
 Who when their work was done
 Became known far and wide
 As Trigonians with pride.
 
 But there came a day
 When war would find its way
-To Peter's children all—
+To {{c|405|Peter}}'s children all—
 A massacre would fall
 
 Upon his sons so dear.
@@ -78,7 +78,7 @@ That would always endure
 Throughout the years to come
 When battles would be done.
 
-Peter, Keeper of Gates
+{{c|405|Peter}}, Keeper of Gates
 So Pearly, never hates
 But defends us all
 Who answer heaven's call.
@@ -98,7 +98,7 @@ On rocks like treasure chest
 Of pearls that gleam so bright
 With heaven's holy light.
 
-Aphrodite became
+{{c|406|Aphrodite}} became
 The Mother of great fame
 Of Pearls and Oysters too—
 Her children tried and true.
@@ -133,12 +133,12 @@ Would haunt him like a cat
 Its prey, but he was free
 To roam across the sea.
 
-Clammon was the son
-Of Bivos when begun
+{{c|407|Clammon}} was the son
+Of {{c|404|Bivos}} when begun
 His work to populate
 The seas with forms so great.
 
-Clammon begat four:
+{{c|407|Clammon}} begat four:
 Cockle to explore,
 Myidus strong and true,
 Adapa to pursue
@@ -223,7 +223,7 @@ Of freshwater clams who
 Live in rivers wide
 With current as their guide.
 
-Brachios begat three
+{{c|408|Brachios}} begat three
 Sons for history:
 Three houses he would make
 For brachiopods' sake.
@@ -236,7 +236,7 @@ In all he'd ever give
 To innovation's call—
 Archconservative of all
 Within the house so grand
-Of Brachios' command.
+Of {{c|408|Brachios}}' command.
 
 Lingulus, son of him
 With the same name, would trim
@@ -338,12 +338,12 @@ Of what would end all hope
 For life upon the earth
 And stop all future birth.
 
-From Bivos' innovation
+From {{c|404|Bivos}}' innovation
 Came this radiation
 Of forms both strong and true
 That filled the ocean blue.
 
-From Brachios' ancient way
+From {{c|408|Brachios}}' ancient way
 That lasted day by day
 Through eons without change
 Came forms throughout the range
@@ -368,12 +368,12 @@ Who answered battle's call
 In this ancient war
 From mountain peak to shore?
 
-The Bivalves with their new
+The {{c|403|Bivalves}} with their new
 Forms tried and tested true
 Through struggle and through pain
 Sought evolutionary gain.
 
-The Brachiopods held fast
+The {{c|402|Brachiopods}} held fast
 To wisdom of the past
 That served their ancestors
 Through time's great tests and spurs.

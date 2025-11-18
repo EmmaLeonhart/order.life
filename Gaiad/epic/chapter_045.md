@@ -1,7 +1,7 @@
-Esther was the daughter true
+{{c|119|Esther}} was the daughter true
 In the tenth generation's view
-Of Lily the Echidna,
-Dutrus' daughter, fina
+Of {{c|120|Lily}} the {{c|118|Echidna}},
+{{c|71|Dutrus}}' daughter, fina
 
 Who traded bilateral
 For pentaradial

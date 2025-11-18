@@ -1,11 +1,11 @@
-Silur, son of Chelicer,
+{{c|426|Silur}}, son of {{c|435|Chelicer}},
 Saw the world in ruin's blur.
 And in this devastation
 Saw opportunity's creation.
 
-Silur shouted out with might
+{{c|426|Silur}} shouted out with might
 To all sons in his sight
-Of Animus, declaring
+Of {{c|283|Animus}}, declaring
 His vision, never caring
 
 For those who'd gone before:
@@ -28,27 +28,27 @@ Of Silurian chimera,
 Rising from the ashes
 Of Ordovician's crashes.
 
-Silur bore two sons:
+{{c|426|Silur}} bore two sons:
 Eurypter when begun
 The day, and Chasmas strong
 Who lived his whole life long.
 
-Chasmas begat two more:
-Belangkas to explore
-And Xiphos, who would be
+{{c|436|Chasmas}} begat two more:
+{{c|437|Belangkas}} to explore
+And {{c|438|Xiphos}}, who would be
 Living by the sea.
 
-Xiphos became the sire
+{{c|438|Xiphos}} became the sire
 Of crabs whose desire
 Was horseshoe-shaped design
 Throughout the end of time.
 
-Belangkas climbed up high
+{{c|437|Belangkas}} climbed up high
 Onto the land to try
 What none had done before:
 To claim from shore to shore
 
-The land from Hirnan's hand
+The land from {{c|423|Hirnan}}'s hand
 And make his own command
 Of territories wide
 Where he could reside.
@@ -63,12 +63,12 @@ And was thus satisfied
 With air that he could breathe
 To give his lungs relief.
 
-Belangkas begat two:
-Soliber, tried and true,
-And Opiliona fair
+{{c|437|Belangkas}} begat two:
+{{c|439|Soliber}}, tried and true,
+And {{c|440|Opiliona}} fair
 Who spread life everywhere.
 
-Opiliona spread the moss
+{{c|440|Opiliona}} spread the moss
 Across the world, no loss
 Too great for her to bear
 In her maternal care.
@@ -78,7 +78,7 @@ And on what could be seen
 Of daughters of Millipa
 Throughout the earthly steppe-a.
 
-Opiliona was a mother
+{{c|440|Opiliona}} was a mother
 Great, and like no other
 Farmer with her legs
 So long, and wisdom begs
@@ -108,7 +108,7 @@ Names descendants of a lady).
 "Harvestmen" as well
 Their story always tell.
 
-Soliber begat two:
+{{c|439|Soliber}} begat two:
 Pneumaran, tried and true,
 And Kitzi, small but strong
 Who lived his whole life long.

@@ -1,4 +1,4 @@
-The Ordovician began
+The {{c|262|Ordovician}} began
 With great extinction's plan—
 Or did it? Sages still debate
 What caused that fearsome fate.

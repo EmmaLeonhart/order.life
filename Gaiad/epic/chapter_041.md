@@ -1,6 +1,6 @@
-While sons of Tunicus filtered
+While sons of {{c|78|Tunicus}} filtered
 The seas and never withered,
-Vertebratus built with care
+{{c|77|Vertebratus}} built with care
 A spinal cord beyond compare.
 
 Great segments made of bone
@@ -8,7 +8,7 @@ He built for his own
 With yellow teeth of keratin
 To start his line's great thing.
 
-Vertebratus begat Rene,
+{{c|77|Vertebratus}} begat {{c|400|Rene}},
 Who built in his own way
 A great unified design
 Of parts both yours and mine.

@@ -1,6 +1,6 @@
-As the reign of Leviathans
-Turned to Krakens' plans,
-The sons of Stomatos
+As the reign of {{c|410|Leviathans}}
+Turned to {{c|421|Krakens}}' plans,
+The sons of {{c|422|Stomatos}}
 Began their glorious
 
 Multiplication vast
@@ -15,7 +15,7 @@ To Avalonia's sight,
 
 Even to frigid lands
 Of Gondwana's strands,
-The sons of Stomatos
+The sons of {{c|422|Stomatos}}
 Grew numbers, glorious.
 
 To each son there fell
@@ -23,7 +23,7 @@ A star, and wishes tell
 Of thousand grandsons born
 From evening until morn.
 
-The sons of Stomatos
+The sons of {{c|422|Stomatos}}
 Built bodies, glorious,
 Of Carbon, and made tombs
 Like mausoleums' rooms
@@ -53,22 +53,22 @@ Nothing but ice's claim—
 A wasteland white and stark
 Where none could make their mark.
 
-But to the sons of Stomatos
+But to the sons of {{c|422|Stomatos}}
 This meant more, glorious
 Land where they could spread
 Their empire overhead.
 
-King Hirnan the great
+King {{c|423|Hirnan}} the great
 Became the potentate
 Who united every son
-Of Stomatos begun
+Of {{c|422|Stomatos}} begun
 
 In conquest of the earth.
 He lived where there was mirth
 In land of Avalonia
 And province of Holonia.
 
-Hirnan built with might
+{{c|423|Hirnan}} built with might
 A billion dikes upright
 And levies strong and tall,
 And cities over all
@@ -88,7 +88,7 @@ Of trilobites like ghosts
 Began to die away,
 Their lands seized every day
 
-By sons of Hirnan who
+By sons of {{c|423|Hirnan}} who
 Would make their empire through
 Conquest and through might
 Both day and through the night.
@@ -99,7 +99,7 @@ And then invaded strong,
 A desperate throng
 
 That smashed through every dike
-That Hirnan's folk would like
+That {{c|423|Hirnan}}'s folk would like
 To keep them from the land
 They'd built with their own hand.
 
@@ -118,17 +118,17 @@ And could not ever be
 Adapted to the air
 That filled the atmosphere.
 
-Hirnan bore two sons:
-Moses when day begun
-And Osiris the strong
+{{c|423|Hirnan}} bore two sons:
+{{c|424|Moses}} when day begun
+And {{c|425|Osiris}} the strong
 Who lived his whole life long.
 
-Moses became the father
+{{c|424|Moses}} became the father
 Of mosses, who would rather
 Live simple, humble lives
 Where small beauty thrives.
 
-Osiris bore two more:
+{{c|425|Osiris}} bore two more:
 Polysporos to explore
 And Anthoceros, who'd be
 Living peacefully.
@@ -143,7 +143,7 @@ The father of great fame
 Of ferns and flowers bright
 And trees that reach for height.
 
-The sons of Brachios
+The sons of {{c|408|Brachios}}
 Struggled, not glorious
 As they had been before
 In ages' ancient lore.
@@ -160,10 +160,10 @@ And their dynasty.
 
 But as Hirnan's rule
 Became oppression's tool,
-The sons of Metazo
+The sons of {{c|56|Metazo}}
 Began once more to grow.
 
-Alas the sons of Hirnan
+Alas the sons of {{c|423|Hirnan}}
 Didn't stop their plan
 There, but continued on
 From dusk until dawn
@@ -234,7 +234,7 @@ If it stood in their way
 Of conquest every day.
 
 The entire ocean fell
-Under Hirnan's spell
+Under {{c|423|Hirnan}}'s spell
 Of death and devastation
 Across every nation
 
@@ -244,8 +244,8 @@ To creatures great and small
 Who answered life's sweet call.
 
 The great houses of might—
-Leviathan's delight
-And Kraken's dynasty—
+{{c|410|Leviathan}}'s delight
+And {{c|421|Kraken}}'s dynasty—
 Were wiped from history.
 
 From off the earth they passed,
@@ -278,7 +278,7 @@ Closed its final page.
 The Ordovician time
 Was past its living prime.
 
-The sons of Silur came
+The sons of {{c|426|Silur}} came
 To conquer and to claim
 The ashes of the past
 And build their future last.
@@ -293,7 +293,7 @@ When all hope seemed gone
 And death had claimed the day
 In its destructive way.
 
-From Stomatos' sons' choice
+From {{c|422|Stomatos}}' sons' choice
 To let conquest be their voice
 Instead of harmony
 With life's symphony,
@@ -309,7 +309,7 @@ And life must pay the price
 For others' avarice.
 
 The trilobites' last stand
-Against Hirnan's hand
+Against {{c|423|Hirnan}}'s hand
 Shows courage in the face
 Of hopeless disgrace,
 
@@ -324,7 +324,7 @@ No mercy and no space
 For any other race.
 
 The ice age that began
-From Stomatos' plan
+From {{c|422|Stomatos}}' plan
 To take but never give
 Shows how some choose to live:
 
@@ -378,8 +378,8 @@ Of how they would not fail
 To build life once again
 Despite the grief and pain.
 
-From Hirnan's tyranny
-To Silur's dynasty,
+From {{c|423|Hirnan}}'s tyranny
+To {{c|426|Silur}}'s dynasty,
 The wheel of time turns on
 From dusk until dawn
 
@@ -428,7 +428,7 @@ To me and you
 And all who call earth home
 Wherever we may roam.
 
-The sons of Stomatos
+The sons of {{c|422|Stomatos}}
 May think they're glorious
 In conquest and in might,
 But life will always fight
