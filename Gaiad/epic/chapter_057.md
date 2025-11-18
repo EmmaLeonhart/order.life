@@ -7,7 +7,7 @@ As pillars in evolution's sacred sight.
 
 {{c|451|Janusicthus}} begat two sons of fame:
 First {{c|452|Kondricthus}}, noble, strong, and true,
-And bright {{c|453|Osticthus}}, bearer of the name
+And bright {{c|453|{{c|453|Osticthus}}}}, bearer of the name
 Of those who'd find their home in waters blue.
 
 As they lived beneath the ocean's foam
@@ -40,7 +40,7 @@ Of life's experiments in earth and sea
 Will be revealed that you might learn and grow
 In wisdom's ways through all eternity."
 
-Great Chondricthus declared with royal pride:
+Great {{c|452|{{c|452|Chondricthus}}}} declared with royal pride:
 "As eldest I shall make the choice today—
 The nose I'll take to be my faithful guide
 To rule the boundless sea in every way.
@@ -55,7 +55,7 @@ A nose beyond compare in all the world:
 A thousand scents could tell his story fair
 Of how his hunting banners were unfurled.
 
-But bright Osticthus received instead
+But bright {{c|453|Osticthus}} received instead
 What blessed his lineage through all time:
 A ring of bone around his eyes that led
 To vision clear and sight so sublime.
@@ -71,16 +71,16 @@ In every shade and hue that light unfurled
 With stories that his children yet would tell.
 
 And so the noble sons of bright sight
-Osticthus learned to rule by vision clear
+{{c|453|Osticthus}} learned to rule by vision clear
 While mighty sons of Kondricthus' might
 Ruled by the scents that they could always hear.
 
-Great Chondricthus could smell from waters far
+Great {{c|452|Chondricthus}} could smell from waters far
 Sweet streams that called like some celestial star
 From distant homes across the ocean foam
 To waters that would be his future home.
 
-While bright Osticthus with his gifted eyes
+While bright {{c|453|Osticthus}} with his gifted eyes
 Could see the clean air, bright and crystal free,
 Of heaven high above the earth that lies
 Beneath the dome of blue eternity.
@@ -90,7 +90,7 @@ Who'd made their blessed home upon the land
 That they had built with work victorious
 And shaped it with their own creative hand.
 
-Acanthus, noble son of Chondricthus,
+{{c|588|Acanthus}}, noble son of {{c|452|Chondricthus}},
 When all his youthful training days were done
 Challenged the mighty realm so glorious
 Of Placoderms beneath the blazing sun.
@@ -105,7 +105,7 @@ Eggs that were treasures, tried and tested true,
 That they would care for with their love so new
 Both day and night until their time was due.
 
-One blessed day Osticthus swam his way
+One blessed day {{c|453|Osticthus}} swam his way
 Up great Elivagar's sacred stream—
 The river we now know as the display
 Of Mississippi's power and her dream
@@ -115,7 +115,7 @@ Would lead him to his destined, faithful fate
 At heaven's gate where all things shall endure
 Through love that time can never desecrate.
 
-Osticthus learned to breathe the sacred air
+{{c|453|Osticthus}} learned to breathe the sacred air
 Through spiracles with reverent, loving care,
 As he opened his cheeks beyond compare
 To find what every seeking spirit's prayer
@@ -130,7 +130,7 @@ For air, not water's flow, to enter in—
 A change that helped him grow much more
 Than he had ever dreamed that he could win.
 
-The noble sons of bright Osticthus sing
+The noble sons of bright {{c|453|Osticthus}} sing
 Their hymns of victory and sacred praise
 Of great Elivagar's power that would bring
 Their hearts the sight of home through all their days
@@ -140,13 +140,13 @@ And life is old and deep beyond all measure
 And memories keep their vigil year by year
 Despite all joys and fears that time can treasure.
 
-Osticthus married fair Eutelea bright,
+{{c|453|Osticthus}} married fair {{c|589|Eutelea}} bright,
 Beyond compare in beauty and in grace,
 And in their blessed home filled with delight
 Together in their sacred dwelling place
 
 They bore two sons both noble, tried, and true:
-Actinus and great Sacropter's name,
+{{c|590|Actinus}} and great {{c|591|Sacropter}}'s name,
 Each destined for a chapter to pursue
 In evolution's book of lasting fame
 
@@ -155,7 +155,7 @@ Can see what time has wrought through patient years
 And what their faithful choices comprised
 Of joy and hope beyond all mortal fears.
 
-Great Sacropter saw the potential bright
+Great {{c|591|Sacropter}} saw the potential bright
 In what was most essential and most true
 About the forest green in morning light
 Of great Elivagar's blessed, sacred view.
@@ -170,7 +170,7 @@ Through forest's leafy, green, and sacred bush
 With lobed fins strong and wide that were his guide
 Through waters where the blessed spirits dwell.
 
-While bright Actinus could clearly see
+While bright {{c|590|Actinus}} could clearly see
 That air's sweet harmony within his form
 Could give him power to be truly free
 And weather any fierce and bitter storm.
@@ -201,17 +201,17 @@ And showed that love can multiply and share
 Its blessings far beyond what mortals dare.
 
 And so the noble sons of bright sight blessed
-Osticthus gained the vision crystal clear
+{{c|453|Osticthus}} gained the vision crystal clear
 To rule with wisdom and to be at rest:
-Actinus ruled without a trace of fear
+{{c|590|Actinus}} ruled without a trace of fear
 
-And great Sacropter, strong throughout his days,
+And great {{c|591|Sacropter}}, strong throughout his days,
 Who served with all his heart the gentle call
 Of forests' sacred and eternal ways
 That beckoned to the spirits of them all.
 
-And brave Acanthus, noble son so true
-Of great Chondricthus, with his work begun
+And brave {{c|588|Acanthus}}, noble son so true
+Of great {{c|452|Chondricthus}}, with his work begun
 His reign with scenting power to pursue
 His calling underneath the blazing sun.
 
@@ -265,8 +265,8 @@ That every story goes from night to day
 And what each seeking soul requires to find
 The peace that comes to every faithful mind.
 
-From great Chondricthus' scent to the ascent
-Of bright Osticthus to the air above
+From great {{c|452|Chondricthus}}' scent to the ascent
+Of bright {{c|453|Osticthus}} to the air above
 Through grace and mercy that were truly sent
 By heaven's everlasting, perfect love,
 

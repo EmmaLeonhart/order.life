@@ -16,21 +16,21 @@ And pancreas in sight
 Into his belly's space.
 To this day we trace
 This channel's honored name:
-"Ampulla of Vater's" fame.
+"Ampulla of {{c|444|Vater}}'s" fame.
 
 Such an exalted father,
 Father of more than other
 Men could ever dream,
 The Elohim's esteem
 
-Called him Abraham
+Called him {{c|487|Abraham}}
 According to their plan
 For one whose progeny
 Would fill eternity.
 
-Vater bore two sons:
-Arandus when begun
-The day, and Hestracon
+{{c|444|Vater}} bore two sons:
+{{c|488|Arandus}} when begun
+The day, and {{c|489|Hestracon}}
 Whose work would carry on
 
 The family's great name
@@ -53,12 +53,12 @@ To solve digestion's riddle.
 But this was not enough
 For one so strong and tough
 
-As Hestracon, who'd see
+As {{c|489|Hestracon}}, who'd see
 What greater good could be
 If he would dare to build
 What none before had willed.
 
-Hestracon built with care
+{{c|489|Hestracon}} built with care
 A chamber prepared
 Before his father's gift
 To give digestion lift.
@@ -83,24 +83,24 @@ The intestine, well-played
 In its appointed role
 To nourish the whole.
 
-Hestracon begat two:
-Astrops, tried and true,
-And Eteros the strong
+{{c|489|Hestracon}} begat two:
+{{c|490|Astrops}}, tried and true,
+And {{c|491|Eteros}} the strong
 Who lived his whole life long.
 
-Eteros begat then
+{{c|491|Eteros}} begat then
 Two sons beyond all ken:
-Cyatha, cup-shield bright,
-And Tsubasa's sight
+{{c|492|Cyatha}}, cup-shield bright,
+And {{c|493|Tsubasa}}'s sight
 
 Wing-shielded, prepared
 For all that he had dared
 To face in his lifetime
 Through reason and through rhyme.
 
-Tsubasa begat two:
-Thelos, tried and true,
-And Cephalus the wise
+{{c|493|Tsubasa}} begat two:
+{{c|494|Thelos}}, tried and true,
+And {{c|495|Cephalus}} the wise
 With penetrating eyes.
 
 Thelos broke his armor
@@ -121,11 +121,11 @@ That sealed their swimming fate.
 Where none others could bend
 Well enough to transcend
 The coral's tight embrace,
-Thelos found his place.
+{{c|494|Thelos}} found his place.
 
-Neither sons of Arthropus
-Nor sons of Molluscus,
-Nor sons of Chordatus
+Neither sons of {{c|393|Arthropus}}
+Nor sons of {{c|109|Molluscus}},
+Nor sons of {{c|75|Chordatus}}
 Could match his status
 
 In the reef's tight spaces
@@ -158,9 +158,9 @@ Aware of all that he
 Could sense around his form,
 He weathered every storm.
 
-Cephalus begat two:
-Galeas, tried and true,
-And Osteos, who'd see
+{{c|495|Cephalus}} begat two:
+{{c|496|Galeas}}, tried and true,
+And {{c|497|Osteos}}, who'd see
 What innovation's key
 
 Could open in the world
@@ -168,7 +168,7 @@ Where possibilities unfurled
 For those who dared to think
 Beyond tradition's link.
 
-Osteos was in plight—
+{{c|497|Osteos}} was in plight—
 His bones weren't right
 For efficiency, he knew.
 He had to make them new.
@@ -193,7 +193,7 @@ Would build more cleverly
 His skeleton anew
 With wisdom tried and true.
 
-Osteos built with care
+{{c|497|Osteos}} built with care
 Blood channels everywhere
 Inside his bones, making
 Living, breathing, taking

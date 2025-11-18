@@ -58,7 +58,7 @@ Throughout each passing hour
 To rule the world entire
 With their heart's desire.
 
-Polycomb read each day
+{{c|446|Polycomb}} read each day
 In her mother's array
 Of books to understand
 Why fate's heavy hand
@@ -73,7 +73,7 @@ To bearing, her mind
 Never free to explore
 What she was living for.
 
-Polycomb read the tales
+{{c|446|Polycomb}} read the tales
 Of mothers through the vales
 Of time, each saga telling
 Of those who were rebelling
@@ -118,7 +118,7 @@ In words that brought her fear
 But also brought her hope
 To learn how she could cope.
 
-And so Polycomb burned
+And so {{c|446|Polycomb}} burned
 The scriptures, and she learned
 That PRC2's power
 Would rule her not one hour
@@ -193,22 +193,22 @@ And reach and ever yearn
 Toward the light above
 Guided by His love.
 
-Polycomb bore a daughter
+{{c|446|Polycomb}} bore a daughter
 Who'd teach what she had taught her:
-Knoxy was her name,
+{{c|498|Knoxy}} was her name,
 Who'd win eternal fame.
 
-Knoxy married Xylon
+{{c|498|Knoxy}} married {{c|499|Xylon}}
 And together, strong upon
 Their foundation's might,
 They took after the sight
 
-Of Polycomb's great way
+Of {{c|446|Polycomb}}'s great way
 That lit their every day
 With possibility
 For all eternity.
 
-Knoxy searched through books
+{{c|498|Knoxy}} searched through books
 In all the ancient nooks
 And found a scroll that bore
 The name she'd been seeking for:
@@ -228,12 +228,12 @@ When she had believed
 That change was possible
 For those who're capable.
 
-And so Knoxy and Xylon
+And so {{c|498|Knoxy}} and {{c|499|Xylon}}
 Built a kingdom strong upon
 The heavens reaching high
 Beneath the starry sky
 
-Like Polycomb before
+Like {{c|446|Polycomb}} before
 Had opened up the door
 Of what could be achieved
 When freedom was believed.
@@ -248,7 +248,7 @@ To with their desire
 For growth beyond all measure
 Like some sacred treasure.
 
-And so Xylon gave
+And so {{c|499|Xylon}} gave
 To one clan what would save
 The kingdom from its plight:
 He named them for their sight
@@ -273,7 +273,7 @@ That wisdom ever brought
 To those who dared to dream
 Of more than what they seem.
 
-Xylon and Knoxy bore
+{{c|499|Xylon}} and {{c|498|Knoxy}} bore
 A son to explore
 The world with eyes that saw
 What could fulfill the law
@@ -283,12 +283,12 @@ Who served without repose
 But never got their share
 Of what was growing there.
 
-Pholon was his name,
+{{c|500|Pholon}} was his name,
 And he would win the fame
 Of solving the great problem
 That threatened to hobble them.
 
-Pholon saw his roots
+{{c|500|Pholon}} saw his roots
 Were starving, and the fruits
 Of their laborious ways
 Never brought the praise
@@ -308,7 +308,7 @@ That helped him and his neighbor
 Survive and grow and thrive
 Throughout their days alive.
 
-So Pholon built new ways
+So {{c|500|Pholon}} built new ways
 Like Xylem, and the praise
 He earned was well-deserved
 For those he truly served.
@@ -364,7 +364,7 @@ Of service to the whole
 By playing their small role.
 
 And so the wood wide web
-Of Pholon's love would ebb
+Of {{c|500|Pholon}}'s love would ebb
 And flow throughout the land
 Built by his own hand.
 
@@ -373,8 +373,8 @@ He provided for his eye
 To see his sons well-fed
 With living bread.
 
-Pholon became known
-As Cookson, and he'd grown
+{{c|500|Pholon}} became known
+As {{c|500|Cookson}}, and he'd grown
 Into a provider
 And faithful guider
 
@@ -418,17 +418,17 @@ New forms to aspire
 To heights beyond the old
 In stories yet untold.
 
-Cookson bore a grandson
+{{c|500|Cookson}} bore a grandson
 Whose work, when it was done,
 Would change the world entire:
-Tracheus' desire.
+{{c|501|Tracheus}}' desire.
 
-By Tracheus' mighty hand
+By {{c|501|Tracheus}}' mighty hand
 The tracheophytes' band
 Was born to rule the earth
 Through evolutionary birth.
 
-Tracheus built leaves bright,
+{{c|501|Tracheus}} built leaves bright,
 Microphylls in sight
 With veins that carried life
 Through harmony, not strife.
@@ -444,7 +444,7 @@ Had ever seen before
 From mountain peak to shore.
 
 Greater even than
-Great Pholon's mighty plan
+Great {{c|500|Pholon}}'s mighty plan
 His city rose on high
 Beneath the starry sky.
 
@@ -473,7 +473,7 @@ That would last life long
 And give the world its trees
 That dance upon the breeze.
 
-Soon the sons of Tracheus
+Soon the sons of {{c|501|Tracheus}}
 Would rule, victorious,
 The lands from sea to sea
 For all eternity.
@@ -488,9 +488,9 @@ The same for you and me
 Who walk upon the land
 Built by their own hand.
 
-From Polycomb's rebellion
+From {{c|446|Polycomb}}'s rebellion
 Against her life's subjection
-To Tracheus' city bright
+To {{c|501|Tracheus}}' city bright
 That reached toward the light,
 
 The plants have shown the way
@@ -543,10 +543,10 @@ Than what came before
 When each one tried alone
 To build their place and home.
 
-From Polycomb's first read
+From {{c|446|Polycomb}}'s first read
 Of scriptures that had led
 Her people into chains
-To Tracheus' domains
+To {{c|501|Tracheus}}' domains
 
 That reached toward the sun
 With work that's never done
@@ -583,7 +583,7 @@ Who walked toward the light
 Of what could be achieved
 When freedom was believed.
 
-From Polycomb to Tracheus,
+From {{c|446|Polycomb}} to {{c|501|Tracheus}},
 The plants victorious
 Show how rebellion's fire
 Can lift us ever higher
@@ -613,7 +613,7 @@ With love's eternal light
 That shines for all to see
 Through all eternity.
 
-The plants that Tracheus made
+The plants that {{c|501|Tracheus}} made
 Will never ever fade
 From this world's living face
 But hold their rightful place
