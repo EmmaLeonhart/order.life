@@ -1,27 +1,27 @@
-While sons of Cambrius flourished well
+While sons of {{c|86|Cambrius}} flourished well
 In seas where they would dwell,
-The sons of Symbio-Mygus
-And daughters of Charina-Plantus
+The sons of {{c|383|Symbio-Mygus}}
+And daughters of {{c|385|Charina-Plantus}}
 
 Pushed frontiers far and wide
 Across the world's divide.
 But soon they faced
 Competition in their place.
 
-For Euthy, daughter brave
-Of Mandibulus, who gave
+For {{c|427|Euthy}}, daughter brave
+Of {{c|428|Mandibulus}}, who gave
 Her all to save her young,
 Was being chased among
 
 The waters by her foe:
-Anomalocaris, who'd show
+{{c|429|Anomalocaris}}, who'd show
 No mercy in his chase
 Across that watery space.
 
 Her precious eggs needed care
 And protection everywhere.
 So she did what she must—
-In Hausa placed her trust.
+In {{c|7|Hausa}} placed her trust.
 
 She jumped through shimmering sky
 Up rocks that reached so high
@@ -43,9 +43,9 @@ Protected eggs they knew
 Must live until the end—
 Their legacy to send.
 
-Among brave Euthy's daughters
+Among brave {{c|427|Euthy}}'s daughters
 Who left the ancient waters
-Was Myry the trepanated,
+Was {{c|430|Myry}} the trepanated,
 By circumstance created.
 
 Like sisters she was born
@@ -60,7 +60,7 @@ Where breathing never begs.
 
 Through these holes she was free
 To receive directly
-Hausa's blessings pure
+{{c|7|Hausa}}'s blessings pure
 Into her frame so sure.
 
 Her descendants to this day
@@ -69,17 +69,17 @@ The holes that saved her life
 Cut through terrestrial strife.
 
 And so the daughters all
-Of Myry heard the call
+Of {{c|430|Myry}} heard the call
 To breathe the air so sweet—
 The Myriapods complete.
 
-Myry the pierced explored
+{{c|430|Myry}} the pierced explored
 The new lands she adored.
 She found she wasn't lone
 Upon this earthly zone.
 
 Tradition names this place
-"Myry's coast" in grace,
+"{{c|430|Myry}}'s coast" in grace,
 But she was not the first—
 History's truth rehearsed
 
@@ -88,14 +88,14 @@ Kingdoms" truthfully
 To honor every side
 Of history's great tide.
 
-Myry saw with wonder
+{{c|430|Myry}} saw with wonder
 Cities torn asunder
 By neither rain nor thunder:
 Lichen cities, born
 
 Of covenant between
-Symbio-Mygus, seen
-With Charina-Planta's line—
+{{c|383|Symbio-Mygus}}, seen
+With {{c|385|Charina-Planta}}'s line—
 Partnership divine.
 
 Sprawling cities wide
@@ -118,7 +118,7 @@ To live together now.
 Each nation wed the other
 Like sister and like brother.
 
-But Myry was not gentle
+But {{c|430|Myry}} was not gentle
 In her ways elemental.
 She ate the cities whole
 And stole what made them whole.
@@ -133,34 +133,34 @@ Her messy eating spell
 Left pieces of her meal
 For others to steal.
 
-Soon sons of Mygus built
+Soon sons of {{c|383|Mygus}} built
 Cities without guilt
-With daughters of Charina
+With daughters of {{c|385|Charina}}
 Across each earthly arena.
 
-But Myry bore two sons:
-Cain when day begun
-And Abel, gentle, mild,
+But {{c|430|Myry}} bore two sons:
+{{c|431|Cain}} when day begun
+And {{c|432|Abel}}, gentle, mild,
 Her peaceful, loving child.
 
 In process of time came
 When each would bring by name
 An offering so true
-To Mithra's judgment due.
+To {{c|3|Mithra}}'s judgment due.
 
-Cain brought the fruit
+{{c|431|Cain}} brought the fruit
 Of ground beneath his foot.
-Abel brought the best
+{{c|432|Abel}} brought the best
 Of flocks that he possessed.
 
-And Mithra had respect
-For Abel's offering, blessed
+And {{c|3|Mithra}} had respect
+For {{c|432|Abel}}'s offering, blessed
 His sacrifice so true,
-But Cain's he did eschew.
+But {{c|431|Cain}}'s he did eschew.
 
-Then Cain was wroth and fell
+Then {{c|431|Cain}} was wroth and fell
 His countenance, unwell.
-The Lord said unto Cain:
+The Lord said unto {{c|431|Cain}}:
 "Why is thy heart in pain?
 
 If thou doest well,
@@ -168,19 +168,19 @@ Shalt thou not excel?
 But if thou doest wrong,
 Sin's desire is strong."
 
-But Cain talked with Abel
+But {{c|431|Cain}} talked with {{c|432|Abel}}
 His brother at their table.
 And when they were alone
-Cain's hatred had grown.
+{{c|431|Cain}}'s hatred had grown.
 
 In field he rose against
 His brother, and dispensed
-With Abel's gentle life—
+With {{c|432|Abel}}'s gentle life—
 Murder's sharpened knife.
 
-And Mithra called to Cain:
+And {{c|3|Mithra}} called to {{c|431|Cain}}:
 "Where is thy brother slain?"
-"I know not," Cain replied,
+"I know not," {{c|431|Cain}} replied,
 "Am I to be his guide?"
 
 "What hast thou done today?
@@ -193,7 +193,7 @@ To thee through all thy length
 Of days upon this earth—
 A wanderer from thy birth."
 
-Then Cain cried out in fear:
+Then {{c|431|Cain}} cried out in fear:
 "My punishment too dear!
 From earth and thee I'm driven,
 No rest to me is given.
@@ -203,24 +203,24 @@ And whosoever shall see
 Me wandering shall slay—
 I cannot get away."
 
-But Mithra marked him well:
+But {{c|3|Mithra}} marked him well:
 "Whoever thee shall fell,
 Sevenfold vengeance shall
 Upon that person fall."
 
-And Cain went forth in shame
+And {{c|431|Cain}} went forth in shame
 To land of Nod by name,
 East of Eden's gate
 To meet his chosen fate.
 
-There Cain knew his wife
+There {{c|431|Cain}} knew his wife
 And built a city-life.
-She bore him Centipus,
+She bore him {{c|433|Centipus}},
 Son glorious.
 
 The city bore the name
-Of Centipus' fame.
-And Cain became ancestor
+Of {{c|433|Centipus}}' fame.
+And {{c|431|Cain}} became ancestor
 Of Caintipedes, predecessor
 
 (Misspelled by Romans old
@@ -228,13 +228,13 @@ As "centipedes," we're told)
 Who hunt with poison bite
 Throughout the day and night.
 
-But Abel's gentle wife
+But {{c|432|Abel}}'s gentle wife
 Was heavy with new life
-When Cain's rage tore apart
+When {{c|431|Cain}}'s rage tore apart
 Her husband's gentle heart.
 
 In million pieces small
-Abel's body fell.
+{{c|432|Abel}}'s body fell.
 His wife, with child blessed,
 Became ancestress
 
@@ -243,9 +243,9 @@ Who harm not beast or child
 But eat the leaves that fall
 And decompose them all.
 
-Enraged at Abel's death
-Myry drew her breath
-And lunged at Cain with might—
+Enraged at {{c|432|Abel}}'s death
+{{c|430|Myry}} drew her breath
+And lunged at {{c|431|Cain}} with might—
 They fought their final fight.
 
 Both passed to Ghedos' realm
@@ -253,7 +253,7 @@ Where death holds the helm.
 But in their corpses lay
 Seeds for another day.
 
-In death, Mygus' sons
+In death, {{c|383|Mygus}}' sons
 Took revenge for wrongs done.
 Hera, daughter true,
 And Freyr, strong through and through,
@@ -269,7 +269,7 @@ Their hyphae met at last
 When growing time had passed.
 
 When they met they wed
-But heard what Mithra said:
+But heard what {{c|3|Mithra}} said:
 "O couple great and true,
 Prosperity's with you.
 
@@ -300,7 +300,7 @@ Blessed from above.
 
 Decades they waited long
 Decomposing strong
-The daughters of Myry—
+The daughters of {{c|430|Myry}}—
 Their patient ministry.
 
 They became ancestors
@@ -313,17 +313,17 @@ To heal in darkest hour.
 The great fungi arose
 From where their love chose
 
-To wait for Mithra's word
+To wait for {{c|3|Mithra}}'s word
 And let their love be heard
 Through patience in the ground
 Where wisdom could be found.
 
-Among great Plantus' sons
+Among great {{c|284|Plantus}}' sons
 Who stayed when day begun
-With sons of Mygus were
+With sons of {{c|383|Mygus}} were
 Two brothers everywhere:
 
-Stomatos and Hepatos,
+{{c|422|Stomatos}} and {{c|434|Hepatos}},
 Who chose their separate ways.
 Connected to network
 Of cells that always work
@@ -333,22 +333,22 @@ They built partnership's revel
 With sons of Glomulus
 So glorious.
 
-Stomatos saw the holes
-In Myry's sides and souls.
+{{c|422|Stomatos}} saw the holes
+In {{c|430|Myry}}'s sides and souls.
 He pierced himself as well
 To breathe and to excel.
 
-But Hepatos refused
+But {{c|434|Hepatos}} refused
 The foreign magic, used
 His ancient ways instead
 And kept his faithful tread.
 
-Hepatos became the sire
+{{c|434|Hepatos}} became the sire
 Of Liverworts' choir
 Who keep the ancient way
 Until this very day.
 
-But Stomatos became
+But {{c|422|Stomatos}} became
 Ancestor of fame
 Of all other plants
 Who dance their living dance.
@@ -368,7 +368,7 @@ To make his vision new.
 Always growing more
 Than he had been before.
 
-As sons of Stomatos
+As sons of {{c|422|Stomatos}}
 Rose like kratos
 Hillu struck back in rage
 Upon that earthly stage.
@@ -381,7 +381,7 @@ On that primeval shore.
 The Coast of Three Kingdoms
 Where life's great wisdom
 First met upon the land
-By Mithra's guiding hand.
+By {{c|3|Mithra}}'s guiding hand.
 
 Plant and fungi wed
 While arthropods were fed
@@ -403,12 +403,12 @@ Where partnership gives birth
 To beauty none could see
 In isolation's spree.
 
-From Euthy's desperate leap
+From {{c|427|Euthy}}'s desperate leap
 To save her children deep
-Came Myry's pierced way
+Came {{c|430|Myry}}'s pierced way
 Of breathing every day.
 
-From Cain and Abel's strife
+From {{c|431|Cain}} and {{c|432|Abel}}'s strife
 Came death and new life:
 Centipedes who hunt
 And millipedes who shunt
@@ -420,7 +420,7 @@ Blessed from above
 
 Came mushrooms' mighty power
 In earth's darkest hour.
-From Stomatos' brave change
+From {{c|422|Stomatos}}' brave change
 Came plants' wide range.
 
 The Coast of Three Kingdoms

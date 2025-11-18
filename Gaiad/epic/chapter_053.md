@@ -1,4 +1,4 @@
-The sons of Plantus were
+The sons of {{c|284|Plantus}} were
 Reinvigorated, blur
 Of ancient dreams renewed
 When their hope was imbued
@@ -6,7 +6,7 @@ When their hope was imbued
 With power from the great
 Sorceress whose fate
 Would change the world entire:
-Polycomb's desire.
+{{c|446|Polycomb}}'s desire.
 
 For eleven generations long
 Her lineage sang the song

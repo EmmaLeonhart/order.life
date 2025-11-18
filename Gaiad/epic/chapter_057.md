@@ -1,13 +1,13 @@
 # Chapter 57: The Vertebrate Houses
 
 This is the book that tells of generations blessed
-And lineages of Janus glorious and bright,
+And lineages of {{c|450|Janus}} glorious and bright,
 Of how three houses came to rule and rest
 As pillars in evolution's sacred sight.
 
-Janusicthus begat two sons of fame:
-First Kondricthus, noble, strong, and true,
-And bright Osticthus, bearer of the name
+{{c|451|Janusicthus}} begat two sons of fame:
+First {{c|452|Kondricthus}}, noble, strong, and true,
+And bright {{c|453|Osticthus}}, bearer of the name
 Of those who'd find their home in waters blue.
 
 As they lived beneath the ocean's foam

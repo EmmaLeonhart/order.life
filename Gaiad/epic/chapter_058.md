@@ -1,7 +1,7 @@
 # Chapter 58: The Fungal Kingdom
 
-Dikar lived as parasite upon the sons
-Of Plantus bright, from lineage of great fame,
+{{c|454|Dikar}} lived as parasite upon the sons
+Of {{c|284|Plantus}} bright, from lineage of great fame,
 The twentieth in line when day begun
 From Freyr and Hera's marriage blessed by name.
 
@@ -10,7 +10,7 @@ He lived his whole life with both power and might,
 Through darkness and in glory's golden rays
 Both day and through the blessed, eternal night.
 
-Dikar married Ferma fair and true,
+{{c|454|Dikar}} married {{c|455|Ferma}} fair and true,
 Together they became a blessed pair
 Who bore two sons of fame before they knew
 Their lives would spread throughout the earth and air.

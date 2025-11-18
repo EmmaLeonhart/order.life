@@ -1,6 +1,6 @@
 # Chapter 61: The Land Bridge
 
-Rhipidistius the great survived the fall
+{{c|461|Rhipidistius}} the great survived the fall
 When devastation swept the world away,
 A hero of his time who heard the call
 To show the faithful path through that dark day.
@@ -10,9 +10,9 @@ His vigil bright and never lost his hope
 Beyond the bounds of earth's eternal sleep
 Into the light of evolution's scope.
 
-Rhipidistius bore two sons of might,
+{{c|461|Rhipidistius}} bore two sons of might,
 Both noble, tried and true through every test:
-Dipnos and Tetram, warriors of light
+{{c|462|Dipnos}} and {{c|463|Tetram}}, warriors of light
 Who lived their lives according to what's best.
 
 Dipnos became the father of those who

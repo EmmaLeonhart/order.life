@@ -1,17 +1,17 @@
 This is the chronicle we tell
-Of Arthur Ironfoot so well.
+Of {{c|98|Arthur}} Ironfoot so well.
 His sons would spread both far and wide
 With evolution as their guide.
 
-Arthur bore two sons of fame:
-Arthropus, double-legged by name,
-And Fuxi, wise and strong,
+{{c|98|Arthur}} bore two sons of fame:
+{{c|393|Arthropus}}, double-legged by name,
+And {{c|394|Fuxi}}, wise and strong,
 Who lived his whole life long.
 
-Arthropus the double-legged
+{{c|393|Arthropus}} the double-legged
 From him great lines were pledged.
 Two sons he bore with might:
-Ferron and Isoxys bright.
+{{c|395|Ferron}} and {{c|396|Isoxys}} bright.
 
 From Ferron came two more:
 Megacheiron to explore

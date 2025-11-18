@@ -1,6 +1,6 @@
 Among the three great ancestors,
 Those ancient processors,
-Spiralius was most conservative,
+{{c|113|Spiralius}} was most conservative,
 His ways preservative.
 
 He fished with tentacles long,
@@ -8,15 +8,15 @@ As fathers had done strong.
 The ancient art he kept alive
 To help his children thrive.
 
-Great Spiralius worked each day
+Great {{c|113|Spiralius}} worked each day
 In his diligent way
 To provide for children all
 Who answered duty's call.
 
 Among his many sons of fame
 Two earned eternal name:
-Bold Kimberella the king
-And Gnathifer's ring.
+Bold {{c|389|Kimberella}} the king
+And {{c|390|Gnathifer}}'s ring.
 
 Kimberella earned his fame
 Through his eternal name.

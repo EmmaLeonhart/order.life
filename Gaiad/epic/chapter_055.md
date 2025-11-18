@@ -1,16 +1,16 @@
 # Chapter 55: The Forest Cathedral
 
-As Devon's sons grew strong and true in might,
-The spineless sons of bright Proteus fair
+As {{c|447|Devon}}'s sons grew strong and true in might,
+The spineless sons of bright {{c|81|Proteus}} fair
 Prepared themselves to join the ancient fight
 For rule beneath the ocean's flowing care.
 
-In Devon's shadow they grew day by day,
+In {{c|447|Devon}}'s shadow they grew day by day,
 Their strength increasing with each passing hour,
 Building themselves to drink what victory's way
 Would bring them through their faithful, growing power.
 
-Among great Spiralius' noble line,
+Among great {{c|113|Spiralius}}' noble line,
 Neo arose in tenth generation's race
 Of Bactridius blessed and divine,
 The smartest soul in all his time and place.

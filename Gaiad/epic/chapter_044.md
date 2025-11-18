@@ -1,9 +1,9 @@
-Among the sons of Molluscus
+Among the sons of {{c|109|Molluscus}}
 Were twisted ones, most glorious:
-The sons of Gastropus,
+The sons of {{c|110|Gastropus}},
 Renowned and prosperous.
 
-Gastropus twisted each
+{{c|110|Gastropus}} twisted each
 Son beyond our reach
 Of understanding strange:
 Their anus he'd arrange

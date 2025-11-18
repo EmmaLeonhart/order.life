@@ -1,14 +1,14 @@
-Devon's city was the greatest sight
+{{c|447|Devon}}'s city was the greatest sight
 Among all cities burning bright
 In that era, and so
 The name would always show:
 
 The new era was called
 Devonian, enthralled
-By Devon's mighty rule
+By {{c|447|Devon}}'s mighty rule
 Like some divine school.
 
-As Devon sat upon
+As {{c|447|Devon}} sat upon
 The ground when day begun,
 He sucked water so pure
 Into his gill, secure

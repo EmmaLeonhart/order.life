@@ -1,6 +1,6 @@
-Vater was the son so great
+{{c|444|Vater}} was the son so great
 In the tenth generation's fate
-Of Pteraspis, and he'd be
+Of {{c|445|Pteraspis}}, and he'd be
 Ancestor of humanity
 
 And myriad species more

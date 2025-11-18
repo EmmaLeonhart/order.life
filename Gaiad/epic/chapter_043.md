@@ -1,14 +1,14 @@
-While Trilobites ruled the seas
+While {{c|106|Trilobites}} ruled the seas
 With their great dynasties,
 The rivers flowed so free
 For lesser brethren's spree.
 
-The sons of Arachnus ruled
+The sons of {{c|102|Arachnus}} ruled
 The seas where they schooled
 Their children in the art
 Of playing their sea part.
 
-The sons of Insectus took
+The sons of {{c|252|Insectus}} took
 The rivers like a book
 Of opportunities
 For their communities.

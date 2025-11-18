@@ -1,14 +1,14 @@
-While sons of Proteus divided fast
+While sons of {{c|81|Proteus}} divided fast
 And their kingdoms grew vast,
-The sons of Dutrus moved slow
+The sons of {{c|71|Dutrus}} moved slow
 And let their wisdom grow.
 
 Two twin sons were born
 In the early morn:
-Saccorhytus the lame
-And Dietrich of fame.
+{{c|391|Saccorhytus}} the lame
+And {{c|392|Dietrich}} of fame.
 
-Poor Saccorhytus never grew
+Poor {{c|391|Saccorhytus}} never grew
 Into something new.
 As larva he remained
 And was never gained.

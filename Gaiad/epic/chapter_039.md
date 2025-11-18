@@ -4,7 +4,7 @@ The first extinction came
 With death's devouring flame.
 
 For years in heaven's height
-Hengweh and Mithra fight.
+{{c|399|Hengweh}} and {{c|3|Mithra}} fight.
 They wrestled in the air
 And blocked sun's light so fair.
 

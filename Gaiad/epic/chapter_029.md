@@ -3,14 +3,14 @@ Two lineages would come to be
 United in a bond so strong
 That lasted both their whole life long.
 
-Great Symbio-Mygus, fungal lord,
-Son of Mygus by accord,
+Great {{c|383|Symbio-Mygus}}, fungal lord,
+Son of {{c|361|Mygus}} by accord,
 Tenth generation from the line
-Of Zygos, ancient and divine.
+Of {{c|384|Zygos}}, ancient and divine.
 
-Fair Charina-Planta bright,
+Fair {{c|385|Charina-Planta}} bright,
 Daughter of photosynthetic light,
-Tenth from Charina's algae clan
+Tenth from {{c|386|Charina}}'s algae clan
 That lived where river waters ran.
 
 These two would meet beside the shore

@@ -1,7 +1,7 @@
-Among the sons of Cambrius
+Among the sons of {{c|86|Cambrius}}
 Two faced issues serious:
-Chordatus, son of Dutrus true,
-And Annelidus, strong through and through.
+{{c|75|Chordatus}}, son of {{c|71|Dutrus}} true,
+And {{c|397|Annelidus}}, strong through and through.
 
 Each one supported by
 Hydrostatic pressure high.

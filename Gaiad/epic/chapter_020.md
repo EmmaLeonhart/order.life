@@ -1,4 +1,4 @@
-Now Euka, in his cellular hall divine,
+Now {{c|24|Euka}}, in his cellular hall divine,
 Reflected on the gifts his love had made.
 "What wonders," thought he, "from our bloodline shine,
 What tools of life our children have displayed!"
@@ -28,7 +28,7 @@ Young Nucleus, keeper of the scrolls divine.
 Through nuclear pores, our sacred flame
 Of knowledge flows in patterns most fine."
 
-Thus Euka catalogued his proud creation,
+Thus {{c|24|Euka}} catalogued his proud creation,
 Each organelle a gift to future time.
 But greater still would be his culmination—
 The spreading of his cellular line.
@@ -36,7 +36,7 @@ The spreading of his cellular line.
 For Seth, his son, bore daughters of his own,
 And through five generations they would spread.
 Until at last, when ice age's reign had flown,
-Two mighty lines from Euka's blood were bred.
+Two mighty lines from {{c|24|Euka}}'s blood were bred.
 
 Seth son of Euka wed Azura fair,
 His sister-bride with mitochondrial grace.
@@ -59,7 +59,7 @@ But Bios-Neos found his destined meet
 In Plasma-Belle, the membrane's harborer.
 
 From Bios-Neos and his faithful bride
-Came Nectarius, ruler of the new.
+Came {{c|35|Nectarius}}, ruler of the new.
 His royal line would spread both far and wide,
 When warming seas gave life a broader view.
 
@@ -74,16 +74,16 @@ With chloroplasts she captured light serene,
 Yet flagella helped her swim toward the sun.
 
 These euglenids would keep their ancient ways,
-While Nectarius built a different throne.
+While {{c|35|Nectarius}} built a different throne.
 Through all the warming days,
 He made the complex cell his very own.
 
-For Nectarius wed fair Chlora bright,
+For {{c|35|Nectarius}} wed fair {{c|36|Chlora}} bright,
 Who bore the gift of photosynthetic power.
-Their eldest son was Planta, filled with light,
+Their eldest son was {{c|37|Planta}}, filled with light,
 Who turned the sun's rays into energy's flower.
 
-Their second child was Mycon, strange and wise,
+Their second child was {{c|38|Mycon}}, strange and wise,
 Who neither plant nor animal would be.
 With spores and threads beneath the forest skies,
 He built a fungal kingdom, wild and free.
@@ -98,7 +98,7 @@ Who dreamed of building bodies complex, vast.
 "No single cell," he said, "can ever hold
 The wonders I will build to ever last."
 
-Thus Nectarius, in his wisdom deep,
+Thus {{c|35|Nectarius}}, in his wisdom deep,
 Became the father of all complex life.
 His four great children, each their realm to keep,
 Cut through evolution's edge like sharpest knife.
@@ -115,7 +115,7 @@ And spread like pollen carried on the breeze.
 
 But that is tale for future songs to tell,
 How complex life arose from single cells.
-For now, let Euka's story rest quite well—
+For now, let {{c|24|Euka}}'s story rest quite well—
 His gift of nucleus forever dwells.
 
 In every plant that reaches for the sun,
@@ -123,7 +123,7 @@ In every beast that runs across the plain,
 The marriage of the first two, when all begun,
 Lives on through joy and sorrow, loss and gain.
 
-So honor Euka, father of us all,
-And Eve, the power-giver, ever true.
+So honor {{c|24|Euka}}, father of us all,
+And {{c|25|Eve}}, the power-giver, ever true.
 From their great love, both proud and strong and tall,
 Came every living thing, including you.

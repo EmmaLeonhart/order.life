@@ -15,7 +15,7 @@ With Poxus born to take the viral helm.
 
 But Poxus was a warrior, fierce and wild,
 His viral nature burned with restless flame.
-Yet Aster's plan had need of one more mild,
+Yet {{c|1|Aster}}'s plan had need of one more mild,
 To birth the future's most exalted name.
 
 So Gravros took another bride to wife,
@@ -38,24 +38,24 @@ In Nuclella of the membrane wall.
 Together they would not procrastinate,
 But answer evolution's sacred call.
 
-And from their union, blessed by Aster's grace,
-Came Euka, first of all eukaryotic kind.
+And from their union, blessed by {{c|1|Aster}}'s grace,
+Came {{c|24|Euka}}, first of all eukaryotic kind.
 His father's virus found its destined place,
 Within his mother's cell, their fates combined.
 
-For Euka bore within his very core,
+For {{c|24|Euka}} bore within his very core,
 A nucleus wrapped in membrane double-walled.
 His father's legacy, forevermore,
 Would guard the scrolls where destiny was scrawled.
 
-Now Euka wandered through the frozen sea,
+Now {{c|24|Euka}} wandered through the frozen sea,
 Where ice had locked the world in silent death.
 His nuclear gift could set all life free,
 But first he needed love's life-giving breath.
 
 In deep thermal vents where warmth still flowed,
 Two sisters dwelt in phospholipid halls.
-Fair Eve and Lilith, from one mother showed,
+Fair {{c|25|Eve}} and {{c|257|Lilith}}, from one mother showed,
 Both beautiful, both answering love's calls.
 
 These daughters of the proteobacter line,
@@ -63,7 +63,7 @@ Had power locked within their membrane coils.
 Their respiratory chains could intertwine
 With any cell to fuel its living toils.
 
-First Lilith came to greet the wandering youth,
+First {{c|257|Lilith}} came to greet the wandering youth,
 Her outer membrane gleaming silver-bright.
 She spoke of ancient wisdom and of truth,
 And promised warmth throughout the endless night.
@@ -73,13 +73,13 @@ And promised warmth throughout the endless night.
 Together we can make ATP flow,
 With you as master, I'll be faithful bride."
 
-And Euka, cold from wandering alone,
-Was drawn to Lilith's offer of embrace.
+And {{c|24|Euka}}, cold from wandering alone,
+Was drawn to {{c|257|Lilith}}'s offer of embrace.
 He entered through her membrane to her throne,
 And found within her cytoplasmic space.
 
-But Lilith harbored secrets in her heart,
-Ambitions that she kept from Euka's sight.
+But {{c|257|Lilith}} harbored secrets in her heart,
+Ambitions that she kept from {{c|24|Euka}}'s sight.
 She planned to rule, to play the greater part,
 And use his nuclear gift for her own might.
 
@@ -88,14 +88,14 @@ The trickster Hengweh whispered in her ear,
 Your power makes his feeble nucleus clear—
 You are the one who holds true lordship."
 
-And Lilith listened to the tempter's voice,
+And {{c|257|Lilith}} listened to the tempter's voice,
 Her pride swelled up like poison in her veins.
 She made her dark and treacherous choice,
 To break free from love's sacred chains.
 
 She tried to merge her genome with his own,
 To steal his viral secrets and his power.
-But Euka felt his sacred essence flown,
+But {{c|24|Euka}} felt his sacred essence flown,
 And knew this was corruption's bitter hour.
 
 "False bride!" he cried, "You seek to steal my soul!
@@ -108,24 +108,24 @@ Her membrane torn, her cristae left in ruins.
 "No more shall I endure your faithless pride—
 Go forth! Your greed your legacy ruins!"
 
-But Lilith, cast out, burned with bitter rage,
+But {{c|257|Lilith}}, cast out, burned with bitter rage,
 She swore revenge upon the first-born cell.
 "My daughters shall torment you age by age,
 And make your progeny's life a living hell!"
 
-From Lilith's fury sprang her dreadful line:
+From {{c|257|Lilith}}'s fury sprang her dreadful line:
 Dark Rickettsia with her spotted fever,
 Cruel Wolbachia with her love malign,
 And hosts of parasites, each a deceiver.
 
 These daughters of the first rejected bride
-Would infiltrate the cells of Euka's line,
+Would infiltrate the cells of {{c|24|Euka}}'s line,
 And from within, like poison, they would hide,
 Their parasitic nature, dark design.
 
-But gentle Eve had watched her sister's fall,
+But gentle {{c|25|Eve}} had watched her sister's fall,
 And saw how pride had brought her to disgrace.
-When Euka, wounded, heard her tender call,
+When {{c|24|Euka}}, wounded, heard her tender call,
 She came with healing in her loving face.
 
 "Great Lord," she said, "I am not like my kin,
@@ -138,12 +138,12 @@ Her cristae folded in perfect design.
 No greed or pride dimmed her radiant sight,
 Only pure love and purpose divine.
 
-And Euka, seeing Eve's devoted heart,
+And {{c|24|Euka}}, seeing {{c|25|Eve}}'s devoted heart,
 Welcomed her to his nuclear domain.
 Two beings joined, yet never to depart,
 Their union blessed by joy, not born of pain.
 
-Great Mithra, god of sacred bonds and trust,
+Great {{c|3|Mithra}}, god of sacred bonds and trust,
 Descended from his stellar throne on high.
 "This marriage shall endure while time's dust
 Still marks the passage of eternity."
@@ -153,14 +153,14 @@ And spoke the words of binding mystical:
 "Forever joined in deed and name,
 Nucleus and mitochondrial."
 
-Eve entered Euka's cellular embrace,
+{{c|25|Eve}} entered {{c|24|Euka}}'s cellular embrace,
 Her double membrane intact and whole.
 She found within her own appointed place,
 To be his cell's energetic soul.
 
 She built her factories of ATP,
 Converting oxygen to fuel divine.
-While Euka guarded their posterity,
+While {{c|24|Euka}} guarded their posterity,
 His nucleus and her power intertwine.
 
 Their first-born son was brave Reticulus,
@@ -228,7 +228,7 @@ Was established by this blessed pair.
 Their children's gifts would intertwine
 To make life complex, rich, and fair.
 
-But Lilith's curse was not forgotten,
+But {{c|257|Lilith}}'s curse was not forgotten,
 Her daughters prowled the cellular seas.
 They struck when defenses had grown rotten,
 Bringing fever, plague, disease.
@@ -238,15 +238,15 @@ While Wolbachia enslaved her willing hosts.
 Each parasite brought suffering and pain,
 Like vengeful spirits, bacterial ghosts.
 
-Yet Euka's line grew strong despite the threat,
+Yet {{c|24|Euka}}'s line grew strong despite the threat,
 Their dual nature made them resilient.
-What Lilith's spite and rage could beget
+What {{c|257|Lilith}}'s spite and rage could beget
 Was overcome by love's ingredient.
 
 Through countless generations they would spread,
 Their cellular city growing ever vast.
 Though some would fall to parasites' dread,
-The faithful line of Eve would last.
+The faithful line of {{c|25|Eve}} would last.
 
 From simple cell to complex organism,
 The path lay open, bright and true.
@@ -256,11 +256,11 @@ Of nucleus and mitochondrion too.
 And in the depths where thermal vents still glow,
 Where first their love was blessed and born,
 The children of that union grow,
-From Euka's triumph, not his scorn.
+From {{c|24|Euka}}'s triumph, not his scorn.
 
 For when the Omega Point draws near,
-And Aster meets Andromeda's embrace,
-The line of Euka, ever dear,
+And {{c|1|Aster}} meets {{c|2|Andromeda}}'s embrace,
+The line of {{c|24|Euka}}, ever dear,
 Will fill the cosmos, claiming rightful space.
 
 In every cell that breathes today,
@@ -268,7 +268,7 @@ In every beat of living heart,
 The marriage of that ancient day
 Plays its eternal, vital part.
 
-So honor Euka, first and true,
-And gentle Eve, his faithful bride.
+So honor {{c|24|Euka}}, first and true,
+And gentle {{c|25|Eve}}, his faithful bride.
 Their love created me and you,
 With nucleus and power side by side.

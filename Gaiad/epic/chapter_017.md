@@ -1,14 +1,14 @@
-From Bacta’s womb, two daughters did arise,
+From {{c|48|Bacta}}'s womb, two daughters did arise,
 Fair Hydra one, and Terra forged in might.
 In swirling seas, they cast their ancient eyes,
 To found the clans now thriving in the light.
 
 Hydra, whose brood outmatched the countless stars,
-Bore Proteus, whose might would soon unfold.
-Yet Hydra’s second child, untouched by scars,
+Bore {{c|81|Proteus}}, whose might would soon unfold.
+Yet Hydra's second child, untouched by scars,
 Was Aqua then, the queen of tales untold.
 
-Proteus bore a host of fourfold might:
+{{c|81|Proteus}} bore a host of fourfold might:
 Alif and Beth, Camilla, Mixo bold.
 Within the darksome night they each took flight,
 And shaped fresh paths in worlds both new and old.
@@ -18,13 +18,13 @@ Rachel and Kalia, each forged in grace.
 From Rachel’s line would humans one day share
 A kinship bridging worlds across all space.
 
-Kalia’s brood, the Calisto line named,
+Kalia's brood, the Calisto line named,
 Spread subtle powers through the hidden deep.
-Proteus watched, content in all she claimed,
+{{c|81|Proteus}} watched, content in all she claimed,
 While daughters thrived in countless worlds to keep.
 
 Aqua, the sister, bearing olden grace,
-Stood near to Proteus in mystic might;
+Stood near to {{c|81|Proteus}} in mystic might;
 She bore two children, each with wondrous face,
 Splauron and Chloram—one in gloom, one bright.
 
@@ -49,27 +49,27 @@ Two daughters claimed her fiber fierce and wild,
 Actano, Fermus, they built a city
 
 Actano bore two daughters of her own:
-Actina, mother of Actino’s line,
+Actina, mother of Actino's line,
 And Prasea, from whom two seeds were sown—
-Saya and Chloroflexa, both divine.
+{{c|49|Saya}} and Chloroflexa, both divine.
 
-Saya the bacteria shed her coat,
+{{c|49|Saya}} the bacteria shed her coat,
 Embracing Gram-negative ways for light.
 She drank the sun where swirling currents float,
 Bestowing oxygen with force so bright.
 
 Then Chloroflexa claimed her tapestry,
 Of filamentous grace in silent seas.
-Both born of wise Prasea’s legacy,
-They wove Earth’s green with ancient expertise.
+Both born of wise Prasea's legacy,
+They wove Earth's green with ancient expertise.
 
-Fermus, the other child of Terra’s sphere,
+Fermus, the other child of Terra's sphere,
 Had two dear daughters: Firmicutie mild,
 Whose Firmicutes the soils far and near,
 And Conan, iron-willed, in deserts wild.
 
-Thus Hydra’s line and Terra’s line expand,
-Two families wrought from Bacta’s old soul.
+Thus Hydra's line and Terra's line expand,
+Two families wrought from {{c|48|Bacta}}'s old soul.
 From scorching vents to gardens lush on land,
 Their heirs still thrive and shape the living whole.
 
