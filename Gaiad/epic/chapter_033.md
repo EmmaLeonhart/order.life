@@ -1,6 +1,6 @@
 Among the three great ancestors,
 Those ancient processors,
-{{c|113|Spiralius}} was most conservative,
+{{c|Spiralius}} was most conservative,
 His ways preservative.
 
 He fished with tentacles long,
@@ -8,17 +8,17 @@ As fathers had done strong.
 The ancient art he kept alive
 To help his children thrive.
 
-Great {{c|113|Spiralius}} worked each day
+Great {{c|Spiralius}} worked each day
 In his diligent way
 To provide for children all
 Who answered duty's call.
 
 Among his many sons of fame
 Two earned eternal name:
-Bold {{c|389|Kimberella}} the king
-And {{c|390|Gnathifer}}'s ring.
+{{c|Bold}} {{c|Kimberella}} the king
+And {{c|Gnathifer}}'s ring.
 
-Kimberella earned his fame
+{{c|Kimberella}} earned his fame
 Through his eternal name.
 His tomb is visited today
 By pilgrims on their way.
@@ -29,16 +29,16 @@ His kingdom moved with might
 Across the steppe so bright.
 
 A billion years of fame
-Belongs to his great name.
-On Australian stamps today
+{{c|Belongs}} to his great name.
+On {{c|Australian}} stamps today
 His image holds its sway.
 
-But Gnathifer chose a different path,
+But {{c|Gnathifer}} chose a different path,
 To show his righteous wrath.
 A kingdom small but quick
 He built with cunning trick.
 
-Like Ectus he could see
+Like {{c|Ectus}} he could see
 The need for weaponry.
 A great jaw he built with care
 From chitin strong and fair.
@@ -50,82 +50,82 @@ His heart was not so stayed.
 
 With ferocious jaws so bright
 He brought the fearsome sight
-To sons of Isomeres
-Throughout their territories.
+To sons of {{c|Isomeres}}
+{{c|Throughout}} their territories.
 
 In old age from his loins
 Came two, like ancient coins:
-Bold Gnathos, fierce and wild,
-And Hydrover, gentler child.
+{{c|Bold}} {{c|Gnathos}}, fierce and wild,
+And {{c|Hydrover}}, gentler child.
 
-Gnathos was vicious
+{{c|Gnathos}} was vicious
 More than malicious.
 His sons are known today
-As Jaw Worms in their way.
+As {{c|Jaw}} {{c|Worms}} in their way.
 
-But Xenognath was different,
+But {{c|Xenognath}} was different,
 Though still belligerent.
 He grew jaws within jaws,
 Against all natural laws.
 
-Fifteen jaws in all he made,
+{{c|Fifteen}} jaws in all he made,
 A fearsome masquerade.
 Each jaw within the last
 Held prey both firm and fast.
 
-From Xenognath came two sons:
-Bold Marinus, who runs
+From {{c|Xenognath}} came two sons:
+{{c|Bold}} {{c|Marinus}}, who runs
 The seas with might and main,
-And Limnos of the rain.
+And {{c|Limnos}} of the rain.
 
-Marinus fought and fought
+{{c|Marinus}} fought and fought
 For all that could be caught.
-Dominion of the sea
+{{c|Dominion}} of the sea
 Was his priority.
 
-But Limnos was cast out
+But {{c|Limnos}} was cast out
 From the ocean's route.
 Into the rivers sent,
 His kingdom there was bent.
 
-The sons of Marinus mock
+The sons of {{c|Marinus}} mock
 Their freshwater flock:
-"Small jawed ones," they call
+"{{c|Small}} jawed ones," they call
 Their cousins one and all.
 
-From Marinus came two more:
-Rotiferus to explore
-And brave Amisquius,
-Bold and glorious.
+From {{c|Marinus}} came two more:
+{{c|Rotiferus}} to explore
+And brave {{c|Amisquius}},
+{{c|Bold}} and glorious.
 
-Rotiferus looked around
+{{c|Rotiferus}} looked around
 And peaceful living found
-Among Kimberella's line,
+Among {{c|Kimberella}}'s line,
 Their ways both good and fine.
 
 He turned to fishing once again,
 Like his ancient kin.
 His sons became the nomads true,
-The Rotifers we view.
+The {{c|Rotifers}} we view.
 
 In all waters they roam,
-Making everywhere home.
+{{c|Making}} everywhere home.
 Great fishermen are they
 From night until the day.
 
 He built his coelom loose
-Like Ectus let loose.
+Like {{c|Ectus}} let loose.
 This gave him speed and grace
 In every watery place.
 
 In rotifer villages
 They practice their privileges.
-Fishing with their wheels
+{{c|Fishing}} with their wheels
 For all their daily meals.
 
 But among his sons there was
 One who broke the laws.
-Acanthus the red, so base,
+{{c|Acanthus}} the red, so base,
 A parasite's disgrace.
 
 He lives in others' guts
@@ -134,23 +134,23 @@ The food that should belong
 To those both right and strong.
 
 Such thievery brings shame
-To Rotiferus' name.
+To {{c|Rotiferus}}' name.
 A black sheep in the fold
 Whose story should be told.
 
-But from Amisquius came
+But from {{c|Amisquius}} came
 A line of greater fame.
 Each generation grew
-Jaws bigger through and through.
+{{c|Jaws}} bigger through and through.
 
-In Nimrod Bristletongue's time
+In {{c|Nimrod}} {{c|Bristletongue}}'s time
 Their power reached its prime.
 They ruled the seas with might,
 A fearsome, awesome sight.
 
 More numerous than all
 Who answered ocean's call,
-The Arrow Worms became
+The {{c|Arrow}} {{c|Worms}} became
 The hunters' greatest name.
 
 The greatest hunters ever seen
@@ -164,22 +164,22 @@ No prey can swim away
 From their hunting display.
 
 The conservative path
-Sometimes shows its wrath
+{{c|Sometimes}} shows its wrath
 In children who rebel
 And stories they do tell.
 
-Spiralius kept the old ways true
+{{c|Spiralius}} kept the old ways true
 But his children grew
 In many different directions,
-Making their selections.
+{{c|Making}} their selections.
 
 Some stayed with fishing pure,
 Their methods tried and sure.
-Others chose the warrior's way
+{{c|Others}} chose the warrior's way
 To fight another day.
 
 From tentacles to jaws,
-Following nature's laws,
+{{c|Following}} nature's laws,
 Each lineage found its place
 In evolution's race.
 
@@ -189,7 +189,7 @@ While arrow worms show might
 In predatory sight.
 
 Both trace their lineage back
-To Spiralius' track.
+To {{c|Spiralius}}' track.
 The conservative way
 Led to diverse display.
 
@@ -200,7 +200,7 @@ Beneath the morning sky,
 
 Remember their ancestor
 Who was fishing's protector.
-Spiralius kept the art
+{{c|Spiralius}} kept the art
 That gave them their start.
 
 In every arrow worm
@@ -213,12 +213,12 @@ Left their lasting marks
 On all life in the sea
 Through all eternity.
 
-But Spiralius shows us well
+But {{c|Spiralius}} shows us well
 That traditions tell
-Important truths that last
+{{c|Important}} truths that last
 Through future and past.
 
-Innovation has its place
+{{c|Innovation}} has its place
 In evolution's race,
 But keeping what works true
 Is wisdom through and through.

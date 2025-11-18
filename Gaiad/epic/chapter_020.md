@@ -1,104 +1,104 @@
-Now {{c|24|Euka}}, in his cellular hall divine,
-Reflected on the gifts his love had made.
+{{c|Now}} {{c|Euka}}, in his cellular hall divine,
+{{c|Reflected}} on the gifts his love had made.
 "What wonders," thought he, "from our bloodline shine,
 What tools of life our children have displayed!"
 
-"Behold Reticulus, my firstborn son,
+"{{c|Behold}} {{c|Reticulus}}, my firstborn son,
 Who built the pathways through my living space.
 His rough and smooth domains, when day is done,
 Give every protein its appointed place.
 
-And Flagella, daughter swift and fair,
+And {{c|Flagella}}, daughter swift and fair,
 Who grants to all our line the gift of motion.
 Her whip-like dance propels us through the air,
 And guides us through life's vast and boundless ocean.
 
-Then Golgi, master of the sorting trade,
+Then {{c|Golgi}}, master of the sorting trade,
 Who takes rough works and makes them fine and bright.
 His apparatus, wondrously arrayed,
-Sends packages forth to bring cells light.
+{{c|Sends}} packages forth to bring cells light.
 
-Brave Peroxis breaks the fats with might,
-While Vaultess stores our treasures safe and sound.
-The Centrioles dance in perfect sight,
+{{c|Brave}} {{c|Peroxis}} breaks the fats with might,
+While {{c|Vaultess}} stores our treasures safe and sound.
+The {{c|Centrioles}} dance in perfect sight,
 And make sure chromosomes stay tightly bound.
 
 And last, my son who bears my very name,
-Young Nucleus, keeper of the scrolls divine.
+{{c|Young}} {{c|Nucleus}}, keeper of the scrolls divine.
 Through nuclear pores, our sacred flame
 Of knowledge flows in patterns most fine."
 
-Thus {{c|24|Euka}} catalogued his proud creation,
+Thus {{c|Euka}} catalogued his proud creation,
 Each organelle a gift to future time.
 But greater still would be his culmination—
 The spreading of his cellular line.
 
-For Seth, his son, bore daughters of his own,
+For {{c|Seth}}, his son, bore daughters of his own,
 And through five generations they would spread.
 Until at last, when ice age's reign had flown,
-Two mighty lines from {{c|24|Euka}}'s blood were bred.
+Two mighty lines from {{c|Euka}}'s blood were bred.
 
-Seth son of Euka wed Azura fair,
+{{c|Seth}} son of {{c|Euka}} wed {{c|Azura}} fair,
 His sister-bride with mitochondrial grace.
 Their children filled the warming ocean's lair,
 As ice retreated, giving life more space.
 
-Through Seth came Resan, master of the scroll,
+Through {{c|Seth}} came {{c|Resan}}, master of the scroll,
 Who learned to read both father's and mother's gene.
-Then Resan's son was Theron, strong of soul,
+Then {{c|Resan}}'s son was {{c|Theron}}, strong of soul,
 The wisest cell that ever had been seen.
 
-From Theron came fair Protea the bright,
+From {{c|Theron}} came fair {{c|Protea}} the bright,
 Who bore twin sons of legendary fame:
-Bold Chronos, master of division's rite,
-And Bios-Neos, bearer of the name.
+{{c|Bold}} {{c|Chronos}}, master of division's rite,
+And {{c|Bios}}-{{c|Neos}}, bearer of the name.
 
-Now Chronos wed his sister Cylla sweet,
-And from their love came Myxon the wanderer.
-But Bios-Neos found his destined meet
-In Plasma-Belle, the membrane's harborer.
+{{c|Now}} {{c|Chronos}} wed his sister {{c|Cylla}} sweet,
+And from their love came {{c|Myxon}} the wanderer.
+But {{c|Bios}}-{{c|Neos}} found his destined meet
+In {{c|Plasma}}-{{c|Belle}}, the membrane's harborer.
 
-From Bios-Neos and his faithful bride
-Came {{c|35|Nectarius}}, ruler of the new.
+From {{c|Bios}}-{{c|Neos}} and his faithful bride
+Came {{c|Nectarius}}, ruler of the new.
 His royal line would spread both far and wide,
 When warming seas gave life a broader view.
 
-But Myxon took a different path than most,
+But {{c|Myxon}} took a different path than most,
 He spurned the settled life of complex cells.
 Instead he roamed from shore to distant coast,
 A single-celled wanderer with moving tales.
 
-From Myxon's line came Euglena the green,
+From {{c|Myxon}}'s line came {{c|Euglena}} the green,
 Who mixed both plant and animal in one.
 With chloroplasts she captured light serene,
 Yet flagella helped her swim toward the sun.
 
 These euglenids would keep their ancient ways,
-While {{c|35|Nectarius}} built a different throne.
+While {{c|Nectarius}} built a different throne.
 Through all the warming days,
 He made the complex cell his very own.
 
-For {{c|35|Nectarius}} wed fair {{c|36|Chlora}} bright,
+For {{c|Nectarius}} wed fair {{c|Chlora}} bright,
 Who bore the gift of photosynthetic power.
-Their eldest son was {{c|37|Planta}}, filled with light,
+Their eldest son was {{c|Planta}}, filled with light,
 Who turned the sun's rays into energy's flower.
 
-Their second child was {{c|38|Mycon}}, strange and wise,
+Their second child was {{c|Mycon}}, strange and wise,
 Who neither plant nor animal would be.
 With spores and threads beneath the forest skies,
 He built a fungal kingdom, wild and free.
 
-Their third-born daughter, Protist, took the sea,
+Their third-born daughter, {{c|Protist}}, took the sea,
 And filled it with a thousand different forms.
 From amoeba to complex protozoa free,
 She weathered all of life's chaotic storms.
 
-Their youngest son was Metazoa bold,
+Their youngest son was {{c|Metazoa}} bold,
 Who dreamed of building bodies complex, vast.
 "No single cell," he said, "can ever hold
 The wonders I will build to ever last."
 
-Thus {{c|35|Nectarius}}, in his wisdom deep,
+Thus {{c|Nectarius}}, in his wisdom deep,
 Became the father of all complex life.
 His four great children, each their realm to keep,
 Cut through evolution's edge like sharpest knife.
@@ -109,21 +109,21 @@ The protists, free to wander, swim, and love,
 While animals would claim the sea and ground.
 
 As ice retreated from the warming earth,
-And Snowball Earth gave way to liquid seas,
-These children of Nectarius found their worth,
+And {{c|Snowball}} {{c|Earth}} gave way to liquid seas,
+These children of {{c|Nectarius}} found their worth,
 And spread like pollen carried on the breeze.
 
 But that is tale for future songs to tell,
 How complex life arose from single cells.
-For now, let {{c|24|Euka}}'s story rest quite well—
+For now, let {{c|Euka}}'s story rest quite well—
 His gift of nucleus forever dwells.
 
 In every plant that reaches for the sun,
 In every beast that runs across the plain,
 The marriage of the first two, when all begun,
-Lives on through joy and sorrow, loss and gain.
+{{c|Lives}} on through joy and sorrow, loss and gain.
 
-So honor {{c|24|Euka}}, father of us all,
-And {{c|25|Eve}}, the power-giver, ever true.
+So honor {{c|Euka}}, father of us all,
+And {{c|Eve}}, the power-giver, ever true.
 From their great love, both proud and strong and tall,
 Came every living thing, including you.

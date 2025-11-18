@@ -1,21 +1,21 @@
-As the reign of {{c|410|Leviathans}}
-Turned to {{c|421|Krakens}}' plans,
-The sons of {{c|422|Stomatos}}
+As the reign of {{c|Leviathans}}
+Turned to {{c|Krakens}}' plans,
+The sons of {{c|Stomatos}}
 Began their glorious
 
-Multiplication vast
+{{c|Multiplication}} vast
 Upon the earth at last.
 And daughters fair were born
 From evening until morn.
 
-From Laurentia's shore
-To Siberia's lore,
-From Baltica's might
-To Avalonia's sight,
+From {{c|Laurentia}}'s shore
+To {{c|Siberia}}'s lore,
+From {{c|Baltica}}'s might
+To {{c|Avalonia}}'s sight,
 
 Even to frigid lands
-Of Gondwana's strands,
-The sons of {{c|422|Stomatos}}
+Of {{c|Gondwana}}'s strands,
+The sons of {{c|Stomatos}}
 Grew numbers, glorious.
 
 To each son there fell
@@ -23,52 +23,52 @@ A star, and wishes tell
 Of thousand grandsons born
 From evening until morn.
 
-The sons of {{c|422|Stomatos}}
+The sons of {{c|Stomatos}}
 Built bodies, glorious,
-Of Carbon, and made tombs
+Of {{c|Carbon}}, and made tombs
 Like mausoleums' rooms
 
 Of coal so black and deep
 Where ancestors would sleep.
-Taking Carbon from the air
+{{c|Taking}} {{c|Carbon}} from the air
 But leaving everywhere
 
-Dioxide in the sky
-While Terra's cloak would fly
-Away, and she grew cold,
+{{c|Dioxide}} in the sky
+While {{c|Terra}}'s cloak would fly
+{{c|Away}}, and she grew cold,
 As ancient stories told.
 
 She grew frigid, unwelcoming,
 No longer beckoning
 To those who loved her warm
-Embrace in gentle form.
+{{c|Embrace}} in gentle form.
 
 Her ice caps grew so wide,
 Her seas began to hide
 Behind the frozen wall
 That answered winter's call.
 
-Soon Gondwana became
-Nothing but ice's claim—
+{{c|Soon}} {{c|Gondwana}} became
+{{c|Nothing}} but ice's claim—
 A wasteland white and stark
 Where none could make their mark.
 
-But to the sons of {{c|422|Stomatos}}
+But to the sons of {{c|Stomatos}}
 This meant more, glorious
-Land where they could spread
+{{c|Land}} where they could spread
 Their empire overhead.
 
-King {{c|423|Hirnan}} the great
+{{c|King}} {{c|Hirnan}} the great
 Became the potentate
 Who united every son
-Of {{c|422|Stomatos}} begun
+Of {{c|Stomatos}} begun
 
 In conquest of the earth.
 He lived where there was mirth
-In land of Avalonia
-And province of Holonia.
+In land of {{c|Avalonia}}
+And province of {{c|Holonia}}.
 
-{{c|423|Hirnan}} built with might
+{{c|Hirnan}} built with might
 A billion dikes upright
 And levies strong and tall,
 And cities over all
@@ -88,9 +88,9 @@ Of trilobites like ghosts
 Began to die away,
 Their lands seized every day
 
-By sons of {{c|423|Hirnan}} who
+By sons of {{c|Hirnan}} who
 Would make their empire through
-Conquest and through might
+{{c|Conquest}} and through might
 Both day and through the night.
 
 In their last effort made
@@ -99,7 +99,7 @@ And then invaded strong,
 A desperate throng
 
 That smashed through every dike
-That {{c|423|Hirnan}}'s folk would like
+That {{c|Hirnan}}'s folk would like
 To keep them from the land
 They'd built with their own hand.
 
@@ -115,56 +115,56 @@ The air would always kill
 
 Those who were meant for sea
 And could not ever be
-Adapted to the air
+{{c|Adapted}} to the air
 That filled the atmosphere.
 
-{{c|423|Hirnan}} bore two sons:
-{{c|424|Moses}} when day begun
-And {{c|425|Osiris}} the strong
+{{c|Hirnan}} bore two sons:
+{{c|Moses}} when day begun
+And {{c|Osiris}} the strong
 Who lived his whole life long.
 
-{{c|424|Moses}} became the father
+{{c|Moses}} became the father
 Of mosses, who would rather
 Live simple, humble lives
 Where small beauty thrives.
 
-{{c|425|Osiris}} bore two more:
-Polysporos to explore
-And Anthoceros, who'd be
-Living peacefully.
+{{c|Osiris}} bore two more:
+{{c|Polysporos}} to explore
+And {{c|Anthoceros}}, who'd be
+{{c|Living}} peacefully.
 
-Anthoceros became
+{{c|Anthoceros}} became
 The father of the name
 Of hornworts everywhere
 Who grow with gentle care.
 
-Polysporos became
+{{c|Polysporos}} became
 The father of great fame
 Of ferns and flowers bright
 And trees that reach for height.
 
-The sons of {{c|408|Brachios}}
-Struggled, not glorious
+The sons of {{c|Brachios}}
+{{c|Struggled}}, not glorious
 As they had been before
 In ages' ancient lore.
 
-The sons of Lingulus
+The sons of {{c|Lingulus}}
 Died in numbers thus
-Greater than ever known—
+{{c|Greater}} than ever known—
 Their glory overthrown.
 
-Never again would they
-Regain their golden day
+{{c|Never}} again would they
+{{c|Regain}} their golden day
 Of power in the sea
 And their dynasty.
 
-But as Hirnan's rule
+But as {{c|Hirnan}}'s rule
 Became oppression's tool,
-The sons of {{c|56|Metazo}}
+The sons of {{c|Metazo}}
 Began once more to grow.
 
-Alas the sons of {{c|423|Hirnan}}
-Didn't stop their plan
+{{c|Alas}} the sons of {{c|Hirnan}}
+{{c|Didn}}'t stop their plan
 There, but continued on
 From dusk until dawn
 
@@ -173,15 +173,15 @@ That gave them so much mirth
 To see all life bow down
 Before their thorny crown.
 
-The Glomerings would mine
+The {{c|Glomerings}} would mine
 The rocks with design
 For fertilizer's sake,
-Whatever it would take
+{{c|Whatever}} it would take
 
 To manufacture tons
 Of phosphorus, and done
 With this, they'd pour it out
-Throughout the world about.
+{{c|Throughout}} the world about.
 
 Some went to crops they grew,
 But most went flowing through
@@ -203,14 +203,14 @@ That stretched from sea to sea
 Across the world entire
 Like some unholy fire.
 
-Rotting seaweed choked
+{{c|Rotting}} seaweed choked
 All water, and it smoked
 With death and with decay
-Throughout the night and day.
+{{c|Throughout}} the night and day.
 
-Soon it was impossible
+{{c|Soon}} it was impossible
 To breathe—the terrible
-Smell of death filled the air
+{{c|Smell}} of death filled the air
 And poison everywhere
 
 Made life a living hell
@@ -234,7 +234,7 @@ If it stood in their way
 Of conquest every day.
 
 The entire ocean fell
-Under {{c|423|Hirnan}}'s spell
+Under {{c|Hirnan}}'s spell
 Of death and devastation
 Across every nation
 
@@ -244,8 +244,8 @@ To creatures great and small
 Who answered life's sweet call.
 
 The great houses of might—
-{{c|410|Leviathan}}'s delight
-And {{c|421|Kraken}}'s dynasty—
+{{c|Leviathan}}'s delight
+And {{c|Kraken}}'s dynasty—
 Were wiped from history.
 
 From off the earth they passed,
@@ -260,30 +260,30 @@ Until this darkest hour.
 
 Among the trilobites
 The great houses' plights
-Were sealed: Agnos fell,
-Ptychos couldn't tell
+Were sealed: {{c|Agnos}} fell,
+{{c|Ptychos}} couldn't tell
 
 His story anymore,
-And Asaphos, before
+And {{c|Asaphos}}, before
 So mighty and so strong,
 Was crippled life long.
 
-Never again would they
+{{c|Never}} again would they
 Reach their golden day
 Of glory in the time
-Of Ordovician rhyme.
+Of {{c|Ordovician}} rhyme.
 
 And so the golden age
-Closed its final page.
-The Ordovician time
+{{c|Closed}} its final page.
+The {{c|Ordovician}} time
 Was past its living prime.
 
-The sons of {{c|426|Silur}} came
+The sons of {{c|Silur}} came
 To conquer and to claim
 The ashes of the past
 And build their future last.
 
-The Silurian would rise
+The {{c|Silurian}} would rise
 Beneath different skies
 Where life would start anew
 From what survivors knew
@@ -293,7 +293,7 @@ When all hope seemed gone
 And death had claimed the day
 In its destructive way.
 
-From {{c|422|Stomatos}}' sons' choice
+From {{c|Stomatos}}' sons' choice
 To let conquest be their voice
 Instead of harmony
 With life's symphony,
@@ -309,8 +309,8 @@ And life must pay the price
 For others' avarice.
 
 The trilobites' last stand
-Against {{c|423|Hirnan}}'s hand
-Shows courage in the face
+Against {{c|Hirnan}}'s hand
+{{c|Shows}} courage in the face
 Of hopeless disgrace,
 
 But also shows the cost
@@ -319,14 +319,14 @@ Not by the weak to strong
 But by those who belong
 
 To elements that can't
-Survive where others grant
+{{c|Survive}} where others grant
 No mercy and no space
 For any other race.
 
 The ice age that began
-From {{c|422|Stomatos}}' plan
+From {{c|Stomatos}}' plan
 To take but never give
-Shows how some choose to live:
+{{c|Shows}} how some choose to live:
 
 By taking all they can
 Without a care or plan
@@ -335,21 +335,21 @@ To me and you
 
 And every living thing
 That cannot offering
-Resistance to their greed
+{{c|Resistance}} to their greed
 That plants destruction's seed.
 
 The phosphorus that flowed
 Into rivers and slowed
 All life within the sea
-Shows how we can be
+{{c|Shows}} how we can be
 
-Destroyers without thought
+{{c|Destroyers}} without thought
 Of what our actions brought
 To others who must share
 The water and the air.
 
 The golden age that passed
-Shows nothing good can last
+{{c|Shows}} nothing good can last
 When some choose to destroy
 Rather than enjoy
 
@@ -359,16 +359,16 @@ For life in all its forms
 Through calm and raging storms.
 
 But from the ashes rise
-New hope beneath new skies
+{{c|New}} hope beneath new skies
 Where those who learned the cost
 Of all that had been lost
 
 Can build a better way
 For life's eternal day
 Where harmony, not greed,
-Plants every living seed.
+{{c|Plants}} every living seed.
 
-The Silurian dawn
+The {{c|Silurian}} dawn
 When old death was gone
 Would bring new hope to those
 Who faced destruction's throes
@@ -376,10 +376,10 @@ Who faced destruction's throes
 And lived to tell the tale
 Of how they would not fail
 To build life once again
-Despite the grief and pain.
+{{c|Despite}} the grief and pain.
 
-From {{c|423|Hirnan}}'s tyranny
-To {{c|426|Silur}}'s dynasty,
+From {{c|Hirnan}}'s tyranny
+To {{c|Silur}}'s dynasty,
 The wheel of time turns on
 From dusk until dawn
 
@@ -393,8 +393,8 @@ And brings eternal strife,
 But those who choose to share
 Will find life everywhere
 
-Ready to begin
-Again, and always win
+{{c|Ready}} to begin
+{{c|Again}}, and always win
 In the end, because love
 Is blessed from above
 
@@ -413,8 +413,8 @@ Who plays a caring role
 In life's eternal song
 That makes the weak grow strong.
 
-From Ordovician glory
-To Silurian story,
+From {{c|Ordovician}} glory
+To {{c|Silurian}} story,
 The earth keeps turning on
 From dusk until dawn
 
@@ -423,12 +423,12 @@ Beneath the starry sky
 But always finds a way
 To live another day
 
-Despite what greed may do
+{{c|Despite}} what greed may do
 To me and you
 And all who call earth home
-Wherever we may roam.
+{{c|Wherever}} we may roam.
 
-The sons of {{c|422|Stomatos}}
+The sons of {{c|Stomatos}}
 May think they're glorious
 In conquest and in might,
 But life will always fight
@@ -440,11 +440,11 @@ In every living place
 
 Where love has found a way
 To live another day
-Despite destruction's call
+{{c|Despite}} destruction's call
 That threatens one and all.
 
 The golden age returns
-Whenever someone learns
+{{c|Whenever}} someone learns
 To choose love over greed
 And plant a better seed
 
@@ -456,15 +456,15 @@ Who celebrate love's worth
 Above all else that's known
 By hearts that have grown
 To see that sharing's way
-Brings joy to every day
+{{c|Brings}} joy to every day
 
 While greed brings only pain
 That falls like acid rain
 On all who choose to live
 But never learn to give.
 
-The Ordovician end
-Reminds us to befriend
+The {{c|Ordovician}} end
+{{c|Reminds}} us to befriend
 All life in every form
 Through calm and raging storm
 
@@ -475,8 +475,8 @@ Against the endless night
 
 Of greed that tries to kill
 All life, but never will
-Succeed, because love's power
-Grows stronger every hour
+{{c|Succeed}}, because love's power
+{{c|Grows}} stronger every hour
 
 In hearts that choose to care
 For life everywhere

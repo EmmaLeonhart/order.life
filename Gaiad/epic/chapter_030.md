@@ -1,4 +1,4 @@
-This is the chronicle of {{c|59|Cnider}},
+This is the chronicle of {{c|Cnider}},
 Who sat upon a rock so wide
 And built on each side of his throne
 A row of mouths, his very own.
@@ -9,57 +9,57 @@ He made his city on the stone
 Where he would rule all alone.
 
 His fishermen in lines he placed,
-A Siphonoglyph, perfectly spaced.
+A {{c|Siphonoglyph}}, perfectly spaced.
 Down each mouth, with skillful art,
 Each played their fishing part.
 
-Great {{c|59|Cnider}} made a sacred pact
-With {{c|4|Luna}}, keeping their contract.
+Great {{c|Cnider}} made a sacred pact
+With {{c|Luna}}, keeping their contract.
 By her blessing, bright and true,
 On the full moon he bore two.
 
 Two sons came in her silver light:
-Traditional {{c|61|Anthus}}, shining bright,
-And bold {{c|62|Anaxydros}} the new,
+{{c|Traditional}} {{c|Anthus}}, shining bright,
+And bold {{c|Anaxydros}} the new,
 Whose innovations would shine through.
 
-To this day when {{c|4|Luna}}'s face
-Shines full upon the watery place,
-The sons of {{c|59|Cnider}} and fair {{c|60|Nettle}}
+To this day when {{c|Luna}}'s face
+{{c|Shines}} full upon the watery place,
+The sons of {{c|Cnider}} and fair {{c|Nettle}}
 Their reproductive matters settle.
 
 By moonlight they bear their young,
-As Luna's ancient song is sung.
+As {{c|Luna}}'s ancient song is sung.
 The tidal pull, the silver beam
-Fulfill their reproductive dream.
+{{c|Fulfill}} their reproductive dream.
 
-Now {{c|61|Anthus}} kept the ancient way,
-Following tradition's display.
+{{c|Now}} {{c|Anthus}} kept the ancient way,
+{{c|Following}} tradition's display.
 His children built their homes on stone
 And never far from land they'd roam.
 
-But bold {{c|62|Anaxydros}} chose to change,
+But bold {{c|Anaxydros}} chose to change,
 His innovations were strange.
 From him came children two:
-{{c|63|Pompom}} and {{c|64|Meduson}} true.
+{{c|Pompom}} and {{c|Meduson}} true.
 
-Great {{c|63|Pompom}} chose the stalked path,
+Great {{c|Pompom}} chose the stalked path,
 To weather time and nature's wrath.
 He built upon the ocean floor
 And opened innovation's door.
 
-From {{c|63|Pompom}} came two sons of might:
-{{c|65|Conos}} and {{c|66|Stauros}}, burning bright.
+From {{c|Pompom}} came two sons of might:
+{{c|Conos}} and {{c|Stauros}}, burning bright.
 The stalked jellyfish they became,
-Adding to their ancestor's fame.
+{{c|Adding}} to their ancestor's fame.
 
-But {{c|64|Meduson}} chose a different way,
+But {{c|Meduson}} chose a different way,
 He would not on the bottom stay.
 A new city he did build
 That with wanderlust was filled.
 
 His city floated in the sea,
-Drifting wild and drifting free.
+{{c|Drifting}} wild and drifting free.
 The ancestor of jellyfish,
 He granted their floating wish.
 
@@ -78,57 +78,57 @@ And shoot through water with delight.
 No more would he helpless drift—
 His swimming was his gift.
 
-Meanwhile the sons of Anthus grew
+Meanwhile the sons of {{c|Anthus}} grew
 Across the oceans, deep and blue.
-Among them were the Anemones,
+Among them were the {{c|Anemones}},
 Who swayed like flowered trees.
 
-And Corals built their cities grand
+And {{c|Corals}} built their cities grand
 Upon the ocean's shifting sand.
-With Zooxanthellae they'd farm
+With {{c|Zooxanthellae}} they'd farm
 And keep their cities free from harm.
 
-Zoochlorellae, green and bright,
+{{c|Zoochlorellae}}, green and bright,
 Helped them capture morning light.
 These partnerships would make
 The reefs for others' sake.
 
-From {{c|64|Meduson}} came children two:
-Bold {{c|67|Diplos}} and sweet {{c|68|Jelly}} true.
+From {{c|Meduson}} came children two:
+{{c|Bold}} {{c|Diplos}} and sweet {{c|Jelly}} true.
 Each would take a different path
 Through ocean's joy and wrath.
 
-Fair {{c|68|Jelly}} bore two mighty lines
+{{c|Fair}} {{c|Jelly}} bore two mighty lines
 Of jellyfish with grand designs:
-The Cubozoans, box-shaped, wise,
+The {{c|Cubozoans}}, box-shaped, wise,
 Who learned to use their eyes.
 
-And Scyphozoans, "True Jellyfish,"
+And {{c|Scyphozoans}}, "{{c|True}} {{c|Jellyfish}},"
 Who granted many a sailor's wish
 To see their beauty in the deep
 Where ocean secrets keep.
 
-The sons of {{c|70|Scyphos}} numbered high,
+The sons of {{c|Scyphos}} numbered high,
 Beneath the sea and sky.
 Each polyp bore a myriad young
 Whose praises would be sung.
 
-Pacific Sea Nettle swam
+{{c|Pacific}} {{c|Sea}} {{c|Nettle}} swam
 Through waters like a swimming ram.
 Their trailing tentacles so long
 Made predators think twice.
 
-But {{c|69|Cubos}} was a father kind,
+But {{c|Cubos}} was a father kind,
 With caring heart and mind.
 He bore but few children dear
 And held each one near.
 
-We pray to {{c|69|Cubos}} when we seek
+We pray to {{c|Cubos}} when we seek
 To be fathers strong, not weak.
 His example shows the way
 To care for young each day.
 
-The eyes of {{c|69|Cubos}}, complex, true,
+The eyes of {{c|Cubos}}, complex, true,
 Could see through waters blue.
 No simple spots of light were these,
 But eyes that truly seize.
@@ -136,9 +136,9 @@ But eyes that truly seize.
 Each detail in the liquid space,
 Each movement, form, and face.
 The box jellyfish today
-Still see in Cubos' way.
+Still see in {{c|Cubos}}' way.
 
-From {{c|59|Cnider}}'s ancient line
+From {{c|Cnider}}'s ancient line
 Came forms both crude and fine.
 Some stayed upon the rocky shore
 While others chose to soar.
@@ -149,12 +149,12 @@ But touch them and you'll feel the sting
 Of cnidocytes' ring.
 
 The corals build their reefs so grand,
-Cities throughout the land
+{{c|Cities}} throughout the land
 Beneath the waves they rise
 Like underwater skies.
 
 Each polyp in its cup
-Reaches tentacles up
+{{c|Reaches}} tentacles up
 To catch the food that drifts
 Through water's gentle shifts.
 
@@ -164,42 +164,42 @@ Show us how to move with grace
 Through life's embrace.
 
 Some drift with current's flow,
-Others choose where they go.
+{{c|Others}} choose where they go.
 Each strategy has its place
 In ocean's vast space.
 
 The cnidarian way
-Lives on in every bay
+{{c|Lives}} on in every bay
 Where tentacles reach out
 Without a doubt.
 
-From Cnider's rocky throne
+From {{c|Cnider}}'s rocky throne
 His children, fully grown,
-Spread through the waters wide
+{{c|Spread}} through the waters wide
 With tentacles as guide.
 
 In every sting you feel
 From jellyfish so real,
-Remember Cnider's art
+Remember {{c|Cnider}}'s art
 That gave them their start.
 
 The radial symmetry
 Of their biology
-Shows patterns clean and true
+{{c|Shows}} patterns clean and true
 In everything they do.
 
-So honor great {{c|59|Cnider}},
+So honor great {{c|Cnider}},
 That ancient provider
 Who sat upon his stone
 And made the sea his own.
 
-His covenant with {{c|4|Luna}}'s light
+His covenant with {{c|Luna}}'s light
 Still guides them through the night.
 When the full moon shines above,
 They make their spawn with love.
 
 The cnidarians today
-Still follow Cnider's way:
+Still follow {{c|Cnider}}'s way:
 With tentacles they hunt
 And do their survival stunt.
 

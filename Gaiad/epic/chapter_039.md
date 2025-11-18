@@ -1,36 +1,36 @@
-Fire rained down from sky
+{{c|Fire}} rained down from sky
 And many had to die.
 The first extinction came
 With death's devouring flame.
 
 For years in heaven's height
-{{c|399|Hengweh}} and {{c|3|Mithra}} fight.
+{{c|Hengweh}} and {{c|Mithra}} fight.
 They wrestled in the air
 And blocked sun's light so fair.
 
-The Archaeocyathids fell,
+The {{c|Archaeocyathids}} fell,
 Their cities rang death's knell.
-The Trilobites and more—
-Brachiopods by the score—
+The {{c|Trilobites}} and more—
+{{c|Brachiopods}} by the score—
 
-And Hyoliths barely
-Survived that calamity.
-The Botomian time had passed,
+And {{c|Hyoliths}} barely
+{{c|Survived}} that calamity.
+The {{c|Botomian}} time had passed,
 Its glory could not last.
 
-Then Mithra spoke these words
+Then {{c|Mithra}} spoke these words
 To one who serves:
-"Wiwaxius, I choose thee
+"{{c|Wiwaxius}}, I choose thee
 To set the world life free.
 
-Restore what has been lost
+{{c|Restore}} what has been lost
 And count extinction's cost.
-Protect us from the doom
+{{c|Protect}} us from the doom
 That fills up every room."
 
-Wiwaxius begat two sons:
-Molluscus when day begun
-And Kamptos, poor and weak,
+{{c|Wiwaxius}} begat two sons:
+{{c|Molluscus}} when day begun
+And {{c|Kamptos}}, poor and weak,
 Who had no strength to seek
 
 Great things or mighty deeds.
@@ -38,62 +38,62 @@ He built what barely feeds
 A small and brainless state—
 A kingdom with no fate.
 
-But Molluscus bore many
-Sons, more than any
+But {{c|Molluscus}} bore many
+{{c|Sons}}, more than any
 Other patriarch could claim.
-Eldest was Testar's name.
+{{c|Eldest}} was {{c|Testar}}'s name.
 
-Testar the sixteen-plated
+{{c|Testar}} the sixteen-plated
 Built shell sophisticated.
 A great thick shell he made
 Of valves in organized parade.
 
-Sixteen valves in all:
-Eight large and eight small.
-Eight upon the right
+{{c|Sixteen}} valves in all:
+{{c|Eight}} large and eight small.
+{{c|Eight}} upon the right
 And eight upon the left so bright.
 
 His brothers had no care
 For building anywhere.
-Bad work ethics they possessed,
-Never did their best.
+{{c|Bad}} work ethics they possessed,
+{{c|Never}} did their best.
 
-Solenos just drank the blood
+{{c|Solenos}} just drank the blood
 Of sons through ocean's flood:
-Ctenofer and Cnider's line
+{{c|Ctenofer}} and {{c|Cnider}}'s line
 Became his bloody wine.
 
-And Caudos ate his fill
-Of Foramer at will.
+And {{c|Caudos}} ate his fill
+Of {{c|Foramer}} at will.
 He cared not for the art
 Of building any part.
 
-But Testar bore two sons:
-Chiton when day begun
-And Conchifer Verticus,
+But {{c|Testar}} bore two sons:
+{{c|Chiton}} when day begun
+And {{c|Conchifer}} {{c|Verticus}},
 Both builders glorious.
 
-Chiton Horizontus
-Unified like kratos
+{{c|Chiton}} {{c|Horizontus}}
+{{c|Unified}} like kratos
 His shells in horizontal row:
-Eight shells in neat tableau.
+{{c|Eight}} shells in neat tableau.
 
 He became the ancestor
 Of chitons, protector
 With eight shells side by side
 Along his lengthy hide.
 
-The sons of Chiton roll
+The sons of {{c|Chiton}} roll
 When threatened from their goal.
 But they aren't very wise—
 They gave up brain's prize
 
-Long ago in time past,
+{{c|Long}} ago in time past,
 Their simple ways held fast.
-Intelligence they traded
+{{c|Intelligence}} they traded
 For armor that's not faded.
 
-Conchifer Verticus
+{{c|Conchifer}} {{c|Verticus}}
 Made his way glorious
 By unifying vertical
 His shells so beautiful.
@@ -103,62 +103,62 @@ A shell upon his right—
 His vertical bereft
 Of horizontal sight.
 
-Conchifer bore two more:
-Bivos to explore
+{{c|Conchifer}} bore two more:
+{{c|Bivos}} to explore
 The hinged shell's way,
-And Monos every day.
+And {{c|Monos}} every day.
 
-Bivos kept his hinged design
-While Monos made combine
+{{c|Bivos}} kept his hinged design
+While {{c|Monos}} made combine
 His shells into just one—
 Two paths when day begun.
 
-Bivos laid in sand
-Throughout the fertile land
+{{c|Bivos}} laid in sand
+{{c|Throughout}} the fertile land
 And fished food from the sea
 Most gracefully.
 
 When threatened he would close
 His shells against his foes.
-Together they would shut
+{{c|Together}} they would shut
 Like door without a cut.
 
 His children came to lay
 Upon their sides each day.
-Soon they looked the same
-As Brachios' great name.
+{{c|Soon}} they looked the same
+As {{c|Brachios}}' great name.
 
-They became Bivalves true:
-Clams and mussels too,
-Oysters in their beds
+They became {{c|Bivalves}} true:
+{{c|Clams}} and mussels too,
+{{c|Oysters}} in their beds
 With protective heads.
 
-The sons of Monos first
+The sons of {{c|Monos}} first
 Found little luck, dispersed
 Without much success.
 But time would bless
 
 Their patient, single shell.
-Monoplacophores dwell
+{{c|Monoplacophores}} dwell
 With nothing but one plate
 As their identifying trait.
 
-But Carlos the curly one,
-Grandson when day begun,
+But {{c|Carlos}} the curly one,
+{{c|Grandson}} when day begun,
 Had ideas quite different
 From others' management.
 
 He walked across the seas
-Exploring as he'd please,
-Discovering countless things
+{{c|Exploring}} as he'd please,
+{{c|Discovering}} countless things
 That wonder always brings.
 
 He bore two sons of fame:
-Gastropus was the name
-Of one, and Digitos
+{{c|Gastropus}} was the name
+Of one, and {{c|Digitos}}
 The other, strong and close.
 
-Gastropus twisted round
+{{c|Gastropus}} twisted round
 Into spiral profound.
 His shell developed might
 Through this spiraling sight.
@@ -173,22 +173,22 @@ Would curl than those before
 And grow in strength each day
 Through their spiraling way.
 
-Today his distant sons
+{{c|Today}} his distant sons
 Still coil when day begun.
 From garden snail so small
 To conch shells standing tall.
 
-Digitos made his foot
+{{c|Digitos}} made his foot
 Into tentacles suit
 For different kind of life
 Through joy and through strife.
 
-Digitos bore two sons:
-Cephalopus when begun
-The day, and Scaphopus,
+{{c|Digitos}} bore two sons:
+{{c|Cephalopus}} when begun
+The day, and {{c|Scaphopus}},
 Not quite so glorious.
 
-Cephalopus studied long
+{{c|Cephalopus}} studied long
 And made his body strong
 Through learning how to fly
 With buoyancy on high.
@@ -201,10 +201,10 @@ Through day and through the night.
 Through this he learned to soar
 Above the ocean floor.
 He even built with care
-Circulatory system there
+{{c|Circulatory}} system there
 
-Like Annelids and those
-Of Chordates who propose
+Like {{c|Annelids}} and those
+Of {{c|Chordates}} who propose
 That closed systems are best
 For meeting every test.
 
@@ -213,19 +213,19 @@ The brightest ever seen
 Among the mollusks all
 Who answer ocean's call.
 
-But Scaphopus lived lazy
+But {{c|Scaphopus}} lived lazy
 In the ground so hazy.
 He became ancestor
 Of tusk shells, protector
 
 Of nothing but his ease.
-Simple creatures please
+{{c|Simple}} creatures please
 Themselves with brainless ways,
-Living all their days
+{{c|Living}} all their days
 
-Underground they dwell
+{{c|Underground}} they dwell
 Within their tusk-like shell.
-They prey on Foramer's sons
+They prey on {{c|Foramer}}'s sons
 When hunting time begun.
 
 Through this story we learn
@@ -233,25 +233,25 @@ How small choices earn
 Great consequences wide
 Across time's flowing tide.
 
-The sons of Molluscus grew
+The sons of {{c|Molluscus}} grew
 And flourished, spreading through
 The world in every way,
-Taking roles each day
+{{c|Taking}} roles each day
 
 That others could not fill.
 Through strength of mind and will
 They rose from extinction's
-Fire to distinctions
+{{c|Fire}} to distinctions
 
 Great and glorious.
-Molluscus victorious
+{{c|Molluscus}} victorious
 Showed how from single start
 Many forms depart
 
 To fill each niche and place
 With their unique grace.
 From simple shell began
-Evolution's great plan
+{{c|Evolution}}'s great plan
 
 That led to snails that crawl
 And squids that enthrall
@@ -273,17 +273,17 @@ And left their lasting mark
 On world that needed those
 Who from destruction rose.
 
-Wiwaxius heard the call
+{{c|Wiwaxius}} heard the call
 To save life from the fall
 And through his chosen sons
-New chapters begun
+{{c|New}} chapters begun
 
 Of life upon the earth
 That celebrates the worth
 Of building something strong
 That will endure so long.
 
-From Testar's sixteen plates
+From {{c|Testar}}'s sixteen plates
 To forms that time creates
 In endless variety,
 The mollusks' piety
@@ -300,7 +300,7 @@ That makes the weak grow strong.
 
 In every shell we see
 Upon the sand so free,
-Remember Molluscus' choice
+Remember {{c|Molluscus}}' choice
 To lift up building's voice
 
 Above destruction's roar
@@ -335,15 +335,15 @@ Would end life's choir.
 
 Their shells protect and serve
 Their forms with every curve
-Designed for life's demands
+{{c|Designed}} for life's demands
 In seas and on the lands.
 
-So honor Molluscus' name
+So honor {{c|Molluscus}}' name
 And his enduring fame
 As father of the line
 That shows building's divine
 
-Power to restore
+{{c|Power}} to restore
 What was lost before
 And make the world anew
 With forms both strong and true.

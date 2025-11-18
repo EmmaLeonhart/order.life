@@ -1,11 +1,11 @@
-{{c|426|Silur}}, son of {{c|435|Chelicer}},
+{{c|Silur}}, son of {{c|Chelicer}},
 Saw the world in ruin's blur.
 And in this devastation
 Saw opportunity's creation.
 
-{{c|426|Silur}} shouted out with might
+{{c|Silur}} shouted out with might
 To all sons in his sight
-Of {{c|283|Animus}}, declaring
+Of {{c|Animus}}, declaring
 His vision, never caring
 
 For those who'd gone before:
@@ -24,36 +24,36 @@ For one who'd take the throne
 And make it all his own."
 
 And so began the era
-Of Silurian chimera,
-Rising from the ashes
-Of Ordovician's crashes.
+Of {{c|Silurian}} chimera,
+{{c|Rising}} from the ashes
+Of {{c|Ordovician}}'s crashes.
 
-{{c|426|Silur}} bore two sons:
-Eurypter when begun
-The day, and Chasmas strong
+{{c|Silur}} bore two sons:
+{{c|Eurypter}} when begun
+The day, and {{c|Chasmas}} strong
 Who lived his whole life long.
 
-{{c|436|Chasmas}} begat two more:
-{{c|437|Belangkas}} to explore
-And {{c|438|Xiphos}}, who would be
-Living by the sea.
+{{c|Chasmas}} begat two more:
+{{c|Belangkas}} to explore
+And {{c|Xiphos}}, who would be
+{{c|Living}} by the sea.
 
-{{c|438|Xiphos}} became the sire
+{{c|Xiphos}} became the sire
 Of crabs whose desire
 Was horseshoe-shaped design
-Throughout the end of time.
+{{c|Throughout}} the end of time.
 
-{{c|437|Belangkas}} climbed up high
+{{c|Belangkas}} climbed up high
 Onto the land to try
 What none had done before:
 To claim from shore to shore
 
-The land from {{c|423|Hirnan}}'s hand
+The land from {{c|Hirnan}}'s hand
 And make his own command
 Of territories wide
 Where he could reside.
 
-Like Myriapus of old
+Like {{c|Myriapus}} of old
 He found his story told
 In suffocation's pain
 Upon the terrestrial plain.
@@ -63,24 +63,24 @@ And was thus satisfied
 With air that he could breathe
 To give his lungs relief.
 
-{{c|437|Belangkas}} begat two:
-{{c|439|Soliber}}, tried and true,
-And {{c|440|Opiliona}} fair
+{{c|Belangkas}} begat two:
+{{c|Soliber}}, tried and true,
+And {{c|Opiliona}} fair
 Who spread life everywhere.
 
-{{c|440|Opiliona}} spread the moss
+{{c|Opiliona}} spread the moss
 Across the world, no loss
-Too great for her to bear
+{{c|Too}} great for her to bear
 In her maternal care.
 
 She grazed upon the green
 And on what could be seen
-Of daughters of Millipa
-Throughout the earthly steppe-a.
+Of daughters of {{c|Millipa}}
+{{c|Throughout}} the earthly steppe-a.
 
-{{c|440|Opiliona}} was a mother
+{{c|Opiliona}} was a mother
 Great, and like no other
-Farmer with her legs
+{{c|Farmer}} with her legs
 So long, and wisdom begs
 
 Us to remember her
@@ -88,12 +88,12 @@ As one who would confer
 Great blessings on the land
 With her maternal hand.
 
-Beautiful legs so long
+{{c|Beautiful}} legs so long
 Made her the subject of song:
-"Granny Long Legs" they'd call
+"{{c|Granny}} {{c|Long}} {{c|Legs}}" they'd call
 Her, beloved by all.
 
-"Granny Harvest" too,
+"{{c|Granny}} {{c|Harvest}}" too,
 For all the work she'd do
 To spread the green of life
 Through joy and through strife.
@@ -101,22 +101,22 @@ Through joy and through strife.
 And so in honor of
 Her life and of her love,
 We call her children still
-"Daddy Long Legs" (though will
+"{{c|Daddy}} {{c|Long}} {{c|Legs}}" (though will
 
-Seem strange to some that "Daddy"
-Names descendants of a lady).
-"Harvestmen" as well
+Seem strange to some that "{{c|Daddy}}"
+{{c|Names}} descendants of a lady).
+"{{c|Harvestmen}}" as well
 Their story always tell.
 
-{{c|439|Soliber}} begat two:
-Pneumaran, tried and true,
-And Kitzi, small but strong
+{{c|Soliber}} begat two:
+{{c|Pneumaran}}, tried and true,
+And {{c|Kitzi}}, small but strong
 Who lived his whole life long.
 
-Pneumaran begat then
+{{c|Pneumaran}} begat then
 Two sons beyond all ken:
-Solaran of the sun
-And Acares, begun
+{{c|Solaran}} of the sun
+And {{c|Acares}}, begun
 
 As dwarf among his kin,
 But he would always win
@@ -128,17 +128,17 @@ Who when their work is done
 Live everywhere on land
 Built by their tiny hand.
 
-Acares bore two sons:
-Sarco when day begun
-And Trombo, who would be
-Living peacefully
+{{c|Acares}} bore two sons:
+{{c|Sarco}} when day begun
+And {{c|Trombo}}, who would be
+{{c|Living}} peacefully
 
 Or not, as fate would tell
 His story oh so well
 Of how some choose the light
 While others choose the night.
 
-The sons of Sarco clean
+The sons of {{c|Sarco}} clean
 The world, and can be seen
 As dust mites everywhere
 Who take the greatest care
@@ -148,7 +148,7 @@ Of dust that might have been
 A problem for us all
 Who answer life's sweet call.
 
-Among the sons of Trombo
+Among the sons of {{c|Trombo}}
 Some live like peaceful combo
 Of gentleness and grace
 In their appointed place.
@@ -156,15 +156,15 @@ In their appointed place.
 But others are the plague
 That makes all good souls vague
 With worry and with fear—
-Parasites we hear
+{{c|Parasites}} we hear
 
-Stifle life with their ways
-Throughout our living days,
-Horrific in their greed
+{{c|Stifle}} life with their ways
+{{c|Throughout}} our living days,
+{{c|Horrific}} in their greed
 That plants destruction's seed.
 
 Among the peaceful ones
-Are Trombo's gentle sons:
+Are {{c|Trombo}}'s gentle sons:
 The red velvet mites
 Who bring us pure delights.
 
@@ -178,34 +178,34 @@ Where all true loves align
 With beauty and with grace
 In every living place.
 
-Solaran begat two:
-Solifugon so true
-And Ricinulon the small
+{{c|Solaran}} begat two:
+{{c|Solifugon}} so true
+And {{c|Ricinulon}} the small
 Who answered duty's call.
 
-Solifugon became
+{{c|Solifugon}} became
 The father of great fame
-Of Wind Spiders who race
+Of {{c|Wind}} {{c|Spiders}} who race
 Across the earth's face.
 
-Ricinulon became
+{{c|Ricinulon}} became
 The father of the name
-Of Tick Spiders so small
+Of {{c|Tick}} {{c|Spiders}} so small
 Who answer hunting's call.
 
-Kitzi begat two sons:
-Byblos when day begun
-And Paras, who would be
-Small in his degree.
+{{c|Kitzi}} begat two sons:
+{{c|Byblos}} when day begun
+And {{c|Paras}}, who would be
+{{c|Small}} in his degree.
 
-Byblos the Book Knight
-Continues day and night
+{{c|Byblos}} the {{c|Book}} {{c|Knight}}
+{{c|Continues}} day and night
 To this very day
 To guard in his own way
 
 The books that hold the lore
 Of all who came before.
-His sons, the Book Scorpions,
+His sons, the {{c|Book}} {{c|Scorpions}},
 Are knowledge's companions.
 
 They defend with their might
@@ -213,27 +213,27 @@ The books both day and night
 From those who would destroy
 What brings the world such joy.
 
-Paras begat two more:
-Mesos to explore
-And Holoxos the strong
+{{c|Paras}} begat two more:
+{{c|Mesos}} to explore
+And {{c|Holoxos}} the strong
 Who lived his whole life long.
 
-Mesos was a hunter
-Fierce, and he would shunt-er
+{{c|Mesos}} was a hunter
+{{c|Fierce}}, and he would shunt-er
 Across the globe to find
-Prey to feed his mind
+{{c|Prey}} to feed his mind
 
 And body's gluttony—
 A small but mighty fee
 He'd take from life around
-Wherever he was found.
+{{c|Wherever}} he was found.
 
-But Holoxos walked where
-Blood flowed everywhere
+But {{c|Holoxos}} walked where
+{{c|Blood}} flowed everywhere
 From his fallen kin:
-Sons of Arachnus thin
+{{c|Sons}} of {{c|Arachnus}} thin
 
-And sons of Myriapus
+And sons of {{c|Myriapus}}
 Who'd been victorious
 In other times and places
 Before death's embraces.
@@ -241,14 +241,14 @@ Before death's embraces.
 He drank their blood and bore
 Two sons to explore
 The paths of blood and death:
-Thyrus drew his breath
+{{c|Thyrus}} drew his breath
 
 From peaceful tradition,
-Drinking by submission
+{{c|Drinking}} by submission
 Only blood of those
 Who'd found their last repose.
 
-But Ricinus turned dark
+But {{c|Ricinus}} turned dark
 And left his evil mark
 On all the world around—
 Where he could be found
@@ -258,29 +258,29 @@ Like some unholy flood
 Of evil and of greed
 That plants destruction's seed.
 
-Ricinus drinks the life
+{{c|Ricinus}} drinks the life
 From those in joy and strife,
-Injecting with his bite
-Venom through the night
+{{c|Injecting}} with his bite
+{{c|Venom}} through the night
 
 That paralyzes those
 He's chosen as his foes.
-Paralytic, sweaty,
+{{c|Paralytic}}, sweaty,
 His venom's never petty
 
 But always brings the pain
 Like some unholy rain
 That falls on those who can't
-Escape his evil grant.
+{{c|Escape}} his evil grant.
 
-Ricinus swells up
+{{c|Ricinus}} swells up
 Like some unholy cup
-Inflated with the blood
+{{c|Inflated}} with the blood
 Of innocents, a flood
 
 Of stolen life that flows
 Within him as he grows
-Fat with others' pain
+{{c|Fat}} with others' pain
 Like some unholy stain
 
 Upon the world of life
@@ -288,17 +288,17 @@ That cuts like sharpest knife
 Through all that's good and true
 In me and you.
 
-By Ricinus the blood
+By {{c|Ricinus}} the blood
 Of scorned women's flood
 May taint our mortal veins
 With all their bitter pains.
 
-When Lilith's blood flows in
+When {{c|Lilith}}'s blood flows in
 Our veins, we can't win
 Against the poison's might:
-Typhus brings its blight
+{{c|Typhus}} brings its blight
 
-And Spotted Fever too
+And {{c|Spotted}} {{c|Fever}} too
 To me and you
 Who cannot fight alone
 Against what we have sown
@@ -308,10 +308,10 @@ Our world where it can win
 Against the good and true
 That lives in me and you.
 
-The Midichlorians live
-In what Ricinus' give:
+The {{c|Midichlorians}} live
+In what {{c|Ricinus}}' give:
 Within their mitochondria
-Lives Lilith's bacteria—
+{{c|Lives}} {{c|Lilith}}'s bacteria—
 
 The greatest revenge told
 By stories new and old
@@ -319,29 +319,29 @@ Of those who choose the dark
 And leave their evil mark.
 
 And after daughters come
-Of Lilith, and the sum
+Of {{c|Lilith}}, and the sum
 Of all their evil ways:
-Malarius' dark days
+{{c|Malarius}}' dark days
 
-And Lyme and all the rest
+And {{c|Lyme}} and all the rest
 Of sisters who're possessed
 By pestilence and death
 That steals away our breath.
 
-Ricinus, father of
-Ticks who show no love
+{{c|Ricinus}}, father of
+{{c|Ticks}} who show no love
 But only greed and hate,
-Engorged with others' fate,
+{{c|Engorged}} with others' fate,
 
-Shows us what becomes
+{{c|Shows}} us what becomes
 Of those whose evil sums
 Into a force so strong
 That right can't win from wrong.
 
-But Eurypter would be
-Father of dynasty
-Far greater than the line
-Of Chasmas' design.
+But {{c|Eurypter}} would be
+{{c|Father}} of dynasty
+{{c|Far}} greater than the line
+Of {{c|Chasmas}}' design.
 
 A nation he would make
 That would its rightful take
@@ -358,12 +358,12 @@ Where evil shows its faces
 But cannot win the day
 When good shows its way.
 
-From Silur's opportunity
+From {{c|Silur}}'s opportunity
 Seen in calamity
-To Opiliona's care
+To {{c|Opiliona}}'s care
 For life everywhere,
 
-From Book Knights who defend
+From {{c|Book}} {{c|Knights}} who defend
 The knowledge we depend
 Upon to light our way
 Through each and every day,
@@ -373,23 +373,23 @@ And leave their evil mark
 On all the world around
 Where they can be found,
 
-The Silurian shows
+The {{c|Silurian}} shows
 How each one's choice grows
 Into the world we see
 For you and me.
 
 Some choose to heal and mend
 What others would rend
-Apart with greed and hate
+{{c|Apart}} with greed and hate
 That seals our mortal fate.
 
-Others choose to take
+{{c|Others}} choose to take
 For their own selfish sake
 What others need to live
 And never learn to give.
 
 The lesson clear as day
-Shows us the way
+{{c|Shows}} us the way
 To choose what we will be
 For all eternity:
 
@@ -398,7 +398,7 @@ Or those who make the mess
 That others have to clean
 In places yet unseen.
 
-From Silur's royal crown
+From {{c|Silur}}'s royal crown
 To blood-suckers who drown
 The world in pain and death,
 Each choice draws its breath
@@ -423,7 +423,7 @@ For you and me
 Who must decide each day
 Which path we'll take away.
 
-The Silurian age began
+The {{c|Silurian}} age began
 With one who had a plan
 To rise from ruin's call
 And build hope for all.
@@ -443,7 +443,7 @@ To rise above the fall
 Of golden ages past
 To build what will last,
 
-The Silurian reminds
+The {{c|Silurian}} reminds
 Us that each one finds
 The world they choose to make
 For everyone's sake.
@@ -453,7 +453,7 @@ Will be what you will lose
 Or gain for all the days
 Of your immortal ways.
 
-From Silur's royal start
+From {{c|Silur}}'s royal start
 To ticks' bloodsucking art,
 The lesson's clear to see:
 We are what we choose to be.

@@ -1,106 +1,106 @@
-The sons of {{c|441|Eurypter}} would
-Usurp as no one could
-The sons of {{c|442|Cephalus}}
+The sons of {{c|Eurypter}} would
+{{c|Usurp}} as no one could
+The sons of {{c|Cephalus}}
 And rule victorious.
 
-{{c|441|Eurypter}} married fair
-{{c|443|Pulmona}} everywhere
-Beloved, and they'd disagree
+{{c|Eurypter}} married fair
+{{c|Pulmona}} everywhere
+{{c|Beloved}}, and they'd disagree
 On what their name would be.
 
 Each had their own design
 For their ancestral line:
-"Eurypterids" he'd say,
-"Arachnopulmonates" her way.
+"{{c|Eurypterids}}" he'd say,
+"{{c|Arachnopulmonates}}" her way.
 
-{{c|441|Eurypter}} and {{c|443|Pulmona}}
+{{c|Eurypter}} and {{c|Pulmona}}
 Bore children like none-a
-Other: {{c|465|Eurypteron}}
-And {{c|466|Styloner}}, begun
+Other: {{c|Eurypteron}}
+And {{c|Styloner}}, begun
 
 In rivalry so deep
 That none could ever keep
-Peace between the two
+{{c|Peace}} between the two
 Who different paths knew.
 
-Eurypteron and his brother
-Styloner, like no other
-Pair of siblings fought
+{{c|Eurypteron}} and his brother
+{{c|Styloner}}, like no other
+{{c|Pair}} of siblings fought
 For all that could be bought
 
 With power and with might
-Throughout the day and night.
+{{c|Throughout}} the day and night.
 When their mother died
 They could not decide
 
 Who would inherit all
 The world at honor's call.
-{{c|465|Eurypteron}} claimed skies
-While {{c|466|Styloner}}'s eyes
+{{c|Eurypteron}} claimed skies
+While {{c|Styloner}}'s eyes
 
 Were set upon the land
 Built by his own hand.
-And so {{c|465|Eurypteron}} flew
+And so {{c|Eurypteron}} flew
 Across domains he knew
 
 Were his by right of birth
-While {{c|466|Styloner}} walked earth
+While {{c|Styloner}} walked earth
 And claimed each step he took
-According to the book
+{{c|According}} to the book
 
 Of inheritance and law
 That neither brother saw
 The same way as the other
-Despite they shared one mother.
+{{c|Despite}} they shared one mother.
 
-The flight of {{c|465|Eurypteron}}
+The flight of {{c|Eurypteron}}
 Across the sky begun
 A dynasty of those
 Who ruled where wind blows
 
-High above the earth
+{{c|High}} above the earth
 From moment of their birth
 To death's appointed day
 They'd rule in their own way.
 
-{{c|465|Eurypteron}} begat
+{{c|Eurypteron}} begat
 Two sons: first he begat
-{{c|467|Diploper}} the strong
-And {{c|468|Eurypterus}}, long
+{{c|Diploper}} the strong
+And {{c|Eurypterus}}, long
 
 In fertility beyond
 What any could respond
 To with equal measure—
 Their numbers were his treasure.
 
-{{c|468|Eurypterus}} was most
-Fertile of the host
-Of {{c|426|Silur}}'s noble sons.
+{{c|Eurypterus}} was most
+{{c|Fertile}} of the host
+Of {{c|Silur}}'s noble sons.
 In each generation begun
 
 His house would grow
-Ten thousand-fold, and so
+{{c|Ten}} thousand-fold, and so
 His numbers multiplied
 Beyond what could be tried
 
 By any other line
 In all of space and time.
-Myriad-fold they grew
+{{c|Myriad}}-fold they grew
 With offspring tried and true.
 
-{{c|467|Diploper}} begat two:
-{{c|469|Waeringos}}, tried and true,
-And {{c|470|Carcinos}} the strong
+{{c|Diploper}} begat two:
+{{c|Waeringos}}, tried and true,
+And {{c|Carcinos}} the strong
 Who lived his whole life long.
 
-{{c|469|Waeringos}} begat then
+{{c|Waeringos}} begat then
 Two sons beyond all ken:
-{{c|471|Humiller}}, strong and brave,
-And {{c|472|Adelops}}, who'd save
+{{c|Humiller}}, strong and brave,
+And {{c|Adelops}}, who'd save
 
 His line through numbers vast
 That would forever last.
-Adelops was small
+{{c|Adelops}} was small
 But answered duty's call
 
 With many children who
@@ -108,22 +108,22 @@ Were resilient and true,
 Like bugs beneath the sea
 In their tenacity.
 
-{{c|471|Humiller}} married fair
-{{c|473|Pterra}}, beyond compare
+{{c|Humiller}} married fair
+{{c|Pterra}}, beyond compare
 In beauty and in grace,
 And in their dwelling place
 
-Together they bore one
-Son when day begun:
-Slender, fast, and sly,
+{{c|Together}} they bore one
+{{c|Son}} when day begun:
+{{c|Slender}}, fast, and sly,
 Who'd rule beneath the sky
 
 And in the depths below.
-They named him {{c|474|Slimon}}, though
+They named him {{c|Slimon}}, though
 His destiny was great
 Beyond what they could state.
 
-{{c|474|Slimon}} bore a son
+{{c|Slimon}} bore a son
 Whose work, when it was done,
 Would show the massive claws
 That grew according to laws
@@ -134,31 +134,31 @@ His power would be known
 When he had grown.
 
 He named this son at first
-Clawbert, but then burst
+{{c|Clawbert}}, but then burst
 A strike of lightning bright
 That filled the world with sight.
 
-And {{c|474|Slimon}} took the sign
+And {{c|Slimon}} took the sign
 From powers divine
 And changed his son's name
-To {{c|475|Pterygo}}'s fame.
+To {{c|Pterygo}}'s fame.
 
-The sons of {{c|475|Pterygo}}
+The sons of {{c|Pterygo}}
 Were rulers high and low
-Of all Eurypterids.
-Fast, strong, their power bids
+Of all {{c|Eurypterids}}.
+{{c|Fast}}, strong, their power bids
 
 The world to bow before
 Their might from shore to shore.
-Regal in their way,
+{{c|Regal}} in their way,
 They ruled both night and day.
 
 His youngest son was one
-Called {{c|476|Scorpio}}, begun
+Called {{c|Scorpio}}, begun
 As explorer of the new,
 With vision clear and true.
 
-Scorpio saw no land
+{{c|Scorpio}} saw no land
 Left for his command,
 For all his brothers older
 Had claimed, and none bolder
@@ -168,7 +168,7 @@ To rule with all their might
 The territories vast
 That they held firmly fast.
 
-And so {{c|476|Scorpio}} looked
+And so {{c|Scorpio}} looked
 Up from his watery nook
 Out of the sea to land
 Built by no one's hand
@@ -178,18 +178,18 @@ By one who could be named
 The first to make the leap
 From waters dark and deep.
 
-{{c|476|Scorpio}} ventured up
+{{c|Scorpio}} ventured up
 Like warrior with cup
 Of courage in his heart
 To play the pioneer's part.
 
 His book gills became
-Book lungs, and his name
+{{c|Book}} lungs, and his name
 Would live forevermore
 From mountain peak to shore.
 
 He claimed all lands of might
-Euramerica in sight
+{{c|Euramerica}} in sight
 For himself and his line
 By right of the divine
 
@@ -208,38 +208,38 @@ As scorpions in their way,
 Still carrying the torch
 Of those who scorch
 
-New paths through virgin land
+{{c|New}} paths through virgin land
 Built by their own hand
 From nothing into all
 That answers courage's call.
 
-{{c|466|Styloner}} married then
-{{c|477|Rhena}}, and the pen
+{{c|Styloner}} married then
+{{c|Rhena}}, and the pen
 Of fate would write their names
 In evolution's games.
 
-Together they bore two:
-{{c|478|Makoko}}, tried and true,
-And Stylonurus strong
+{{c|Together}} they bore two:
+{{c|Makoko}}, tried and true,
+And {{c|Stylonurus}} strong
 Who lived his whole life long.
 
-{{c|478|Makoko}} begat then
+{{c|Makoko}} begat then
 Two sons beyond all ken:
-{{c|479|Mycter}} and {{c|480|Kokomo}},
+{{c|Mycter}} and {{c|Kokomo}},
 Each destined high to go.
 
-{{c|479|Mycter}} begat two more:
-{{c|481|Flumon}} to explore
-And Drepan, strong and true,
+{{c|Mycter}} begat two more:
+{{c|Flumon}} to explore
+And {{c|Drepan}}, strong and true,
 Who different pathways knew.
 
-{{c|481|Flumon}} found no luck
+{{c|Flumon}} found no luck
 In seas where he was stuck
 With brothers and with cousins
 Who by the dozens
 
 Had claimed the seas for their
-Own use, and would not share
+{{c|Own}} use, and would not share
 With him a single place
 To call his dwelling space.
 
@@ -248,37 +248,37 @@ With current as his guide
 To find what he could claim
 For his ancestral name.
 
-{{c|481|Flumon}} begat two sons:
-{{c|482|Hibbert}} when day begun
-And {{c|483|Mycterops}} the strong
+{{c|Flumon}} begat two sons:
+{{c|Hibbert}} when day begun
+And {{c|Mycterops}} the strong
 Who lived his whole life long.
 
-{{c|482|Hibbert}} was a great
-River dweller whose fate
+{{c|Hibbert}} was a great
+{{c|River}} dweller whose fate
 Was to be tough and large,
 And he would take charge
 
 Of all the river's course
 With wisdom and with force.
-Larger, tougher than
+{{c|Larger}}, tougher than
 Any other man
 
 Of his time, he survived
-Tragedies and thrived
+{{c|Tragedies}} and thrived
 Through countless trials
 Across thousands of miles.
 
 His people were a race
-Resilient in their place,
-Powerful and old,
+{{c|Resilient}} in their place,
+{{c|Powerful}} and old,
 With stories yet untold
 
 Of how they overcame
-Whatever brought them shame
+{{c|Whatever}} brought them shame
 Or tried to break their will
 Upon the river's sill.
 
-{{c|483|Mycterops}} was strong
+{{c|Mycterops}} was strong
 And versatile life long.
 His two sons would continue
 The work he would begin to
@@ -286,41 +286,41 @@ The work he would begin to
 Do: living in the rivers
 Where water always shivers
 With life and searching for
-Food from shore to shore
+{{c|Food}} from shore to shore
 
 In most unlikely places
 Where none could see their faces
 But they would always find
 What fed both heart and mind.
 
-{{c|484|Megarachne}} and his brother
-{{c|485|Minirachne}}, like no other
-Pair ruled rivers wide
+{{c|Megarachne}} and his brother
+{{c|Minirachne}}, like no other
+{{c|Pair}} ruled rivers wide
 With power and with pride.
 
-Sons of {{c|483|Mycterops}},
+{{c|Sons}} of {{c|Mycterops}},
 They were the tops
 Of river royalty
 In their dynasty.
 
-But {{c|485|Minirachne}} was not
-Satisfied with his lot
+But {{c|Minirachne}} was not
+{{c|Satisfied}} with his lot
 In rivers flowing free—
 He wanted more to see.
 
-{{c|476|Scorpio}} and {{c|485|Minirachne}}
+{{c|Scorpio}} and {{c|Minirachne}}
 Were always destined, see,
 To fight for the same prize:
 The land beneath the skies.
 
 For both had more ambition
-Than any opposition
+{{c|Than}} any opposition
 Could contain or tame
 In their quest for fame.
 
 Both were men whose dreams
-Surpassed all that seems
-Possible to those
+{{c|Surpassed}} all that seems
+{{c|Possible}} to those
 Who seek repose
 
 In comfort and in ease
@@ -328,9 +328,9 @@ But never feel the breeze
 Of challenge call their name
 To play a greater game.
 
-{{c|485|Minirachne}} climbed up high
+{{c|Minirachne}} climbed up high
 Beneath the open sky
-With {{c|486|Tetra}}, his fair wife,
+With {{c|Tetra}}, his fair wife,
 To start a new life
 
 In the world of land
@@ -339,18 +339,18 @@ Where none had gone before
 To open up the door.
 
 His book lungs became
-Book gills, and his name
+{{c|Book}} gills, and his name
 Would be remembered long
 In evolution's song.
 
 He came to conquer all
-The lands where {{c|476|Scorpio}}'s call
+The lands where {{c|Scorpio}}'s call
 Had claimed the territory
 For his own story.
 
 And so the stage was set
 For a conflict yet
-Unseen in all the world
+{{c|Unseen}} in all the world
 Where banners were unfurled
 
 Between two mighty lines
@@ -358,8 +358,8 @@ With their different designs
 On what the world should be
 For all eternity.
 
-From {{c|441|Eurypter}}'s marriage
-To {{c|443|Pulmona}}'s carriage
+From {{c|Eurypter}}'s marriage
+To {{c|Pulmona}}'s carriage
 Of their children into being
 Came this foreseeing
 
@@ -368,8 +368,8 @@ When all would be done
 And winners would be crowned
 And losers would be found.
 
-The sons of {{c|441|Eurypter}}
-Would rise like Jupiter
+The sons of {{c|Eurypter}}
+Would rise like {{c|Jupiter}}
 Above all other lines
 With their grand designs
 
@@ -394,13 +394,13 @@ In conflict with their kin
 That no one ever wins.
 
 The rivalry between
-Brothers who have seen
-Different paths to take
+{{c|Brothers}} who have seen
+{{c|Different}} paths to take
 For their own sake
 
 And their children's future
-Shows how nature's suture
-Often cannot hold
+{{c|Shows}} how nature's suture
+{{c|Often}} cannot hold
 When ambitions grow bold
 
 Beyond what can be shared
@@ -408,19 +408,19 @@ By those who never cared
 To find a peaceful way
 To live from day to day.
 
-From {{c|476|Scorpio}}'s bold climb
-To {{c|485|Minirachne}}'s time
+From {{c|Scorpio}}'s bold climb
+To {{c|Minirachne}}'s time
 Of conquest and of war,
 The lesson from of lore
 
 Is clear for all to see:
-Ambition must be free
+{{c|Ambition}} must be free
 But also must be wise
 Beneath the starry skies.
 
 The world is big enough
 For all who are tough
-Enough to make their way
+{{c|Enough}} to make their way
 Through each and every day
 
 Of challenge and of strife
@@ -449,7 +449,7 @@ Of cooperation true
 With me and you.
 
 The eurypterids' rise
-Shows us to be wise
+{{c|Shows}} us to be wise
 In how we use our power
 In each and every hour
 
@@ -458,8 +458,8 @@ Along our mortal ways
 Where choice determines all
 Who answer life's great call.
 
-From {{c|441|Eurypter}}'s flight
-To {{c|476|Scorpio}}'s sight
+From {{c|Eurypter}}'s flight
+To {{c|Scorpio}}'s sight
 Of lands beyond the sea
 Where he could be
 
@@ -469,14 +469,14 @@ With possibility
 For all humanity,
 
 The lesson clear as day
-Shows us the way
+{{c|Shows}} us the way
 To be both brave and wise
 Beneath the starry skies
 
 Where all our dreams can grow
 If we but choose to sow
 The seeds of peace and love
-Blessed from above
+{{c|Blessed}} from above
 
 In every choice we make
 For everyone's sake
@@ -488,8 +488,8 @@ For you and me
 Who must decide each day
 Which path we'll take away.
 
-The sons of {{c|441|Eurypter}}
-Like shining Jupiter
+The sons of {{c|Eurypter}}
+Like shining {{c|Jupiter}}
 Rose high above the rest
 And passed each mortal test
 

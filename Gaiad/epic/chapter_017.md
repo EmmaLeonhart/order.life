@@ -1,75 +1,75 @@
-From {{c|48|Bacta}}'s womb, two daughters did arise,
-Fair Hydra one, and Terra forged in might.
+From {{c|Bacta}}'s womb, two daughters did arise,
+{{c|Fair}} {{c|Hydra}} one, and {{c|Terra}} forged in might.
 In swirling seas, they cast their ancient eyes,
 To found the clans now thriving in the light.
 
-Hydra, whose brood outmatched the countless stars,
-Bore {{c|81|Proteus}}, whose might would soon unfold.
-Yet Hydra's second child, untouched by scars,
-Was Aqua then, the queen of tales untold.
+{{c|Hydra}}, whose brood outmatched the countless stars,
+Bore {{c|Proteus}}, whose might would soon unfold.
+Yet {{c|Hydra}}'s second child, untouched by scars,
+Was {{c|Aqua}} then, the queen of tales untold.
 
-{{c|81|Proteus}} bore a host of fourfold might:
-Alif and Beth, Camilla, Mixo bold.
+{{c|Proteus}} bore a host of fourfold might:
+{{c|Alif}} and {{c|Beth}}, {{c|Camilla}}, {{c|Mixo}} bold.
 Within the darksome night they each took flight,
 And shaped fresh paths in worlds both new and old.
 
-Alif begat two daughters in her care:
-Rachel and Kalia, each forged in grace.
-From Rachel’s line would humans one day share
+{{c|Alif}} begat two daughters in her care:
+{{c|Rachel}} and {{c|Kalia}}, each forged in grace.
+From {{c|Rachel}}’s line would humans one day share
 A kinship bridging worlds across all space.
 
-Kalia's brood, the Calisto line named,
-Spread subtle powers through the hidden deep.
-{{c|81|Proteus}} watched, content in all she claimed,
+{{c|Kalia}}'s brood, the {{c|Calisto}} line named,
+{{c|Spread}} subtle powers through the hidden deep.
+{{c|Proteus}} watched, content in all she claimed,
 While daughters thrived in countless worlds to keep.
 
-Aqua, the sister, bearing olden grace,
-Stood near to {{c|81|Proteus}} in mystic might;
+{{c|Aqua}}, the sister, bearing olden grace,
+Stood near to {{c|Proteus}} in mystic might;
 She bore two children, each with wondrous face,
-Splauron and Chloram—one in gloom, one bright.
+{{c|Splauron}} and {{c|Chloram}}—one in gloom, one bright.
 
-Splauron bore two twin shining girls in turn:
-Planka and Spira shaped the deep damp course.
-Planka’s brood the mycetes roam and churn,
-While Spira’s clan the chaetes run their course.
+{{c|Splauron}} bore two twin shining girls in turn:
+{{c|Planka}} and {{c|Spira}} shaped the deep damp course.
+{{c|Planka}}’s brood the mycetes roam and churn,
+While {{c|Spira}}’s clan the chaetes run their course.
 
-Chloram, now second, bore two fateful lines,
-Chlamydi’s brood, parasitic with greed.
+{{c|Chloram}}, now second, bore two fateful lines,
+{{c|Chlamydi}}’s brood, parasitic with greed.
 It sapped her womb, devouring hopeful signs,
-While Korba’s path saw more constructive deed.
+While {{c|Korba}}’s path saw more constructive deed.
 
-Korba then mothered Chlorobia’s seed,
-And Bactero, whose brood spread wide on land.
-Thus Hydra’s line advanced in timely deed,
-Expanding far to flourish as they planned.
+{{c|Korba}} then mothered {{c|Chlorobia}}’s seed,
+And {{c|Bactero}}, whose brood spread wide on land.
+Thus {{c|Hydra}}’s line advanced in timely deed,
+{{c|Expanding}} far to flourish as they planned.
 
-Meanwhile, fair Terra, Bacta’s other child,
-Stood quite bright in Gram-positivity
+Meanwhile, fair {{c|Terra}}, {{c|Bacta}}’s other child,
+Stood quite bright in {{c|Gram}}-positivity
 Two daughters claimed her fiber fierce and wild,
-Actano, Fermus, they built a city
+{{c|Actano}}, {{c|Fermus}}, they built a city
 
-Actano bore two daughters of her own:
-Actina, mother of Actino's line,
-And Prasea, from whom two seeds were sown—
-{{c|49|Saya}} and Chloroflexa, both divine.
+{{c|Actano}} bore two daughters of her own:
+{{c|Actina}}, mother of {{c|Actino}}'s line,
+And {{c|Prasea}}, from whom two seeds were sown—
+{{c|Saya}} and {{c|Chloroflexa}}, both divine.
 
-{{c|49|Saya}} the bacteria shed her coat,
-Embracing Gram-negative ways for light.
+{{c|Saya}} the bacteria shed her coat,
+{{c|Embracing}} {{c|Gram}}-negative ways for light.
 She drank the sun where swirling currents float,
-Bestowing oxygen with force so bright.
+{{c|Bestowing}} oxygen with force so bright.
 
-Then Chloroflexa claimed her tapestry,
+Then {{c|Chloroflexa}} claimed her tapestry,
 Of filamentous grace in silent seas.
-Both born of wise Prasea's legacy,
-They wove Earth's green with ancient expertise.
+Both born of wise {{c|Prasea}}'s legacy,
+They wove {{c|Earth}}'s green with ancient expertise.
 
-Fermus, the other child of Terra's sphere,
-Had two dear daughters: Firmicutie mild,
-Whose Firmicutes the soils far and near,
-And Conan, iron-willed, in deserts wild.
+{{c|Fermus}}, the other child of {{c|Terra}}'s sphere,
+Had two dear daughters: {{c|Firmicutie}} mild,
+Whose {{c|Firmicutes}} the soils far and near,
+And {{c|Conan}}, iron-willed, in deserts wild.
 
-Thus Hydra's line and Terra's line expand,
-Two families wrought from {{c|48|Bacta}}'s old soul.
+Thus {{c|Hydra}}'s line and {{c|Terra}}'s line expand,
+Two families wrought from {{c|Bacta}}'s old soul.
 From scorching vents to gardens lush on land,
 Their heirs still thrive and shape the living whole.
 

@@ -1,27 +1,27 @@
-Upon the moon {{c|18|Serenitide}}, they came,
-Beneath the rains of {{c|274|Pluvia}}'s gentle skies.
-The star {{c|273|Quiyah}} cast down its golden flame,
+Upon the moon {{c|Serenitide}}, they came,
+Beneath the rains of {{c|Pluvia}}'s gentle skies.
+The star {{c|Quiyah}} cast down its golden flame,
 A world untouched, where peaceful dreams arise.
 
 Their ships descended, weary from their quest,
 They saw the fields and oceans vast, unscarred.
-In {{c|18|Serenitide}}'s embrace, they hoped for rest,
+In {{c|Serenitide}}'s embrace, they hoped for rest,
 A future bright, where nothing would be hard.
 
-Beneath {{c|273|Quiyah}}'s light, they carved their way,
+Beneath {{c|Quiyah}}'s light, they carved their way,
 And built great cities from the land and stone.
 The air was sweet, the soil rich with clay,
-In {{c|18|Serenitide}}, they found a place their own.
+In {{c|Serenitide}}, they found a place their own.
 
 With hands of hope, they shaped both sky and shore,
 A golden age of wisdom and of light.
 Their dreams took root, and cities soon did soar,
-As {{c|18|Serenitide}}'s vast beauty reached new height.
+As {{c|Serenitide}}'s vast beauty reached new height.
 
 In art and science, knowledge took its flight,
 A golden age of wonders did unfold.
 Their temples gleamed beneath the heavens' light,
-To {{c|1|Aster}} and {{c|2|Andromeda}}, bold.
+To {{c|Aster}} and {{c|Andromeda}}, bold.
 
 The city thrived, its streets alive with sound,
 Where laughter echoed, and their dreams took form.
@@ -34,7 +34,7 @@ The tale of stars and journeys ever pure,
 In every heart, their cosmic bond took hold.
 
 But fate would bring a chill upon their lands,
-As {{c|18|Serenitide}} came to freeze in time.
+As {{c|Serenitide}} came to freeze in time.
 The warmth of suns withdrew from gentle sands,
 The oceans groaned beneath an icy rime.
 
@@ -50,12 +50,12 @@ With faith and courage, they paid nature's price.
 
 Their cities reached beneath the frozen sea,
 A refuge from the cold, a place to grow.
-With {{c|1|Aster}}'s light, they found the strength to be,
+With {{c|Aster}}'s light, they found the strength to be,
 A people strong amidst the frost and snow.
 
 But from the depths of space, a threat did soar,
 A meteor, with fiery wrath untamed.
-It struck {{c|18|Serenitide}} with violent roar,
+It struck {{c|Serenitide}} with violent roar,
 And all beneath its force was soon inflamed.
 
 The icy world did shatter, torn apart,

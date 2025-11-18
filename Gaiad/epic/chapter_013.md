@@ -1,61 +1,61 @@
-In Sol's embrace, her daughters came to be,
+In {{c|Sol}}'s embrace, her daughters came to be,
 From nebula, they formed a cosmic host.
-Mercury, Venus, Earth, and Mars we see,
-With Ceres too, they grace the starry coast.
+{{c|Mercury}}, {{c|Venus}}, {{c|Earth}}, and {{c|Mars}} we see,
+With {{c|Ceres}} too, they grace the starry coast.
 
-Once cloaked in waters, Mercury did shine,
-But as the Sun's fierce heat began to rise,
+{{c|Once}} cloaked in waters, {{c|Mercury}} did shine,
+But as the {{c|Sun}}'s fierce heat began to rise,
 The liquid fled, his surface left benign,
 A rocky orb now meets our seeking eyes.
 
-When Venus, struck, began to backward spin,
+When {{c|Venus}}, struck, began to backward spin,
 Her fate was sealed, her path forever turned.
 A world of heat and clouds that choke within,
 Her beauty veiled by sulfur skies that burned.
 
-Then Earth, fair {{c|5|Gaia}}, tells her vibrant tale,
+Then {{c|Earth}}, fair {{c|Gaia}}, tells her vibrant tale,
 From seas arose the life that graced her face.
 With mountains high and skies where clouds set sail,
 A cradle formed for life's enduring race.
 
-Mars, brother Mars, once water flowed in streams,
+{{c|Mars}}, brother {{c|Mars}}, once water flowed in streams,
 His ruddy face now bears a dusty guise.
 But as the years passed by, he lost his dreams,
 His waters sunk beneath his crimson skies.
 
-Then Ceres slept, her growth was slow to start,
+Then {{c|Ceres}} slept, her growth was slow to start,
 A younger sister, late to join the dance.
 Yet beauty dwells within her rocky heart,
 A jewel set in space's vast expanse.
 
 The giants vast, the gaseous daughters four,
-Jupiter, Saturn, Uranus, Neptune's reign.
+{{c|Jupiter}}, {{c|Saturn}}, {{c|Uranus}}, {{c|Neptune}}'s reign.
 Their tales entwined within the cosmic lore,
 With storms that swirl and moons in endless chain.
 
-Around great Jupiter, his moons revolve,
-{{c|16|Io}}, Europa, Ganymede, they dance.
+Around great {{c|Jupiter}}, his moons revolve,
+{{c|Io}}, {{c|Europa}}, {{c|Ganymede}}, they dance.
 Their icy secrets waiting to evolve,
 A celestial show in night's expanse.
 
-But {{c|16|Io}}'s fires within her heart did glow,
+But {{c|Io}}'s fires within her heart did glow,
 Her waters boiled beneath volcanic flame.
 Though some remained in hidden depths below,
 A testament to change, she stays the same.
 
-In Saturn's grasp, her moons of ice reside,
-Enceladus and {{c|17|Titan}} lead the way.
+In {{c|Saturn}}'s grasp, her moons of ice reside,
+{{c|Enceladus}} and {{c|Titan}} lead the way.
 A frozen kin around their mother glide,
 In cosmic dance, their fates in balance sway.
 
-Beyond cold Neptune lies a distant field,
-Trans-Neptunian worlds in darkness hide.
+Beyond cold {{c|Neptune}} lies a distant field,
+{{c|Trans}}-{{c|Neptunian}} worlds in darkness hide.
 Their icy secrets yet remain concealed,
 A frigid tale where mysteries abide.
 
-Farther still, the Oort Cloud wraps around,
+{{c|Farther}} still, the {{c|Oort}} {{c|Cloud}} wraps around,
 A veil of frozen whispers far from light.
 In distant orbits, comets there abound,
 A cosmic dance that fades beyond our sight.
 
-Advertisement
+{{c|Advertisement}}

@@ -1,6 +1,6 @@
-The {{c|262|Ordovician}} began
+The {{c|Ordovician}} began
 With great extinction's plan—
-Or did it? Sages still debate
+Or did it? {{c|Sages}} still debate
 What caused that fearsome fate.
 
 Were these great ghosts real
@@ -8,7 +8,7 @@ With power none could feel
 Beyond belief so strong,
 Or myths that passed along?
 
-The Sages cannot agree
+The {{c|Sages}} cannot agree
 On what they claim to see
 In mists of ancient time
 Where truth and myth combine.
@@ -16,20 +16,20 @@ Where truth and myth combine.
 After the mists cleared
 And new dawn appeared,
 The world was greater still
-Than any mortal will
+{{c|Than}} any mortal will
 
 Could have imagined then.
-The Planktonic Planimals when
+The {{c|Planktonic}} {{c|Planimals}} when
 They fed brought forth new life
 Through harmony, not strife.
 
-Leviathan arose,
+{{c|Leviathan}} arose,
 Great dragon, friend not foes.
-Son of wicked king Magog,
+{{c|Son}} of wicked king {{c|Magog}},
 He ruled through wisdom's log.
 
 Though born of evil seed,
-Leviathan would lead
+{{c|Leviathan}} would lead
 His kingdom not to war
 But peace forevermore.
 
@@ -38,10 +38,10 @@ His realm in clarity
 Grew under his wise rule
 Like some divine school.
 
-The sons of Leviathan
+The sons of {{c|Leviathan}}
 Grew greater than began
 Any before their time:
-Tenscore myriads prime
+{{c|Tenscore}} myriads prime
 
 Of microns was their length.
 Their body politic's strength
@@ -53,27 +53,27 @@ The greatness that was bred
 Into their very souls
 To play their vital roles.
 
-The sons of Leviathan ruled
+The sons of {{c|Leviathan}} ruled
 The world, and never fooled
 By power's corruption,
 They brought life's construction
 
 With justice great and true.
 They shepherded all who
-Were sons of Bios fair
+Were sons of {{c|Bios}} fair
 With love and gentle care.
 
 From small planktonic ones
 To vicious warrior sons—
-The Anomalocarids—
+The {{c|Anomalocarids}}—
 All felt their benefits.
 
-Ordovices the son
-Of Leviathan begun
+{{c|Ordovices}} the son
+Of {{c|Leviathan}} begun
 The greatest reign of all
 When he would hear the call
 
-To be Emperor supreme.
+To be {{c|Emperor}} supreme.
 He built beyond all dream
 Great cities of such fame
 That "reefs" became their name.
@@ -83,43 +83,43 @@ Grew in harmony
 Like never seen before
 From mountain peak to shore.
 
-In great Coral cities
+In great {{c|Coral}} cities
 Where beauty never pities
 Those who cannot see
 Their vast complexity,
 
-The sons of Euka came
+The sons of {{c|Euka}} came
 From places without name
-Far and wide they traveled
+{{c|Far}} and wide they traveled
 As mysteries unraveled.
 
-Ordovices put to work
-The sons of Cnider (perk
+{{c|Ordovices}} put to work
+The sons of {{c|Cnider}} (perk
 Of wisdom's gentle hand)
-Throughout his peaceful land.
+{{c|Throughout}} his peaceful land.
 
-And so the sons of Anthus
+And so the sons of {{c|Anthus}}
 Built cities, cantus
 Of beauty rising high
 Beneath the ocean sky.
 
-Ordovices had daughters
-Of Coraline build waters
+{{c|Ordovices}} had daughters
+Of {{c|Coraline}} build waters
 Into living stone—
 She, daughter all her own
 
-Of Florida, who came
-From Rhodes of ancient name.
-They built coralline Algae,
+Of {{c|Florida}}, who came
+From {{c|Rhodes}} of ancient name.
+They built coralline {{c|Algae}},
 The plaster, galaxy
 
-Upon the great Corals.
+Upon the great {{c|Corals}}.
 Their work through all portals
 Of time would long endure
 With beauty clean and pure.
 
-Ordovices saw clear
-That sons of Bryos here
+{{c|Ordovices}} saw clear
+That sons of {{c|Bryos}} here
 Had no home to call
 Their own, and heard their call.
 
@@ -130,7 +130,7 @@ Both day and through the night.
 
 To this day reefs stand
 As monuments so grand
-Of Ordovices' art
+Of {{c|Ordovices}}' art
 That built with gentle heart
 
 The most prosperous cities
@@ -138,7 +138,7 @@ Where life shows no pities
 For those who cannot see
 Their vast complexity.
 
-On Terra and beyond
+On {{c|Terra}} and beyond
 These reefs form the bond
 Between all living things
 That peace and order brings.
@@ -150,11 +150,11 @@ Both humble and divine.
 
 In every coral branch
 And every firm stanch
-Foundation built with care
-Lives beauty everywhere.
+{{c|Foundation}} built with care
+{{c|Lives}} beauty everywhere.
 
 The shoals of fish so bright
-Dance in the crystal light
+{{c|Dance}} in the crystal light
 That filters through the reef
 Beyond all belief.
 
@@ -168,7 +168,7 @@ Live in ways most moral,
 Each helping other grow
 In partnership's flow.
 
-The Bryozoans small
+The {{c|Bryozoans}} small
 Build cities, one and all,
 Upon the coral's frame
 To share in nature's game.
@@ -176,17 +176,17 @@ To share in nature's game.
 The fish find shelter here
 From predators they fear,
 While hunters find their prey
-Throughout the night and day.
+{{c|Throughout}} the night and day.
 
 And so economy
 Grew in perfect harmony
-Under wise Ordovices
+Under wise {{c|Ordovices}}
 Whose rule brought life its prizes.
 
 He became known through time
-As "Ordovices the Prime"
+As "{{c|Ordovices}} the {{c|Prime}}"
 Of wisdom, and his boom
-Dispelled all sense of doom
+{{c|Dispelled}} all sense of doom
 
 That hung over the past
 When extinctions last
@@ -195,8 +195,8 @@ And stole away its breath.
 
 This boom became the name
 Of GOBE—greatest fame
-The Great Ordovician
-Event, magician
+The Great {{c|Ordovician}}
+{{c|Event}}, magician
 
 Of biodiversity
 That brought complexity
@@ -206,21 +206,21 @@ To every sea and shore.
 The life within the seas
 Became what always pleased
 The heart that loves to see
-Life's creativity.
+{{c|Life}}'s creativity.
 
 More prosperous it grew
 With species old and new
-Finding their perfect place
+{{c|Finding}} their perfect place
 In evolution's race.
 
 And it would only grow
-Greater, as we know,
+{{c|Greater}}, as we know,
 More prosperous and bright
-Under Ordovician might.
+Under {{c|Ordovician}} might.
 
 Under the great dynasty
 Of wisdom's sovereignty
-'Twas the first Golden Age
+'{{c|Twas}} the first {{c|Golden}} {{c|Age}}
 In life's eternal page.
 
 The reefs became the heart
@@ -228,12 +228,12 @@ Of nature's living art
 Where beauty and function
 Met in perfect junction.
 
-From Leviathan's wise choice
+From {{c|Leviathan}}'s wise choice
 To let peace be his voice
 Instead of war and strife
 Came this abundant life.
 
-His son Ordovices
+His son {{c|Ordovices}}
 Built cities that are prizes
 Still today we see
 In reef's complexity.
@@ -244,8 +244,8 @@ Yet working as a whole
 To play its vital role,
 
 Show us how to build
-Communities that yield
-Prosperity for all
+{{c|Communities}} that yield
+{{c|Prosperity}} for all
 Who answer wisdom's call.
 
 In every living reef
@@ -263,8 +263,8 @@ The symphony therein
 Of life in all its forms
 Through calm and raging storms.
 
-The Ordovician way
-Lives on to this day
+The {{c|Ordovician}} way
+{{c|Lives}} on to this day
 In every coral city
 Both grand and gritty
 
@@ -273,7 +273,7 @@ In perfect harmony
 Of form and function blessed
 By wisdom's gentle rest.
 
-From Leviathan's peace
+From {{c|Leviathan}}'s peace
 To reefs that never cease
 To grow in beauty bright,
 We see that might
@@ -283,17 +283,17 @@ But in the gentle word
 That builds instead methodically
 That tears so wreck systematically.
 
-The first Golden Age
+The first {{c|Golden}} {{c|Age}}
 Wrote upon history's page
 The lesson clear and true:
 That what we choose to do
 
 With power in our hands
-Determines if the lands
+{{c|Determines}} if the lands
 And seas will flourish well
 Or under curses dwell.
 
-Ordovices chose to build
+{{c|Ordovices}} chose to build
 And his wisdom filled
 The world with life so bright
 It still brings us delight.
@@ -303,9 +303,9 @@ And every sacred oath
 To build and not destroy,
 We find life's truest joy.
 
-The Great Ordovician
-Biodiversification
-Event shows what can come
+The Great {{c|Ordovician}}
+{{c|Biodiversification}}
+{{c|Event}} shows what can come
 When wisdom's ways we sum
 
 Into our daily choice
@@ -320,15 +320,15 @@ When reason was in rhyme
 
 With nature's deepest law:
 That beauty without flaw
-Comes not from force and might
+{{c|Comes}} not from force and might
 But from love's gentle sight
 
 That sees in every creature
 A perfect, special feature
-Worth protecting well
+{{c|Worth}} protecting well
 As stories always tell
 
-Of Leviathan's son
+Of {{c|Leviathan}}'s son
 Whose work is never done
 As long as reefs still grow
 In beauty's endless flow.
