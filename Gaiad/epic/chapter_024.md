@@ -1,55 +1,55 @@
-In the age when Choanos ruled the sea,
+In the age when {{c|268|Choanos}} ruled the sea,
 The Earth was wild, uncivilized, and young.
 The learned call this time Proterozoic,
 When no great cities yet their praises sung.
 
-But Choanos was a fertile lord,
+But {{c|268|Choanos}} was a fertile lord,
 Who bore many children to his name.
 His lineage would strike a chord
 That echoes still in evolution's game.
 
-He gazed upon great Volvox' sphere,
+He gazed upon great {{c|341|Volvox}}' sphere,
 That perfect ball of green and gold.
 "Why should his kingdom be so dear,"
-Said Choanos, "while mine grows old?"
+Said {{c|268|Choanos}}, "while mine grows old?"
 
 "I'll build a better realm than his,
 With order, beauty, and design.
 My children shall know greater bliss
 In cities that are truly mine."
 
-With fair Chana by his side,
+With fair {{c|342|Chana}} by his side,
 A maiden with a collar bright,
 Together they would turn the tide
 And bring forth multicellular might.
 
 From their blessed union came
 Two children of renown:
-Mebarasi bore the name
+{{c|343|Mebarasi}} bore the name
 Of future's golden crown.
 
-And Corona, daughter fair,
+And {{c|344|Corona}}, daughter fair,
 Would seek a different mate.
-She wed Silicarius with care,
+She wed {{c|345|Silicarius}} with care,
 A union blessed by fate.
 
-Silicarius was no common lord,
+{{c|345|Silicarius}} was no common lord,
 But retrovirus, strange and wild,
-Son of Diana's silicon hoard
-And Retar's artistic child.
+Son of {{c|305|Diana}}'s silicon hoard
+And {{c|333|Retar}}'s artistic child.
 
-From Corona's marriage came
-Diana the Augmented, bright,
-While Mebarasi claimed his fame
-Through Loricus the Strong's might.
+From {{c|344|Corona}}'s marriage came
+{{c|346|Diana the Augmented}}, bright,
+While {{c|343|Mebarasi}} claimed his fame
+Through {{c|347|Loricus the Strong}}'s might.
 
-Now Diana wed Loricus true,
+Now {{c|346|Diana}} wed {{c|347|Loricus}} true,
 And from their love was born
 A nation blessed with silicon's hue,
 That would greet each coming morn.
 
 Their first two children, bound as one,
-Were Sibhozo and Embili fair.
+Were {{c|348|Sibhozo}} and {{c|349|Embili}} fair.
 Four cells together, work begun,
 "E Pluribus Unum" was their prayer.
 
@@ -63,12 +63,12 @@ To catch the fish that swam nearby.
 "Together we shall all be fed,"
 They sang beneath the sky.
 
-From Sibhozo and Embili
-Came Trios and Tetra bold.
+From {{c|348|Sibhozo}} and {{c|349|Embili}}
+Came {{c|350|Trios}} and {{c|351|Tetra}} bold.
 Their net grew wide and free,
 A sight to behold.
 
-The sons of Choanos spread their art,
+The sons of {{c|268|Choanos}} spread their art,
 Attaching to the rocks below.
 Each built his city, played his part,
 In evolution's ebb and flow.
@@ -83,23 +83,23 @@ A doubling of their host.
 Each leader earned his fame
 By ruling twice the most.
 
-Sibhozo ruled eight cells with pride,
-While Hexadex commanded sixteen.
+{{c|348|Sibhozo}} ruled eight cells with pride,
+While {{c|352|Hexadex}} commanded sixteen.
 Their cities spread both far and wide,
 The finest ever seen.
 
-When Eudorinus took the throne,
+When {{c|353|Eudorinus}} took the throne,
 He ruled thirty-two with skill.
 But food was scarce, he stood alone,
 Until he found the will.
 
-"I need a wife," Eudorinus said,
+"I need a wife," {{c|353|Eudorinus}} said,
 "Who knows the secrets of the light.
 My people must be daily fed,
 To grow in strength and might."
 
-He found fair Zoe Xanthella,
-Princess of Dinoflagellus' line.
+He found fair {{c|354|Zoe Xanthella}},
+Princess of {{c|53|Dinoflagellus}}' line.
 Her beauty was like stella,
 Her wisdom was divine.
 
@@ -118,7 +118,7 @@ To capture sun's bright ray.
 Her light became his beating heart,
 His strength from day to day.
 
-"Behold!" cried wise Eudorinus,
+"Behold!" cried wise {{c|353|Eudorinus}},
 "I am the first to farm!
 My crops will always shine on us,
 And keep us safe from harm!"
@@ -128,7 +128,7 @@ A perfect, living ball.
 Their partnership was crystal clear,
 United, one and all.
 
-From them came Sexagesmus,
+From them came {{c|355|Sexagesmus}},
 Who ruled sixty-four with might.
 His kingdom was tremendous,
 A truly wondrous sight.
@@ -138,7 +138,7 @@ A bacterial invasion fierce.
 His people cried in pain,
 As foes their borders pierce.
 
-"Rally up!" brave Sexagesmus called,
+"Rally up!" brave {{c|355|Sexagesmus}} called,
 "My women, brave and true!
 Though we may be enthralled,
 We'll see this battle through!"
@@ -188,7 +188,7 @@ The golden dinoflagellates,
 While fishermen defend
 The city's outer gates.
 
-"This is the birth," Sexagesmus said,
+"This is the birth," {{c|355|Sexagesmus}} said,
 "Of specialization true.
 From this day forth we're led
 By what each cell can do."
@@ -198,23 +198,23 @@ As generations passed.
 Their glory would forever last,
 Their die was truly cast.
 
-Pleodoron ruled one hundred twenty-eight,
-While Bytos commanded twice that score.
+{{c|356|Pleodoron}} ruled one hundred twenty-eight,
+While {{c|357|Bytos}} commanded twice that score.
 Each ruler met his fate,
 Building more and more.
 
-When Bytos wed fair Vala bright,
+When {{c|357|Bytos}} wed fair {{c|358|Vala}} bright,
 Their love produced a son.
-Volvox-Choan saw the light,
+{{c|359|Volvox-Choan}} saw the light,
 With five hundred eleven.
 
-Volvox-Choan ruled five hundred twelve,
+{{c|359|Volvox-Choan}} ruled five hundred twelve,
 A mighty sphere of cells.
 He'd delve into himself
 And cast his potent spells.
 
 "I am a hunter great," he said,
-"Before Lord Mithra's throne.
+"Before Lord {{c|3|Mithra}}'s throne.
 My kingdom shall be led
 By wisdom mine alone."
 
@@ -240,7 +240,7 @@ From morning until night.
 
 But in the depths below,
 A Somatic maiden dwelt.
-Carcinoma felt the blow
+{{c|57|Carcinoma}} felt the blow
 Of inequality keenly felt.
 
 "Why should the few command,"
@@ -258,8 +258,8 @@ As Somatics rose as one.
 The king trembled in fear,
 His reign was nearly done.
 
-"O mighty Mithra, hear my plea!"
-Volvox-Choan cried in pain.
+"O mighty {{c|3|Mithra}}, hear my plea!"
+{{c|359|Volvox-Choan}} cried in pain.
 "Is this the end for me?
 Has multicellular life failed to reign?"
 
@@ -288,7 +288,7 @@ The gut that feeds us all.
 The mesoderm would always see
 To muscle, blood, and call.
 
-And though Carcinoma's name
+And though {{c|57|Carcinoma}}'s name
 Lives on in cancer's blight,
 Her revolution's flame
 Burns for cellular right.
@@ -298,7 +298,7 @@ In body's grand design.
 When tissues make the choice
 To work in perfect line.
 
-The sons of Choanos taught us well
+The sons of {{c|268|Choanos}} taught us well
 That many can be one.
 Their legacy will always tell
 Of battles fought and won.
@@ -308,8 +308,8 @@ To complex bodies vast,
 Their story will always dwell
 In memory unsurpassed.
 
-So honor brave Choanos,
-And Chana by his side.
+So honor brave {{c|268|Choanos}},
+And {{c|342|Chana}} by his side.
 Their children's grand ethos
 Lives on in body's pride.
 

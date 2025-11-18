@@ -1,5 +1,5 @@
 But peace would not endure for long,
-Dark Hilluhengweh watched from space afar.
+Dark {{c|317|Hilluhengweh}} watched from space afar.
 His jealous heart burned fierce and strong,
 To bring again chaotic war.
 
@@ -14,21 +14,21 @@ It broke the ocean's living spell,
 And left most lineages destroyed.
 
 The seas that once were crimson red
-With Rhodes' children everywhere,
+With {{c|291|Rhodes}}' children everywhere,
 Now held the corpses of the dead,
 While few survivors gasped for air.
 
 Of all the mighty red algae,
 But two souls lived through that dark hour:
-Brave Lifthasir and fair Embla,
+Brave {{c|318|Lifthasir}} and fair {{c|319|Embla}},
 They'd rebuild with what little power.
 
-"We are alone," wept fair Embla,
+"We are alone," wept fair {{c|319|Embla}},
 "Our mighty kingdom lies in ruins.
 How can we restore the formula
 That made our line's great communions?"
 
-"Fear not," said brave Lifthasir,
+"Fear not," said brave {{c|318|Lifthasir}},
 "Though few we are, we'll carry on.
 Our children shall the race restore,
 Though much of our great lore is gone."
@@ -39,7 +39,7 @@ The genetic loss left them behind,
 Their scrolls degraded, traditions scary.
 
 Among their offspring came a queen,
-Fair Florida with her consort true.
+Fair {{c|320|Florida}} with her consort true.
 They built the kingdom Floridea,
 But simple, not the glory they once knew.
 
@@ -60,26 +60,26 @@ Now only ruins stand alone.
 
 Yet in this post-apocalyptic time,
 When most had fallen to despair,
-Great Rhizar found his chance to climb,
+Great {{c|265|Rhizar}} found his chance to climb,
 And thrive in the poisoned air.
 
 "The old order has passed away,"
-Bold Rhizar spoke with vision clear.
+Bold {{c|265|Rhizar}} spoke with vision clear.
 "Now is the hour, now is the day,
 For new lineages to appear!"
 
-Rhizar bore two sons of might:
-Great Nephillus and wise Filoses.
+{{c|265|Rhizar}} bore two sons of might:
+Great {{c|321|Nephillus}} and wise {{c|322|Filoses}}.
 Each would walk a different sight,
 As evolution's wheel composes.
 
-Filoses bore two children bright:
-Bold Chlorar and Thaumatus keen.
+{{c|322|Filoses}} bore two children bright:
+Bold {{c|323|Chlorar}} and {{c|324|Thaumatus}} keen.
 They'd face the world with all their might,
 And build new realms where none had been.
 
-Now Chlorar sought a different way,
-He wed a daughter of Virita.
+Now {{c|323|Chlorar}} sought a different way,
+He wed a daughter of {{c|325|Virita}}.
 "From their union," he did say,
 "Shall come algae's new margarita."
 
@@ -88,13 +88,13 @@ Though not through ancient, stolen light.
 They'd capture sun through their own eyes,
 And make their lineage burning bright.
 
-But Thaumatus chose a stranger path,
+But {{c|324|Thaumatus}} chose a stranger path,
 His sons were amoebae diverse.
 Some bore shells to ward off wrath,
 Others flowed like living verse.
 
-Among Thaumatus' children came
-One Paul, who envied others' power.
+Among {{c|324|Thaumatus}}' children came
+One {{c|326|Paul}}, who envied others' power.
 "Why can't I play the photosynthetic game?"
 He brooded through each passing hour.
 
@@ -103,42 +103,42 @@ To gain the gift of solar might.
 He watched the heliozoans' pride,
 But chose to walk a different sight.
 
-At last his descendant Paulinellus
-Found a daughter of Saya's line.
+At last his descendant {{c|327|Paulinellus}}
+Found a daughter of {{c|49|Saya}}'s line.
 "I'll wed her," he said, "and thus
 Make photosynthetic power mine!"
 
 And so the second time in history,
 Cyanobacteria joined a host.
 This rare endosymbiotic mystery
-Would be Paulinellus' boast.
+Would be {{c|327|Paulinellus}}' boast.
 
 "Behold!" he cried with joy supreme,
 "I've broken evolution's rule!
 The solar power, once a dream,
 Now makes me nature's blessed fool!"
 
-Meanwhile great Nephillus the strong
+Meanwhile great {{c|321|Nephillus}} the strong
 Bore children of a different breed:
-Vampyrellida, fierce and long,
-And Testatus, built for need.
+{{c|328|Vampyrellida}}, fierce and long,
+And {{c|329|Testatus}}, built for need.
 
-Vampyrellida burned with heliozoan zeal,
+{{c|328|Vampyrellida}} burned with heliozoan zeal,
 Her spines reached out like solar fire.
 "The sun's bright power I shall steal!"
 She cried with vampiric desire.
 
-But Testatus chose protection's way,
+But {{c|329|Testatus}} chose protection's way,
 He built himself a mighty shell.
 "Within my fortress I shall stay,
 And weather every storm and swell."
 
-From Testatus came two sons apart:
-Great Radios with geometric crown,
-And Gromius with massive heart,
+From {{c|329|Testatus}} came two sons apart:
+Great {{c|330|Radios}} with geometric crown,
+And {{c|331|Gromius}} with massive heart,
 The largest cells around.
 
-Bold Radios floated like a sun,
+Bold {{c|330|Radios}} floated like a sun,
 His shell was geometric art.
 With tentacles he caught each one
 That came within his watery part.
@@ -148,17 +148,17 @@ Within his protective embrace.
 He gave them shelter, sweet release,
 A symbiotic dwelling place.
 
-"Come dwell with me," great Radios said,
+"Come dwell with me," great {{c|330|Radios}} said,
 "I'll give you safety from the storm.
 Within my shell you'll make your bed,
 And keep each other safe and warm."
 
-But mighty Gromius chose size,
+But mighty {{c|331|Gromius}} chose size,
 He grew beyond all measure vast.
 His body reached enormous prize,
 With nuclei unsurpassed.
 
-"I'll be so large," great Gromius boasted,
+"I'll be so large," great {{c|331|Gromius}} boasted,
 "That giants' eyes can see my form!
 My millions of nuclei will be hosted
 In chambers weathering every storm!"
@@ -168,42 +168,42 @@ His waste piled up within his cell.
 Though his body grew mighty and strong,
 His garbage made a living hell.
 
-"Alas," sighed Gromius in dismay,
+"Alas," sighed {{c|331|Gromius}} in dismay,
 "My greatness comes with bitter cost.
 My waste I cannot cast away,
 In my own filth I am lost."
 
-From Radios came three sons of fame:
-Great Zancleus who shed his shell,
-Wise Retar the artist's name,
-And Acanthar who forged so well.
+From {{c|330|Radios}} came three sons of fame:
+Great {{c|332|Zancleus}} who shed his shell,
+Wise {{c|333|Retar}} the artist's name,
+And {{c|334|Acanthar}} who forged so well.
 
-Zancleus joined with Helios' clan,
+{{c|332|Zancleus}} joined with {{c|315|Helios}}' clan,
 He cast aside his protective home.
 "A warrior I shall be, not man
 Who hides beneath a sheltered dome!"
 
-But Retar chose the artist's way,
+But {{c|333|Retar}} chose the artist's way,
 He built shells of beauty rare.
 His opal works still shine today,
 With geometric patterns fair.
 
-From Retar came two sons of note:
-Bold Foramer with chambers grand,
-And Polycyston, who wrote
+From {{c|333|Retar}} came two sons of note:
+Bold {{c|335|Foramer}} with chambers grand,
+And {{c|336|Polycyston}}, who wrote
 His beauty in opal band.
 
-Great Foramer built rooms galore,
+Great {{c|335|Foramer}} built rooms galore,
 Each chamber for a different need.
 His house grew evermore,
 A testament to his seed.
 
 Among his children came three wise:
-Great Nummulus of the coin,
-Fair Esther with her gentle eyes,
-And Monoth, master of the join.
+Great {{c|337|Nummulus}} of the coin,
+Fair {{c|119|Esther}} with her gentle eyes,
+And {{c|338|Monoth}}, master of the join.
 
-Nummulus became the lord
+{{c|337|Nummulus}} became the lord
 Of currency and golden trade.
 His coin-like shells were the reward
 Of every deal that he had made.
@@ -213,19 +213,19 @@ Of every deal that he had made.
 In markets where the living bread
 Is traded for prosperity."
 
-But Monoth chose a grander scheme,
+But {{c|338|Monoth}} chose a grander scheme,
 He built a kingdom ever-growing.
 Each son fulfilled his father's dream,
 New rooms and chambers flowing.
 
-Some sons of Monoth broke away,
+Some sons of {{c|338|Monoth}} broke away,
 And founded kingdoms of their own.
 The Xenophylophores today
 Still rule from their giant throne.
 
 Among them came two children bright:
-Bold Spiculus with spines so sharp,
-And fair Oceana, ocean's light,
+Bold {{c|339|Spiculus}} with spines so sharp,
+And fair {{c|340|Oceana}}, ocean's light,
 Who plays the sea's sweet harp.
 
 These giants of the microscopic world
@@ -238,7 +238,7 @@ And life found ways to thrive once more,
 The lesson of the gamma told
 Of chaos knocking at the door.
 
-For Hilluhengweh was not done,
+For {{c|317|Hilluhengweh}} was not done,
 His hatred burned like stellar fire.
 He'd strike again when time would come,
 To feed his dark desire.
@@ -248,7 +248,7 @@ Through devastation it would grow.
 Each lineage brilliant
 Would face whatever winds might blow.
 
-The children of great Rhizar's line
+The children of great {{c|265|Rhizar}}'s line
 Had shown that from destruction's hour,
 New beauty could arise and shine
 With evolutionary power.
@@ -258,7 +258,7 @@ Who built new kingdoms from the ruins.
 Their legacy will ever last,
 Through all time's dark communions.
 
-From Hilluhengweh's gamma ray
+From {{c|317|Hilluhengweh}}'s gamma ray
 Came not just death, but life renewed.
 The survivors of that dark day
 Would see their lineages pursued.
