@@ -1,9 +1,9 @@
-As sons of Cambrius grew in might
+As sons of {{c|86|Cambrius}} grew in might
 Across the world both day and night,
-All sons of Bios felt the change
+All sons of {{c|22|Bios}} felt the change
 Throughout their ancient range.
 
-The sons of Cubos and Scyphos rose
+The sons of {{c|69|Cubos}} and {{c|70|Scyphos}} rose
 To challenge all their foes.
 Their guerrilla war began
 That day when time began.
@@ -13,8 +13,8 @@ To hunt their living prey.
 Their ancient raid shall never cease
 Until they find their peace.
 
-Among great Demos' sponge-born line
-Came Cyath, builder fine.
+Among great {{c|58|Demos}}' sponge-born line
+Came {{c|269|Cyath}}, builder fine.
 Great cities he built 'cross the seas—
 The reefs beneath the breeze.
 

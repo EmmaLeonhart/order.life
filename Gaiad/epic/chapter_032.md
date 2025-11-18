@@ -1,7 +1,7 @@
 In the age of patriarchs three,
-Dutrus, Ectus, Spiralius free,
+{{c|71|Dutrus}}, {{c|134|Ectus}}, {{c|113|Spiralius}} free,
 Among these lords of ancient might,
-Ectus was the fearsome sight.
+{{c|134|Ectus}} was the fearsome sight.
 
 With mouth agape and teeth so sharp,
 He played destruction's harp.

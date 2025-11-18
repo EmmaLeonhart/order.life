@@ -1,14 +1,14 @@
-When Cambrius and Spriggina died,
+When {{c|86|Cambrius}} and {{c|387|Spriggina}} died,
 Great heroes who had ruled with pride,
 Two sons were left to claim their throne:
-Bold Protos and Dutrus, each alone.
+Bold {{c|388|Protos}} and {{c|71|Dutrus}}, each alone.
 
 Each brother saw a different way
 To honor what their parents' legacy would say.
 The body plan that they had made
 Would be interpreted and obeyed.
 
-Great Protos looked upon the form
+Great {{c|388|Protos}} looked upon the form
 And said, "I'll keep the ancient norm.
 The first hole is the mouth so wide,
 The second is where waste will hide."

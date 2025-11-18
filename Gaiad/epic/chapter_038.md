@@ -1,9 +1,9 @@
-As sons of Chordatus grew
+As sons of {{c|75|Chordatus}} grew
 Their bloodlines strong and true,
-And Annelon's children spread
+And {{c|398|Annelon}}'s children spread
 Their segments widespread,
 
-The sons of Ambulus sought
+The sons of {{c|72|Ambulus}} sought
 The greatness they had fought
 To achieve through patient art
 And wisdom of the heart.
