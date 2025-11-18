@@ -15,8 +15,8 @@ For their ancestral line:
 
 {{c|441|Eurypter}} and {{c|443|Pulmona}}
 Bore children like none-a
-Other: Eurypteron
-And Styloner, begun
+Other: {{c|465|Eurypteron}}
+And {{c|466|Styloner}}, begun
 
 In rivalry so deep
 That none could ever keep
@@ -35,16 +35,16 @@ They could not decide
 
 Who would inherit all
 The world at honor's call.
-Eurypteron claimed skies
-While Styloner's eyes
+{{c|465|Eurypteron}} claimed skies
+While {{c|466|Styloner}}'s eyes
 
 Were set upon the land
 Built by his own hand.
-And so Eurypteron flew
+And so {{c|465|Eurypteron}} flew
 Across domains he knew
 
 Were his by right of birth
-While Styloner walked earth
+While {{c|466|Styloner}} walked earth
 And claimed each step he took
 According to the book
 
@@ -53,7 +53,7 @@ That neither brother saw
 The same way as the other
 Despite they shared one mother.
 
-The flight of Eurypteron
+The flight of {{c|465|Eurypteron}}
 Across the sky begun
 A dynasty of those
 Who ruled where wind blows
@@ -63,19 +63,19 @@ From moment of their birth
 To death's appointed day
 They'd rule in their own way.
 
-Eurypteron begat
+{{c|465|Eurypteron}} begat
 Two sons: first he begat
-Diploper the strong
-And Eurypterus, long
+{{c|467|Diploper}} the strong
+And {{c|468|Eurypterus}}, long
 
 In fertility beyond
 What any could respond
 To with equal measure—
 Their numbers were his treasure.
 
-Eurypterus was most
+{{c|468|Eurypterus}} was most
 Fertile of the host
-Of Silur's noble sons.
+Of {{c|426|Silur}}'s noble sons.
 In each generation begun
 
 His house would grow
@@ -88,15 +88,15 @@ In all of space and time.
 Myriad-fold they grew
 With offspring tried and true.
 
-Diploper begat two:
-Waeringos, tried and true,
-And Carcinos the strong
+{{c|467|Diploper}} begat two:
+{{c|469|Waeringos}}, tried and true,
+And {{c|470|Carcinos}} the strong
 Who lived his whole life long.
 
-Waeringos begat then
+{{c|469|Waeringos}} begat then
 Two sons beyond all ken:
-Humiller, strong and brave,
-And Adelops, who'd save
+{{c|471|Humiller}}, strong and brave,
+And {{c|472|Adelops}}, who'd save
 
 His line through numbers vast
 That would forever last.
@@ -108,8 +108,8 @@ Were resilient and true,
 Like bugs beneath the sea
 In their tenacity.
 
-Humiller married fair
-Pterra, beyond compare
+{{c|471|Humiller}} married fair
+{{c|473|Pterra}}, beyond compare
 In beauty and in grace,
 And in their dwelling place
 
@@ -119,11 +119,11 @@ Slender, fast, and sly,
 Who'd rule beneath the sky
 
 And in the depths below.
-They named him Slimon, though
+They named him {{c|474|Slimon}}, though
 His destiny was great
 Beyond what they could state.
 
-Slimon bore a son
+{{c|474|Slimon}} bore a son
 Whose work, when it was done,
 Would show the massive claws
 That grew according to laws
@@ -138,12 +138,12 @@ Clawbert, but then burst
 A strike of lightning bright
 That filled the world with sight.
 
-And Slimon took the sign
+And {{c|474|Slimon}} took the sign
 From powers divine
 And changed his son's name
-To Pterygo's fame.
+To {{c|475|Pterygo}}'s fame.
 
-The sons of Pterygo
+The sons of {{c|475|Pterygo}}
 Were rulers high and low
 Of all Eurypterids.
 Fast, strong, their power bids
@@ -154,7 +154,7 @@ Regal in their way,
 They ruled both night and day.
 
 His youngest son was one
-Called Scorpio, begun
+Called {{c|476|Scorpio}}, begun
 As explorer of the new,
 With vision clear and true.
 
@@ -168,7 +168,7 @@ To rule with all their might
 The territories vast
 That they held firmly fast.
 
-And so Scorpio looked
+And so {{c|476|Scorpio}} looked
 Up from his watery nook
 Out of the sea to land
 Built by no one's hand
@@ -178,7 +178,7 @@ By one who could be named
 The first to make the leap
 From waters dark and deep.
 
-Scorpio ventured up
+{{c|476|Scorpio}} ventured up
 Like warrior with cup
 Of courage in his heart
 To play the pioneer's part.
@@ -213,27 +213,27 @@ Built by their own hand
 From nothing into all
 That answers courage's call.
 
-Styloner married then
-Rhena, and the pen
+{{c|466|Styloner}} married then
+{{c|477|Rhena}}, and the pen
 Of fate would write their names
 In evolution's games.
 
 Together they bore two:
-Makoko, tried and true,
+{{c|478|Makoko}}, tried and true,
 And Stylonurus strong
 Who lived his whole life long.
 
-Makoko begat then
+{{c|478|Makoko}} begat then
 Two sons beyond all ken:
-Mycter and Kokomo,
+{{c|479|Mycter}} and {{c|480|Kokomo}},
 Each destined high to go.
 
-Mycter begat two more:
-Flumon to explore
+{{c|479|Mycter}} begat two more:
+{{c|481|Flumon}} to explore
 And Drepan, strong and true,
 Who different pathways knew.
 
-Flumon found no luck
+{{c|481|Flumon}} found no luck
 In seas where he was stuck
 With brothers and with cousins
 Who by the dozens
@@ -248,12 +248,12 @@ With current as his guide
 To find what he could claim
 For his ancestral name.
 
-Flumon begat two sons:
-Hibbert when day begun
-And Mycterops the strong
+{{c|481|Flumon}} begat two sons:
+{{c|482|Hibbert}} when day begun
+And {{c|483|Mycterops}} the strong
 Who lived his whole life long.
 
-Hibbert was a great
+{{c|482|Hibbert}} was a great
 River dweller whose fate
 Was to be tough and large,
 And he would take charge
@@ -278,7 +278,7 @@ Whatever brought them shame
 Or tried to break their will
 Upon the river's sill.
 
-Mycterops was strong
+{{c|483|Mycterops}} was strong
 And versatile life long.
 His two sons would continue
 The work he would begin to
@@ -293,22 +293,22 @@ Where none could see their faces
 But they would always find
 What fed both heart and mind.
 
-Megarachne and his brother
-Minirachne, like no other
+{{c|484|Megarachne}} and his brother
+{{c|485|Minirachne}}, like no other
 Pair ruled rivers wide
 With power and with pride.
 
-Sons of Mycterops,
+Sons of {{c|483|Mycterops}},
 They were the tops
 Of river royalty
 In their dynasty.
 
-But Minirachne was not
+But {{c|485|Minirachne}} was not
 Satisfied with his lot
 In rivers flowing free—
 He wanted more to see.
 
-Scorpio and Minirachne
+{{c|476|Scorpio}} and {{c|485|Minirachne}}
 Were always destined, see,
 To fight for the same prize:
 The land beneath the skies.
@@ -328,9 +328,9 @@ But never feel the breeze
 Of challenge call their name
 To play a greater game.
 
-Minirachne climbed up high
+{{c|485|Minirachne}} climbed up high
 Beneath the open sky
-With Tetra, his fair wife,
+With {{c|486|Tetra}}, his fair wife,
 To start a new life
 
 In the world of land
@@ -344,7 +344,7 @@ Would be remembered long
 In evolution's song.
 
 He came to conquer all
-The lands where Scorpio's call
+The lands where {{c|476|Scorpio}}'s call
 Had claimed the territory
 For his own story.
 
@@ -358,8 +358,8 @@ With their different designs
 On what the world should be
 For all eternity.
 
-From Eurypter's marriage
-To Pulmona's carriage
+From {{c|441|Eurypter}}'s marriage
+To {{c|443|Pulmona}}'s carriage
 Of their children into being
 Came this foreseeing
 
@@ -368,7 +368,7 @@ When all would be done
 And winners would be crowned
 And losers would be found.
 
-The sons of Eurypter
+The sons of {{c|441|Eurypter}}
 Would rise like Jupiter
 Above all other lines
 With their grand designs
@@ -408,8 +408,8 @@ By those who never cared
 To find a peaceful way
 To live from day to day.
 
-From Scorpio's bold climb
-To Minirachne's time
+From {{c|476|Scorpio}}'s bold climb
+To {{c|485|Minirachne}}'s time
 Of conquest and of war,
 The lesson from of lore
 
@@ -458,8 +458,8 @@ Along our mortal ways
 Where choice determines all
 Who answer life's great call.
 
-From Eurypter's flight
-To Scorpio's sight
+From {{c|441|Eurypter}}'s flight
+To {{c|476|Scorpio}}'s sight
 Of lands beyond the sea
 Where he could be
 
@@ -488,7 +488,7 @@ For you and me
 Who must decide each day
 Which path we'll take away.
 
-The sons of Eurypter
+The sons of {{c|441|Eurypter}}
 Like shining Jupiter
 Rose high above the rest
 And passed each mortal test
