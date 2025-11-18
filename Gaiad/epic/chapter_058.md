@@ -15,22 +15,22 @@ Together they became a blessed pair
 Who bore two sons of fame before they knew
 Their lives would spread throughout the earth and air.
 
-Ascus and Baston were their children's names,
+{{c|592|Ascus}} and {{c|593|Baston}} were their children's names,
 Both parasites alike upon the sons
 Of Plantus, where they'd strike like burning flames
 And take what served their needs when day begun.
 
-Ascus became the father of Cup Fungi,
+{{c|592|Ascus}} became the father of Cup Fungi,
 And rather than pursue some other way
 He chose to rule where forest floor grows green
 And stay within his realm throughout the day.
 
-Baston became the noble sire of those
+{{c|593|Baston}} became the noble sire of those
 Who rise as mushrooms from the forest ground,
 Their choir of voices singing as they rose
 From here forevermore with joyful sound.
 
-Ascus begat two sons of different ways:
+{{c|592|Ascus}} begat two sons of different ways:
 Taphrin at dawn and Saccharos so bright,
 Each chose to spend their long and faithful days
 In service to their own appointed sight.
@@ -55,7 +55,7 @@ With pneumocystis when our guards grow weak,
 When our defenses fail through loss or strain
 From what we ought to fear but do not seek.
 
-Saccharos, noble son of great Ascus,
+Saccharos, noble son of great {{c|592|Ascus}},
 Abandoned what his father's way begun
 And chose a path less parasitic, thus
 He found a different way when day was done.
@@ -145,7 +145,7 @@ Of those who'd rather live as soot mold does
 Throughout each day, and in their dwelling place
 They serve the world with quiet, faithful love.
 
-Baston begat two sons of different ways:
+{{c|593|Baston}} begat two sons of different ways:
 Ortho at dawn and bright Puccini too,
 Whose progeny would spend their faithful days
 As rusts with genomes large and life cycles new
