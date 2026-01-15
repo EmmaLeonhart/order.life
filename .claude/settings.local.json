@@ -5,7 +5,12 @@
       "Bash(git commit:*)",
       "WebFetch(domain:www.wikidata.org)",
       "WebSearch",
-      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" fetch_first_level_divisions.py)"
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" fetch_first_level_divisions.py)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" analyze_instance_types.py)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" analyze_property_coverage.py)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" enrich_divisions_csv.py)",
+      "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" check_p131_issue.py)",
+      "Bash(\"\n- Literals \\(coordinates, dates, IDs\\) stored directly\n\nKey properties included:\n- P17 country \\(97.8%\\), P625 coordinates \\(76.5%\\)\n- P36 capital \\(69.1%\\), P2046 area \\(67.3%\\), P1082 population \\(60.7%\\)\n- P18 image \\(49.4%\\), P571 inception \\(48.6%\\), P47 borders \\(48.6%\\)\n- P41 flag \\(30.5%\\), P94 coat of arms \\(32.6%\\), P1705 native label \\(30.2%\\)\n- Plus 38 more properties\n\nAlso adds check_p131_issue.py which investigates P131 values - most \\(69%\\)\ncorrectly point to countries, with some pointing to historical entities\nlike Ottoman eyalets/vilayets.\n\nOutput: first_level_divisions_enriched.csv \\(5MB, 52 columns\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
     ]
   }
 }
