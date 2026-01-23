@@ -357,6 +357,22 @@
         let currentYear = 12026;
         let selectedDay = 1;
 
+        // Check if an ISO year has 53 weeks
+        function hasWeek53(isoYear) {
+            // A year has 53 weeks if Jan 1 is Thursday, or Dec 31 is Thursday
+            // Equivalently: year starts on Thursday, or is a leap year starting on Wednesday
+            const jan1 = new Date(isoYear, 0, 1);
+            const dec31 = new Date(isoYear, 11, 31);
+            const jan1Day = jan1.getDay(); // 0=Sun, 4=Thu
+            const dec31Day = dec31.getDay();
+            return jan1Day === 4 || dec31Day === 4;
+        }
+
+        // Check if current Gaian year has Horus
+        function yearHasHorus(gaianYear) {
+            return hasWeek53(gaianYear - 10000);
+        }
+
         // Initialize
         document.addEventListener('DOMContentLoaded', () => {
             // Set to today's Gaian date
@@ -374,12 +390,23 @@
         function generateMonthSelector() {
             const container = document.getElementById('monthSelector');
             container.innerHTML = '';
+            const hasHorus = yearHasHorus(currentYear);
 
             MONTHS.forEach(month => {
                 const btn = document.createElement('button');
                 btn.className = 'month-btn' + (month.num === 14 ? ' intercalary' : '');
                 btn.textContent = `${month.symbol} ${month.name.substring(0, 3)}`;
-                btn.onclick = () => selectMonth(month.num);
+
+                // Disable Horus if year doesn't have week 53
+                if (month.num === 14 && !hasHorus) {
+                    btn.disabled = true;
+                    btn.style.opacity = '0.3';
+                    btn.style.cursor = 'not-allowed';
+                    btn.title = 'No Horus this year (no week 53)';
+                } else {
+                    btn.onclick = () => selectMonth(month.num);
+                }
+
                 container.appendChild(btn);
             });
         }
@@ -390,6 +417,10 @@
         }
 
         function selectMonth(month) {
+            // Prevent selecting Horus if year doesn't have it
+            if (month === 14 && !yearHasHorus(currentYear)) {
+                return;
+            }
             currentMonth = month;
             selectedDay = 1;
             document.getElementById('monthSelector').classList.remove('active');
@@ -399,21 +430,46 @@
 
         function changeMonth(delta) {
             currentMonth += delta;
-            if (currentMonth > 14) {
+
+            // Get max month for current year (13 or 14 depending on Horus)
+            const maxMonth = yearHasHorus(currentYear) ? 14 : 13;
+
+            if (currentMonth > maxMonth) {
                 currentMonth = 1;
                 currentYear++;
             } else if (currentMonth < 1) {
-                currentMonth = 14;
                 currentYear--;
+                // Check if previous year has Horus
+                currentMonth = yearHasHorus(currentYear) ? 14 : 13;
             }
+
+            // If we landed on Horus but year doesn't have it, adjust
+            if (currentMonth === 14 && !yearHasHorus(currentYear)) {
+                if (delta > 0) {
+                    currentMonth = 1;
+                    currentYear++;
+                } else {
+                    currentMonth = 13;
+                }
+            }
+
             selectedDay = 1;
             document.getElementById('yearInput').value = currentYear;
+            generateMonthSelector();
             renderCalendar();
             updateDisplay();
         }
 
         function setYear(year) {
             currentYear = parseInt(year);
+
+            // If on Horus but new year doesn't have it, go to Ophiuchus
+            if (currentMonth === 14 && !yearHasHorus(currentYear)) {
+                currentMonth = 13;
+                selectedDay = 1;
+            }
+
+            generateMonthSelector();
             renderCalendar();
             updateDisplay();
         }
