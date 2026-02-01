@@ -78,35 +78,35 @@ While {{c|Nectarius}} built a different throne.
 Through all the warming days,
 He made the complex cell his very own.
 
-For {{c|Nectarius}} wed fair {{c|Chlora}} bright,
-Who bore the gift of photosynthetic power.
-Their eldest son was {{c|Planta}}, filled with light,
+For {{c|Nectarius}} wed {{c|Ambrosia}} bright,
+Who bore the heirs of eukaryotic power.
+Their eldest son was {{c|Plantus}}, filled with light,
 Who turned the sun's rays into energy's flower.
 
-Their second child was {{c|Mycon}}, strange and wise,
-Who neither plant nor animal would be.
-With spores and threads beneath the forest skies,
-He built a fungal kingdom, wild and free.
+Their second child was {{c|Opima}} bold and wise,
+The huntress who would rule the restless sea.
+With warrior's heart beneath the ocean skies,
+She'd chase her prey through waters wild and free.
 
-Their third-born daughter, {{c|Protist}}, took the sea,
-And filled it with a thousand different forms.
-From amoeba to complex protozoa free,
-She weathered all of life's chaotic storms.
+Their third-born daughter, {{c|Cortica}}, knew the way
+To gather up the bounty of the earth.
+She'd harvest nutrients both night and day,
+And store the treasures of the ocean's worth.
 
-Their youngest son was {{c|Metazoa}} bold,
-Who dreamed of building bodies complex, vast.
-"No single cell," he said, "can ever hold
-The wonders I will build to ever last."
+Their youngest son was {{c|Animus}} the bold,
+Whose spirit burned with restless, moving fire.
+No single form his nature e'er could hold,
+His realm would be of motion and desire.
 
 Thus {{c|Nectarius}}, in his wisdom deep,
 Became the father of all complex life.
 His four great children, each their realm to keep,
 Cut through evolution's edge like sharpest knife.
 
-The plants would capture sunlight from above,
-The fungi would decay and break things down.
-The protists, free to wander, swim, and love,
-While animals would claim the sea and ground.
+Fair {{c|Plantus}} captured sunlight from above,
+While {{c|Opima}} hunted sea and ground.
+And {{c|Cortica}} would gather with her love,
+While {{c|Animus}} roamed where motion could be found.
 
 As ice retreated from the warming earth,
 And {{c|Snowball}} {{c|Earth}} gave way to liquid seas,
