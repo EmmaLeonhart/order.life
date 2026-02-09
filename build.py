@@ -15,9 +15,19 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from datetime import date
 
-# Fix Windows encoding
+# Fix Windows console encoding issues.
+# Some environments default to cp1252 and will crash when printing non-Latin text.
 if sys.platform == "win32":
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="backslashreplace")
+        sys.stderr.reconfigure(encoding="utf-8", errors="backslashreplace")
+    except Exception:
+        sys.stdout = io.TextIOWrapper(
+            sys.stdout.buffer, encoding="utf-8", errors="backslashreplace"
+        )
+        sys.stderr = io.TextIOWrapper(
+            sys.stderr.buffer, encoding="utf-8", errors="backslashreplace"
+        )
 
 SCRIPT_DIR = Path(__file__).parent
 SITE_DIR = SCRIPT_DIR / "site"
