@@ -31,6 +31,7 @@ if sys.platform == "win32":
 
 SCRIPT_DIR = Path(__file__).parent
 SITE_DIR = SCRIPT_DIR / "site"
+SITE_TMP_DIR = SCRIPT_DIR / "site_tmp"
 TEMPLATES_DIR = SCRIPT_DIR / "templates"
 CONTENT_DIR = SCRIPT_DIR / "content"
 EPIC_DIR = SCRIPT_DIR / "epic"
@@ -104,6 +105,15 @@ def load_translations():
         with open(lang_file, "r", encoding="utf-8") as f:
             translations[lang] = json.load(f)
     return translations
+
+
+def load_glossary():
+    """Load localized proper-noun equivalents from content/glossary.json."""
+    glossary_file = CONTENT_DIR / "glossary.json"
+    if not glossary_file.exists():
+        return {}
+    with open(glossary_file, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 
 def load_chapters():
@@ -329,6 +339,7 @@ window.location.href = target;
 def build_site():
     """Main build function."""
     translations = load_translations()
+    glossary = load_glossary()
     chapters = load_chapters()
     wiki_pages = load_wiki_pages()
     today = date.today()
@@ -367,26 +378,27 @@ def build_site():
         autoescape=select_autoescape(["html"]),
     )
 
-    # Clean output
-    if SITE_DIR.exists():
-        shutil.rmtree(SITE_DIR)
-    SITE_DIR.mkdir(parents=True)
+    # Clean output (build into a temp dir, then swap in)
+    if SITE_TMP_DIR.exists():
+        shutil.rmtree(SITE_TMP_DIR, ignore_errors=True)
+    SITE_TMP_DIR.mkdir(parents=True, exist_ok=True)
 
     # Copy static assets
     static_src = SCRIPT_DIR / "static"
-    static_dst = SITE_DIR / "static"
+    static_dst = SITE_TMP_DIR / "static"
     if static_src.exists():
         shutil.copytree(static_src, static_dst)
 
     # Build for each language
     for lang, t in translations.items():
         print(f"Building {lang}...")
-        lang_dir = SITE_DIR / lang
+        lang_dir = SITE_TMP_DIR / lang
         lang_dir.mkdir(parents=True, exist_ok=True)
 
         ctx = {
             "lang": lang,
             "t": t,
+            "g": glossary.get(lang, {}),
             "months": MONTHS,
             "elements": ELEMENT_THEMES,
             "weekdays_data": WEEKDAYS,
@@ -402,40 +414,40 @@ def build_site():
 
         # ── Calendar section ──
         cal_dir = lang_dir / "calendar"
-        cal_dir.mkdir(exist_ok=True)
+        cal_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "calendar/index.html", cal_dir / "index.html", ctx)
 
         # Datepicker as directory with index.html
         dp_dir = cal_dir / "datepicker"
-        dp_dir.mkdir(exist_ok=True)
+        dp_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "calendar/datepicker.html", dp_dir / "index.html", ctx)
 
         # Gaian Era as directory with index.html
         ge_dir = cal_dir / "gaian-era"
-        ge_dir.mkdir(exist_ok=True)
+        ge_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "calendar/gaian-era.html", ge_dir / "index.html", ctx)
 
         # Year page
         year_dir = cal_dir / "12026"
-        year_dir.mkdir(exist_ok=True)
+        year_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "calendar/year.html", year_dir / "index.html",
                     {**ctx, "display_year": 12026})
 
         # ── Weekday pages ──
         week_dir = cal_dir / "week"
-        week_dir.mkdir(exist_ok=True)
+        week_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "calendar/week-index.html", week_dir / "index.html",
                     {**ctx})
         for wd in WEEKDAYS:
             wd_dir = week_dir / wd["id"]
-            wd_dir.mkdir(exist_ok=True)
+            wd_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, "calendar/weekday.html", wd_dir / "index.html",
                         {**ctx, "weekday": wd})
 
         # ── Month pages ──
         for m in MONTHS:
             month_dir = cal_dir / m["id"]
-            month_dir.mkdir(exist_ok=True)
+            month_dir.mkdir(parents=True, exist_ok=True)
             days_in_month = 7 if m["num"] == 14 else 28
             wiki_month = month_wiki_content.get(m["id"], {})
             month_ctx = {
@@ -452,7 +464,7 @@ def build_site():
             # Day pages
             for d in range(1, days_in_month + 1):
                 day_dir = month_dir / f"{d:02d}"
-                day_dir.mkdir(exist_ok=True)
+                day_dir.mkdir(parents=True, exist_ok=True)
                 doy = day_of_year(m["num"], d)
                 wiki_day = day_wiki_content.get((m["id"], d), {})
                 day_ctx = {
@@ -470,13 +482,13 @@ def build_site():
 
         # ── Gaiad Scripture ──
         gaiad_dir = lang_dir / "gaiad"
-        gaiad_dir.mkdir(exist_ok=True)
+        gaiad_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "gaiad/index.html", gaiad_dir / "index.html",
                     {**ctx, "chapters": chapters})
 
         for ch_num in range(1, 365):
             ch_dir = gaiad_dir / f"{ch_num:03d}"
-            ch_dir.mkdir(exist_ok=True)
+            ch_dir.mkdir(parents=True, exist_ok=True)
             ch_month = ((ch_num - 1) // 28) + 1
             ch_day = ((ch_num - 1) % 28) + 1
             ch_ctx = {
@@ -493,16 +505,28 @@ def build_site():
         # ── Section pages ──
         for section in ["scripture", "mythology", "philosophy", "shrines", "longevity", "evolution"]:
             sec_dir = lang_dir / section
-            sec_dir.mkdir(exist_ok=True)
+            sec_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, f"sections/{section}.html", sec_dir / "index.html", ctx)
 
     # ── Root index (language selector) ──
-    render_page(env, "root.html", SITE_DIR / "index.html",
+    render_page(env, "root.html", SITE_TMP_DIR / "index.html",
                 {"languages": list(translations.keys()), "translations": translations})
 
     # ── Wiki Redirects ──
     print("Generating wiki redirects...")
-    generate_wiki_redirects(wiki_pages, list(translations.keys()))
+    # Note: generate_wiki_redirects writes into SITE_DIR; temporarily point it at temp.
+    global SITE_DIR
+    original_site_dir = SITE_DIR
+    SITE_DIR = SITE_TMP_DIR
+    try:
+        generate_wiki_redirects(wiki_pages, list(translations.keys()))
+    finally:
+        SITE_DIR = original_site_dir
+
+    # Swap temp build into place
+    if SITE_DIR.exists():
+        shutil.rmtree(SITE_DIR, ignore_errors=True)
+    shutil.move(str(SITE_TMP_DIR), str(SITE_DIR))
 
     print(f"\nBuild complete! Output in {SITE_DIR}")
     total = sum(1 for _ in SITE_DIR.rglob("*.html"))
