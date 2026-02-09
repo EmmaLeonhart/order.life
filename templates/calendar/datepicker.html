@@ -20,7 +20,7 @@
       <button class="btn" onclick="changePickerMonth(-1)">‹</button>
       <div style="text-align:center;">
         <button onclick="togglePickerMonths()" style="background:none;border:none;cursor:pointer;">
-          <span id="pickerMonthName" style="font-size:1.4em;font-weight:bold;color:var(--accent);"></span>
+          <a id="pickerMonthLink" href="#" style="font-size:1.4em;font-weight:bold;color:var(--accent); text-decoration:none;"></a>
         </button>
         <div id="pickerYear" style="color:var(--text-muted);"></div>
       </div>
@@ -99,10 +99,60 @@ function initPicker() {
   renderPicker();
 }
 
+function togglePickerMonths() {
+  const selector = document.getElementById('pickerMonthSelector');
+  const isHidden = selector.style.display === 'none' || selector.style.display === '';
+  selector.style.display = isHidden ? 'block' : 'none';
+}
+
+function renderPickerMonthSelector() {
+  const container = document.querySelector('#pickerMonthSelector > div');
+  if (!container) return;
+  container.innerHTML = '';
+
+  const hasHorus = yearHasHorus(pickerYear);
+
+  PICKER_MONTHS.forEach((m, idx) => {
+    const btn = document.createElement('button');
+    btn.className = 'btn';
+    btn.style.width = '100%';
+    btn.style.padding = '10px 6px';
+    btn.style.fontSize = '0.85em';
+    btn.style.background = 'rgba(255,255,255,0.05)';
+    btn.style.border = '1px solid var(--border)';
+    btn.style.color = 'var(--text)';
+    btn.textContent = (m.symbol || '') + ' ' + (MONTH_NAMES[m.id] || m.id);
+
+    const isHorus = m.num === 14;
+    if (isHorus && !hasHorus) {
+      btn.disabled = true;
+      btn.style.opacity = '0.35';
+      btn.style.cursor = 'not-allowed';
+      btn.title = 'No Horus this year (no week 53)';
+    } else {
+      btn.onclick = () => {
+        pickerMonth = m.num;
+        pickerSelectedDay = 1;
+        document.getElementById('pickerMonthSelector').style.display = 'none';
+        renderPicker();
+      };
+    }
+
+    if (idx + 1 === pickerMonth) {
+      btn.style.borderColor = 'var(--border-accent)';
+      btn.style.color = 'var(--accent)';
+    }
+
+    container.appendChild(btn);
+  });
+}
+
 function renderPicker() {
   const m = PICKER_MONTHS[pickerMonth - 1];
   const mName = MONTH_NAMES[m.id] || m.id;
-  document.getElementById('pickerMonthName').textContent = m.symbol + ' ' + mName;
+  const monthLink = document.getElementById('pickerMonthLink');
+  monthLink.textContent = m.symbol + ' ' + mName;
+  monthLink.href = '/' + LANG + '/calendar/' + m.id + '/';
   document.getElementById('pickerYear').textContent = pickerYear;
 
   const dim = pickerMonth === 14 ? 7 : 28;
@@ -110,6 +160,8 @@ function renderPicker() {
   grid.innerHTML = '';
 
   const today = gregorianToGaian(new Date());
+
+  renderPickerMonthSelector();
 
   for (let d = 1; d <= dim; d++) {
     const cell = document.createElement('a');
@@ -123,7 +175,7 @@ function renderPicker() {
     cell.href = '/' + LANG + '/calendar/' + m.id + '/' + String(d).padStart(2,'0') + '/';
     cell.innerHTML = '<span class="day-number">' + d + '</span>' +
       (doy <= 364 ? '<span class="day-chapter" style="font-size:0.55em;color:var(--text-dim);margin-top:1px;">' + doy + '</span>' : '');
-    cell.onclick = function(e) { e.preventDefault(); selectPickerDay(d); };
+    cell.onclick = function() { selectPickerDay(d); };
     grid.appendChild(cell);
   }
   updatePickerDisplay();
