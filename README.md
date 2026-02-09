@@ -6,13 +6,16 @@ Static website for **Lifeism** (命道教 / Order of Life) — a religion of uni
 
 ## What This Is
 
-A multilingual static website generator that produces the order.life website in 6 languages:
+A multilingual static website generator that produces the order.life website in 9 languages:
 - **en** English — Lifeism
 - **ja** Japanese — 命道教 (Inochi-no-Michikyō)
 - **zh** Chinese — 生命教 (Shēngmìngjiào)
 - **es** Spanish — Vidaísmo
 - **hi** Hindi — जीवनवाद (Jīvanavād)
 - **ar** Arabic — حياتية (Hayātiyya)
+- **fr** French — Viéisme
+- **ru** Russian — Жизнеизм (Zhizneizm)
+- **uk** Ukrainian — Життєїзм (Zhyttyeïzm)
 
 Language subdomains follow Wikipedia conventions: en.order.life, ja.order.life, etc.
 
@@ -23,9 +26,12 @@ Language subdomains follow Wikipedia conventions: en.order.life, ja.order.life, 
 | `/` | Language selector with live Gaian date |
 | `/{lang}/` | Homepage with today's date, core commitments |
 | `/{lang}/calendar/` | Gaian Calendar overview (13 months) |
-| `/{lang}/calendar/datepicker` | Interactive date picker |
+| `/{lang}/calendar/datepicker/` | Interactive date picker |
+| `/{lang}/calendar/gaian-era/` | Gaian Era explainer |
+| `/{lang}/calendar/week/` | Weekday index (7 sacred days) |
+| `/{lang}/calendar/week/{day}/` | Weekday page (monday-sunday) |
 | `/{lang}/calendar/{month}/` | Month page with day grid |
-| `/{lang}/calendar/{month}/{dd}/` | Day page with linked Gaiad chapter |
+| `/{lang}/calendar/{month}/{dd}/` | Day page with wiki content + Gaiad link |
 | `/{lang}/gaiad/` | Scripture index (364 chapters) |
 | `/{lang}/gaiad/{NNN}/` | Individual Gaiad chapter |
 | `/{lang}/scripture/` | Scripture overview |
@@ -34,7 +40,8 @@ Language subdomains follow Wikipedia conventions: en.order.life, ja.order.life, 
 | `/{lang}/shrines/` | 命神宮 Myōjingū shrines |
 | `/{lang}/longevity/` | Universal immortality & transhumanism |
 | `/{lang}/evolution/` | Evolution as sacred narrative |
-| `/wiki/*` | Redirects to evolutionism.miraheze.org |
+| `/{lang}/wiki/*` | Redirects to evolutionism.miraheze.org/wiki/{lang}:* |
+| `/wiki/*` | Redirects to evolutionism.miraheze.org/wiki/* (English) |
 
 ## The Gaian Calendar
 
@@ -48,7 +55,7 @@ Language subdomains follow Wikipedia conventions: en.order.life, ja.order.life, 
 
 A 364-chapter creation epic in iambic pentameter (ABAB rhyme scheme) telling the cosmic love story of Aster and Andromeda — from the Big Bang through evolution, human history, and cosmic reunion. One chapter per day of the Gaian year.
 
-Currently 62 chapters complete (Chapters 1-62: Cosmogony through Early Carboniferous).
+Currently 63 chapters complete (Chapters 1-63: Cosmogony through Early Carboniferous).
 
 ## Building
 
@@ -59,7 +66,7 @@ pip install jinja2
 python build.py
 ```
 
-Outputs static HTML to `site/` directory. ~4,500 pages across all languages.
+Outputs static HTML to `site/` directory. ~10,800 pages across all languages.
 
 ## Tech Stack
 
@@ -71,7 +78,7 @@ Outputs static HTML to `site/` directory. ~4,500 pages across all languages.
 
 - `build.py` — Site generator
 - `templates/` — Jinja2 HTML templates
-- `content/i18n/` — Translation JSON files (en, ja, zh, es, hi, ar)
+- `content/i18n/` — Translation JSON files (en, ja, zh, es, hi, ar, fr, ru, uk)
 - `static/` — CSS and JS assets
 - `epic/` — Gaiad epic chapters and reference materials
 - `planning/` — Architecture and doctrine documentation
@@ -80,4 +87,5 @@ Outputs static HTML to `site/` directory. ~4,500 pages across all languages.
 ## Connected Services
 
 - **Wiki**: evolutionism.miraheze.org (migrating to lifeism.miraheze.org)
-- The `/wiki/` path on order.life redirects to the Miraheze wiki
+- `/wiki/*` redirects to evolutionism.miraheze.org (English, no lang prefix)
+- `/{lang}/wiki/*` redirects with interwiki prefix (e.g. `ja:Title`, `hi:Title`)
