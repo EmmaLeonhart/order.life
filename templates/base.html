@@ -21,7 +21,7 @@
         <a href="/{{ lang }}/shrines/">{{ t.nav.shrines }}</a>
         <a href="/{{ lang }}/longevity/">{{ t.nav.longevity }}</a>
         <a href="/{{ lang }}/evolution/">{{ t.nav.evolution }}</a>
-        <a href="/wiki/Main_Page">{{ t.nav.wiki }}</a>
+        <a href="/{{ lang }}/wiki/Main_Page/">{{ t.nav.wiki }}</a>
       </div>
       <div class="nav-right">
         <div class="lang-switcher">
@@ -37,7 +37,7 @@
 
   <footer>
     <p>{{ t.religion_kanji }} · {{ t.religion_name }} · {{ t.site_title }}</p>
-    <p><a href="https://evolutionism.miraheze.org">Wiki</a></p>
+    <p><a href="/{{ lang }}/wiki/Main_Page/">{{ t.nav.wiki }}</a></p>
   </footer>
 
   {% block scripts %}{% endblock %}

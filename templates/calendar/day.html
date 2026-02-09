@@ -34,7 +34,7 @@
     {% if chapter_num %}
     <a href="/{{ lang }}/gaiad/{{ '%03d' % chapter_num }}/">{{ t.read_chapter }}: {{ t.gaiad }} {{ chapter_num }}</a>
     {% endif %}
-    <a href="/wiki/{{ month_display_name }}_{{ day_num }}/">{{ t.nav.wiki }}</a>
+    <a href="/{{ lang }}/wiki/{{ month_display_name }}_{{ day_num }}/">{{ t.nav.wiki }}</a>
   </div>
 
   {# Wiki overview content (holidays, traditions, etc.) #}

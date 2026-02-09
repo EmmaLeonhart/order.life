@@ -248,48 +248,61 @@ def day_of_year(month_num, day_in_month):
 
 # ── Wiki Redirect Generator ───────────────────────────────────────────────
 
-def generate_wiki_redirects(wiki_pages):
-    """Generate redirect HTML pages for all known wiki page titles."""
-    wiki_dir = SITE_DIR / "wiki"
-    wiki_dir.mkdir(parents=True, exist_ok=True)
-
+def generate_wiki_redirects(wiki_pages, languages):
+    """Generate language-aware wiki redirect HTML pages."""
     redirect_template = """<!DOCTYPE html>
 <html><head><meta charset="UTF-8">
 <title>Redirecting...</title>
-<meta http-equiv="refresh" content="0; url=https://evolutionism.miraheze.org/wiki/{encoded_title}">
-<script>window.location.href='https://evolutionism.miraheze.org/wiki/{encoded_title}';</script>
+<meta http-equiv="refresh" content="0; url={target}">
+<script>window.location.href='{target}';</script>
 </head><body style="background:#0f0f1a;color:#e0e0e0;font-family:sans-serif;display:flex;justify-content:center;align-items:center;height:100vh;">
-<p>Redirecting to <a href="https://evolutionism.miraheze.org/wiki/{encoded_title}" style="color:#ffd700;">Wiki: {title}</a>...</p>
+<p>Redirecting to <a href="{target}" style="color:#ffd700;">Wiki: {title}</a>...</p>
 </body></html>"""
 
-    # Main_Page redirect
-    main_page_dir = wiki_dir / "Main_Page"
-    main_page_dir.mkdir(exist_ok=True)
-    with open(main_page_dir / "index.html", "w", encoding="utf-8") as f:
-        f.write(redirect_template.format(title="Main Page", encoded_title="Main_Page"))
+    for lang in languages:
+        wiki_dir = SITE_DIR / lang / "wiki"
+        wiki_dir.mkdir(parents=True, exist_ok=True)
 
-    # Generate redirects for all wiki pages
-    for title in wiki_pages:
-        safe_title = title.replace(' ', '_')
-        page_dir = wiki_dir / safe_title
-        page_dir.mkdir(parents=True, exist_ok=True)
-        with open(page_dir / "index.html", "w", encoding="utf-8") as f:
+        def target_for(title):
+            safe_title = title.replace(' ', '_')
+            if lang == "en":
+                return f"https://evolutionism.miraheze.org/wiki/{safe_title}"
+            return f"https://evolutionism.miraheze.org/wiki/{lang}:{safe_title}"
+
+        # Main_Page redirect
+        main_page_dir = wiki_dir / "Main_Page"
+        main_page_dir.mkdir(exist_ok=True)
+        with open(main_page_dir / "index.html", "w", encoding="utf-8") as f:
             f.write(redirect_template.format(
-                title=title,
-                encoded_title=safe_title,
+                title="Main Page",
+                target=target_for("Main_Page"),
             ))
 
-    # Fallback index with JS redirect for unknown pages
-    with open(wiki_dir / "index.html", "w", encoding="utf-8") as f:
-        f.write("""<!DOCTYPE html>
+        # Generate redirects for all wiki pages
+        for title in wiki_pages:
+            safe_title = title.replace(' ', '_')
+            page_dir = wiki_dir / safe_title
+            page_dir.mkdir(parents=True, exist_ok=True)
+            with open(page_dir / "index.html", "w", encoding="utf-8") as f:
+                f.write(redirect_template.format(
+                    title=title,
+                    target=target_for(title),
+                ))
+
+        # Fallback index with JS redirect for unknown pages
+        with open(wiki_dir / "index.html", "w", encoding="utf-8") as f:
+            f.write(f"""<!DOCTYPE html>
 <html><head><meta charset="UTF-8"><title>Redirecting to Wiki...</title>
 <script>
-var path = window.location.pathname.replace(/^\\/wiki\\/?/, '').replace(/\\/$/, '');
-window.location.href = 'https://evolutionism.miraheze.org/wiki/' + (path || 'Main_Page');
+var path = window.location.pathname.replace(/^\\/{lang}\\/wiki\\/?/, '').replace(/\\/$/, '');
+if (!path) path = 'Main_Page';
+var target = 'https://evolutionism.miraheze.org/wiki/' + (path);
+if ('{lang}' !== 'en') target = 'https://evolutionism.miraheze.org/wiki/{lang}:' + path;
+window.location.href = target;
 </script>
-<noscript><meta http-equiv="refresh" content="0; url=https://evolutionism.miraheze.org/wiki/Main_Page"></noscript>
+<noscript><meta http-equiv="refresh" content="0; url={target_for('Main_Page')}"></noscript>
 </head><body style="background:#0f0f1a;color:#e0e0e0;font-family:sans-serif;display:flex;justify-content:center;align-items:center;height:100vh;">
-<p>Redirecting to <a href="https://evolutionism.miraheze.org/wiki/Main_Page" style="color:#ffd700;">Evolutionism Wiki</a>...</p>
+<p>Redirecting to <a href="{target_for('Main_Page')}" style="color:#ffd700;">Evolutionism Wiki</a>...</p>
 </body></html>""")
 
 
@@ -470,7 +483,7 @@ def build_site():
 
     # ── Wiki Redirects ──
     print("Generating wiki redirects...")
-    generate_wiki_redirects(wiki_pages)
+    generate_wiki_redirects(wiki_pages, list(translations.keys()))
 
     print(f"\nBuild complete! Output in {SITE_DIR}")
     total = sum(1 for _ in SITE_DIR.rglob("*.html"))
