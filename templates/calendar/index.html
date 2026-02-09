@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}{{ t.calendar_page.title }}{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ t.calendar_page.title }}</h1>
+  <p>{{ t.calendar_page.intro }}</p>
+</div>
+
+<div class="container">
+  <div class="gaian-date-display text-center mt-20" style="display: block;">
+    <div class="date-main gaian-date-live"
+         data-lang="{{ lang }}"
+         data-ge-abbrev="{{ t.gaian_era_abbrev }}"
+         data-base-path="/{{ lang }}">
+    </div>
+  </div>
+
+  <h2 class="text-center mt-40 mb-20" style="color: var(--accent);">{{ t.calendar_page.months_title }}</h2>
+  <p class="text-center mb-20" style="color: var(--text-muted);">{{ t.calendar_page.structure }}</p>
+
+  <div class="month-grid">
+    {% for m in months %}
+    <a href="/{{ lang }}/calendar/{{ m.id }}/" class="month-card {{ m.element }}" style="text-decoration:none; color: inherit;">
+      <div class="month-symbol">{{ m.symbol }}</div>
+      <div class="month-name">{{ t.months[m.id] }}</div>
+      <div class="month-info">
+        {% if m.num <= 13 %}28 {{ t.days }}{% else %}7 {{ t.days }}{% endif %}
+        · {{ t['element_' + m.element] }}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+
+  <p class="text-center mt-20" style="color: var(--text-muted); font-size: 0.9em;">
+    {{ t.calendar_page.intercalary }}
+  </p>
+
+  <div class="text-center mt-40">
+    <a class="btn" href="/{{ lang }}/calendar/datepicker">{{ t.nav.datepicker }}</a>
+    <a class="btn" href="/{{ lang }}/calendar/gaian-era" style="margin-left: 10px;">{{ t.gaian_era }}</a>
+  </div>
+</div>
+{% endblock %}

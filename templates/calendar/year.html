@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}{{ display_year }} {{ t.gaian_era_abbrev }} — {{ t.calendar_page.title }}{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ display_year }} {{ t.gaian_era_abbrev }}</h1>
+  <p>{{ t.gaian_era }} · Gregorian {{ display_year - 10000 }}</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="/{{ lang }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="/{{ lang }}/calendar/">{{ t.nav.calendar }}</a>
+    <span>›</span>
+    {{ display_year }}
+  </div>
+
+  <div class="section-content">
+    <h2>{{ t.calendar_page.months_title }}</h2>
+    <p>{{ t.calendar_page.structure }}</p>
+  </div>
+
+  <div class="month-grid">
+    {% for m in months %}
+    {% if m.num <= 13 %}
+    <a href="/{{ lang }}/calendar/{{ m.id }}/" class="month-card {{ m.element }}" style="text-decoration:none; color:inherit;">
+      <div class="month-symbol">{{ m.symbol }}</div>
+      <div class="month-name">{{ t.months[m.id] }}</div>
+      <div class="month-info">28 {{ t.days }}</div>
+    </a>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

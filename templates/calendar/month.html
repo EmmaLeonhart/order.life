@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+{% block title %}{{ month_display_name }} — {{ t.calendar_page.title }}{% endblock %}
+
+{% block content %}
+<div class="section-hero" style="border-left: 4px solid {{ element.color }};">
+  <h1>{{ month.symbol }} {{ month_display_name }}</h1>
+  <p>{{ t.month }} {{ month.num }} · {{ days_in_month }} {{ t.days }} · {{ t['element_' + month.element] }}</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="/{{ lang }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="/{{ lang }}/calendar/">{{ t.nav.calendar }}</a>
+    <span>›</span>
+    {{ month_display_name }}
+  </div>
+
+  <div class="days-grid">
+    {% for wd in t.weekdays %}
+    <div class="weekday-header">{{ wd }}</div>
+    {% endfor %}
+
+    {% for d in range(1, days_in_month + 1) %}
+    {% set doy = (month.num - 1) * 28 + d if month.num <= 13 else 364 + d %}
+    <a href="/{{ lang }}/calendar/{{ month.id }}/{{ '%02d' % d }}/"
+       class="day-cell{% if gaian_today.month == month.num and gaian_today.day == d %} today{% endif %}">
+      <span class="day-number">{{ d }}</span>
+      {% if doy <= 364 %}
+      <span class="day-chapter">{{ t.gaiad }} {{ doy }}</span>
+      {% endif %}
+    </a>
+    {% endfor %}
+  </div>
+
+  {% if month.num <= 13 %}
+  <div class="section-content">
+    <h2>{{ month_display_name }} {{ t.days }}</h2>
+    <p style="color: var(--text-muted);">
+      {% if month.num == 1 %}{{ t.months.sagittarius }}: {{ t.day }} 1–28. {{ t.gaiad }} 1–28.
+      {% elif month.num == 2 %}{{ t.months.capricorn }}: {{ t.day }} 29–56. {{ t.gaiad }} 29–56.
+      {% elif month.num == 3 %}{{ t.months.aquarius }}: {{ t.day }} 57–84. {{ t.gaiad }} 57–84.
+      {% elif month.num == 4 %}{{ t.months.pisces }}: {{ t.day }} 85–112. {{ t.gaiad }} 85–112.
+      {% elif month.num == 5 %}{{ t.months.aries }}: {{ t.day }} 113–140. {{ t.gaiad }} 113–140.
+      {% elif month.num == 6 %}{{ t.months.taurus }}: {{ t.day }} 141–168. {{ t.gaiad }} 141–168.
+      {% elif month.num == 7 %}{{ t.months.gemini }}: {{ t.day }} 169–196. {{ t.gaiad }} 169–196.
+      {% elif month.num == 8 %}{{ t.months.cancer }}: {{ t.day }} 197–224. {{ t.gaiad }} 197–224.
+      {% elif month.num == 9 %}{{ t.months.leo }}: {{ t.day }} 225–252. {{ t.gaiad }} 225–252.
+      {% elif month.num == 10 %}{{ t.months.virgo }}: {{ t.day }} 253–280. {{ t.gaiad }} 253–280.
+      {% elif month.num == 11 %}{{ t.months.libra }}: {{ t.day }} 281–308. {{ t.gaiad }} 281–308.
+      {% elif month.num == 12 %}{{ t.months.scorpius }}: {{ t.day }} 309–336. {{ t.gaiad }} 309–336.
+      {% elif month.num == 13 %}{{ t.months.ophiuchus }}: {{ t.day }} 337–364. {{ t.gaiad }} 337–364.
+      {% endif %}
+    </p>
+  </div>
+  {% endif %}
+</div>
+{% endblock %}

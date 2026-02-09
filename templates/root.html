@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>命 Order of Life — Lifeism</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+  <script src="/static/js/gaian-calendar.js" defer></script>
+</head>
+<body>
+  <div class="lang-selector-page">
+    <h1>命</h1>
+    <p class="subtitle">Order of Life · 命道教 · 生命教</p>
+
+    <div class="gaian-date-display" style="margin-bottom: 40px;">
+      <div class="date-main gaian-date-live" data-lang="en" data-base-path="/en">Loading...</div>
+    </div>
+
+    <div class="lang-buttons">
+      {% for l in languages %}
+      <a href="/{{ l }}/">
+        <strong>{{ translations[l].lang_native }}</strong>
+        <span>{{ translations[l].religion_name_native }}</span>
+        <span class="lang-code">{{ l }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</body>
+</html>

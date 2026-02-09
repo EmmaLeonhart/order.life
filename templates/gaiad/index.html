@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block title %}{{ t.gaiad_index.title }}{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ t.gaiad_index.title }}</h1>
+  <p>{{ t.gaiad_index.subtitle }}</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="/{{ lang }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    {{ t.gaiad }}
+  </div>
+
+  <div class="section-content">
+    <p>{{ t.gaiad_subtitle }}</p>
+  </div>
+
+  <h2 class="text-center mt-20 mb-20" style="color: var(--accent);">{{ t.gaiad_index.title }}: 364 {{ t.chapter }}s</h2>
+
+  {% for m in months %}
+  {% if m.num <= 13 %}
+  <h3 style="color: var(--accent); margin: 25px 0 10px;">
+    {{ m.symbol }} {{ t.months[m.id] }} ({{ t.chapter }}s {{ (m.num - 1) * 28 + 1 }}–{{ m.num * 28 }})
+  </h3>
+  <div class="chapter-list">
+    {% for d in range(1, 29) %}
+    {% set ch = (m.num - 1) * 28 + d %}
+    <a href="/{{ lang }}/gaiad/{{ '%03d' % ch }}/"
+       class="{% if ch in chapters %}available{% else %}unavailable{% endif %}">
+      {{ ch }}
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endblock %}

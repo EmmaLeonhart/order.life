@@ -1,21 +1,59 @@
 # order.life FastSite
 
-IMPORTANT
-Do not enter planning-only modes. All thinking must produce files and commits.
-if the scope is not immediately clear make the directory /planning and create many .md files there explaining the planning process instead of using your own planning mode
-please replace the PLACEHOLDER DESCRIPTION section of readme.md with a proper project summary as soon as the purpose of the repo is known. 
-## Project Context
-This is a new, empty repository created on -2026-02-09 - at 09:16 AM using the `new-repo.bat` bootstrapping tool.
-The intent is to use Claude Code to build and populate this project from scratch.
-
-## Workflow Guidelines
-- **Commit early and often.** Every meaningful change should be committed with a clear, descriptive summary that explains *why* the change was made, not just what changed.
-- **Keep this claude.md up to date.** As the project takes shape, update this file with architectural decisions, conventions, dependencies, and anything Claude needs to know to work effectively in this repo. It is not useful to keep the boostrapping project context info in claude.md once a project is up and running.
-- **Do not enter planning mode, please clearly edit the repo with every single architectural decision and even just thoughts you have. Commit them frequently, because commits can be easily undone**
-- **Please regularly update the human aimed readme.md to provide more context for a human user**
-
 ## Project Description
-_TODO: Describe what this project is about._
+Static site generator for order.life — the website of **Lifeism** (命道教 / Order of Life).
+Generates ~4,500 HTML pages across 6 languages from Jinja2 templates and JSON translation files.
 
-## Architecture and Conventions
-_TODO: Document key decisions, file structure, and patterns as they emerge._
+## Quick Commands
+- **Build site**: `python build.py` (outputs to `site/`)
+- **Requires**: Python 3 + Jinja2 (`pip install jinja2`)
+
+## Architecture
+
+### Build System
+- `build.py` — Main generator. Reads templates + translations + epic chapters, outputs static HTML to `site/`
+- Templates in `templates/` (Jinja2)
+- Translations in `content/i18n/*.json` (en, ja, zh, es, hi, ar)
+- Static assets in `static/css/` and `static/js/`
+- Epic chapters in `epic/chapter_NNN.md`
+
+### URL Structure (per language)
+```
+/{lang}/                          Homepage
+/{lang}/calendar/                 Calendar overview
+/{lang}/calendar/datepicker       Interactive datepicker
+/{lang}/calendar/{month}/         Month page (sagittarius, capricorn, etc.)
+/{lang}/calendar/{month}/{dd}/    Day page (01-28)
+/{lang}/gaiad/{NNN}/              Gaiad chapter (001-364)
+/{lang}/{section}/                Section pages (scripture, mythology, philosophy, shrines, longevity, evolution)
+/wiki/*                           Redirect to evolutionism.miraheze.org
+```
+
+### Gaian Calendar
+- 13 months x 28 days = 364 days + Horus intercalary (7 days, ISO week 53 years only)
+- Year = ISO week-year + 10,000 (Gaian Era)
+- Month IDs: sagittarius, capricorn, aquarius, pisces, aries, taurus, gemini, cancer, leo, virgo, libra, scorpius, ophiuchus, horus
+- Day N of year = Gaiad chapter N
+
+### Languages
+| Code | Name | Religion Name | RTL |
+|------|------|--------------|-----|
+| en | English | Lifeism | No |
+| ja | Japanese | 命道教 | No |
+| zh | Chinese | 生命教 | No |
+| es | Spanish | Vidaísmo | No |
+| hi | Hindi | जीवनवाद | No |
+| ar | Arabic | حياتية | Yes |
+
+### Key Branding
+- Symbol: 命 (life/destiny/command)
+- 命 replaces 神 in sacred contexts
+- Shrines: 命神宮 (Myōjingū)
+- Wiki: currently evolutionism.miraheze.org, migrating to lifeism.miraheze.org
+
+## Conventions
+- Commit early and often with descriptive messages
+- Keep README.md updated for human readers
+- All thinking produces files, not planning-only modes
+- Use `python` not `python3` on this Windows system
+- Use `C:\Users\Immanuelle\AppData\Local\Programs\Python\Python313\python.exe` for the Python with packages

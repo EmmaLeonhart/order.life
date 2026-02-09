@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}{{ t.scripture_page.title }}{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ t.scripture_page.title }}</h1>
+  <p>{{ t.scripture_page.intro }}</p>
+</div>
+
+<div class="container">
+  <div class="section-content">
+    <h2>{{ t.gaiad_index.title }}</h2>
+    <p>The Gaiad is a 364-chapter creation epic told in iambic pentameter with ABAB rhyme scheme. It chronicles the love story of Aster and Andromeda, two goddesses whose cosmic romance drives the creation and evolution of the entire universe.</p>
+    <p>One chapter is read per day of the Gaian year, creating a complete annual reading cycle that aligns with the calendar's seasonal and zodiacal themes.</p>
+
+    <blockquote>Once upon a time there was a catgirl<br>
+    Her name was Aster, and she had a ball,<br>
+    Of yarn she spun, with skill just like a pearl.<br>
+    She shaped the universe from void to all.</blockquote>
+
+    <div class="text-center mt-40">
+      <a class="btn" href="/{{ lang }}/gaiad/">{{ t.homepage.read_scripture }}</a>
+    </div>
+
+    <h2>Structure</h2>
+    <ul>
+      <li><strong>Part I</strong> (Chapters 1-62): Cosmogony — Universe creation through Early Carboniferous</li>
+      <li><strong>Part II</strong> (Chapters 63-200+): Tetrapod Heroic Cycle — Late Paleozoic through Mesozoic evolution</li>
+      <li><strong>Part III</strong> (Chapters 200+): Human Heroic Cycle — Cenozoic through human civilization and future</li>
+    </ul>
+
+    <h2>Daily Reading</h2>
+    <p>Each day of the Gaian Calendar corresponds to a chapter of the Gaiad. Sagittarius 1 = Chapter 1, Capricorn 1 = Chapter 29, and so on through Ophiuchus 28 = Chapter 364.</p>
+  </div>
+</div>
+{% endblock %}

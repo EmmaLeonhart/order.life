@@ -1,0 +1,173 @@
+{% extends "base.html" %}
+{% block title %}{{ t.nav.datepicker }} — {{ t.calendar_page.title }}{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ t.calendar_title }} {{ t.nav.datepicker }}</h1>
+</div>
+
+<div class="container" style="max-width: 500px;">
+  <div class="breadcrumb">
+    <a href="/{{ lang }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="/{{ lang }}/calendar/">{{ t.nav.calendar }}</a>
+    <span>›</span>
+    {{ t.nav.datepicker }}
+  </div>
+
+  <div style="margin-top: 20px;">
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:20px;">
+      <button class="btn" onclick="changePickerMonth(-1)">‹</button>
+      <div style="text-align:center;">
+        <button onclick="togglePickerMonths()" style="background:none;border:none;cursor:pointer;">
+          <span id="pickerMonthName" style="font-size:1.4em;font-weight:bold;color:var(--accent);"></span>
+        </button>
+        <div id="pickerYear" style="color:var(--text-muted);"></div>
+      </div>
+      <button class="btn" onclick="changePickerMonth(1)">›</button>
+    </div>
+
+    <div id="pickerMonthSelector" style="display:none; margin-bottom:20px;">
+      <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:8px;">
+      </div>
+    </div>
+
+    <div class="days-grid" id="pickerWeekdays">
+      {% for wd in t.weekdays %}
+      <div class="weekday-header">{{ wd }}</div>
+      {% endfor %}
+    </div>
+    <div class="days-grid" id="pickerDays"></div>
+
+    <div style="margin-top:25px; padding:20px; background:var(--bg-card); border-radius:12px; border:1px solid var(--border-accent);">
+      <div style="color:var(--text-muted); font-size:0.9em; margin-bottom:5px;">{{ t.today_is }}</div>
+      <div id="pickerSelected" style="font-size:1.3em; font-weight:bold; color:var(--accent);"></div>
+      <div id="pickerGregorian" style="font-size:0.9em; color:var(--text-muted); margin-top:5px;"></div>
+      <div style="margin-top:10px;">
+        <a id="pickerDayLink" href="#" class="btn" style="font-size:0.85em;">{{ t.read_chapter }}</a>
+      </div>
+    </div>
+
+    <div style="margin-top:15px; display:flex; align-items:center; gap:10px;">
+      <label style="color:var(--text-muted);">{{ t.year }}:</label>
+      <input type="number" id="pickerYearInput" value="12026" min="10001" max="19999"
+             onchange="setPickerYear(this.value)"
+             style="background:rgba(255,255,255,0.1); border:1px solid var(--border); color:#fff; padding:8px 12px; border-radius:8px; width:100px; font-size:1em; text-align:center;">
+    </div>
+  </div>
+</div>
+
+{% block scripts %}
+<script>
+const PICKER_MONTHS = {{ months | tojson }};
+const MONTH_NAMES = {{ t.months | tojson }};
+const LANG = '{{ lang }}';
+let pickerMonth = 1, pickerYear = 12026, pickerSelectedDay = 1;
+
+function hasWeek53(isoYear) {
+  const jan1 = new Date(isoYear, 0, 1);
+  const dec31 = new Date(isoYear, 11, 31);
+  return jan1.getDay() === 4 || dec31.getDay() === 4;
+}
+
+function yearHasHorus(gy) { return hasWeek53(gy - 10000); }
+
+function dateFromISOWeek(isoYear, week, dow) {
+  const jan4 = new Date(isoYear, 0, 4);
+  const d4dow = jan4.getDay() || 7;
+  const mon1 = new Date(jan4);
+  mon1.setDate(jan4.getDate() - d4dow + 1);
+  const r = new Date(mon1);
+  r.setDate(mon1.getDate() + (week-1)*7 + (dow-1));
+  return r;
+}
+
+function gaianToGreg(gy, gm, gd) {
+  const isoYear = gy - 10000;
+  const wim = Math.floor((gd-1)/7);
+  const dow = ((gd-1)%7)+1;
+  const week = (gm-1)*4 + wim + 1;
+  return dateFromISOWeek(isoYear, week, dow);
+}
+
+function initPicker() {
+  const today = gregorianToGaian(new Date());
+  pickerMonth = today.month;
+  pickerYear = today.year;
+  pickerSelectedDay = today.day;
+  document.getElementById('pickerYearInput').value = pickerYear;
+  renderPicker();
+}
+
+function renderPicker() {
+  const m = PICKER_MONTHS[pickerMonth - 1];
+  const mName = MONTH_NAMES[m.id] || m.id;
+  document.getElementById('pickerMonthName').textContent = m.symbol + ' ' + mName;
+  document.getElementById('pickerYear').textContent = pickerYear;
+
+  const dim = pickerMonth === 14 ? 7 : 28;
+  const grid = document.getElementById('pickerDays');
+  grid.innerHTML = '';
+
+  const today = gregorianToGaian(new Date());
+
+  for (let d = 1; d <= dim; d++) {
+    const cell = document.createElement('a');
+    const doy = pickerMonth <= 13 ? (pickerMonth-1)*28+d : 364+d;
+    cell.className = 'day-cell';
+    if (d === pickerSelectedDay) cell.style.background = 'linear-gradient(135deg, var(--accent), var(--accent-dark))';
+    if (d === pickerSelectedDay) cell.style.color = '#1a1a2e';
+    if (today.year === pickerYear && today.month === pickerMonth && today.day === d) {
+      cell.style.border = '2px solid var(--success)';
+    }
+    cell.href = '/' + LANG + '/calendar/' + m.id + '/' + String(d).padStart(2,'0') + '/';
+    cell.innerHTML = '<span class="day-number">' + d + '</span>' +
+      (doy <= 364 ? '<span class="day-chapter" style="font-size:0.55em;color:var(--text-dim);margin-top:1px;">' + doy + '</span>' : '');
+    cell.onclick = function(e) { e.preventDefault(); selectPickerDay(d); };
+    grid.appendChild(cell);
+  }
+  updatePickerDisplay();
+}
+
+function selectPickerDay(d) {
+  pickerSelectedDay = d;
+  renderPicker();
+}
+
+function updatePickerDisplay() {
+  const m = PICKER_MONTHS[pickerMonth - 1];
+  const mName = MONTH_NAMES[m.id] || m.id;
+  const doy = pickerMonth <= 13 ? (pickerMonth-1)*28+pickerSelectedDay : 364+pickerSelectedDay;
+  document.getElementById('pickerSelected').textContent = mName + ' ' + pickerSelectedDay + ', ' + pickerYear;
+  const greg = gaianToGreg(pickerYear, pickerMonth, pickerSelectedDay);
+  document.getElementById('pickerGregorian').textContent = greg.toLocaleDateString(LANG === 'en' ? 'en-US' : LANG, {year:'numeric',month:'long',day:'numeric'});
+  const dayLink = document.getElementById('pickerDayLink');
+  if (doy <= 364) {
+    dayLink.href = '/' + LANG + '/gaiad/' + String(doy).padStart(3,'0') + '/';
+    dayLink.style.display = 'inline-block';
+  } else {
+    dayLink.style.display = 'none';
+  }
+}
+
+function changePickerMonth(delta) {
+  pickerMonth += delta;
+  const max = yearHasHorus(pickerYear) ? 14 : 13;
+  if (pickerMonth > max) { pickerMonth = 1; pickerYear++; }
+  else if (pickerMonth < 1) { pickerYear--; pickerMonth = yearHasHorus(pickerYear) ? 14 : 13; }
+  if (pickerMonth === 14 && !yearHasHorus(pickerYear)) pickerMonth = delta > 0 ? 1 : 13;
+  pickerSelectedDay = 1;
+  document.getElementById('pickerYearInput').value = pickerYear;
+  renderPicker();
+}
+
+function setPickerYear(y) {
+  pickerYear = parseInt(y);
+  if (pickerMonth === 14 && !yearHasHorus(pickerYear)) { pickerMonth = 13; pickerSelectedDay = 1; }
+  renderPicker();
+}
+
+document.addEventListener('DOMContentLoaded', initPicker);
+</script>
+{% endblock %}
+{% endblock %}

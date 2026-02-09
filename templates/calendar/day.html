@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block title %}{{ month_display_name }} {{ day_num }} — {{ t.calendar_page.title }}{% endblock %}
+
+{% block content %}
+<div class="day-header">
+  <h1>{{ month.symbol }} {{ month_display_name }} {{ day_num }}</h1>
+  <p class="day-meta">
+    {{ t.day_of_year }}: {{ day_of_year }}
+    · {{ t.weekdays[weekday_num - 1] }}
+    {% if chapter_num %} · {{ t.gaiad }} {{ t.chapter }} {{ chapter_num }}{% endif %}
+  </p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="/{{ lang }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="/{{ lang }}/calendar/">{{ t.nav.calendar }}</a>
+    <span>›</span>
+    <a href="/{{ lang }}/calendar/{{ month.id }}/">{{ month_display_name }}</a>
+    <span>›</span>
+    {{ day_num }}
+  </div>
+
+  <div class="day-links">
+    {% if chapter_num %}
+    <a href="/{{ lang }}/gaiad/{{ '%03d' % chapter_num }}/">{{ t.read_chapter }}: {{ t.gaiad }} {{ chapter_num }}</a>
+    {% endif %}
+    <a href="/wiki/{{ month_display_name }}_{{ day_num }}">{{ t.nav.wiki }}</a>
+  </div>
+
+  {% if chapter_text %}
+  <div class="chapter-content">
+    <h2 style="color: var(--accent); text-align: center; margin-bottom: 20px;">{{ t.gaiad }} {{ t.chapter }} {{ chapter_num }}</h2>
+    <div class="chapter-text">{{ chapter_text }}</div>
+  </div>
+  {% else %}
+  {% if chapter_num %}
+  <div class="text-center mt-40" style="color: var(--text-muted);">
+    <p>{{ t.gaiad }} {{ t.chapter }} {{ chapter_num }} — {{ t.gaiad_index.coming_soon }}</p>
+  </div>
+  {% endif %}
+  {% endif %}
+
+  {# Day navigation #}
+  <div class="chapter-nav">
+    {% if day_num > 1 %}
+    <a href="/{{ lang }}/calendar/{{ month.id }}/{{ '%02d' % (day_num - 1) }}/">{{ t.prev }}: {{ month_display_name }} {{ day_num - 1 }}</a>
+    {% else %}
+    <span></span>
+    {% endif %}
+    {% if day_num < days_in_month %}
+    <a href="/{{ lang }}/calendar/{{ month.id }}/{{ '%02d' % (day_num + 1) }}/">{{ t.next }}: {{ month_display_name }} {{ day_num + 1 }}</a>
+    {% else %}
+    <span></span>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

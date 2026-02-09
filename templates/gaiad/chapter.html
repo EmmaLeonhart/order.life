@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block title %}{{ t.gaiad }} {{ chapter_num }} — {{ t.gaiad_index.title }}{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="breadcrumb">
+    <a href="/{{ lang }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="/{{ lang }}/gaiad/">{{ t.gaiad }}</a>
+    <span>›</span>
+    {{ t.chapter }} {{ chapter_num }}
+  </div>
+
+  <div class="chapter-content">
+    <div class="chapter-header">
+      <h1>{{ t.gaiad }}: {{ t.chapter }} {{ chapter_num }}</h1>
+      {% if chapter_month %}
+      <p class="chapter-meta">
+        {{ chapter_month.symbol }}
+        <a href="/{{ lang }}/calendar/{{ chapter_month.id }}/">{{ t.months[chapter_month.id] }}</a>
+        <a href="/{{ lang }}/calendar/{{ chapter_month.id }}/{{ '%02d' % chapter_day }}/">{{ chapter_day }}</a>
+        · {{ t.day_of_year }} {{ chapter_num }}
+      </p>
+      {% endif %}
+    </div>
+
+    {% if chapter_text %}
+    <div class="chapter-text">{{ chapter_text }}</div>
+    {% else %}
+    <div class="text-center" style="padding: 60px 20px; color: var(--text-muted);">
+      <p style="font-size: 1.2em;">{{ t.gaiad_index.coming_soon }}</p>
+      <p style="margin-top: 10px;">{{ t.chapter }} {{ chapter_num }}</p>
+    </div>
+    {% endif %}
+
+    <div class="chapter-nav">
+      {% if prev_chapter %}
+      <a href="/{{ lang }}/gaiad/{{ '%03d' % prev_chapter }}/">{{ t.prev }}: {{ prev_chapter }}</a>
+      {% else %}<span></span>{% endif %}
+      {% if next_chapter %}
+      <a href="/{{ lang }}/gaiad/{{ '%03d' % next_chapter }}/">{{ t.next }}: {{ next_chapter }}</a>
+      {% else %}<span></span>{% endif %}
+    </div>
+  </div>
+</div>
+{% endblock %}
