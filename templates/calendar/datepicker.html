@@ -62,6 +62,7 @@
 const PICKER_MONTHS = {{ months | tojson }};
 const MONTH_NAMES = {{ t.months | tojson }};
 const LANG = '{{ lang }}';
+const GE_ABBREV = {{ t.gaian_era_abbrev | tojson }};
 let pickerMonth = 1, pickerYear = 12026, pickerSelectedDay = 1;
 
 function hasWeek53(isoYear) {
@@ -190,7 +191,16 @@ function updatePickerDisplay() {
   const m = PICKER_MONTHS[pickerMonth - 1];
   const mName = MONTH_NAMES[m.id] || m.id;
   const doy = pickerMonth <= 13 ? (pickerMonth-1)*28+pickerSelectedDay : 364+pickerSelectedDay;
-  document.getElementById('pickerSelected').textContent = mName + ' ' + pickerSelectedDay + ', ' + pickerYear;
+  const selectedEl = document.getElementById('pickerSelected');
+  const monthUrl = '/' + LANG + '/calendar/' + m.id + '/';
+  const dayUrl = '/' + LANG + '/calendar/' + m.id + '/' + String(pickerSelectedDay).padStart(2,'0') + '/';
+  const yearUrl = '/' + LANG + '/calendar/' + pickerYear + '/';
+  const geUrl = '/' + LANG + '/calendar/gaian-era/';
+  selectedEl.innerHTML = m.symbol + ' ' +
+    '<a href=\"' + monthUrl + '\">' + mName + '</a> ' +
+    '<a href=\"' + dayUrl + '\">' + pickerSelectedDay + '</a>, ' +
+    '<a href=\"' + yearUrl + '\">' + pickerYear + '</a> ' +
+    '<a href=\"' + geUrl + '\">' + GE_ABBREV + '</a>';
   const greg = gaianToGreg(pickerYear, pickerMonth, pickerSelectedDay);
   document.getElementById('pickerGregorian').textContent = greg.toLocaleDateString(LANG === 'en' ? 'en-US' : LANG, {year:'numeric',month:'long',day:'numeric'});
   const dayLink = document.getElementById('pickerDayLink');
