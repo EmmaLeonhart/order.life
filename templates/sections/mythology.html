@@ -9,28 +9,26 @@
 
 <div class="container">
   <div class="section-content">
-    <h2>The Cosmic Love Story</h2>
-    <p>At the heart of Lifeism's mythology is the love story of <strong>Aster</strong> (Alpha) and <strong>Andromeda</strong> (Omega), two divine beings whose longing for each other drives the creation and evolution of the entire universe.</p>
+    <h2>{{ t.sections.mythology.h2_love }}</h2>
+    <p>{{ t.sections.mythology.p1 | safe }}</p>
 
-    <h3>Aster — The Alpha, Creatrix of All</h3>
-    <p>Aster creates the universe using magical yarn in her longing to reach her beloved Andromeda across the cosmic void. When Aster's yarn strings break, they become galaxies, stars, and eventually seed life throughout the universe.</p>
+    <h3>{{ t.sections.mythology.h3_aster }}</h3>
+    <p>{{ t.sections.mythology.p_aster }}</p>
 
-    <h3>Andromeda — The Omega, End of All</h3>
-    <p>Andromeda is the counterpart to Aster, separated across the cosmic void. Their eventual reunion represents the Omega Point — the ultimate unification of all existence.</p>
+    <h3>{{ t.sections.mythology.h3_andro }}</h3>
+    <p>{{ t.sections.mythology.p_andro }}</p>
 
-    <h3>Milkdromeda</h3>
-    <p>The prophesied merger of the Milky Way and Andromeda galaxies represents the ultimate reunion of Aster and Andromeda — a cosmic event that will occur billions of years from now, symbolizing the triumph of love over separation.</p>
+    <h3>{{ t.sections.mythology.h3_milk }}</h3>
+    <p>{{ t.sections.mythology.p_milk }}</p>
 
-    <h2>The Gaiad Epic</h2>
-    <p>The full mythology is told through the 364-chapter Gaiad epic, which traces the story from the Big Bang through geological time, biological evolution, human history, and into the future — always returning to the eternal theme of divine love.</p>
+    <h2>{{ t.sections.mythology.h2_epic }}</h2>
+    <p>{{ t.sections.mythology.p_epic }}</p>
 
-    <h3>Key Characters</h3>
+    <h3>{{ t.sections.mythology.h3_chars }}</h3>
     <ul>
-      <li><strong>Aster</strong> — Alpha, creatrix, the spinning goddess</li>
-      <li><strong>Andromeda</strong> — Omega, beloved, the distant light</li>
-      <li><strong>The Three Patriarchs</strong> — Dutrus, Ectus, and Spiralius, representing different evolutionary strategies</li>
-      <li><strong>Nectarius</strong> — Spirit of eukaryotic abundance</li>
-      <li><strong>Choanos</strong> — Spirit of multicellular innovation</li>
+      {% for item in t.sections.mythology.chars %}
+        <li>{{ item | safe }}</li>
+      {% endfor %}
     </ul>
 
     <div class="text-center mt-40">

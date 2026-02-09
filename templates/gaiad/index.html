@@ -25,16 +25,73 @@
   <h3 style="color: var(--accent); margin: 25px 0 10px;">
     {{ m.symbol }} {{ t.months[m.id] }} ({{ t.chapter }}s {{ (m.num - 1) * 28 + 1 }}–{{ m.num * 28 }})
   </h3>
-  <div class="chapter-list">
+
+  <div class="chapter-grid">
     {% for d in range(1, 29) %}
     {% set ch = (m.num - 1) * 28 + d %}
+    {% set weekday_num = ((d - 1) % 7) + 1 %}
+    {% set wd = weekdays_data[weekday_num - 1] %}
+
     <a href="/{{ lang }}/gaiad/{{ '%03d' % ch }}/"
-       class="{% if ch in chapters %}available{% else %}unavailable{% endif %}">
-      {{ ch }}
+       class="chapter-tile {% if ch in chapters %}available{% else %}unavailable{% endif %}"
+       title="{{ t.months[m.id] }} {{ d }} · {{ t.weekdays[weekday_num - 1] }}">
+      <div class="chapter-tile-weekday">{{ wd.symbol }} {{ t.weekdays[weekday_num - 1] }}</div>
+      <div class="chapter-tile-body">
+        <div class="chapter-tile-ch">{{ ch }}</div>
+        <div class="chapter-tile-date">({{ d }})</div>
+      </div>
     </a>
     {% endfor %}
   </div>
+
   {% endif %}
   {% endfor %}
 </div>
+
+<style>
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(64px, 1fr));
+  gap: 10px;
+  margin: 10px 0 20px;
+}
+.chapter-tile {
+  display: block;
+  border: 1px solid var(--border);
+  background: var(--bg-card);
+  border-radius: 10px;
+  padding: 8px;
+  text-decoration: none;
+  color: inherit;
+}
+.chapter-tile.available { border-color: rgba(255,215,0,0.5); }
+.chapter-tile.unavailable { opacity: 0.45; }
+.chapter-tile-weekday {
+  font-size: 0.75em;
+  color: var(--text-muted);
+  text-align: center;
+  margin-bottom: 6px;
+}
+.chapter-tile-body {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  gap: 6px;
+}
+.chapter-tile-ch {
+  font-size: 1.15em;
+  font-weight: 700;
+  color: var(--accent);
+  line-height: 1;
+}
+.chapter-tile-date {
+  font-size: 0.9em;
+  color: var(--text-muted);
+  line-height: 1;
+}
+@media (max-width: 520px) {
+  .chapter-grid { grid-template-columns: repeat(4, minmax(64px, 1fr)); }
+}
+</style>
+
 {% endblock %}

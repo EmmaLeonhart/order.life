@@ -146,5 +146,209 @@
     "breadcrumb_week": "週",
     "p1": "ガイア暦では、すべての日付が恒久的に同じ曜日に対応します。年は必ず月曜日（射手座1日）に始まります。週は人類文化でも最も長命な制度の一つで、多くの国家より古く、暦改革や帝国、宗教を越えて生き残ってきました。",
     "p2": "各曜日名は、古代バビロニアで体系化された天体の対応に由来します。ガイア暦では金・土・日が「三つの安息日」を成します。"
+  },
+  "calendar_overview_page": {
+    "title": "ガイア暦",
+    "intro": "ガイア暦は、ISO週に整合する実用的な週ベース暦に、宗教的・儀礼的な層（読書サイクルや祝祭配置）を重ねたものです。",
+    "why_title": "なぜこの暦？",
+    "why_p": [
+      "ガイア暦は実用的なISO週を土台にしつつ、固定曜日・予測可能な予定・聖典の年周読書を可能にします。",
+      "計算は簡単で、祝祭を安息日（週末）に置きやすいよう設計されています。"
+    ],
+    "year_title": "年の表記（ガイア紀元）",
+    "year_p": [
+      "ガイア紀元の年は <strong>ISO週年 + 10,000</strong> です。たとえば ISO週年2026は <strong>12026 GE</strong> です。",
+      "神話的には「約<strong>138億年</strong>＋12026」の宇宙年を語ることもありますが、実務表示は5桁の <strong>12026 GE</strong> を用います。"
+    ],
+    "structure_title": "構造",
+    "structure_items": [
+      "13か月×28日（4週）=364日",
+      "ISO週53がある年のみ、7日間の閏週（ホルス週）を追加",
+      "年は月曜に始まり日曜に終わる",
+      "各日付は常に同じ曜日に対応する"
+    ],
+    "weeks_title": "ISO週との整合",
+    "weeks_p": [
+      "週1は1月4日を含む週（同値に「新年の最初の木曜を含む週」）です。",
+      "ガイア新年（射手座1日）はISO週1の月曜です。"
+    ],
+    "sabbaths_title": "安息日と祝祭",
+    "sabbaths_p": [
+      "この体系では <strong>金・土・日</strong> が三つの安息日です。祝祭は原則としてこれらに置き、参加しやすさを優先します。",
+      "復活祭は典型的な移動祝日として重視し、復活祭が取り得る各曜日に祝祭があるようにします（同様に聖霊降臨祭も）。固定日祝日は統計的に最も近い曜日へ寄せ、ヘブライ暦由来の変種も取り込みます（イスラム暦・インド諸暦の完全モデル化は目的としません）。"
+    ],
+    "scripture_title": "聖典との対応",
+    "scripture_p": [
+      "ガイア年の各日は、番号付きの読書（例：日→章）に対応できます。また「第1週〜第4週」の月構造は現代の業務計画とも相性が良いです。"
+    ],
+    "cta_datepicker": "日付選択",
+    "cta_gaian_era": "ガイア紀元"
+  },
+  "sections": {
+    "longevity": {
+      "h2_moral": "道徳的地平：万人の不死",
+      "quote": "愛する人の消滅を、美的必然として扱わない。",
+      "h3_thesis": "テーゼ",
+      "p_thesis_1": "<strong>万人の不死</strong>とは、望むすべての人格に継続存在を開き、可能な限り非自発的な死を防ぐという長期文明目標である。",
+      "p_thesis_2": "「万人」であるのは、特権階級だけの不死が権力を固定化する道徳的大惨事だからである。",
+      "h3_means": "不死が意味するもの",
+      "p_means": "実装は多元的：",
+      "means_items": [
+        "防げる死を防ぐ",
+        "老化関連の劣化を治す",
+        "破局リスクを減らす",
+        "同一性と記憶を保つ",
+        "可能な生の空間を広げる",
+        "生物学的長寿研究",
+        "サイバネ強化",
+        "先端医療",
+        "安全な環境と良い統治",
+        "メンタルヘルスの強化"
+      ],
+      "h3_compassion": "慈悲としての不死",
+      "p_compassion": "死を美化しない。死は受け継いだ悲劇であり、古いから善いわけではない。",
+      "h3_meaning": "不死と意味",
+      "p_meaning": "反論「不死は無意味では？」への答え：",
+      "meaning_items": [
+        "意味は希少性だけから生まれない",
+        "関係・好奇心・成長・芸術・奉仕・遊び・探索・自己創造から生まれる",
+        "死だけが動機なら意味は脆い",
+        "豊かさに耐える意味を探す"
+      ],
+      "h3_gov": "不死には統治が要る",
+      "p_gov": "公平・安全・権力配分・生殖倫理・資源・権利と不可分。さもなくばディストピアになる。",
+      "h3_exit": "自発的退出の原理",
+      "p_exit": "継続する権利を守るが、強制継続はしない。尊厳ある終わりも主体性として慎重に扱う。",
+      "h2_science": "科学と技術",
+      "p_science": "科学は対立宗教ではなく、生命を守るための神聖な道具の一つ。",
+      "science_items": [
+        "<strong>科学</strong>は守れる範囲を広げる",
+        "<strong>工学</strong>は慈悲をインフラにする",
+        "<strong>AI</strong>は道徳増幅器（集中も分配も起こり得る）",
+        "<strong>医療</strong>は人格を保つ霊的仕事",
+        "<strong>情報</strong>は記憶＝同一性の一部として重要"
+      ]
+    },
+    "shrines": {
+      "h2_title": "命神宮（みょうじんぐう）",
+      "p1": "命道教の社は<strong>命神宮</strong>（Myōjingū）と呼ぶ。命（いのち／めい／みょう）は「生命・運命・命令」を含み、命道教では命が神の位置を占める。",
+      "h3_shinto": "神道との関係",
+      "p_shinto": "神道の社が神々を祀るように、命神宮は生命そのものの聖性と、還元不能な聖なる次元を敬う。",
+      "h3_space": "聖なる場",
+      "p_space": "命神宮とは：",
+      "space_items": [
+        "生命の聖性を讃える",
+        "主体性を中心的な聖物として認める",
+        "感謝・畏敬・誓いとしての devotion を行う",
+        "誓いを立て更新する",
+        "死者を記憶し生者を守る",
+        "天地記を読み黙想する"
+      ],
+      "h3_symbol": "象徴「命」",
+      "p_symbol": "命は多義的：",
+      "symbol_items": [
+        "<strong>生命</strong>—生物的存在",
+        "<strong>運命</strong>—展開する道",
+        "<strong>命令</strong>—秩序づける指令"
+      ],
+      "p_symbol2": "生命＝事実／方向／要請という三重性を表す。",
+      "h3_ritual": "祭祀",
+      "p_ritual": "行われる実践：",
+      "ritual_items": [
+        "毎日の天地記読誦（1日1章）",
+        "ガイア暦に沿う季節祭",
+        "死者追悼",
+        "誓いの更新",
+        "道具・技術の奉献",
+        "共同体の集いと相互扶助"
+      ]
+    },
+    "philosophy": {
+      "h2_ntp": "否定神学的多神論",
+      "p1": "命道教の神学は、否定神学に根ざした多神論として設計されている。",
+      "h3_neg": "なぜ否定神学か",
+      "quote": "究極の実在は人間概念に完全には収まらない。",
+      "p_neg": "神を定義しきると聖性を縮めてしまう。命道教は、聖なるものについて「〜ではない」を述べ、畏敬・真実・慈悲・畏怖・責任として近づく。",
+      "h3_poly": "なぜ多神論か",
+      "p_poly": "現実は多くの次元として現れる：",
+      "dims": [
+        "生と死",
+        "秩序と混沌",
+        "創造とエントロピー",
+        "愛と境界",
+        "記憶と忘却",
+        "自然と文明",
+        "個と共同体",
+        "自由と責任"
+      ],
+      "h3_apoph": "アポファティック制約",
+      "p_apoph": "すべての神名に制約：",
+      "apoph_items": [
+        "完全定義しない",
+        "完全表象しない",
+        "残虐を正当化しない",
+        "反証不能の切り札にしない",
+        "常に謙虚で可変とする"
+      ],
+      "h2_core": "根本の誓い",
+      "h3_prim": "生命の至上",
+      "p_prim": "価値は意識・関係・記憶・意図・創造的生成に宿る。",
+      "h3_agency": "主体性は聖なるもの",
+      "p_agency": "聖なる中心は主体性—同意し拒否し成長する力。",
+      "h3_comp": "慈悲を基本とする",
+      "p_comp": "非自発的苦痛を減らし他者の選択肢を広げる。",
+      "h3_truth": "真実は修行",
+      "p_truth": "認識的誠実さは神聖な実践。",
+      "h3_civ": "文明は道徳技術",
+      "p_civ": "制度は自由と連続性を増やすかで評価される。",
+      "h2_ethics": "倫理",
+      "ethics_items": [
+        "<strong>同意と自律</strong>が基盤",
+        "<strong>苦痛</strong>は解決すべき問題",
+        "<strong>正義</strong>は時間・文化・種・未来の心まで守る",
+        "<strong>継続する権利</strong>は重大な主張"
+      ]
+    },
+    "mythology": {
+      "h2_love": "宇宙の愛の物語",
+      "p1": "神話の中心はアスター（α）とアンドロメダ（ω）の恋。彼女たちの渇望が宇宙の創造と進化を駆動する。",
+      "h3_aster": "アスター—万物の創造主",
+      "p_aster": "アスターは糸で宇宙を織り、断たれた糸は銀河となり生命を播く。",
+      "h3_andro": "アンドロメダ—終わりの光",
+      "p_andro": "離れた対であり、再会はオメガ点＝統一を象徴する。",
+      "h3_milk": "ミルクドロメダ",
+      "p_milk": "天の川とアンドロメダの合体は究極の再会を象徴する。",
+      "h2_epic": "天地記（叙事詩）",
+      "p_epic": "364章の叙事詩がビッグバンから未来までを語り、愛の主題へ回帰する。",
+      "h3_chars": "主要人物",
+      "chars": [
+        "<strong>アスター</strong>—α・紡ぐ女神",
+        "<strong>アンドロメダ</strong>—ω・遠い光",
+        "<strong>三人の族長</strong>—進化戦略の象徴",
+        "<strong>ネクタリウス</strong>—真核の豊穣",
+        "<strong>チョアノス</strong>—多細胞の革新"
+      ]
+    },
+    "evolution": {
+      "h2_1": "Evolution as Sacred Narrative",
+      "p1": "In Lifeism, the story of evolution is not merely scientific — it is sacred. The 4-billion-year journey from the first self-replicating molecules to human consciousness represents the universe's ongoing project of creating agents capable of experience, choice, and meaning.",
+      "h3_arc": "The Gaiad's Evolutionary Arc",
+      "p_arc": "The Gaiad epic traces evolution through its 364 chapters:",
+      "arc_items": [
+        "<strong>Chapters 1-25</strong>: Cosmic creation, stellar evolution, origin of life, cellular evolution",
+        "<strong>Chapters 26-62</strong>: Cambrian explosion, marine life, terrestrial colonization, vertebrate evolution",
+        "<strong>Chapters 63-150</strong>: Coal forests, Permian crisis, first dinosaurs",
+        "<strong>Chapters 151-200</strong>: Age of dinosaurs, flowering plants, bird evolution, K-Pg extinction",
+        "<strong>Chapters 201-280</strong>: Mammalian radiation, ice ages, human evolution",
+        "<strong>Chapters 281-340</strong>: Agriculture, cities, writing, philosophy, religion",
+        "<strong>Chapters 341-364</strong>: Modern era, future possibilities, cosmic return"
+      ],
+      "h2_sig": "Spiritual Significance",
+      "p_sig": "Evolution demonstrates Lifeism's core insight: life's tendency to become more complex, more capable, more aware. Each step in evolution — from prokaryote to eukaryote, from single cell to multicellular organism, from instinct to consciousness — represents life expanding its own freedom.",
+      "h3_aster": "The Aster Principle",
+      "p_aster": "In Lifeist mythology, this creative drive is personified as Aster — the Alpha, the creatrix — whose yarn-spinning represents the generative principle that keeps producing new forms, new possibilities, new ways of being alive.",
+      "h3_conv": "Convergence and Hope",
+      "p_conv": "Evolution shows that certain solutions — eyes, flight, intelligence — arise independently again and again. This convergence suggests that the universe is in some sense \"friendly\" to complexity, awareness, and agency. Lifeism takes this as a source of cosmic hope."
+    }
   }
 }

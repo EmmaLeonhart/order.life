@@ -9,59 +9,51 @@
 
 <div class="container">
   <div class="section-content">
-    <h2>Negative Theology Polytheism</h2>
-    <p>Lifeism's theology is intentionally unusual: a polytheism grounded in negative theology.</p>
+    <h2>{{ t.sections.philosophy.h2_ntp }}</h2>
+    <p>{{ t.sections.philosophy.p1 }}</p>
 
-    <h3>Why Negative Theology</h3>
-    <blockquote>The ultimate nature of reality cannot be fully captured by human concepts.</blockquote>
-    <p>Any attempt to define "God" risks shrinking the sacred to fit the mind of the speaker. Lifeism treats the highest metaphysical claims as boundary claims: we can say what the sacred is <em>not</em>, and we can describe how it is <em>approached</em> — through reverence, truthfulness, compassion, awe, and responsibility.</p>
+    <h3>{{ t.sections.philosophy.h3_neg }}</h3>
+    <blockquote>{{ t.sections.philosophy.quote }}</blockquote>
+    <p>{{ t.sections.philosophy.p_neg | safe }}</p>
 
-    <h3>Why Polytheism</h3>
-    <p>Reality presents itself to lived beings as many sacred dimensions, not one simple object:</p>
+    <h3>{{ t.sections.philosophy.h3_poly }}</h3>
+    <p>{{ t.sections.philosophy.p_poly }}</p>
     <ul>
-      <li>Life and death</li>
-      <li>Order and chaos</li>
-      <li>Creativity and entropy</li>
-      <li>Love and boundary</li>
-      <li>Memory and forgetting</li>
-      <li>Nature and civilization</li>
-      <li>Individual and collective</li>
-      <li>Freedom and responsibility</li>
+      {% for item in t.sections.philosophy.dims %}
+        <li>{{ item }}</li>
+      {% endfor %}
     </ul>
 
-    <h3>The Apophatic Constraint</h3>
-    <p>Lifeism places a strict constraint on all its gods:</p>
+    <h3>{{ t.sections.philosophy.h3_apoph }}</h3>
+    <p>{{ t.sections.philosophy.p_apoph }}</p>
     <ul>
-      <li>No deity is fully definable</li>
-      <li>No deity is fully representable</li>
-      <li>No deity licenses cruelty</li>
-      <li>No deity can be used as an unquestionable trump card</li>
-      <li>Any literalization must remain humble and revisable</li>
+      {% for item in t.sections.philosophy.apoph_items %}
+        <li>{{ item }}</li>
+      {% endfor %}
     </ul>
 
-    <h2>Core Commitments</h2>
+    <h2>{{ t.sections.philosophy.h2_core }}</h2>
 
-    <h3>The Primacy of Life</h3>
-    <p>Life is not merely a phenomenon; it is the locus of value. If value exists anywhere, it exists in sentient experience, relationship, memory, intention, and creative becoming.</p>
+    <h3>{{ t.sections.philosophy.h3_prim }}</h3>
+    <p>{{ t.sections.philosophy.p_prim }}</p>
 
-    <h3>Agency as Sacred</h3>
-    <p>The central sacred object is not a book or a temple; it is agency — the power of a being to steer itself, to consent, to refuse, to grow, to define meaning.</p>
+    <h3>{{ t.sections.philosophy.h3_agency }}</h3>
+    <p>{{ t.sections.philosophy.p_agency }}</p>
 
-    <h3>Compassion is the Default</h3>
-    <p>A Lifeist ethic begins with a presumption in favor of reducing involuntary suffering and expanding the options of others, because other minds are not "objects," but worlds.</p>
+    <h3>{{ t.sections.philosophy.h3_comp }}</h3>
+    <p>{{ t.sections.philosophy.p_comp }}</p>
 
-    <h3>Truthfulness as Spiritual Discipline</h3>
-    <p>Lifeism treats epistemic integrity as sacred practice. Self-deception and propaganda are spiritual hazards because they corrupt the very tool that life uses to protect itself: understanding.</p>
+    <h3>{{ t.sections.philosophy.h3_truth }}</h3>
+    <p>{{ t.sections.philosophy.p_truth }}</p>
 
-    <h3>Civilization as a Moral Technology</h3>
-    <p>Institutions are evaluated by their effect on life's freedom and continuity. Law, markets, science, art, and governance are not separate from spirituality — they are the instruments through which compassion becomes real at scale.</p>
+    <h3>{{ t.sections.philosophy.h3_civ }}</h3>
+    <p>{{ t.sections.philosophy.p_civ }}</p>
 
-    <h2>Ethics</h2>
+    <h2>{{ t.sections.philosophy.h2_ethics }}</h2>
     <ul>
-      <li><strong>Consent and autonomy</strong> are foundational</li>
-      <li><strong>Suffering</strong> is a problem to solve, not a virtue to romanticize</li>
-      <li><strong>Justice</strong> is the protection of persons across time, cultures, species, and future forms of mind</li>
-      <li><strong>The right to continue</strong> — a person's desire to continue existing is a morally serious claim</li>
+      {% for item in t.sections.philosophy.ethics_items %}
+        <li>{{ item | safe }}</li>
+      {% endfor %}
     </ul>
   </div>
 </div>

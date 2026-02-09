@@ -9,41 +9,35 @@
 
 <div class="container">
   <div class="section-content">
-    <h2>命神宮 Myōjingū</h2>
-    <p>Lifeist shrines are called <strong>命神宮</strong> (Myōjingū), where 命 (mei/myō/inochi — "life/destiny/command") takes its sacred role. In Lifeism's branding, 命 often replaces 神 (kami/god) in traditional contexts, reflecting the religion's focus on life itself as the sacred principle.</p>
+    <h2>{{ t.sections.shrines.h2_title }}</h2>
+    <p>{{ t.sections.shrines.p1 | safe }}</p>
 
-    <h3>Relationship to Shinto</h3>
-    <p>Lifeism considers itself an extension of the Shinto shrine tradition. Just as Shinto shrines honor kami — the sacred spirits and forces of nature — Myōjingū honor the sacred principle of life itself, along with the many irreducible dimensions of the sacred.</p>
+    <h3>{{ t.sections.shrines.h3_shinto }}</h3>
+    <p>{{ t.sections.shrines.p_shinto }}</p>
 
-    <h3>Sacred Space</h3>
-    <p>A Myōjingū is a space where:</p>
+    <h3>{{ t.sections.shrines.h3_space }}</h3>
+    <p>{{ t.sections.shrines.p_space }}</p>
     <ul>
-      <li>Life's sacredness is honored and celebrated</li>
-      <li>Agency is recognized as the central sacred object</li>
-      <li>Devotional attention is practiced — gratitude, reverence, commitment</li>
-      <li>Vows are taken and renewed</li>
-      <li>The dead are remembered and the living protected</li>
-      <li>The Gaiad is read and contemplated</li>
+      {% for item in t.sections.shrines.space_items %}
+        <li>{{ item }}</li>
+      {% endfor %}
     </ul>
 
-    <h3>The Symbol 命</h3>
-    <p>命 carries multiple meanings across Chinese, Japanese, and Korean:</p>
+    <h3>{{ t.sections.shrines.h3_symbol }}</h3>
+    <p>{{ t.sections.shrines.p_symbol }}</p>
     <ul>
-      <li><strong>Life</strong> (inochi) — biological existence, the animate force</li>
-      <li><strong>Destiny/Fate</strong> (mei) — the unfolding path of existence</li>
-      <li><strong>Command/Order</strong> (myō) — the organizing principle, the directive of existence</li>
+      {% for item in t.sections.shrines.symbol_items %}
+        <li>{{ item | safe }}</li>
+      {% endfor %}
     </ul>
-    <p>This triple meaning encapsulates Lifeism's vision: life as fact, life as direction, life as imperative.</p>
+    <p>{{ t.sections.shrines.p_symbol2 }}</p>
 
-    <h3>Ritual Practice</h3>
-    <p>Shrines host the following practices:</p>
+    <h3>{{ t.sections.shrines.h3_ritual }}</h3>
+    <p>{{ t.sections.shrines.p_ritual }}</p>
     <ul>
-      <li>Daily Gaiad readings (one chapter per day of the calendar year)</li>
-      <li>Seasonal festivals aligned with the Gaian Calendar</li>
-      <li>Remembrance rites for the dead</li>
-      <li>Vow-renewal ceremonies</li>
-      <li>Consecration of tools and technologies</li>
-      <li>Community gathering and mutual support</li>
+      {% for item in t.sections.shrines.ritual_items %}
+        <li>{{ item }}</li>
+      {% endfor %}
     </ul>
   </div>
 </div>
