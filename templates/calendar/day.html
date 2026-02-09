@@ -6,8 +6,9 @@
   <h1>{{ month.symbol }} {{ month_display_name }} {{ day_num }}</h1>
   <p class="day-meta">
     {{ t.day_of_year }}: {{ day_of_year }}
-    · {{ t.weekdays[weekday_num - 1] }}
-    {% if chapter_num %} · {{ t.gaiad }} {{ t.chapter }} {{ chapter_num }}{% endif %}
+    · {{ weekday_data.symbol }} {{ t.weekdays[weekday_num - 1] }}
+    · <a href="/{{ lang }}/calendar/week/{{ weekday_data.id }}/">{{ weekday_data.id | title }}</a>
+    {% if chapter_num %} · {{ t.gaiad }} {{ chapter_num }}{% endif %}
   </p>
 </div>
 
@@ -22,24 +23,26 @@
     {{ day_num }}
   </div>
 
+  {# Wiki intro from the XML export #}
+  {% if wiki_day_intro %}
+  <div class="section-content">
+    {{ wiki_day_intro | safe }}
+  </div>
+  {% endif %}
+
   <div class="day-links">
     {% if chapter_num %}
     <a href="/{{ lang }}/gaiad/{{ '%03d' % chapter_num }}/">{{ t.read_chapter }}: {{ t.gaiad }} {{ chapter_num }}</a>
     {% endif %}
-    <a href="/wiki/{{ month_display_name }}_{{ day_num }}">{{ t.nav.wiki }}</a>
+    <a href="/wiki/{{ month_display_name }}_{{ day_num }}/">{{ t.nav.wiki }}</a>
   </div>
 
-  {% if chapter_text %}
-  <div class="chapter-content">
-    <h2 style="color: var(--accent); text-align: center; margin-bottom: 20px;">{{ t.gaiad }} {{ t.chapter }} {{ chapter_num }}</h2>
-    <div class="chapter-text">{{ chapter_text }}</div>
+  {# Wiki overview content (holidays, traditions, etc.) #}
+  {% if wiki_day_overview %}
+  <div class="section-content">
+    <h2 style="color: var(--accent);">Overview</h2>
+    {{ wiki_day_overview | safe }}
   </div>
-  {% else %}
-  {% if chapter_num %}
-  <div class="text-center mt-40" style="color: var(--text-muted);">
-    <p>{{ t.gaiad }} {{ t.chapter }} {{ chapter_num }} — {{ t.gaiad_index.coming_soon }}</p>
-  </div>
-  {% endif %}
   {% endif %}
 
   {# Day navigation #}
@@ -56,4 +59,13 @@
     {% endif %}
   </div>
 </div>
+
+{% block scripts %}
+<style>
+.wiki-table { width: 100%; border-collapse: collapse; margin: 15px 0; }
+.wiki-table th, .wiki-table td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
+.wiki-table th { background: var(--bg-card); color: var(--accent); }
+.wiki-table td { color: var(--text-muted); }
+</style>
+{% endblock %}
 {% endblock %}
