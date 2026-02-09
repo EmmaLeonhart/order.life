@@ -3,8 +3,8 @@
 
 {% block content %}
 <div class="section-hero">
-  <h1>{{ t.calendar_page.title }}</h1>
-  <p>{{ t.calendar_page.intro }}</p>
+  <h1>{{ t.calendar_overview_page.title }}</h1>
+  <p>{{ t.calendar_overview_page.intro }}</p>
 </div>
 
 <div class="container">
@@ -14,6 +14,40 @@
          data-ge-abbrev="{{ t.gaian_era_abbrev }}"
          data-base-path="/{{ lang }}">
     </div>
+  </div>
+
+  <div class="section-content">
+    <h2>{{ t.calendar_overview_page.why_title }}</h2>
+    {% for p in t.calendar_overview_page.why_p %}
+      <p>{{ p }}</p>
+    {% endfor %}
+
+    <h2>{{ t.calendar_overview_page.year_title }}</h2>
+    {% for p in t.calendar_overview_page.year_p %}
+      <p>{{ p | safe }}</p>
+    {% endfor %}
+
+    <h2>{{ t.calendar_overview_page.structure_title }}</h2>
+    <ul>
+      {% for item in t.calendar_overview_page.structure_items %}
+        <li>{{ item | safe }}</li>
+      {% endfor %}
+    </ul>
+
+    <h2>{{ t.calendar_overview_page.weeks_title }}</h2>
+    {% for p in t.calendar_overview_page.weeks_p %}
+      <p>{{ p }}</p>
+    {% endfor %}
+
+    <h2>{{ t.calendar_overview_page.sabbaths_title }}</h2>
+    {% for p in t.calendar_overview_page.sabbaths_p %}
+      <p>{{ p | safe }}</p>
+    {% endfor %}
+
+    <h2>{{ t.calendar_overview_page.scripture_title }}</h2>
+    {% for p in t.calendar_overview_page.scripture_p %}
+      <p>{{ p }}</p>
+    {% endfor %}
   </div>
 
   <h2 class="text-center mt-40 mb-20" style="color: var(--accent);">{{ t.calendar_page.months_title }}</h2>

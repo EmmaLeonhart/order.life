@@ -146,5 +146,65 @@
     "breadcrumb_week": "Week",
     "p1": "In the Gaian calendar, every date permanently falls on the same day of the week. The year always begins on a Monday (Sagittarius 1). The week is one of the longest-lasting institutions in human culture, predating most states, surviving calendar reform, empire, and religion.",
     "p2": "Each day is named for a celestial body first systematized in ancient Babylon. In the Gaian calendar, Friday, Saturday, and Sunday form the three Sabbaths."
+  },
+  "calendar_overview_page": {
+    "title": "The Gaian Calendar",
+    "intro": "A 13-month calendar of 28 days each, based on ISO weeks. Year numbering adds 10,000 to create the Gaian Era.",
+    "why_title": "Why this calendar?",
+    "why_p": [
+      "The Gaian Calendar takes the practical ISO week system and adds a ceremonial layer: fixed weekdays, reliable scheduling, and a scripture-aligned yearly cycle.",
+      "It is designed so that computers (and humans) can compute dates easily, while the religion can place holidays on predictable Sabbaths."
+    ],
+    "year_title": "Year numbering (Gaian Era)",
+    "year_p": [
+      "Gaian years are numbered as: <strong>Gaian Era year = ISO week-year + 10,000</strong>. This is a Holocene-style framing that keeps recorded human history in positive year numbers.",
+      "A larger mythic framing sometimes describes the present as <strong>13.8 billion + 12,026</strong> years since cosmic origin; in practice we clip off the “billions” and use <strong>12026 GE</strong>."
+    ],
+    "structure_title": "Structure",
+    "structure_items": [
+      "13 months of exactly 28 days (4 weeks) each = 364 days",
+      "An intercalary Horus week (7 days) occurs only in ISO week-53 years",
+      "The year starts on a Monday and ends on a Sunday",
+      "Every date always falls on the same weekday"
+    ],
+    "weeks_title": "ISO week alignment",
+    "weeks_p": [
+      "Weeks are ISO weeks: week 1 is the week containing January 4 (equivalently: the week with the first Thursday).",
+      "Gaian New Year (Sagittarius 1) is the Monday of ISO week 1."
+    ],
+    "sabbaths_title": "Sabbaths and holidays",
+    "sabbaths_p": [
+      "In this system, <strong>Friday, Saturday, and Sunday</strong> form the three Sabbaths. Lifeist holidays are preferentially placed on these days for practical participation.",
+      "We include variants of many inherited holidays. Easter is treated as an archetypal movable feast: we ensure celebrations exist for every weekday Easter can fall on; similarly for Pentecost. For fixed-date traditions, we use the closest statistical weekday. We incorporate Hebrew-calendar variants, but do not attempt to model Islamic or Indian calendars (because their weekdays are less predictable)."
+    ],
+    "scripture_title": "Scripture alignment",
+    "scripture_p": [
+      "Each day of the Gaian year corresponds to a chapter of the scripture cycle (1–364). The calendar is also structured like “week 1 / week 2 / week 3 / week 4” months used in modern business scheduling."
+    ],
+    "cta_datepicker": "Date Picker",
+    "cta_gaian_era": "Gaian Era"
+  },
+  "sections": {
+    "evolution": {
+      "h2_1": "Evolution as Sacred Narrative",
+      "p1": "In Lifeism, the story of evolution is not merely scientific — it is sacred. The 4-billion-year journey from the first self-replicating molecules to human consciousness represents the universe's ongoing project of creating agents capable of experience, choice, and meaning.",
+      "h3_arc": "The Gaiad's Evolutionary Arc",
+      "p_arc": "The Gaiad epic traces evolution through its 364 chapters:",
+      "arc_items": [
+        "<strong>Chapters 1-25</strong>: Cosmic creation, stellar evolution, origin of life, cellular evolution",
+        "<strong>Chapters 26-62</strong>: Cambrian explosion, marine life, terrestrial colonization, vertebrate evolution",
+        "<strong>Chapters 63-150</strong>: Coal forests, Permian crisis, first dinosaurs",
+        "<strong>Chapters 151-200</strong>: Age of dinosaurs, flowering plants, bird evolution, K-Pg extinction",
+        "<strong>Chapters 201-280</strong>: Mammalian radiation, ice ages, human evolution",
+        "<strong>Chapters 281-340</strong>: Agriculture, cities, writing, philosophy, religion",
+        "<strong>Chapters 341-364</strong>: Modern era, future possibilities, cosmic return"
+      ],
+      "h2_sig": "Spiritual Significance",
+      "p_sig": "Evolution demonstrates Lifeism's core insight: life's tendency to become more complex, more capable, more aware. Each step in evolution — from prokaryote to eukaryote, from single cell to multicellular organism, from instinct to consciousness — represents life expanding its own freedom.",
+      "h3_aster": "The Aster Principle",
+      "p_aster": "In Lifeist mythology, this creative drive is personified as Aster — the Alpha, the creatrix — whose yarn-spinning represents the generative principle that keeps producing new forms, new possibilities, new ways of being alive.",
+      "h3_conv": "Convergence and Hope",
+      "p_conv": "Evolution shows that certain solutions — eyes, flight, intelligence — arise independently again and again. This convergence suggests that the universe is in some sense \"friendly\" to complexity, awareness, and agency. Lifeism takes this as a source of cosmic hope."
+    }
   }
 }
