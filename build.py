@@ -271,8 +271,8 @@ def day_of_year(month_num, day_in_month):
 def generate_wiki_redirects(wiki_pages, languages):
     """Generate static redirect pages for /{lang}/wiki/* and /wiki/*.
 
-    Note: for now *all* languages redirect to the same Evolutionism Miraheze wiki
-    (no lang: prefix), per project intent.
+    Note: English uses unprefixed pages (no `en:`). Other languages use the
+    MediaWiki interwiki-style `lang:Title` prefix (e.g. `hi:Main_Page`).
     """
 
     redirect_template = """<!DOCTYPE html>
@@ -284,18 +284,20 @@ def generate_wiki_redirects(wiki_pages, languages):
 <p>Redirecting to <a href=\"{target}\" style=\"color:#ffd700;\">Wiki: {title}</a>...</p>
 </body></html>"""
 
-    def target_for(title: str) -> str:
+    def target_for_lang(lang: str, title: str) -> str:
         safe_title = title.replace(" ", "_")
+        if lang and lang != "en":
+            return f"https://evolutionism.miraheze.org/wiki/{lang}:{safe_title}"
         return f"https://evolutionism.miraheze.org/wiki/{safe_title}"
 
-    def write_wiki_tree(wiki_dir: Path, js_prefix_regex: str):
+    def write_wiki_tree(wiki_dir: Path, js_prefix_regex: str, lang: str | None):
         wiki_dir.mkdir(parents=True, exist_ok=True)
 
         # Main_Page redirect
         main_page_dir = wiki_dir / "Main_Page"
         main_page_dir.mkdir(exist_ok=True)
         (main_page_dir / "index.html").write_text(
-            redirect_template.format(title="Main Page", target=target_for("Main_Page")),
+            redirect_template.format(title="Main Page", target=target_for_lang(lang or "en", "Main_Page")),
             encoding="utf-8",
         )
 
@@ -305,33 +307,44 @@ def generate_wiki_redirects(wiki_pages, languages):
             page_dir = wiki_dir / safe_title
             page_dir.mkdir(parents=True, exist_ok=True)
             (page_dir / "index.html").write_text(
-                redirect_template.format(title=title, target=target_for(title)),
+                redirect_template.format(title=title, target=target_for_lang(lang or "en", title)),
                 encoding="utf-8",
             )
 
         # Fallback index with JS redirect for unknown pages
+        # We replicate the same policy: english unprefixed; other languages use lang:Title.
+        js_lang_prefix = "" if (not lang or lang == "en") else f"{lang}:"
+        main_target = target_for_lang(lang or "en", "Main_Page")
         (wiki_dir / "index.html").write_text(
             f"""<!DOCTYPE html>
 <html><head><meta charset=\"UTF-8\"><title>Redirecting to Wiki...</title>
 <script>
 var path = window.location.pathname.replace({js_prefix_regex}, '').replace(/\\/$/, '');
 if (!path) path = 'Main_Page';
-var target = 'https://evolutionism.miraheze.org/wiki/' + (path);
+var target = 'https://evolutionism.miraheze.org/wiki/' + ({json.dumps(js_lang_prefix)} + path);
 window.location.href = target;
 </script>
-<noscript><meta http-equiv=\"refresh\" content=\"0; url={target_for('Main_Page')}\"></noscript>
+<noscript><meta http-equiv=\"refresh\" content=\"0; url={main_target}\"></noscript>
 </head><body style=\"background:#0f0f1a;color:#e0e0e0;font-family:sans-serif;display:flex;justify-content:center;align-items:center;height:100vh;\">
-<p>Redirecting to <a href=\"{target_for('Main_Page')}\" style=\"color:#ffd700;\">Evolutionism Wiki</a>...</p>
+<p>Redirecting to <a href=\"{main_target}\" style=\"color:#ffd700;\">Evolutionism Wiki</a>...</p>
 </body></html>""",
             encoding="utf-8",
         )
 
     # Per-language wiki paths: /{lang}/wiki/...
     for lang in languages:
-        write_wiki_tree(SITE_DIR / lang / "wiki", js_prefix_regex=rf"/^\\/{lang}\\/wiki\\/?/")
+        write_wiki_tree(
+            SITE_DIR / lang / "wiki",
+            js_prefix_regex=rf"/^\\/{lang}\\/wiki\\/?/",
+            lang=lang,
+        )
 
-    # Root wiki paths: /wiki/...
-    write_wiki_tree(SITE_DIR / "wiki", js_prefix_regex=r"/^\\/wiki\\/?/")
+    # Root wiki paths: /wiki/... (treat as English / unprefixed)
+    write_wiki_tree(
+        SITE_DIR / "wiki",
+        js_prefix_regex=r"/^\\/wiki\\/?/",
+        lang="en",
+    )
 
 
 # ── Build Functions ────────────────────────────────────────────────────────
