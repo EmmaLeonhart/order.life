@@ -376,6 +376,7 @@ def build_site():
             "today_gregorian": today.strftime("%B %d, %Y"),
             "rtl": lang == "ar",
             "languages": list(translations.keys()),
+            "is_cjk": lang in ("ja", "zh"),
         }
 
         # ── Homepage ──
@@ -494,6 +495,20 @@ def render_page(env, template_name, output_path, context):
     """Render a Jinja2 template to a file."""
     output_path.parent.mkdir(parents=True, exist_ok=True)
     try:
+        if "lang" in context and "path_suffix" not in context:
+            try:
+                rel = output_path.relative_to(SITE_DIR / context["lang"])
+                if rel.name == "index.html":
+                    parent = rel.parent.as_posix()
+                    if parent == ".":
+                        path_suffix = "/"
+                    else:
+                        path_suffix = "/" + parent.strip("/") + "/"
+                else:
+                    path_suffix = "/" + rel.as_posix()
+                context = {**context, "path_suffix": path_suffix}
+            except ValueError:
+                pass
         template = env.get_template(template_name)
         html = template.render(**context)
         with open(output_path, "w", encoding="utf-8") as f:

@@ -11,7 +11,13 @@
 <body>
   <nav>
     <div class="nav-inner">
-      <a class="nav-brand" href="/{{ lang }}/">命 {{ t.site_title }}</a>
+      <a class="nav-brand" href="/{{ lang }}/">
+        {% if is_cjk %}
+          {{ t.site_title }}
+        {% else %}
+          <strong>命</strong> {{ t.site_title }}
+        {% endif %}
+      </a>
       <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
       <div class="nav-links">
         <a href="/{{ lang }}/calendar/">{{ t.nav.calendar }}</a>
@@ -26,7 +32,7 @@
       <div class="nav-right">
         <div class="lang-switcher">
           {% for l in languages %}
-          <a href="/{{ l }}/"{% if l == lang %} class="active"{% endif %}>{{ l }}</a>
+          <a href="/{{ l }}{{ path_suffix }}"{% if l == lang %} class="active"{% endif %}>{{ l }}</a>
           {% endfor %}
         </div>
       </div>

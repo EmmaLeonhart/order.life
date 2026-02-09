@@ -3,7 +3,13 @@
 
 {% block content %}
 <div class="hero">
-  <h1>{{ t.homepage.hero_title }}</h1>
+  <h1>
+    {% if is_cjk %}
+      {{ t.site_title }}
+    {% else %}
+      <strong>命</strong> {{ t.site_title }}
+    {% endif %}
+  </h1>
   <p class="subtitle">{{ t.homepage.hero_subtitle }}</p>
 
   <div class="gaian-date-display">
