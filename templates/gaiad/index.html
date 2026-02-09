@@ -26,6 +26,12 @@
     {{ m.symbol }} {{ t.months[m.id] }} ({{ t.chapter }}s {{ (m.num - 1) * 28 + 1 }}–{{ m.num * 28 }})
   </h3>
 
+  <div class="chapter-grid-header">
+    {% for wd in weekdays_data %}
+      <div class="chapter-grid-header-cell">{{ wd.symbol }} {{ t.weekdays[wd.num - 1] }}</div>
+    {% endfor %}
+  </div>
+
   <div class="chapter-grid">
     {% for d in range(1, 29) %}
     {% set ch = (m.num - 1) * 28 + d %}
@@ -49,11 +55,22 @@
 </div>
 
 <style>
+.chapter-grid-header {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(64px, 1fr));
+  gap: 10px;
+  margin: 10px 0 8px;
+}
+.chapter-grid-header-cell {
+  text-align: center;
+  font-size: 0.8em;
+  color: var(--text-muted);
+}
 .chapter-grid {
   display: grid;
   grid-template-columns: repeat(7, minmax(64px, 1fr));
   gap: 10px;
-  margin: 10px 0 20px;
+  margin: 0 0 20px;
 }
 .chapter-tile {
   display: block;
@@ -90,6 +107,7 @@
   line-height: 1;
 }
 @media (max-width: 520px) {
+  .chapter-grid-header,
   .chapter-grid { grid-template-columns: repeat(4, minmax(64px, 1fr)); }
 }
 </style>
