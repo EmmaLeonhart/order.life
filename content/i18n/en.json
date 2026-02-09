@@ -34,7 +34,15 @@
     "ophiuchus": "Ophiuchus",
     "horus": "Horus"
   },
-  "weekdays": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+  "weekdays": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+  ],
   "calendar_title": "Gaian Calendar",
   "gaian_era": "Gaian Era",
   "gaian_era_abbrev": "GE",
@@ -113,5 +121,30 @@
   },
   "prev": "Previous",
   "next": "Next",
-  "back_to": "Back to"
+  "back_to": "Back to",
+  "wiki_redirect": {
+    "title": "Redirecting to Wiki...",
+    "body_html": "Redirecting to <a href=\"https://evolutionism.miraheze.org/wiki/Main_Page\" style=\"color:#ffd700;\">Evolutionism Wiki</a>..."
+  },
+  "calendar_gaian_era_page": {
+    "p1": "The Gaian Era (GE) adds 10,000 years to the ISO week-year, placing Year 1 at approximately the beginning of the Holocene epoch and the start of human civilization. The current year is <strong>12026 GE</strong> (Gregorian 2026).",
+    "why_title": "Why +10,000?",
+    "why_p1": "By adding 10,000 years, the Gaian Era encompasses all of recorded human history within positive year numbers. The approximate start of agriculture, the first cities, and the earliest writing systems all fall within the Gaian Era, giving a more complete picture of human civilization.",
+    "iso_title": "ISO Week Alignment",
+    "iso_p1": "The Gaian Calendar is based on the ISO week system. Each year begins on the Monday of ISO week 1 (the week containing January 4th). This means Gaian New Year (Sagittarius 1) always falls on a Monday.",
+    "structure_title": "Calendar Structure",
+    "structure_items": [
+      "13 months of exactly 28 days (4 weeks) each = 364 days",
+      "Horus: intercalary 14th month of 7 days, only in years with ISO week 53",
+      "Every date permanently falls on the same day of the week",
+      "Monday = Day 1 of each week, Sunday = Day 7"
+    ]
+  },
+  "calendar_week_index_page": {
+    "title": "Days of the Week",
+    "hero_subtitle": "The seven sacred days, each named for a celestial body in the ancient planetary tradition.",
+    "breadcrumb_week": "Week",
+    "p1": "In the Gaian calendar, every date permanently falls on the same day of the week. The year always begins on a Monday (Sagittarius 1). The week is one of the longest-lasting institutions in human culture, predating most states, surviving calendar reform, empire, and religion.",
+    "p2": "Each day is named for a celestial body first systematized in ancient Babylon. In the Gaian calendar, Friday, Saturday, and Sunday form the three Sabbaths."
+  }
 }

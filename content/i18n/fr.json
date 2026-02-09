@@ -34,7 +34,15 @@
     "ophiuchus": "Ophiuchus",
     "horus": "Horus"
   },
-  "weekdays": ["Lun", "Mar", "Mer", "Jeu", "Ven", "Sam", "Dim"],
+  "weekdays": [
+    "Lun",
+    "Mar",
+    "Mer",
+    "Jeu",
+    "Ven",
+    "Sam",
+    "Dim"
+  ],
   "calendar_title": "Calendrier gaian",
   "gaian_era": "Ere gaianne",
   "gaian_era_abbrev": "EG",
@@ -113,6 +121,30 @@
   },
   "prev": "Precedent",
   "next": "Suivant",
-  "back_to": "Retour a"
+  "back_to": "Retour a",
+  "wiki_redirect": {
+    "title": "Redirection vers le wiki…",
+    "body_html": "Redirection vers <a href=\"https://evolutionism.miraheze.org/wiki/Main_Page\" style=\"color:#ffd700;\">Evolutionism Wiki</a>…"
+  },
+  "calendar_gaian_era_page": {
+    "p1": "L’Ère gaianne (EG) ajoute 10 000 ans à l’année-semaine ISO, plaçant l’An 1 approximativement au début de l’Holocène et des débuts de la civilisation humaine. L’année actuelle est <strong>12026 EG</strong> (grégorien 2026).",
+    "why_title": "Pourquoi +10 000 ?",
+    "why_p1": "En ajoutant 10 000 ans, l’Ère gaianne englobe toute l’histoire humaine écrite dans des numéros d’années positifs. Le début approximatif de l’agriculture, les premières villes et les premiers systèmes d’écriture se situent dans l’Ère gaianne, offrant une vision plus complète de la civilisation humaine.",
+    "iso_title": "Alignement sur les semaines ISO",
+    "iso_p1": "Le calendrier gaian est basé sur le système des semaines ISO. Chaque année commence le lundi de la semaine ISO 1 (la semaine contenant le 4 janvier). Cela signifie que le Nouvel An gaian (Sagittaire 1) tombe toujours un lundi.",
+    "structure_title": "Structure du calendrier",
+    "structure_items": [
+      "13 mois de 28 jours exactement (4 semaines) = 364 jours",
+      "Horus : 14e mois intercalaire de 7 jours, uniquement dans les années avec semaine ISO 53",
+      "Chaque date tombe définitivement le même jour de la semaine",
+      "Lundi = Jour 1 de la semaine, Dimanche = Jour 7"
+    ]
+  },
+  "calendar_week_index_page": {
+    "title": "Jours de la semaine",
+    "hero_subtitle": "Les sept jours sacrés, chacun nommé d’après un corps céleste selon l’ancienne tradition planétaire.",
+    "breadcrumb_week": "Semaine",
+    "p1": "Dans le calendrier gaian, chaque date tombe définitivement le même jour de la semaine. L’année commence toujours un lundi (Sagittaire 1). La semaine est l’une des institutions les plus durables de la culture humaine, antérieure à la plupart des États et survivant aux réformes calendaires, aux empires et aux religions.",
+    "p2": "Chaque jour est nommé d’après un corps céleste, systématisé pour la première fois dans l’ancienne Babylone. Dans le calendrier gaian, vendredi, samedi et dimanche forment les trois Sabbaths."
+  }
 }
-

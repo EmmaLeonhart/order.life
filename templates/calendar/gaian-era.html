@@ -19,20 +19,19 @@
     <p>{{ t.calendar_page.intro }}</p>
 
     <h2>{{ t.gaian_era }}</h2>
-    <p>The Gaian Era (GE) adds 10,000 years to the ISO week-year, placing Year 1 at approximately the beginning of the Holocene epoch and the start of human civilization. The current year is <strong>12026 GE</strong> (Gregorian 2026).</p>
+    <p>{{ t.calendar_gaian_era_page.p1 | safe }}</p>
 
-    <h3>Why +10,000?</h3>
-    <p>By adding 10,000 years, the Gaian Era encompasses all of recorded human history within positive year numbers. The approximate start of agriculture, the first cities, and the earliest writing systems all fall within the Gaian Era, giving a more complete picture of human civilization.</p>
+    <h3>{{ t.calendar_gaian_era_page.why_title }}</h3>
+    <p>{{ t.calendar_gaian_era_page.why_p1 }}</p>
 
-    <h3>ISO Week Alignment</h3>
-    <p>The Gaian Calendar is based on the ISO week system. Each year begins on the Monday of ISO week 1 (the week containing January 4th). This means Gaian New Year (Sagittarius 1) always falls on a Monday.</p>
+    <h3>{{ t.calendar_gaian_era_page.iso_title }}</h3>
+    <p>{{ t.calendar_gaian_era_page.iso_p1 }}</p>
 
-    <h3>Calendar Structure</h3>
+    <h3>{{ t.calendar_gaian_era_page.structure_title }}</h3>
     <ul>
-      <li>13 months of exactly 28 days (4 weeks) each = 364 days</li>
-      <li>Horus: intercalary 14th month of 7 days, only in years with ISO week 53</li>
-      <li>Every date permanently falls on the same day of the week</li>
-      <li>Monday = Day 1 of each week, Sunday = Day 7</li>
+      {% for item in t.calendar_gaian_era_page.structure_items %}
+        <li>{{ item }}</li>
+      {% endfor %}
     </ul>
   </div>
 </div>

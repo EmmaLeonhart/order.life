@@ -1,10 +1,10 @@
 {% extends "base.html" %}
-{% block title %}Days of the Week — {{ t.calendar_page.title }}{% endblock %}
+{% block title %}{{ t.calendar_week_index_page.title }} — {{ t.calendar_page.title }}{% endblock %}
 
 {% block content %}
 <div class="section-hero">
-  <h1>Days of the Week</h1>
-  <p>The seven sacred days, each named for a celestial body in the ancient planetary tradition.</p>
+  <h1>{{ t.calendar_week_index_page.title }}</h1>
+  <p>{{ t.calendar_week_index_page.hero_subtitle }}</p>
 </div>
 
 <div class="container">
@@ -13,7 +13,7 @@
     <span>›</span>
     <a href="/{{ lang }}/calendar/">{{ t.nav.calendar }}</a>
     <span>›</span>
-    Week
+    {{ t.calendar_week_index_page.breadcrumb_week }}
   </div>
 
   <div class="month-grid">
@@ -27,8 +27,8 @@
   </div>
 
   <div class="section-content">
-    <p>In the Gaian calendar, every date permanently falls on the same day of the week. The year always begins on a Monday (Sagittarius 1). The week is one of the longest-lasting institutions in human culture, predating most states, surviving calendar reform, empire, and religion.</p>
-    <p>Each day is named for a celestial body first systematized in ancient Babylon. In the Gaian calendar, Friday, Saturday, and Sunday form the three Sabbaths.</p>
+    <p>{{ t.calendar_week_index_page.p1 }}</p>
+    <p>{{ t.calendar_week_index_page.p2 }}</p>
   </div>
 </div>
 {% endblock %}

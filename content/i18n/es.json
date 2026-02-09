@@ -34,7 +34,15 @@
     "ophiuchus": "Ofiuco",
     "horus": "Horus"
   },
-  "weekdays": ["Lun", "Mar", "Mié", "Jue", "Vie", "Sáb", "Dom"],
+  "weekdays": [
+    "Lun",
+    "Mar",
+    "Mié",
+    "Jue",
+    "Vie",
+    "Sáb",
+    "Dom"
+  ],
   "calendar_title": "Calendario Gaiano",
   "gaian_era": "Era Gaiana",
   "gaian_era_abbrev": "EG",
@@ -113,5 +121,30 @@
   },
   "prev": "Anterior",
   "next": "Siguiente",
-  "back_to": "Volver a"
+  "back_to": "Volver a",
+  "wiki_redirect": {
+    "title": "Redirigiendo a la Wiki...",
+    "body_html": "Redirigiendo a <a href=\"https://evolutionism.miraheze.org/wiki/Main_Page\" style=\"color:#ffd700;\">Evolutionism Wiki</a>..."
+  },
+  "calendar_gaian_era_page": {
+    "p1": "La Era Gaiana (EG) suma 10.000 años al año-semana ISO, situando el Año 1 aproximadamente al comienzo del Holoceno y del inicio de la civilización humana. El año actual es <strong>12026 EG</strong> (gregoriano 2026).",
+    "why_title": "¿Por qué +10.000?",
+    "why_p1": "Al sumar 10.000 años, la Era Gaiana abarca toda la historia humana registrada dentro de números de año positivos. El inicio aproximado de la agricultura, las primeras ciudades y los primeros sistemas de escritura quedan dentro de la Era Gaiana, ofreciendo una visión más completa de la civilización humana.",
+    "iso_title": "Alineación con la semana ISO",
+    "iso_p1": "El Calendario Gaiano se basa en el sistema de semanas ISO. Cada año comienza el lunes de la semana ISO 1 (la semana que contiene el 4 de enero). Esto significa que el Año Nuevo Gaiano (Sagitario 1) siempre cae en lunes.",
+    "structure_title": "Estructura del calendario",
+    "structure_items": [
+      "13 meses de exactamente 28 días (4 semanas) cada uno = 364 días",
+      "Horus: mes intercalar 14.º de 7 días, solo en años con semana ISO 53",
+      "Cada fecha cae permanentemente en el mismo día de la semana",
+      "Lunes = Día 1 de cada semana; Domingo = Día 7"
+    ]
+  },
+  "calendar_week_index_page": {
+    "title": "Días de la semana",
+    "hero_subtitle": "Los siete días sagrados, cada uno nombrado por un cuerpo celeste en la antigua tradición planetaria.",
+    "breadcrumb_week": "Semana",
+    "p1": "En el calendario gaiano, cada fecha cae permanentemente en el mismo día de la semana. El año siempre empieza en lunes (Sagitario 1). La semana es una de las instituciones más duraderas de la cultura humana: antecede a la mayoría de los estados y sobrevive a reformas del calendario, imperios y religiones.",
+    "p2": "Cada día recibe el nombre de un cuerpo celeste sistematizado por primera vez en la antigua Babilonia. En el calendario gaiano, viernes, sábado y domingo forman los tres Sabbaths."
+  }
 }
