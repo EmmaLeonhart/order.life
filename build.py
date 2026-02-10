@@ -93,8 +93,40 @@ WEEKDAYS = [
     {"num": 7, "id": "sunday",    "planet": "Sun",     "symbol": "\u2609"},
 ]
 
+# Localized Gregorian month names + date formatting (avoid relying on system locales)
+GREGORIAN_MONTHS = {
+    "en": ["January","February","March","April","May","June","July","August","September","October","November","December"],
+    "fr": ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],
+    "es": ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],
+    "ru": ["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"],
+    "uk": ["січня","лютого","березня","квітня","травня","червня","липня","серпня","вересня","жовтня","листопада","грудня"],
+    "ar": ["يناير","فبراير","مارس","أبريل","مايو","يونيو","يوليو","أغسطس","سبتمبر","أكتوبر","نوفمبر","ديسمبر"],
+    "hi": ["जनवरी","फ़रवरी","मार्च","अप्रैल","मई","जून","जुलाई","अगस्त","सितंबर","अक्टूबर","नवंबर","दिसंबर"],
+    "ja": ["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],
+    "zh": ["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],
+}
 
-# ── Data Loading ──────────────────────────────────────────────────────────
+GREGORIAN_DATE_FMT = {
+    "en": "{month} {day:02d}, {year}",
+    "fr": "{day:02d} {month} {year}",
+    "es": "{day:02d} {month} {year}",
+    "ru": "{day:02d} {month} {year}",
+    "uk": "{day:02d} {month} {year}",
+    "ar": "{day} {month} {year}",
+    "hi": "{day} {month} {year}",
+    "ja": "{year}年{month}{day}日",
+    "zh": "{year}年{month}{day}日",
+}
+
+
+def format_gregorian(d: date, lang: str) -> str:
+    months = GREGORIAN_MONTHS.get(lang) or GREGORIAN_MONTHS["en"]
+    fmt = GREGORIAN_DATE_FMT.get(lang) or GREGORIAN_DATE_FMT["en"]
+    month = months[d.month - 1]
+    return fmt.format(year=d.year, month=month, day=d.day)
+
+
+# ── Data Loading ─────────────────────────────────────────────────────────-
 
 def load_translations():
     """Load all translation files from content/i18n/"""
@@ -113,6 +145,15 @@ def load_glossary():
     if not glossary_file.exists():
         return {}
     with open(glossary_file, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def load_weekday_names():
+    """Load weekday names map from content/weekday-names.json."""
+    fpath = CONTENT_DIR / "weekday-names.json"
+    if not fpath.exists():
+        return {}
+    with open(fpath, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -301,10 +342,38 @@ def generate_wiki_redirects(wiki_pages, languages):
             encoding="utf-8",
         )
 
-        # Known wiki pages
+        # Known wiki pages (from XML export)
         for title in wiki_pages:
             safe_title = title.replace(" ", "_")
             page_dir = wiki_dir / safe_title
+            page_dir.mkdir(parents=True, exist_ok=True)
+            (page_dir / "index.html").write_text(
+                redirect_template.format(title=title, target=target_for_lang(lang or "en", title)),
+                encoding="utf-8",
+            )
+
+        # Site-mapped wiki titles (so every site page can have a corresponding wiki page)
+        site_titles = [
+            # Sections
+            "evolution",
+            "longevity",
+            "shrines",
+            "philosophy",
+            "mythology",
+            "scripture",
+            # Calendar overview pages
+            "Gaian_calendar",
+            "Gaian_Era",
+            "Gaian_calendar_datepicker",
+            # Week navigation (nested paths)
+            "week",
+            *[f"week/{n}" for n in range(1, 8)],
+            # Scripture index
+            "Gaiad",
+        ]
+        for title in site_titles:
+            safe_title = title.replace(" ", "_")
+            page_dir = wiki_dir / safe_title  # may include slashes -> nested dirs
             page_dir.mkdir(parents=True, exist_ok=True)
             (page_dir / "index.html").write_text(
                 redirect_template.format(title=title, target=target_for_lang(lang or "en", title)),
@@ -354,6 +423,7 @@ def build_site():
     translations = load_translations()
     glossary = load_glossary()
     chapters = load_chapters()
+    weekday_names = load_weekday_names()
     wiki_pages = load_wiki_pages()
     today = date.today()
     gaian_today = gregorian_to_gaian(today)
@@ -409,6 +479,19 @@ def build_site():
         lang_dir = SITE_TMP_DIR / lang
         lang_dir.mkdir(parents=True, exist_ok=True)
 
+        # Preferred weekday display names (ritual/restored forms) per language.
+        preferred_weekday_names = []
+        for wd in WEEKDAYS:
+            entry = (weekday_names.get(wd["id"], {}) or {}).get(lang, {})
+            name = entry.get("preferred") or entry.get("common")
+            # fallback to translation file if weekday-names is incomplete
+            if not name:
+                try:
+                    name = t.get("weekdays", [])[wd["num"] - 1]
+                except Exception:
+                    name = wd["id"].title()
+            preferred_weekday_names.append(name)
+
         ctx = {
             "lang": lang,
             "t": t,
@@ -416,9 +499,10 @@ def build_site():
             "months": MONTHS,
             "elements": ELEMENT_THEMES,
             "weekdays_data": WEEKDAYS,
+            "preferred_weekday_names": preferred_weekday_names,
             "gaian_today": gaian_today,
             "iso_weekday": iso_weekday,
-            "today_gregorian": today.strftime("%B %d, %Y"),
+            "today_gregorian": format_gregorian(today, lang),
             "rtl": lang == "ar",
             "languages": list(translations.keys()),
             "is_cjk": lang in ("ja", "zh"),
@@ -565,8 +649,19 @@ def render_page(env, template_name, output_path, context):
     output_path.parent.mkdir(parents=True, exist_ok=True)
     try:
         if "lang" in context and "path_suffix" not in context:
-            try:
-                rel = output_path.relative_to(SITE_DIR / context["lang"])
+            # Compute language-switcher path suffix from the output path.
+            # NOTE: we build into SITE_TMP_DIR and later swap to SITE_DIR, so the
+            # output may not live under SITE_DIR at render time.
+            lang_root_candidates = [
+                SITE_DIR / context["lang"],
+                SITE_TMP_DIR / context["lang"],
+            ]
+            for lang_root in lang_root_candidates:
+                try:
+                    rel = output_path.relative_to(lang_root)
+                except ValueError:
+                    continue
+
                 if rel.name == "index.html":
                     parent = rel.parent.as_posix()
                     if parent == ".":
@@ -575,9 +670,9 @@ def render_page(env, template_name, output_path, context):
                         path_suffix = "/" + parent.strip("/") + "/"
                 else:
                     path_suffix = "/" + rel.as_posix()
+
                 context = {**context, "path_suffix": path_suffix}
-            except ValueError:
-                pass
+                break
         template = env.get_template(template_name)
         html = template.render(**context)
         with open(output_path, "w", encoding="utf-8") as f:

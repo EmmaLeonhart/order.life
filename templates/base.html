@@ -47,7 +47,8 @@
         <div class="wiki-cta-title">{{ t.nav.wiki }}</div>
         <div class="wiki-cta-subtitle">Help improve this page on the wiki.</div>
       </div>
-      <a id="wikiCtaLink" class="wiki-cta-btn" href="/{{ lang }}/wiki/Main_Page/">Go to the wiki page</a>
+      <a id="wikiCtaLink" class="wiki-cta-btn"
+         href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}/{{ lang }}/wiki{{ path_suffix }}{% else %}/{{ lang }}/wiki/Main_Page/{% endif %}">Go to the wiki page</a>
     </div>
   </div>
 
@@ -60,7 +61,7 @@
   <script>
     // Set up localized names for JS date display
     window.GAIAN_MONTH_NAMES = {{ t.months | tojson }};
-    window.GAIAN_WEEKDAY_NAMES = {{ t.weekdays | tojson }};
+    window.GAIAN_WEEKDAY_NAMES = {{ preferred_weekday_names | tojson }};
     // Wiki month names (match Miraheze titles)
     window.GAIAN_WIKI_MONTH = {
       sagittarius: 'Sagittarius',
@@ -106,12 +107,11 @@ function computeLocalWikiTitle(pathname, lang) {
   }
 
   // Week pages (aliases)
-  if (path === '/week/') return 'Week';
+  if (path === '/week/') return 'week';
   const weekNum = path.match(/^\/week\/(\d)\/$/);
   if (weekNum) {
     const n = parseInt(weekNum[1], 10);
-    const names = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
-    return names[n-1] || 'Week';
+    return `week/${n}`;
   }
 
   // Scripture index/chapter
@@ -121,17 +121,22 @@ function computeLocalWikiTitle(pathname, lang) {
 
   // Sections
   const sec = path.match(/^\/(evolution|longevity|shrines|philosophy|mythology|scripture)\/$/);
-  if (sec) return sec[1].charAt(0).toUpperCase() + sec[1].slice(1);
+  if (sec) return sec[1];
 
   return 'Main_Page';
 }
 
 function updateWikiCta() {
-  const el = document.getElementById('wikiCtaLink');
-  if (!el) return;
-  const lang = document.documentElement.lang || 'en';
-  const title = computeLocalWikiTitle(window.location.pathname, lang);
-  el.href = `/${lang}/wiki/${title}/`;
+  try {
+    const el = document.getElementById('wikiCtaLink');
+    if (!el) return;
+    const lang = document.documentElement.lang || 'en';
+    const title = computeLocalWikiTitle(window.location.pathname, lang);
+    el.href = `/${lang}/wiki/${title}/`;
+  } catch (e) {
+    // best-effort; keep the server-rendered href
+    console && console.warn && console.warn('wiki cta update failed', e);
+  }
 }
 
 document.addEventListener('DOMContentLoaded', updateWikiCta);
