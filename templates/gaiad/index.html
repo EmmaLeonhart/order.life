@@ -39,9 +39,9 @@
     {% set wd = weekdays_data[weekday_num - 1] %}
 
     <a href="/{{ lang }}/gaiad/{{ '%03d' % ch }}/"
-       class="chapter-tile {% if ch in chapters %}available{% else %}unavailable{% endif %}"
-       title="{{ t.months[m.id] }} {{ d }} · {{ t.weekdays[weekday_num - 1] }}">
-      <div class="chapter-tile-weekday">{{ wd.symbol }} {{ t.weekdays[weekday_num - 1] }}</div>
+       class="chapter-tile {% if ch == daily_reading_chapter %}today{% endif %} {% if ch in chapters %}available{% else %}unavailable{% endif %}"
+       title="{{ t.months[m.id] }} {{ d }} · {{ preferred_weekday_names[weekday_num - 1] }}">
+      <div class="chapter-tile-weekday">{{ wd.symbol }} {{ preferred_weekday_names[weekday_num - 1] }}</div>
       <div class="chapter-tile-body">
         <div class="chapter-tile-ch">{{ ch }}</div>
         <div class="chapter-tile-date">({{ d }})</div>
@@ -83,6 +83,13 @@
 }
 .chapter-tile.available { border-color: rgba(255,215,0,0.5); }
 .chapter-tile.unavailable { opacity: 0.45; }
+.chapter-tile.today {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(255, 215, 0, 0.35);
+}
+.chapter-tile.today .chapter-tile-weekday {
+  color: var(--accent);
+}
 .chapter-tile-weekday {
   font-size: 0.75em;
   color: var(--text-muted);

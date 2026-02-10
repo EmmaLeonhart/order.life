@@ -428,6 +428,8 @@ def build_site():
     today = date.today()
     gaian_today = gregorian_to_gaian(today)
     iso_weekday = today.isoweekday()  # Mon=1..Sun=7
+    gaian_today_doy = day_of_year(gaian_today["month"], gaian_today["day"])
+    daily_reading_chapter = gaian_today_doy if gaian_today_doy <= 364 else None
 
     print(f"Loaded {len(chapters)} Gaiad chapters, {len(wiki_pages)} wiki pages")
 
@@ -502,6 +504,7 @@ def build_site():
             "preferred_weekday_names": preferred_weekday_names,
             "gaian_today": gaian_today,
             "iso_weekday": iso_weekday,
+            "daily_reading_chapter": daily_reading_chapter,
             "today_gregorian": format_gregorian(today, lang),
             "rtl": lang == "ar",
             "languages": list(translations.keys()),
