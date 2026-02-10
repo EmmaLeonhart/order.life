@@ -64,6 +64,9 @@ function updateLiveGaianDate() {
   const today = gregorianToGaian(now);
   const els = document.querySelectorAll('.gaian-date-live');
   els.forEach(el => {
+    // If server already rendered a localized, linked date, don't override it.
+    if (el.dataset.server === '1') return;
+
     const lang = el.dataset.lang || 'en';
     const monthNames = window.GAIAN_MONTH_NAMES || {};
     const monthName = monthNames[today.monthData.id] || today.monthData.name_en;

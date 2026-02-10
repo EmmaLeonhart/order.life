@@ -16,15 +16,11 @@
     <div class="date-main gaian-date-live"
          data-lang="{{ lang }}"
          data-ge-abbrev="{{ t.gaian_era_abbrev }}"
-         data-base-path="/{{ lang }}">
-      {{ weekdays_data[iso_weekday - 1].symbol }}{{ gaian_today.month_data.symbol }}
-      <a href="/{{ lang }}/week/{{ iso_weekday }}/">{{ preferred_weekday_names[iso_weekday - 1] }}</a>,
-      <a href="/{{ lang }}/calendar/{{ gaian_today.month_data.id }}/">{{ t.months[gaian_today.month_data.id] }}</a>
-      <a href="/{{ lang }}/calendar/{{ gaian_today.month_data.id }}/{{ '%02d' % gaian_today.day }}/">{{ gaian_today.day }}</a>,
-      <a href="/{{ lang }}/calendar/12026/">{{ gaian_today.year }}</a>
-      <a href="/{{ lang }}/calendar/gaian-era/">{{ t.gaian_era_abbrev }}</a>
+         data-base-path="/{{ lang }}"
+         data-server="1">
+      {{ gaian_today_html | safe }}
     </div>
-    <div class="date-sub">{{ t.today_is }} · {{ today_gregorian }}</div>
+    <div class="date-sub">{{ t.today_is }} · {{ preferred_weekday_names[iso_weekday - 1] }} · {{ today_gregorian }}</div>
   </div>
 </div>
 

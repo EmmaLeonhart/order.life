@@ -126,6 +126,114 @@ def format_gregorian(d: date, lang: str) -> str:
     return fmt.format(year=d.year, month=month, day=d.day)
 
 
+RU_MONTH_GEN = {
+    "sagittarius": "Стрельца",
+    "capricorn": "Козерога",
+    "aquarius": "Водолея",
+    "pisces": "Рыб",
+    "aries": "Овна",
+    "taurus": "Тельца",
+    "gemini": "Близнецов",
+    "cancer": "Рака",
+    "leo": "Льва",
+    "virgo": "Девы",
+    "libra": "Весов",
+    "scorpius": "Скорпиона",
+    "ophiuchus": "Змееносца",
+    "horus": "Хоруса",
+}
+
+UK_MONTH_GEN = {
+    "sagittarius": "Стрільця",
+    "capricorn": "Козорога",
+    "aquarius": "Водолія",
+    "pisces": "Риб",
+    "aries": "Овна",
+    "taurus": "Тельця",
+    "gemini": "Близнюків",
+    "cancer": "Рака",
+    "leo": "Лева",
+    "virgo": "Діви",
+    "libra": "Терезів",
+    "scorpius": "Скорпіона",
+    "ophiuchus": "Змієносця",
+    "horus": "Горуса",
+}
+
+
+def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: int, preferred_weekday_names: list[str]) -> str:
+    """Return localized HTML for today's Gaian date (with links) in a language-shaped order."""
+    weekday = preferred_weekday_names[iso_weekday - 1]
+    ge = t.get("gaian_era_abbrev", "GE")
+    month_id = gaian_today["month_data"]["id"]
+    month_symbol = gaian_today["month_data"]["symbol"]
+    weekday_symbol = WEEKDAYS[iso_weekday - 1]["symbol"]
+    day = gaian_today["day"]
+    year = gaian_today["year"]
+
+    # Display month (may need genitive)
+    month_nom = (t.get("months", {}) or {}).get(month_id, month_id.title())
+    if lang == "ru":
+        month_disp = RU_MONTH_GEN.get(month_id, month_nom)
+        return (
+            f"{weekday_symbol}{month_symbol} "
+            f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>, "
+            f"{day}-й день <a href='/{lang}/calendar/{month_id}/'>{month_disp}</a>, "
+            f"<a href='/{lang}/calendar/12026/'>{year}</a> года "
+            f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a>"
+        )
+    if lang == "uk":
+        month_disp = UK_MONTH_GEN.get(month_id, month_nom)
+        return (
+            f"{weekday_symbol}{month_symbol} "
+            f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>, "
+            f"{day}-й день <a href='/{lang}/calendar/{month_id}/'>{month_disp}</a>, "
+            f"<a href='/{lang}/calendar/12026/'>{year}</a> року "
+            f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a>"
+        )
+    if lang == "ja":
+        month_disp = month_nom
+        return (
+            f"{weekday_symbol}{month_symbol} "
+            f"<a href='/{lang}/calendar/12026/'>{year}</a>"
+            f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a> "
+            f"<a href='/{lang}/calendar/{month_id}/'>{month_disp}</a>"
+            f"<a href='/{lang}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
+            f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>）"
+        )
+    if lang == "zh":
+        month_disp = month_nom
+        return (
+            f"{weekday_symbol}{month_symbol} "
+            f"<a href='/{lang}/calendar/12026/'>{year}</a>"
+            f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a> "
+            f"<a href='/{lang}/calendar/{month_id}/'>{month_disp}</a>"
+            f"<a href='/{lang}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
+            f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>）"
+        )
+    if lang == "ar":
+        month_disp = month_nom
+        return (
+            f"{weekday_symbol}{month_symbol} "
+            f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>، "
+            f"<a href='/{lang}/calendar/{month_id}/{day:02d}/'>{day}</a> "
+            f"<a href='/{lang}/calendar/{month_id}/'>{month_disp}</a>، "
+            f"<a href='/{lang}/calendar/12026/'>{year}</a> "
+            f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a>"
+        )
+
+    # Default (en/es/fr/hi etc): weekday, Month day, year GE
+    month_disp = month_nom
+    return (
+        f"{weekday_symbol}{month_symbol} "
+        f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>, "
+        f"<a href='/{lang}/calendar/{month_id}/'>{month_disp}</a> "
+        f"<a href='/{lang}/calendar/{month_id}/{day:02d}/'>{day}</a>, "
+        f"<a href='/{lang}/calendar/12026/'>{year}</a> "
+        f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a>"
+    )
+
+
 # ── Data Loading ─────────────────────────────────────────────────────────-
 
 def load_translations():
@@ -494,6 +602,8 @@ def build_site():
                     name = wd["id"].title()
             preferred_weekday_names.append(name)
 
+        gaian_today_html = build_gaian_date_html(lang, t, gaian_today, iso_weekday, preferred_weekday_names)
+
         ctx = {
             "lang": lang,
             "t": t,
@@ -503,6 +613,7 @@ def build_site():
             "weekdays_data": WEEKDAYS,
             "preferred_weekday_names": preferred_weekday_names,
             "gaian_today": gaian_today,
+            "gaian_today_html": gaian_today_html,
             "iso_weekday": iso_weekday,
             "daily_reading_chapter": daily_reading_chapter,
             "today_gregorian": format_gregorian(today, lang),
