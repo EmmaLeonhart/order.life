@@ -357,6 +357,7 @@ def build_site():
     wiki_pages = load_wiki_pages()
     today = date.today()
     gaian_today = gregorian_to_gaian(today)
+    iso_weekday = today.isoweekday()  # Mon=1..Sun=7
 
     print(f"Loaded {len(chapters)} Gaiad chapters, {len(wiki_pages)} wiki pages")
 
@@ -416,6 +417,7 @@ def build_site():
             "elements": ELEMENT_THEMES,
             "weekdays_data": WEEKDAYS,
             "gaian_today": gaian_today,
+            "iso_weekday": iso_weekday,
             "today_gregorian": today.strftime("%B %d, %Y"),
             "rtl": lang == "ar",
             "languages": list(translations.keys()),

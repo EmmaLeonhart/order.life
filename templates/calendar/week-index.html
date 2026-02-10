@@ -16,11 +16,11 @@
     {{ t.calendar_week_index_page.breadcrumb_week }}
   </div>
 
-  <div class="month-grid">
+  <div class="month-grid week-grid">
     {% for wd in weekdays_data %}
-    <a href="/{{ lang }}/calendar/week/{{ wd.id }}/" class="month-card" style="text-decoration:none; color:inherit;">
+    <a href="/{{ lang }}/week/{{ wd.num }}/" class="month-card week-card" style="text-decoration:none; color:inherit;">
       <div class="month-symbol">{{ wd.symbol }}</div>
-      <div class="month-name">{{ t.weekdays[wd.num - 1] }} — {{ wd.id | title }}</div>
+      <div class="month-name">{{ t.weekdays[wd.num - 1] }}</div>
       <div class="month-info">{{ wd.planet }}</div>
     </a>
     {% endfor %}

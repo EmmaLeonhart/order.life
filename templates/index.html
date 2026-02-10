@@ -17,7 +17,12 @@
          data-lang="{{ lang }}"
          data-ge-abbrev="{{ t.gaian_era_abbrev }}"
          data-base-path="/{{ lang }}">
-      {{ gaian_today.month_data.symbol }} {{ t.months[gaian_today.month_data.id] }} {{ gaian_today.day }}, {{ gaian_today.year }} {{ t.gaian_era_abbrev }}
+      {{ weekdays_data[iso_weekday - 1].symbol }}{{ gaian_today.month_data.symbol }}
+      <a href="/{{ lang }}/week/{{ iso_weekday }}/">{{ t.weekdays[iso_weekday - 1] }}</a>,
+      <a href="/{{ lang }}/calendar/{{ gaian_today.month_data.id }}/">{{ t.months[gaian_today.month_data.id] }}</a>
+      <a href="/{{ lang }}/calendar/{{ gaian_today.month_data.id }}/{{ '%02d' % gaian_today.day }}/">{{ gaian_today.day }}</a>,
+      <a href="/{{ lang }}/calendar/12026/">{{ gaian_today.year }}</a>
+      <a href="/{{ lang }}/calendar/gaian-era/">{{ t.gaian_era_abbrev }}</a>
     </div>
     <div class="date-sub">{{ t.today_is }} · {{ today_gregorian }}</div>
   </div>

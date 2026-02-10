@@ -299,6 +299,20 @@ nav .nav-right {
 .month-card.healing { border-left: 3px solid var(--healing); }
 .month-card.intercalary { border-left: 3px solid var(--intercalary); }
 
+/* Week grid (smaller tiles than month cards) */
+.week-grid {
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
+.week-card {
+  padding: 14px;
+}
+.week-card .month-symbol {
+  font-size: 1.6em;
+}
+.week-card .month-name {
+  font-size: 0.95em;
+}
+
 /* ── Days Grid (Month page) ─────────────────────────────────────────── */
 
 .days-grid {
