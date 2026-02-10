@@ -60,7 +60,8 @@ function dayOfYear(monthNum, dayInMonth) {
  * Expects data attributes for localized month names on the element.
  */
 function updateLiveGaianDate() {
-  const today = gregorianToGaian(new Date());
+  const now = new Date();
+  const today = gregorianToGaian(now);
   const els = document.querySelectorAll('.gaian-date-live');
   els.forEach(el => {
     const lang = el.dataset.lang || 'en';
@@ -70,7 +71,7 @@ function updateLiveGaianDate() {
     const basePath = el.dataset.basePath || ('/' + lang);
 
     // Weekday info (ISO: Mon=1..Sun=7)
-    const weekdayNum = dayOfWeek;
+    const weekdayNum = getISODayOfWeek(now);
     const weekdaySymbols = ['☽','♂','☿','♃','♀','♄','☉'];
     const weekdaySymbol = weekdaySymbols[weekdayNum - 1] || '';
     const weekdayName = (window.GAIAN_WEEKDAY_NAMES && window.GAIAN_WEEKDAY_NAMES[weekdayNum - 1]) || null;
