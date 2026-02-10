@@ -75,7 +75,7 @@ function updateLiveGaianDate() {
     const weekdaySymbols = ['☽','♂','☿','♃','♀','♄','☉'];
     const weekdaySymbol = weekdaySymbols[weekdayNum - 1] || '';
     const weekdayName = (window.GAIAN_WEEKDAY_NAMES && window.GAIAN_WEEKDAY_NAMES[weekdayNum - 1]) || null;
-    const weekdayText = weekdayName || ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'][weekdayNum - 1];
+    const weekdayText = weekdayName || ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'][weekdayNum - 1];
 
     // Build clickable date display
     const weekdayLink = `<a href="${basePath}/week/${weekdayNum}/">${weekdayText}</a>`;
