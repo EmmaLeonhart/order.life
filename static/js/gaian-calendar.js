@@ -69,13 +69,21 @@ function updateLiveGaianDate() {
     const geAbbrev = el.dataset.geAbbrev || 'GE';
     const basePath = el.dataset.basePath || ('/' + lang);
 
+    // Weekday info (ISO: Mon=1..Sun=7)
+    const weekdayNum = dayOfWeek;
+    const weekdaySymbols = ['☽','♂','☿','♃','♀','♄','☉'];
+    const weekdaySymbol = weekdaySymbols[weekdayNum - 1] || '';
+    const weekdayName = (window.GAIAN_WEEKDAY_NAMES && window.GAIAN_WEEKDAY_NAMES[weekdayNum - 1]) || null;
+    const weekdayText = weekdayName || ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'][weekdayNum - 1];
+
     // Build clickable date display
+    const weekdayLink = `<a href="${basePath}/week/${weekdayNum}/">${weekdayText}</a>`;
     const monthLink = `<a href="${basePath}/calendar/${today.monthData.id}">${monthName}</a>`;
     const dayLink = `<a href="${basePath}/calendar/${today.monthData.id}/${String(today.day).padStart(2,'0')}">${today.day}</a>`;
     const yearLink = `<a href="${basePath}/calendar/12026">${today.year}</a>`;
     const geLink = `<a href="${basePath}/calendar/gaian-era">${geAbbrev}</a>`;
 
-    el.innerHTML = `${today.monthData.symbol} ${monthLink} ${dayLink}, ${yearLink} ${geLink}`;
+    el.innerHTML = `${weekdaySymbol}${today.monthData.symbol} ${weekdayLink}, ${monthLink} ${dayLink}, ${yearLink} ${geLink}`;
   });
 }
 

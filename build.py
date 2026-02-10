@@ -449,13 +449,25 @@ def build_site():
         # ── Weekday pages ──
         week_dir = cal_dir / "week"
         week_dir.mkdir(parents=True, exist_ok=True)
-        render_page(env, "calendar/week-index.html", week_dir / "index.html",
-                    {**ctx})
+        render_page(env, "calendar/week-index.html", week_dir / "index.html", {**ctx})
         for wd in WEEKDAYS:
             wd_dir = week_dir / wd["id"]
             wd_dir.mkdir(parents=True, exist_ok=True)
-            render_page(env, "calendar/weekday.html", wd_dir / "index.html",
-                        {**ctx, "weekday": wd})
+            render_page(env, "calendar/weekday.html", wd_dir / "index.html", {**ctx, "weekday": wd})
+
+        # Also generate shorthand aliases: /{lang}/week/ and /{lang}/week/<N>/
+        week_short_dir = lang_dir / "week"
+        week_short_dir.mkdir(parents=True, exist_ok=True)
+        render_page(env, "calendar/week-index.html", week_short_dir / "index.html", {**ctx})
+        for wd in WEEKDAYS:
+            # /week/<id>/
+            wd_short_dir = week_short_dir / wd["id"]
+            wd_short_dir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "calendar/weekday.html", wd_short_dir / "index.html", {**ctx, "weekday": wd})
+            # /week/<num>/
+            num_dir = week_short_dir / str(wd["num"])
+            num_dir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "calendar/weekday.html", num_dir / "index.html", {**ctx, "weekday": wd})
 
         # ── Month pages ──
         for m in MONTHS:

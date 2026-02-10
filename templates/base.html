@@ -41,6 +41,16 @@
 
   {% block content %}{% endblock %}
 
+  <div class="wiki-cta">
+    <div class="wiki-cta-inner">
+      <div class="wiki-cta-text">
+        <div class="wiki-cta-title">{{ t.nav.wiki }}</div>
+        <div class="wiki-cta-subtitle">Help improve this page on the wiki.</div>
+      </div>
+      <a id="wikiCtaLink" class="wiki-cta-btn" href="/{{ lang }}/wiki/Main_Page/">Go to the wiki page</a>
+    </div>
+  </div>
+
   <footer>
     <p>{{ t.religion_kanji }} · {{ t.religion_name }} · {{ t.site_title }}</p>
     <p><a href="/{{ lang }}/wiki/Main_Page/">{{ t.nav.wiki }}</a></p>
@@ -48,8 +58,83 @@
 
   {% block scripts %}{% endblock %}
   <script>
-    // Set up localized month names for JS date display
+    // Set up localized names for JS date display
     window.GAIAN_MONTH_NAMES = {{ t.months | tojson }};
+    window.GAIAN_WEEKDAY_NAMES = {{ t.weekdays | tojson }};
+    // Wiki month names (match Miraheze titles)
+    window.GAIAN_WIKI_MONTH = {
+      sagittarius: 'Sagittarius',
+      capricorn: 'Capricorn',
+      aquarius: 'Aquarius',
+      pisces: 'Pisces',
+      aries: 'Aries',
+      taurus: 'Taurus',
+      gemini: 'Gemini',
+      cancer: 'Cancer',
+      leo: 'Leo',
+      virgo: 'Virgo',
+      libra: 'Libra',
+      scorpius: 'Scorpio',
+      ophiuchus: 'Ophiuchus',
+      horus: 'Horus'
+    };
+
+  <script>
+function computeLocalWikiTitle(pathname, lang) {
+  const strip = pathname.replace(new RegExp('^/' + lang + '(/|$)'), '/');
+  const path = strip.replace(/\/+$/, '/');
+
+  if (path === '/' || path === '/index.html') return 'Main_Page';
+
+  // Calendar
+  if (path === '/calendar/' ) return 'Gaian_calendar';
+  if (path === '/calendar/gaian-era/' ) return 'Gaian_Era';
+  if (path === '/calendar/datepicker/' ) return 'Gaian_calendar_datepicker';
+
+  const calDay = path.match(/^\/calendar\/([a-z-]+)\/(\d{2})\/$/);
+  if (calDay) {
+    const monthId = calDay[1];
+    const day = parseInt(calDay[2], 10);
+    const monthWiki = (window.GAIAN_WIKI_MONTH && window.GAIAN_WIKI_MONTH[monthId]) || monthId;
+    return `${monthWiki}_${day}`;
+  }
+  const calMonth = path.match(/^\/calendar\/([a-z-]+)\/$/);
+  if (calMonth) {
+    const monthId = calMonth[1];
+    const monthWiki = (window.GAIAN_WIKI_MONTH && window.GAIAN_WIKI_MONTH[monthId]) || monthId;
+    return `${monthWiki}`;
+  }
+
+  // Week pages (aliases)
+  if (path === '/week/') return 'Week';
+  const weekNum = path.match(/^\/week\/(\d)\/$/);
+  if (weekNum) {
+    const n = parseInt(weekNum[1], 10);
+    const names = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
+    return names[n-1] || 'Week';
+  }
+
+  // Scripture index/chapter
+  if (path === '/gaiad/') return 'Gaiad';
+  const ch = path.match(/^\/gaiad\/(\d{3})\/$/);
+  if (ch) return `Gaiad_${ch[1]}`;
+
+  // Sections
+  const sec = path.match(/^\/(evolution|longevity|shrines|philosophy|mythology|scripture)\/$/);
+  if (sec) return sec[1].charAt(0).toUpperCase() + sec[1].slice(1);
+
+  return 'Main_Page';
+}
+
+function updateWikiCta() {
+  const el = document.getElementById('wikiCtaLink');
+  if (!el) return;
+  const lang = document.documentElement.lang || 'en';
+  const title = computeLocalWikiTitle(window.location.pathname, lang);
+  el.href = `/${lang}/wiki/${title}/`;
+}
+
+document.addEventListener('DOMContentLoaded', updateWikiCta);
   </script>
 </body>
 </html>
