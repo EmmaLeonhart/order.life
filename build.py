@@ -617,7 +617,7 @@ def build_site():
             "iso_weekday": iso_weekday,
             "daily_reading_chapter": daily_reading_chapter,
             "today_gregorian": format_gregorian(today, lang),
-            "rtl": lang == "ar",
+            "rtl": lang in ("ar", "he"),
             "languages": list(translations.keys()),
             "is_cjk": lang in ("ja", "zh"),
         }
