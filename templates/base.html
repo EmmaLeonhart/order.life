@@ -12,13 +12,7 @@
 <body>
   <nav>
     <div class="nav-inner">
-      <a class="nav-brand" href="/{{ lang }}/">
-        {% if is_cjk %}
-          {{ t.site_title }}
-        {% else %}
-          <strong>命</strong> {{ t.site_title }}
-        {% endif %}
-      </a>
+      <a class="nav-brand" href="/{{ lang }}/">{{ t.site_title }}</a>
       <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
       <div class="nav-links">
         <a href="/{{ lang }}/calendar/">{{ t.nav.calendar }}</a>
