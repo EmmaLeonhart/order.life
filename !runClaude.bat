@@ -6,4 +6,4 @@ echo Launching Claude from repo root:
 echo %cd%
 echo ==========================================
 echo.
-start "" cmd /k "cd /d ""%cd%"" ^&^& claude"
+start "" /D "%cd%" cmd /k claude
