@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 {% block title %}{{ t.homepage.hero_title }}{% endblock %}
+{% block meta_description %}{{ t.homepage.hero_subtitle }}{% endblock %}
+{% block og_title %}{{ t.homepage.hero_title }} — {{ t.religion_name }}{% endblock %}
+{% block og_description %}{{ t.homepage.hero_subtitle }}{% endblock %}
+{% block twitter_title %}{{ t.homepage.hero_title }} — {{ t.religion_name }}{% endblock %}
+{% block twitter_description %}{{ t.homepage.hero_subtitle }}{% endblock %}
 
 {% block content %}
 <div class="hero">

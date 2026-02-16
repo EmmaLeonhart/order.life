@@ -4,6 +4,17 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% block title %}{{ t.site_title }}{% endblock %} — {{ t.religion_kanji }}</title>
+  <meta name="description" content="{% block meta_description %}{{ t.tagline }}{% endblock %}">
+  <meta property="og:site_name" content="{{ t.site_title }}">
+  <meta property="og:type" content="{% block og_type %}website{% endblock %}">
+  <meta property="og:title" content="{% block og_title %}{{ t.site_title }} — {{ t.religion_name }}{% endblock %}">
+  <meta property="og:description" content="{% block og_description %}{{ t.tagline }}{% endblock %}">
+  <meta property="og:url" content="https://order.life{{ base }}{% if path_suffix %}{{ path_suffix }}{% else %}/{% endif %}">
+  <meta property="og:image" content="https://order.life/static/mei.svg">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% block twitter_title %}{{ t.site_title }} — {{ t.religion_name }}{% endblock %}">
+  <meta name="twitter:description" content="{% block twitter_description %}{{ t.tagline }}{% endblock %}">
+  <meta name="twitter:image" content="https://order.life/static/mei.svg">
   <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/static/css/style.css">
   <script src="/static/js/gaian-calendar.js" defer></script>
