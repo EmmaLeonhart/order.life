@@ -7,18 +7,18 @@
   <p class="day-meta">
     {{ t.day_of_year }}: {{ day_of_year }}
     · {{ weekday_data.symbol }} {{ t.weekdays[weekday_num - 1] }}
-    · <a href="/{{ lang }}/calendar/week/{{ weekday_data.id }}/">{{ weekday_data.id | title }}</a>
+    · <a href="{{ base }}/calendar/week/{{ weekday_data.id }}/">{{ weekday_data.id | title }}</a>
     {% if chapter_num %} · {{ t.gaiad }} {{ chapter_num }}{% endif %}
   </p>
 </div>
 
 <div class="container">
   <div class="breadcrumb">
-    <a href="/{{ lang }}/">{{ t.nav.home }}</a>
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
     <span>›</span>
-    <a href="/{{ lang }}/calendar/">{{ t.nav.calendar }}</a>
+    <a href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
     <span>›</span>
-    <a href="/{{ lang }}/calendar/{{ month.id }}/">{{ month_display_name }}</a>
+    <a href="{{ base }}/calendar/{{ month.id }}/">{{ month_display_name }}</a>
     <span>›</span>
     {{ day_num }}
   </div>
@@ -32,9 +32,9 @@
 
   <div class="day-links">
     {% if chapter_num %}
-    <a href="/{{ lang }}/gaiad/{{ '%03d' % chapter_num }}/">{{ t.read_chapter }}: {{ t.gaiad }} {{ chapter_num }}</a>
+    <a href="{{ base }}/gaiad/{{ '%03d' % chapter_num }}/">{{ t.read_chapter }}: {{ t.gaiad }} {{ chapter_num }}</a>
     {% endif %}
-    <a href="/{{ lang }}/wiki/{{ month_display_name }}_{{ day_num }}/">{{ t.nav.wiki }}</a>
+    <a href="{{ base }}/wiki/{{ month_display_name }}_{{ day_num }}/">{{ t.nav.wiki }}</a>
   </div>
 
   {# Wiki overview content (holidays, traditions, etc.) #}
@@ -48,12 +48,12 @@
   {# Day navigation #}
   <div class="chapter-nav">
     {% if day_num > 1 %}
-    <a href="/{{ lang }}/calendar/{{ month.id }}/{{ '%02d' % (day_num - 1) }}/">{{ t.prev }}: {{ month_display_name }} {{ day_num - 1 }}</a>
+    <a href="{{ base }}/calendar/{{ month.id }}/{{ '%02d' % (day_num - 1) }}/">{{ t.prev }}: {{ month_display_name }} {{ day_num - 1 }}</a>
     {% else %}
     <span></span>
     {% endif %}
     {% if day_num < days_in_month %}
-    <a href="/{{ lang }}/calendar/{{ month.id }}/{{ '%02d' % (day_num + 1) }}/">{{ t.next }}: {{ month_display_name }} {{ day_num + 1 }}</a>
+    <a href="{{ base }}/calendar/{{ month.id }}/{{ '%02d' % (day_num + 1) }}/">{{ t.next }}: {{ month_display_name }} {{ day_num + 1 }}</a>
     {% else %}
     <span></span>
     {% endif %}

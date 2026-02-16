@@ -9,9 +9,9 @@
 
 <div class="container">
   <div class="breadcrumb">
-    <a href="/{{ lang }}/">{{ t.nav.home }}</a>
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
     <span>›</span>
-    <a href="/{{ lang }}/calendar/">{{ t.nav.calendar }}</a>
+    <a href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
     <span>›</span>
     {{ display_year }}
   </div>
@@ -24,7 +24,7 @@
   <div class="month-grid">
     {% for m in months %}
     {% if m.num <= 13 %}
-    <a href="/{{ lang }}/calendar/{{ m.id }}/" class="month-card {{ m.element }}" style="text-decoration:none; color:inherit;">
+    <a href="{{ base }}/calendar/{{ m.id }}/" class="month-card {{ m.element }}" style="text-decoration:none; color:inherit;">
       <div class="month-symbol">{{ m.symbol }}</div>
       <div class="month-name">{{ t.months[m.id] }}</div>
       <div class="month-info">28 {{ t.days }}</div>

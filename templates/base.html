@@ -19,22 +19,22 @@
 <body>
   <nav>
     <div class="nav-inner">
-      <a class="nav-brand" href="/{{ lang }}/">{{ t.site_title }}</a>
+      <a class="nav-brand" href="{{ base }}/">{{ t.site_title }}</a>
       <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')">☰</button>
       <div class="nav-links">
-        <a href="/{{ lang }}/calendar/">{{ t.nav.calendar }}</a>
-        <a href="/{{ lang }}/gaiad/">{{ t.nav.scripture }}</a>
-        <a href="/{{ lang }}/mythology/">{{ t.nav.mythology }}</a>
-        <a href="/{{ lang }}/philosophy/">{{ t.nav.philosophy }}</a>
-        <a href="/{{ lang }}/shrines/">{{ t.nav.shrines }}</a>
-        <a href="/{{ lang }}/longevity/">{{ t.nav.longevity }}</a>
-        <a href="/{{ lang }}/evolution/">{{ t.nav.evolution }}</a>
-        <a href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}/{{ lang }}/wiki{{ path_suffix }}{% else %}/{{ lang }}/wiki/Main_Page/{% endif %}">{{ t.nav.wiki }}</a>
+        <a href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
+        <a href="{{ base }}/gaiad/">{{ t.nav.scripture }}</a>
+        <a href="{{ base }}/mythology/">{{ t.nav.mythology }}</a>
+        <a href="{{ base }}/philosophy/">{{ t.nav.philosophy }}</a>
+        <a href="{{ base }}/shrines/">{{ t.nav.shrines }}</a>
+        <a href="{{ base }}/longevity/">{{ t.nav.longevity }}</a>
+        <a href="{{ base }}/evolution/">{{ t.nav.evolution }}</a>
+        <a href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}{{ base }}/wiki{{ path_suffix }}{% else %}{{ base }}/wiki/Main_Page/{% endif %}">{{ t.nav.wiki }}</a>
       </div>
       <div class="nav-right">
         <div class="lang-switcher">
           {% for l in languages %}
-          <a href="/{{ l }}{{ path_suffix }}"{% if l == lang %} class="active"{% endif %}>{{ l }}</a>
+          <a href="{{ lang_bases[l] }}{{ path_suffix }}"{% if l == lang %} class="active"{% endif %}>{{ l }}</a>
           {% endfor %}
         </div>
       </div>
@@ -50,18 +50,19 @@
         <div class="wiki-cta-subtitle">Help improve this page on the wiki.</div>
       </div>
       <a id="wikiCtaLink" class="wiki-cta-btn"
-         href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}/{{ lang }}/wiki{{ path_suffix }}{% else %}/{{ lang }}/wiki/Main_Page/{% endif %}">Go to the wiki page</a>
+         href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}{{ base }}/wiki{{ path_suffix }}{% else %}{{ base }}/wiki/Main_Page/{% endif %}">Go to the wiki page</a>
     </div>
   </div>
 
   <footer>
     <p>{{ t.religion_kanji }} · {{ t.religion_name }} · {{ t.site_title }}</p>
-    <p><a href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}/{{ lang }}/wiki{{ path_suffix }}{% else %}/{{ lang }}/wiki/Main_Page/{% endif %}">{{ t.nav.wiki }}</a></p>
+    <p><a href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}{{ base }}/wiki{{ path_suffix }}{% else %}{{ base }}/wiki/Main_Page/{% endif %}">{{ t.nav.wiki }}</a></p>
   </footer>
 
   {% block scripts %}{% endblock %}
   <script>
     // Set up localized names for JS date display
+    window.LANG_BASE = {{ base | tojson }};
     window.GAIAN_MONTH_NAMES = {{ t.months | tojson }};
     window.GAIAN_WEEKDAY_NAMES = {{ preferred_weekday_names | tojson }};
     // Wiki month names (match Miraheze titles)
@@ -84,8 +85,10 @@
   </script>
 
   <script>
-function computeLocalWikiTitle(pathname, lang) {
-  const strip = pathname.replace(new RegExp('^/' + lang + '(/|$)'), '/');
+function computeLocalWikiTitle(pathname, langBase) {
+  // Strip the language base prefix (e.g. '/ja') from the pathname
+  var strip = pathname;
+  if (langBase) strip = pathname.replace(new RegExp('^' + langBase.replace('/', '\\/') + '(/|$)'), '/');
   const path = strip.replace(/\/+$/, '/');
 
   if (path === '/' || path === '/index.html') return 'Main_Page';
@@ -133,9 +136,9 @@ function updateWikiCta() {
   try {
     const el = document.getElementById('wikiCtaLink');
     if (!el) return;
-    const lang = document.documentElement.lang || 'en';
-    const title = computeLocalWikiTitle(window.location.pathname, lang);
-    el.href = `/${lang}/wiki/${title}/`;
+    const langBase = window.LANG_BASE || '';
+    const title = computeLocalWikiTitle(window.location.pathname, langBase);
+    el.href = `${langBase}/wiki/${title}/`;
   } catch (e) {
     // best-effort; keep the server-rendered href
     console && console.warn && console.warn('wiki cta update failed', e);

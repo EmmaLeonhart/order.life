@@ -4,9 +4,9 @@
 {% block content %}
 <div class="container">
   <div class="breadcrumb">
-    <a href="/{{ lang }}/">{{ t.nav.home }}</a>
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
     <span>›</span>
-    <a href="/{{ lang }}/gaiad/">{{ t.gaiad }}</a>
+    <a href="{{ base }}/gaiad/">{{ t.gaiad }}</a>
     <span>›</span>
     {{ t.chapter }} {{ chapter_num }}
   </div>
@@ -17,8 +17,8 @@
       {% if chapter_month %}
       <p class="chapter-meta">
         {{ chapter_month.symbol }}
-        <a href="/{{ lang }}/calendar/{{ chapter_month.id }}/">{{ t.months[chapter_month.id] }}</a>
-        <a href="/{{ lang }}/calendar/{{ chapter_month.id }}/{{ '%02d' % chapter_day }}/">{{ chapter_day }}</a>
+        <a href="{{ base }}/calendar/{{ chapter_month.id }}/">{{ t.months[chapter_month.id] }}</a>
+        <a href="{{ base }}/calendar/{{ chapter_month.id }}/{{ '%02d' % chapter_day }}/">{{ chapter_day }}</a>
         · {{ t.day_of_year }} {{ chapter_num }}
       </p>
       {% endif %}
@@ -35,10 +35,10 @@
 
     <div class="chapter-nav">
       {% if prev_chapter %}
-      <a href="/{{ lang }}/gaiad/{{ '%03d' % prev_chapter }}/">{{ t.prev }}: {{ prev_chapter }}</a>
+      <a href="{{ base }}/gaiad/{{ '%03d' % prev_chapter }}/">{{ t.prev }}: {{ prev_chapter }}</a>
       {% else %}<span></span>{% endif %}
       {% if next_chapter %}
-      <a href="/{{ lang }}/gaiad/{{ '%03d' % next_chapter }}/">{{ t.next }}: {{ next_chapter }}</a>
+      <a href="{{ base }}/gaiad/{{ '%03d' % next_chapter }}/">{{ t.next }}: {{ next_chapter }}</a>
       {% else %}<span></span>{% endif %}
     </div>
   </div>

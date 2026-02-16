@@ -12,7 +12,7 @@
     <div class="date-main gaian-date-live"
          data-lang="{{ lang }}"
          data-ge-abbrev="{{ t.gaian_era_abbrev }}"
-         data-base-path="/{{ lang }}">
+         data-base-path="{{ base }}">
     </div>
   </div>
 
@@ -55,7 +55,7 @@
 
   <div class="month-grid">
     {% for m in months %}
-    <a href="/{{ lang }}/calendar/{{ m.id }}/" class="month-card {{ m.element }}" style="text-decoration:none; color: inherit;">
+    <a href="{{ base }}/calendar/{{ m.id }}/" class="month-card {{ m.element }}" style="text-decoration:none; color: inherit;">
       <div class="month-symbol">{{ m.symbol }}</div>
       <div class="month-name">{{ t.months[m.id] }}</div>
       <div class="month-info">
@@ -71,8 +71,8 @@
   </p>
 
   <div class="text-center mt-40">
-    <a class="btn" href="/{{ lang }}/calendar/datepicker">{{ t.nav.datepicker }}</a>
-    <a class="btn" href="/{{ lang }}/calendar/gaian-era" style="margin-left: 10px;">{{ t.gaian_era }}</a>
+    <a class="btn" href="{{ base }}/calendar/datepicker">{{ t.nav.datepicker }}</a>
+    <a class="btn" href="{{ base }}/calendar/gaian-era" style="margin-left: 10px;">{{ t.gaian_era }}</a>
   </div>
 </div>
 {% endblock %}

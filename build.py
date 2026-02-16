@@ -35,6 +35,7 @@ SITE_TMP_DIR = SCRIPT_DIR / "site_tmp"
 TEMPLATES_DIR = SCRIPT_DIR / "templates"
 CONTENT_DIR = SCRIPT_DIR / "content"
 EPIC_DIR = SCRIPT_DIR / "epic"
+DEFAULT_LANG = "en"  # English pages live at site root (no /en/ prefix)
 
 try:
     from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -161,6 +162,11 @@ UK_MONTH_GEN = {
 }
 
 
+def lang_base(lang: str) -> str:
+    """Return the URL base path for a language: '' for English, '/ja' for Japanese, etc."""
+    return "" if lang == DEFAULT_LANG else f"/{lang}"
+
+
 def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: int, preferred_weekday_names: list[str]) -> str:
     """Return localized HTML for today's Gaian date (with links) in a language-shaped order."""
     weekday = preferred_weekday_names[iso_weekday - 1]
@@ -170,6 +176,7 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
     weekday_symbol = WEEKDAYS[iso_weekday - 1]["symbol"]
     day = gaian_today["day"]
     year = gaian_today["year"]
+    b = lang_base(lang)
 
     # Display month (may need genitive)
     month_nom = (t.get("months", {}) or {}).get(month_id, month_id.title())
@@ -177,60 +184,60 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
         month_disp = RU_MONTH_GEN.get(month_id, month_nom)
         return (
             f"{weekday_symbol}{month_symbol} "
-            f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>, "
-            f"{day}-й день <a href='/{lang}/calendar/{month_id}/'>{month_disp}</a>, "
-            f"<a href='/{lang}/calendar/12026/'>{year}</a> года "
-            f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a>"
+            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>, "
+            f"{day}-й день <a href='{b}/calendar/{month_id}/'>{month_disp}</a>, "
+            f"<a href='{b}/calendar/12026/'>{year}</a> года "
+            f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
         )
     if lang == "uk":
         month_disp = UK_MONTH_GEN.get(month_id, month_nom)
         return (
             f"{weekday_symbol}{month_symbol} "
-            f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>, "
-            f"{day}-й день <a href='/{lang}/calendar/{month_id}/'>{month_disp}</a>, "
-            f"<a href='/{lang}/calendar/12026/'>{year}</a> року "
-            f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a>"
+            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>, "
+            f"{day}-й день <a href='{b}/calendar/{month_id}/'>{month_disp}</a>, "
+            f"<a href='{b}/calendar/12026/'>{year}</a> року "
+            f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
         )
     if lang == "ja":
         month_disp = month_nom
         return (
             f"{weekday_symbol}{month_symbol} "
-            f"<a href='/{lang}/calendar/12026/'>{year}</a>"
-            f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a> "
-            f"<a href='/{lang}/calendar/{month_id}/'>{month_disp}</a>"
-            f"<a href='/{lang}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
-            f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>）"
+            f"<a href='{b}/calendar/12026/'>{year}</a>"
+            f"<a href='{b}/calendar/gaian-era/'>{ge}</a> "
+            f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>"
+            f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
+            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>）"
         )
     if lang == "zh":
         month_disp = month_nom
         return (
             f"{weekday_symbol}{month_symbol} "
-            f"<a href='/{lang}/calendar/12026/'>{year}</a>"
-            f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a> "
-            f"<a href='/{lang}/calendar/{month_id}/'>{month_disp}</a>"
-            f"<a href='/{lang}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
-            f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>）"
+            f"<a href='{b}/calendar/12026/'>{year}</a>"
+            f"<a href='{b}/calendar/gaian-era/'>{ge}</a> "
+            f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>"
+            f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
+            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>）"
         )
     if lang == "ar":
         month_disp = month_nom
         return (
             f"{weekday_symbol}{month_symbol} "
-            f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>، "
-            f"<a href='/{lang}/calendar/{month_id}/{day:02d}/'>{day}</a> "
-            f"<a href='/{lang}/calendar/{month_id}/'>{month_disp}</a>، "
-            f"<a href='/{lang}/calendar/12026/'>{year}</a> "
-            f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a>"
+            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>، "
+            f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a> "
+            f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>، "
+            f"<a href='{b}/calendar/12026/'>{year}</a> "
+            f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
         )
 
     # Default (en/es/fr/hi etc): weekday, Month day, year GE
     month_disp = month_nom
     return (
         f"{weekday_symbol}{month_symbol} "
-        f"<a href='/{lang}/week/{iso_weekday}/'>{weekday}</a>, "
-        f"<a href='/{lang}/calendar/{month_id}/'>{month_disp}</a> "
-        f"<a href='/{lang}/calendar/{month_id}/{day:02d}/'>{day}</a>, "
-        f"<a href='/{lang}/calendar/12026/'>{year}</a> "
-        f"<a href='/{lang}/calendar/gaian-era/'>{ge}</a>"
+        f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>, "
+        f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a> "
+        f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>, "
+        f"<a href='{b}/calendar/12026/'>{year}</a> "
+        f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
     )
 
 
@@ -508,20 +515,15 @@ window.location.href = target;
             encoding="utf-8",
         )
 
-    # Per-language wiki paths: /{lang}/wiki/...
+    # Per-language wiki paths: /{lang}/wiki/... (English at /wiki/)
     for lang in languages:
-        write_wiki_tree(
-            SITE_DIR / lang / "wiki",
-            js_prefix_regex=rf"/^\\/{lang}\\/wiki\\/?/",
-            lang=lang,
-        )
-
-    # Root wiki paths: /wiki/... (treat as English / unprefixed)
-    write_wiki_tree(
-        SITE_DIR / "wiki",
-        js_prefix_regex=r"/^\\/wiki\\/?/",
-        lang="en",
-    )
+        if lang == DEFAULT_LANG:
+            wiki_dir = SITE_DIR / "wiki"
+            js_regex = r"/^\\/wiki\\/?/"
+        else:
+            wiki_dir = SITE_DIR / lang / "wiki"
+            js_regex = rf"/^\\/{lang}\\/wiki\\/?/"
+        write_wiki_tree(wiki_dir, js_prefix_regex=js_regex, lang=lang)
 
 
 # ── Build Functions ────────────────────────────────────────────────────────
@@ -583,10 +585,17 @@ def build_site():
     if static_src.exists():
         shutil.copytree(static_src, static_dst)
 
+    # Pre-compute base paths for language switcher
+    lang_bases = {l: lang_base(l) for l in translations}
+
     # Build for each language
     for lang, t in translations.items():
         print(f"Building {lang}...")
-        lang_dir = SITE_TMP_DIR / lang
+        # English pages live at root; other languages get a subdirectory
+        if lang == DEFAULT_LANG:
+            lang_dir = SITE_TMP_DIR
+        else:
+            lang_dir = SITE_TMP_DIR / lang
         lang_dir.mkdir(parents=True, exist_ok=True)
 
         # Preferred weekday display names (ritual/restored forms) per language.
@@ -604,8 +613,11 @@ def build_site():
 
         gaian_today_html = build_gaian_date_html(lang, t, gaian_today, iso_weekday, preferred_weekday_names)
 
+        base = lang_base(lang)
         ctx = {
             "lang": lang,
+            "base": base,
+            "lang_bases": lang_bases,
             "t": t,
             "g": glossary.get(lang, {}),
             "months": MONTHS,
@@ -733,9 +745,7 @@ def build_site():
             sec_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, f"sections/{section}.html", sec_dir / "index.html", ctx)
 
-    # ── Root index (language selector) ──
-    render_page(env, "root.html", SITE_TMP_DIR / "index.html",
-                {"languages": list(translations.keys()), "translations": translations})
+    # English homepage is the site root (no separate language selector page needed).
 
     # ── Wiki Redirects ──
     print("Generating wiki redirects...")
@@ -769,10 +779,14 @@ def render_page(env, template_name, output_path, context):
             # Compute language-switcher path suffix from the output path.
             # NOTE: we build into SITE_TMP_DIR and later swap to SITE_DIR, so the
             # output may not live under SITE_DIR at render time.
-            lang_root_candidates = [
-                SITE_DIR / context["lang"],
-                SITE_TMP_DIR / context["lang"],
-            ]
+            lang = context["lang"]
+            if lang == DEFAULT_LANG:
+                lang_root_candidates = [SITE_DIR, SITE_TMP_DIR]
+            else:
+                lang_root_candidates = [
+                    SITE_DIR / lang,
+                    SITE_TMP_DIR / lang,
+                ]
             for lang_root in lang_root_candidates:
                 try:
                     rel = output_path.relative_to(lang_root)

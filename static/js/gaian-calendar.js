@@ -71,7 +71,7 @@ function updateLiveGaianDate() {
     const monthNames = window.GAIAN_MONTH_NAMES || {};
     const monthName = monthNames[today.monthData.id] || today.monthData.name_en;
     const geAbbrev = el.dataset.geAbbrev || 'GE';
-    const basePath = el.dataset.basePath || ('/' + lang);
+    const basePath = el.dataset.basePath != null ? el.dataset.basePath : (window.LANG_BASE != null ? window.LANG_BASE : ('/' + lang));
 
     // Weekday info (ISO: Mon=1..Sun=7)
     const weekdayNum = getISODayOfWeek(now);

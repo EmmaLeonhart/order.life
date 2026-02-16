@@ -9,7 +9,7 @@
 
 <div class="container">
   <div class="breadcrumb">
-    <a href="/{{ lang }}/">{{ t.nav.home }}</a>
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
     <span>›</span>
     {{ t.gaiad }}
   </div>
@@ -38,7 +38,7 @@
     {% set weekday_num = ((d - 1) % 7) + 1 %}
     {% set wd = weekdays_data[weekday_num - 1] %}
 
-    <a href="/{{ lang }}/gaiad/{{ '%03d' % ch }}/"
+    <a href="{{ base }}/gaiad/{{ '%03d' % ch }}/"
        class="chapter-tile {% if ch == daily_reading_chapter %}today{% endif %} {% if ch in chapters %}available{% else %}unavailable{% endif %}"
        title="{{ t.months[m.id] }} {{ d }} · {{ preferred_weekday_names[weekday_num - 1] }}">
       <div class="chapter-tile-weekday">{{ wd.symbol }} {{ preferred_weekday_names[weekday_num - 1] }}</div>

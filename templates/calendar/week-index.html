@@ -9,16 +9,16 @@
 
 <div class="container">
   <div class="breadcrumb">
-    <a href="/{{ lang }}/">{{ t.nav.home }}</a>
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
     <span>›</span>
-    <a href="/{{ lang }}/calendar/">{{ t.nav.calendar }}</a>
+    <a href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
     <span>›</span>
     {{ t.calendar_week_index_page.breadcrumb_week }}
   </div>
 
   <div class="month-grid week-grid">
     {% for wd in weekdays_data %}
-    <a href="/{{ lang }}/week/{{ wd.num }}/" class="month-card week-card" style="text-decoration:none; color:inherit;">
+    <a href="{{ base }}/week/{{ wd.num }}/" class="month-card week-card" style="text-decoration:none; color:inherit;">
       <div class="month-symbol">{{ wd.symbol }}</div>
       <div class="month-name">{{ preferred_weekday_names[wd.num - 1] }}</div>
       <div class="month-info">{{ wd.planet }}</div>

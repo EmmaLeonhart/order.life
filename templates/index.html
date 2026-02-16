@@ -10,7 +10,7 @@
     <div class="date-main gaian-date-live"
          data-lang="{{ lang }}"
          data-ge-abbrev="{{ t.gaian_era_abbrev }}"
-         data-base-path="/{{ lang }}"
+         data-base-path="{{ base }}"
          data-server="1">
       {{ gaian_today_html | safe }}
     </div>
@@ -49,8 +49,8 @@
   </div>
 
   <div class="text-center mt-40 mb-20">
-    <a class="btn" href="/{{ lang }}/calendar/" style="margin-right: 10px;">{{ t.homepage.explore_calendar }}</a>
-    <a class="btn" href="/{{ lang }}/gaiad/">{{ t.homepage.read_scripture }}</a>
+    <a class="btn" href="{{ base }}/calendar/" style="margin-right: 10px;">{{ t.homepage.explore_calendar }}</a>
+    <a class="btn" href="{{ base }}/gaiad/">{{ t.homepage.read_scripture }}</a>
   </div>
 </div>
 {% endblock %}
