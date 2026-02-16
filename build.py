@@ -748,6 +748,9 @@ def build_site():
     finally:
         SITE_DIR = original_site_dir
 
+    # Write CNAME for GitHub Pages custom domain
+    (SITE_TMP_DIR / "CNAME").write_text("order.life\n")
+
     # Swap temp build into place
     if SITE_DIR.exists():
         shutil.rmtree(SITE_DIR, ignore_errors=True)

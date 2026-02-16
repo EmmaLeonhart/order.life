@@ -7,6 +7,13 @@
   <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/static/css/style.css">
   <script src="/static/js/gaian-calendar.js" defer></script>
+  <script>
+    // Redirect language subdomains: ja.order.life/* → order.life/ja/*
+    (function() {
+      var m = location.hostname.match(/^([a-z]{2})\.order\.life$/);
+      if (m) location.replace('https://order.life/' + m[1] + '/' + location.pathname.replace(/^\//, '') + location.search + location.hash);
+    })();
+  </script>
 </head>
 <body>
   <div class="lang-selector-page">
