@@ -1,4 +1,4 @@
-# order.life FastSite
+# order.life 
 
 Static website for **Lifeism** (命道教 / Order of Life) — a religion of universal flourishing, negative theology polytheism, and the moral horizon of immortality.
 
@@ -89,3 +89,4 @@ Outputs static HTML to `site/` directory. ~10,800 pages across all languages.
 - **Wiki**: evolutionism.miraheze.org (migrating to lifeism.miraheze.org)
 - `/wiki/*` redirects to evolutionism.miraheze.org (English, no lang prefix)
 - `/{lang}/wiki/*` redirects with interwiki prefix (e.g. `ja:Title`, `hi:Title`)
+
