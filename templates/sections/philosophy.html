@@ -8,6 +8,12 @@
 </div>
 
 <div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    {{ t.nav.philosophy }}
+  </div>
+
   <div class="section-content">
     <h2>{{ t.sections.philosophy.h2_ntp }}</h2>
     <p>{{ t.sections.philosophy.p1 }}</p>
@@ -55,6 +61,12 @@
         <li>{{ item | safe }}</li>
       {% endfor %}
     </ul>
+
+    <div class="section-actions fade-in-up">
+      <a class="btn" href="{{ base }}/longevity/">{{ t.nav.longevity }}</a>
+      <a class="btn" href="{{ base }}/evolution/">{{ t.nav.evolution }}</a>
+      <a class="btn" href="{{ base }}/wiki/philosophy/">{{ t.nav.wiki }}</a>
+    </div>
   </div>
 </div>
 {% endblock %}

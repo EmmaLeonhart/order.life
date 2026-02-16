@@ -8,6 +8,12 @@
 </div>
 
 <div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    {{ t.nav.calendar }}
+  </div>
+
   <div class="gaian-date-display text-center mt-20" style="display: block;">
     <div class="date-main gaian-date-live"
          data-lang="{{ lang }}"
@@ -73,6 +79,21 @@
   <div class="text-center mt-40">
     <a class="btn" href="{{ base }}/calendar/datepicker">{{ t.nav.datepicker }}</a>
     <a class="btn" href="{{ base }}/calendar/gaian-era" style="margin-left: 10px;">{{ t.gaian_era }}</a>
+  </div>
+
+  <div class="quick-links fade-in-up">
+    <a class="quick-link" href="{{ base }}/calendar/datepicker/">
+      <div class="quick-link-title">{{ t.nav.datepicker }}</div>
+      <div class="quick-link-desc">{{ t.calendar_overview_page.cta_datepicker }}</div>
+    </a>
+    <a class="quick-link" href="{{ base }}/calendar/gaian-era/">
+      <div class="quick-link-title">{{ t.gaian_era }}</div>
+      <div class="quick-link-desc">{{ t.calendar_overview_page.cta_gaian_era }}</div>
+    </a>
+    <a class="quick-link" href="{{ base }}/calendar/week/">
+      <div class="quick-link-title">{{ t.calendar_week_index_page.title }}</div>
+      <div class="quick-link-desc">{{ t.calendar_week_index_page.hero_subtitle }}</div>
+    </a>
   </div>
 </div>
 {% endblock %}

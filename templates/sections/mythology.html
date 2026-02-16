@@ -8,6 +8,12 @@
 </div>
 
 <div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    {{ t.nav.mythology }}
+  </div>
+
   <div class="section-content">
     <h2>{{ t.sections.mythology.h2_love }}</h2>
     <p>{{ t.sections.mythology.p1 | safe }}</p>
@@ -33,6 +39,12 @@
 
     <div class="text-center mt-40">
       <a class="btn" href="{{ base }}/gaiad/">{{ t.homepage.read_scripture }}</a>
+    </div>
+
+    <div class="section-actions fade-in-up">
+      <a class="btn" href="{{ base }}/scripture/">{{ t.nav.scripture }}</a>
+      <a class="btn" href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
+      <a class="btn" href="{{ base }}/wiki/Main_Page/">{{ t.nav.wiki }}</a>
     </div>
   </div>
 </div>

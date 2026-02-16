@@ -8,6 +8,12 @@
 </div>
 
 <div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    {{ t.nav.shrines }}
+  </div>
+
   <div class="section-content">
     <h2>{{ t.sections.shrines.h2_title }}</h2>
     <p>{{ t.sections.shrines.p1 | safe }}</p>
@@ -39,6 +45,12 @@
         <li>{{ item }}</li>
       {% endfor %}
     </ul>
+
+    <div class="section-actions fade-in-up">
+      <a class="btn" href="{{ base }}/calendar/week/">{{ t.calendar_week_index_page.title }}</a>
+      <a class="btn" href="{{ base }}/scripture/">{{ t.nav.scripture }}</a>
+      <a class="btn" href="{{ base }}/wiki/shrines/">{{ t.nav.wiki }}</a>
+    </div>
   </div>
 </div>
 {% endblock %}

@@ -41,6 +41,22 @@ body {
   line-height: 1.6;
 }
 
+/* Subtle entry animation used by key presentation blocks */
+.fade-in-up {
+  animation: fadeInUp 0.5s ease both;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 /* RTL support */
 [dir="rtl"] { direction: rtl; text-align: right; }
 
@@ -259,6 +275,42 @@ nav .nav-right {
   font-size: 0.9em;
 }
 
+/* Quick-link cards used by index/section pages */
+.quick-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+  margin: 30px 0 10px;
+}
+
+.quick-link {
+  display: block;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px;
+  color: var(--text);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.quick-link:hover {
+  border-color: var(--border-accent);
+  background: var(--bg-card-hover);
+  transform: translateY(-2px);
+}
+
+.quick-link-title {
+  color: var(--accent);
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.quick-link-desc {
+  color: var(--text-muted);
+  font-size: 0.92em;
+}
+
 /* ── Month Grid (Calendar) ──────────────────────────────────────────── */
 
 .month-grid {
@@ -437,6 +489,13 @@ nav .nav-right {
 }
 
 .section-content li { margin-bottom: 8px; }
+
+.section-actions {
+  margin-top: 26px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
 
 /* ── Scripture / Chapter ────────────────────────────────────────────── */
 

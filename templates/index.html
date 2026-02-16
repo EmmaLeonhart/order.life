@@ -52,5 +52,33 @@
     <a class="btn" href="{{ base }}/calendar/" style="margin-right: 10px;">{{ t.homepage.explore_calendar }}</a>
     <a class="btn" href="{{ base }}/gaiad/">{{ t.homepage.read_scripture }}</a>
   </div>
+
+  <h2 class="text-center mt-40 mb-20" style="color: var(--accent);">{{ t.nav.home }} · {{ t.site_title }}</h2>
+  <div class="quick-links fade-in-up">
+    <a class="quick-link" href="{{ base }}/calendar/">
+      <div class="quick-link-title">{{ t.nav.calendar }}</div>
+      <div class="quick-link-desc">{{ t.calendar_page.intro }}</div>
+    </a>
+    <a class="quick-link" href="{{ base }}/gaiad/">
+      <div class="quick-link-title">{{ t.nav.scripture }}</div>
+      <div class="quick-link-desc">{{ t.gaiad_subtitle }}</div>
+    </a>
+    <a class="quick-link" href="{{ base }}/mythology/">
+      <div class="quick-link-title">{{ t.nav.mythology }}</div>
+      <div class="quick-link-desc">{{ t.mythology_page.intro }}</div>
+    </a>
+    <a class="quick-link" href="{{ base }}/philosophy/">
+      <div class="quick-link-title">{{ t.nav.philosophy }}</div>
+      <div class="quick-link-desc">{{ t.philosophy_page.intro }}</div>
+    </a>
+    <a class="quick-link" href="{{ base }}/longevity/">
+      <div class="quick-link-title">{{ t.nav.longevity }}</div>
+      <div class="quick-link-desc">{{ t.longevity_page.intro }}</div>
+    </a>
+    <a class="quick-link" href="{{ base }}/evolution/">
+      <div class="quick-link-title">{{ t.nav.evolution }}</div>
+      <div class="quick-link-desc">{{ t.evolution_page.intro }}</div>
+    </a>
+  </div>
 </div>
 {% endblock %}

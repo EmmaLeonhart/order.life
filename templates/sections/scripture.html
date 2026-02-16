@@ -8,15 +8,18 @@
 </div>
 
 <div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    {{ t.nav.scripture }}
+  </div>
+
   <div class="section-content">
     <h2>{{ t.gaiad_index.title }}</h2>
     <p>The Gaiad is a 364-chapter creation epic told in iambic pentameter with ABAB rhyme scheme. It chronicles the love story of Aster and Andromeda, two goddesses whose cosmic romance drives the creation and evolution of the entire universe.</p>
     <p>One chapter is read per day of the Gaian year, creating a complete annual reading cycle that aligns with the calendar's seasonal and zodiacal themes.</p>
 
-    <blockquote>Once upon a time there was a catgirl<br>
-    Her name was Aster, and she had a ball,<br>
-    Of yarn she spun, with skill just like a pearl.<br>
-    She shaped the universe from void to all.</blockquote>
+    <blockquote>The scripture cycle pairs one chapter with each day of the Gaian year, forming a complete annual liturgical reading.</blockquote>
 
     <div class="text-center mt-40">
       <a class="btn" href="{{ base }}/gaiad/">{{ t.homepage.read_scripture }}</a>
@@ -31,6 +34,12 @@
 
     <h2>Daily Reading</h2>
     <p>Each day of the Gaian Calendar corresponds to a chapter of the Gaiad. Sagittarius 1 = Chapter 1, Capricorn 1 = Chapter 29, and so on through Ophiuchus 28 = Chapter 364.</p>
+
+    <div class="section-actions fade-in-up">
+      <a class="btn" href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
+      <a class="btn" href="{{ base }}/mythology/">{{ t.nav.mythology }}</a>
+      <a class="btn" href="{{ base }}/wiki/Gaiad/">{{ t.nav.wiki }}</a>
+    </div>
   </div>
 </div>
 {% endblock %}
