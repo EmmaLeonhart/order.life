@@ -79,6 +79,12 @@ nav .nav-brand {
   white-space: nowrap;
   margin-right: 20px;
 }
+nav .nav-brand .brand-kanji {
+  font-size: 1.2em;
+}
+.hero-kanji {
+  font-size: 1.3em;
+}
 
 nav .nav-links {
   display: flex;
