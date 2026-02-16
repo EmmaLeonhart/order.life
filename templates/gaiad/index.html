@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 {% block title %}{{ t.gaiad_index.title }}{% endblock %}
+{% block meta_description %}{{ t.gaiad_index.subtitle }}{% endblock %}
+{% block og_title %}{{ t.gaiad_index.title }} — {{ t.site_title }}{% endblock %}
+{% block og_description %}{{ t.gaiad_index.subtitle }}{% endblock %}
+{% block twitter_title %}{{ t.gaiad_index.title }} — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}{{ t.gaiad_index.subtitle }}{% endblock %}
 
 {% block content %}
 <div class="section-hero">

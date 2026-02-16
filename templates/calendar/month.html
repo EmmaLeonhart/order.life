@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 {% block title %}{{ month_display_name }} — {{ t.calendar_page.title }}{% endblock %}
+{% block meta_description %}{{ month.symbol }} {{ month_display_name }} · {{ t.month }} {{ month.num }} · {{ days_in_month }} {{ t.days }} · {{ t['element_' + month.element] }}.{% endblock %}
+{% block og_title %}{{ month.symbol }} {{ month_display_name }} — {{ t.calendar_page.title }}{% endblock %}
+{% block og_description %}{{ t.month }} {{ month.num }} of the {{ t.calendar_page.title }}. {{ days_in_month }} {{ t.days }} · {{ t['element_' + month.element] }}. {{ t.calendar_page.structure }}{% endblock %}
+{% block twitter_title %}{{ month.symbol }} {{ month_display_name }} — {{ t.calendar_page.title }}{% endblock %}
+{% block twitter_description %}{{ t.month }} {{ month.num }} of the {{ t.calendar_page.title }}. {{ days_in_month }} {{ t.days }} · {{ t['element_' + month.element] }}. {{ t.calendar_page.structure }}{% endblock %}
 
 {% block content %}
 <div class="section-hero" style="border-left: 4px solid {{ element.color }};">

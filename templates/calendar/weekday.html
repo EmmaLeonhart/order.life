@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 {% block title %}{{ weekday.id | title }} — {{ t.calendar_page.title }}{% endblock %}
+{% block meta_description %}{{ weekday.symbol }} {{ weekday.id | title }} · {{ t.day }} {{ weekday.num }} of the week · The day of {{ weekday.planet }}. {{ t.calendar_week_index_page.p1 | truncate(120) }}{% endblock %}
+{% block og_title %}{{ weekday.symbol }} {{ weekday.id | title }} — {{ t.calendar_page.title }}{% endblock %}
+{% block og_description %}{{ t.day }} {{ weekday.num }} of the week · The day of {{ weekday.planet }}. {{ t.calendar_week_index_page.hero_subtitle }}{% endblock %}
+{% block twitter_title %}{{ weekday.symbol }} {{ weekday.id | title }} — {{ t.calendar_page.title }}{% endblock %}
+{% block twitter_description %}{{ t.day }} {{ weekday.num }} of the week · The day of {{ weekday.planet }}. {{ t.calendar_week_index_page.hero_subtitle }}{% endblock %}
 
 {% block content %}
 <div class="section-hero">

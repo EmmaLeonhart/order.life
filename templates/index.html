@@ -2,9 +2,9 @@
 {% block title %}{{ t.homepage.hero_title }}{% endblock %}
 {% block meta_description %}{{ t.homepage.hero_subtitle }}{% endblock %}
 {% block og_title %}{{ t.homepage.hero_title }} — {{ t.religion_name }}{% endblock %}
-{% block og_description %}{{ t.homepage.hero_subtitle }}{% endblock %}
+{% block og_description %}{{ t.homepage.what_is_text }}{% endblock %}
 {% block twitter_title %}{{ t.homepage.hero_title }} — {{ t.religion_name }}{% endblock %}
-{% block twitter_description %}{{ t.homepage.hero_subtitle }}{% endblock %}
+{% block twitter_description %}{{ t.homepage.what_is_text }}{% endblock %}
 
 {% block content %}
 <div class="hero">
@@ -20,6 +20,9 @@
       {{ gaian_today_html | safe }}
     </div>
     <div class="date-sub">{{ t.today_is }} · {{ preferred_weekday_names[iso_weekday - 1] }} · {{ today_gregorian }}</div>
+    {% if daily_reading_chapter %}
+    <a class="daily-reading-link" href="{{ base }}/gaiad/{{ '%03d' % daily_reading_chapter }}/">{{ t.read_chapter }}: {{ t.gaiad }} {{ daily_reading_chapter }}</a>
+    {% endif %}
   </div>
 </div>
 

@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 {% block title %}{{ month_display_name }} {{ day_num }} — {{ t.calendar_page.title }}{% endblock %}
+{% block meta_description %}{{ month.symbol }} {{ month_display_name }} {{ day_num }} · {{ t.day_of_year }} {{ day_of_year }} · {{ weekday_data.symbol }} {{ t.weekdays[weekday_num - 1] }}{% if chapter_num %} · {{ t.gaiad }} {{ chapter_num }}{% endif %}.{% endblock %}
+{% block og_title %}{{ month.symbol }} {{ month_display_name }} {{ day_num }} — {{ t.calendar_page.title }}{% endblock %}
+{% block og_description %}{{ t.day_of_year }} {{ day_of_year }} · {{ weekday_data.symbol }} {{ t.weekdays[weekday_num - 1] }}{% if chapter_num %} · {{ t.gaiad }} {{ chapter_num }}{% endif %}. {{ t.calendar_page.structure }}{% endblock %}
+{% block twitter_title %}{{ month.symbol }} {{ month_display_name }} {{ day_num }} — {{ t.calendar_page.title }}{% endblock %}
+{% block twitter_description %}{{ t.day_of_year }} {{ day_of_year }} · {{ weekday_data.symbol }} {{ t.weekdays[weekday_num - 1] }}{% if chapter_num %} · {{ t.gaiad }} {{ chapter_num }}{% endif %}. {{ t.calendar_page.structure }}{% endblock %}
 
 {% block content %}
 <div class="day-header">

@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 {% block title %}{{ t.shrines_page.title }}{% endblock %}
+{% block meta_description %}{{ t.shrines_page.intro }}{% endblock %}
+{% block og_title %}{{ t.shrines_page.title }} — {{ t.site_title }}{% endblock %}
+{% block og_description %}{{ t.shrines_page.intro }}{% endblock %}
+{% block twitter_title %}{{ t.shrines_page.title }} — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}{{ t.shrines_page.intro }}{% endblock %}
 
 {% block content %}
 <div class="section-hero">

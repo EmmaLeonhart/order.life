@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 {% block title %}{{ t.gaiad }} {{ chapter_num }} — {{ t.gaiad_index.title }}{% endblock %}
+{% block meta_description %}{{ t.gaiad }} {{ t.chapter }} {{ chapter_num }}{% if chapter_month %} — {{ t.months[chapter_month.id] }} {{ chapter_day }}, {{ t.day_of_year }} {{ chapter_num }}{% endif %}. {{ t.gaiad_subtitle }}.{% endblock %}
+{% block og_title %}{{ t.gaiad }}: {{ t.chapter }} {{ chapter_num }} — {{ t.site_title }}{% endblock %}
+{% block og_description %}{% if chapter_month %}{{ t.months[chapter_month.id] }} {{ chapter_day }} · {{ t.day_of_year }} {{ chapter_num }}. {% endif %}{{ t.gaiad_subtitle }}.{% endblock %}
+{% block twitter_title %}{{ t.gaiad }}: {{ t.chapter }} {{ chapter_num }} — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}{% if chapter_month %}{{ t.months[chapter_month.id] }} {{ chapter_day }} · {{ t.day_of_year }} {{ chapter_num }}. {% endif %}{{ t.gaiad_subtitle }}.{% endblock %}
 
 {% block content %}
 <div class="container">

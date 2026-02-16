@@ -1,5 +1,10 @@
 {% extends "base.html" %}
 {% block title %}{{ t.gaian_era }}{% endblock %}
+{% block meta_description %}{{ t.calendar_gaian_era_page.p1 | striptags | truncate(160) }}{% endblock %}
+{% block og_title %}{{ t.gaian_era }} — {{ t.site_title }}{% endblock %}
+{% block og_description %}{{ t.calendar_gaian_era_page.p1 | striptags | truncate(200) }}{% endblock %}
+{% block twitter_title %}{{ t.gaian_era }} — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}{{ t.calendar_gaian_era_page.p1 | striptags | truncate(200) }}{% endblock %}
 
 {% block content %}
 <div class="section-hero">
