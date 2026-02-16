@@ -21,7 +21,7 @@
     </div>
     <div class="date-sub">{{ t.today_is }} · {{ preferred_weekday_names[iso_weekday - 1] }} · {{ today_gregorian }}</div>
     {% if daily_reading_chapter %}
-    <a class="daily-reading-link" href="{{ base }}/gaiad/{{ '%03d' % daily_reading_chapter }}/">{{ t.read_chapter }}: {{ t.gaiad }} {{ daily_reading_chapter }}</a>
+    <a class="daily-reading-link" href="{{ base }}/gaiad/{{ '%03d' % daily_reading_chapter }}/">{{ t.daily_reading }} · {{ t.gaiad }} {{ daily_reading_chapter }}</a>
     {% endif %}
   </div>
 </div>
