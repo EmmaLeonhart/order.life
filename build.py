@@ -815,6 +815,9 @@ def build_site():
     # Write CNAME for GitHub Pages custom domain
     (SITE_TMP_DIR / "CNAME").write_text("order.life\n")
 
+    # Write custom 404 page for GitHub Pages
+    shutil.copy(TEMPLATES_DIR / "404.html", SITE_TMP_DIR / "404.html")
+
     # Swap temp build into place
     if SITE_DIR.exists():
         shutil.rmtree(SITE_DIR, ignore_errors=True)
