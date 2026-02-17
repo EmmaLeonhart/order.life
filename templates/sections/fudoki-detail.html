@@ -153,8 +153,10 @@
   }).addTo(map);
 
   var geoshapeTitle = {{ realm.geoshape | tojson }};
+  // Strip "Data:" prefix — the jsondata API adds it automatically
+  var cleanTitle = geoshapeTitle.replace(/^Data:/, '');
   var apiUrl = 'https://commons.wikimedia.org/w/api.php?action=jsondata&title=' +
-    encodeURIComponent(geoshapeTitle) + '&formatversion=2&origin=*&format=json';
+    encodeURIComponent(cleanTitle) + '&formatversion=2&origin=*&format=json';
 
   fetch(apiUrl)
     .then(function(r) { return r.json(); })
