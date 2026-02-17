@@ -5,6 +5,7 @@ Generates static HTML for all languages and pages of the Lifeism website.
 Uses Jinja2 templates, outputs to site/{lang}/ directories.
 """
 
+import csv
 import io
 import os
 import re
@@ -306,6 +307,78 @@ def load_wiki_pages():
     return wiki_pages
 
 
+# ── Fudoki Data ──────────────────────────────────────────────────────────
+
+FUDOKI_HEADER_NAMES = {
+    "label": "Name",
+    "qid": "QID",
+    "instance_of_qid": "Instance Of (QID)",
+    "P31": "Instance Of",
+    "P17": "Country",
+    "P131": "Admin Entity",
+    "P625": "Coordinates",
+    "P646": "Freebase ID",
+    "P242": "Locator Map",
+    "P36": "Capital",
+    "P910": "Main Category",
+    "P373": "Commons Category",
+    "P2046": "Area (km\u00b2)",
+    "P1566": "GeoNames ID",
+    "P300": "ISO 3166-2",
+    "P1082": "Population",
+    "P402": "OSM Relation",
+    "P7471": "WikiProject ID",
+    "P3896": "Geoshape",
+    "P6766": "Who's on First ID",
+    "P18": "Image",
+    "P571": "Inception",
+    "P47": "Shares Border With",
+    "P901": "FIPS 10-4",
+    "P2326": "GADM ID",
+    "P856": "Official Website",
+    "P982": "MusicBrainz Area",
+    "P13591": "ISNI Place ID",
+    "P421": "Timezone",
+    "P1667": "TGN ID",
+    "P1464": "Category: Born Here",
+    "P150": "Contains Admin Divisions",
+    "P1792": "Category: Associated People",
+    "P214": "VIAF ID",
+    "P94": "Coat of Arms",
+    "P41": "Flag",
+    "P1705": "Native Label",
+    "P8189": "Larousse ID",
+    "P244": "LoC Authority ID",
+    "P2936": "Languages Used",
+    "P2044": "Elevation",
+    "P227": "GND ID",
+    "P7867": "BHCL UUID",
+    "P8119": "Indonesian Area Code",
+    "P1465": "Category: Died Here",
+    "P948": "Page Banner",
+    "P9957": "Brockhaus ID",
+    "P1296": "Gran Enciclop\u00e8dia Catalana",
+    "P12385": "GeoNames Feature Code",
+    "P576": "Dissolved Date",
+    "P1313": "Office of Head of Govt",
+    "P1448": "Official Name",
+}
+
+
+def load_fudoki_data():
+    """Load first-level divisions CSV for the Fudoki page."""
+    csv_file = SCRIPT_DIR / "first_level_divisions_enriched.csv"
+    if not csv_file.exists():
+        print("  Warning: Fudoki CSV not found, skipping")
+        return [], []
+    with open(csv_file, "r", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        raw_headers = next(reader)
+        headers = [FUDOKI_HEADER_NAMES.get(h, h) for h in raw_headers]
+        rows = list(reader)
+    return headers, rows
+
+
 def extract_wiki_overview(wikitext):
     """Extract the == Overview == section from wikitext and do basic cleanup."""
     lines = wikitext.split('\n')
@@ -535,6 +608,7 @@ def build_site():
     chapters = load_chapters()
     weekday_names = load_weekday_names()
     wiki_pages = load_wiki_pages()
+    fudoki_headers, fudoki_rows = load_fudoki_data()
     today = date.today()
     gaian_today = gregorian_to_gaian(today)
     iso_weekday = today.isoweekday()  # Mon=1..Sun=7
@@ -744,6 +818,13 @@ def build_site():
             sec_dir = lang_dir / section
             sec_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, f"sections/{section}.html", sec_dir / "index.html", ctx)
+
+        # ── Fudoki page (English only for now) ──
+        if lang == "en" and fudoki_rows:
+            fudoki_dir = lang_dir / "fudoki"
+            fudoki_dir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "sections/fudoki.html", fudoki_dir / "index.html",
+                        {**ctx, "fudoki_headers": fudoki_headers, "fudoki_rows": fudoki_rows})
 
     # English homepage is the site root (no separate language selector page needed).
 

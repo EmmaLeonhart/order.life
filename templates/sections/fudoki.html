@@ -1,0 +1,85 @@
+{% extends "base.html" %}
+{% block title %}Hallowings of the Realms (Fudoki){% endblock %}
+{% block meta_description %}Database of first-level administrative divisions worldwide — the modern Fudoki (風土記).{% endblock %}
+{% block og_title %}Hallowings of the Realms — {{ t.site_title }}{% endblock %}
+{% block og_description %}Database of first-level administrative divisions worldwide — the modern Fudoki (風土記).{% endblock %}
+{% block twitter_title %}Hallowings of the Realms — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}Database of first-level administrative divisions worldwide — the modern Fudoki (風土記).{% endblock %}
+
+{% block head %}
+<style>
+.fudoki-table-wrap {
+  overflow-x: auto;
+  margin: 2rem 0;
+  -webkit-overflow-scrolling: touch;
+}
+.fudoki-table {
+  border-collapse: collapse;
+  font-size: 0.75rem;
+  white-space: nowrap;
+  min-width: 100%;
+}
+.fudoki-table th,
+.fudoki-table td {
+  border: 1px solid #333;
+  padding: 4px 8px;
+  max-width: 300px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.fudoki-table th {
+  background: #1a1a2e;
+  color: #ffd700;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+.fudoki-table tr:nth-child(even) { background: rgba(255,255,255,0.03); }
+.fudoki-table tr:hover { background: rgba(255,215,0,0.07); }
+.fudoki-table td:first-child { font-weight: bold; }
+.fudoki-table a { color: #ffd700; text-decoration: none; }
+.fudoki-table a:hover { text-decoration: underline; }
+.fudoki-count { color: #aaa; margin-bottom: 1rem; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>Hallowings of the Realms</h1>
+  <p>風土記 (Fudoki) — A database of all first-level administrative divisions worldwide, sourced from Wikidata.</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    Fudoki
+  </div>
+
+  <div class="section-content">
+    <p class="fudoki-count">{{ fudoki_rows | length }} divisions</p>
+
+    <div class="fudoki-table-wrap">
+      <table class="fudoki-table">
+        <thead>
+          <tr>
+            {% for header in fudoki_headers %}
+            <th>{{ header }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in fudoki_rows %}
+          <tr>
+            <td><a href="https://www.wikidata.org/wiki/Special:EntityPage/{{ row[1] }}">{{ row[0] }}</a></td>
+            {% for cell in row[2:] %}
+            <td>{{ cell }}</td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+{% endblock %}
