@@ -366,29 +366,45 @@ FUDOKI_HEADER_NAMES = {
 
 
 def load_fudoki_data():
-    """Load first-level divisions CSV for the Fudoki page."""
+    """Load first-level divisions CSV for the Fudoki page.
+
+    Returns a list of dicts, each with keys:
+      label, qid, country, properties (list of (header, value) for non-empty fields)
+    """
     csv_file = SCRIPT_DIR / "first_level_divisions_enriched.csv"
     if not csv_file.exists():
         print("  Warning: Fudoki CSV not found, skipping")
-        return [], []
-    # Columns to hide from display (indices in raw CSV)
-    skip_cols = {"qid", "instance_of_qid", "P31", "P131", "P625", "P646"}
+        return []
     with open(csv_file, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
         raw_headers = next(reader)
-        skip_idx = {i for i, h in enumerate(raw_headers) if h in skip_cols}
-        # Headers: label + kept columns (skip qid/instance_of_qid/P31)
-        headers = [FUDOKI_HEADER_NAMES.get(h, h)
-                   for i, h in enumerate(raw_headers) if i not in skip_idx]
-        # Rows: [label, qid, kept_cells...] — qid kept at index 1 for links
-        rows = []
+        divisions = []
         for raw in reader:
-            qid = raw[1]  # always column 1
-            kept = [raw[i] for i in range(len(raw)) if i not in skip_idx]
-            # Insert qid at index 1 (after label) for template link building
-            kept.insert(1, qid)
-            rows.append(kept)
-    return headers, rows
+            # Extract country display name from P17 value like "{Q805, Yemen}"
+            p17_raw = raw[raw_headers.index("P17")] if "P17" in raw_headers else ""
+            country = ""
+            if p17_raw:
+                # Parse "{Q805, Yemen}" or "{Q805, Yemen} | {Q123, Foo}"
+                m = re.search(r'\{Q\d+,\s*([^}]+)\}', p17_raw)
+                if m:
+                    country = m.group(1).strip()
+
+            # Build properties list (all columns except label/qid, only non-empty)
+            props = []
+            for i, h in enumerate(raw_headers):
+                if h in ("label", "qid"):
+                    continue
+                val = raw[i].strip() if i < len(raw) else ""
+                if val:
+                    props.append((FUDOKI_HEADER_NAMES.get(h, h), val))
+
+            divisions.append({
+                "label": raw[0],
+                "qid": raw[1],
+                "country": country,
+                "properties": props,
+            })
+    return divisions
 
 
 def extract_wiki_overview(wikitext):
@@ -620,7 +636,7 @@ def build_site():
     chapters = load_chapters()
     weekday_names = load_weekday_names()
     wiki_pages = load_wiki_pages()
-    fudoki_headers, fudoki_rows = load_fudoki_data()
+    fudoki_divisions = load_fudoki_data()
     today = date.today()
     gaian_today = gregorian_to_gaian(today)
     iso_weekday = today.isoweekday()  # Mon=1..Sun=7
@@ -831,12 +847,17 @@ def build_site():
             sec_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, f"sections/{section}.html", sec_dir / "index.html", ctx)
 
-        # ── Fudoki page (English only for now) ──
-        if lang == "en" and fudoki_rows:
+        # ── Fudoki pages (English only for now) ──
+        if lang == "en" and fudoki_divisions:
             fudoki_dir = lang_dir / "fudoki"
             fudoki_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, "sections/fudoki.html", fudoki_dir / "index.html",
-                        {**ctx, "fudoki_headers": fudoki_headers, "fudoki_rows": fudoki_rows})
+                        {**ctx, "fudoki_divisions": fudoki_divisions})
+            for div in fudoki_divisions:
+                div_dir = fudoki_dir / div["qid"]
+                div_dir.mkdir(parents=True, exist_ok=True)
+                render_page(env, "sections/fudoki-detail.html", div_dir / "index.html",
+                            {**ctx, "div": div})
 
     # English homepage is the site root (no separate language selector page needed).
 

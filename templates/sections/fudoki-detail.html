@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% block title %}{{ div.label }} — Fudoki{% endblock %}
+{% block meta_description %}{{ div.label }} — first-level administrative division of {{ div.country }}.{% endblock %}
+{% block og_title %}{{ div.label }} — Hallowings of the Realms{% endblock %}
+{% block og_description %}{{ div.label }} — first-level administrative division of {{ div.country }}.{% endblock %}
+{% block twitter_title %}{{ div.label }} — Hallowings of the Realms{% endblock %}
+{% block twitter_description %}{{ div.label }} — first-level administrative division of {{ div.country }}.{% endblock %}
+
+{% block head %}
+<style>
+.fudoki-detail {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.fudoki-detail h1 {
+  margin-bottom: 0.25rem;
+}
+.fudoki-qid {
+  color: #aaa;
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+.fudoki-qid a { color: #ffd700; text-decoration: none; }
+.fudoki-qid a:hover { text-decoration: underline; }
+.fudoki-props {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.85rem;
+}
+.fudoki-props th,
+.fudoki-props td {
+  border: 1px solid #333;
+  padding: 6px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+.fudoki-props th {
+  background: #1a1a2e;
+  color: #ffd700;
+  white-space: nowrap;
+  width: 200px;
+}
+.fudoki-props td {
+  word-break: break-word;
+}
+.fudoki-props tr:nth-child(even) { background: rgba(255,255,255,0.03); }
+.fudoki-props tr:hover { background: rgba(255,215,0,0.07); }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ div.label }}</h1>
+  <p>{{ div.country }}</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="{{ base }}/fudoki/">Fudoki</a>
+    <span>›</span>
+    {{ div.label }}
+  </div>
+
+  <div class="fudoki-detail">
+    <p class="fudoki-qid"><a href="https://www.wikidata.org/wiki/Special:EntityPage/{{ div.qid }}">{{ div.qid }}</a></p>
+
+    <table class="fudoki-props">
+      <tbody>
+        {% for prop_name, prop_value in div.properties %}
+        <tr>
+          <th>{{ prop_name }}</th>
+          <td>{{ prop_value }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endblock %}

@@ -15,17 +15,14 @@
 }
 .fudoki-table {
   border-collapse: collapse;
-  font-size: 0.75rem;
-  white-space: nowrap;
-  min-width: 100%;
+  font-size: 0.85rem;
+  width: 100%;
 }
 .fudoki-table th,
 .fudoki-table td {
   border: 1px solid #333;
-  padding: 4px 8px;
-  max-width: 300px;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  padding: 6px 12px;
+  text-align: left;
 }
 .fudoki-table th {
   background: #1a1a2e;
@@ -36,7 +33,6 @@
 }
 .fudoki-table tr:nth-child(even) { background: rgba(255,255,255,0.03); }
 .fudoki-table tr:hover { background: rgba(255,215,0,0.07); }
-.fudoki-table td:first-child { font-weight: bold; }
 .fudoki-table a { color: #ffd700; text-decoration: none; }
 .fudoki-table a:hover { text-decoration: underline; }
 .fudoki-count { color: #aaa; margin-bottom: 1rem; }
@@ -57,24 +53,21 @@
   </div>
 
   <div class="section-content">
-    <p class="fudoki-count">{{ fudoki_rows | length }} divisions</p>
+    <p class="fudoki-count">{{ fudoki_divisions | length }} divisions</p>
 
     <div class="fudoki-table-wrap">
       <table class="fudoki-table">
         <thead>
           <tr>
-            {% for header in fudoki_headers %}
-            <th>{{ header }}</th>
-            {% endfor %}
+            <th>Name</th>
+            <th>Country</th>
           </tr>
         </thead>
         <tbody>
-          {% for row in fudoki_rows %}
+          {% for div in fudoki_divisions %}
           <tr>
-            <td><a href="https://www.wikidata.org/wiki/Special:EntityPage/{{ row[1] }}">{{ row[0] }}</a></td>
-            {% for cell in row[2:] %}
-            <td>{{ cell }}</td>
-            {% endfor %}
+            <td><a href="{{ base }}/fudoki/{{ div.qid }}/">{{ div.label }}</a></td>
+            <td>{{ div.country }}</td>
           </tr>
           {% endfor %}
         </tbody>
