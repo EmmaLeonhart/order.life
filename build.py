@@ -371,11 +371,23 @@ def load_fudoki_data():
     if not csv_file.exists():
         print("  Warning: Fudoki CSV not found, skipping")
         return [], []
+    # Columns to hide from display (indices in raw CSV)
+    skip_cols = {"qid", "instance_of_qid", "P31"}
     with open(csv_file, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
         raw_headers = next(reader)
-        headers = [FUDOKI_HEADER_NAMES.get(h, h) for h in raw_headers]
-        rows = list(reader)
+        skip_idx = {i for i, h in enumerate(raw_headers) if h in skip_cols}
+        # Headers: label + kept columns (skip qid/instance_of_qid/P31)
+        headers = [FUDOKI_HEADER_NAMES.get(h, h)
+                   for i, h in enumerate(raw_headers) if i not in skip_idx]
+        # Rows: [label, qid, kept_cells...] — qid kept at index 1 for links
+        rows = []
+        for raw in reader:
+            qid = raw[1]  # always column 1
+            kept = [raw[i] for i in range(len(raw)) if i not in skip_idx]
+            # Insert qid at index 1 (after label) for template link building
+            kept.insert(1, qid)
+            rows.append(kept)
     return headers, rows
 
 
