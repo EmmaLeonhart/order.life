@@ -75,6 +75,7 @@ SELECT ?item ?itemLabel ?countryLabel ?geoshape ?locator_map ?flag ?population ?
 WHERE {{
   ?item wdt:P31 wd:{class_qid} .
   FILTER NOT EXISTS {{ ?item wdt:P31 wd:Q19953632 . }}
+  FILTER NOT EXISTS {{ ?item wdt:P576 ?dissolved . }}
   OPTIONAL {{ ?item wdt:P17 ?country . }}
   OPTIONAL {{ ?item wdt:P3896 ?geoshape . }}
   OPTIONAL {{ ?item wdt:P242 ?locator_map . }}
