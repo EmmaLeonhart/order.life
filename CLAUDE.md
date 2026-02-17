@@ -88,3 +88,4 @@ Generates ~10,800 HTML pages across 9 languages from Jinja2 templates and JSON t
 - Use `python` not `python3` on this Windows system
 - Use `C:\Users\Immanuelle\AppData\Local\Programs\Python\Python313\python.exe` for the Python with packages
 - Build uses temp dir swap (site_tmp → site) — stop dev server before rebuilding to avoid Windows lock errors
+- Do NOT run `python build.py` before every commit — just commit and push, the user checks online
