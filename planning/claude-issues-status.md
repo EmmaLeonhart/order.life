@@ -15,11 +15,11 @@ This file tracks the concrete requests/complaints extracted from the Claude chat
 **Current behavior:**
 - `/wiki/<Title>/` exists as a static HTML redirect page.
 - `/{lang}/wiki/<Title>/` exists as a static HTML redirect page.
-- All languages currently redirect to the same wiki base: `https://evolutionism.miraheze.org/wiki/<Title>`.
+- All languages currently redirect to the same wiki base: `https://lifeism.miraheze.org/wiki/<Title>`.
 
 **Verification:**
-- `site/wiki/Sagittarius_1/index.html` redirects to `https://evolutionism.miraheze.org/wiki/Sagittarius_1`
-- `site/wiki/Main_Page/index.html` redirects to `https://evolutionism.miraheze.org/wiki/Main_Page`
+- `site/wiki/Sagittarius_1/index.html` redirects to `https://lifeism.miraheze.org/wiki/Sagittarius_1`
+- `site/wiki/Main_Page/index.html` redirects to `https://lifeism.miraheze.org/wiki/Main_Page`
 
 ✅ Resolved.
 

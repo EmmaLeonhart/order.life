@@ -18,7 +18,7 @@ Generates ~10,800 HTML pages across 9 languages from Jinja2 templates and JSON t
 - Glossary in `content/glossary.json` (localized proper nouns per language)
 - Static assets in `static/css/` and `static/js/`
 - Epic chapters in `epic/chapter_NNN.md`
-- Wiki XML export: `Evolutionism+Wiki-20260209181520.xml` (parsed for day/month content)
+- Wiki XML export: `lifeism+Wiki-20260209181520.xml` (parsed for day/month content)
 
 ### URL Structure (per language)
 ```
@@ -34,13 +34,13 @@ Generates ~10,800 HTML pages across 9 languages from Jinja2 templates and JSON t
 /{lang}/gaiad/                        Gaiad scripture index
 /{lang}/gaiad/{NNN}/                  Gaiad chapter (001-364)
 /{lang}/{section}/                    Section pages (scripture, mythology, philosophy, shrines, longevity, evolution)
-/{lang}/wiki/*                        Redirect to evolutionism.miraheze.org/wiki/{lang}:*
-/wiki/*                               Redirect to evolutionism.miraheze.org/wiki/*
+/{lang}/wiki/*                        Redirect to lifeism.miraheze.org/wiki/{lang}:*
+/wiki/*                               Redirect to lifeism.miraheze.org/wiki/*
 ```
 
 ### Wiki Redirects
-- English (`/en/wiki/*` or `/wiki/*`): redirects to `evolutionism.miraheze.org/wiki/{title}` (no lang prefix)
-- Other languages (`/{lang}/wiki/*`): redirects to `evolutionism.miraheze.org/wiki/{lang}:{title}`
+- English (`/en/wiki/*` or `/wiki/*`): redirects to `lifeism.miraheze.org/wiki/{title}` (no lang prefix)
+- Other languages (`/{lang}/wiki/*`): redirects to `lifeism.miraheze.org/wiki/{lang}:{title}`
 - Both static per-page redirects (from XML export) and JS fallback for unknown pages
 
 ### Gaian Calendar
@@ -69,7 +69,7 @@ Generates ~10,800 HTML pages across 9 languages from Jinja2 templates and JSON t
 - Symbol: 命 (life/destiny/command)
 - 命 replaces 神 in sacred contexts
 - Shrines: 命神宮 (Myōjingū)
-- Wiki: currently evolutionism.miraheze.org, migrating to lifeism.miraheze.org
+- Wiki: currently lifeism.miraheze.org, migrating to lifeism.miraheze.org
 
 ### Hallowings (Fudoki)
 - Realm data in `realms/realms.json`, enriched via `realms/enrich_realms.py`

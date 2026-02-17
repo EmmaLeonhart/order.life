@@ -73,7 +73,7 @@ def clean_wiki_text(text):
     return text.strip()
 
 def main():
-    xml_file = Path('../../Evolutionism+Wiki-20250804041753.xml')
+    xml_file = Path('../../lifeism+Wiki-20250804041753.xml')
     output_dir = Path('../old-versions')
     
     if not xml_file.exists():

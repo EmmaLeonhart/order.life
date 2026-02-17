@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document provides expanded correspondence proposals for the Gaiad zodiac-based calendar system, particularly focusing on the Five Easters and Japanese festival (matsuri) integration. These proposals are designed to correspond with **future chapters** of the planned 364-371 chapter Gaiad epic, building upon the existing holiday correspondence framework found in the Evolutionism Wiki export.
+This document provides expanded correspondence proposals for the Gaiad zodiac-based calendar system, particularly focusing on the Five Easters and Japanese festival (matsuri) integration. These proposals are designed to correspond with **future chapters** of the planned 364-371 chapter Gaiad epic, building upon the existing holiday correspondence framework found in the lifeism Wiki export.
 
 ## Gaiad Epic Structure Context
 

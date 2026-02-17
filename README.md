@@ -41,8 +41,8 @@ Language subdomains follow Wikipedia conventions: en.order.life, ja.order.life, 
 | `/{lang}/longevity/` | Universal immortality & transhumanism |
 | `/{lang}/evolution/` | Evolution as sacred narrative |
 | `/{lang}/fudoki/` | Hallowings of the Realms — first-level divisions database |
-| `/{lang}/wiki/*` | Redirects to evolutionism.miraheze.org/wiki/{lang}:* |
-| `/wiki/*` | Redirects to evolutionism.miraheze.org/wiki/* (English) |
+| `/{lang}/wiki/*` | Redirects to lifeism.miraheze.org/wiki/{lang}:* |
+| `/wiki/*` | Redirects to lifeism.miraheze.org/wiki/* (English) |
 
 ## The Gaian Calendar
 
@@ -91,6 +91,6 @@ Outputs static HTML to `site/` directory. ~10,800 pages across all languages.
 
 ## Connected Services
 
-- **Wiki**: evolutionism.miraheze.org (migrating to lifeism.miraheze.org)
-- `/wiki/*` redirects to evolutionism.miraheze.org (English, no lang prefix)
+- **Wiki**: lifeism.miraheze.org (migrating to lifeism.miraheze.org)
+- `/wiki/*` redirects to lifeism.miraheze.org (English, no lang prefix)
 - `/{lang}/wiki/*` redirects with interwiki prefix (e.g. `ja:Title`, `hi:Title`)

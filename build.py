@@ -289,7 +289,7 @@ def load_chapters():
 def load_wiki_pages():
     """Load wiki page content from XML export. Returns dict of title -> wikitext."""
     wiki_pages = {}
-    xml_file = SCRIPT_DIR / "Evolutionism+Wiki-20260209181520.xml"
+    xml_file = SCRIPT_DIR / "lifeism+Wiki-20260209181520.xml"
     if not xml_file.exists():
         print("  Warning: Wiki XML not found, skipping wiki content")
         return wiki_pages
@@ -460,8 +460,8 @@ def generate_wiki_redirects(wiki_pages, languages):
     def target_for_lang(lang: str, title: str) -> str:
         safe_title = title.replace(" ", "_")
         if lang and lang != "en":
-            return f"https://evolutionism.miraheze.org/wiki/{lang}:{safe_title}"
-        return f"https://evolutionism.miraheze.org/wiki/{safe_title}"
+            return f"https://lifeism.miraheze.org/wiki/{lang}:{safe_title}"
+        return f"https://lifeism.miraheze.org/wiki/{safe_title}"
 
     def write_wiki_tree(wiki_dir: Path, js_prefix_regex: str, lang: str | None):
         wiki_dir.mkdir(parents=True, exist_ok=True)
@@ -522,12 +522,12 @@ def generate_wiki_redirects(wiki_pages, languages):
 <script>
 var path = window.location.pathname.replace({js_prefix_regex}, '').replace(/\\/$/, '');
 if (!path) path = 'Main_Page';
-var target = 'https://evolutionism.miraheze.org/wiki/' + ({json.dumps(js_lang_prefix)} + path);
+var target = 'https://lifeism.miraheze.org/wiki/' + ({json.dumps(js_lang_prefix)} + path);
 window.location.href = target;
 </script>
 <noscript><meta http-equiv=\"refresh\" content=\"0; url={main_target}\"></noscript>
 </head><body style=\"background:#0f0f1a;color:#e0e0e0;font-family:sans-serif;display:flex;justify-content:center;align-items:center;height:100vh;\">
-<p>Redirecting to <a href=\"{main_target}\" style=\"color:#ffd700;\">Evolutionism Wiki</a>...</p>
+<p>Redirecting to <a href=\"{main_target}\" style=\"color:#ffd700;\">lifeism Wiki</a>...</p>
 </body></html>""",
             encoding="utf-8",
         )

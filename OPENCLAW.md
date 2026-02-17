@@ -25,7 +25,7 @@ This repository is commonly worked on with **OpenClaw**, using an assistant pers
 
 ## Project-specific expectations
 
-- **Wiki redirects:** `/wiki/*` and `/{lang}/wiki/*` should redirect to Miraheze (currently Evolutionism; may migrate).
+- **Wiki redirects:** `/wiki/*` and `/{lang}/wiki/*` should redirect to Miraheze (currently lifeism; may migrate).
 - **Calendar:** 13×28-day months + intercalary Horus week in ISO week-53 years; year = ISO week-year + 10,000.
 - **Language subdomains:** intended deployment uses `en.order.life`, `ja.order.life`, etc.
 
