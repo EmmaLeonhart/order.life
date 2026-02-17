@@ -372,7 +372,7 @@ def load_fudoki_data():
         print("  Warning: Fudoki CSV not found, skipping")
         return [], []
     # Columns to hide from display (indices in raw CSV)
-    skip_cols = {"qid", "instance_of_qid", "P31"}
+    skip_cols = {"qid", "instance_of_qid", "P31", "P131", "P625", "P646"}
     with open(csv_file, "r", encoding="utf-8") as f:
         reader = csv.reader(f)
         raw_headers = next(reader)
