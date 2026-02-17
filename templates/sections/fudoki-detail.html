@@ -1,10 +1,10 @@
 {% extends "base.html" %}
-{% block title %}{{ realm.name }} — Hallowings{% endblock %}
-{% block meta_description %}{{ realm.name }} — a realm in the Hallowings of the Order of Life.{% endblock %}
-{% block og_title %}{{ realm.name }} — Hallowings of the Realms{% endblock %}
-{% block og_description %}{{ realm.name }} — a realm in the Hallowings of the Order of Life.{% endblock %}
-{% block twitter_title %}{{ realm.name }} — Hallowings of the Realms{% endblock %}
-{% block twitter_description %}{{ realm.name }} — a realm in the Hallowings of the Order of Life.{% endblock %}
+{% block title %}{{ realm.realm_name or realm.name }} — Hallowings{% endblock %}
+{% block meta_description %}{{ realm.realm_name or realm.name }} — a hallowing of {{ realm.country or 'the living world' }} in the Order of Life.{% endblock %}
+{% block og_title %}{{ realm.realm_name or realm.name }} — Hallowings of the Realms{% endblock %}
+{% block og_description %}{{ realm.realm_name or realm.name }} — a hallowing of {{ realm.country or 'the living world' }} in the Order of Life.{% endblock %}
+{% block twitter_title %}{{ realm.realm_name or realm.name }} — Hallowings of the Realms{% endblock %}
+{% block twitter_description %}{{ realm.realm_name or realm.name }} — a hallowing of {{ realm.country or 'the living world' }} in the Order of Life.{% endblock %}
 
 {% block head %}
 <style>
@@ -12,23 +12,73 @@
   max-width: 900px;
   margin: 0 auto;
 }
-.fudoki-detail h1 {
-  margin-bottom: 0.25rem;
+.fudoki-hero-subtitle {
+  color: #ccc;
+  font-size: 1.1rem;
+  margin-top: 0.25rem;
 }
-.fudoki-qid {
-  color: #aaa;
-  font-size: 0.9rem;
-  margin-bottom: 2rem;
+.fudoki-flag {
+  margin: 1.5rem 0;
 }
-.fudoki-qid a { color: #ffd700; text-decoration: none; }
-.fudoki-qid a:hover { text-decoration: underline; }
+.fudoki-flag img {
+  max-width: 200px;
+  border: 1px solid #333;
+  display: block;
+}
+.fudoki-info {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+}
+.fudoki-info dl {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 0.5rem 1rem;
+  margin: 0;
+}
+.fudoki-info dt {
+  color: #ffd700;
+  font-weight: 600;
+}
+.fudoki-info dd {
+  margin: 0;
+}
+.fudoki-info dd a {
+  color: #ffd700;
+  text-decoration: none;
+}
+.fudoki-info dd a:hover {
+  text-decoration: underline;
+}
+.fudoki-locator {
+  margin: 2rem 0;
+}
+.fudoki-locator img {
+  max-width: 500px;
+  width: 100%;
+  border: 1px solid #333;
+  border-radius: 4px;
+  display: block;
+}
+#realm-map {
+  height: 450px;
+  margin: 2rem 0;
+  border: 1px solid #333;
+  border-radius: 4px;
+  background: #1a1a2e;
+}
 </style>
+{% if realm.geoshape %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+{% endif %}
 {% endblock %}
 
 {% block content %}
 <div class="section-hero">
-  <h1>{{ realm.name }}</h1>
-  <p>A realm of the living world.</p>
+  <h1>{{ realm.realm_name or realm.name }}</h1>
+  <p class="fudoki-hero-subtitle">A hallowing of {{ realm.country or 'the living world' }}</p>
 </div>
 
 <div class="container">
@@ -37,13 +87,89 @@
     <span>›</span>
     <a href="{{ base }}/fudoki/">Hallowings</a>
     <span>›</span>
-    {{ realm.name }}
+    {{ realm.realm_name or realm.name }}
   </div>
 
   <div class="fudoki-detail">
-    <p class="fudoki-qid">Wikidata: <a href="https://www.wikidata.org/wiki/Special:EntityPage/{{ realm.qid }}">{{ realm.qid }}</a></p>
+    {% if realm.flag_image %}
+    <div class="fudoki-flag">
+      <img src="{{ realm.flag_image | wikimedia_thumb(200) }}" alt="Flag of {{ realm.wikidata_name or realm.name }}">
+    </div>
+    {% endif %}
 
-    <p>This realm's hallowing is being compiled. More information — geography, myths, products, and place-name etymologies — will be added as the Order's global Fudoki grows.</p>
+    <div class="fudoki-info">
+      <dl>
+        <dt>Country</dt>
+        <dd>{{ realm.country or '—' }}</dd>
+
+        <dt>Population</dt>
+        <dd>{{ realm.population | format_number }}</dd>
+
+        <dt>Area</dt>
+        <dd>{{ realm.area_km2 | format_area }}</dd>
+
+        <dt>Wikidata</dt>
+        <dd><a href="https://www.wikidata.org/wiki/Special:EntityPage/{{ realm.qid }}">{{ realm.qid }}</a></dd>
+      </dl>
+    </div>
+
+    {% if realm.locator_map %}
+    <div class="fudoki-locator">
+      <h2>Location</h2>
+      <img src="{{ realm.locator_map | wikimedia_thumb(500) }}" alt="Location of {{ realm.wikidata_name or realm.name }}">
+    </div>
+    {% endif %}
+
+    {% if realm.geoshape %}
+    <h2>Map</h2>
+    <div id="realm-map"></div>
+    {% endif %}
+
+    <p style="margin-top: 2rem; color: #aaa;">This realm's hallowing is being compiled. More information — geography, myths, products, and place-name etymologies — will be added as the Order's global Fudoki grows.</p>
   </div>
 </div>
+{% endblock %}
+
+{% block scripts %}
+{% if realm.geoshape %}
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+(function() {
+  var map = L.map('realm-map', {
+    zoomControl: true,
+    scrollWheelZoom: false
+  }).setView([20, 0], 3);
+
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 19
+  }).addTo(map);
+
+  var geoshapeTitle = {{ realm.geoshape | tojson }};
+  var apiUrl = 'https://commons.wikimedia.org/w/api.php?action=jsondata&title=' +
+    encodeURIComponent(geoshapeTitle) + '&formatversion=2&origin=*&format=json';
+
+  fetch(apiUrl)
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      if (data && data.jsondata && data.jsondata.data) {
+        var geojson = data.jsondata.data;
+        var layer = L.geoJSON(geojson, {
+          style: {
+            color: '#ffd700',
+            fillColor: '#ffd700',
+            fillOpacity: 0.15,
+            weight: 2
+          }
+        }).addTo(map);
+        map.fitBounds(layer.getBounds(), { padding: [20, 20] });
+      }
+    })
+    .catch(function(err) {
+      console.warn('Could not load geoshape:', err);
+    });
+})();
+</script>
+{% endif %}
 {% endblock %}

@@ -11,6 +11,7 @@ import re
 import sys
 import json
 import shutil
+import urllib.parse
 import xml.etree.ElementTree as ET
 from pathlib import Path
 from datetime import date
@@ -590,6 +591,30 @@ def build_site():
         loader=FileSystemLoader(str(TEMPLATES_DIR)),
         autoescape=select_autoescape(["html"]),
     )
+
+    # Custom Jinja2 filters for Hallowings pages
+    def format_number(value):
+        """Format integer with comma separators, or em-dash for None."""
+        if value is None:
+            return "\u2014"
+        return f"{int(value):,}"
+
+    def format_area(value):
+        """Format area with comma separators + km², or em-dash for None."""
+        if value is None:
+            return "\u2014"
+        return f"{value:,.0f} km\u00b2"
+
+    def wikimedia_thumb(filename, width=300):
+        """Return Wikimedia Commons thumbnail URL for a filename."""
+        if not filename:
+            return ""
+        encoded = urllib.parse.quote(filename.replace(" ", "_"), safe="/:+")
+        return f"https://commons.wikimedia.org/wiki/Special:FilePath/{encoded}?width={width}"
+
+    env.filters["format_number"] = format_number
+    env.filters["format_area"] = format_area
+    env.filters["wikimedia_thumb"] = wikimedia_thumb
 
     # Clean output (build into a temp dir, then swap in)
     if SITE_TMP_DIR.exists():

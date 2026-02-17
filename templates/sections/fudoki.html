@@ -113,15 +113,21 @@
       <table class="fudoki-table">
         <thead>
           <tr>
-            <th>Name</th>
-            <th>QID</th>
+            <th>Realm</th>
+            <th>Country</th>
+            <th>Population</th>
+            <th>Area</th>
           </tr>
         </thead>
         <tbody>
           {% for realm in realms %}
           <tr>
-            <td><a href="{{ base }}/fudoki/{{ realm.qid }}/">{{ realm.name }}</a></td>
-            <td><a href="https://www.wikidata.org/wiki/Special:EntityPage/{{ realm.qid }}">{{ realm.qid }}</a></td>
+            <td>
+              {% if realm.flag_image %}<img src="{{ realm.flag_image | wikimedia_thumb(18) }}" alt="" width="18" height="12" style="vertical-align: middle; margin-right: 6px; border: 1px solid #333;">{% endif %}<a href="{{ base }}/fudoki/{{ realm.qid }}/">{{ realm.realm_name or realm.name }}</a>
+            </td>
+            <td>{{ realm.country or '—' }}</td>
+            <td>{{ realm.population | format_number }}</td>
+            <td>{{ realm.area_km2 | format_area }}</td>
           </tr>
           {% endfor %}
         </tbody>

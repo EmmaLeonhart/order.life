@@ -71,6 +71,16 @@ Generates ~10,800 HTML pages across 9 languages from Jinja2 templates and JSON t
 - Shrines: 命神宮 (Myōjingū)
 - Wiki: currently evolutionism.miraheze.org, migrating to lifeism.miraheze.org
 
+### Hallowings (Fudoki)
+- Realm data in `realms/realms.json`, enriched via `realms/enrich_realms.py`
+- `enrich_realms.py` queries Wikidata SPARQL for country, population, area, flag, locator map, geoshape
+- Names standardized to "Realm of X" by stripping suffixes (Prefecture, Province, Oblast, State, etc.)
+- Manual overrides in `MANUAL_OVERRIDES` dict for edge cases (Moscow, Tokyo, Federal District, etc.)
+- Sorted by country (alpha) then realm_name (alpha)
+- Images served via Wikimedia Commons `Special:FilePath/{filename}?width={N}`
+- Interactive maps via Leaflet.js with CartoDB Dark tiles; GeoJSON fetched from Commons `jsondata` API
+- English-only for now (`/en/fudoki/` and `/en/fudoki/{QID}/`)
+
 ## Conventions
 - Commit early and often with descriptive messages
 - Keep README.md updated for human readers
