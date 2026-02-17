@@ -5,7 +5,6 @@ Generates static HTML for all languages and pages of the Lifeism website.
 Uses Jinja2 templates, outputs to site/{lang}/ directories.
 """
 
-import csv
 import io
 import os
 import re
@@ -309,102 +308,18 @@ def load_wiki_pages():
 
 # ── Fudoki Data ──────────────────────────────────────────────────────────
 
-FUDOKI_HEADER_NAMES = {
-    "label": "Name",
-    "qid": "QID",
-    "instance_of_qid": "Instance Of (QID)",
-    "P31": "Instance Of",
-    "P17": "Country",
-    "P131": "Admin Entity",
-    "P625": "Coordinates",
-    "P646": "Freebase ID",
-    "P242": "Locator Map",
-    "P36": "Capital",
-    "P910": "Main Category",
-    "P373": "Commons Category",
-    "P2046": "Area (km\u00b2)",
-    "P1566": "GeoNames ID",
-    "P300": "ISO 3166-2",
-    "P1082": "Population",
-    "P402": "OSM Relation",
-    "P7471": "WikiProject ID",
-    "P3896": "Geoshape",
-    "P6766": "Who's on First ID",
-    "P18": "Image",
-    "P571": "Inception",
-    "P47": "Shares Border With",
-    "P901": "FIPS 10-4",
-    "P2326": "GADM ID",
-    "P856": "Official Website",
-    "P982": "MusicBrainz Area",
-    "P13591": "ISNI Place ID",
-    "P421": "Timezone",
-    "P1667": "TGN ID",
-    "P1464": "Category: Born Here",
-    "P150": "Contains Admin Divisions",
-    "P1792": "Category: Associated People",
-    "P214": "VIAF ID",
-    "P94": "Coat of Arms",
-    "P41": "Flag",
-    "P1705": "Native Label",
-    "P8189": "Larousse ID",
-    "P244": "LoC Authority ID",
-    "P2936": "Languages Used",
-    "P2044": "Elevation",
-    "P227": "GND ID",
-    "P7867": "BHCL UUID",
-    "P8119": "Indonesian Area Code",
-    "P1465": "Category: Died Here",
-    "P948": "Page Banner",
-    "P9957": "Brockhaus ID",
-    "P1296": "Gran Enciclop\u00e8dia Catalana",
-    "P12385": "GeoNames Feature Code",
-    "P576": "Dissolved Date",
-    "P1313": "Office of Head of Govt",
-    "P1448": "Official Name",
-}
-
-
 def load_fudoki_data():
-    """Load first-level divisions CSV for the Fudoki page.
+    """Load realms JSON for the Hallowings (Fudoki) pages.
 
-    Returns a list of dicts, each with keys:
-      label, qid, country, properties (list of (header, value) for non-empty fields)
+    Returns a list of dicts with keys: name, qid
     """
-    csv_file = SCRIPT_DIR / "first_level_divisions_enriched.csv"
-    if not csv_file.exists():
-        print("  Warning: Fudoki CSV not found, skipping")
+    json_file = SCRIPT_DIR / "realms" / "realms.json"
+    if not json_file.exists():
+        print("  Warning: realms/realms.json not found, skipping")
         return []
-    with open(csv_file, "r", encoding="utf-8") as f:
-        reader = csv.reader(f)
-        raw_headers = next(reader)
-        divisions = []
-        for raw in reader:
-            # Extract country display name from P17 value like "{Q805, Yemen}"
-            p17_raw = raw[raw_headers.index("P17")] if "P17" in raw_headers else ""
-            country = ""
-            if p17_raw:
-                # Parse "{Q805, Yemen}" or "{Q805, Yemen} | {Q123, Foo}"
-                m = re.search(r'\{Q\d+,\s*([^}]+)\}', p17_raw)
-                if m:
-                    country = m.group(1).strip()
+    with open(json_file, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-            # Build properties list (all columns except label/qid, only non-empty)
-            props = []
-            for i, h in enumerate(raw_headers):
-                if h in ("label", "qid"):
-                    continue
-                val = raw[i].strip() if i < len(raw) else ""
-                if val:
-                    props.append((FUDOKI_HEADER_NAMES.get(h, h), val))
-
-            divisions.append({
-                "label": raw[0],
-                "qid": raw[1],
-                "country": country,
-                "properties": props,
-            })
-    return divisions
 
 
 def extract_wiki_overview(wikitext):
@@ -847,17 +762,17 @@ def build_site():
             sec_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, f"sections/{section}.html", sec_dir / "index.html", ctx)
 
-        # ── Fudoki pages (English only for now) ──
+        # ── Fudoki / Hallowings pages (English only for now) ──
         if lang == "en" and fudoki_divisions:
             fudoki_dir = lang_dir / "fudoki"
             fudoki_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, "sections/fudoki.html", fudoki_dir / "index.html",
-                        {**ctx, "fudoki_divisions": fudoki_divisions})
-            for div in fudoki_divisions:
-                div_dir = fudoki_dir / div["qid"]
-                div_dir.mkdir(parents=True, exist_ok=True)
-                render_page(env, "sections/fudoki-detail.html", div_dir / "index.html",
-                            {**ctx, "div": div})
+                        {**ctx, "realms": fudoki_divisions})
+            for realm in fudoki_divisions:
+                realm_dir = fudoki_dir / realm["qid"]
+                realm_dir.mkdir(parents=True, exist_ok=True)
+                render_page(env, "sections/fudoki-detail.html", realm_dir / "index.html",
+                            {**ctx, "realm": realm})
 
     # English homepage is the site root (no separate language selector page needed).
 

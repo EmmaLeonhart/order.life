@@ -1,10 +1,10 @@
 {% extends "base.html" %}
-{% block title %}{{ div.label }} — Fudoki{% endblock %}
-{% block meta_description %}{{ div.label }} — first-level administrative division of {{ div.country }}.{% endblock %}
-{% block og_title %}{{ div.label }} — Hallowings of the Realms{% endblock %}
-{% block og_description %}{{ div.label }} — first-level administrative division of {{ div.country }}.{% endblock %}
-{% block twitter_title %}{{ div.label }} — Hallowings of the Realms{% endblock %}
-{% block twitter_description %}{{ div.label }} — first-level administrative division of {{ div.country }}.{% endblock %}
+{% block title %}{{ realm.name }} — Hallowings{% endblock %}
+{% block meta_description %}{{ realm.name }} — a realm in the Hallowings of the Order of Life.{% endblock %}
+{% block og_title %}{{ realm.name }} — Hallowings of the Realms{% endblock %}
+{% block og_description %}{{ realm.name }} — a realm in the Hallowings of the Order of Life.{% endblock %}
+{% block twitter_title %}{{ realm.name }} — Hallowings of the Realms{% endblock %}
+{% block twitter_description %}{{ realm.name }} — a realm in the Hallowings of the Order of Life.{% endblock %}
 
 {% block head %}
 <style>
@@ -22,60 +22,28 @@
 }
 .fudoki-qid a { color: #ffd700; text-decoration: none; }
 .fudoki-qid a:hover { text-decoration: underline; }
-.fudoki-props {
-  border-collapse: collapse;
-  width: 100%;
-  font-size: 0.85rem;
-}
-.fudoki-props th,
-.fudoki-props td {
-  border: 1px solid #333;
-  padding: 6px 12px;
-  text-align: left;
-  vertical-align: top;
-}
-.fudoki-props th {
-  background: #1a1a2e;
-  color: #ffd700;
-  white-space: nowrap;
-  width: 200px;
-}
-.fudoki-props td {
-  word-break: break-word;
-}
-.fudoki-props tr:nth-child(even) { background: rgba(255,255,255,0.03); }
-.fudoki-props tr:hover { background: rgba(255,215,0,0.07); }
 </style>
 {% endblock %}
 
 {% block content %}
 <div class="section-hero">
-  <h1>{{ div.label }}</h1>
-  <p>{{ div.country }}</p>
+  <h1>{{ realm.name }}</h1>
+  <p>A realm of the living world.</p>
 </div>
 
 <div class="container">
   <div class="breadcrumb">
     <a href="{{ base }}/">{{ t.nav.home }}</a>
     <span>›</span>
-    <a href="{{ base }}/fudoki/">Fudoki</a>
+    <a href="{{ base }}/fudoki/">Hallowings</a>
     <span>›</span>
-    {{ div.label }}
+    {{ realm.name }}
   </div>
 
   <div class="fudoki-detail">
-    <p class="fudoki-qid"><a href="https://www.wikidata.org/wiki/Special:EntityPage/{{ div.qid }}">{{ div.qid }}</a></p>
+    <p class="fudoki-qid">Wikidata: <a href="https://www.wikidata.org/wiki/Special:EntityPage/{{ realm.qid }}">{{ realm.qid }}</a></p>
 
-    <table class="fudoki-props">
-      <tbody>
-        {% for prop_name, prop_value in div.properties %}
-        <tr>
-          <th>{{ prop_name }}</th>
-          <td>{{ prop_value }}</td>
-        </tr>
-        {% endfor %}
-      </tbody>
-    </table>
+    <p>This realm's hallowing is being compiled. More information — geography, myths, products, and place-name etymologies — will be added as the Order's global Fudoki grows.</p>
   </div>
 </div>
 {% endblock %}
