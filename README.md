@@ -1,4 +1,4 @@
-# order.life 
+# order.life
 
 Static website for **Lifeism** (命道教 / Order of Life) — a religion of universal flourishing, negative theology polytheism, and the moral horizon of immortality.
 
@@ -40,6 +40,7 @@ Language subdomains follow Wikipedia conventions: en.order.life, ja.order.life, 
 | `/{lang}/shrines/` | 命神宮 Myōjingū shrines |
 | `/{lang}/longevity/` | Universal immortality & transhumanism |
 | `/{lang}/evolution/` | Evolution as sacred narrative |
+| `/{lang}/fudoki/` | Hallowings of the Realms — first-level divisions database |
 | `/{lang}/wiki/*` | Redirects to evolutionism.miraheze.org/wiki/{lang}:* |
 | `/wiki/*` | Redirects to evolutionism.miraheze.org/wiki/* (English) |
 
@@ -56,6 +57,10 @@ Language subdomains follow Wikipedia conventions: en.order.life, ja.order.life, 
 A 364-chapter creation epic in iambic pentameter (ABAB rhyme scheme) telling the cosmic love story of Aster and Andromeda — from the Big Bang through evolution, human history, and cosmic reunion. One chapter per day of the Gaian year.
 
 Currently 63 chapters complete (Chapters 1-63: Cosmogony through Early Carboniferous).
+
+## Hallowings of the Realms (Fudoki)
+
+Database of first-level administrative divisions worldwide, sourced from Wikidata. Merged from the [Hallowings-of-the-Realms](https://github.com/Immanuelle/Hallowings-of-the-Realms) project.
 
 ## Building
 
@@ -89,4 +94,3 @@ Outputs static HTML to `site/` directory. ~10,800 pages across all languages.
 - **Wiki**: evolutionism.miraheze.org (migrating to lifeism.miraheze.org)
 - `/wiki/*` redirects to evolutionism.miraheze.org (English, no lang prefix)
 - `/{lang}/wiki/*` redirects with interwiki prefix (e.g. `ja:Title`, `hi:Title`)
-
