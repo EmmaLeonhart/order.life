@@ -125,7 +125,13 @@
     <div id="realm-map"></div>
     {% endif %}
 
-    <p style="margin-top: 2rem; color: #aaa;">This realm's hallowing is being compiled. More information — geography, myths, products, and place-name etymologies — will be added as the Order's global Fudoki grows.</p>
+    {% if realm.content_md %}
+    <div class="fudoki-content" style="margin-top: 2rem; line-height: 1.7;">
+      {{ realm.content_md | simple_md }}
+    </div>
+    {% else %}
+    <p style="margin-top: 2rem; color: #aaa;">This realm's hallowing is being compiled.</p>
+    {% endif %}
   </div>
 </div>
 {% endblock %}

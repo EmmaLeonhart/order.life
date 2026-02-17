@@ -312,14 +312,23 @@ def load_wiki_pages():
 def load_fudoki_data():
     """Load realms JSON for the Hallowings (Fudoki) pages.
 
-    Returns a list of dicts with keys: name, qid
+    Returns a list of dicts with keys: name, qid, and enrichment fields.
+    Also loads per-realm markdown content from realms/content/{QID}.md.
     """
     json_file = SCRIPT_DIR / "realms" / "realms.json"
     if not json_file.exists():
         print("  Warning: realms/realms.json not found, skipping")
         return []
     with open(json_file, "r", encoding="utf-8") as f:
-        return json.load(f)
+        realms = json.load(f)
+    content_dir = SCRIPT_DIR / "realms" / "content"
+    for realm in realms:
+        md_file = content_dir / f"{realm['qid']}.md"
+        if md_file.exists():
+            realm["content_md"] = md_file.read_text(encoding="utf-8").strip()
+        else:
+            realm["content_md"] = ""
+    return realms
 
 
 
@@ -612,6 +621,16 @@ def build_site():
         encoded = urllib.parse.quote(filename.replace(" ", "_"), safe="/:+")
         return f"https://commons.wikimedia.org/wiki/Special:FilePath/{encoded}?width={width}"
 
+    def simple_md(text):
+        """Convert simple markdown text to HTML paragraphs."""
+        if not text:
+            return ""
+        from markupsafe import Markup
+        paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
+        html = "".join(f"<p>{p}</p>" for p in paragraphs)
+        return Markup(html)
+
+    env.filters["simple_md"] = simple_md
     env.filters["format_number"] = format_number
     env.filters["format_area"] = format_area
     env.filters["wikimedia_thumb"] = wikimedia_thumb
