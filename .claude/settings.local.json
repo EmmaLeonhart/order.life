@@ -18,7 +18,8 @@
       "Bash(\"C:\\\\Users\\\\Immanuelle\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python313\\\\python.exe\" -c \"\nimport csv\nimport sys\nimport io\nsys.stdout = io.TextIOWrapper\\(sys.stdout.buffer, encoding=''utf-8''\\)\n\nwith open\\(''first_level_divisions_enriched.csv'', ''r'', encoding=''utf-8''\\) as f:\n    reader = csv.DictReader\\(f\\)\n    rows = list\\(reader\\)\n\ntotal = len\\(rows\\)\nprops = [''P17'',''P625'',''P242'',''P2046'',''P1082'',''P36'',''P300'',''P18'',''P47'',''P41'',''P94'',''P576'']\nlabels = [''country'',''coordinates'',''locator map'',''area'',''population'',''capital'',''ISO code'',''image'',''borders'',''flag'',''coat of arms'',''dissolved'']\n\nprint\\(f''Total: {total}''\\)\nprint\\(\\)\nfor p, label in zip\\(props, labels\\):\n    filled = sum\\(1 for r in rows if r.get\\(p,''''\\).strip\\(\\)\\)\n    pct = filled/total*100\n    print\\(f''{p:<6} {label:<15} {filled:>5} \\({pct:.1f}%\\)''\\)\n\")",
       "Bash(git remote remove:*)",
       "Bash(/c/Users/Immanuelle/AppData/Local/Programs/Python/Python313/python.exe build.py)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(git push:*)"
     ]
   }
 }
