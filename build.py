@@ -884,8 +884,15 @@ def build_site():
 
             map_dir = fudoki_dir / "map"
             map_dir.mkdir(parents=True, exist_ok=True)
-            render_page(env, "sections/fudoki-map.html", map_dir / "index.html",
-                        {**ctx, "realms": fudoki_divisions})
+            # Keep legacy URL working, but make /map/ canonical.
+            (map_dir / "index.html").write_text(
+                "<!doctype html><html><head>"
+                "<meta charset='utf-8'>"
+                "<meta http-equiv='refresh' content='0; url=/map/'>"
+                "<script>window.location.replace('/map/');</script>"
+                "</head><body>Redirecting to <a href='/map/'>/map/</a>...</body></html>",
+                encoding="utf-8",
+            )
             for realm in fudoki_divisions:
                 realm_dir = fudoki_dir / realm.get("slug", realm["qid"])
                 realm_dir.mkdir(parents=True, exist_ok=True)
