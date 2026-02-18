@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block title %}Hallowings{% endblock %}
+{% block meta_description %}Hallowings of the Realms: registry and map of sacred realms in the Order of Life.{% endblock %}
+
+{% block head %}
+<style>
+.hallowings-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+.hallowings-card {
+  display: block;
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 1.1rem 1.2rem;
+  background: rgba(255,255,255,0.03);
+  color: inherit;
+  text-decoration: none;
+}
+.hallowings-card:hover {
+  border-color: #ffd700;
+  background: rgba(255,215,0,0.07);
+}
+.hallowings-card h3 {
+  color: #ffd700;
+  margin: 0 0 0.4rem;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>Hallowings</h1>
+  <p>Realms, maps, and future world-gazetteer tools.</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    Hallowings
+  </div>
+
+  <div class="section-content">
+    <p>The Hallowings section is the home for the Order's realm atlas. Start with either the full registry or the interactive world map.</p>
+    <div class="hallowings-grid">
+      <a class="hallowings-card" href="{{ base }}/fudoki/">
+        <h3>Realm Registry</h3>
+        <p>Browse all realms with country, population, area, and individual pages.</p>
+      </a>
+      <a class="hallowings-card" href="{{ base }}/hallowings/map/">
+        <h3>Realm Map</h3>
+        <p>Explore hallowings geographically on the interactive map.</p>
+      </a>
+    </div>
+  </div>
+</div>
+{% endblock %}

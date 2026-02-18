@@ -1,10 +1,10 @@
-{% extends "base.html" %}
+﻿{% extends "base.html" %}
 {% block title %}Hallowings of the Realms (Fudoki){% endblock %}
-{% block meta_description %}The Hallowings — sacred regional gazetteers of every realm on Earth, modeled on Japan's ancient Fudoki (風土記).{% endblock %}
-{% block og_title %}Hallowings of the Realms — {{ t.site_title }}{% endblock %}
-{% block og_description %}The Hallowings — sacred regional gazetteers of every realm on Earth, modeled on Japan's ancient Fudoki (風土記).{% endblock %}
-{% block twitter_title %}Hallowings of the Realms — {{ t.site_title }}{% endblock %}
-{% block twitter_description %}The Hallowings — sacred regional gazetteers of every realm on Earth, modeled on Japan's ancient Fudoki (風土記).{% endblock %}
+{% block meta_description %}The Hallowings - sacred regional gazetteers of every realm on Earth, modeled on Japan's ancient Fudoki.{% endblock %}
+{% block og_title %}Hallowings of the Realms - {{ t.site_title }}{% endblock %}
+{% block og_description %}The Hallowings - sacred regional gazetteers of every realm on Earth, modeled on Japan's ancient Fudoki.{% endblock %}
+{% block twitter_title %}Hallowings of the Realms - {{ t.site_title }}{% endblock %}
+{% block twitter_description %}The Hallowings - sacred regional gazetteers of every realm on Earth, modeled on Japan's ancient Fudoki.{% endblock %}
 
 {% block head %}
 <style>
@@ -36,6 +36,20 @@
 .fudoki-table a { color: #ffd700; text-decoration: none; }
 .fudoki-table a:hover { text-decoration: underline; }
 .fudoki-count { color: #aaa; margin-bottom: 1rem; }
+.fudoki-actions {
+  margin: 1.2rem 0 0.8rem;
+}
+.fudoki-actions a {
+  display: inline-block;
+  padding: 0.55rem 0.95rem;
+  border: 1px solid #ffd700;
+  border-radius: 999px;
+  color: #ffd700;
+  text-decoration: none;
+}
+.fudoki-actions a:hover {
+  background: rgba(255,215,0,0.12);
+}
 .parallel-table {
   border-collapse: collapse;
   margin: 1.5rem 0;
@@ -58,21 +72,21 @@
 {% block content %}
 <div class="section-hero">
   <h1>Hallowings of the Realms</h1>
-  <p>風土記 (Fudoki) — Sacred gazetteers of every realm on Earth.</p>
+  <p>Fudoki - sacred gazetteers of every realm on Earth.</p>
 </div>
 
 <div class="container">
   <div class="breadcrumb">
     <a href="{{ base }}/">{{ t.nav.home }}</a>
-    <span>›</span>
+    <span>></span>
     Fudoki
   </div>
 
   <div class="section-content">
     <h2>What are Hallowings?</h2>
-    <p>In 713 CE, Empress Genmei ordered every province of Japan to compile a <strong>Fudoki</strong> (風土記) — a regional gazetteer recording its geography, myths, products, and place-name etymologies. These were the sacred atlases of the land: each province hallowed by being known, named, and documented.</p>
+    <p>In 713 CE, Empress Genmei ordered every province of Japan to compile a <strong>Fudoki</strong> - a regional gazetteer recording its geography, myths, products, and place-name etymologies. These were the sacred atlases of the land: each province hallowed by being known, named, and documented.</p>
 
-    <p>The Order of Life extends this tradition to the entire world. The <strong>Hallowings</strong> are our global Fudoki — a sacred registry of every realm on Earth, each one acknowledged and consecrated as part of the living world. Every administrative division, from Alabama to Zulia, is a realm worthy of its own hallowing.</p>
+    <p>The Order of Life extends this tradition to the entire world. The <strong>Hallowings</strong> are our global Fudoki - a sacred registry of every realm on Earth, each one acknowledged and consecrated as part of the living world. Every administrative division, from Alabama to Zulia, is a realm worthy of its own hallowing.</p>
 
     <h2>The Three Pillars</h2>
     <p>The Order's textual tradition parallels the three great compilations of classical Japan:</p>
@@ -87,27 +101,30 @@
       </thead>
       <tbody>
         <tr>
-          <td><strong>Kojiki</strong> (古事記) — Record of Ancient Matters</td>
-          <td><strong>Gaiad</strong> — Creation Epic</td>
+          <td><strong>Kojiki</strong> - Record of Ancient Matters</td>
+          <td><strong>Gaiad</strong> - Creation Epic</td>
           <td>The sacred myth: how the cosmos came to be</td>
         </tr>
         <tr>
-          <td><strong>Fudoki</strong> (風土記) — Regional Gazetteers</td>
-          <td><strong>Hallowings</strong> — Realm Gazetteers</td>
+          <td><strong>Fudoki</strong> - Regional Gazetteers</td>
+          <td><strong>Hallowings</strong> - Realm Gazetteers</td>
           <td>The sacred atlas: every realm known and named</td>
         </tr>
         <tr>
-          <td><strong>Engishiki</strong> (延喜式) — Shrine &amp; Ritual Registers</td>
-          <td><strong>Databases</strong> — Shrine &amp; Knowledge Systems</td>
+          <td><strong>Engishiki</strong> - Shrine and Ritual Registers</td>
+          <td><strong>Databases</strong> - Shrine and Knowledge Systems</td>
           <td>The sacred procedures: how to worship and organize</td>
         </tr>
       </tbody>
     </table>
 
-    <p>Where Japan's <em>Jingi-kan</em> (神祇官, Department of Divinities) maintained registers for a single nation, the Order aims to be a Department of Divinities for the entire world — hallowing every realm, documenting every shrine, and keeping the old ways alive in a global age.</p>
+    <p>Where Japan's Department of Divinities maintained registers for a single nation, the Order aims to be a Department of Divinities for the entire world - hallowing every realm, documenting every shrine, and keeping the old ways alive in a global age.</p>
 
     <h2>Registry of Realms</h2>
-    <p class="fudoki-count">{{ realms | length }} realms · <a href="{{ base }}/fudoki/map/" style="color: #ffd700;">View on map</a></p>
+    <div class="fudoki-actions">
+      <a href="{{ base }}/hallowings/map/">Open interactive map</a>
+    </div>
+    <p class="fudoki-count">{{ realms | length }} realms - <a href="{{ base }}/hallowings/map/" style="color: #ffd700;">View on map</a></p>
 
     <div class="fudoki-table-wrap">
       <table class="fudoki-table">
@@ -125,7 +142,7 @@
             <td>
               {% if realm.flag_image %}<img src="{{ realm.flag_image | wikimedia_thumb(18) }}" alt="" width="18" height="12" style="vertical-align: middle; margin-right: 6px; border: 1px solid #333;">{% endif %}<a href="{{ base }}/fudoki/{{ realm.slug or realm.qid }}/">{{ realm.realm_name or realm.name }}</a>
             </td>
-            <td>{{ realm.country or '—' }}</td>
+            <td>{{ realm.country or '-' }}</td>
             <td>{{ realm.population | format_number }}</td>
             <td>{{ realm.area_km2 | format_area }}</td>
           </tr>
