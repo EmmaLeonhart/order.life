@@ -1,6 +1,6 @@
 The Realm of Oita is a realm in Japan.
 
-Bungo has eight districts, nine posting-stations, five beacons, and two temples.
+The prefecture has three districts: Higashikunisaki, Hayami, and Kusu.
 
 Formerly, Bungo and Buzen provinces constituted one administrative unit called Toyokuni. In the remote past, Prince Ohotarashi, posthumously known as Emperor Keiko, who governed the realm from Hishiro Palace in Makimuku, issued an edict and appointed Unade, the forebear of the Toyokuni no Atahi, governor of Toyokuni. The sun was setting when Unade arrived at the hamlet of Nakatomi in the district of Nakatsu of Buzen, where he spent the night.
 
