@@ -1,12 +1,12 @@
 The Realm of Oita is a realm in Japan.
 
-Oita Prefecture is organized into modern municipalities, while these historical districts are retained in this fudoki-style account.
+Bungo has eight districts, nine posting-stations, five beacons, and two temples.
 
-Formerly, Bungo and Buzen formed one administrative unit called Toyokuni. In the remote past, Prince Ohotarashi, posthumously known as Emperor Keiko, who governed the realm from Hishiro Palace in Makimuku, issued an edict and appointed Unade, the forebear of the Toyokuni no Atahi, governor of Toyokuni. The sun was setting when Unade arrived at the hamlet of Nakatomi in the district of Nakatsu of Buzen, where he spent the night.
+Formerly, Bungo and Buzen provinces constituted one administrative unit called Toyokuni. In the remote past, Prince Ohotarashi, posthumously known as Emperor Keiko, who governed the realm from Hishiro Palace in Makimuku, issued an edict and appointed Unade, the forebear of the Toyokuni no Atahi, governor of Toyokuni. The sun was setting when Unade arrived at the hamlet of Nakatomi in the district of Nakatsu of Buzen, where he spent the night.
 
 At dawn the following day, white birds flew into the village from the north. In early Japanese belief, white birds possessed a divine nature. Unade ordered his men to watch the birds. Thereupon the birds turned into rice cakes. After a while, these rice cakes turned into taro potato plants. The plants grew continuously, and their flowers and leaves were abundant even in winter. Unade was greatly impressed by this phenomenon, and said, "Those transformed taro plants are unlike any I have seen. This must be a sign of the grace of the gods in heaven and earth."
 
-Unade then went to the royal Court for an audience with the prince. The prince was overjoyed with the news. "Such is the grace of heaven, the gift of the earth," said the prince. "Hereafter your land shall be named Toyokuni (abundant country)." The prince further honored Unade by bestowing upon him a kabane (title) and calling him Toyokuni no Atahi (the honest deputy of the abundant country). Thus, the land was named Toyokuni. In this modern retelling, that older land is treated as the historical root of present-day Oita Prefecture.
+Unade then went to the royal Court for an audience with the prince. The prince was overjoyed with the news. "Such is the grace of heaven, the gift of the earth," said the prince. "Hereafter your land shall be named Toyokuni (abundant country)." The prince further honored Unade by bestowing upon him a kabane (title) and calling him Toyokuni no Atahi (the honest deputy of the abundant country). Thus, the land was named Toyokuni. Later this land of Toyokuni was divided into two provinces, one of which was named Toyo no Michi no Shiri no Kuni, meaning "rear half of Toyokuni," or Bungo.
 
 ## District of Hida
 
@@ -16,7 +16,7 @@ In the remote past Prince Ohotarashi chastised the Kumaso, a collective name for
 
 Township of Ishiwi. In ancient times there was a Tsuchikumo fortress in this area. Unlike most fortresses, it was surrounded not by stone walls but by earthen walls. Because of this, the place was named Ishinashi no Woki (stoneless fortress). Today people mistakenly call it Ishiwi.
 
-There is a large river in this township. It is called Aso Gaha and it has its source in Mt. Wokuni of Aso District in old Higo. In this township the Aso Gaha joins the Kusu Gaha to become the Hida Gaha. Ayu, a kind of yearly fish so named because few live longer than a year, are abundant there. The river forms an old regional boundary and eventually it reaches Nishi no Umi (the Western Sea).
+There is a large river in this township. It is called Aso Gaha and it has its source in Mt. Wokuni of Aso District in Higo Province. In this township the Aso Gaha joins the Kusu Gaha to become the Hida Gaha. Ayu, a kind of yearly fish so named because few live longer than a year, are abundant there. The river forms the border between the provinces of Chikuzen and Chikugo and eventually it reaches Nishi no Umi (the Western Sea).
 
 Kagami Saka. At one time, Prince Ohotarashi observed the condition of the land in this pass, and said, "The shape of this land is like the surface of a mirror." The place came to be called Kagami Saka (mirror pass). This is the etymology of the place name.
 
@@ -104,7 +104,7 @@ Mt. Yufu. There is a cavern at the top of this mountain, which rises about 1,600
 
 Mt. Kubi. There is a rice field at the foot of this mountain. Its former name was Yakata. Legend tells us why it is now called Kubita. Once upon a time a deer came to this field and ate the young rice seedlings every time they sprouted. The owner of the rice field devised a plan, erected a fence around the rice field, and waited. The next time the deer came to the field, it put its neck through the fence so that it could reach the seedlings and eat them. The owner caught the deer. As he was about to slay the animal, it begged for its life, saying, "I shall take an oath now. Forgive my grave offense. If I am released alive, I will command my offspring never to eat your seedlings." The man marveled at the animal's words and decided not to kill it. Since that time, no seedlings in this rice paddy have ever been eaten by deer. The crops grow until harvest time. The rice field was named for the neck of the deer. Hence, it is called Kubita (neck field). The word kubi (neck) also gave rise to the name of Mt. Kubi.
 
-Tano. It is a broad field with fertile soil. The ease with which this land could be reclaimed was once unsurpassed in all the region. In the past, many farmers of the district tilled this field and always they reaped abundant harvests. The abundance was such that the farmers left the surplus lying in the rice field. As a result, the villagers grew extravagant and ungrateful. They began to use rice cakes as archery targets. At this ultimate wastefulness, the rice cakes turned into white birds, which flew away to the south. Within a year, all the farmers of the village were dead and the rice fields lay in waste. Since that time, rice farming has never been good here. That is why the place is now called Tano (wasted rice land).
+Tano. It is a broad field with fertile soil. The ease with which this land could be reclaimed was once unsurpassed in all the province. In the past, many farmers of the district tilled this field and always they reaped abundant harvests. The abundance was such that the farmers left the surplus lying in the rice field. As a result, the villagers grew extravagant and ungrateful. They began to use rice cakes as archery targets. At this ultimate wastefulness, the rice cakes turned into white birds, which flew away to the south. Within a year, all the farmers of the village were dead and the rice fields lay in waste. Since that time, rice farming has never been good here. That is why the place is now called Tano (wasted rice land).
 
 ## District of Kunisaki
 
@@ -112,4 +112,4 @@ The district of Kunisaki has six townships. When he embarked on his expeditionar
 
 Township of Imi. The same prince came to this village, and said, "It has been a long journey to this land. The mountains and valleys are dangerous and forbidding to travel through, and yet here I am at last." Thus, the village was named Kunimi (land-viewing), a gesture of conquest signifying dominion over the landscape. The area is now called the township of Imi. Imi is believed to have derived from Kunimi.
 
-Historical province: Bungo.
+Old provinces: Bungo.
