@@ -7,7 +7,7 @@ Generates ~10,800 HTML pages across 9 languages from Jinja2 templates and JSON t
 ## Quick Commands
 - **Build site**: `python build.py` (outputs to `site/`)
 - **Dev server**: `python -m http.server 8000 --directory site`
-- **Requires**: Python 3 + Jinja2 (`pip install jinja2`)
+- **Requires**: Python 3 dependencies (`pip install -r requirements.txt`)
 
 ## Architecture
 

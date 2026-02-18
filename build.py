@@ -44,6 +44,13 @@ except ImportError:
     print("ERROR: jinja2 not found. Install with: pip install jinja2")
     sys.exit(1)
 
+try:
+    import markdown as md
+except ImportError:
+    md = None
+
+from markupsafe import Markup, escape
+
 # ── Calendar Data ──────────────────────────────────────────────────────────
 
 MONTHS = [
@@ -621,13 +628,20 @@ def build_site():
         encoded = urllib.parse.quote(filename.replace(" ", "_"), safe="/:+")
         return f"https://commons.wikimedia.org/wiki/Special:FilePath/{encoded}?width={width}"
 
+    if md is None:
+        print(
+            "WARNING: markdown package not found; using plain paragraph fallback for simple_md. "
+            "Install with: pip install markdown"
+        )
+
     def simple_md(text):
-        """Convert markdown text to HTML."""
+        """Convert markdown text to HTML, with a safe plain-text fallback."""
         if not text:
             return ""
-        import markdown as md
-        from markupsafe import Markup
-        html = md.markdown(text, extensions=["tables"])
+        if md is not None:
+            return Markup(md.markdown(text, extensions=["tables"]))
+        paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
+        html = "".join(f"<p>{escape(p)}</p>" for p in paragraphs)
         return Markup(html)
 
     env.filters["simple_md"] = simple_md

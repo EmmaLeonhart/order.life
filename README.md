@@ -64,10 +64,10 @@ Database of first-level administrative divisions worldwide, sourced from Wikidat
 
 ## Building
 
-Requires Python 3 with Jinja2:
+Requires Python 3 with dependencies:
 
 ```bash
-pip install jinja2
+pip install -r requirements.txt
 python build.py
 ```
 
