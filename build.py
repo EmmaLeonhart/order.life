@@ -558,6 +558,41 @@ window.location.href = target;
             js_regex = rf"/^\\/{lang}\\/wiki\\/?/"
         write_wiki_tree(wiki_dir, js_prefix_regex=js_regex, lang=lang)
 
+    # Per-language /w paths: /{lang}/w/... (English at /w/)
+    # Redirects to lifeism.miraheze.org/w/*
+    for lang in languages:
+        if lang == DEFAULT_LANG:
+            w_dir = SITE_DIR / "w"
+            js_regex = r"/^\\/w\\/?/"
+        else:
+            w_dir = SITE_DIR / lang / "w"
+            js_regex = rf"/^\\/{lang}\\/w\\/?/"
+
+        w_dir.mkdir(parents=True, exist_ok=True)
+        main_target = "https://lifeism.miraheze.org/w/Main_Page"
+
+        # Main /w/ and /w/Main_Page/
+        (w_dir / "index.html").write_text(
+            f"""<!DOCTYPE html>
+<html><head><meta charset=\"UTF-8\"><title>Redirecting to Wiki...</title>
+<script>
+var path = window.location.pathname.replace({js_regex}, '').replace(/\\/$/, '');
+if (!path) path = 'Main_Page';
+window.location.href = 'https://lifeism.miraheze.org/w/' + path;
+</script>
+<noscript><meta http-equiv=\"refresh\" content=\"0; url={main_target}\"></noscript>
+</head><body style=\"background:#0f0f1a;color:#e0e0e0;font-family:sans-serif;display:flex;justify-content:center;align-items:center;height:100vh;\">
+<p>Redirecting to <a href=\"{main_target}\" style=\"color:#ffd700;\">lifeism Wiki</a>...</p>
+</body></html>""",
+            encoding="utf-8",
+        )
+        main_page_dir = w_dir / "Main_Page"
+        main_page_dir.mkdir(parents=True, exist_ok=True)
+        (main_page_dir / "index.html").write_text(
+            redirect_template.format(title="Main Page", target=main_target),
+            encoding="utf-8",
+        )
+
 
 # ── Build Functions ────────────────────────────────────────────────────────
 
