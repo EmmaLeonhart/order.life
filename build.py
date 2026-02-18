@@ -622,12 +622,12 @@ def build_site():
         return f"https://commons.wikimedia.org/wiki/Special:FilePath/{encoded}?width={width}"
 
     def simple_md(text):
-        """Convert simple markdown text to HTML paragraphs."""
+        """Convert markdown text to HTML."""
         if not text:
             return ""
+        import markdown as md
         from markupsafe import Markup
-        paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
-        html = "".join(f"<p>{p}</p>" for p in paragraphs)
+        html = md.markdown(text, extensions=["tables"])
         return Markup(html)
 
     env.filters["simple_md"] = simple_md
