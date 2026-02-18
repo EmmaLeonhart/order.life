@@ -812,6 +812,10 @@ def build_site():
             fudoki_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, "sections/fudoki.html", fudoki_dir / "index.html",
                         {**ctx, "realms": fudoki_divisions})
+            map_dir = fudoki_dir / "map"
+            map_dir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "sections/fudoki-map.html", map_dir / "index.html",
+                        {**ctx, "realms": fudoki_divisions})
             for realm in fudoki_divisions:
                 realm_dir = fudoki_dir / realm.get("slug", realm["qid"])
                 realm_dir.mkdir(parents=True, exist_ok=True)

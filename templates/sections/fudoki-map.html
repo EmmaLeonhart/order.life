@@ -1,0 +1,214 @@
+{% extends "base.html" %}
+{% block title %}Map of Realms — Hallowings{% endblock %}
+{% block meta_description %}Interactive map of all Hallowings — the sacred realms of the Order of Life.{% endblock %}
+{% block og_title %}Map of Realms — Hallowings{% endblock %}
+{% block og_description %}Interactive map of all Hallowings — the sacred realms of the Order of Life.{% endblock %}
+{% block twitter_title %}Map of Realms — Hallowings{% endblock %}
+{% block twitter_description %}Interactive map of all Hallowings — the sacred realms of the Order of Life.{% endblock %}
+
+{% block head %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+<style>
+#realms-map {
+  width: 100%;
+  height: calc(100vh - 60px);
+  background: #0f0f1a;
+}
+.realm-popup { font-size: 0.9rem; }
+.realm-popup a { color: #1a1a2e; font-weight: 600; text-decoration: none; }
+.realm-popup a:hover { text-decoration: underline; }
+.realm-popup .realm-country { color: #666; font-size: 0.8rem; }
+.map-status {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(26,26,46,0.9);
+  color: #ffd700;
+  padding: 8px 18px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  z-index: 1000;
+  pointer-events: none;
+  transition: opacity 0.5s;
+}
+.map-search {
+  position: fixed;
+  top: 75px;
+  right: 15px;
+  z-index: 1000;
+}
+.map-search input {
+  background: rgba(26,26,46,0.95);
+  border: 1px solid #333;
+  color: #e0e0e0;
+  padding: 8px 14px;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  width: 220px;
+}
+.map-search input::placeholder { color: #666; }
+.map-search-results {
+  background: rgba(26,26,46,0.95);
+  border: 1px solid #333;
+  border-radius: 6px;
+  margin-top: 4px;
+  max-height: 250px;
+  overflow-y: auto;
+  display: none;
+}
+.map-search-results a {
+  display: block;
+  padding: 6px 14px;
+  color: #e0e0e0;
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+.map-search-results a:hover { background: rgba(255,215,0,0.1); color: #ffd700; }
+</style>
+{% endblock %}
+
+{% block content %}
+<div id="realms-map"></div>
+<div class="map-status" id="map-status">Loading realms...</div>
+<div class="map-search">
+  <input type="text" id="map-search-input" placeholder="Search realms..." autocomplete="off">
+  <div class="map-search-results" id="map-search-results"></div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script>
+(function() {
+  var realms = {{ realms | tojson }};
+  var base = {{ base | tojson }};
+
+  var map = L.map('realms-map', {
+    zoomControl: true,
+    scrollWheelZoom: true,
+    worldCopyJump: true
+  }).setView([25, 0], 3);
+
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 19
+  }).addTo(map);
+
+  var statusEl = document.getElementById('map-status');
+  var realmLayers = {};
+  var withGeo = realms.filter(function(r) { return r.geoshape; });
+  var loaded = 0;
+  var total = withGeo.length;
+  var BATCH = 8;
+  var DELAY = 300;
+
+  function updateStatus() {
+    statusEl.textContent = 'Loaded ' + loaded + ' / ' + total + ' realms';
+    if (loaded >= total) {
+      statusEl.textContent = total + ' realms loaded';
+      setTimeout(function() { statusEl.style.opacity = '0'; }, 2000);
+    }
+  }
+
+  function loadBatch(start) {
+    var batch = withGeo.slice(start, start + BATCH);
+    if (batch.length === 0) return;
+
+    var promises = batch.map(function(realm) {
+      var cleanTitle = realm.geoshape.replace(/^Data:/, '');
+      var apiUrl = 'https://commons.wikimedia.org/w/api.php?action=jsondata&title=' +
+        encodeURIComponent(cleanTitle) + '&formatversion=2&origin=*&format=json';
+
+      return fetch(apiUrl)
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+          if (data && data.jsondata && data.jsondata.data) {
+            var layer = L.geoJSON(data.jsondata.data, {
+              style: {
+                color: '#ffd700',
+                fillColor: '#ffd700',
+                fillOpacity: 0.12,
+                weight: 1.5
+              },
+              onEachFeature: function(feature, lyr) {
+                var slug = realm.slug || realm.qid;
+                var popup = '<div class="realm-popup">' +
+                  '<a href="' + base + '/fudoki/' + slug + '/">' + (realm.realm_name || realm.name) + '</a>' +
+                  (realm.country ? '<div class="realm-country">' + realm.country + '</div>' : '') +
+                  '</div>';
+                lyr.bindPopup(popup);
+                lyr.on('mouseover', function() {
+                  lyr.setStyle({ fillOpacity: 0.35, weight: 2.5 });
+                });
+                lyr.on('mouseout', function() {
+                  lyr.setStyle({ fillOpacity: 0.12, weight: 1.5 });
+                });
+              }
+            }).addTo(map);
+            realmLayers[realm.slug || realm.qid] = { layer: layer, realm: realm };
+          }
+          loaded++;
+          updateStatus();
+        })
+        .catch(function() {
+          loaded++;
+          updateStatus();
+        });
+    });
+
+    Promise.all(promises).then(function() {
+      if (start + BATCH < withGeo.length) {
+        setTimeout(function() { loadBatch(start + BATCH); }, DELAY);
+      }
+    });
+  }
+
+  loadBatch(0);
+  updateStatus();
+
+  // Search
+  var searchInput = document.getElementById('map-search-input');
+  var searchResults = document.getElementById('map-search-results');
+
+  searchInput.addEventListener('input', function() {
+    var q = this.value.toLowerCase().trim();
+    searchResults.innerHTML = '';
+    if (q.length < 2) { searchResults.style.display = 'none'; return; }
+
+    var matches = realms.filter(function(r) {
+      return (r.realm_name || r.name || '').toLowerCase().indexOf(q) !== -1 ||
+             (r.country || '').toLowerCase().indexOf(q) !== -1;
+    }).slice(0, 15);
+
+    if (matches.length === 0) { searchResults.style.display = 'none'; return; }
+    searchResults.style.display = 'block';
+
+    matches.forEach(function(r) {
+      var a = document.createElement('a');
+      a.href = '#';
+      a.textContent = (r.realm_name || r.name) + (r.country ? ' — ' + r.country : '');
+      a.addEventListener('click', function(e) {
+        e.preventDefault();
+        var slug = r.slug || r.qid;
+        var entry = realmLayers[slug];
+        if (entry) {
+          map.fitBounds(entry.layer.getBounds(), { padding: [50, 50] });
+          entry.layer.eachLayer(function(lyr) { lyr.openPopup(); });
+        }
+        searchResults.style.display = 'none';
+        searchInput.value = r.realm_name || r.name;
+      });
+      searchResults.appendChild(a);
+    });
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+      searchResults.style.display = 'none';
+    }
+  });
+})();
+</script>
+{% endblock %}
