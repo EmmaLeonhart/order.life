@@ -99,13 +99,14 @@
   var statusEl = document.getElementById('map-status');
   var realmLayers = {};
   var withGeo = realms.filter(function(r) { return r.geoshape; });
+  var goodCount = realms.filter(function(r) { return !!r.good_fudoki; }).length;
   var loaded = 0;
   var total = withGeo.length;
   var BATCH = 8;
   var DELAY = 300;
 
   function updateStatus() {
-    statusEl.textContent = 'Loaded ' + loaded + ' / ' + total + ' realms';
+    statusEl.textContent = 'Loaded ' + loaded + ' / ' + total + ' realms · Good: ' + goodCount;
     if (loaded >= total) {
       statusEl.textContent = total + ' realms loaded';
       setTimeout(function() { statusEl.style.opacity = '0'; }, 2000);
@@ -125,25 +126,29 @@
         .then(function(r) { return r.json(); })
         .then(function(data) {
           if (data && data.jsondata && data.jsondata.data) {
+            var isGood = !!realm.good_fudoki;
+            var baseColor = isGood ? '#ffd700' : '#5b6f8a';
             var layer = L.geoJSON(data.jsondata.data, {
               style: {
-                color: '#ffd700',
-                fillColor: '#ffd700',
-                fillOpacity: 0.12,
+                color: baseColor,
+                fillColor: baseColor,
+                fillOpacity: isGood ? 0.2 : 0.08,
                 weight: 1.5
               },
               onEachFeature: function(feature, lyr) {
                 var slug = realm.slug || realm.qid;
+                var statusLabel = isGood ? 'Good Fudoki' : 'Needs Work';
                 var popup = '<div class="realm-popup">' +
                   '<a href="' + base + '/fudoki/' + slug + '/">' + (realm.realm_name || realm.name) + '</a>' +
+                  '<div class="realm-country">' + statusLabel + '</div>' +
                   (realm.country ? '<div class="realm-country">' + realm.country + '</div>' : '') +
                   '</div>';
                 lyr.bindPopup(popup);
                 lyr.on('mouseover', function() {
-                  lyr.setStyle({ fillOpacity: 0.35, weight: 2.5 });
+                  lyr.setStyle({ fillOpacity: isGood ? 0.35 : 0.22, weight: 2.5 });
                 });
                 lyr.on('mouseout', function() {
-                  lyr.setStyle({ fillOpacity: 0.12, weight: 1.5 });
+                  lyr.setStyle({ fillOpacity: isGood ? 0.2 : 0.08, weight: 1.5 });
                 });
               }
             }).addTo(map);
