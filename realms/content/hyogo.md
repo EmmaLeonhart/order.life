@@ -1,10 +1,7 @@
-The Realm of Hyōgo is a realm in Japan.
-
-Old provinces: Harima, Tajima, Awaji, Tanba, Settsu.
+The Realm of Hyōgo is a realm in Japan. It used to have the Provinces of Harima, Tajima, Awaji, Tanba, Settsu but now it is one prefecture. 
 
 
-The Hallowing of the Realm of Hyogo
-[DISTRICT OF KAKO]
+### DISTRICT OF KAKO
 Looking all around him, Emperor Ojin said, “This land is shaped like a huge deer with rolling hills and stretching fields! Thus, this district came to be called Kako. 
 When the prince went out hunting, a deer ran up this hill and cried out “hee-hee.” 
 Therefore, the hill was named Hiwoka.’ The residing deity there is Ihatsuhiko (Prince of Rock), the son of Ohomitsuha. 
