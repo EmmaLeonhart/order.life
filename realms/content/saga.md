@@ -1,14 +1,14 @@
-The Realm of Saga is a realm in Japan.
+﻿The Realm of Saga is a realm in Japan.
 
-## The Hizen Fudoki
+## The Saga-ken Fudoki
 
-The province has eleven districts containing seventy townships and 187 villages, eighteen posting-stations, twenty beacons, one fortress, and two temples where priests reside.
+Saga Prefecture is organized into modern municipalities, while these historical districts are retained in this fudoki-style account.
 
-Formerly, Hizen and Higo provinces constituted one administrative unit called Hi no Kuni. In the remote past, during the reign of Prince Mimaki, who governed the realm from Midzukaki Palace at Shiki, there were two Tsuchikumo leaders named Uchisaru and Unasaru living in Asakuna Mountain of the district of Mashiki in Higo. These men and their numerous followers disobeyed princely commands and refused to submit to his lordship. The Court therefore issued an edict and sent a man named Take Wokumi to annihilate them. Take Wokumi is the forebear of the Hi no Kimi family.
+Formerly, Hizen and Higo formed one administrative unit called Hi no Kuni. In the remote past, during the reign of Prince Mimaki, who governed the realm from Midzukaki Palace at Shiki, there were two Tsuchikumo leaders named Uchisaru and Unasaru living in Asakuna Mountain of the district of Mashiki in Higo. These men and their numerous followers disobeyed princely commands and refused to submit to his lordship. The Court therefore issued an edict and sent a man named Take Wokumi to annihilate them. Take Wokumi is the forebear of the Hi no Kimi family.
 
 Upon receiving this royal command, Take Wokumi conducted a campaign and destroyed all of the foes. Afterward he made an inspection tour of the conquered area. The sun was setting when he arrived at Shirakami Yama in the district of Yatsushiro, and so he spent the night there. During the night he saw a fire in the sky. After a while, the fire descended to the top of the mountain on which he stood. Take Wokumi was awed by the sight, and he hastily journeyed to the royal court to make a report. He said, "At the august command of your lordship, I carried out an expeditionary campaign against the recalcitrants in the distant west. Before the fighting ensued, however, the defiant enemies perished. What could have caused this except your lordship's majestic power?" He also described the way the fire had burned on top of the mountain.
 
-The prince said, "We have never heard anything like what you are telling us now. I will name the place Hi no Kuni, the land of fire, since the fire descended there from the sky." The prince rewarded Take Wokumi's bravery by bestowing on him the kabane of Hi no Kimi, and he made him governor of that land. Thus, the land was named Hi no Kuni. Sometime later the land was divided in half, creating two provinces: Michi no Kuchi, the front half of Hi no Kuni, which became Hizen, and Michi no Shiri, the rear half, which became Higo.
+The prince said, "We have never heard anything like what you are telling us now. I will name the place Hi no Kuni, the land of fire, since the fire descended there from the sky." The prince rewarded Take Wokumi's bravery by bestowing on him the kabane of Hi no Kimi, and he made him governor of that land. Thus, the land was named Hi no Kuni. In this modern retelling, that older land is treated as the historical root of present-day Saga Prefecture and neighboring areas.
 
 At another time, Prince Ohotarashi, who governed the realm from Hishiro Palace in Makimuku, punished the Kumaso, the independent native chieftains of central and southern Kyushu, and toured the land of Tsukushi. He embarked for Hi no Kuni at Hinagare no Ura of Ashikita. While he was crossing the sea, the sun set and night fell. It was so dark that the pilot could not navigate the ship. Thereupon the prince caught a glimpse of light in the sky. The prince commanded the pilot, saying, "Proceed in the direction of the light." The pilot obeyed the princely command and managed to reach the shore safely.
 
@@ -130,7 +130,7 @@ Ohomimi then took pieces of tree bark and with them made models of dried shellfi
 
 Betel-nut palm, magnolia, gardenia, itabi kadzura, tsudzura, medake bamboo, paper mulberry, lotus lily, and hiyu grow on these islands. Abalone, spiral shellfish, snapper, mackerel, several other kinds of fish, wakame, miru, and other kinds of sea plants may be obtained there. The seafarers on these islands also raise livestock, and there are a number of bovines and horses.
 
-To the south lay two other groups of islands. There are more than a hundred islands in one group, and eighty in the other. There are harbors on the two largest islands of the latter group. One is Ahikoda no Tomari, where more than twenty ships can anchor. The other is Kahara no Ura, where more than ten ships can anchor. Envoys to T'ang China sail westward from these harbors and pass Mineraku no Saki, the cape west of Kahara no Ura. The facial features of the seafarers living on these islands resemble those of the Hayahito, settlers from southern Kyushu known for their unusual talents such as horseback riding and the imitation of bird and animal calls. They are highly skilled at shooting on horseback. They speak an entirely different language from the other local residents of Hizen Province.
+To the south lay two other groups of islands. There are more than a hundred islands in one group, and eighty in the other. There are harbors on the two largest islands of the latter group. One is Ahikoda no Tomari, where more than twenty ships can anchor. The other is Kahara no Ura, where more than ten ships can anchor. Envoys to T'ang China sail westward from these harbors and pass Mineraku no Saki, the cape west of Kahara no Ura. The facial features of the seafarers living on these islands resemble those of the Hayahito, settlers from southern Kyushu known for their unusual talents such as horseback riding and the imitation of bird and animal calls. They are highly skilled at shooting on horseback. They speak an entirely different language from the other local residents of old Hizen.
 
 ## District of Kishima
 
@@ -188,4 +188,5 @@ Hijiha no Ike. There is a high cliff on the east side of this pond facing the se
 
 Mine no Yu. The source of this spa is in a hill southwest of Takaku no Mine. An extremely large quantity of hot water flows east from that hill. The spring water runs in abundance and it is the hottest of all. It can be used for bathing only when mixed with cold water. The taste of the water is sour. Sulphur and chalk are obtained in this area. Hikimatsu pines grow there, with thin needles. These pine trees bear a small berrylike fruit, the size of adzuki beans, which is edible.
 
-Old provinces: Hizen.
+Historical province: Hizen.
+
