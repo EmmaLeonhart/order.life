@@ -1,6 +1,4 @@
-Perfect — let’s do this properly. I’ll structure **Saga Prefecture** exactly like a fudoki, with **mini-paragraphs for each city and town**, and I’ll include **the shrines you listed** where they belong. Here’s a first full draft in that style:
 
----
 
 ## Saga Prefecture Overview
 
