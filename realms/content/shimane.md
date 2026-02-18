@@ -1,10 +1,4 @@
-Here’s a complete **fudoki-style narrative for Shimane Prefecture**, covering all 13 municipalities with shrine information included, modeled on the style we used for Ibaraki:
-
----
-
-## Shimane Prefecture (島根県)
-
-Shimane Prefecture is located along the Sea of Japan in western Honshu, encompassing both coastal plains and the mountainous interior of the Chūgoku region. Historically, the area was divided between Izumo, Iwami, and Oki Provinces, with Izumo being the most culturally prominent due to its legendary shrines and mythological associations. The prefecture is renowned for its spiritual heritage, particularly Shinto worship, with shrines that rank among the most important in Japan, including ichinomiya (provincial chief shrines) and Myojin Taisha. Shimane’s towns and cities have long been centers of agriculture, fishing, and local governance, with spiritual sites serving as community anchors.
+The Realm of Shimane is located along the Sea of Japan in western Honshu, encompassing both coastal plains and the mountainous interior of the Chūgoku region. Historically, the area was divided between Izumo, Iwami, and Oki Provinces, with Izumo being the most culturally prominent due to its legendary shrines and mythological associations. The prefecture is renowned for its spiritual heritage, particularly Shinto worship, with shrines that rank among the most important in Japan, including ichinomiya (provincial chief shrines) and Myojin Taisha. Shimane’s towns and cities have long been centers of agriculture, fishing, and local governance, with spiritual sites serving as community anchors.
 
 ---
 
@@ -86,8 +80,12 @@ Yoshika is a rural town with shrines integrated into village life, preserving se
 
 ---
 
-This completes the full narrative-style fudoki for **all 13 municipalities of Shimane Prefecture**, including their major shrines and local context.
+This completes the full narrative-style fudoki for **all 13 municipalities of The Realm of Shimane**, including their major shrines and local context.
 
 ---
 
-If you want, I can also **add the formal shrine designations and years for every single shrine** just like we did for Ibaraki, making it a fully detailed encyclopedic version. Do you want me to do that?
+### Further reading
+
+** [List of Shikinaisha in Izumo Province](https://shinto.miraheze.org/wiki/List_of_Shikinaisha_in_Izumo_Province)
+** [List of Shikinaisha in Iwami Province](https://shinto.miraheze.org/wiki/List_of_Shikinaisha_in_Iwami_Province)
+** [List of Shikinaisha in Oki Province](https://shinto.miraheze.org/wiki/List_of_Shikinaisha_in_Oki_Province)
