@@ -40,9 +40,7 @@
         <a href="{{ base }}/shrines/">{{ t.nav.shrines }}</a>
         <a href="{{ base }}/longevity/">{{ t.nav.longevity }}</a>
         <a href="{{ base }}/evolution/">{{ t.nav.evolution }}</a>
-        {% if lang == "en" %}
-        <a href="{{ base }}/hallowings/">Hallowings</a>
-        {% endif %}
+        <a href="{{ base }}/fudoki/">Hallowings</a>
         <a href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}{{ base }}/wiki{{ path_suffix }}{% else %}{{ base }}/wiki/Main_Page/{% endif %}">{{ t.nav.wiki }}</a>
       </div>
       <div class="nav-right">
@@ -142,8 +140,6 @@ function computeLocalWikiTitle(pathname, langBase) {
   // Sections
   const sec = path.match(/^\/(evolution|longevity|shrines|philosophy|mythology|scripture)\/$/);
   if (sec) return sec[1];
-  if (path === '/hallowings/' || path === '/fudoki/') return 'fudoki';
-  if (path === '/hallowings/map/' || path === '/fudoki/map/') return 'fudoki/map';
 
   return 'Main_Page';
 }

@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python
+#!/usr/bin/env python
 """
 order.life FastSite Builder
 Generates static HTML for all languages and pages of the Lifeism website.
@@ -51,7 +51,7 @@ except ImportError:
 
 from markupsafe import Markup, escape
 
-# â”€â”€ Calendar Data â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Calendar Data ──────────────────────────────────────────────────────────
 
 MONTHS = [
     {"num": 1,  "id": "sagittarius", "symbol": "\u2650", "element": "fire"},
@@ -105,14 +105,14 @@ WEEKDAYS = [
 # Localized Gregorian month names + date formatting (avoid relying on system locales)
 GREGORIAN_MONTHS = {
     "en": ["January","February","March","April","May","June","July","August","September","October","November","December"],
-    "fr": ["janvier","fÃ©vrier","mars","avril","mai","juin","juillet","aoÃ»t","septembre","octobre","novembre","dÃ©cembre"],
+    "fr": ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"],
     "es": ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],
-    "ru": ["ÑÐ½Ð²Ð°Ñ€Ñ","Ñ„ÐµÐ²Ñ€Ð°Ð»Ñ","Ð¼Ð°Ñ€Ñ‚Ð°","Ð°Ð¿Ñ€ÐµÐ»Ñ","Ð¼Ð°Ñ","Ð¸ÑŽÐ½Ñ","Ð¸ÑŽÐ»Ñ","Ð°Ð²Ð³ÑƒÑÑ‚Ð°","ÑÐµÐ½Ñ‚ÑÐ±Ñ€Ñ","Ð¾ÐºÑ‚ÑÐ±Ñ€Ñ","Ð½Ð¾ÑÐ±Ñ€Ñ","Ð´ÐµÐºÐ°Ð±Ñ€Ñ"],
-    "uk": ["ÑÑ–Ñ‡Ð½Ñ","Ð»ÑŽÑ‚Ð¾Ð³Ð¾","Ð±ÐµÑ€ÐµÐ·Ð½Ñ","ÐºÐ²Ñ–Ñ‚Ð½Ñ","Ñ‚Ñ€Ð°Ð²Ð½Ñ","Ñ‡ÐµÑ€Ð²Ð½Ñ","Ð»Ð¸Ð¿Ð½Ñ","ÑÐµÑ€Ð¿Ð½Ñ","Ð²ÐµÑ€ÐµÑÐ½Ñ","Ð¶Ð¾Ð²Ñ‚Ð½Ñ","Ð»Ð¸ÑÑ‚Ð¾Ð¿Ð°Ð´Ð°","Ð³Ñ€ÑƒÐ´Ð½Ñ"],
-    "ar": ["ÙŠÙ†Ø§ÙŠØ±","ÙØ¨Ø±Ø§ÙŠØ±","Ù…Ø§Ø±Ø³","Ø£Ø¨Ø±ÙŠÙ„","Ù…Ø§ÙŠÙˆ","ÙŠÙˆÙ†ÙŠÙˆ","ÙŠÙˆÙ„ÙŠÙˆ","Ø£ØºØ³Ø·Ø³","Ø³Ø¨ØªÙ…Ø¨Ø±","Ø£ÙƒØªÙˆØ¨Ø±","Ù†ÙˆÙÙ…Ø¨Ø±","Ø¯ÙŠØ³Ù…Ø¨Ø±"],
-    "hi": ["à¤œà¤¨à¤µà¤°à¥€","à¤«à¤¼à¤°à¤µà¤°à¥€","à¤®à¤¾à¤°à¥à¤š","à¤…à¤ªà¥à¤°à¥ˆà¤²","à¤®à¤ˆ","à¤œà¥‚à¤¨","à¤œà¥à¤²à¤¾à¤ˆ","à¤…à¤—à¤¸à¥à¤¤","à¤¸à¤¿à¤¤à¤‚à¤¬à¤°","à¤…à¤•à¥à¤Ÿà¥‚à¤¬à¤°","à¤¨à¤µà¤‚à¤¬à¤°","à¤¦à¤¿à¤¸à¤‚à¤¬à¤°"],
-    "ja": ["1æœˆ","2æœˆ","3æœˆ","4æœˆ","5æœˆ","6æœˆ","7æœˆ","8æœˆ","9æœˆ","10æœˆ","11æœˆ","12æœˆ"],
-    "zh": ["1æœˆ","2æœˆ","3æœˆ","4æœˆ","5æœˆ","6æœˆ","7æœˆ","8æœˆ","9æœˆ","10æœˆ","11æœˆ","12æœˆ"],
+    "ru": ["января","февраля","марта","апреля","мая","июня","июля","августа","сентября","октября","ноября","декабря"],
+    "uk": ["січня","лютого","березня","квітня","травня","червня","липня","серпня","вересня","жовтня","листопада","грудня"],
+    "ar": ["يناير","فبراير","مارس","أبريل","مايو","يونيو","يوليو","أغسطس","سبتمبر","أكتوبر","نوفمبر","ديسمبر"],
+    "hi": ["जनवरी","फ़रवरी","मार्च","अप्रैल","मई","जून","जुलाई","अगस्त","सितंबर","अक्टूबर","नवंबर","दिसंबर"],
+    "ja": ["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],
+    "zh": ["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],
 }
 
 GREGORIAN_DATE_FMT = {
@@ -123,8 +123,8 @@ GREGORIAN_DATE_FMT = {
     "uk": "{day:02d} {month} {year}",
     "ar": "{day} {month} {year}",
     "hi": "{day} {month} {year}",
-    "ja": "{year}å¹´{month}{day}æ—¥",
-    "zh": "{year}å¹´{month}{day}æ—¥",
+    "ja": "{year}年{month}{day}日",
+    "zh": "{year}年{month}{day}日",
 }
 
 
@@ -136,37 +136,37 @@ def format_gregorian(d: date, lang: str) -> str:
 
 
 RU_MONTH_GEN = {
-    "sagittarius": "Ð¡Ñ‚Ñ€ÐµÐ»ÑŒÑ†Ð°",
-    "capricorn": "ÐšÐ¾Ð·ÐµÑ€Ð¾Ð³Ð°",
-    "aquarius": "Ð’Ð¾Ð´Ð¾Ð»ÐµÑ",
-    "pisces": "Ð Ñ‹Ð±",
-    "aries": "ÐžÐ²Ð½Ð°",
-    "taurus": "Ð¢ÐµÐ»ÑŒÑ†Ð°",
-    "gemini": "Ð‘Ð»Ð¸Ð·Ð½ÐµÑ†Ð¾Ð²",
-    "cancer": "Ð Ð°ÐºÐ°",
-    "leo": "Ð›ÑŒÐ²Ð°",
-    "virgo": "Ð”ÐµÐ²Ñ‹",
-    "libra": "Ð’ÐµÑÐ¾Ð²",
-    "scorpius": "Ð¡ÐºÐ¾Ñ€Ð¿Ð¸Ð¾Ð½Ð°",
-    "ophiuchus": "Ð—Ð¼ÐµÐµÐ½Ð¾ÑÑ†Ð°",
-    "horus": "Ð¥Ð¾Ñ€ÑƒÑÐ°",
+    "sagittarius": "Стрельца",
+    "capricorn": "Козерога",
+    "aquarius": "Водолея",
+    "pisces": "Рыб",
+    "aries": "Овна",
+    "taurus": "Тельца",
+    "gemini": "Близнецов",
+    "cancer": "Рака",
+    "leo": "Льва",
+    "virgo": "Девы",
+    "libra": "Весов",
+    "scorpius": "Скорпиона",
+    "ophiuchus": "Змееносца",
+    "horus": "Хоруса",
 }
 
 UK_MONTH_GEN = {
-    "sagittarius": "Ð¡Ñ‚Ñ€Ñ–Ð»ÑŒÑ†Ñ",
-    "capricorn": "ÐšÐ¾Ð·Ð¾Ñ€Ð¾Ð³Ð°",
-    "aquarius": "Ð’Ð¾Ð´Ð¾Ð»Ñ–Ñ",
-    "pisces": "Ð Ð¸Ð±",
-    "aries": "ÐžÐ²Ð½Ð°",
-    "taurus": "Ð¢ÐµÐ»ÑŒÑ†Ñ",
-    "gemini": "Ð‘Ð»Ð¸Ð·Ð½ÑŽÐºÑ–Ð²",
-    "cancer": "Ð Ð°ÐºÐ°",
-    "leo": "Ð›ÐµÐ²Ð°",
-    "virgo": "Ð”Ñ–Ð²Ð¸",
-    "libra": "Ð¢ÐµÑ€ÐµÐ·Ñ–Ð²",
-    "scorpius": "Ð¡ÐºÐ¾Ñ€Ð¿Ñ–Ð¾Ð½Ð°",
-    "ophiuchus": "Ð—Ð¼Ñ–Ñ”Ð½Ð¾ÑÑ†Ñ",
-    "horus": "Ð“Ð¾Ñ€ÑƒÑÐ°",
+    "sagittarius": "Стрільця",
+    "capricorn": "Козорога",
+    "aquarius": "Водолія",
+    "pisces": "Риб",
+    "aries": "Овна",
+    "taurus": "Тельця",
+    "gemini": "Близнюків",
+    "cancer": "Рака",
+    "leo": "Лева",
+    "virgo": "Діви",
+    "libra": "Терезів",
+    "scorpius": "Скорпіона",
+    "ophiuchus": "Змієносця",
+    "horus": "Горуса",
 }
 
 
@@ -193,8 +193,8 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
         return (
             f"{weekday_symbol}{month_symbol} "
             f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>, "
-            f"{day}-Ð¹ Ð´ÐµÐ½ÑŒ <a href='{b}/calendar/{month_id}/'>{month_disp}</a>, "
-            f"<a href='{b}/calendar/12026/'>{year}</a> Ð³Ð¾Ð´Ð° "
+            f"{day}-й день <a href='{b}/calendar/{month_id}/'>{month_disp}</a>, "
+            f"<a href='{b}/calendar/12026/'>{year}</a> года "
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
         )
     if lang == "uk":
@@ -202,8 +202,8 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
         return (
             f"{weekday_symbol}{month_symbol} "
             f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>, "
-            f"{day}-Ð¹ Ð´ÐµÐ½ÑŒ <a href='{b}/calendar/{month_id}/'>{month_disp}</a>, "
-            f"<a href='{b}/calendar/12026/'>{year}</a> Ñ€Ð¾ÐºÑƒ "
+            f"{day}-й день <a href='{b}/calendar/{month_id}/'>{month_disp}</a>, "
+            f"<a href='{b}/calendar/12026/'>{year}</a> року "
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
         )
     if lang == "ja":
@@ -213,8 +213,8 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
             f"<a href='{b}/calendar/12026/'>{year}</a>"
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a> "
             f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>"
-            f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>æ—¥ï¼ˆ"
-            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>ï¼‰"
+            f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
+            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>）"
         )
     if lang == "zh":
         month_disp = month_nom
@@ -223,16 +223,16 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
             f"<a href='{b}/calendar/12026/'>{year}</a>"
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a> "
             f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>"
-            f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>æ—¥ï¼ˆ"
-            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>ï¼‰"
+            f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
+            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>）"
         )
     if lang == "ar":
         month_disp = month_nom
         return (
             f"{weekday_symbol}{month_symbol} "
-            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>ØŒ "
+            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>، "
             f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a> "
-            f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>ØŒ "
+            f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>، "
             f"<a href='{b}/calendar/12026/'>{year}</a> "
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
         )
@@ -249,7 +249,7 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
     )
 
 
-# â”€â”€ Data Loading â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€-
+# ── Data Loading ─────────────────────────────────────────────────────────-
 
 def load_translations():
     """Load all translation files from content/i18n/"""
@@ -314,7 +314,7 @@ def load_wiki_pages():
     return wiki_pages
 
 
-# â”€â”€ Fudoki Data â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Fudoki Data ──────────────────────────────────────────────────────────
 
 def load_fudoki_data():
     """Load realms JSON for the Hallowings (Fudoki) pages.
@@ -427,7 +427,7 @@ def wiki_to_html(text):
     return text
 
 
-# â”€â”€ Gaian Date Computation â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Gaian Date Computation ─────────────────────────────────────────────────
 
 def iso_week_info(d):
     iso_cal = d.isocalendar()
@@ -455,7 +455,7 @@ def day_of_year(month_num, day_in_month):
         return 364 + day_in_month
 
 
-# â”€â”€ Wiki Redirect Generator â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Wiki Redirect Generator ───────────────────────────────────────────────
 
 def generate_wiki_redirects(wiki_pages, languages):
     """Generate static redirect pages for /{lang}/wiki/* and /wiki/*.
@@ -559,7 +559,7 @@ window.location.href = target;
         write_wiki_tree(wiki_dir, js_prefix_regex=js_regex, lang=lang)
 
 
-# â”€â”€ Build Functions â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── Build Functions ────────────────────────────────────────────────────────
 
 def build_site():
     """Main build function."""
@@ -616,7 +616,7 @@ def build_site():
         return f"{int(value):,}"
 
     def format_area(value):
-        """Format area with comma separators + kmÂ², or em-dash for None."""
+        """Format area with comma separators + km², or em-dash for None."""
         if value is None:
             return "\u2014"
         return f"{value:,.0f} km\u00b2"
@@ -709,10 +709,10 @@ def build_site():
             "is_cjk": lang in ("ja", "zh"),
         }
 
-        # â”€â”€ Homepage â”€â”€
+        # ── Homepage ──
         render_page(env, "index.html", lang_dir / "index.html", ctx)
 
-        # â”€â”€ Calendar section â”€â”€
+        # ── Calendar section ──
         cal_dir = lang_dir / "calendar"
         cal_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "calendar/index.html", cal_dir / "index.html", ctx)
@@ -733,7 +733,7 @@ def build_site():
         render_page(env, "calendar/year.html", year_dir / "index.html",
                     {**ctx, "display_year": 12026})
 
-        # â”€â”€ Weekday pages â”€â”€
+        # ── Weekday pages ──
         week_dir = cal_dir / "week"
         week_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "calendar/week-index.html", week_dir / "index.html", {**ctx})
@@ -756,7 +756,7 @@ def build_site():
             num_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, "calendar/weekday.html", num_dir / "index.html", {**ctx, "weekday": wd})
 
-        # â”€â”€ Month pages â”€â”€
+        # ── Month pages ──
         for m in MONTHS:
             month_dir = cal_dir / m["id"]
             month_dir.mkdir(parents=True, exist_ok=True)
@@ -792,7 +792,7 @@ def build_site():
                 }
                 render_page(env, "calendar/day.html", day_dir / "index.html", day_ctx)
 
-        # â”€â”€ Gaiad Scripture â”€â”€
+        # ── Gaiad Scripture ──
         gaiad_dir = lang_dir / "gaiad"
         gaiad_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "gaiad/index.html", gaiad_dir / "index.html",
@@ -814,33 +814,21 @@ def build_site():
             }
             render_page(env, "gaiad/chapter.html", ch_dir / "index.html", ch_ctx)
 
-        # â”€â”€ Section pages â”€â”€
+        # ── Section pages ──
         for section in ["scripture", "mythology", "philosophy", "shrines", "longevity", "evolution"]:
             sec_dir = lang_dir / section
             sec_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, f"sections/{section}.html", sec_dir / "index.html", ctx)
 
-        # â”€â”€ Fudoki / Hallowings pages (English only for now) â”€â”€
+        # ── Fudoki / Hallowings pages (English only for now) ──
         if lang == "en" and fudoki_divisions:
-            hallowings_dir = lang_dir / "hallowings"
-            hallowings_dir.mkdir(parents=True, exist_ok=True)
-            render_page(env, "sections/hallowings.html", hallowings_dir / "index.html",
-                        {**ctx, "realms": fudoki_divisions})
-
             fudoki_dir = lang_dir / "fudoki"
             fudoki_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, "sections/fudoki.html", fudoki_dir / "index.html",
                         {**ctx, "realms": fudoki_divisions})
-
-            hallowings_map_dir = hallowings_dir / "map"
-            hallowings_map_dir.mkdir(parents=True, exist_ok=True)
-            render_page(env, "sections/fudoki-map.html", hallowings_map_dir / "index.html",
-                        {**ctx, "realms": fudoki_divisions})
-
-            # Backward-compatible path; keep old /fudoki/map/ URLs working.
-            legacy_map_dir = fudoki_dir / "map"
-            legacy_map_dir.mkdir(parents=True, exist_ok=True)
-            render_page(env, "sections/fudoki-map.html", legacy_map_dir / "index.html",
+            map_dir = fudoki_dir / "map"
+            map_dir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "sections/fudoki-map.html", map_dir / "index.html",
                         {**ctx, "realms": fudoki_divisions})
             for realm in fudoki_divisions:
                 realm_dir = fudoki_dir / realm.get("slug", realm["qid"])
@@ -850,7 +838,7 @@ def build_site():
 
     # English homepage is the site root (no separate language selector page needed).
 
-    # â”€â”€ Wiki Redirects â”€â”€
+    # ── Wiki Redirects ──
     print("Generating wiki redirects...")
     # Note: generate_wiki_redirects writes into SITE_DIR; temporarily point it at temp.
     global SITE_DIR
@@ -920,4 +908,3 @@ def render_page(env, template_name, output_path, context):
 
 if __name__ == "__main__":
     build_site()
-
