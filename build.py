@@ -37,6 +37,7 @@ TEMPLATES_DIR = SCRIPT_DIR / "templates"
 CONTENT_DIR = SCRIPT_DIR / "content"
 EPIC_DIR = SCRIPT_DIR / "epic"
 DEFAULT_LANG = "en"  # English pages live at site root (no /en/ prefix)
+STARTER_GOOD_FUDOKI_SLUGS = {"ibaraki", "shimane", "hyogo", "oita", "saga"}
 
 try:
     from jinja2 import Environment, FileSystemLoader, select_autoescape
@@ -330,7 +331,9 @@ def load_fudoki_data():
         realms = json.load(f)
     content_dir = SCRIPT_DIR / "realms" / "content"
     for realm in realms:
-        realm["good_fudoki"] = bool(realm.get("good_fudoki", False))
+        slug = realm.get("slug", "")
+        # Force deterministic starter set even if JSON flags are missing.
+        realm["good_fudoki"] = (realm.get("good_fudoki") is True) or (slug in STARTER_GOOD_FUDOKI_SLUGS)
         md_file = content_dir / f"{realm.get('slug', realm['qid'])}.md"
         if md_file.exists():
             realm["content_md"] = md_file.read_text(encoding="utf-8").strip()
