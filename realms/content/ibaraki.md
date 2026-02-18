@@ -3,8 +3,8 @@ The Realm of Ibaraki is a realm in Japan.
 Old provinces: Hitachi.
 
 
-The Hitachi no Kuni Fudoki
-he governor of Hitachi Province reports [to the Council of State]
+The Ibaraki-ken Fudoki
+The governor of Hitachi Province reports [to the Council of State]
 about matters of the past handed down by the elders.! Upon my
 inquiry into such matters as old tales and traditions, the elders replied
 [as described below].
@@ -108,7 +108,7 @@ The only drawback is that the soil does not drain well. Because of
 this, the soil throughout the province is considered to be of middle rather
 than superior grade. During a prolonged rainy season, seedlings cannot grow. However, when the summer is dry, crops are generally good.
 [This section is {copied} from the original draft {without omission.}]§
-District of Nihihari
+### DISTRICT OF NIHIHARI
 East of this district are high mountain ranges, which constitute the
 boundary between it and the district of Naka. To the south is the district
 of Shirakabe; the Keno Gaha (Keno river) flows along the west side.
@@ -161,7 +161,7 @@ the area.
 '! Abura Okime: A native female chieftain.
 2 There is a similar poem in the Man’yoshu (MYS, no. 3806).
 40 The Hitachi no Kuni Fudoki
-District of Tsukuha
+### DISTRICT OF TSUKUHA
 {East of this district is the district of Ubaraki and to the south is the
 district of Kafuchi. On the west is Keno Gaha; to the north lies Mt.
 Tsukuha. }
@@ -246,7 +246,7 @@ lies Toba no Afumi [Toba shoal]. It is 3.3 miles long and 1.6 miles
 wide. East of this [Toba shoal] is the district [office] of Tsukuha and
 to the south is Keno Kaha. The west and north sides border on the
 district of Nihihari, and the district of Shirakabe is on the northeast.
-District of Shida
+### DISTRICT OF SHIDA
 {East of this district is Shida no Umi [Shida inlet] and to the south is
 Enoura no Umi. Keno Gaha forms the western boundary; to the north
 lies the district of Kafuchi. }'8
@@ -321,7 +321,7 @@ to only about nineteen acres. [Those who] live [on this island] make
 their living by producing salt [from sea water]. Nine shrines are found
 there. [The islanders] exercise moderation in both speech and action.
 {The rest is omitted.}
-District of Ubaraki
+### DISTRICT OF UBARAKI
 {East of this district is the district of Kashima, and to the south is Saga
 no Nagareumi. West of this district lies Mt. Tsukuha; on the north is
 the district of Naka. }?!
@@ -412,7 +412,7 @@ quality, and the prince said, “How pure is the water collected here!”
 The Hitachi no Kuni Fudoki 47
 {In the local dialect it [the remark] reads yoku tamareru mitsu kana. }
 This is how the village of Tamari received its name.”
-District of Namekata
+### DISTRICT OF NAMEKATA
 {The east, south, and west sides of this district are surrounded by
 lakes. On the north is the district of Ubaraki.}
 According to the elders, in the year of Mizunoto Ushi [653], during
@@ -740,7 +740,7 @@ Yamato Takeru with his wife Princess Oho Tachibana (Great Orange),
 who came down from Yamato to visit him. They met here and thus
 the place came to be called Afuka (meeting). {[The description of]
 the district of Namekata [has been copied] without abridgment. }
-District of Kashima
+### DISTRICT OF KASHIMA
 {East of this district is Oho Umi (great sea). To the south is Aze no
 Minato (waterway of Aze), which forms the boundary between
 Shimotsufusa and Hitachi provinces. On the west is a lake. To the
@@ -1058,7 +1058,7 @@ no drinking water for him to enjoy with his meal. His servants dug a
 well using the antlers of deer, and [some of] the antlers broke during
 the digging. This is why the place came to be called Tsunowore. {The
 rest is omitted. }
-District of Naka
+### DISTRICT OF NAKA
 {East of this district is the Great Sea. On the south are the districts of
 Kashima and Ubaraki. Bordering on the west is a large mountain,
 which forms the boundary between the district of Nihihari and
@@ -1133,7 +1133,7 @@ There is a spring south of this posting-station, from which water
 flows abundantly. It is called Sarashiwi (bleaching well). Women gather
 here to wash and bleach cloth on moonlit nights in summer.” {The
 rest is omitted. }
-District of Kuji
+### DISTRICT OF KUJI
 {East of this district is the Great Sea. On the south and west it is
 bordered by the district of Naka. On the north side lie the hills, which
 also extend to form the boundary between Michinoku Province and
@@ -1297,7 +1297,7 @@ Takeru who at this place met his wife, Princess Great Orange. Thus,
 the place was called Afuka [literally, “meeting deer”]. When Councillor Kume was provincial governor of Hitachi, the village was renamed
 Sukegaha because salmon are obtained there. {Adult salmon are called
 suke in the local dialect. }
-District of Taka
+### DISTRICT OF TAKA
 {East and south of this district is the Great Sea. On the north and
 west are high mountains, which form the boundary between the provinces of Michinoku and Hitachi. }
 According to the elders, the name Taka derives from the topographical configuration of this area. Take Misahi was appointed kuni no
