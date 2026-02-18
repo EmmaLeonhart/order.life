@@ -2,6 +2,13 @@ The Realm of Shimane is a realm in Japan.
 
 Old provinces: Iwami, Izumo.
 
+The prefecture has five districts.
+Iishi District: Iinan.
+Kanoashi District: Tsuwano, Yoshika.
+Nita District: Okuizumo.
+Ochi District: Kawamoto, Misato, Onan.
+Oki District: Ama, Chibu, Nishinoshima, Okinoshima.
+
 Generally speaking, the land of Izumo lies with its head facing east and its tail extending toward the southwest. The southern and eastern regions are in the mountains; the north and west are adjacent to the sea. Izumo is 45.6 miles from east to west, and 61 miles from north to south.
 
 Because it is difficult to carry out surveys, there may be errors in these calculations.
@@ -34,6 +41,7 @@ The district of Ohohara has eight townships (twenty-four villages).
 
 The character sato used above to designate townships was adopted in place of the old character in accordance with the supplementary code of 715. The characters used to designate the names of these townships are the ones adopted in accordance with the oral edict of 726, transmitted by the Department of People's Affairs.
 
+## OBSOLETE DISTRICT
 ## District of Ou
 
 The district of Ou has eleven townships (thirty-three villages), one unit of single households, three posting-stations, and three units of shrine households (six villages).
@@ -207,6 +215,7 @@ It is 1.6 miles to the ferry port of Asakumi, the boundary between the district 
 
 The district described above is situated on the south side of the Iriumi. This district is the seat of the provincial government of Izumo.
 
+## OBSOLETE DISTRICT
 ## District of Shimane
 
 The district of Shimane has eight townships (twenty-four villages), one unit of single households, and one posting-station.
@@ -490,6 +499,7 @@ It is 5 miles from the district office west to the Bridge of Sada, the boundary 
 
 It is 5.8 miles from the district office north to the posting-station of Chikumi, the stepping stone to the Oki Islands.
 
+## OBSOLETE DISTRICT
 ## District of Akika
 
 In the district of Akika there are four townships (twelve villages) and one unit of shrine households.
@@ -586,6 +596,7 @@ It is 2.8 miles from the district office to the bridge of Sada, the boundary bet
 
 It is 5.1 miles from the district office to the bridge of Inu, the boundary between the districts of Akika and Tatenuhi.
 
+## OBSOLETE DISTRICT
 ## District of Tatenuhi
 
 The district of Tatenuhi has four townships (twelve villages), one unit of single households, and one unit of shrine households.
@@ -688,6 +699,7 @@ Highways:
 It is 3 miles from the district office to the Inu Gaha, the boundary between the districts of Akika and Tatenuhi.
 
 It is 2.5 miles from the district office to the Uka Gaha, the boundary between the districts of Izumo and Tatenuhi.
+## OBSOLETE DISTRICT
 ## District of Tatenui
 
 The district was named because the people were ordered to make and dedicate shields and halberds to the deities of the land. This is why it is called Tatenui, meaning "shield making."
@@ -746,6 +758,7 @@ The products obtained in the northern sea are the same as those described under 
 
 It is 3 miles from the district office to the Inu Gaha, the boundary between the districts of Akika and Tatenui. It is 2.5 miles from the district office to the Uka Gaha, the boundary between the districts of Izumo and Tatenui.
 
+## OBSOLETE DISTRICT
 ## District of Izumo
 
 The district of Izumo has eight townships with twenty-three villages and one unit of shrine households with two villages. The etymology of the name Izumo is the same as that given for the name of the province.
@@ -812,6 +825,7 @@ The products of the northern sea are the same as those described in the section 
 
 It is 4.4 miles from the district office to the village of Sasafu, the boundary between the districts of Ou and Izumo. It is 3,630 feet from the district office to the Great River of Izumo, the boundary between the districts of Kamuto and Izumo. It is 5 miles from the district office to the village of Tagi, the boundary between the districts of Ohohara and Izumo. It is 4.9 miles from the district office to the Uka Gaha, the boundary between the districts of Tatenui and Izumo.
 
+## OBSOLETE DISTRICT
 ## District of Kamuto
 
 The district of Kamuto has eight townships with twenty-two villages, one unit of single households, two posting-stations, and one unit of shrine households.
@@ -978,6 +992,7 @@ It is 9.4 miles from the district office to the shore of the Shitsunu Gaha, the 
 
 It is 5.6 miles from the district office to the crossroad of Hinotani, the boundary between the districts of Ohohara and Nita. It is 11.8 miles to Ashibiye Yama, the boundary between Izumo Province and the district of Hino in Hahaki Province, where the barrier is always functioning. It is 12.3 miles to Yuta Yama, the boundary between Izumo Province and the district of Weso in Bingo Province, where the barrier is always functioning. It is 17.6 miles to Hishi Yama, the boundary between Izumo Province and the district of Weso in Bingo Province. Usually the barrier is not operational here; it is set up temporarily during times of political importance.
 
+## OBSOLETE DISTRICT
 ## District of Ohohara
 
 The district of Ohohara has eight townships with twenty-four villages.

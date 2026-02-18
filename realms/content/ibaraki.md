@@ -4,6 +4,15 @@ Old provinces: Hitachi.
 
 ## The Hitachi Fudoki
 
+The prefecture has seven districts.
+Higashiibaraki District: Ibaraki, Oarai, Shirosato.
+Inashiki District: Ami, Kawachi, Miho.
+Kitasoma District: Tone.
+Kuji District: Daigo.
+Naka District: Tokai.
+Sashima District: Goka, Sakai.
+Yuki District: Yachiyo.
+
 The governor of Hitachi Province reports to the Council of State about matters of the past handed down by the elders. Upon my inquiry into such matters as old tales and traditions, the elders replied as described below.
 
 In ancient times, all the land east of Mount Ashigara in present-day Sagamu Province was referred to by the name Azuma, meaning "east." A part of this territory, which is now Hitachi Province, then consisted of six smaller areas known as districts. These were Nihihari (newly reclaimed), Tsukuha (sticking to leaves), Ubaraki (thorn fortress), Naka (middle), Kuji (whale), and Taka (highland). The Yamato Court appointed a magistrate to administer each of these six areas, drawn from the families of wake (royal descendants) and miyatsuko (local chieftains).
@@ -25,6 +34,7 @@ Hitachi is a spacious province with far-flung boundaries. Its soil is fertile, a
 
 The only drawback is that the soil does not drain well. Because of this, the soil throughout the province is considered to be of middle rather than superior grade. During a prolonged rainy season, seedlings cannot grow. However, when the summer is dry, crops are generally good.
 
+## OBSOLETE DISTRICT
 ## District of Nihihari
 
 East of this district are high mountain ranges, which constitute the boundary between it and the district of Naka. To the south is the district of Shirakabe; the Keno River flows along the west side. On the north lie the hills called Hata no Woka, which mark the boundary between Shimotsu Keno and Hitachi provinces.
@@ -39,6 +49,7 @@ Sixteen miles from the district office is the hamlet of Kasama. The road between
 > In the Wohatsuse Graves to hide;
 > Be not worried, my dearest.
 
+## OBSOLETE DISTRICT
 ## District of Tsukuha
 
 East of this district is the district of Ubaraki and to the south is the district of Kafuchi. On the west is Keno River; to the north lies Mount Tsukuha.
@@ -77,6 +88,7 @@ There are many such songs, far too numerous to list here. According to the local
 
 Three miles west of the district office lies Toba no Afumi, a broad shoal about 3.3 miles long and 1.6 miles wide. East of this shoal is the district office of Tsukuha and to the south is Keno River. The west and north sides border on the district of Nihihari, and the district of Shirakabe is on the northeast.
 
+## OBSOLETE DISTRICT
 ## District of Shida
 
 East of this district is Shida no Umi, the Shida inlet, and to the south is Enoura no Umi. Keno River forms the western boundary; to the north lies the district of Kafuchi.
@@ -97,6 +109,7 @@ According to the elders, Prince Yamato Takeru once toured the shore of Shida no 
 
 There is a hamlet called Ukishima, the floating island, east of the village of Norihama. It is about two miles long and half a mile wide. It is surrounded by water; its terrain is a mixture of hills and fields. There are fifteen households on the island. The tillable land amounts to only about nineteen acres. Those who live on this island make their living by producing salt from sea water. Nine shrines are found there. The islanders exercise moderation in both speech and action.
 
+## OBSOLETE DISTRICT
 ## District of Ubaraki
 
 East of this district is the district of Kashima, and to the south is Saga no Nagareumi, an inlet or estuary. West of this district lies Mount Tsukuha; on the north is the district of Naka.
@@ -127,6 +140,7 @@ Another poem reads:
 
 There is a knoll called Kuhahara three miles east of the district office. In the remote past, when he stopped on top of this small hill for a meal, Prince Yamato Takeru ordered his water-bearers to dig a new well. The water poured clear and fragrant from the new well. There was no doubt that it was drinking water of superb quality, and the prince said, "How pure is the water collected here!" This is how the village of Tamari received its name.
 
+## OBSOLETE DISTRICT
 ## District of Namekata
 
 The east, south, and west sides of this district are surrounded by lakes. On the north is the district of Ubaraki.
@@ -197,6 +211,7 @@ In this area there is also a field called Hatsumu. It was named after a deed of 
 
 South of Ta no Sato are the villages of Afuka and Ohofu. According to the elders, the origins of both place names are related to Prince Yamato Takeru. When the prince was staying at a temporary palace at Wokazaki, in Afuka, he had his dining hut constructed at the water's edge. He would travel back and forth between the dining hut and his living quarters by walking over boats tied together to form a sort of pontoon bridge. The present-day name Ohofu is traceable to the name of the prince's dining hut, Ohohi, meaning "grand meal." Afuka was named after the meeting of Prince Yamato Takeru with his wife Princess Oho Tachibana, known as Princess Great Orange, who came down from Yamato to visit him. They met here and thus the place came to be called Afuka, meaning "meeting."
 
+## OBSOLETE DISTRICT
 ## District of Kashima
 
 East of this district is the Great Sea. To the south is Aze no Minato, a waterway which forms the boundary between Shimotsufusa and Hitachi provinces. On the west is a lake. To the north is Atakana no Minato, which forms the boundary between the districts of Naka and Kashima.
@@ -361,6 +376,7 @@ South and east of this spring are beaches bordering the Great Sea. Abalone, sea 
 
 The posting-station of Sukegaha is about nine miles northeast of the village of Mitsuki. The original name of the posting-station was Afuka. According to the elders, this name relates to Prince Yamato Takeru who at this place met his wife, Princess Great Orange. Thus, the place was called Afuka, literally meaning "meeting." When Councillor Kume was provincial governor of Hitachi, the village was renamed Sukegaha because salmon are obtained there. Adult salmon are called suke in the local dialect.
 
+## OBSOLETE DISTRICT
 ## District of Taka
 
 East and south of this district is the Great Sea. On the north and west are high mountains, which form the boundary between the provinces of Michinoku and Hitachi.

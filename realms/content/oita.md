@@ -1,6 +1,9 @@
 The Realm of Oita is a realm in Japan.
 
 The prefecture has three districts: Higashikunisaki, Hayami, and Kusu.
+Higashikunisaki District: Himeshima.
+Hayami District: Hiji.
+Kusu District: Kokonoe, Kusu.
 
 Formerly, Bungo and Buzen provinces constituted one administrative unit called Toyokuni. In the remote past, Prince Ohotarashi, posthumously known as Emperor Keiko, who governed the realm from Hishiro Palace in Makimuku, issued an edict and appointed Unade, the forebear of the Toyokuni no Atahi, governor of Toyokuni. The sun was setting when Unade arrived at the hamlet of Nakatomi in the district of Nakatsu of Buzen, where he spent the night.
 
@@ -8,6 +11,7 @@ At dawn the following day, white birds flew into the village from the north. In 
 
 Unade then went to the royal Court for an audience with the prince. The prince was overjoyed with the news. "Such is the grace of heaven, the gift of the earth," said the prince. "Hereafter your land shall be named Toyokuni (abundant country)." The prince further honored Unade by bestowing upon him a kabane (title) and calling him Toyokuni no Atahi (the honest deputy of the abundant country). Thus, the land was named Toyokuni. Later this land of Toyokuni was divided into two provinces, one of which was named Toyo no Michi no Shiri no Kuni, meaning "rear half of Toyokuni," or Bungo.
 
+## OBSOLETE DISTRICT
 ## District of Hida
 
 The district of Hida has five townships and one posting-station. The name Hida carries the same connotation as hina, meaning "hinterland."
@@ -32,6 +36,7 @@ The district of Kusu has three townships and one posting-station.
 
 There was once a big camphor tree in this district. That is why it is called the district of Kusu (camphor).
 
+## OBSOLETE DISTRICT
 ## District of Nahori
 
 The district of Nahori has four townships and one posting-station.
@@ -50,6 +55,7 @@ Miyakono. The same prince constructed a temporary palace at this place when he s
 
 Mt. Kutami. There is a fire beacon at the top of this mountain, an active volcano rising to 1,764 meters. It burns at all times. There are several rivers at the foot of the mountain. They are called the Kami Kaha (divine waters). There are also two rivers with hot water that eventually join the Kami Kaha.
 
+## OBSOLETE DISTRICT
 ## District of Ohono
 
 The district of Ohono has four townships, two posting-stations, and one beacon.
@@ -62,6 +68,7 @@ The site where the mallets were made was named Tsubaichi (camellia market) and t
 
 Amishino. Two Tsuchikumo who had submitted to Prince Ohotarashi lived here. When the prince toured this area, these Tsuchikumo, who were named Shinoka Oki (man) and Shinoka Omi (woman), wished to present a meal to the prince. They therefore had their men hunt in this field. The cry of these huntsmen was so rousing that Prince Ohotarashi said, "Anamisu," meaning that the cry was lively and noisy. The present-day name of Amishino is said to derive from Anamisuno (lively field).
 
+## OBSOLETE DISTRICT
 ## District of Ama
 
 The district of Ama has four townships, one posting-station, and two beacons.
@@ -74,6 +81,7 @@ Township of Sawi. This township was formerly named Sakawi.
 
 Township of Hoto. In the remote past, Prince Ohotarashi, posthumously known as Emperor Keiko, who governed the realm from Hishiro Palace at Makimuku, anchored his boat in the inlet of this township. He noticed that a beautiful seaweed grew abundantly offshore, and ordered his men to "pick some of the hotsume (best edible seaweed)." The seaweed was presented to the prince at mealtime. The place was named for the princely word, hotsume. Today it is called Hoto. Hoto is a corrupt form of Hotsume.
 
+## OBSOLETE DISTRICT
 ## District of Ohokida
 
 The district of Ohokida has nine townships, one posting-station, one beacon, and two temples.
@@ -106,6 +114,7 @@ Mt. Kubi. There is a rice field at the foot of this mountain. Its former name wa
 
 Tano. It is a broad field with fertile soil. The ease with which this land could be reclaimed was once unsurpassed in all the province. In the past, many farmers of the district tilled this field and always they reaped abundant harvests. The abundance was such that the farmers left the surplus lying in the rice field. As a result, the villagers grew extravagant and ungrateful. They began to use rice cakes as archery targets. At this ultimate wastefulness, the rice cakes turned into white birds, which flew away to the south. Within a year, all the farmers of the village were dead and the rice fields lay in waste. Since that time, rice farming has never been good here. That is why the place is now called Tano (wasted rice land).
 
+## OBSOLETE DISTRICT
 ## District of Kunisaki
 
 The district of Kunisaki has six townships. When he embarked on his expeditionary campaign against the Kumaso from Sahatsu of Suha, Prince Ohotarashi, posthumously known as Emperor Keiko, who governed the realm from Hishiro Palace at Makimuku, viewed this land from a distance, and said, "The land I see must be a peninsula." Thus, the district is called Kunisaki (headland or peninsula).

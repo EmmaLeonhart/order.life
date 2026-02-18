@@ -2,7 +2,13 @@ The Realm of Saga is a realm in Japan.
 
 ## The Hizen Fudoki
 
-The province has eleven districts containing seventy townships and 187 villages, eighteen posting-stations, twenty beacons, one fortress, and two temples where priests reside.
+The prefecture has six districts.
+Fujitsu District: Tara.
+Higashimatsuura District: Genkai.
+Kanzaki District: Yoshinogari.
+Kishima District: Kohoku, Omachi, Shiroishi.
+Miyaki District: Kamimine, Kiyama, Miyaki.
+Nishimatsuura District: Arita.
 
 Formerly, Hizen and Higo provinces constituted one administrative unit called Hi no Kuni. In the remote past, during the reign of Prince Mimaki, who governed the realm from Midzukaki Palace at Shiki, there were two Tsuchikumo leaders named Uchisaru and Unasaru living in Asakuna Mountain of the district of Mashiki in Higo. These men and their numerous followers disobeyed princely commands and refused to submit to his lordship. The Court therefore issued an edict and sent a man named Take Wokumi to annihilate them. Take Wokumi is the forebear of the Hi no Kimi family.
 
@@ -14,6 +20,7 @@ At another time, Prince Ohotarashi, who governed the realm from Hishiro Palace i
 
 "What is that land called, where the fire burns? Who is tending that fire?" asked the prince. The people of the area answered, "That is the direction of Hi no Mura, the fire village, of the district of Yatsushiro in Hi no Kuni. But we do not know who is tending the fire." The prince said to his mahetsu kimi, his advisors, "That is no ordinary fire. It must not have been set by man. Now I know why this land is called Hi no Kuni, the land of divine fire."
 
+## OBSOLETE DISTRICT
 ## District of Ki
 
 The district of Ki has six townships containing seventeen villages, one posting-station, and one fortress.
@@ -32,6 +39,7 @@ Kazeko dedicated a hata, a banner, and prayed, "If this deity sincerely desires 
 
 That night Kazeko had a dream in which a kutsubiki, a Korean-style weaving tool, and a tatari, a Korean-style spinning wheel, appeared to be dancing and pushing him around. The dream told him that the deity was female. Thereupon, he built a shrine to the goddess. Since then the deity has been appeased, and travellers are no longer killed. Thus, the place came to be called Himekoso, the shrine of the princess. Himekoso is now the name of this township.
 
+## OBSOLETE DISTRICT
 ## District of Yabu
 
 The district of Yabu has four townships containing twelve villages and one beacon. In the past, Prince Ohotarashi, who governed the realm from Hishiro Palace at Makimuku, came upon this area while on a hunting trip. A hunting dog belonging to one of the royal huntsmen rushed in, barking at the place where the peasants of this district had gathered to receive the prince. Among the crowd of villagers was a pregnant woman. When this woman stared at the dog, it stopped barking, for in ancient Japan dogs symbolized easy childbirth. Thus, the place was named Inu no Koye Yamu, meaning the dog's barking ceased. The present name of the district, Yabu, is a corrupt form of Yamu.
@@ -42,6 +50,7 @@ Township of Watari. In the remote past, the ford of the Miwi River was so broad 
 
 Township of Sayama. The same prince came to this area and stayed at his temporary palace on the hill of this township. When he walked around the palace grounds to see the view in all directions, the visibility was extremely good. Thus, the place was named Sayake, meaning clearly visible. The present name of this township, Sayama, is a corrupt form of Sayake.
 
+## OBSOLETE DISTRICT
 ## District of Mine
 
 The district of Mine has six townships containing seventeen villages and one posting-station.
@@ -54,6 +63,7 @@ Township of Ayabe. In the remote past, Prince Kume came to this place en route t
 
 Township of Meta. There is a well in this township, the water of which tastes salty. Seaweed grows at the bottom of the well. In the remote past, when he went there on a hunting trip, Prince Ohotarashi noticed the seaweed and called the well Menaruwi, meaning the seaweed-growing well. Today, people call the well Metawi, a corrupt form of Menaruwi. Meta also became the name of this township.
 
+## OBSOLETE DISTRICT
 ## District of Kamusaki
 
 The district of Kamusaki has nine townships containing twenty-six villages, one posting-station, one beacon, and one temple where a priest resides.
@@ -70,6 +80,7 @@ Kotoki Woka. This area, south of the district office, was once a flat field. The
 
 Township of Miyako. The same prince built his temporary palace there. Thus, the township is called Miyako, meaning palace site.
 
+## OBSOLETE DISTRICT
 ## District of Saka
 
 The district of Saka has six townships containing nineteen villages, one posting-station, and one temple.
@@ -84,12 +95,14 @@ After seeking the reason for the god's curse, the women reported to Ohoarata, sa
 
 There is a stone deity called Yotahime on the upper reaches of the Saka Gaha. Every year the sea god, said to be a shark, goes upriver to visit this goddess. Numerous small fish follow him. During this time, people are forbidden to eat the fish. If one observes this law and abstains from eating fish, he will come to no harm. But if one breaks this law and catches and eats the fish, he will lose his life. These fish remain on the upper river for a few days before returning to the sea.
 
+## OBSOLETE DISTRICT
 ## District of Woki
 
 The district of Woki has seven townships containing twenty villages, one posting-station, and one beacon.
 
 In the remote past, the Tsuchikumo residing in this village secured themselves in a woki, a small stockade surrounded by mud walls and rocks, and resisted the royal order. Therefore, Prince Yamato Takeru launched a campaign and annihilated them all. That is why the district was named Woki, meaning small fortress.
 
+## OBSOLETE DISTRICT
 ## District of Matsura
 
 The district of Matsura has eleven townships containing twenty-six villages, five posting-stations, and eight beacons.
@@ -154,6 +167,7 @@ Township of Tara. The same prince toured this area. After inspecting the state o
 
 Shihota Gaha. This river rises in the Tara no Mine in the southwestern part of the district and flows east to empty into the sea. At high tide the water flows upstream with a very strong current. That is why it was named Shiho Takamitsu, meaning coming tide high and full. Now it is called Shihota, a corrupt form of Shiho Takamitsu. There is a waterfall on the upper reaches of this river. It plunges over a craggy precipice about twenty feet high. Ayu are abundant there. There is a hot spring on the east bank of this river. The water of this spring is effective in healing human diseases.
 
+## OBSOLETE DISTRICT
 ## District of Sonoki
 
 The district of Sonoki has four townships containing seven villages, two posting-stations, and three beacons.
@@ -178,6 +192,7 @@ A high wind capsized and sank the boat carrying the lords-in-waiting. The Tsuchi
 
 Straits of Hayaki. The current is fast and strong in these straits. The sound of the approaching waves is like a thunderstorm. That is why the place is called Hayaki no To, meaning rushing straits. Trees grow abundantly there. Their roots are in the ground and their branches extend into the sea, touching the water. Wakame grows rapidly there and is one of the tributary goods sent to the Court from this area.
 
+## OBSOLETE DISTRICT
 ## District of Takaku
 
 The district of Takaku has nine townships containing twenty-one villages, four posting-stations, and five beacons.

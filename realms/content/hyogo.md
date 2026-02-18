@@ -1,5 +1,15 @@
 The Realm of Hyogo is a realm in Japan. It used to have the Provinces of Harima, Tajima, Awaji, Tanba, Settsu but now it is one prefecture.
 
+The prefecture has eight districts.
+Ako District: Kamigori.
+Ibo District: Taishi.
+Kako District: Harima, Inami.
+Kanzaki District: Fukusaki, Ichikawa, Kamikawa.
+Kawabe District: Inagawa.
+Mikata District: Kami, Shin'onsen.
+Sayo District: Sayo.
+Taka District: Taka.
+
 ## District of Kako
 
 Looking all around him, Emperor Ojin said, "This land is shaped like a huge deer with rolling hills and stretching fields!" Thus, this district came to be called Kako. When the prince went out hunting, a deer ran up this hill and cried out "hee-hee." Therefore, the hill was named Hiwoka. The residing deity there is Ihatsuhiko (Prince of Rock), the son of Ohomitsuha. Hire Haka is located on this hill. It is called Hire Haka because of the following story:
@@ -38,6 +48,7 @@ Village of Nagata. The condition of the soil is about average. Once upon a time,
 
 Village of Umaya. The condition of the soil is about average. This village belongs to the umaya, or posting-station. Because of this function, it is called Umaya no Sato (village of the posting-station).
 
+## OBSOLETE DISTRICT
 ## District of Inami
 
 According to a tradition, the district of Inami was named after the calm waves of the sea during the time of Prince Tarashi Naka, posthumously known as Emperor Chuai, who governed the realm from Toyora Palace in Anato. The prince was to go down to Kumaso State in Tsukushi, accompanied by his wife. En route to Tsukushi their boat was anchored at the shore of Inami. At that time the sea was very calm, the wind and waves quiet. Therefore, it was named Irinami (quiet waves). Inami is the derivation of Irinami.
@@ -60,6 +71,7 @@ There is also a place called Saka Yama in this village. During the time of Princ
 
 There is a small island called Nabitsuma in the sea off the southern coast of this district. Prince Taka Anaho, posthumously known as Emperor Seimu, who governed the realm from the palace of Taka Anaho in Shiga, sent Hikonamuchi, the ancestor of the Wanibe no Omi, to determine the provincial boundaries. At that time Kibihiko and Kibihime (the chieftains of this area) came to see the royal surveyor Hikonamuchi. Hikonamuchi wed Kibihime, and she gave birth to a girl. This girl was Wake Iratsume of Inami, the Princess Wake who later married Prince Ohotarashi. Her beauty was unsurpassed. Prince Ohotarashi wished to marry this maiden and went to court her. Learning of his impending visit, the princess fled to this island and hid herself there. That is why the island is called Nabitsuma (hiding wife).
 
+## OBSOLETE DISTRICT
 ## District of Shikama
 
 The district of Shikama was named after the words of Prince Ohomima. Once, when he was staying at his temporary palace in this district, he heard the loud cry of a deer. The prince exclaimed, "Oh, the deer cries so!" Because of this, it is called the district of Shikama (deer-crying land).
@@ -148,6 +160,7 @@ Shikama no Miyake. Shikama no Miyake (the royal granary of Shikama) was establis
 
 Because of their offense, the five magistrates were banished to Harima Province and confined to a prison workshop where they tilled the royal granary land. Their followers must have accompanied them. The prisoners reclaimed the prince's land. The rice fields thus created were named Okita (the rice field of Oki), Izumota, Hahakita, Inabata, and Tajimata. Since that time the Shikama no Miyake has collected and stored the yields of these rice fields for royal use. The granary is also called Kawaraku no Miyake (compensation granary).
 
+## OBSOLETE DISTRICT
 ## District of Ihibo
 
 The etymological explanation is provided later in this section.
@@ -370,6 +383,7 @@ Village of Uno. The condition of the soil is excellent. The god Tamatarashi, the
 
 Hamlet of Shihonuma. Salt water flows from the ground in this hamlet. That is why it is called Shihonuma (salt marsh).
 
+## OBSOLETE DISTRICT
 ## District of Shisaha
 
 Shisaha was named after an experience of the Great God of Iwa. After he finished founding his land, the god embarked upon an inspection tour of the hills, rivers, and valleys to determine the boundaries of his territory. While on this tour he met a huge deer at the hamlet of Yata. This deer was holding its tongue out as it walked. The god declared, "An arrow is hidden under this animal's tongue." The district was named Shisaha, an abbreviated form of shishiaha, meaning "to have met with deer." The hamlet in which he saw the deer was named Yata (arrow field).
@@ -424,6 +438,7 @@ Ohouchi Gaha, Wouchi Gaha, and Kanauchi Gaha. The big river is called Ohouchi (g
 
 Hamlet of Iwa. The former name was Miwa. The great god brewed rice wine in this hamlet. Therefore, it was named Miwa (divine wine). The hamlet was also called Owa. After founding this land, the great god said, "I have finished my work. I shall keep this as the place where my coffin will rest."
 
+## OBSOLETE DISTRICT
 ## District of Kamusaki
 
 Kamusaki was named after Kamusaki Yama in the hamlet of Yamasaki. Prince Take Ihashiki, the son of the Great God of Iwa, resides on this hill. Because of this, the district was named Kamusaki (god's territory).
@@ -518,6 +533,7 @@ According to another theory, Mika Saka was named for a large jar buried at this 
 
 Hananami Yama was named for the god who resides on this hill. This is the god Hananami in Afumi.
 
+## OBSOLETE DISTRICT
 ## District of Kamo
 
 Kamo was named for the wild geese that nested in the hamlet of Kamo. It was during the reign of Prince Homuda that a pair of kamo laid eggs there. Thus, the district was named for the birds, Kamo (wild geese).
@@ -585,6 +601,7 @@ Village of Kahaahi. The condition of the soil is excellent. Harasaki Numa is par
 
 Harasaki Numa. Harasaki was named for a goddess who disemboweled herself and died at this marsh. The goddess from Afumi, the wife of the god Hananami, came upon this place while she was chasing her husband and discovered that her husband had already gone elsewhere. Greatly disappointed, the goddess disemboweled herself and jumped into the marsh. This is why the place is called Harasaki (disemboweling). The silver carp in this marsh are said to have no entrails.
 
+## OBSOLETE DISTRICT
 ## District of Minagi
 
 Minagi was named for the words spoken by Prince Izahowake, posthumously known as Emperor Richu, while he was on a tour to determine the boundaries of his jurisdiction. When he arrived at the grove of Koso, in the village of Shijimi, he said, "How beautiful are the waters of this land." Thus, the district came to be called Minagi, a derivation of the word minagare uruhashi (beautiful rivers and streams).
