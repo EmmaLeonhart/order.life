@@ -3,99 +3,29 @@ The Realm of Hyōgo is a realm in Japan.
 Old provinces: Harima, Tajima, Awaji, Tanba, Settsu.
 
 
-The Harima no Kuni Fudoki
+The Hallowing of the Realm of Hyogo
 [DISTRICT OF KAKO]
-Looking all around [him, the prince] said, “This land is shaped like a
-[huge] kako with [rolling] hills and stretching fields.! Thus, this district
-came to be called Kako. When the prince went out hunting, a deer
-ran up this hill and cried out “hee-hee.” Therefore, the hill was named
-Hiwoka.’ {The residing deity there is Ihatsuhiko (Prince of Rock),
-the son of Ohomitsuha.} Hire Haka is located on this hill. It is called
-Hire Haka because [of the following story].
-' The subject of the first sentence is missing in the original. Michiyasu Inoue
-suggests that Homuda (Emperor Oujin) is the subject, while Hisamatsu favors
-Ohotarashi (Emperor Keiko). Akimoto is undecided. Inoue’s contention is based
-on the name of the residing deity of Hiwoka, recorded in the Engi-shiki jinmyocho,
-which is given as Isasahiko. He argues that Isasahiko is a rendering of Homuda’s
-other name, Isasawake. My interpretation follows Hisamatsu. In any case, most
-scholars insist that the original document compiled in Harima Province must have
-begun with a description of the district of Akashi. This portion is now missing.
-Akashi District belonged to Harima Province at the time of the compilation of the
-document, and was situated on the eastern border of the province. Also missing
-from the extant text is the heading for the district of Kako; this translation supplies
-it in brackets.
-? The word kako is traditionally interpreted to mean “deer,” because of the
-text’s etymological explanation, but there is no topographical resemblance to a
-deer. A more liberal translation of this passage would be: [While Prince Ohotarashi
-was out hunting,] a deer nimbly climbed a hill and let out a cry. The cry sounded
-something like “hee-hee.” The hill is therefore called Hiwoka (the hill of “hee”).
-Looking all around [him, the prince] said, “Vast are the hills and fields of this land.
-As I look down at the hill on which I stand, it reminds me of a kako (deer).” That
-is how the district came to be called Kako.
-Figure 7
-Man Dressed in a Belted Tunic and Trousers (Note his hair, hair-style, and the
-way of fastening his tunic. Sketched after a clay figurine of the Kofun Period)
-The Harima no Kuni Fudoki 165
+Looking all around him, Emperor Ojin said, “This land is shaped like a huge deer with rolling hills and stretching fields! Thus, this district came to be called Kako. 
+When the prince went out hunting, a deer ran up this hill and cried out “hee-hee.” 
+Therefore, the hill was named Hiwoka.’ The residing deity there is Ihatsuhiko (Prince of Rock), the son of Ohomitsuha. 
+Hire Haka is located on this hill. It is called Hire Haka because of the following story:
+
+
+
 Once upon a time Prince Ohotarashi decided to court Wake Iratsume
 (Princess Wake) of Inami. On the courting journey he wore a long
-sword decorated with carved jewels and a bright mirror. He took Okinaga
-{also called Ishiji} [along to serve] as his escort. This man is the
+sword decorated with carved jewels and a bright mirror. He took Okinaga,
+also called Ishiji along to serve as his escort. This man is the
 forebear of the Yama no Atahi family in Kamo District of this province.’
 Prince Ohotarashi and his escort arrived at the ford of the Takase
 in Settsu. At the prince’s request for a ferry, the boatman, a resident
 of Kii named Wotama, said, “I am not your subject, sir.” The prince
-replied, “Nevertheless, let me cross the river, agi (my dear man).” The
+replied, “Nevertheless, let me cross the river, agi my dear man.” The
 man answered, “If you wish to cross here, you must pay the fare.”
-Thereupon the prince threw the boatman his kadzura (travelling cap).
-It lay in the boat [with its jewels] glistening [in the sun]. Upon receiving this [unusual] fare, the boatman ferried the prince across the
-tiver. Thus, the place came to be called Agi no Watari (Agi ford)
-[after the prince’s manner of addressing the boatman].
-> Wake Iratsume: Similar names appear in both the Kojiki and the Nihon Shoki
-(NKBT 1, 202-3; Aston, Nihongi, 1:191, 2n). The family name Yama no Atahi
-appears in a document of the Nara period. The postscript of a copied sutra produced in 734 mentions three members of the Yama no Atahi family of the district
-of Kamo in Harima Province. Therefore, the Yama no Atahi family must have
-been influential in this area. See Fudoki, ed. Hisamatsu Sen’ichi (Tokyo: Asahi
-Shinbun Sha, 1950), 1:105-6.
-4 We can infer from this story that the influence of the man called Prince
-Ohotarashi had not yet reached Settsu. Nonetheless, in this section of the document he is referred to as sumera mikoto. A question thus arises: is it always proper
-to translate this term as “emperor”? In my opinion, the term came to mean “emperor”
-only during Empress Suiko’s time (the early seventh century, or even later, when
-the Kojiki was compiled). Settsu: Settsu no Kuni in Japanese. It would be improper
-to translate this phrase as “Settsu Province,” for province applies only to an area
-under the control of the central government. For the period covered by the Harima
-fudoki, a clear distinction must be made. Settsu after the Taika Reform (645) may
-properly be called Settsu Province, while the Settsu of the pre-Taika period should
-be referred to as Old Settsu, or simply Settsu. This principle is also applied to other
-areas, including Izumo, Kibi, and Kahachi. Travelling cap: The original (extant)
-document contains graphs that can be rendered as “beautiful vine prepared for the
-journey.” The second and third graphs read as michtyuki in Japanese. Note that the
-word appears here for the first time in known history. It became an important
-literary device in seventeenth-century plays in which the michiyuki (lovers’ journey) is crucial in deciding the course of events. See Donald Keene, Major Plays of
-Ainquay) yrystq oy} Ul suUTAOIg eWTeTY = g ans,
-SONIAOUd
-OSLLAS
-AONIAONd
-(VAaNV.L) VHINVL
-: = al — BUYS UlPJUNOW, 41O IH 3 ?
-veyy uoneig-sunsog 2, Aemyaipy Le SR
-PYO [elulaoig “ BUIYS 01]
-wv
-puoso7
-Njomnyy
-pas] a : : Vn, 2,
-nay :
-Curly fy,
--
-“>
-WYp0y 4 x - =)
-Hemehssey
-OWA
-i} 2HOMEYNN Mee ¢
-J
-<
-eARxeL
-AONIAOUd
-VAITVL FONIAOUd VAVNI
+Thereupon the prince threw the boatman his travelling cap.
+It lay in the boat with its jewels glistening in the sun. Upon receiving this unusual fare, the boatman ferried the prince across the
+tiver. Thus, the place came to be called Agi ford, after the prince’s manner of addressing the boatman.
+
 The Harima no Kuni Fudoki 167
 The prince arrived at Kashihade no Miwi in the district of Akashi
 where he took his princely meal. Thus, the place was named Kashihade
