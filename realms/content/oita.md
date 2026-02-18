@@ -3,8 +3,8 @@ The Realm of Oita is a realm in Japan.
 Old provinces: Bungo.
 
 
-The Bungo no Kuni Fudoki
-ungo has eight districts {forty sato (townships), which include
+The Oita-ken Fudoki
+Bungo has eight districts {forty sato (townships), which include
 110 kozato (villages) }, nine posting-stations {all these have “smallroad” status}, five beacons {all of these are of “small-province” size},
 and two temples {priests reside in one and nuns in the other}.!
 Formerly, Bungo and Buzen provinces constituted one administrative
@@ -30,11 +30,6 @@ beacon fires to signal a state of emergency (see glossary, under “small provin
 were established as separate administrative units, it must have occurred before
 698. In the section relating events of that year, the SNG states that pearls from
 “Bungo” Province were presented to the Court. Unade: This personage may be
-Hime Shima pa
-BUZEN PROVINCE
-| CHIKUZEN
-PROVINCE (
-J
 LEGEND
 Provincial Office
 District Office
