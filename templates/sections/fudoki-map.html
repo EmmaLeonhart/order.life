@@ -98,7 +98,16 @@
 
   var statusEl = document.getElementById('map-status');
   var realmLayers = {};
-  var withGeo = realms.filter(function(r) { return r.geoshape; });
+  var withGeo = realms
+    .filter(function(r) { return r.geoshape; })
+    .sort(function(a, b) {
+      var ag = a.good_fudoki === true ? 1 : 0;
+      var bg = b.good_fudoki === true ? 1 : 0;
+      if (ag !== bg) return bg - ag; // good first
+      var an = (a.realm_name || a.name || '').toLowerCase();
+      var bn = (b.realm_name || b.name || '').toLowerCase();
+      return an.localeCompare(bn);
+    });
   var goodCount = realms.filter(function(r) { return !!r.good_fudoki; }).length;
   var loaded = 0;
   var total = withGeo.length;
