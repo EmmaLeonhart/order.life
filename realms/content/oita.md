@@ -172,17 +172,3 @@ Kusu is an inland town named after a large **camphor tree** historically present
 
 Kokonoe lies in the mountainous central part of the prefecture. Known for waterfalls, hot springs, and scenic valleys, it attracts visitors seeking natural tourism. Historically, the town formed from several small villages in Kusu District.
 
----
-
-This version:
-
-* Uses **Wikipedia links** for each municipality
-* Keeps **narrative style** rather than just descriptive tables
-* Includes the **Beppu onsen myth**
-* Notes key **Beppyo shrines** for Ōita
-
----
-
-If you want, I can **also hyperlink all the shrines directly to their Wikipedia pages** in a narrative paragraph under each municipality that hosts them — this would make it fully interactive for a wiki-style writeup.
-
-Do you want me to do that next?
