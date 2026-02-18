@@ -1,6 +1,6 @@
 # Ōita Prefecture
 <!--this is based on the Bungo no kuni fudoki-->
-Ōita Prefecture (大分県, Ōita-ken) occupies the northeastern part of Kyushu, Japan. Renowned for its hot springs, volcanic landscapes, and rich cultural history, the prefecture blends coastal cities with mountainous towns. It preserves ancient religious sites, castle towns, and unique folklore, including the myth of thermal waters flowing to Beppu from Dōgo Onsen.
+The Realm of Ōita occupies the northeastern part of Kyushu, Japan. Renowned for its hot springs, volcanic landscapes, and rich cultural history, the prefecture blends coastal cities with mountainous towns. It preserves ancient religious sites, castle towns, and unique folklore, including the myth of thermal waters flowing to Beppu from Dōgo Onsen.
 
 Below are the 17 cities and towns with populations of at least 5,000 as of 2020, presented in a narrative style with historical and cultural notes.
 
