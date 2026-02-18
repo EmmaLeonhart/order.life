@@ -6,6 +6,26 @@
   <title>404 — Page Not Found — 命</title>
   <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/static/css/style.css">
+  <script>
+  // Catch-all wiki redirect: any /wiki/* or /{lang}/wiki/* path that
+  // didn't match a static redirect gets forwarded to the Miraheze wiki.
+  (function() {
+    var p = window.location.pathname;
+    // Match /{lang}/wiki/{title} or /wiki/{title}
+    var m = p.match(/^\/([a-z]{2})\/wiki\/(.+?)\/?\s*$/) || p.match(/^\/wiki\/(.+?)\/?\s*$/);
+    if (m) {
+      var lang, title;
+      if (m.length === 3) {
+        lang = m[1]; title = m[2];
+      } else {
+        lang = 'en'; title = m[1];
+      }
+      title = title.replace(/\/$/, '') || 'Main_Page';
+      var prefix = (lang && lang !== 'en') ? lang + ':' : '';
+      window.location.replace('https://lifeism.miraheze.org/wiki/' + prefix + title);
+    }
+  })();
+  </script>
 </head>
 <body>
   <nav>
