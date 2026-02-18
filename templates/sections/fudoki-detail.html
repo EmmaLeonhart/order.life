@@ -52,16 +52,6 @@
 .fudoki-info dd a:hover {
   text-decoration: underline;
 }
-.fudoki-locator {
-  margin: 2rem 0;
-}
-.fudoki-locator img {
-  max-width: 500px;
-  width: 100%;
-  border: 1px solid #333;
-  border-radius: 4px;
-  display: block;
-}
 #realm-map {
   height: 450px;
   margin: 2rem 0;
@@ -112,13 +102,6 @@
         <dd><a href="https://www.wikidata.org/wiki/Special:EntityPage/{{ realm.qid }}">{{ realm.qid }}</a></dd>
       </dl>
     </div>
-
-    {% if realm.locator_map %}
-    <div class="fudoki-locator">
-      <h2>Location</h2>
-      <img src="{{ realm.locator_map | wikimedia_thumb(500) }}" alt="Location of {{ realm.wikidata_name or realm.name }}">
-    </div>
-    {% endif %}
 
     {% if realm.geoshape %}
     <h2>Map</h2>
