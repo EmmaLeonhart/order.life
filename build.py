@@ -640,9 +640,59 @@ def build_site():
             return ""
         if md is not None:
             return Markup(md.markdown(text, extensions=["tables"]))
-        paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
-        html = "".join(f"<p>{escape(p)}</p>" for p in paragraphs)
-        return Markup(html)
+
+        def fmt_inline(s):
+            s = escape(s)
+            s = re.sub(r"\[([^\]]+)\]\((https?://[^)\s]+)\)", r'<a href="\2">\1</a>', s)
+            s = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", s)
+            s = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", s)
+            return s
+
+        html = []
+        in_list = False
+        paragraph = []
+
+        def flush_paragraph():
+            nonlocal paragraph
+            if paragraph:
+                html.append(f"<p>{' '.join(paragraph)}</p>")
+                paragraph = []
+
+        for raw in text.splitlines():
+            line = raw.strip()
+            if not line:
+                flush_paragraph()
+                if in_list:
+                    html.append("</ul>")
+                    in_list = False
+                continue
+
+            heading = re.match(r"^(#{1,6})\s+(.*)$", line)
+            if heading:
+                flush_paragraph()
+                if in_list:
+                    html.append("</ul>")
+                    in_list = False
+                level = len(heading.group(1))
+                html.append(f"<h{level}>{fmt_inline(heading.group(2))}</h{level}>")
+                continue
+
+            bullet = re.match(r"^[-*]\s+(.*)$", line)
+            if bullet:
+                flush_paragraph()
+                if not in_list:
+                    html.append("<ul>")
+                    in_list = True
+                html.append(f"<li>{fmt_inline(bullet.group(1))}</li>")
+                continue
+
+            paragraph.append(fmt_inline(line))
+
+        flush_paragraph()
+        if in_list:
+            html.append("</ul>")
+
+        return Markup("".join(html))
 
     env.filters["simple_md"] = simple_md
     env.filters["format_number"] = format_number
@@ -826,6 +876,12 @@ def build_site():
             fudoki_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, "sections/fudoki.html", fudoki_dir / "index.html",
                         {**ctx, "realms": fudoki_divisions})
+
+            root_map_dir = lang_dir / "map"
+            root_map_dir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "sections/fudoki-map.html", root_map_dir / "index.html",
+                        {**ctx, "realms": fudoki_divisions})
+
             map_dir = fudoki_dir / "map"
             map_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, "sections/fudoki-map.html", map_dir / "index.html",
