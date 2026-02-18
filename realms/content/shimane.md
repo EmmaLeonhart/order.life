@@ -1105,4 +1105,36 @@ Taki no Mamori, the fortress of Taki, is 10.3 miles southwest of the district of
 
 Completed on the thirtieth day, second month, in the fifth year of Tenpyo. Edited by Miyake no Omi Kanatari, a resident of the District of Akika. Respectfully submitted by Izumo no Omi Hiroshima, Kuni no Miyatsuko of Izumo, concurrently District Governor of Ou.
 
+## District of Iishi
+
+The district of Iishi has one village, Iinan.
+
+The district is mountainous, and streams descend in clear courses through valley fields. Timber, rice, and vegetables are raised according to season.
+
+According to the elders, when snow closed the high roads, the villages shared stores and opened paths by turns until travel resumed.
+
+## District of Kanoashi
+
+The district of Kanoashi has two villages: Tsuwano and Yoshika.
+
+Mountains are many and the basins are narrow, yet the fields are carefully worked. River valleys guide travel and settlement.
+
+According to the elders, Tsuwano guarded the basin roads and Yoshika guarded the upper valleys, and the district prospered by that balance.
+
+## District of Ochi
+
+The district of Ochi has three villages: Kawamoto, Misato, and Onan.
+
+This district lies along major river flow, and much of its life follows the water. Markets gather at crossing points and upland goods descend to the lowlands.
+
+According to the elders, where boats once turned at the shallows, storehouses were built and the district's center shifted with the river.
+
+## District of Oki
+
+The district of Oki has four villages: Ama, Chibu, Nishinoshima, and Okinoshima.
+
+These islands are bound to one another by sea routes, fisheries, and seasonal winds. Harbors are guarded from rough weather, and boats depart when signs are favorable.
+
+According to the elders, each island kept its own shrine and watchfire, and together they guided vessels through fog and dark water.
+
 Old provinces: Iwami, Izumo.

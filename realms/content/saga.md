@@ -203,4 +203,36 @@ Hijiha no Ike. There is a high cliff on the east side of this pond facing the se
 
 Mine no Yu. The source of this spa is in a hill southwest of Takaku no Mine. An extremely large quantity of hot water flows east from that hill. The spring water runs in abundance and it is the hottest of all. It can be used for bathing only when mixed with cold water. The taste of the water is sour. Sulphur and chalk are obtained in this area. Hikimatsu pines grow there, with thin needles. These pine trees bear a small berrylike fruit, the size of adzuki beans, which is edible.
 
+## District of Higashimatsuura
+
+The district of Higashimatsuura has one village, Genkai.
+
+The sea is near and the wind is strong. Fish and seaweed are gathered in season, and the people keep watch over coves and capes.
+
+According to the elders, sailors judged this coast by the color of the morning water and the call of seabirds. When both signs agreed, they launched without fear.
+
+## District of Kanzaki
+
+The district of Kanzaki has one village, Yoshinogari.
+
+The fields are broad and well-watered, and old mounds remain among the cultivated land. Roads pass through this district and connect market, shrine, and riverbank.
+
+According to the elders, where the old embankment held through a year of heavy rain, the people gave thanks and renewed the dike before harvest.
+
+## District of Miyaki
+
+The district of Miyaki has three villages: Kamimine, Kiyama, and Miyaki.
+
+This district lies on the plain where river routes and land routes meet. Rice, vegetables, and craft goods are traded here in steady measure.
+
+According to the elders, the village of Kiyama took heart from its mountain and Kamimine from its high ridge, while Miyaki prospered at the meeting of roads.
+
+## District of Nishimatsuura
+
+The district of Nishimatsuura has one village, Arita.
+
+Stone and clay of good quality are found in this district, and kilns have long been tended there. Vessels made in Arita travel far beyond the district boundary.
+
+According to the elders, when the first firing survived wind and rain, the potters said the district had found its proper flame.
+
 Old provinces: Hizen.

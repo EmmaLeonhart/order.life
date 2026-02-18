@@ -398,3 +398,43 @@ At one time, Kuromaro of the Kahara no Sukune family held the office of provinci
 The posting-station of Meshima is nine miles south of the district office. On the beach southeast of the posting-station, jewellike pebbles are found. These are used to play the game of go. In all of Hitachi Province, it is only on this beach that these beautiful game stones are found.
 
 The posting-station of Meshima got its name when Prince Yamato Takeru visited the area on tour. When the prince rowed to shore at this beach, he exclaimed over the many kinds of edible seaweed growing along the shores of the islands in this area, and he named the place Meshima, meaning "seaweed islands." The name has never been altered.
+
+## District of Higashiibaraki
+
+The district of Higashiibaraki has three villages: Ibaraki, Oarai, and Shirosato.
+
+On one side are the fields and low hills; on another side the coast opens to the sea. Salt wind and river water both shape the livelihoods of the people.
+
+According to the elders, when tide and weather changed suddenly, Oarai watched the sea, Ibaraki watched the road, and Shirosato watched the uplands; thus the district remained prepared.
+
+## District of Inashiki
+
+The district of Inashiki has three villages: Ami, Kawachi, and Miho.
+
+Lakeside land and reclaimed fields are many, and channels are kept in repair for water and transport. The people are diligent in planting and in maintaining embankments.
+
+According to the elders, when the flood season passed without breach, offerings were made at the local shrines and the riverbanks were strengthened again.
+
+## District of Kitasoma
+
+The district of Kitasoma has one village, Tone.
+
+The district stands along the great river course, and trade follows the water as surely as carts follow the road. Fields, warehouses, and ferry points are kept in order.
+
+According to the elders, when the river shifted its edge, markers were moved and boundaries renewed without dispute.
+
+## District of Sashima
+
+The district of Sashima has two villages: Goka and Sakai.
+
+This district is known for crossings, storehouses, and cultivated plains. Goods from many directions gather there before moving onward.
+
+According to the elders, Sakai was so named for borders and Goka for the joining of settlements, and both names remained.
+
+## District of Yuki
+
+The district of Yuki has one village, Yachiyo.
+
+The land is level and fit for wide fields. Irrigation channels and farm roads divide the plain in orderly measure.
+
+According to the elders, in years of fine harvest the granaries were filled early, and the district gave thanks before the autumn winds.

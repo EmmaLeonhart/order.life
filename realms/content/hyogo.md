@@ -646,3 +646,42 @@ The name of the village of Hirano (flat field, or opened field) was so decided b
 
 The name of the village of Takano (highland) was so decided because of the configuration of the land there.
 
+## District of Ako
+
+The district of Ako has one village, Kamigori.
+
+Ridges and river valleys divide this district, and the roads pass through narrow points before opening to fields. Rice and upland crops are both cultivated.
+
+According to the elders, travelers measured the district by the passes: when the pass was clear, the market was full.
+
+## District of Ibo
+
+The district of Ibo has one village, Taishi.
+
+The district lies on productive ground near old routes and shrines. The fields are broad, and irrigation is maintained in orderly channels.
+
+According to the elders, in years of abundant water the village gave thanks first at the shrine and then at the granary.
+
+## District of Kanzaki
+
+The district of Kanzaki has three villages: Fukusaki, Ichikawa, and Kamikawa.
+
+This district stretches from lower fields to upper mountain valleys. River water supports the paddies, and forest paths link the inland settlements.
+
+According to the elders, each village took its name from the shape of its ground and the course of its stream, and the names endured.
+
+## District of Kawabe
+
+The district of Kawabe has one village, Inagawa.
+
+The district is marked by river bends and by settlements set along terraces above the water. Orchards and fields share the slopes.
+
+According to the elders, when the river rose, the people moved tools and seed to higher storehouses, and no season was lost.
+
+## District of Mikata
+
+The district of Mikata has two villages: Kami and Shin'onsen.
+
+Sea, mountain, and hot springs define this district. Fish, forest products, and travelers to the baths support the villages together.
+
+According to the elders, the springs were first tested in winter, and when the steam rose without fail the place was judged auspicious.
