@@ -629,4 +629,3 @@ The name of the village of Hirano (flat field, or opened field) was so decided b
 
 The name of the village of Takano (highland) was so decided because of the configuration of the land there.
 
-Old provinces: Harima, Tajima, Awaji, Tanba, Settsu
