@@ -569,7 +569,8 @@ window.location.href = target;
             js_regex = rf"/^\\/{lang}\\/w\\/?/"
 
         w_dir.mkdir(parents=True, exist_ok=True)
-        main_target = "https://lifeism.miraheze.org/w/Main_Page"
+        main_root_target = "https://lifeism.miraheze.org/w"
+        main_page_target = "https://lifeism.miraheze.org/w/Main_Page"
 
         # Main /w/ and /w/Main_Page/
         (w_dir / "index.html").write_text(
@@ -577,19 +578,22 @@ window.location.href = target;
 <html><head><meta charset=\"UTF-8\"><title>Redirecting to Wiki...</title>
 <script>
 var path = window.location.pathname.replace({js_regex}, '').replace(/\\/$/, '');
-if (!path) path = 'Main_Page';
-window.location.href = 'https://lifeism.miraheze.org/w/' + path;
+if (!path) {{
+  window.location.href = {json.dumps(main_root_target)};
+}} else {{
+  window.location.href = 'https://lifeism.miraheze.org/w/' + path;
+}}
 </script>
-<noscript><meta http-equiv=\"refresh\" content=\"0; url={main_target}\"></noscript>
+<noscript><meta http-equiv=\"refresh\" content=\"0; url={main_root_target}\"></noscript>
 </head><body style=\"background:#0f0f1a;color:#e0e0e0;font-family:sans-serif;display:flex;justify-content:center;align-items:center;height:100vh;\">
-<p>Redirecting to <a href=\"{main_target}\" style=\"color:#ffd700;\">lifeism Wiki</a>...</p>
+<p>Redirecting to <a href=\"{main_root_target}\" style=\"color:#ffd700;\">lifeism Wiki</a>...</p>
 </body></html>""",
             encoding="utf-8",
         )
         main_page_dir = w_dir / "Main_Page"
         main_page_dir.mkdir(parents=True, exist_ok=True)
         (main_page_dir / "index.html").write_text(
-            redirect_template.format(title="Main Page", target=main_target),
+            redirect_template.format(title="Main Page", target=main_page_target),
             encoding="utf-8",
         )
 
