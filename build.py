@@ -5,6 +5,7 @@ Generates static HTML for all languages and pages of the Lifeism website.
 Uses Jinja2 templates, outputs to site/{lang}/ directories.
 """
 
+import csv
 import io
 import os
 import re
@@ -338,6 +339,31 @@ def load_fudoki_data():
             realm["content_md"] = ""
     return realms
 
+
+
+def load_shrine_data():
+    """Load Shinto shrine coordinates from realms/shrines.csv.
+
+    Returns a compact list of [lat, lon, label, qid] for shrines with coordinates.
+    """
+    csv_file = SCRIPT_DIR / "realms" / "shrines.csv"
+    if not csv_file.exists():
+        print("  Warning: realms/shrines.csv not found, skipping shrines")
+        return []
+    shrines = []
+    with open(csv_file, encoding="utf-8", newline="") as f:
+        for row in csv.DictReader(f):
+            if row["lat"] and row["lon"]:
+                try:
+                    shrines.append([
+                        round(float(row["lat"]), 5),
+                        round(float(row["lon"]), 5),
+                        row["label"],
+                        row["qid"],
+                    ])
+                except ValueError:
+                    pass
+    return shrines
 
 
 def extract_wiki_overview(wikitext):
@@ -749,6 +775,15 @@ def build_site():
     static_dst = SITE_TMP_DIR / "static"
     if static_src.exists():
         shutil.copytree(static_src, static_dst)
+    else:
+        static_dst.mkdir(parents=True, exist_ok=True)
+
+    # Write shrine data as static JSON for the map
+    print("Writing shrines.json...")
+    shrine_data = load_shrine_data()
+    print(f"  {len(shrine_data)} shrines with coordinates")
+    with open(static_dst / "shrines.json", "w", encoding="utf-8") as f:
+        json.dump(shrine_data, f, ensure_ascii=False, separators=(",", ":"))
 
     # Pre-compute base paths for language switcher
     lang_bases = {l: lang_base(l) for l in translations}
