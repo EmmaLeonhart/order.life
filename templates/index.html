@@ -98,13 +98,33 @@
 {% block scripts %}
 <script>
 (function () {
+  var SL_BASE = {{ base | tojson }};
   var SL_LANG = {{ lang | tojson }};
-  var SL_T = {{ t.sacred_land | tojson }};
+  var SL_T_DEFAULT = {
+    finding: 'Finding your sacred land…',
+    read_fudoki: 'Read local fudoki →',
+    not_hallowed: 'Land not yet hallowed · browse all realms',
+    precise: 'precise location',
+    getting_location: 'Getting precise location…',
+    denied: 'Location access denied.',
+    find: '⊕ Find your sacred land'
+  };
+  var SL_T = Object.assign(
+    {},
+    SL_T_DEFAULT,
+    {{ t.sacred_land | default({}, true) | tojson }}
+  );
 
   var pill = document.getElementById('sl-pill');
   var gpsLink = document.getElementById('sl-gps');
+  if (!pill || !gpsLink) return;
+
   var cachedRealms = null;
   var cachedCountry = null;
+
+  function withBase(path) {
+    return (SL_BASE ? SL_BASE : '') + path;
+  }
 
   function pipRing(lat, lon, ring) {
     var inside = false;
@@ -158,7 +178,7 @@
   function showFound(realm) {
     var slug = realm.slug || realm.qid;
     pill.textContent = realmName(realm) + ' · ' + SL_T.read_fudoki;
-    pill.href = '/fudoki/' + slug + '/';
+    pill.href = withBase('/fudoki/' + slug + '/');
     pill.style.opacity = '1';
     pill.style.cursor = '';
     gpsLink.style.display = 'inline';
@@ -166,7 +186,7 @@
 
   function showNotFound() {
     pill.textContent = SL_T.not_hallowed;
-    pill.href = '/fudoki/';
+    pill.href = withBase('/fudoki/');
     pill.style.opacity = '0.7';
     pill.style.cursor = '';
     gpsLink.style.display = 'inline';
@@ -202,6 +222,9 @@
   }
 
   function runWithCoords(lat, lon, realms) {
+    lat = Number(lat);
+    lon = Number(lon);
+    if (!isFinite(lat) || !isFinite(lon)) { showError(); return; }
     var country = cachedCountry || '';
     var candidates = country
       ? realms.filter(function (r) { return r.country && r.country.toLowerCase() === country.toLowerCase(); })
@@ -241,15 +264,17 @@
     return fetch('https://ipapi.co/json/')
       .then(function (r) { return r.json(); })
       .then(function (d) {
-        if (!d.latitude) throw new Error();
-        return { lat: d.latitude, lon: d.longitude, country: d.country_name || '' };
+        var lat = parseFloat(d.latitude), lon = parseFloat(d.longitude);
+        if (!isFinite(lat) || !isFinite(lon)) throw new Error();
+        return { lat: lat, lon: lon, country: d.country_name || '' };
       })
       .catch(function () {
         return fetch('https://ipwho.is/')
           .then(function (r) { return r.json(); })
           .then(function (d) {
-            if (!d.latitude) throw new Error();
-            return { lat: d.latitude, lon: d.longitude, country: d.country || '' };
+            var lat = parseFloat(d.latitude), lon = parseFloat(d.longitude);
+            if (!isFinite(lat) || !isFinite(lon)) throw new Error();
+            return { lat: lat, lon: lon, country: d.country || '' };
           });
       });
   }
