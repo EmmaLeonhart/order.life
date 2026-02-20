@@ -121,9 +121,20 @@
 
   var cachedRealms = null;
   var cachedCountry = null;
+  var cachedRegion = null;
 
   function withBase(path) {
     return (SL_BASE ? SL_BASE : '') + path;
+  }
+
+  function normText(s) {
+    return String(s || '')
+      .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase()
+      .replace(/^realm of\s+/, '')
+      .replace(/\b(state|province|prefecture|region|oblast|krai|territory|county|department)\b/g, '')
+      .replace(/[^a-z0-9]+/g, ' ')
+      .trim();
   }
 
   function pipRing(lat, lon, ring) {
@@ -232,6 +243,26 @@
     // If country filter yields nothing (name mismatch or no realms for that country),
     // fall back to searching all realms rather than immediately showing not-found.
     if (candidates.length === 0) { candidates = realms; }
+    if (cachedRegion) {
+      var regionNeedle = normText(cachedRegion);
+      if (regionNeedle) {
+        var direct = candidates.find(function (r) {
+          var labels = [
+            r.realm_name,
+            r.name,
+            r.realm_names && r.realm_names[SL_LANG],
+            r.realm_names && r.realm_names.en,
+            r.names && r.names[SL_LANG],
+            r.names && r.names.en
+          ];
+          return labels.some(function (x) {
+            var v = normText(x);
+            return v && (v === regionNeedle || v.indexOf(regionNeedle) !== -1 || regionNeedle.indexOf(v) !== -1);
+          });
+        });
+        if (direct) { showFound(direct); return; }
+      }
+    }
     if (candidates.length === 0) { showNotFound(); return; }
     searchCandidates(lat, lon, candidates);
   }
@@ -266,7 +297,7 @@
       .then(function (d) {
         var lat = parseFloat(d.latitude), lon = parseFloat(d.longitude);
         if (!isFinite(lat) || !isFinite(lon)) throw new Error();
-        return { lat: lat, lon: lon, country: d.country_name || '' };
+        return { lat: lat, lon: lon, country: d.country_name || '', region: d.region || '' };
       })
       .catch(function () {
         return fetch('https://ipwho.is/')
@@ -274,7 +305,7 @@
           .then(function (d) {
             var lat = parseFloat(d.latitude), lon = parseFloat(d.longitude);
             if (!isFinite(lat) || !isFinite(lon)) throw new Error();
-            return { lat: lat, lon: lon, country: d.country || '' };
+            return { lat: lat, lon: lon, country: d.country || '', region: d.region || '' };
           });
       });
   }
@@ -288,6 +319,7 @@
     cachedRealms = results[0];
     var geo = results[1];
     cachedCountry = geo.country;
+    cachedRegion = geo.region;
     runWithCoords(geo.lat, geo.lon, cachedRealms);
   }).catch(function () { showError(); });
 })();
