@@ -64,6 +64,12 @@ STRIP_PREFIXES = {
     "de": [
         "freistaat ", "kanton ", "landkreis ",
     ],
+    "ru": [
+        "Республика ",
+    ],
+    "uk": [
+        "Автономна Республіка ",
+    ],
     "pt": [
         "estado do ", "estado de ", "estado da ",
         "província de ", "região de ", "prefeitura de ",
@@ -84,6 +90,15 @@ STRIP_SUFFIXES = {
     "zh": [
         "自治区", "自治州", "直辖市", "特别行政区",
         "省", "区", "府", "道", "都", "市", "州",
+    ],
+    # Russian: common admin type words (suffix form, e.g. "Чеченская Республика")
+    "ru": [
+        " автономный округ", " автономная область", " федеральный округ",
+        " Республика", " область", " край", " округ",
+    ],
+    # Ukrainian
+    "uk": [
+        " автономна республіка", " область", " округ",
     ],
     # Hindi: transliterated admin words
     "hi": [
@@ -118,8 +133,20 @@ def normalize_realm_name(label: str, lang: str) -> str | None:
             name = name[: -len(suffix)].strip()
             break
 
+    # Russian/Ukrainian: strip trailing em-dash alternate names
+    # e.g. "Ханты-Мансийский — Югра" → "Ханты-Мансийский"
+    if lang in ("ru", "uk"):
+        name = re.sub(r"\s*[—–]\s*\S.*$", "", name).strip()
+
     if not name:
         return None
+
+    # French: elide "de" → "d'" before vowel-initial names
+    if lang == "fr":
+        _VOWELS = frozenset("aeiouâàäéèêëîïôùûüœæ")
+        if name[0].lower() in _VOWELS:
+            return f"Royaume d\u2019{name}"
+        return f"Royaume de {name}"
 
     pattern = REALM_PATTERNS.get(lang, "Realm of {name}")
     return pattern.format(name=name)
