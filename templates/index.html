@@ -206,6 +206,9 @@
     var candidates = country
       ? realms.filter(function (r) { return r.country && r.country.toLowerCase() === country.toLowerCase(); })
       : realms;
+    // If country filter yields nothing (name mismatch or no realms for that country),
+    // fall back to searching all realms rather than immediately showing not-found.
+    if (candidates.length === 0) { candidates = realms; }
     if (candidates.length === 0) { showNotFound(); return; }
     searchCandidates(lat, lon, candidates);
   }
