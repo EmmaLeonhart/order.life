@@ -150,7 +150,9 @@
   }
 
   function realmName(realm) {
-    return (realm.names && realm.names[SL_LANG]) || realm.realm_name;
+    return (realm.realm_names && realm.realm_names[SL_LANG]) ||
+           (realm.names && realm.names[SL_LANG]) ||
+           realm.realm_name;
   }
 
   function showFound(realm) {

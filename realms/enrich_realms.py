@@ -377,3 +377,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # Auto-run name normalization after enrichment
+    import subprocess, sys
+    subprocess.run(
+        [sys.executable, str(SCRIPT_DIR / "normalize_realm_names.py")],
+        check=True,
+    )
