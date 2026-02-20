@@ -785,6 +785,25 @@ def build_site():
     with open(static_dst / "shrines.json", "w", encoding="utf-8") as f:
         json.dump(shrine_data, f, ensure_ascii=False, separators=(",", ":"))
 
+    # Write compact realm index for the "Your Sacred Land" location widget
+    if fudoki_divisions:
+        print("Writing realms-index.json...")
+        realms_index = [
+            {
+                "qid": r["qid"],
+                "realm_name": r.get("realm_name", r.get("name", "")),
+                "country": r.get("country", ""),
+                "geoshape": r.get("geoshape", ""),
+                "slug": r.get("slug", r["qid"]),
+                "good_fudoki": bool(r.get("good_fudoki")),
+            }
+            for r in fudoki_divisions
+            if r.get("geoshape")
+        ]
+        with open(static_dst / "realms-index.json", "w", encoding="utf-8") as f:
+            json.dump(realms_index, f, ensure_ascii=False, separators=(",", ":"))
+        print(f"  {len(realms_index)} realms with geoshapes indexed")
+
     # Pre-compute base paths for language switcher
     lang_bases = {l: lang_base(l) for l in translations}
 
