@@ -184,16 +184,21 @@
   }
 
   // ── Leaflet mini-map ──
-  function ensureMap(lat, lon) {
+  // Leaflet can't measure a hidden element — show the div first,
+  // then init/invalidate on the next animation frame.
+  function ensureMap(lat, lon, cb) {
     slMapEl.style.display = 'block';
-    if (!leafMap) {
-      leafMap = L.map('sl-map', { zoomControl: false, scrollWheelZoom: false, attributionControl: false })
-        .setView([lat, lon], 5);
-      L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-        subdomains: 'abcd', maxZoom: 19
-      }).addTo(leafMap);
-    }
-    return leafMap;
+    requestAnimationFrame(function () {
+      if (!leafMap) {
+        leafMap = L.map('sl-map', { zoomControl: false, scrollWheelZoom: false, attributionControl: false })
+          .setView([lat, lon], 5);
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+          subdomains: 'abcd', maxZoom: 19
+        }).addTo(leafMap);
+      }
+      leafMap.invalidateSize();
+      if (cb) cb(leafMap);
+    });
   }
 
   function placeUserDot(lat, lon) {
@@ -204,14 +209,6 @@
   }
 
   function showFound(lat, lon, realm, geojson) {
-    var m = ensureMap(lat, lon);
-    if (realmLayer) m.removeLayer(realmLayer);
-    realmLayer = L.geoJSON(geojson, {
-      style: { color: '#ffd700', fillColor: '#ffd700', fillOpacity: 0.22, weight: 2 }
-    }).addTo(m);
-    m.fitBounds(realmLayer.getBounds(), { padding: [20, 20] });
-    placeUserDot(lat, lon);
-
     var slug = realm.slug || realm.qid;
     slInfo.innerHTML =
       '<div class="sl-realm-name">' + realm.realm_name + '</div>' +
@@ -219,14 +216,24 @@
       '<a class="sl-realm-link" href="/fudoki/' + slug + '/">View hallowing →</a>';
     slInfo.style.display = 'block';
     slStatus.style.display = 'none';
+
+    ensureMap(lat, lon, function (m) {
+      if (realmLayer) m.removeLayer(realmLayer);
+      realmLayer = L.geoJSON(geojson, {
+        style: { color: '#ffd700', fillColor: '#ffd700', fillOpacity: 0.22, weight: 2 }
+      }).addTo(m);
+      m.fitBounds(realmLayer.getBounds(), { padding: [20, 20] });
+      placeUserDot(lat, lon);
+    });
   }
 
   function showNotFound(lat, lon) {
-    var m = ensureMap(lat, lon);
-    placeUserDot(lat, lon);
-    m.setView([lat, lon], 6);
     slStatus.textContent = 'This land has not yet been hallowed.';
     slInfo.style.display = 'none';
+    ensureMap(lat, lon, function (m) {
+      placeUserDot(lat, lon);
+      m.setView([lat, lon], 6);
+    });
   }
 
   // ── Search candidates in batches, stop on first match ──
