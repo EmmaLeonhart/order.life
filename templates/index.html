@@ -210,11 +210,11 @@
     pill.addEventListener('click', function (e) { e.preventDefault(); triggerGPS(); }, { once: true });
   }
 
-  function searchCandidates(lat, lon, candidates) {
+  function searchCandidates(lat, lon, candidates, done) {
     var BATCH = 8, idx = 0, found = false;
     function nextBatch() {
       if (found || idx >= candidates.length) {
-        if (!found) showNotFound();
+        if (!found && done) done(null);
         return;
       }
       var batch = candidates.slice(idx, idx + BATCH);
@@ -226,7 +226,7 @@
       })).then(function (results) {
         if (found) return;
         var hit = results.find(function (r) { return r; });
-        if (hit) { found = true; showFound(hit); } else { nextBatch(); }
+        if (hit) { found = true; done && done(hit); } else { nextBatch(); }
       });
     }
     nextBatch();
@@ -237,16 +237,16 @@
     lon = Number(lon);
     if (!isFinite(lat) || !isFinite(lon)) { showError(); return; }
     var country = cachedCountry || '';
-    var candidates = country
+    var countryCandidates = country
       ? realms.filter(function (r) { return r.country && r.country.toLowerCase() === country.toLowerCase(); })
       : realms;
     // If country filter yields nothing (name mismatch or no realms for that country),
     // fall back to searching all realms rather than immediately showing not-found.
-    if (candidates.length === 0) { candidates = realms; }
+    if (countryCandidates.length === 0) { countryCandidates = realms; }
     if (cachedRegion) {
       var regionNeedle = normText(cachedRegion);
       if (regionNeedle) {
-        var direct = candidates.find(function (r) {
+        var direct = countryCandidates.find(function (r) {
           var labels = [
             r.realm_name,
             r.name,
@@ -263,8 +263,18 @@
         if (direct) { showFound(direct); return; }
       }
     }
-    if (candidates.length === 0) { showNotFound(); return; }
-    searchCandidates(lat, lon, candidates);
+    if (countryCandidates.length === 0) { showNotFound(); return; }
+    var usedCountryScope = !!country && countryCandidates !== realms;
+    searchCandidates(lat, lon, countryCandidates, function (hit) {
+      if (hit) { showFound(hit); return; }
+      if (usedCountryScope) {
+        searchCandidates(lat, lon, realms, function (globalHit) {
+          if (globalHit) showFound(globalHit); else showNotFound();
+        });
+      } else {
+        showNotFound();
+      }
+    });
   }
 
   function triggerGPS() {
