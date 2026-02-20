@@ -332,7 +332,7 @@ def load_fudoki_data():
     content_dir = SCRIPT_DIR / "realms" / "content"
     for realm in realms:
         realm["good_fudoki"] = realm.get("good_fudoki") is True
-        md_file = content_dir / f"{realm.get('slug', realm['qid'])}.md"
+        md_file = content_dir / f"{realm.get('slug') or realm['qid']}.md"
         if md_file.exists():
             realm["content_md"] = md_file.read_text(encoding="utf-8").strip()
         else:
@@ -794,7 +794,7 @@ def build_site():
                 "realm_name": r.get("realm_name", r.get("name", "")),
                 "country": r.get("country", ""),
                 "geoshape": r.get("geoshape", ""),
-                "slug": r.get("slug", r["qid"]),
+                "slug": r.get("slug") or r["qid"],
                 "good_fudoki": bool(r.get("good_fudoki")),
                 "names": r.get("names", {}),
                 "realm_names": r.get("realm_names", {}),
@@ -991,7 +991,7 @@ def build_site():
                 encoding="utf-8",
             )
             for realm in fudoki_divisions:
-                realm_dir = fudoki_dir / realm.get("slug", realm["qid"])
+                realm_dir = fudoki_dir / (realm.get("slug") or realm["qid"])
                 realm_dir.mkdir(parents=True, exist_ok=True)
                 render_page(env, "sections/fudoki-detail.html", realm_dir / "index.html",
                             {**ctx, "realm": realm})
