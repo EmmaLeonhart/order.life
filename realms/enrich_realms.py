@@ -28,6 +28,9 @@ USER_AGENT = "OrderOfLifeBot/1.0 (https://order.life; contact@order.life)"
 BATCH_SIZE = 80
 BATCH_DELAY = 2  # seconds between batches
 
+# Languages to fetch labels for (all active site languages)
+SITE_LANGS = ["en", "ja", "zh", "es", "hi", "ar", "fr", "ru", "uk", "de", "he", "pt"]
+
 # Suffixes to strip (longest-match-first order matters)
 SUFFIXES_TO_STRIP = [
     "Autonomous Okrug",
@@ -121,6 +124,48 @@ def extract_geoshape(uri):
         idx = uri.index("Data:")
         return urllib.parse.unquote(uri[idx:])
     return None
+
+
+def query_labels(qids):
+    """Fetch Wikidata labels in all site languages for a batch of QIDs.
+
+    Returns a dict mapping QID -> {lang: label}.
+    """
+    values = " ".join(f"wd:{qid}" for qid in qids)
+    lang_filter = ", ".join(f'"{l}"' for l in SITE_LANGS)
+    sparql = f"""
+SELECT ?item (LANG(?label) AS ?lang) ?label WHERE {{
+  VALUES ?item {{ {values} }}
+  ?item rdfs:label ?label
+  FILTER(LANG(?label) IN ({lang_filter}))
+}}
+"""
+    url = SPARQL_ENDPOINT + "?" + urllib.parse.urlencode({
+        "query": sparql,
+        "format": "json",
+    })
+    req = urllib.request.Request(url, headers={
+        "User-Agent": USER_AGENT,
+        "Accept": "application/sparql-results+json",
+    })
+
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+                result = {}
+                for row in data["results"]["bindings"]:
+                    qid = row["item"]["value"].split("/")[-1]
+                    lang = row["lang"]["value"]
+                    label = row["label"]["value"]
+                    result.setdefault(qid, {})[lang] = label
+                return result
+        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as e:
+            print(f"  Attempt {attempt + 1} failed: {e}")
+            if attempt < 2:
+                time.sleep(5 * (attempt + 1))
+            else:
+                raise
 
 
 def query_sparql(qids):
@@ -282,6 +327,26 @@ def main():
                 "locator_map": None,
                 "geoshape": None,
             }
+
+    # ── Fetch multilingual labels ────────────────────────────────────────
+    print(f"\nFetching multilingual labels for {len(qids)} realms...")
+    all_labels = {}
+    for i in range(0, len(qids), BATCH_SIZE):
+        batch = qids[i:i + BATCH_SIZE]
+        batch_num = i // BATCH_SIZE + 1
+        total_batches = (len(qids) + BATCH_SIZE - 1) // BATCH_SIZE
+        print(f"  Labels batch {batch_num}/{total_batches} ({len(batch)} QIDs)...")
+        try:
+            batch_labels = query_labels(batch)
+            all_labels.update(batch_labels)
+        except Exception as e:
+            print(f"  Warning: label batch failed: {e}")
+        if i + BATCH_SIZE < len(qids):
+            time.sleep(BATCH_DELAY)
+
+    # Attach names to each realm
+    for realm in all_realms.values():
+        realm["names"] = all_labels.get(realm["qid"], {})
 
     # Sort by country (None last) then realm_name
     sorted_realms = sorted(

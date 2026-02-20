@@ -796,6 +796,7 @@ def build_site():
                 "geoshape": r.get("geoshape", ""),
                 "slug": r.get("slug", r["qid"]),
                 "good_fudoki": bool(r.get("good_fudoki")),
+                "names": r.get("names", {}),
             }
             for r in fudoki_divisions
             if r.get("geoshape")
