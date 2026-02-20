@@ -174,8 +174,15 @@
     gpsLink.style.display = 'none';
     navigator.geolocation.getCurrentPosition(
       function (pos) {
-        var realms = cachedRealms || [];
-        runWithCoords(pos.coords.latitude, pos.coords.longitude, realms);
+        var lat = pos.coords.latitude, lon = pos.coords.longitude;
+        if (cachedRealms) {
+          runWithCoords(lat, lon, cachedRealms);
+        } else {
+          fetch('/static/realms-index.json')
+            .then(function (r) { return r.json(); })
+            .then(function (realms) { cachedRealms = realms; runWithCoords(lat, lon, realms); })
+            .catch(function () { showNotFound(); });
+        }
       },
       function () { pill.textContent = 'Location access denied.'; pill.style.opacity = '0.5'; }
     );
@@ -183,21 +190,37 @@
 
   gpsLink.addEventListener('click', function (e) { e.preventDefault(); triggerGPS(); });
 
-  // ── Boot: load realm index then IP geolocation ──
-  fetch('/static/realms-index.json')
-    .then(function (r) { return r.json(); })
-    .then(function (realms) {
-      cachedRealms = realms;
-      return fetch('https://ipapi.co/json/');
-    })
-    .then(function (r) { return r.json(); })
-    .then(function (geo) {
-      var lat = geo.latitude, lon = geo.longitude;
-      if (!lat || !lon) throw new Error('no coords');
-      cachedCountry = geo.country_name || '';
-      runWithCoords(lat, lon, cachedRealms);
-    })
-    .catch(function () { showError(); });
+  // ── IP geolocation: try ipapi.co then ipwho.is as fallback ──
+  function getIPLocation() {
+    return fetch('https://ipapi.co/json/')
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        if (!d.latitude) throw new Error();
+        return { lat: d.latitude, lon: d.longitude, country: d.country_name || '' };
+      })
+      .catch(function () {
+        return fetch('https://ipwho.is/')
+          .then(function (r) { return r.json(); })
+          .then(function (d) {
+            if (!d.latitude) throw new Error();
+            return { lat: d.latitude, lon: d.longitude, country: d.country || '' };
+          });
+      });
+  }
+
+  // ── Boot: fetch realm index + IP location in parallel ──
+  // Show GPS button immediately so there's always something to click.
+  gpsLink.style.display = 'inline';
+
+  Promise.all([
+    fetch('/static/realms-index.json').then(function (r) { return r.json(); }),
+    getIPLocation()
+  ]).then(function (results) {
+    cachedRealms = results[0];
+    var geo = results[1];
+    cachedCountry = geo.country;
+    runWithCoords(geo.lat, geo.lon, cachedRealms);
+  }).catch(function () { showError(); });
 })();
 </script>
 {% endblock %}
