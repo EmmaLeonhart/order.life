@@ -7,3 +7,6 @@ I think that claude might restart and start working in an hour at 11:00 am pst, 
 8 hours ago the widget worked perfectly in English, so something went wrong and I'm not sure what.
 
 Also leave a message for claude or edit what I said since I didn't actually undo anything, and it is doing some localization work that might lead to a merge conflict and I want it to have context about that.
+
+
+look over settings.local.json to make sure there's no secret leakage and check both this file and the other one (copilot and claude ones) delete both once finished
