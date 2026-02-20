@@ -23,6 +23,10 @@
     {% if daily_reading_chapter %}
     <a class="daily-reading-link" href="{{ base }}/gaiad/{{ '%03d' % daily_reading_chapter }}/">{{ t.daily_reading }} · {{ t.gaiad }} {{ daily_reading_chapter }}</a>
     {% endif %}
+    <div style="margin-top:8px;display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:center;">
+      <a id="sl-pill" class="daily-reading-link" href="#" style="opacity:0.6;cursor:default;">Finding your sacred land…</a>
+      <a id="sl-gps" href="#" style="display:none;font-size:0.75rem;color:var(--text-dim);text-decoration:none;">precise location</a>
+    </div>
   </div>
 </div>
 
@@ -89,4 +93,166 @@
     </a>
   </div>
 </div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+(function () {
+  var pill = document.getElementById('sl-pill');
+  var gpsLink = document.getElementById('sl-gps');
+  var cachedRealms = null;
+  var cachedCountry = null;
+
+  function pipRing(lat, lon, ring) {
+    var inside = false;
+    for (var i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+      var rlat = ring[i][1], rlon = ring[i][0];
+      var nlat = ring[j][1], nlon = ring[j][0];
+      if (((rlat > lat) !== (nlat > lat)) &&
+          (lon < (nlon - rlon) * (lat - rlat) / (nlat - rlat) + rlon)) {
+        inside = !inside;
+      }
+    }
+    return inside;
+  }
+
+  function pipGeom(lat, lon, geom) {
+    if (!geom) return false;
+    if (geom.type === 'Polygon') return pipRing(lat, lon, geom.coordinates[0]);
+    if (geom.type === 'MultiPolygon') {
+      return geom.coordinates.some(function (p) { return pipRing(lat, lon, p[0]); });
+    }
+    return false;
+  }
+
+  function pointInData(lat, lon, data) {
+    if (!data) return false;
+    if (data.type === 'FeatureCollection') {
+      return (data.features || []).some(function (f) {
+        return f && f.geometry && pipGeom(lat, lon, f.geometry);
+      });
+    }
+    if (data.type === 'Feature') return data.geometry && pipGeom(lat, lon, data.geometry);
+    return pipGeom(lat, lon, data);
+  }
+
+  function fetchGeoshape(realm) {
+    var clean = realm.geoshape.replace(/^Data:/, '');
+    var url = 'https://commons.wikimedia.org/w/api.php?action=jsondata&title=' +
+      encodeURIComponent(clean) + '&formatversion=2&origin=*&format=json';
+    return fetch(url)
+      .then(function (r) { return r.json(); })
+      .then(function (d) { return (d && d.jsondata && d.jsondata.data) ? d.jsondata.data : null; })
+      .catch(function () { return null; });
+  }
+
+  function showFound(realm) {
+    var slug = realm.slug || realm.qid;
+    pill.textContent = realm.realm_name + ' · Read local fudoki →';
+    pill.href = '/fudoki/' + slug + '/';
+    pill.style.opacity = '1';
+    pill.style.cursor = '';
+    gpsLink.style.display = 'inline';
+  }
+
+  function showNotFound() {
+    pill.textContent = 'Land not yet hallowed · browse all realms';
+    pill.href = '/fudoki/';
+    pill.style.opacity = '0.7';
+    pill.style.cursor = '';
+    gpsLink.style.display = 'inline';
+  }
+
+  function showError() {
+    pill.textContent = '⊕ Find your sacred land';
+    pill.style.opacity = '1';
+    pill.style.cursor = 'pointer';
+    pill.addEventListener('click', function (e) { e.preventDefault(); triggerGPS(); }, { once: true });
+  }
+
+  function searchCandidates(lat, lon, candidates) {
+    var BATCH = 8, idx = 0, found = false;
+    function nextBatch() {
+      if (found || idx >= candidates.length) {
+        if (!found) showNotFound();
+        return;
+      }
+      var batch = candidates.slice(idx, idx + BATCH);
+      idx += BATCH;
+      Promise.all(batch.map(function (realm) {
+        return fetchGeoshape(realm).then(function (data) {
+          return (data && pointInData(lat, lon, data)) ? realm : null;
+        });
+      })).then(function (results) {
+        if (found) return;
+        var hit = results.find(function (r) { return r; });
+        if (hit) { found = true; showFound(hit); } else { nextBatch(); }
+      });
+    }
+    nextBatch();
+  }
+
+  function runWithCoords(lat, lon, realms) {
+    var country = cachedCountry || '';
+    var candidates = country
+      ? realms.filter(function (r) { return r.country && r.country.toLowerCase() === country.toLowerCase(); })
+      : realms;
+    if (candidates.length === 0) { showNotFound(); return; }
+    searchCandidates(lat, lon, candidates);
+  }
+
+  function triggerGPS() {
+    if (!navigator.geolocation) { showError(); return; }
+    pill.textContent = 'Getting precise location…';
+    pill.style.opacity = '0.6';
+    pill.style.cursor = 'default';
+    gpsLink.style.display = 'none';
+    navigator.geolocation.getCurrentPosition(
+      function (pos) {
+        var lat = pos.coords.latitude, lon = pos.coords.longitude;
+        if (cachedRealms) {
+          runWithCoords(lat, lon, cachedRealms);
+        } else {
+          fetch('/static/realms-index.json')
+            .then(function (r) { return r.json(); })
+            .then(function (realms) { cachedRealms = realms; runWithCoords(lat, lon, realms); })
+            .catch(function () { showNotFound(); });
+        }
+      },
+      function () { pill.textContent = 'Location access denied.'; pill.style.opacity = '0.5'; }
+    );
+  }
+
+  gpsLink.addEventListener('click', function (e) { e.preventDefault(); triggerGPS(); });
+
+  function getIPLocation() {
+    return fetch('https://ipapi.co/json/')
+      .then(function (r) { return r.json(); })
+      .then(function (d) {
+        if (!d.latitude) throw new Error();
+        return { lat: d.latitude, lon: d.longitude, country: d.country_name || '' };
+      })
+      .catch(function () {
+        return fetch('https://ipwho.is/')
+          .then(function (r) { return r.json(); })
+          .then(function (d) {
+            if (!d.latitude) throw new Error();
+            return { lat: d.latitude, lon: d.longitude, country: d.country || '' };
+          });
+      });
+  }
+
+  gpsLink.style.display = 'inline';
+
+  Promise.all([
+    fetch('/static/realms-index.json').then(function (r) { return r.json(); }),
+    getIPLocation()
+  ]).then(function (results) {
+    cachedRealms = results[0];
+    var geo = results[1];
+    cachedCountry = geo.country;
+    runWithCoords(geo.lat, geo.lon, cachedRealms);
+  }).catch(function () { showError(); });
+})();
+</script>
 {% endblock %}
