@@ -6,10 +6,6 @@
 {% block twitter_title %}{{ t.gaiad }}: {{ t.chapter }} {{ chapter_num }} — {{ t.site_title }}{% endblock %}
 {% block twitter_description %}{% if chapter_month %}{{ t.months[chapter_month.id] }} {{ chapter_day }} · {{ t.day_of_year }} {{ chapter_num }}. {% endif %}{{ t.gaiad_subtitle }}.{% endblock %}
 
-{% block head %}
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
-{% endblock %}
-
 {% block content %}
 <div class="container">
   <div class="breadcrumb">
@@ -42,15 +38,10 @@
     </div>
     {% endif %}
 
-    {# ── Your Sacred Land widget ─────────────────────────────────────── #}
-    <div class="sacred-land" id="sacred-land">
-      <h3 class="sacred-land-heading">Your Sacred Land</h3>
-      <div id="sl-status" class="sl-status">Locating you…</div>
-      <div id="sl-map" style="height:220px;border-radius:8px;margin:12px 0;display:none;overflow:hidden;"></div>
-      <div id="sl-info" class="sl-info" style="display:none;"></div>
-      <div class="sl-footer">
-        <button id="sl-gps-btn" class="sl-gps-btn">⊕ Use precise location</button>
-      </div>
+    {# ── Your Sacred Land — compact pill ──────────────────────────────── #}
+    <div class="sl-widget">
+      <a id="sl-pill" class="daily-reading-link" href="#" style="opacity:0.6;cursor:default;" aria-live="polite">Finding your sacred land…</a>
+      <a id="sl-gps" href="#" style="display:none;font-size:0.75rem;color:var(--text-dim);text-decoration:none;" title="Use GPS for a more precise location">precise location</a>
     </div>
 
     <div class="chapter-nav">
@@ -66,76 +57,11 @@
 {% endblock %}
 
 {% block scripts %}
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-<style>
-.sacred-land {
-  margin: 36px 0 24px;
-  padding: 20px 24px 16px;
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-accent);
-  border-radius: 10px;
-}
-.sacred-land-heading {
-  font-size: 0.85rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--text-muted);
-  margin-bottom: 10px;
-}
-.sl-status {
-  color: var(--text-muted);
-  font-size: 0.9rem;
-  min-height: 1.4em;
-}
-.sl-info {
-  margin-top: 10px;
-}
-.sl-realm-name {
-  font-size: 1.15rem;
-  font-weight: 600;
-  color: var(--accent);
-}
-.sl-realm-country {
-  font-size: 0.85rem;
-  color: var(--text-muted);
-  margin-top: 2px;
-}
-.sl-realm-link {
-  display: inline-block;
-  margin-top: 8px;
-  font-size: 0.9rem;
-  color: var(--link);
-  text-decoration: none;
-}
-.sl-realm-link:hover { text-decoration: underline; }
-.sl-footer {
-  margin-top: 12px;
-}
-.sl-gps-btn {
-  background: none;
-  border: 1px solid var(--border);
-  color: var(--text-muted);
-  padding: 5px 14px;
-  border-radius: 20px;
-  font-size: 0.8rem;
-  cursor: pointer;
-  transition: border-color 0.2s, color 0.2s;
-}
-.sl-gps-btn:hover {
-  border-color: var(--accent);
-  color: var(--accent);
-}
-</style>
 <script>
 (function () {
-  var slStatus = document.getElementById('sl-status');
-  var slMapEl = document.getElementById('sl-map');
-  var slInfo = document.getElementById('sl-info');
-  var slGpsBtn = document.getElementById('sl-gps-btn');
-
-  var leafMap = null;
-  var realmLayer = null;
-  var userMarker = null;
+  var pill = document.getElementById('sl-pill');
+  var gpsLink = document.getElementById('sl-gps');
+  var cachedRealms = null;
   var cachedCountry = null;
 
   // ── Point-in-polygon (ray casting). GeoJSON coords are [lon, lat]. ──
@@ -156,7 +82,7 @@
     if (!geom) return false;
     if (geom.type === 'Polygon') return pipRing(lat, lon, geom.coordinates[0]);
     if (geom.type === 'MultiPolygon') {
-      return geom.coordinates.some(function (poly) { return pipRing(lat, lon, poly[0]); });
+      return geom.coordinates.some(function (p) { return pipRing(lat, lon, p[0]); });
     }
     return false;
   }
@@ -172,7 +98,6 @@
     return pipGeom(lat, lon, data);
   }
 
-  // ── Fetch a single realm's geoshape from Wikimedia Commons ──
   function fetchGeoshape(realm) {
     var clean = realm.geoshape.replace(/^Data:/, '');
     var url = 'https://commons.wikimedia.org/w/api.php?action=jsondata&title=' +
@@ -183,88 +108,51 @@
       .catch(function () { return null; });
   }
 
-  // ── Leaflet mini-map ──
-  // Leaflet can't measure a hidden element — show the div first,
-  // then init/invalidate on the next animation frame.
-  function ensureMap(lat, lon, cb) {
-    slMapEl.style.display = 'block';
-    requestAnimationFrame(function () {
-      if (!leafMap) {
-        leafMap = L.map('sl-map', { zoomControl: false, scrollWheelZoom: false, attributionControl: false })
-          .setView([lat, lon], 5);
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-          subdomains: 'abcd', maxZoom: 19
-        }).addTo(leafMap);
-      }
-      leafMap.invalidateSize();
-      if (cb) cb(leafMap);
-    });
-  }
-
-  function placeUserDot(lat, lon) {
-    if (userMarker) leafMap.removeLayer(userMarker);
-    userMarker = L.circleMarker([lat, lon], {
-      radius: 7, color: '#ffffff', fillColor: '#4a9eff', fillOpacity: 1, weight: 2
-    }).addTo(leafMap);
-  }
-
-  function showFound(lat, lon, realm, geojson) {
+  // ── Display helpers ──
+  function showFound(realm) {
     var slug = realm.slug || realm.qid;
-    slInfo.innerHTML =
-      '<div class="sl-realm-name">' + realm.realm_name + '</div>' +
-      '<div class="sl-realm-country">' + realm.country + '</div>' +
-      '<a class="sl-realm-link" href="/fudoki/' + slug + '/">View hallowing →</a>';
-    slInfo.style.display = 'block';
-    slStatus.style.display = 'none';
-
-    ensureMap(lat, lon, function (m) {
-      if (realmLayer) m.removeLayer(realmLayer);
-      realmLayer = L.geoJSON(geojson, {
-        style: { color: '#ffd700', fillColor: '#ffd700', fillOpacity: 0.22, weight: 2 }
-      }).addTo(m);
-      m.fitBounds(realmLayer.getBounds(), { padding: [20, 20] });
-      placeUserDot(lat, lon);
-    });
+    pill.textContent = realm.realm_name + ' · Read local fudoki →';
+    pill.href = '/fudoki/' + slug + '/';
+    pill.style.opacity = '1';
+    pill.style.cursor = '';
+    gpsLink.style.display = 'inline';
   }
 
-  function showNotFound(lat, lon) {
-    slStatus.textContent = 'This land has not yet been hallowed.';
-    slInfo.style.display = 'none';
-    ensureMap(lat, lon, function (m) {
-      placeUserDot(lat, lon);
-      m.setView([lat, lon], 6);
-    });
+  function showNotFound() {
+    pill.textContent = 'Land not yet hallowed · browse all realms';
+    pill.href = '/fudoki/';
+    pill.style.opacity = '0.7';
+    pill.style.cursor = '';
+    gpsLink.style.display = 'inline';
   }
 
-  // ── Search candidates in batches, stop on first match ──
+  function showError() {
+    pill.textContent = '⊕ Find your sacred land';
+    pill.style.opacity = '1';
+    pill.style.cursor = 'pointer';
+    pill.addEventListener('click', function (e) { e.preventDefault(); triggerGPS(); }, { once: true });
+  }
+
+  // ── Search through candidates in batches, stop on first match ──
   function searchCandidates(lat, lon, candidates) {
-    var BATCH = 8;
-    var idx = 0;
-    var found = false;
-
+    var BATCH = 8, idx = 0, found = false;
     function nextBatch() {
       if (found || idx >= candidates.length) {
-        if (!found) showNotFound(lat, lon);
+        if (!found) showNotFound();
         return;
       }
       var batch = candidates.slice(idx, idx + BATCH);
       idx += BATCH;
       Promise.all(batch.map(function (realm) {
         return fetchGeoshape(realm).then(function (data) {
-          return (data && pointInData(lat, lon, data)) ? { realm: realm, data: data } : null;
+          return (data && pointInData(lat, lon, data)) ? realm : null;
         });
       })).then(function (results) {
         if (found) return;
         var hit = results.find(function (r) { return r; });
-        if (hit) {
-          found = true;
-          showFound(lat, lon, hit.realm, hit.data);
-        } else {
-          nextBatch();
-        }
+        if (hit) { found = true; showFound(hit); } else { nextBatch(); }
       });
     }
-
     nextBatch();
   }
 
@@ -273,19 +161,29 @@
     var candidates = country
       ? realms.filter(function (r) { return r.country && r.country.toLowerCase() === country.toLowerCase(); })
       : realms;
-
-    if (candidates.length === 0) {
-      showNotFound(lat, lon);
-      return;
-    }
-    slStatus.textContent = 'Checking ' + candidates.length + ' realm' +
-      (candidates.length !== 1 ? 's' : '') + (country ? ' in ' + country : '') + '…';
+    if (candidates.length === 0) { showNotFound(); return; }
     searchCandidates(lat, lon, candidates);
   }
 
-  // ── Boot: fetch realm index, then IP location ──
-  var cachedRealms = null;
+  // ── GPS button ──
+  function triggerGPS() {
+    if (!navigator.geolocation) { showError(); return; }
+    pill.textContent = 'Getting precise location…';
+    pill.style.opacity = '0.6';
+    pill.style.cursor = 'default';
+    gpsLink.style.display = 'none';
+    navigator.geolocation.getCurrentPosition(
+      function (pos) {
+        var realms = cachedRealms || [];
+        runWithCoords(pos.coords.latitude, pos.coords.longitude, realms);
+      },
+      function () { pill.textContent = 'Location access denied.'; pill.style.opacity = '0.5'; }
+    );
+  }
 
+  gpsLink.addEventListener('click', function (e) { e.preventDefault(); triggerGPS(); });
+
+  // ── Boot: load realm index then IP geolocation ──
   fetch('/static/realms-index.json')
     .then(function (r) { return r.json(); })
     .then(function (realms) {
@@ -299,36 +197,7 @@
       cachedCountry = geo.country_name || '';
       runWithCoords(lat, lon, cachedRealms);
     })
-    .catch(function () {
-      slStatus.textContent = 'Could not detect location — use the button below.';
-    });
-
-  // ── GPS button ──
-  slGpsBtn.addEventListener('click', function () {
-    if (!navigator.geolocation) {
-      slStatus.textContent = 'Geolocation not supported by this browser.';
-      return;
-    }
-    slStatus.textContent = 'Getting precise location…';
-    slStatus.style.display = 'block';
-    slInfo.style.display = 'none';
-    navigator.geolocation.getCurrentPosition(
-      function (pos) {
-        var lat = pos.coords.latitude, lon = pos.coords.longitude;
-        if (cachedRealms) {
-          runWithCoords(lat, lon, cachedRealms);
-        } else {
-          fetch('/static/realms-index.json')
-            .then(function (r) { return r.json(); })
-            .then(function (realms) {
-              cachedRealms = realms;
-              runWithCoords(lat, lon, realms);
-            });
-        }
-      },
-      function () { slStatus.textContent = 'Location access denied.'; }
-    );
-  });
+    .catch(function () { showError(); });
 })();
 </script>
 {% endblock %}
