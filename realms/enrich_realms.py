@@ -290,9 +290,9 @@ def main():
     for r in current_realms:
         qid = r["qid"]
         if qid in REMOVE_QIDS:
-            print(f"  Removing {qid} ({r['name']})")
+            print(f"  Removing {qid} ({r.get('wikidata_name', qid)})")
             continue
-        qid_to_name[qid] = r["name"]
+        qid_to_name[qid] = r.get("wikidata_name", r.get("name", qid))
         qids.append(qid)
 
     print(f"Querying Wikidata for {len(qids)} realms in batches of {BATCH_SIZE}...")
