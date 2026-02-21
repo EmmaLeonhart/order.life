@@ -1,14 +1,15 @@
 {% extends "base.html" %}
-{% block title %}{{ weekday.id | title }} — {{ t.calendar_page.title }}{% endblock %}
-{% block meta_description %}{{ weekday.symbol }} {{ weekday.id | title }} · {{ t.day }} {{ weekday.num }} of the week · The day of {{ weekday.planet }}. {{ t.calendar_week_index_page.p1 | truncate(120) }}{% endblock %}
-{% block og_title %}{{ weekday.symbol }} {{ weekday.id | title }} — {{ t.calendar_page.title }}{% endblock %}
+{% set preferred_name = preferred_weekday_names[weekday.num - 1] %}
+{% block title %}{{ preferred_name }} — {{ t.calendar_page.title }}{% endblock %}
+{% block meta_description %}{{ weekday.symbol }} {{ preferred_name }} · {{ t.day }} {{ weekday.num }} of the week · The day of {{ weekday.planet }}. {{ t.calendar_week_index_page.p1 | truncate(120) }}{% endblock %}
+{% block og_title %}{{ weekday.symbol }} {{ preferred_name }} — {{ t.calendar_page.title }}{% endblock %}
 {% block og_description %}{{ t.day }} {{ weekday.num }} of the week · The day of {{ weekday.planet }}. {{ t.calendar_week_index_page.hero_subtitle }}{% endblock %}
-{% block twitter_title %}{{ weekday.symbol }} {{ weekday.id | title }} — {{ t.calendar_page.title }}{% endblock %}
+{% block twitter_title %}{{ weekday.symbol }} {{ preferred_name }} — {{ t.calendar_page.title }}{% endblock %}
 {% block twitter_description %}{{ t.day }} {{ weekday.num }} of the week · The day of {{ weekday.planet }}. {{ t.calendar_week_index_page.hero_subtitle }}{% endblock %}
 
 {% block content %}
 <div class="section-hero">
-  <h1>{{ weekday.symbol }} {{ weekday.id | title }}</h1>
+  <h1>{{ weekday.symbol }} {{ preferred_name }}</h1>
   <p>Day {{ weekday.num }} of the week · The day of {{ weekday.planet }}</p>
 </div>
 
@@ -18,14 +19,14 @@
     <span>›</span>
     <a href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
     <span>›</span>
-    <a href="{{ base }}/calendar/week/">Week</a>
+    <a href="{{ base }}/calendar/week/">{{ t.calendar_week_index_page.title }}</a>
     <span>›</span>
-    {{ weekday.id | title }}
+    {{ preferred_name }}
   </div>
 
   <div class="section-content">
     {% if weekday.id == "monday" %}
-    <h2>{{ weekday.symbol }} Monday — The Day of the Moon</h2>
+    <h2>{{ weekday.symbol }} {{ preferred_name }} — The Day of the Moon</h2>
     <p>Monday is the first day of the week. The year always begins on a Monday. 13.8 billion years ago, it was a Monday that Aster created the world.</p>
     <p>The week is one of the longest-lasting institutions in human culture. It predates most states. It survives calendar reform. It survives empire. It survives religion. It comes from an astrological cycle first systematized in Babylon.</p>
     <p>In that cycle, Monday was the day of the Moon.</p>
@@ -43,14 +44,16 @@
     <tr><td>Hindi</td><td>सोमवार (Somvār)</td><td>Day of Soma</td></tr>
     <tr><td>Japanese</td><td>月曜日 (Getsuyōbi)</td><td>Moon day</td></tr>
     <tr><td>Korean</td><td>월요일 (Woryoil)</td><td>Moon day</td></tr>
+    <tr><td>Chinese</td><td>月曜 (preferred) / 星期一</td><td>Moon day (preferred form)</td></tr>
     <tr><td>Hebrew</td><td>יום ירח (Yom Yareakh)</td><td>Day of the Moon (preferred)</td></tr>
     <tr><td>Arabic</td><td>يوم القمر (Yawm al-Qamar)</td><td>Day of the Moon (preferred)</td></tr>
-    <tr><td>Russian</td><td>понедельник (ponedelnik)</td><td>After Sunday</td></tr>
+    <tr><td>Russian</td><td>Лу́нник (preferred) / понедельник</td><td>Lunar day (Slavic restored)</td></tr>
+    <tr><td>Ukrainian</td><td>Міся́чник (preferred) / понеділок</td><td>Lunar day (Ukrainian restored)</td></tr>
     </table>
     <p>Everywhere, Monday is the day when ordinary time resumes. In the Gaian calendar, the year always begins on a Monday.</p>
 
     {% elif weekday.id == "tuesday" %}
-    <h2>{{ weekday.symbol }} Tuesday — The Day of Mars</h2>
+    <h2>{{ weekday.symbol }} {{ preferred_name }} — The Day of Mars</h2>
     <p>Tuesday is the first day of the week in English whose name is openly pagan. In the planetary system inherited from Babylon, Tuesday was the day of Mars.</p>
     <p>In Akkadian, Mars was associated with Nergal, a god of war, plague, and destruction. In Greek, Tuesday was the day of Ares. In Latin, dies Martis.</p>
     <p>In the Germanic languages, Mars was translated: Tiw (Tyr), the god of war and law. Tuesday comes from Tiwesdæg.</p>
@@ -63,14 +66,17 @@
     <tr><td>Spanish</td><td>martes</td><td>From Mars</td></tr>
     <tr><td>German</td><td>Dienstag</td><td>From Thing (assembly)</td></tr>
     <tr><td>Sanskrit</td><td>Maṅgalavāra</td><td>Day of Mars</td></tr>
+    <tr><td>Hindi</td><td>मंगलवार (Maṅgalvār)</td><td>Day of Mars</td></tr>
     <tr><td>Japanese</td><td>火曜日 (Kayōbi)</td><td>Fire day</td></tr>
+    <tr><td>Chinese</td><td>火曜 (preferred) / 星期二</td><td>Fire day (preferred form)</td></tr>
     <tr><td>Hebrew</td><td>יום שלישי (Yom Shlishi)</td><td>Third day</td></tr>
     <tr><td>Arabic</td><td>الثلاثاء (ath-Thulāthāʾ)</td><td>The three</td></tr>
-    <tr><td>Russian</td><td>вторник (vtornik)</td><td>Second working day</td></tr>
+    <tr><td>Russian</td><td>Ярови́тник (preferred) / вторник</td><td>Day of Yarilo/Mars (Slavic restored)</td></tr>
+    <tr><td>Ukrainian</td><td>Ярови́тник (preferred) / вівторок</td><td>Day of Yarilo/Mars (Ukrainian restored)</td></tr>
     </table>
 
     {% elif weekday.id == "wednesday" %}
-    <h2>{{ weekday.symbol }} Wednesday — The Day of Mercury</h2>
+    <h2>{{ weekday.symbol }} {{ preferred_name }} — The Day of Mercury</h2>
     <p>Wednesday is the day of the messenger. In Akkadian, Mercury was Nabū, god of writing, wisdom, and record-keeping. In Greek, the day of Hermes. In Latin, dies Mercurii.</p>
     <p>In the Germanic languages, Mercury was translated as Wōden (Odin) — the god of knowledge, poetry, and hidden wisdom. Wednesday comes from Wōdnesdæg.</p>
     <h3>Names Across Languages</h3>
@@ -80,16 +86,19 @@
     <tr><td>English</td><td>Wednesday</td><td>Woden's day</td></tr>
     <tr><td>French</td><td>mercredi</td><td>From Mercury</td></tr>
     <tr><td>Spanish</td><td>miércoles</td><td>From Mercury</td></tr>
-    <tr><td>German</td><td>Mittwoch</td><td>Mid-week</td></tr>
+    <tr><td>German</td><td>Wotanstag (preferred) / Mittwoch</td><td>Wotan's day (preferred form)</td></tr>
     <tr><td>Sanskrit</td><td>Budhavāra</td><td>Day of Budha (Mercury)</td></tr>
+    <tr><td>Hindi</td><td>बुधवार (Budhvār)</td><td>Day of Budha (Mercury)</td></tr>
     <tr><td>Japanese</td><td>水曜日 (Suiyōbi)</td><td>Water day</td></tr>
+    <tr><td>Chinese</td><td>水曜 (preferred) / 星期三</td><td>Water day (preferred form)</td></tr>
     <tr><td>Hebrew</td><td>יום רביעי (Yom Reviʿi)</td><td>Fourth day</td></tr>
     <tr><td>Arabic</td><td>الأربعاء (al-Arbiʿāʾ)</td><td>The four</td></tr>
-    <tr><td>Russian</td><td>среда (sreda)</td><td>The middle</td></tr>
+    <tr><td>Russian</td><td>Ве́лесник (preferred) / среда</td><td>Day of Veles/Mercury (Slavic restored)</td></tr>
+    <tr><td>Ukrainian</td><td>Велéсник (preferred) / середа</td><td>Day of Veles/Mercury (Ukrainian restored)</td></tr>
     </table>
 
     {% elif weekday.id == "thursday" %}
-    <h2>{{ weekday.symbol }} Thursday — The Day of Jupiter</h2>
+    <h2>{{ weekday.symbol }} {{ preferred_name }} — The Day of Jupiter</h2>
     <p>Thursday is the day of authority. In Akkadian, Jupiter was Marduk, king of the gods. In Greek, the day of Zeus. In Latin, dies Iovis.</p>
     <p>In the Germanic languages, Jupiter was translated as Thor (Þunor) — god of thunder and protection. Thursday comes from Þūnresdæg.</p>
     <h3>Names Across Languages</h3>
@@ -101,14 +110,17 @@
     <tr><td>Spanish</td><td>jueves</td><td>From Jove</td></tr>
     <tr><td>German</td><td>Donnerstag</td><td>Thunder day</td></tr>
     <tr><td>Sanskrit</td><td>Bṛhaspatīvāra</td><td>Day of Jupiter</td></tr>
+    <tr><td>Hindi</td><td>गुरुवार (Guruvār)</td><td>Day of the Guru (Jupiter)</td></tr>
     <tr><td>Japanese</td><td>木曜日 (Mokuyōbi)</td><td>Wood day</td></tr>
+    <tr><td>Chinese</td><td>木曜 (preferred) / 星期四</td><td>Wood day (preferred form)</td></tr>
     <tr><td>Hebrew</td><td>יום חמישי (Yom Chamishi)</td><td>Fifth day</td></tr>
     <tr><td>Arabic</td><td>الخميس (al-Khamīs)</td><td>The five</td></tr>
-    <tr><td>Russian</td><td>четверг (chetverg)</td><td>The fourth</td></tr>
+    <tr><td>Russian</td><td>Перýнник (preferred) / четверг</td><td>Day of Perun/Jupiter (Slavic restored)</td></tr>
+    <tr><td>Ukrainian</td><td>Перу́нник (preferred) / четвер</td><td>Day of Perun/Jupiter (Ukrainian restored)</td></tr>
     </table>
 
     {% elif weekday.id == "friday" %}
-    <h2>{{ weekday.symbol }} Friday — The Day of Venus</h2>
+    <h2>{{ weekday.symbol }} {{ preferred_name }} — The Day of Venus</h2>
     <p>Friday is the day of gathering. In Akkadian, Venus was Inanna/Ishtar — goddess of love, fertility, beauty, and power. In Latin, dies Veneris.</p>
     <p>In the Germanic languages, Venus was translated as Frigg/Freyja — goddess of love. Friday comes from Frīgedæg.</p>
     <p>In the Gaian calendar, Friday is the first of the three Sabbaths.</p>
@@ -121,14 +133,17 @@
     <tr><td>Spanish</td><td>viernes</td><td>From Venus</td></tr>
     <tr><td>German</td><td>Freitag</td><td>From Frigg</td></tr>
     <tr><td>Sanskrit</td><td>Śukravāra</td><td>Day of Venus</td></tr>
+    <tr><td>Hindi</td><td>शुक्रवार (Śukravār)</td><td>Day of Venus</td></tr>
     <tr><td>Japanese</td><td>金曜日 (Kin'yōbi)</td><td>Gold day</td></tr>
+    <tr><td>Chinese</td><td>金曜 (preferred) / 星期五</td><td>Gold day (preferred form)</td></tr>
     <tr><td>Arabic</td><td>الجمعة (al-Jumʿah)</td><td>The gathering</td></tr>
-    <tr><td>Hebrew</td><td>יום שישי (Yom Shishi)</td><td>Sixth day</td></tr>
-    <tr><td>Russian</td><td>пятница (pyatnitsa)</td><td>The fifth</td></tr>
+    <tr><td>Hebrew</td><td>יום חניאל (Yom Haniel)</td><td>Day of Haniel (preferred)</td></tr>
+    <tr><td>Russian</td><td>Ла́дник (preferred) / пятница</td><td>Day of Lada/Venus (Slavic restored)</td></tr>
+    <tr><td>Ukrainian</td><td>Ла́дник (preferred) / пʼятниця</td><td>Day of Lada/Venus (Ukrainian restored)</td></tr>
     </table>
 
     {% elif weekday.id == "saturday" %}
-    <h2>{{ weekday.symbol }} Saturday — The Day of Saturn</h2>
+    <h2>{{ weekday.symbol }} {{ preferred_name }} — The Day of Saturn</h2>
     <p>Saturday is the day of boundary. In Akkadian, Saturn was Ninurta — god of agriculture, endurance, and the limits of labor. In Greek, the day of Kronos, god of time.</p>
     <p>Saturday is the Sabbath. In Hebrew, Shabbat. In Arabic, as-Sabt. Work ceases. Time is set apart.</p>
     <p>In the Gaian calendar, Saturday is the second of the three Sabbaths.</p>
@@ -141,14 +156,17 @@
     <tr><td>Spanish</td><td>sábado</td><td>From Sabbath</td></tr>
     <tr><td>German</td><td>Samstag</td><td>From Sabbath</td></tr>
     <tr><td>Sanskrit</td><td>Śanivāra</td><td>Day of Saturn</td></tr>
+    <tr><td>Hindi</td><td>शनिवार (Śanivār)</td><td>Day of Saturn</td></tr>
     <tr><td>Japanese</td><td>土曜日 (Doyōbi)</td><td>Earth day</td></tr>
+    <tr><td>Chinese</td><td>土曜 (preferred) / 星期六</td><td>Earth day (preferred form)</td></tr>
     <tr><td>Hebrew</td><td>שבת (Shabbat)</td><td>Rest</td></tr>
     <tr><td>Arabic</td><td>السبت (as-Sabt)</td><td>The Sabbath</td></tr>
     <tr><td>Russian</td><td>суббота (subbota)</td><td>From Sabbath</td></tr>
+    <tr><td>Ukrainian</td><td>Сату́рсдень (preferred) / субота</td><td>Saturn's day (Ukrainian restored)</td></tr>
     </table>
 
     {% elif weekday.id == "sunday" %}
-    <h2>{{ weekday.symbol }} Sunday — The Day of the Sun</h2>
+    <h2>{{ weekday.symbol }} {{ preferred_name }} — The Day of the Sun</h2>
     <p>Sunday is the day set apart. In Akkadian, the Sun was Šamaš, god of justice, truth, and judgment. He saw everything.</p>
     <p>In the Germanic languages, the Sun remains: Sunday, Sonntag. In the Romance languages, it became the Lord's Day: dimanche, domingo.</p>
     <p>In the Gaian calendar, Sunday is the third of the three Sabbaths. The week ends here. The world rests. On Monday, it begins again.</p>
@@ -161,10 +179,13 @@
     <tr><td>Spanish</td><td>domingo</td><td>Lord's day</td></tr>
     <tr><td>German</td><td>Sonntag</td><td>Sun day</td></tr>
     <tr><td>Sanskrit</td><td>Ravivāra</td><td>Day of the Sun</td></tr>
+    <tr><td>Hindi</td><td>रविवार (Ravivār)</td><td>Day of the Sun</td></tr>
     <tr><td>Japanese</td><td>日曜日 (Nichiyōbi)</td><td>Sun day</td></tr>
+    <tr><td>Chinese</td><td>日曜 (preferred) / 星期日</td><td>Sun day (preferred form)</td></tr>
     <tr><td>Hebrew</td><td>יום שמש (Yom Shemesh)</td><td>Day of the Sun (preferred)</td></tr>
     <tr><td>Arabic</td><td>يوم شمس (Yawm Shams)</td><td>Day of the Sun (preferred)</td></tr>
     <tr><td>Russian</td><td>воскресенье (voskresénʹye)</td><td>Resurrection</td></tr>
+    <tr><td>Ukrainian</td><td>Сонцедень (preferred) / неділя</td><td>Sun day (Ukrainian restored)</td></tr>
     </table>
     {% endif %}
   </div>
