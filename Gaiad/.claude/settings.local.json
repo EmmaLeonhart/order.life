@@ -13,7 +13,8 @@
       "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && git config http.postBuffer 524288000 && git push origin main --force 2>&1)",
       "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && gh api repos/Emma-Leonhart/Gaiad-and-Literature-work/commits?per_page=3 --jq '.[].sha' 2>&1)",
       "Bash(ssh:*)",
-      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && git config http.lowSpeedLimit 0 && git config http.lowSpeedTime 999999 && git push origin main --force --no-thin 2>&1)"
+      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && git config http.lowSpeedLimit 0 && git config http.lowSpeedTime 999999 && git push origin main --force --no-thin 2>&1)",
+      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && rm -f .git/objects/pack/tmp_pack_* && git gc --aggressive --prune=now 2>&1)"
     ],
     "deny": [],
     "ask": [],
