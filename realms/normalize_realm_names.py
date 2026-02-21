@@ -65,10 +65,10 @@ STRIP_PREFIXES = {
         "freistaat ", "kanton ", "landkreis ",
     ],
     "ru": [
-        "Республика ",
+        "Автономная Республика ", "Республика ",
     ],
     "uk": [
-        "Автономна Республіка ",
+        "Автономна Республіка ", "Республіка ",
     ],
     "pt": [
         "estado do ", "estado de ", "estado da ",
@@ -98,7 +98,7 @@ STRIP_SUFFIXES = {
     ],
     # Ukrainian
     "uk": [
-        " автономна республіка", " область", " округ",
+        " автономна республіка", " область", " округ", " край",
     ],
     # Hindi: transliterated admin words
     "hi": [
@@ -111,6 +111,90 @@ STRIP_SUFFIXES = {
 }
 
 
+def _ru_genitive_word(word: str) -> str:
+    """Approximate Russian genitive for a single word."""
+    if word.endswith("ая"):                                   # feminine adj: Московская → Московской
+        return word[:-2] + "ой"
+    if word.endswith("ская") or word.endswith("цкая"):        # -ская/-цкая → -ской/-цкой
+        return word[:-4] + "ской"
+    if word.endswith("ский") or word.endswith("цкий"):        # masc adj → -ского
+        return word[:-4] + "ского"
+    if word.endswith("ний"):
+        return word[:-3] + "него"
+    for e in ("жий", "чий", "ший", "щий"):
+        if word.endswith(e):
+            return word[:-3] + "его"
+    if word.endswith("а") and len(word) > 1:                  # -а: velar → -и, else → -ы
+        return word[:-1] + ("и" if word[-2] in "гкхжчшщ" else "ы")
+    if word.endswith("я") and len(word) > 1:
+        return word[:-1] + "и"
+    if word.endswith("й"):
+        return word[:-1] + "я"
+    if word and word[-1].lower() in "бвгджзклмнпрстфхцчшщ":   # consonant → add -а
+        return word + "а"
+    return word
+
+
+def _ru_genitive(name: str) -> str:
+    """Decline the last word of a Russian name to genitive."""
+    parts = name.rsplit(None, 1)
+    if len(parts) == 2:
+        last = parts[1]
+        if "-" in last:
+            i = last.rfind("-")
+            last = last[:i + 1] + _ru_genitive_word(last[i + 1:])
+        else:
+            last = _ru_genitive_word(last)
+        return parts[0] + " " + last
+    if "-" in name:
+        i = name.rfind("-")
+        return name[:i + 1] + _ru_genitive_word(name[i + 1:])
+    return _ru_genitive_word(name)
+
+
+def _uk_genitive_word(word: str) -> str:
+    """Approximate Ukrainian genitive for a single word."""
+    if word.endswith("ська"):
+        return word[:-4] + "ської"
+    if word.endswith("цька"):
+        return word[:-4] + "цької"
+    if word.endswith("ський"):
+        return word[:-5] + "ського"
+    if word.endswith("цький"):
+        return word[:-5] + "цького"
+    if word.endswith("а") and len(word) > 1:
+        return word[:-1] + "и"
+    # -ія → -ії, -ея → -еї, other -я → -і
+    if word.endswith("ія") and len(word) > 2:
+        return word[:-2] + "ії"
+    if word.endswith("ея") and len(word) > 2:
+        return word[:-2] + "еї"
+    if word.endswith("я") and len(word) > 1:
+        return word[:-1] + "і"
+    if word.endswith("й"):
+        return word[:-1] + "я"
+    if word and word[-1].lower() in "бвгджзклмнпрстфхцчшщ":
+        return word + "а"
+    return word
+
+
+def _uk_genitive(name: str) -> str:
+    """Decline the last word of a Ukrainian name to genitive."""
+    parts = name.rsplit(None, 1)
+    if len(parts) == 2:
+        last = parts[1]
+        if "-" in last:
+            i = last.rfind("-")
+            last = last[:i + 1] + _uk_genitive_word(last[i + 1:])
+        else:
+            last = _uk_genitive_word(last)
+        return parts[0] + " " + last
+    if "-" in name:
+        i = name.rfind("-")
+        return name[:i + 1] + _uk_genitive_word(name[i + 1:])
+    return _uk_genitive_word(name)
+
+
 def normalize_realm_name(label: str, lang: str) -> str | None:
     """Strip admin qualifiers from a Wikidata label and apply the realm pattern."""
     if not label:
@@ -120,6 +204,12 @@ def normalize_realm_name(label: str, lang: str) -> str | None:
 
     # Strip trailing parentheticals: "(Province)", "(2014-)", "(प्रान्त)"
     name = re.sub(r"\s*\([^)]*\)\s*$", "", name).strip()
+
+    # Russian/Ukrainian: strip em-dash alternate names BEFORE suffix stripping
+    # e.g. "Ханты-Мансийский автономный округ — Югра" → strip "— Югра" first,
+    # then suffix stripping can remove " автономный округ"
+    if lang in ("ru", "uk"):
+        name = re.sub(r"\s*[—–]\s*\S.*$", "", name).strip()
 
     # Strip prefixes (case-insensitive, longest first)
     for prefix in sorted(STRIP_PREFIXES.get(lang, []), key=len, reverse=True):
@@ -133,11 +223,6 @@ def normalize_realm_name(label: str, lang: str) -> str | None:
             name = name[: -len(suffix)].strip()
             break
 
-    # Russian/Ukrainian: strip trailing em-dash alternate names
-    # e.g. "Ханты-Мансийский — Югра" → "Ханты-Мансийский"
-    if lang in ("ru", "uk"):
-        name = re.sub(r"\s*[—–]\s*\S.*$", "", name).strip()
-
     if not name:
         return None
 
@@ -147,6 +232,12 @@ def normalize_realm_name(label: str, lang: str) -> str | None:
         if name[0].lower() in _VOWELS:
             return f"Royaume d\u2019{name}"
         return f"Royaume de {name}"
+
+    # Russian/Ukrainian: put the stripped name in genitive before applying pattern
+    if lang == "ru":
+        name = _ru_genitive(name)
+    elif lang == "uk":
+        name = _uk_genitive(name)
 
     pattern = REALM_PATTERNS.get(lang, "Realm of {name}")
     return pattern.format(name=name)
