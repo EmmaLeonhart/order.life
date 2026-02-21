@@ -15,11 +15,10 @@
     <div class="date-main gaian-date-live"
          data-lang="{{ lang }}"
          data-ge-abbrev="{{ t.gaian_era_abbrev }}"
-         data-base-path="{{ base }}"
-         data-server="1">
+         data-base-path="{{ base }}">
       {{ gaian_today_html | safe }}
     </div>
-    <div class="date-sub">{{ t.today_is }} · {{ preferred_weekday_names[iso_weekday - 1] }} · {{ today_gregorian }}</div>
+    <div id="date-sub" class="date-sub">{{ t.today_is }} · {{ preferred_weekday_names[iso_weekday - 1] }} · {{ today_gregorian }}</div>
     {% if daily_reading_chapter %}
     <a class="daily-reading-link" href="{{ base }}/gaiad/{{ '%03d' % daily_reading_chapter }}/">{{ t.daily_reading }} · {{ t.gaiad }} {{ daily_reading_chapter }}</a>
     {% endif %}
@@ -97,6 +96,27 @@
 
 {% block scripts %}
 <script>
+// Update date-sub to show the user's local date rather than the server's build-time UTC date.
+(function () {
+  var TODAY_IS = {{ t.today_is | tojson }};
+  document.addEventListener('DOMContentLoaded', function () {
+    var sub = document.getElementById('date-sub');
+    if (!sub) return;
+    var now = new Date();
+    var dow = now.getDay() === 0 ? 7 : now.getDay(); // ISO Mon=1..Sun=7
+    var weekday = (window.GAIAN_WEEKDAY_NAMES || [])[dow - 1] || '';
+    var localeMap = { en:'en', ja:'ja', zh:'zh-CN', es:'es', hi:'hi-IN', ar:'ar', fr:'fr', ru:'ru', uk:'uk' };
+    var gregDate;
+    try {
+      gregDate = new Intl.DateTimeFormat(localeMap[{{ lang | tojson }}] || {{ lang | tojson }},
+        { year: 'numeric', month: 'long', day: 'numeric' }).format(now);
+    } catch (e) {
+      gregDate = now.toLocaleDateString();
+    }
+    sub.textContent = TODAY_IS + ' · ' + weekday + ' · ' + gregDate;
+  });
+})();
+
 (function () {
   var SL_BASE = {{ base | tojson }};
   var SL_LANG = {{ lang | tojson }};
