@@ -502,6 +502,8 @@ def generate_wiki_redirects(wiki_pages, languages):
 
     def target_for_lang(lang: str, title: str) -> str:
         safe_title = title.replace(" ", "_")
+        if lang and lang != "en":
+            return f"https://wiki.order.life/{lang}:{safe_title}"
         return f"https://wiki.order.life/{safe_title}"
 
     def write_wiki_tree(wiki_dir: Path, js_prefix_regex: str, lang: str | None):
@@ -555,13 +557,15 @@ def generate_wiki_redirects(wiki_pages, languages):
 
         # Fallback index with JS redirect for unknown pages
         main_target = target_for_lang(lang or "en", "Main_Page")
+        effective_lang = lang or "en"
+        lang_prefix_js = f"{effective_lang}:" if effective_lang != "en" else ""
         (wiki_dir / "index.html").write_text(
             f"""<!DOCTYPE html>
 <html><head><meta charset=\"UTF-8\"><title>Redirecting to Wiki...</title>
 <script>
 var path = window.location.pathname.replace({js_prefix_regex}, '').replace(/\\/$/, '');
 if (!path) path = 'Main_Page';
-var target = 'https://wiki.order.life/' + path;
+var target = 'https://wiki.order.life/{lang_prefix_js}' + path;
 window.location.href = target;
 </script>
 <noscript><meta http-equiv=\"refresh\" content=\"0; url={main_target}\"></noscript>
