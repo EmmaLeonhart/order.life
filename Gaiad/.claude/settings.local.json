@@ -7,7 +7,13 @@
       "Bash(head:*)",
       "Bash(done)",
       "Bash(ls:*)",
-      "Bash(python:*)"
+      "Bash(python:*)",
+      "Bash(cd:*)",
+      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && git push origin main --force 2>&1)",
+      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && git config http.postBuffer 524288000 && git push origin main --force 2>&1)",
+      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && gh api repos/Emma-Leonhart/Gaiad-and-Literature-work/commits?per_page=3 --jq '.[].sha' 2>&1)",
+      "Bash(ssh:*)",
+      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && git config http.lowSpeedLimit 0 && git config http.lowSpeedTime 999999 && git push origin main --force --no-thin 2>&1)"
     ],
     "deny": [],
     "ask": [],
