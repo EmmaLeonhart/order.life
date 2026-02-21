@@ -171,15 +171,15 @@ function renderPicker() {
   renderPickerMonthSelector();
 
   for (let d = 1; d <= dim; d++) {
-    const cell = document.createElement('a');
+    const cell = document.createElement('div');
     const doy = pickerMonth <= 13 ? (pickerMonth-1)*28+d : 364+d;
     cell.className = 'day-cell';
+    cell.style.cursor = 'pointer';
     if (d === pickerSelectedDay) cell.style.background = 'linear-gradient(135deg, var(--accent), var(--accent-dark))';
     if (d === pickerSelectedDay) cell.style.color = '#1a1a2e';
     if (today.year === pickerYear && today.month === pickerMonth && today.day === d) {
       cell.style.border = '2px solid var(--success)';
     }
-    cell.href = BASE + '/calendar/' + m.id + '/' + String(d).padStart(2,'0') + '/';
     cell.innerHTML = '<span class="day-number">' + d + '</span>' +
       (doy <= 364 ? '<span class="day-chapter" style="font-size:0.55em;color:var(--text-dim);margin-top:1px;">' + doy + '</span>' : '');
     cell.onclick = function() { selectPickerDay(d); };
