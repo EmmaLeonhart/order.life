@@ -42,7 +42,7 @@
         <a href="{{ base }}/evolution/">{{ t.nav.evolution }}</a>
         <a href="{{ base }}/fudoki/">Realms</a>
         <a href="{{ base }}/map/">Map</a>
-        <a href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}{{ base }}/wiki{{ path_suffix }}{% else %}{{ base }}/wiki/Main_Page/{% endif %}">{{ t.nav.wiki }}</a>
+        <a href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}https://wiki.order.life{{ path_suffix }}{% else %}https://wiki.order.life/Main_Page/{% endif %}">{{ t.nav.wiki }}</a>
       </div>
       <div class="nav-right">
         <a class="discord-link" href="https://discord.gg/nSD5hZCu2u" target="_blank" rel="noopener" aria-label="Discord">
@@ -70,13 +70,13 @@
         <div class="wiki-cta-subtitle">Help improve this page on the wiki.</div>
       </div>
       <a id="wikiCtaLink" class="wiki-cta-btn"
-         href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}{{ base }}/wiki{{ path_suffix }}{% else %}{{ base }}/wiki/Main_Page/{% endif %}">Go to the wiki page</a>
+         href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}https://wiki.order.life{{ path_suffix }}{% else %}https://wiki.order.life/Main_Page/{% endif %}">Go to the wiki page</a>
     </div>
   </div>
 
   <footer>
     <p>{{ t.religion_kanji }} · {{ t.religion_name }} · {{ t.site_title }}</p>
-    <p><a href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}{{ base }}/wiki{{ path_suffix }}{% else %}{{ base }}/wiki/Main_Page/{% endif %}">{{ t.nav.wiki }}</a></p>
+    <p><a href="{% if path_suffix and not path_suffix.startswith('/calendar/') %}https://wiki.order.life{{ path_suffix }}{% else %}https://wiki.order.life/Main_Page/{% endif %}">{{ t.nav.wiki }}</a></p>
   </footer>
 
   {% block scripts %}{% endblock %}
@@ -158,7 +158,7 @@ function updateWikiCta() {
     if (!el) return;
     const langBase = window.LANG_BASE || '';
     const title = computeLocalWikiTitle(window.location.pathname, langBase);
-    el.href = `${langBase}/wiki/${title}/`;
+    el.href = `https://wiki.order.life/${title}/`;
   } catch (e) {
     // best-effort; keep the server-rendered href
     console && console.warn && console.warn('wiki cta update failed', e);
