@@ -21,8 +21,7 @@
         lang = 'en'; title = m[1];
       }
       title = title.replace(/\/$/, '') || 'Main_Page';
-      var prefix = (lang && lang !== 'en') ? lang + ':' : '';
-      window.location.replace('https://lifeism.miraheze.org/wiki/' + prefix + title);
+      window.location.replace('https://lifeism.miraheze.org/wiki/' + title);
     }
   })();
   </script>

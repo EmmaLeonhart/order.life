@@ -130,23 +130,37 @@ nav .nav-right {
   gap: 8px;
 }
 
-.lang-switcher {
+.discord-link {
   display: flex;
-  gap: 4px;
-}
-
-.lang-switcher a {
-  padding: 4px 8px;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
   border-radius: 4px;
-  font-size: 0.75em;
-  color: var(--text-dim);
-  border: 1px solid transparent;
+  font-size: 0.8em;
+  color: #7289da;
+  border: 1px solid rgba(114,137,218,0.3);
+  white-space: nowrap;
+}
+.discord-link:hover {
+  background: rgba(114,137,218,0.12);
+  color: #7289da;
 }
 
-.lang-switcher a:hover,
-.lang-switcher a.active {
+.lang-switcher select {
+  background: var(--bg-card);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 4px 8px;
+  font-size: 0.8em;
+  cursor: pointer;
+  font-family: var(--font-main);
+}
+.lang-switcher select:hover,
+.lang-switcher select:focus {
   border-color: var(--border-accent);
   color: var(--accent);
+  outline: none;
 }
 
 /* Mobile nav toggle */
