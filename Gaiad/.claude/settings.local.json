@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for file in chapter_0{31..062}_notes.md chapter_{063..129}_notes.md chapter_{225..252}_notes.md chapter_{329..364}_notes.md)",
+      "Bash(do:*)",
+      "Bash(echo:*)",
+      "Bash(head:*)",
+      "Bash(done)",
+      "Bash(ls:*)",
+      "Bash(python:*)",
+      "Bash(cd:*)",
+      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && git push origin main --force 2>&1)",
+      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && git config http.postBuffer 524288000 && git push origin main --force 2>&1)",
+      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && gh api repos/Emma-Leonhart/Gaiad-and-Literature-work/commits?per_page=3 --jq '.[].sha' 2>&1)",
+      "Bash(ssh:*)",
+      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && git config http.lowSpeedLimit 0 && git config http.lowSpeedTime 999999 && git push origin main --force --no-thin 2>&1)",
+      "Bash(cd /c/Users/Immanuelle/Documents/Github/Gaiad && rm -f .git/objects/pack/tmp_pack_* && git gc --aggressive --prune=now 2>&1)"
+    ],
+    "deny": [],
+    "ask": [],
+    "defaultMode": "acceptEdits",
+    "additionalDirectories": [
+      "C:\\Users\\Immanuelle\\Documents\\Github"
+    ]
+  }
+}
