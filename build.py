@@ -193,7 +193,7 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
         month_disp = RU_MONTH_GEN.get(month_id, month_nom)
         return (
             f"{weekday_symbol}{month_symbol} "
-            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>, "
+            f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>, "
             f"{day}-й день <a href='{b}/calendar/{month_id}/'>{month_disp}</a>, "
             f"<a href='{b}/calendar/12026/'>{year}</a> года "
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
@@ -202,7 +202,7 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
         month_disp = UK_MONTH_GEN.get(month_id, month_nom)
         return (
             f"{weekday_symbol}{month_symbol} "
-            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>, "
+            f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>, "
             f"{day}-й день <a href='{b}/calendar/{month_id}/'>{month_disp}</a>, "
             f"<a href='{b}/calendar/12026/'>{year}</a> року "
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
@@ -215,7 +215,7 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a> "
             f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>"
             f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
-            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>）"
+            f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>）"
         )
     if lang == "zh":
         month_disp = month_nom
@@ -225,13 +225,13 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a> "
             f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>"
             f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
-            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>）"
+            f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>）"
         )
     if lang == "ar":
         month_disp = month_nom
         return (
             f"{weekday_symbol}{month_symbol} "
-            f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>، "
+            f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>، "
             f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a> "
             f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>، "
             f"<a href='{b}/calendar/12026/'>{year}</a> "
@@ -242,7 +242,7 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
     month_disp = month_nom
     return (
         f"{weekday_symbol}{month_symbol} "
-        f"<a href='{b}/week/{iso_weekday}/'>{weekday}</a>, "
+        f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>, "
         f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a> "
         f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>, "
         f"<a href='{b}/calendar/12026/'>{year}</a> "
@@ -888,19 +888,24 @@ def build_site():
             wd_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, "calendar/weekday.html", wd_dir / "index.html", {**ctx, "weekday": wd})
 
-        # Also generate shorthand aliases: /{lang}/week/ and /{lang}/week/<N>/
+        # Shorthand /week/* redirects → /calendar/week/*
+        def week_redirect(target: str) -> str:
+            return (f'<!DOCTYPE html><html><head><meta charset="UTF-8">'
+                    f'<meta http-equiv="refresh" content="0; url={target}">'
+                    f'<script>window.location.replace({target!r});</script>'
+                    f'</head><body></body></html>')
         week_short_dir = lang_dir / "week"
         week_short_dir.mkdir(parents=True, exist_ok=True)
-        render_page(env, "calendar/week-index.html", week_short_dir / "index.html", {**ctx})
+        (week_short_dir / "index.html").write_text(week_redirect(f"{base}/calendar/week/"), encoding="utf-8")
         for wd in WEEKDAYS:
-            # /week/<id>/
+            # /week/<id>/ → /calendar/week/<id>/
             wd_short_dir = week_short_dir / wd["id"]
             wd_short_dir.mkdir(parents=True, exist_ok=True)
-            render_page(env, "calendar/weekday.html", wd_short_dir / "index.html", {**ctx, "weekday": wd})
-            # /week/<num>/
+            (wd_short_dir / "index.html").write_text(week_redirect(f"{base}/calendar/week/{wd['id']}/"), encoding="utf-8")
+            # /week/<num>/ → /calendar/week/<num>/
             num_dir = week_short_dir / str(wd["num"])
             num_dir.mkdir(parents=True, exist_ok=True)
-            render_page(env, "calendar/weekday.html", num_dir / "index.html", {**ctx, "weekday": wd})
+            (num_dir / "index.html").write_text(week_redirect(f"{base}/calendar/week/{wd['num']}/"), encoding="utf-8")
 
         # ── Month pages ──
         for m in MONTHS:

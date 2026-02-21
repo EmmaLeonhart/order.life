@@ -132,9 +132,9 @@ function computeLocalWikiTitle(pathname, langBase) {
     return `${monthWiki}`;
   }
 
-  // Week pages (aliases)
-  if (path === '/week/') return 'week';
-  const weekNum = path.match(/^\/week\/(\d)\/$/);
+  // Week pages
+  if (path === '/calendar/week/') return 'week';
+  const weekNum = path.match(/^\/calendar\/week\/(\d+)\/$/);
   if (weekNum) {
     const n = parseInt(weekNum[1], 10);
     return `week/${n}`;
