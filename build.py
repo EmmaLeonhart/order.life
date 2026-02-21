@@ -889,28 +889,28 @@ def build_site():
         week_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "calendar/week-index.html", week_dir / "index.html", {**ctx})
         for wd in WEEKDAYS:
-            # Canonical: /calendar/week/<id>/
-            wd_dir = week_dir / wd["id"]
-            wd_dir.mkdir(parents=True, exist_ok=True)
-            render_page(env, "calendar/weekday.html", wd_dir / "index.html", {**ctx, "weekday": wd})
-            # Numeric alias: /calendar/week/<num>/ → /calendar/week/<id>/
+            # Canonical: /calendar/week/<num>/
             num_dir = week_dir / str(wd["num"])
             num_dir.mkdir(parents=True, exist_ok=True)
-            (num_dir / "index.html").write_text(week_redirect(f"{base}/calendar/week/{wd['id']}/"), encoding="utf-8")
+            render_page(env, "calendar/weekday.html", num_dir / "index.html", {**ctx, "weekday": wd})
+            # Slug alias: /calendar/week/<id>/ → /calendar/week/<num>/
+            wd_dir = week_dir / wd["id"]
+            wd_dir.mkdir(parents=True, exist_ok=True)
+            (wd_dir / "index.html").write_text(week_redirect(f"{base}/calendar/week/{wd['num']}/"), encoding="utf-8")
 
-        # Shorthand /week/* redirects → /calendar/week/<id>/
+        # Shorthand /week/* redirects → /calendar/week/<num>/
         week_short_dir = lang_dir / "week"
         week_short_dir.mkdir(parents=True, exist_ok=True)
         (week_short_dir / "index.html").write_text(week_redirect(f"{base}/calendar/week/"), encoding="utf-8")
         for wd in WEEKDAYS:
-            # /week/<id>/ → /calendar/week/<id>/
-            wd_short_dir = week_short_dir / wd["id"]
-            wd_short_dir.mkdir(parents=True, exist_ok=True)
-            (wd_short_dir / "index.html").write_text(week_redirect(f"{base}/calendar/week/{wd['id']}/"), encoding="utf-8")
-            # /week/<num>/ → /calendar/week/<id>/
+            # /week/<num>/ → /calendar/week/<num>/
             num_dir = week_short_dir / str(wd["num"])
             num_dir.mkdir(parents=True, exist_ok=True)
-            (num_dir / "index.html").write_text(week_redirect(f"{base}/calendar/week/{wd['id']}/"), encoding="utf-8")
+            (num_dir / "index.html").write_text(week_redirect(f"{base}/calendar/week/{wd['num']}/"), encoding="utf-8")
+            # /week/<id>/ → /calendar/week/<num>/
+            wd_short_dir = week_short_dir / wd["id"]
+            wd_short_dir.mkdir(parents=True, exist_ok=True)
+            (wd_short_dir / "index.html").write_text(week_redirect(f"{base}/calendar/week/{wd['num']}/"), encoding="utf-8")
 
         # ── Month pages ──
         for m in MONTHS:
