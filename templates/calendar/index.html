@@ -55,6 +55,16 @@
       <p>{{ p | safe }}</p>
     {% endfor %}
 
+    <div class="month-grid week-grid" style="margin-top: 1.5rem;">
+      {% for wd in weekdays_data %}
+      <a href="{{ base }}/calendar/week/{{ wd.num }}/" class="month-card week-card" style="text-decoration:none; color:inherit;">
+        <div class="month-symbol">{{ wd.symbol }}</div>
+        <div class="month-name">{{ preferred_weekday_names[wd.num - 1] }}</div>
+        <div class="month-info">{{ wd.planet }}</div>
+      </a>
+      {% endfor %}
+    </div>
+
     <h2>{{ t.calendar_overview_page.scripture_title }}</h2>
     {% for p in t.calendar_overview_page.scripture_p %}
       <p>{{ p }}</p>
@@ -84,19 +94,6 @@
   <div class="text-center mt-40">
     <a class="btn" href="{{ base }}/calendar/datepicker">{{ t.nav.datepicker }}</a>
     <a class="btn" href="{{ base }}/calendar/gaian-era" style="margin-left: 10px;">{{ t.gaian_era }}</a>
-  </div>
-
-  <h2 class="text-center mt-40 mb-20" style="color: var(--accent);">{{ t.calendar_week_index_page.title }}</h2>
-  <p class="text-center mb-20" style="color: var(--text-muted);">{{ t.calendar_week_index_page.hero_subtitle }}</p>
-
-  <div class="month-grid week-grid">
-    {% for wd in weekdays_data %}
-    <a href="{{ base }}/calendar/week/{{ wd.num }}/" class="month-card week-card" style="text-decoration:none; color:inherit;">
-      <div class="month-symbol">{{ wd.symbol }}</div>
-      <div class="month-name">{{ preferred_weekday_names[wd.num - 1] }}</div>
-      <div class="month-info">{{ wd.planet }}</div>
-    </a>
-    {% endfor %}
   </div>
 
   <div class="quick-links fade-in-up">
