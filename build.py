@@ -6,6 +6,7 @@ Uses Jinja2 templates, outputs to site/{lang}/ directories.
 """
 
 import csv
+import datetime
 import io
 import os
 import re
@@ -874,13 +875,22 @@ def build_site():
         render_page(env, "calendar/gaian-era.html", ge_dir / "index.html", ctx)
 
         # Year pages — canonical URL: /calendar/year/{gaian_year}/
-        YEAR_RANGE = range(12020, 12041)
+        # Pre-generate current Gaian year ±10; all other years are served
+        # dynamically via the 404.html client-side router.
+        _today      = datetime.date.today()
+        _iso_year   = _today.isocalendar()[0]  # ISO week-year
+        _cur_gaian  = _iso_year + 10000
+        YEAR_RANGE  = range(_cur_gaian - 10, _cur_gaian + 11)
         year_dir_root = cal_dir / "year"
         year_dir_root.mkdir(parents=True, exist_ok=True)
         for gaian_year in YEAR_RANGE:
             ydir = year_dir_root / str(gaian_year)
             ydir.mkdir(parents=True, exist_ok=True)
             render_page(env, "calendar/year.html", ydir / "index.html",
+                        {**ctx, "display_year": gaian_year})
+            fdir = ydir / "festivals"
+            fdir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "calendar/year-festivals.html", fdir / "index.html",
                         {**ctx, "display_year": gaian_year})
             # Redirect old URL /{lang}/calendar/{year}/ → new canonical
             old_dir = cal_dir / str(gaian_year)

@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}{{ display_year }} {{ t.gaian_era_abbrev }} — Festivals{% endblock %}
+{% block meta_description %}World festival calendar for {{ display_year }} {{ t.gaian_era_abbrev }}: Jewish, Christian, Islamic, Chinese, and Hindu observances mapped onto the Gaian year.{% endblock %}
+{% block og_title %}{{ display_year }} {{ t.gaian_era_abbrev }} — Festivals{% endblock %}
+{% block og_description %}World festival calendar for {{ display_year }} {{ t.gaian_era_abbrev }}.{% endblock %}
+{% block twitter_title %}{{ display_year }} {{ t.gaian_era_abbrev }} — Festivals{% endblock %}
+{% block twitter_description %}World festival calendar for {{ display_year }} {{ t.gaian_era_abbrev }}.{% endblock %}
+
+{% block head %}
+<script>const GAIAN_YEAR = {{ display_year }};</script>
+<link rel="stylesheet" href="/static/css/year-festivals.css">
+{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1 id="year-heading">{{ display_year }} {{ t.gaian_era_abbrev }} — Festivals</h1>
+  <p id="year-subheading" style="color:var(--text-muted);font-size:0.9rem">World calendar relationships</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
+    <span>›</span>
+    <a href="{{ base }}/calendar/year/{{ display_year }}/">{{ display_year }}</a>
+    <span>›</span>
+    Festivals
+  </div>
+
+  <div id="year-intro" class="year-intro">
+    <p style="color:var(--text-muted)">Loading…</p>
+  </div>
+
+  <div id="year-calendar"></div>
+
+  <div class="fest-legend">
+    <div class="fest-legend-item"><span class="leg-dot" style="background:#aaa"></span> Full moon</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#cc3333"></span> Chinese New Year → Lantern Festival</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#3a6dbf"></span> Purim → Sukkot (Jewish sequence)</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#88aaee"></span> Hanukkah</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#cc6600"></span> Ash Wednesday → Pentecost (Christian)</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#228855"></span> Ramadan → Eid al-Fitr · Eid al-Adha</div>
+    <div class="fest-legend-item"><span class="leg-dot" style="background:#9933bb"></span> Diwali</div>
+  </div>
+
+  <p class="fest-note">Islamic dates are calculated and may differ by ±1–2 days from announced dates
+  depending on regional moon sighting. Jewish dates from 2027 onward are estimated via the 19-year Metonic cycle.</p>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/year-festivals.js"></script>
+{% endblock %}

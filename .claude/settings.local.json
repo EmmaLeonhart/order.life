@@ -48,7 +48,11 @@
       "Bash(git:*)",
       "Bash(tail:*)",
       "Bash(node:*)",
-      "WebFetch(domain:wiki.order.life)"
+      "WebFetch(domain:wiki.order.life)",
+      "Bash(gh repo:*)",
+      "Bash(gh repo view Emma-Leonhart/order.life --json defaultBranchRef,homepageUrl 2>&1 && gh api repos/Emma-Leonhart/order.life/pages 2>&1 && gh run list --repo Emma-Leonhart/order.life --limit 5 2>&1)",
+      "Bash(echo curl failed:*)",
+      "WebFetch(domain:api.github.com)"
     ]
   }
 }
