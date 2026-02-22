@@ -1,43 +1,119 @@
-# Year Page TODO
+# order.life TODO
 
-## Goal
-Compact year calendar table, one row per Gaian month (not one row per day).
-Modelled on https://wiki.order.life/wiki/Template:Gaian_calendar
+---
 
-## Table layout
-- **Rows**: one per Gaian month (13 rows normally, 14 rows in a 53-week/Horus year)
-- **Columns**: month name/symbol | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Mon | ... (weekday header repeats 4 times across = 28 day columns total)
-- **Each cell**: just the day number (1–28), no extra text
-- **Hover tooltip** (`title` attr): shows Gregorian date for that cell (e.g. "Mon 29 Dec 2025")
-- **Cell link**: clicking the number goes to the Gaian day page (`/calendar/sagittarius/01/`)
-- **Horus row** (only in 53-week years): 7 filled cells, remaining 21 cells grayed/empty
+## ✅ Year Page (complete)
+Compact year table, 1 row per Gaian month × 28 day columns, JS-driven.
+Year/month and year/day sub-pages also implemented.
 
-## Styling
-- Sabbath columns (Fri/Sat/Sun = every 5th/6th/7th col in each week group): subtle gold tint
-- Easter cell: highlighted distinctly (amber/orange)
-- Horus trailing empty cells: dark/grayed background
-- Table scrollable horizontally on small screens (overflow-x: auto)
+---
 
-## Prose intro (above the table)
-Full sentence giving:
-- Gregorian start date of the Gaian year (e.g. "Monday 29 December 2025")
-- Gregorian end date (e.g. "Sunday 3 January 2027")
-- Whether it's a 53-week year (includes Horus) or 52-week year
-- Easter date in both Gregorian and Gaian (e.g. "Easter: Sun 5 Apr 2026 = Pisces 14")
+## ⏳ iCal Calendars — Phase 1 (implement now)
 
-## Wiki link
-Dynamic link to `https://wiki.order.life/wiki/{GAIAN_YEAR}_GE`
+### Goal
+Generate static subscribable `.ics` files as part of every CI/CD build.
 
-## Implementation notes
-- Everything JS-driven (year-page.js); page shell is static HTML with `<div id="year-calendar">`
-- GAIAN_YEAR constant injected by Jinja2: `<script>const GAIAN_YEAR = {{ display_year }};</script>`
-- Years 12020–12040 are pre-generated at `/calendar/year/{year}/`
-- Old `/calendar/{year}/` URLs redirect to new canonical path
+### Output files (root-level, language-agnostic)
+| URL | Description |
+|-----|-------------|
+| `/calendar/ical/current.ics` | Current GE year ± 2 + adjacent Gregorian year safety buffer |
+| `/calendar/ical/gaian-holidays-extended.ics` | Gaian years 12000–12040 (Gregorian 2000–2040) |
 
-## Current status (as of Feb 2026)
-- URL structure: DONE (`/calendar/year/12026/` etc.)
-- Build loop: DONE (21 years generated)
-- Redirect: DONE
-- JS file: EXISTS but currently renders WRONG layout (1 row per day, not 1 row per month)
-  → Need to rewrite `buildYearCalendar()` in `static/js/year-page.js`
-- year.html template: mostly correct shell, may need tweaks
+Both written to `site/calendar/ical/` (root, not under a lang prefix).
+
+### current.ics year range logic
+- Build-time current Gaian year = ISO week-year + 10000
+- Include GE years: (current_GE − 2) through (current_GE + 2)
+- This safely covers the Gregorian/Gaian boundary regardless of when in the year the build runs
+
+### All-day event format
+```
+DTSTART;VALUE=DATE:YYYYMMDD
+DTEND;VALUE=DATE:YYYYMMDD   ← next calendar day (iCal exclusive end)
+SUMMARY:Holiday Name
+DESCRIPTION:Gaian date: Month Day\, Year GE
+UID:gaian-YYYY-MM-DD-slug@order.life
+```
+No TZID needed — DATE type events are inherently timezone-free.
+
+### Fixed holidays (computed per year by converting Gaian date → Gregorian)
+These are included in both files:
+
+| Gaian date | Event |
+|-----------|-------|
+| Sagittarius 1 | New Year's Day (Aster Day) |
+| Sagittarius 8 | Coming of Age Day |
+| Capricorn 7 | Groundhog Day |
+| Capricorn 14 | Valentine's Day · Lupercalia |
+| Capricorn 21 | Kinen-sai |
+| Capricorn 28 | Lantern Festival |
+| Aquarius 7 | Hinamatsuri |
+| Aquarius 21 | Kōrei-sai · Ides of March · St Patrick's Day |
+| Aries 14 | Cinco de Mayo |
+| Gemini 14 | Nagoshi no Ōharai |
+| Gemini 21 | Tanabata |
+| Gemini 28 | Bastille Day |
+| Cancer 28 | Qixi |
+| Leo 14 | Alolalia |
+| Virgo 12 | Mid-Autumn Festival |
+| Virgo 14 | Shindensai |
+| Libra 1 | Japan Sports Day |
+| Ophiuchus 21 | Christmas Day · Dongzhi Festival |
+| Horus 1 | Birth of Osiris *(leap years only)* |
+| Horus 2 | Birth of Horus *(leap years only)* |
+| Horus 3 | Birth of Set *(leap years only)* |
+| Horus 4 | Birth of Isis *(leap years only)* |
+| Horus 5 | Birth of Nephthys · Sabbath *(leap years only)* |
+| Horus 7 | New Year's Eve *(leap years only)* |
+
+### Moveable feasts — Christian season (included because calendar-linked)
+Computed per year from Easter (Meeus-Jones-Butcher algorithm):
+
+| Offset from Easter | Event |
+|--------------------|-------|
+| −46 days | Ash Wednesday (start of Lent) |
+| −7 days | Palm Sunday |
+| −2 days | Good Friday |
+| −1 day | Holy Saturday |
+| 0 | Easter Sunday |
+| +39 days | Ascension Thursday |
+| +49 days | Pentecost |
+
+**NOT included:** Islamic calendar events, Jewish holidays (too divergent from Gaian calendar logic).
+
+### Implementation location
+- New function `generate_ical_files(site_dir)` added to `build.py`
+- Called once at the end of `build_site()`, writing directly to `site/calendar/ical/`
+- Easter computed via Python port of the same Meeus-Jones-Butcher algorithm used in `year-page.js`
+- Gaian date → Gregorian date via ISO week arithmetic (same logic as `gregorian_to_gaian()` inverse)
+
+---
+
+## 📋 iCal Calendars — Phase 2 (future)
+
+- `site/calendar/ical/gaian-detailed.ics` — all 364/371 days as labeled events
+- Each day: Gaian date, Gaiad chapter number, element, weekday, any festival note
+- Add a `/calendar/ical/` index page with subscribe links + instructions for Google/Apple/Outlook
+
+---
+
+## 📋 Programmatic Day Descriptions — Phase 3 (future, major feature)
+
+Used in: `/calendar/year/{Y}/{MM}/{DD}/` pages AND detailed `.ics` descriptions.
+
+### Algorithm inputs per day
+- Gaian date (month, day, year GE)
+- Gregorian date (for that specific year)
+- Gaiad chapter number and theme (from `MONTH_THEMES`)
+- Season / element context
+- Fixed and moveable holidays on that day
+- Cross-calendar notes (e.g. "Lent and Ramadan overlap this year in Aquarius–Pisces")
+- Scheduled Lifeism events (from a curated JSON, TBD)
+
+### Output
+Short paragraph (2–4 sentences) rendered in the day page description and `.ics` event body.
+
+### Data sources TBD
+- Curated `content/day-events.json` keyed by `{month_num}/{day_num}` for recurring events
+- Per-year JSON for scheduled events and notable overlaps
+- Cross-calendar coincidence detection in build.py (e.g. detect Lent/Ramadan overlap for a given year)
