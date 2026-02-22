@@ -48,6 +48,24 @@
   width: 220px;
 }
 .map-search input::placeholder { color: #666; }
+.map-shrine-toggle {
+  position: fixed;
+  top: 115px;
+  right: 15px;
+  z-index: 1000;
+  background: rgba(26,26,46,0.95);
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  color: #e0e0e0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  user-select: none;
+}
+.map-shrine-toggle input { cursor: pointer; accent-color: #e8503a; }
 .map-search-results {
   background: rgba(26,26,46,0.95);
   border: 1px solid #333;
@@ -75,6 +93,9 @@
   <input type="text" id="map-search-input" placeholder="Search realms..." autocomplete="off">
   <div class="map-search-results" id="map-search-results"></div>
 </div>
+<label class="map-shrine-toggle">
+  <input type="checkbox" id="shrine-toggle"> Shrines
+</label>
 {% endblock %}
 
 {% block scripts %}
@@ -117,8 +138,8 @@
   function updateStatus() {
     statusEl.textContent = 'Loaded ' + loaded + ' / ' + total + ' realms · Good: ' + goodCount;
     if (loaded >= total) {
-      statusEl.textContent = total + ' realms loaded · loading shrines...';
-      loadShrines();
+      statusEl.textContent = total + ' realms loaded';
+      setTimeout(function() { statusEl.style.opacity = '0'; }, 2000);
     }
   }
 
@@ -226,14 +247,15 @@
 
   // ── Shinto shrine markers ──────────────────────────────────
   var shrinesLoaded = false;
+  var shrineLayer = null;
 
-  function loadShrines() {
-    if (shrinesLoaded) return;
+  function loadShrines(cb) {
+    if (shrinesLoaded) { if (cb) cb(); return; }
     shrinesLoaded = true;
     fetch('/static/shrines.json')
       .then(function(r) { return r.json(); })
       .then(function(data) {
-        var shrineLayer = L.layerGroup().addTo(map);
+        shrineLayer = L.layerGroup();
         data.forEach(function(s) {
           var lat = s[0], lon = s[1], label = s[2], qid = s[3];
           var marker = L.circleMarker([lat, lon], {
@@ -251,15 +273,24 @@
           );
           shrineLayer.addLayer(marker);
         });
-        statusEl.textContent = total + ' realms · ' + data.length + ' shrines loaded';
-        setTimeout(function() { statusEl.style.opacity = '0'; }, 2000);
+        if (cb) cb();
       })
       .catch(function(e) {
         console.warn('Could not load shrines.json', e);
-        statusEl.textContent = total + ' realms loaded';
-        setTimeout(function() { statusEl.style.opacity = '0'; }, 2000);
+        shrinesLoaded = false;
       });
   }
+
+  var shrineToggle = document.getElementById('shrine-toggle');
+  shrineToggle.addEventListener('change', function() {
+    if (this.checked) {
+      loadShrines(function() {
+        if (shrineLayer) shrineLayer.addTo(map);
+      });
+    } else {
+      if (shrineLayer) map.removeLayer(shrineLayer);
+    }
+  });
 })();
 </script>
 {% endblock %}
