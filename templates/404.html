@@ -23,11 +23,13 @@
     }
 
     // 2. Year / festivals pages — set globals now, do DOM work after load
-    var mYear = p.match(/^\/([a-z]{2})\/calendar\/year\/(\d+)\/(festivals\/)?$/);
+    // English pages have no /en/ prefix; other languages do.
+    var mYear = p.match(/^\/([a-z]{2})\/calendar\/year\/(\d+)\/(festivals\/)?$/)
+             || p.match(/^\/calendar\/year\/(\d+)\/(festivals\/)?$/);
     if (mYear) {
-      var lang   = mYear[1];
-      var year   = parseInt(mYear[2], 10);
-      var isFest = !!mYear[3];
+      var lang   = mYear.length === 4 ? mYear[1] : 'en';
+      var year   = parseInt(mYear.length === 4 ? mYear[2] : mYear[1], 10);
+      var isFest = !!(mYear.length === 4 ? mYear[3] : mYear[2]);
 
       if (!year || year < 1 || year > 999999) return;
 
