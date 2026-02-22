@@ -84,7 +84,7 @@ function updateLiveGaianDate() {
     const weekdayLink = `<a href="${basePath}/week/${weekdayNum}/">${weekdayText}</a>`;
     const monthLink = `<a href="${basePath}/calendar/${today.monthData.id}">${monthName}</a>`;
     const dayLink = `<a href="${basePath}/calendar/${today.monthData.id}/${String(today.day).padStart(2,'0')}">${today.day}</a>`;
-    const yearLink = `<a href="${basePath}/calendar/12026">${today.year}</a>`;
+    const yearLink = `<a href="${basePath}/calendar/year/${today.year}/">${today.year}</a>`;
     const geLink = `<a href="${basePath}/calendar/gaian-era">${geAbbrev}</a>`;
 
     el.innerHTML = `${weekdaySymbol}${today.monthData.symbol} ${weekdayLink}, ${monthLink} ${dayLink}, ${yearLink} ${geLink}`;

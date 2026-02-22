@@ -36,7 +36,7 @@ SITE_DIR = SCRIPT_DIR / "site"
 SITE_TMP_DIR = SCRIPT_DIR / "site_tmp"
 TEMPLATES_DIR = SCRIPT_DIR / "templates"
 CONTENT_DIR = SCRIPT_DIR / "content"
-EPIC_DIR = SCRIPT_DIR / "epic"
+EPIC_DIR = SCRIPT_DIR / "Gaiad" / "epic"
 DEFAULT_LANG = "en"  # English pages live at site root (no /en/ prefix)
 
 try:
@@ -873,11 +873,24 @@ def build_site():
         ge_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "calendar/gaian-era.html", ge_dir / "index.html", ctx)
 
-        # Year page
-        year_dir = cal_dir / "12026"
-        year_dir.mkdir(parents=True, exist_ok=True)
-        render_page(env, "calendar/year.html", year_dir / "index.html",
-                    {**ctx, "display_year": 12026})
+        # Year pages — canonical URL: /calendar/year/{gaian_year}/
+        YEAR_RANGE = range(12020, 12041)
+        year_dir_root = cal_dir / "year"
+        year_dir_root.mkdir(parents=True, exist_ok=True)
+        for gaian_year in YEAR_RANGE:
+            ydir = year_dir_root / str(gaian_year)
+            ydir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "calendar/year.html", ydir / "index.html",
+                        {**ctx, "display_year": gaian_year})
+            # Redirect old URL /{lang}/calendar/{year}/ → new canonical
+            old_dir = cal_dir / str(gaian_year)
+            old_dir.mkdir(parents=True, exist_ok=True)
+            target = f"{base}/calendar/year/{gaian_year}/"
+            (old_dir / "index.html").write_text(
+                f'<!DOCTYPE html><html><head><meta charset="UTF-8">'
+                f'<meta http-equiv="refresh" content="0; url={target}">'
+                f'<script>window.location.replace({target!r});</script>'
+                f'</head><body></body></html>', encoding="utf-8")
 
         # ── Weekday pages ──
         def week_redirect(target: str) -> str:

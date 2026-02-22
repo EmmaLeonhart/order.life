@@ -1,15 +1,30 @@
 {% extends "base.html" %}
 {% block title %}{{ display_year }} {{ t.gaian_era_abbrev }} — {{ t.calendar_page.title }}{% endblock %}
-{% block meta_description %}{{ t.calendar_page.title }} for {{ display_year }} {{ t.gaian_era_abbrev }}. {{ t.calendar_page.structure }}{% endblock %}
+{% block meta_description %}Full-year Gaian calendar for {{ display_year }} {{ t.gaian_era_abbrev }} with Gregorian dates, weekdays, and Gaiad chapters.{% endblock %}
 {% block og_title %}{{ display_year }} {{ t.gaian_era_abbrev }} — {{ t.calendar_page.title }}{% endblock %}
-{% block og_description %}{{ t.calendar_page.title }} for {{ display_year }} {{ t.gaian_era_abbrev }}. {{ t.calendar_page.structure }}{% endblock %}
+{% block og_description %}Full-year Gaian calendar for {{ display_year }} {{ t.gaian_era_abbrev }} with Gregorian dates, weekdays, and Gaiad chapters.{% endblock %}
 {% block twitter_title %}{{ display_year }} {{ t.gaian_era_abbrev }} — {{ t.calendar_page.title }}{% endblock %}
-{% block twitter_description %}{{ t.calendar_page.title }} for {{ display_year }} {{ t.gaian_era_abbrev }}. {{ t.calendar_page.structure }}{% endblock %}
+{% block twitter_description %}Full-year Gaian calendar for {{ display_year }} {{ t.gaian_era_abbrev }} with Gregorian dates, weekdays, and Gaiad chapters.{% endblock %}
+
+{% block head %}
+<script>const GAIAN_YEAR = {{ display_year }};</script>
+<style>
+.year-month { margin: 2rem 0; }
+.year-month h2 { font-size: 1.3rem; margin-bottom: 0.5rem; color: var(--accent); }
+.year-table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+.year-table th { text-align: left; padding: 6px 8px; border-bottom: 2px solid var(--border); color: var(--text-muted); font-weight: 600; }
+.year-table td { padding: 4px 8px; border-bottom: 1px solid var(--border); }
+.year-table tr:hover td { background: var(--bg-card); }
+.year-table a { color: var(--link); text-decoration: none; }
+.year-table a:hover { text-decoration: underline; }
+.easter-row td { background: rgba(255,215,0,0.07); }
+</style>
+{% endblock %}
 
 {% block content %}
 <div class="section-hero">
-  <h1>{{ display_year }} {{ t.gaian_era_abbrev }}</h1>
-  <p>{{ t.gaian_era }} · Gregorian {{ display_year - 10000 }}</p>
+  <h1 id="year-heading">{{ display_year }} {{ t.gaian_era_abbrev }}</h1>
+  <p id="year-subheading">{{ t.gaian_era }} · Gregorian {{ display_year - 10000 }}</p>
 </div>
 
 <div class="container">
@@ -22,20 +37,15 @@
   </div>
 
   <div class="section-content">
-    <h2>{{ t.calendar_page.months_title }}</h2>
-    <p>{{ t.calendar_page.structure }}</p>
+    <p><a id="wiki-link" href="https://wiki.order.life/wiki/{{ display_year }}_GE">{{ display_year }} GE — Wiki</a></p>
   </div>
 
-  <div class="month-grid">
-    {% for m in months %}
-    {% if m.num <= 13 %}
-    <a href="{{ base }}/calendar/{{ m.id }}/" class="month-card {{ m.element }}" style="text-decoration:none; color:inherit;">
-      <div class="month-symbol">{{ m.symbol }}</div>
-      <div class="month-name">{{ t.months[m.id] }}</div>
-      <div class="month-info">28 {{ t.days }}</div>
-    </a>
-    {% endif %}
-    {% endfor %}
+  <div id="year-calendar">
+    <p>Loading calendar…</p>
   </div>
 </div>
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/year-page.js"></script>
 {% endblock %}
