@@ -21,23 +21,6 @@
     {{ month_display_name }}
   </div>
 
-  <div class="days-grid">
-    {% for wd in t.weekdays %}
-    <div class="weekday-header">{{ wd }}</div>
-    {% endfor %}
-
-    {% for d in range(1, days_in_month + 1) %}
-    {% set doy = (month.num - 1) * 28 + d if month.num <= 13 else 364 + d %}
-    <a href="{{ base }}/calendar/{{ '%02d' % month.num }}/{{ '%02d' % d }}/"
-       class="day-cell{% if gaian_today.month == month.num and gaian_today.day == d %} today{% endif %}">
-      <span class="day-number">{{ d }}</span>
-      {% if doy <= 364 %}
-      <span class="day-chapter">{{ t.gaiad }} {{ doy }}</span>
-      {% endif %}
-    </a>
-    {% endfor %}
-  </div>
-
   <div class="section-content">
     {% if month_theme_title %}
     <h2 style="color: var(--accent);">{{ month_theme_title }}</h2>
@@ -68,6 +51,23 @@
       <strong>7 days</strong> in a leap year (53 ISO weeks).
     </p>
     {% endif %}
+  </div>
+
+  <div class="days-grid">
+    {% for wd in t.weekdays %}
+    <div class="weekday-header">{{ wd }}</div>
+    {% endfor %}
+
+    {% for d in range(1, days_in_month + 1) %}
+    {% set doy = (month.num - 1) * 28 + d if month.num <= 13 else 364 + d %}
+    <a href="{{ base }}/calendar/{{ '%02d' % month.num }}/{{ '%02d' % d }}/"
+       class="day-cell{% if gaian_today.month == month.num and gaian_today.day == d %} today{% endif %}">
+      <span class="day-number">{{ d }}</span>
+      {% if doy <= 364 %}
+      <span class="day-chapter">{{ t.gaiad }} {{ doy }}</span>
+      {% endif %}
+    </a>
+    {% endfor %}
   </div>
 </div>
 {% endblock %}
