@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+{% block title %}{{ month_info.name }} {{ day_num }}, {{ display_year }} {{ t.gaian_era_abbrev }}{% endblock %}
+{% block meta_description %}{{ month_info.name }} day {{ day_num }} of {{ display_year }} {{ t.gaian_era_abbrev }} — Gaian calendar with Gregorian date correspondence.{% endblock %}
+{% block og_title %}{{ month_info.name }} {{ day_num }}, {{ display_year }} {{ t.gaian_era_abbrev }}{% endblock %}
+{% block og_description %}{{ month_info.name }} day {{ day_num }} of {{ display_year }} {{ t.gaian_era_abbrev }}.{% endblock %}
+
+{% block head %}
+<script>const _GY = {{ display_year }}; const _MN = {{ month_num }}; const _DN = {{ day_num }};</script>
+{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ month_info.symbol }} {{ month_info.name }} {{ day_num }}, {{ display_year }} {{ t.gaian_era_abbrev }}</h1>
+  <p id="yd-subheading" style="color:var(--text-muted);font-size:0.9rem">Loading…</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
+    <span>›</span>
+    <a href="{{ base }}/calendar/year/{{ display_year }}/">{{ display_year }} {{ t.gaian_era_abbrev }}</a>
+    <span>›</span>
+    <a href="{{ base }}/calendar/year/{{ display_year }}/{{ '%02d' % month_num }}/">{{ month_info.name }}</a>
+    <span>›</span>
+    Day {{ day_num }}
+  </div>
+
+  <div class="section-content">
+    <p id="yd-intro" style="color:var(--text-muted)">Loading…</p>
+
+    <p style="margin-top:1.5rem;">
+      <a href="{{ base }}/calendar/{{ '%02d' % month_num }}/{{ '%02d' % day_num }}/">Perpetual day page →</a>
+    </p>
+    <p>
+      <a href="{{ base }}/calendar/year/{{ display_year }}/festivals/">Festivals for {{ display_year }} {{ t.gaian_era_abbrev }} →</a>
+    </p>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+(function () {
+  function isoWeek1Start(y) {
+    var jan4 = new Date(y, 0, 4);
+    var dow = jan4.getDay() || 7;
+    var mon = new Date(jan4);
+    mon.setDate(jan4.getDate() - (dow - 1));
+    mon.setHours(0, 0, 0, 0);
+    return mon;
+  }
+  function datePlusDays(base, n) {
+    var d = new Date(base.getTime());
+    d.setDate(d.getDate() + n);
+    return d;
+  }
+  var WEEKDAYS = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
+  var MONTHS_FULL = ['January','February','March','April','May','June',
+                     'July','August','September','October','November','December'];
+
+  var isoYear = _GY - 10000;
+  var yearStart = isoWeek1Start(isoYear);
+  var isHorus = _MN === 14;
+  var offset = isHorus ? (364 + _DN - 1) : ((_MN - 1) * 28 + _DN - 1);
+  var gd = datePlusDays(yearStart, offset);
+
+  var wd = WEEKDAYS[(gd.getDay() || 7) - 1];
+  var dateStr = wd + ', ' + gd.getDate() + '\u00a0' + MONTHS_FULL[gd.getMonth()] + '\u00a0' + gd.getFullYear();
+
+  var sub = document.getElementById('yd-subheading');
+  if (sub) sub.textContent = dateStr;
+
+  var intro = document.getElementById('yd-intro');
+  if (intro) intro.innerHTML =
+    'In <strong>' + _GY + '\u00a0GE</strong>, this day falls on <strong>' + dateStr + '</strong> (Gregorian).';
+})();
+</script>
+{% endblock %}

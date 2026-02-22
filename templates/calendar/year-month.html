@@ -1,0 +1,105 @@
+{% extends "base.html" %}
+{% block title %}{{ month_info.symbol }} {{ month_info.name }} — {{ display_year }} {{ t.gaian_era_abbrev }}{% endblock %}
+{% block meta_description %}{{ month_info.name }}, month {{ month_num }} of {{ display_year }} {{ t.gaian_era_abbrev }} — Gaian calendar with world correspondence dates.{% endblock %}
+{% block og_title %}{{ month_info.symbol }} {{ month_info.name }} — {{ display_year }} {{ t.gaian_era_abbrev }}{% endblock %}
+{% block og_description %}{{ month_info.name }}, month {{ month_num }} of {{ display_year }} {{ t.gaian_era_abbrev }}.{% endblock %}
+
+{% block head %}
+<script>const _GY = {{ display_year }}; const _MN = {{ month_num }};</script>
+{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ month_info.symbol }} {{ month_info.name }} — {{ display_year }} {{ t.gaian_era_abbrev }}</h1>
+  <p id="ym-subheading" style="color:var(--text-muted);font-size:0.9rem">Loading…</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
+    <span>›</span>
+    <a href="{{ base }}/calendar/year/{{ display_year }}/">{{ display_year }} {{ t.gaian_era_abbrev }}</a>
+    <span>›</span>
+    {{ month_info.name }}
+  </div>
+
+  <div class="section-content">
+    <p id="ym-intro" style="color:var(--text-muted)">Loading…</p>
+
+    <p style="margin-top:1.5rem;">
+      <a href="{{ base }}/calendar/year/{{ display_year }}/festivals/">Festivals &amp; world calendars for {{ display_year }} {{ t.gaian_era_abbrev }} →</a>
+    </p>
+    <p>
+      <a href="{{ base }}/calendar/{{ '%02d' % month_num }}/">Perpetual {{ month_info.name }} calendar →</a>
+    </p>
+  </div>
+
+  <div class="days-grid" style="margin-top:2rem;">
+    {% for wd in t.weekdays %}
+    <div class="weekday-header">{{ wd }}</div>
+    {% endfor %}
+
+    {% for d in range(1, days_in_month_ym + 1) %}
+    <a href="{{ base }}/calendar/year/{{ display_year }}/{{ '%02d' % month_num }}/{{ '%02d' % d }}/"
+       class="day-cell">
+      <span class="day-number">{{ d }}</span>
+      <span class="day-chapter" id="ym-greg-{{ d }}"></span>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+(function () {
+  function isoWeek1Start(y) {
+    var jan4 = new Date(y, 0, 4);
+    var dow = jan4.getDay() || 7;
+    var mon = new Date(jan4);
+    mon.setDate(jan4.getDate() - (dow - 1));
+    mon.setHours(0, 0, 0, 0);
+    return mon;
+  }
+  function datePlusDays(base, n) {
+    var d = new Date(base.getTime());
+    d.setDate(d.getDate() + n);
+    return d;
+  }
+  var MONTHS_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  var MONTHS_FULL  = ['January','February','March','April','May','June',
+                      'July','August','September','October','November','December'];
+
+  var isoYear = _GY - 10000;
+  var yearStart = isoWeek1Start(isoYear);
+  var isHorus = _MN === 14;
+  var startOffset = isHorus ? 364 : (_MN - 1) * 28;
+  var days = isHorus ? 7 : 28;
+
+  var firstDay = datePlusDays(yearStart, startOffset);
+  var lastDay  = datePlusDays(yearStart, startOffset + days - 1);
+
+  var sub = document.getElementById('ym-subheading');
+  if (sub) sub.textContent =
+    firstDay.getDate() + ' ' + MONTHS_FULL[firstDay.getMonth()] + ' ' + firstDay.getFullYear()
+    + ' – '
+    + lastDay.getDate() + ' ' + MONTHS_FULL[lastDay.getMonth()] + ' ' + lastDay.getFullYear();
+
+  var intro = document.getElementById('ym-intro');
+  if (intro) intro.innerHTML =
+    'In <strong>' + _GY + '\u00a0GE</strong>, this month runs from '
+    + '<strong>' + firstDay.getDate() + '\u00a0' + MONTHS_FULL[firstDay.getMonth()] + '\u00a0' + firstDay.getFullYear() + '</strong>'
+    + ' to '
+    + '<strong>' + lastDay.getDate() + '\u00a0' + MONTHS_FULL[lastDay.getMonth()] + '\u00a0' + lastDay.getFullYear() + '</strong>'
+    + ' (Gregorian).';
+
+  for (var d = 1; d <= days; d++) {
+    var gd = datePlusDays(yearStart, startOffset + d - 1);
+    var el = document.getElementById('ym-greg-' + d);
+    if (el) el.textContent = gd.getDate() + ' ' + MONTHS_SHORT[gd.getMonth()];
+  }
+})();
+</script>
+{% endblock %}

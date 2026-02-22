@@ -1152,6 +1152,33 @@ def build_site():
                 f'<script>window.location.replace({target!r});</script>'
                 f'</head><body></body></html>', encoding="utf-8")
 
+            # ── Year/month and year/day pages ──
+            iso_year = gaian_year - 10000
+            _dec28 = datetime.date(iso_year, 12, 28)
+            _dow   = _dec28.isoweekday()
+            _thu   = _dec28 + datetime.timedelta(days=4 - _dow)
+            _jan1  = datetime.date(_thu.year, 1, 1)
+            _wks   = ((_thu - _jan1).days + 7) // 7
+            has_horus_ym = (_wks == 53)
+
+            for m in MONTHS:
+                if m["num"] == 14 and not has_horus_ym:
+                    continue
+                days_in_m = 7 if m["num"] == 14 else 28
+                mdir = ydir / f"{m['num']:02d}"
+                mdir.mkdir(parents=True, exist_ok=True)
+                render_page(env, "calendar/year-month.html", mdir / "index.html",
+                            {**ctx, "display_year": gaian_year,
+                             "month_num": m["num"], "month_info": m,
+                             "days_in_month_ym": days_in_m})
+                for d in range(1, days_in_m + 1):
+                    ddir = mdir / f"{d:02d}"
+                    ddir.mkdir(parents=True, exist_ok=True)
+                    render_page(env, "calendar/year-day.html", ddir / "index.html",
+                                {**ctx, "display_year": gaian_year,
+                                 "month_num": m["num"], "day_num": d,
+                                 "month_info": m})
+
         # ── Weekday pages ──
         def week_redirect(target: str) -> str:
             return (f'<!DOCTYPE html><html><head><meta charset="UTF-8">'

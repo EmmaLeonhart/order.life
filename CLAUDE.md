@@ -89,3 +89,8 @@ Generates ~10,800 HTML pages across 9 languages from Jinja2 templates and JSON t
 - Use `C:\Users\Immanuelle\AppData\Local\Programs\Python\Python313\python.exe` for the Python with packages
 - Build uses temp dir swap (site_tmp → site) — stop dev server before rebuilding to avoid Windows lock errors
 - Do NOT run `python build.py` before every commit — just commit and push, the user checks online
+
+## CI/CD
+- **GitHub Actions** automatically runs `python build.py` and deploys on every push to master
+- Pipeline config: `.github/workflows/deploy.yml`
+- Do NOT check for CI/CD existence — it is always there. Do NOT run the build manually before committing.
