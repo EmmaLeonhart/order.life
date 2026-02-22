@@ -15,6 +15,15 @@ const WEEKDAYS_FULL = ['Monday','Tuesday','Wednesday','Thursday','Friday','Satur
 const WD_PLANETS = ['\u263D','\u2642','\u263F','\u2643','\u2640','\u2644','\u2609'];
 const WD_ABBR    = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
 
+// Passover (15 Nisan) Gregorian dates [month_0idx, day]; 2027+ estimated via 19-yr cycle
+const PASSOVER_GY = {
+  2020:[3,8],  2021:[2,27], 2022:[3,15], 2023:[3,5],  2024:[3,22],
+  2025:[3,12], 2026:[3,1],  2027:[3,20], 2028:[3,9],  2029:[2,29],
+  2030:[3,19], 2031:[3,7],  2032:[2,26], 2033:[3,15], 2034:[3,4],
+  2035:[3,23], 2036:[3,11], 2037:[2,31], 2038:[3,20], 2039:[3,9],
+  2040:[2,27],
+};
+
 const GAIAN_MONTH_INFO = [
   { num: 1,  id: 'sagittarius', symbol: '\u2650', name: 'Sagittarius' },
   { num: 2,  id: 'capricorn',   symbol: '\u2651', name: 'Capricorn'   },
@@ -106,6 +115,18 @@ function buildYearCalendar(gaianYear) {
   const hasHorus = totalWeeks === 53;
   const basePath = (window.LANG_BASE) || '';
 
+  // Today — only highlight when viewing the current Gaian year
+  const todayRaw = new Date();
+  todayRaw.setHours(0, 0, 0, 0);
+  const thu = new Date(todayRaw);
+  thu.setDate(todayRaw.getDate() + (4 - (todayRaw.getDay() || 7)));
+  const isCurrentYear = (thu.getFullYear() + 10000) === gaianYear;
+  const today = isCurrentYear ? todayRaw : null;
+
+  // Passover
+  const pd = PASSOVER_GY[isoYear];
+  const passover = pd ? new Date(isoYear, pd[0], pd[1]) : null;
+
   // Pre-compute a Gregorian Date for each day of the Gaian year
   const gregDates = [];
   for (let i = 0; i < totalDays; i++) gregDates.push(datePlusDays(yearStart, i));
@@ -138,12 +159,18 @@ function buildYearCalendar(gaianYear) {
     const easterLine = easterGaianStr
       ? `<p>Easter falls on <strong>${fmtMedium(easter)}</strong> (${easterGaianStr}).</p>`
       : '';
+    const passoverLine = passover
+      ? `<p>Passover begins on <strong>${fmtMedium(passover)}</strong>.</p>`
+      : '';
     const prevPath = `${basePath}/calendar/year/${gaianYear - 1}/`;
     const nextPath = `${basePath}/calendar/year/${gaianYear + 1}/`;
+    const festivalsPath = `${basePath}/calendar/year/${gaianYear}/festivals/`;
 
     intro.innerHTML =
       `<p><strong>${gaianYear}\u00a0GE</strong> is ${yearType}.</p>`
       + easterLine
+      + passoverLine
+      + `<p style="font-size:0.85rem"><a href="${festivalsPath}">Festivals \u0026 world calendars \u2192</a></p>`
       + `<p class="year-nav">`
       + `<a href="${prevPath}">\u2190 ${gaianYear - 1}\u00a0GE</a>`
       + `\u2002\u00b7\u2002`
@@ -169,7 +196,7 @@ function buildYearCalendar(gaianYear) {
     html.push(
       `<th${cls}>`
       + `<a href="${basePath}/calendar/week/${weekNum}/">`
-      + `${WD_PLANETS[wi]}\u00a0${WD_ABBR[wi]}`
+      + `${WD_PLANETS[wi]}<br>${WD_ABBR[wi]}`
       + `</a></th>`
     );
   }
@@ -194,9 +221,13 @@ function buildYearCalendar(gaianYear) {
       } else {
         const dayOfYear = mi < 13 ? mi * 28 + dayInMonth : 364 + dayInMonth;
         const gd = gregDates[dayOfYear - 1];
-        const isEaster = sameDay(gd, easter);
+        const isEaster   = sameDay(gd, easter);
+        const isPassover = passover && sameDay(gd, passover);
+        const isToday    = today && sameDay(gd, today);
         let cls = isSab ? 'gyear-sab' : '';
-        if (isEaster) cls = cls ? cls + ' gyear-easter' : 'gyear-easter';
+        if (isEaster)   cls = (cls ? cls + ' ' : '') + 'gyear-easter';
+        if (isPassover) cls = (cls ? cls + ' ' : '') + 'gyear-passover';
+        if (isToday)    cls = (cls ? cls + ' ' : '') + 'gyear-today';
 
         const ddStr = String(dayInMonth).padStart(2, '0');
         const href = `${basePath}/calendar/${m.id}/${ddStr}/`;

@@ -882,6 +882,10 @@ def build_site():
             ydir.mkdir(parents=True, exist_ok=True)
             render_page(env, "calendar/year.html", ydir / "index.html",
                         {**ctx, "display_year": gaian_year})
+            fdir = ydir / "festivals"
+            fdir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "calendar/year-festivals.html", fdir / "index.html",
+                        {**ctx, "display_year": gaian_year})
             # Redirect old URL /{lang}/calendar/{year}/ → new canonical
             old_dir = cal_dir / str(gaian_year)
             old_dir.mkdir(parents=True, exist_ok=True)
