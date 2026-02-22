@@ -8,6 +8,7 @@ Uses Jinja2 templates, outputs to site/{lang}/ directories.
 import csv
 import datetime
 import io
+import math
 import os
 import re
 import sys
@@ -707,35 +708,139 @@ def _fmt_greg(d):
     return f"{d.day} {d.strftime('%B %Y')}"
 
 
-def gaian_day_description(gaian_year, month_num, day_num):
-    """Return a plain-text description for a Gaian calendar day.
+def _ordinal(n):
+    """Return '1st', '2nd', '3rd', '4th', etc."""
+    suffix = "th" if 10 <= n % 100 <= 20 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th")
+    return f"{n}{suffix}"
 
-    Placeholder implementation — Phase 3 will enrich with historical events,
-    cross-calendar coincidences, and scheduled Lifeism events.
+
+def _ramadan_start(g_year):
+    """Return approximate 1 Ramadan as datetime.date for a Gregorian year.
+
+    Uses the tabular Hijri calendar (same algorithm as build_festival_data).
+    May differ by ±1–2 days from announced dates.
+    """
+    h_approx = int((g_year - 622) * 1.030685)
+    for h in range(h_approx - 1, h_approx + 2):
+        if h < 1:
+            continue
+        # Tabular Hijri 1 Ramadan (month 9, day 1) → JDN
+        jdn = (1
+               + math.ceil(29.5 * 8)      # 8 full months before Ramadan
+               + (h - 1) * 354
+               + (11 * h + 3) // 30
+               + 1948438)
+        a = jdn + 32044
+        b = (4 * a + 3) // 146097
+        c = a - (146097 * b) // 4
+        d = (4 * c + 3) // 1461
+        e = c - (1461 * d) // 4
+        mm = (5 * e + 2) // 153
+        day   = e - (153 * mm + 2) // 5 + 1
+        month = mm + 3 - 12 * (mm // 10)
+        year  = 100 * b + d - 4800 + mm // 10
+        try:
+            gd = datetime.date(year, month, day)
+            if gd.year == g_year:
+                return gd
+        except Exception:
+            continue
+    return None
+
+
+def gaian_day_description(gaian_year, month_num, day_num):
+    """Return a Markdown description for a Gaian calendar day.
+
+    Format:
+      {Month} {day}, {year} GE is the {ordinal} day of {year} GE.
+      [It is an auspicious combination of X, Y, and Z.]
+      [On this day we read [chapter N](https://order.life/en/gaiad/NNN/).]
     """
     m = MONTHS[month_num - 1]
+    month_disp = m["id"].capitalize()
+
     try:
         gd = _gaian_day_to_greg(gaian_year, month_num, day_num)
-        greg_str = _fmt_greg(gd)
     except Exception:
-        greg_str = None
+        return ""
 
+    iso_year = gaian_year - 10000
+
+    # Sentence 1: Day identification
     if month_num <= 13:
         chapter = (month_num - 1) * 28 + day_num
-        chapter_note = f"Gaiad Chapter {chapter} of 364."
+        intro = (f"{month_disp} {day_num}, {gaian_year} GE is the "
+                 f"{_ordinal(chapter)} day of {gaian_year} GE.")
     else:
-        chapter_note = "Horus intercalary day — no Gaiad chapter."
+        chapter = None
+        intro = f"Horus {day_num}, {gaian_year} GE is an intercalary day of {gaian_year} GE."
 
-    theme = MONTH_THEMES.get(m["id"])
-    theme_note = f"{theme[0]}." if theme else ""
+    # Collect notable events/seasons on this day
+    notable = []
 
-    parts = []
-    if greg_str:
-        parts.append(f"{greg_str} (Gregorian).")
-    parts.append(chapter_note)
-    if theme_note:
-        parts.append(theme_note)
-    return " ".join(parts)
+    # Fixed holidays
+    for (mn, dn, summary, _slug) in _ICAL_FIXED:
+        if mn == month_num and dn == day_num:
+            notable.append(summary)
+
+    # Horus days
+    if month_num == 14:
+        for (dn, summary) in _ICAL_HORUS:
+            if dn == day_num:
+                notable.append(summary)
+
+    # Christian season
+    try:
+        easter   = _easter_gregorian(iso_year)
+        ash_wed  = easter - datetime.timedelta(days=46)
+        pentecost = easter + datetime.timedelta(days=49)
+
+        for (offset, summary, _slug) in _ICAL_CHRISTIAN_OFFSETS:
+            if gd == easter + datetime.timedelta(days=offset):
+                notable.append(summary)
+
+        # Season context (if not already a specific feast day)
+        specific_christian = {easter + datetime.timedelta(days=o)
+                              for (o, _, _) in _ICAL_CHRISTIAN_OFFSETS}
+        if ash_wed <= gd < easter and gd not in specific_christian:
+            notable.append("the Season of Lent")
+        elif easter < gd <= pentecost and gd not in specific_christian:
+            notable.append("Eastertide")
+    except Exception:
+        pass
+
+    # Ramadan
+    try:
+        ram_start = _ramadan_start(iso_year)
+        if ram_start:
+            ram_end = ram_start + datetime.timedelta(days=29)
+            if gd == ram_start:
+                notable.append("the beginning of Ramadan")
+            elif ram_start < gd <= ram_end:
+                notable.append("Ramadan")
+    except Exception:
+        pass
+
+    # Sentence 2: Auspicious combination
+    if notable:
+        if len(notable) == 1:
+            auspicious = f"It marks {notable[0]}."
+        elif len(notable) == 2:
+            auspicious = f"It is an auspicious combination of {notable[0]} and {notable[1]}."
+        else:
+            listed = ", ".join(notable[:-1]) + ", and " + notable[-1]
+            auspicious = f"It is an auspicious combination of {listed}."
+    else:
+        auspicious = ""
+
+    # Sentence 3: Gaiad reading
+    if chapter and chapter <= 364:
+        reading = (f"On this day we read "
+                   f"[chapter {chapter}](https://order.life/en/gaiad/{chapter:03d}/).")
+    else:
+        reading = ""
+
+    return " ".join(p for p in [intro, auspicious, reading] if p)
 
 
 def _ical_year_holidays(gy, month_display):
