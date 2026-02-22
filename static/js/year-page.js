@@ -11,6 +11,10 @@ const GREG_MONTHS_SHORT = ['Jan','Feb','Mar','Apr','May','Jun',
                             'Jul','Aug','Sep','Oct','Nov','Dec'];
 const WEEKDAYS_FULL = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
 
+// Planetary symbols Mon–Sun
+const WD_PLANETS = ['\u263D','\u2642','\u263F','\u2643','\u2640','\u2644','\u2609'];
+const WD_ABBR    = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+
 const GAIAN_MONTH_INFO = [
   { num: 1,  id: 'sagittarius', symbol: '\u2650', name: 'Sagittarius' },
   { num: 2,  id: 'capricorn',   symbol: '\u2651', name: 'Capricorn'   },
@@ -28,7 +32,7 @@ const GAIAN_MONTH_INFO = [
   { num: 14, id: 'horus',       symbol: '\uD800\uDD43', name: 'Horus' },
 ];
 
-// Sabbath days: Friday (idx 4), Saturday (idx 5), Sunday (idx 6) in 0-based Mon-Sun
+// Sabbath days: Friday (idx 4), Saturday (idx 5), Sunday (idx 6)
 const IS_SABBATH = [false, false, false, false, true, true, true];
 
 function isoWeek1Start(y) {
@@ -81,7 +85,12 @@ function fmtFull(date) {
   return `${wd} ${date.getDate()} ${GREG_MONTHS_FULL[date.getMonth()]} ${date.getFullYear()}`;
 }
 
-// "Mon 29 Dec 2025" — used for cell title attributes
+// "5 April 2026" — for Easter in prose
+function fmtMedium(date) {
+  return `${date.getDate()} ${GREG_MONTHS_FULL[date.getMonth()]} ${date.getFullYear()}`;
+}
+
+// "Mon 29 Dec 2025" — hover title on cells
 function fmtShort(date) {
   const wd = WEEKDAYS_FULL[(date.getDay() || 7) - 1].slice(0, 3);
   return `${wd} ${date.getDate()} ${GREG_MONTHS_SHORT[date.getMonth()]} ${date.getFullYear()}`;
@@ -101,55 +110,68 @@ function buildYearCalendar(gaianYear) {
   const gregDates = [];
   for (let i = 0; i < totalDays; i++) gregDates.push(datePlusDays(yearStart, i));
 
-  // Find Easter's Gaian position (Easter is always on Gregorian Sunday = Gaian Sunday)
-  let easterGaianName = '';
+  // Find Easter's Gaian position
+  let easterGaianStr = '';
   for (let i = 0; i < totalDays; i++) {
     if (sameDay(gregDates[i], easter)) {
       const dayNum = i + 1;
       const mi = dayNum > 364 ? 13 : Math.floor((dayNum - 1) / 28);
       const dim = dayNum > 364 ? dayNum - 364 : ((dayNum - 1) % 28) + 1;
-      easterGaianName = `${GAIAN_MONTH_INFO[mi].name}\u00a0${dim}`;
+      easterGaianStr = `${GAIAN_MONTH_INFO[mi].name}\u00a0${dim}`;
       break;
     }
   }
 
-  // ── Update headings ──────────────────────────────────────────────────────
+  // ── Update static heading ────────────────────────────────────────────────
   const heading = document.getElementById('year-heading');
   if (heading) heading.textContent = `${gaianYear} GE`;
 
   const sub = document.getElementById('year-subheading');
-  if (sub) {
-    const horusNote = hasHorus ? '53-week year \u2014 Horus included'
-                               : '52-week year \u2014 no Horus';
-    const easterNote = easterGaianName
-      ? `\u00a0\u00b7 Easter: ${fmtShort(easter)} (${easterGaianName})`
-      : '';
-    sub.textContent =
-      `${fmtFull(yearStart)} \u2013 ${fmtFull(yearEnd)} \u00b7 ${horusNote}${easterNote}`;
-  }
+  if (sub) sub.textContent = `${fmtFull(yearStart)} \u2013 ${fmtFull(yearEnd)}`;
 
-  const wikiLink = document.getElementById('wiki-link');
-  if (wikiLink) {
-    wikiLink.href = `https://wiki.order.life/wiki/${gaianYear}_GE`;
-    wikiLink.textContent = `${gaianYear}\u00a0GE \u2014 Wiki`;
+  // ── Prose intro ──────────────────────────────────────────────────────────
+  const intro = document.getElementById('year-intro');
+  if (intro) {
+    const yearType = hasHorus
+      ? 'a <strong>leap year</strong> (53\u00a0weeks, including the Horus intercalary period)'
+      : 'a <strong>common year</strong> (52\u00a0weeks)';
+    const easterLine = easterGaianStr
+      ? `<p>Easter falls on <strong>${fmtMedium(easter)}</strong> (${easterGaianStr}).</p>`
+      : '';
+    const prevPath = `${basePath}/calendar/year/${gaianYear - 1}/`;
+    const nextPath = `${basePath}/calendar/year/${gaianYear + 1}/`;
+
+    intro.innerHTML =
+      `<p><strong>${gaianYear}\u00a0GE</strong> is ${yearType}.</p>`
+      + easterLine
+      + `<p class="year-nav">`
+      + `<a href="${prevPath}">\u2190 ${gaianYear - 1}\u00a0GE</a>`
+      + `\u2002\u00b7\u2002`
+      + `<a href="${nextPath}">${gaianYear + 1}\u00a0GE \u2192</a>`
+      + `</p>`;
   }
 
   // ── Build compact grid table ─────────────────────────────────────────────
   const container = document.getElementById('year-calendar');
   if (!container) return;
 
-  const WD_ABBR = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
-
   const html = [];
   html.push('<div class="year-cal-wrap">');
   html.push('<table class="gaian-year-table">');
 
-  // Header: blank month cell + 28 weekday headers (4 × Mon-Sun)
+  // Header: blank month cell + 28 weekday headers (4 × Mon–Sun), each a link
   html.push('<thead><tr>');
   html.push('<th class="gyear-month-hdr"></th>');
   for (let dc = 0; dc < 28; dc++) {
     const wi = dc % 7;
-    html.push(`<th class="${IS_SABBATH[wi] ? 'gyear-sab' : ''}">${WD_ABBR[wi]}</th>`);
+    const cls = IS_SABBATH[wi] ? ' class="gyear-sab"' : '';
+    const weekNum = wi + 1; // Mon=1 … Sun=7
+    html.push(
+      `<th${cls}>`
+      + `<a href="${basePath}/calendar/week/${weekNum}/">`
+      + `${WD_PLANETS[wi]}\u00a0${WD_ABBR[wi]}`
+      + `</a></th>`
+    );
   }
   html.push('</tr></thead>');
 
@@ -164,17 +186,15 @@ function buildYearCalendar(gaianYear) {
 
     for (let dc = 0; dc < 28; dc++) {
       const dayInMonth = dc + 1;
-      const wi = dc % 7;  // 0=Mon … 6=Sun
+      const wi = dc % 7;
       const isSab = IS_SABBATH[wi];
 
       if (dayInMonth > daysInMonth) {
-        // Unused cell (only applies to Horus row, days 8–28)
         html.push(`<td class="gyear-empty${isSab ? ' gyear-sab' : ''}"></td>`);
       } else {
         const dayOfYear = mi < 13 ? mi * 28 + dayInMonth : 364 + dayInMonth;
         const gd = gregDates[dayOfYear - 1];
         const isEaster = sameDay(gd, easter);
-
         let cls = isSab ? 'gyear-sab' : '';
         if (isEaster) cls = cls ? cls + ' gyear-easter' : 'gyear-easter';
 

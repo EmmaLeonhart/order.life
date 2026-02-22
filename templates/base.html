@@ -118,6 +118,9 @@ function computeLocalWikiTitle(pathname, langBase) {
   if (path === '/calendar/gaian-era/' ) return 'Gaian_Era';
   if (path === '/calendar/datepicker/' ) return 'Gaian_calendar_datepicker';
 
+  const calYear = path.match(/^\/calendar\/year\/(\d+)\/$/);
+  if (calYear) return `${calYear[1]}_GE`;
+
   const calDay = path.match(/^\/calendar\/([a-z-]+)\/(\d{2})\/$/);
   if (calDay) {
     const monthId = calDay[1];

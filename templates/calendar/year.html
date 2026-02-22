@@ -9,7 +9,7 @@
 {% block head %}
 <script>const GAIAN_YEAR = {{ display_year }};</script>
 <style>
-/* ── Year calendar table ── */
+/* ── Year calendar ── */
 .year-cal-wrap { overflow-x: auto; margin: 1.5rem 0; }
 
 .gaian-year-table {
@@ -26,7 +26,6 @@
   text-align: center;
   white-space: nowrap;
 }
-/* Month label column */
 .gyear-month-hdr {
   text-align: left;
   padding-left: 8px;
@@ -36,30 +35,37 @@
   white-space: nowrap;
   width: 10%;
 }
-/* Sabbath columns (Fri/Sat/Sun) */
+/* Weekday header links */
+.gaian-year-table thead a {
+  color: inherit;
+  text-decoration: none;
+  display: block;
+  font-size: 0.7rem;
+}
+.gaian-year-table thead a:hover { color: var(--link); }
 th.gyear-sab { background: rgba(255,215,0,0.10); color: var(--accent); }
 td.gyear-sab { background: rgba(255,215,0,0.06); }
-/* Easter cell */
 .gyear-easter { background: rgba(255,100,30,0.35) !important; font-weight: bold; }
-/* Unused Horus trailing cells */
 td.gyear-empty { background: rgba(0,0,0,0.18); }
-/* Day links — look like plain numbers */
-.gaian-year-table a {
+.gaian-year-table tbody a {
   color: inherit;
   text-decoration: none;
   display: block;
 }
-.gaian-year-table a:hover { text-decoration: underline; color: var(--link); }
+.gaian-year-table tbody a:hover { text-decoration: underline; color: var(--link); }
 
-/* Subheading — allow wrapping on small screens */
-.year-subhead { font-size: 0.9rem; color: var(--text-muted); line-height: 1.6; }
+/* Prose intro */
+.year-intro { margin: 1rem 0 0.5rem; line-height: 1.7; }
+.year-intro p { margin: 0.3rem 0; }
+.year-nav { margin-top: 0.6rem; font-size: 0.9rem; color: var(--text-muted); }
+.year-nav a { color: var(--link); }
 </style>
 {% endblock %}
 
 {% block content %}
 <div class="section-hero">
   <h1 id="year-heading">{{ display_year }} {{ t.gaian_era_abbrev }}</h1>
-  <p id="year-subheading" class="year-subhead">{{ t.gaian_era }} · Gregorian {{ display_year - 10000 }}</p>
+  <p id="year-subheading" style="color:var(--text-muted);font-size:0.9rem">{{ t.gaian_era }} · Gregorian {{ display_year - 10000 }}</p>
 </div>
 
 <div class="container">
@@ -71,13 +77,11 @@ td.gyear-empty { background: rgba(0,0,0,0.18); }
     {{ display_year }}
   </div>
 
-  <p style="margin-bottom:0.5rem">
-    <a id="wiki-link" href="https://wiki.order.life/wiki/{{ display_year }}_GE">{{ display_year }} GE — Wiki</a>
-  </p>
-
-  <div id="year-calendar">
+  <div id="year-intro" class="year-intro">
     <p style="color:var(--text-muted)">Loading…</p>
   </div>
+
+  <div id="year-calendar"></div>
 </div>
 {% endblock %}
 
