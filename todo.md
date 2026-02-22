@@ -104,6 +104,12 @@ Used identically by:
 def gaian_day_description(gaian_year, month_num, day_num, chapters=None) -> str
 ```
 
+### GaianCalendar Python library (future integration)
+A dedicated `GaianCalendar` Python library is in development but not yet complete.
+Once available, replace the inline weekday computation `(day_num - 1) % 7` and
+`_gaian_day_to_greg()` helper with library calls. Marked with `# TODO: GaianCalendar`
+in build.py.
+
 ### Output format (2–4 sentences)
 1. Gregorian date in that year + Gaian date
 2. Gaiad chapter N of 364 (or intercalary note for Horus) + month theme excerpt

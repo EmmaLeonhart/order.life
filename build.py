@@ -759,6 +759,11 @@ def gaian_day_description(gaian_year, month_num, day_num):
     m = MONTHS[month_num - 1]
     month_disp = m["id"].capitalize()
 
+    # Weekday: Gaian calendar is perpetual — (day_num - 1) % 7 gives 0=Mon … 6=Sun
+    # TODO: replace with GaianCalendar library when available
+    _WD_NAMES = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+    weekday_name = _WD_NAMES[(day_num - 1) % 7]
+
     try:
         gd = _gaian_day_to_greg(gaian_year, month_num, day_num)
     except Exception:
@@ -770,10 +775,11 @@ def gaian_day_description(gaian_year, month_num, day_num):
     if month_num <= 13:
         chapter = (month_num - 1) * 28 + day_num
         intro = (f"{month_disp} {day_num}, {gaian_year} GE is the "
-                 f"{_ordinal(chapter)} day of {gaian_year} GE.")
+                 f"{_ordinal(chapter)} day of {gaian_year} GE, a {weekday_name}.")
     else:
         chapter = None
-        intro = f"Horus {day_num}, {gaian_year} GE is an intercalary day of {gaian_year} GE."
+        intro = (f"Horus {day_num}, {gaian_year} GE is an intercalary {weekday_name} "
+                 f"of {gaian_year} GE.")
 
     # Collect notable events/seasons on this day
     notable = []
