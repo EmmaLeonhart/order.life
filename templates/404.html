@@ -7,28 +7,107 @@
   <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="/static/css/style.css">
   <script>
-  // Catch-all wiki redirect: any /wiki/* or /{lang}/wiki/* path that
-  // didn't match a static redirect gets forwarded to the Miraheze wiki.
-  (function() {
+  // ── Client-side routing for paths without a pre-generated file ────────────
+  (function () {
     var p = window.location.pathname;
-    // Match /{lang}/wiki/{title} or /wiki/{title}
-    var m = p.match(/^\/([a-z]{2})\/wiki\/(.+?)\/?\s*$/) || p.match(/^\/wiki\/(.+?)\/?\s*$/);
-    if (m) {
+
+    // 1. Wiki redirect: /{lang}/wiki/{title} or /wiki/{title}
+    var mWiki = p.match(/^\/([a-z]{2})\/wiki\/(.+?)\/?\s*$/) || p.match(/^\/wiki\/(.+?)\/?\s*$/);
+    if (mWiki) {
       var lang, title;
-      if (m.length === 3) {
-        lang = m[1]; title = m[2];
-      } else {
-        lang = 'en'; title = m[1];
-      }
+      if (mWiki.length === 3) { lang = mWiki[1]; title = mWiki[2]; }
+      else                    { lang = 'en';      title = mWiki[1]; }
       title = title.replace(/\/$/, '') || 'Main_Page';
       window.location.replace('https://wiki.order.life/' + title);
+      return;
+    }
+
+    // 2. Year calendar: /{lang}/calendar/year/{NNNN}/
+    //    Year festivals: /{lang}/calendar/year/{NNNN}/festivals/
+    var mYear = p.match(/^\/([a-z]{2})\/calendar\/year\/(\d+)\/(festivals\/)?$/);
+    if (mYear) {
+      var lang      = mYear[1];
+      var year      = parseInt(mYear[2], 10);
+      var isFest    = !!mYear[3];
+
+      if (!year || year < 1 || year > 999999) return; // sanity check
+
+      // Expose globals that the year scripts expect
+      window.LANG_BASE           = '/' + lang;
+      window.GAIAN_YEAR          = year;
+      // Month/weekday name arrays — English defaults; localized pages are pre-generated
+      window.GAIAN_MONTH_NAMES   = ['Sagittarius','Capricorn','Aquarius','Pisces','Aries',
+                                     'Taurus','Gemini','Cancer','Leo','Virgo','Libra',
+                                     'Scorpius','Ophiuchus','Horus'];
+      window.GAIAN_WEEKDAY_NAMES = ['Monday','Tuesday','Wednesday','Thursday',
+                                     'Friday','Saturday','Sunday'];
+
+      // Load the appropriate stylesheet
+      var link = document.createElement('link');
+      link.rel  = 'stylesheet';
+      link.href = isFest ? '/static/css/year-festivals.css' : '/static/css/year-page.css';
+      document.head.appendChild(link);
+
+      // Update page title
+      document.title = year + ' GE' + (isFest ? ' \u2014 Festivals' : '') + ' \u2014 \u547D';
+
+      // Build nav links with correct language prefix
+      var b = '/' + lang;
+      document.getElementById('_404_nav').innerHTML =
+        '<a class="nav-brand" href="' + b + '/"><span class="brand-kanji">\u547D</span> Order of Life</a>' +
+        '<div class="nav-links">' +
+          '<a href="' + b + '/calendar/">Calendar</a>' +
+          '<a href="' + b + '/gaiad/">Gaiad</a>' +
+          '<a href="' + b + '/mythology/">Mythology</a>' +
+          '<a href="' + b + '/philosophy/">Philosophy</a>' +
+          '<a href="' + b + '/shrines/">Shrines</a>' +
+          '<a href="' + b + '/longevity/">Longevity</a>' +
+          '<a href="' + b + '/evolution/">Evolution</a>' +
+        '</div>';
+
+      // Build the page body
+      var festLegend = isFest ? (
+        '<div class="fest-legend">' +
+          '<div class="fest-legend-item"><span class="leg-dot" style="background:#aaa"></span> Full moon</div>' +
+          '<div class="fest-legend-item"><span class="leg-bar" style="background:#cc3333"></span> Chinese New Year \u2192 Lantern Festival</div>' +
+          '<div class="fest-legend-item"><span class="leg-bar" style="background:#3a6dbf"></span> Purim \u2192 Sukkot (Jewish sequence)</div>' +
+          '<div class="fest-legend-item"><span class="leg-bar" style="background:#88aaee"></span> Hanukkah</div>' +
+          '<div class="fest-legend-item"><span class="leg-bar" style="background:#cc6600"></span> Ash Wednesday \u2192 Pentecost (Christian)</div>' +
+          '<div class="fest-legend-item"><span class="leg-bar" style="background:#228855"></span> Ramadan \u2192 Eid al-Fitr \u00b7 Eid al-Adha</div>' +
+          '<div class="fest-legend-item"><span class="leg-dot" style="background:#9933bb"></span> Diwali</div>' +
+        '</div>' +
+        '<p class="fest-note">Islamic dates are calculated and may differ by \u00b11\u20132 days from announced dates ' +
+        'depending on regional moon sighting. Jewish dates from 2027 onward are estimated via the 19-year Metonic cycle.</p>'
+      ) : '';
+
+      var yearPath = b + '/calendar/year/' + year + '/';
+      var breadcrumb = isFest
+        ? '<a href="' + b + '/">Home</a><span>\u203a</span><a href="' + b + '/calendar/">Calendar</a><span>\u203a</span><a href="' + yearPath + '">' + year + '</a><span>\u203a</span>Festivals'
+        : '<a href="' + b + '/">Home</a><span>\u203a</span><a href="' + b + '/calendar/">Calendar</a><span>\u203a</span>' + year;
+
+      document.getElementById('_404_body').innerHTML =
+        '<div class="section-hero">' +
+          '<h1 id="year-heading">' + year + ' GE' + (isFest ? ' \u2014 Festivals' : '') + '</h1>' +
+          '<p id="year-subheading" style="color:var(--text-muted);font-size:0.9rem">Loading\u2026</p>' +
+        '</div>' +
+        '<div class="container">' +
+          '<div class="breadcrumb">' + breadcrumb + '</div>' +
+          '<div id="year-intro" class="year-intro"><p style="color:var(--text-muted)">Loading\u2026</p></div>' +
+          '<div id="year-calendar"></div>' +
+          festLegend +
+        '</div>';
+
+      // Load the rendering script (it reads GAIAN_YEAR from window)
+      var script = document.createElement('script');
+      script.src = isFest ? '/static/js/year-festivals.js' : '/static/js/year-page.js';
+      document.body.appendChild(script);
     }
   })();
   </script>
 </head>
 <body>
   <nav>
-    <div class="nav-inner">
+    <div class="nav-inner" id="_404_nav">
       <a class="nav-brand" href="/"><span class="brand-kanji">命</span> Order of Life</a>
       <div class="nav-links">
         <a href="/calendar/">Calendar</a>
@@ -40,14 +119,16 @@
     </div>
   </nav>
 
-  <div class="section-hero">
-    <h1>404</h1>
-    <p>This page does not exist in any realm.</p>
-  </div>
+  <div id="_404_body">
+    <div class="section-hero">
+      <h1>404</h1>
+      <p>This page does not exist in any realm.</p>
+    </div>
 
-  <div class="container" style="text-align: center; padding: 3rem 1rem;">
-    <p style="font-size: 1.1rem; margin-bottom: 2rem;">The path you sought leads nowhere — yet. Perhaps it will be hallowed in time.</p>
-    <a href="/" style="color: #ffd700; text-decoration: none; font-size: 1.1rem;">Return to the homepage</a>
+    <div class="container" style="text-align: center; padding: 3rem 1rem;">
+      <p style="font-size: 1.1rem; margin-bottom: 2rem;">The path you sought leads nowhere — yet. Perhaps it will be hallowed in time.</p>
+      <a href="/" style="color: #ffd700; text-decoration: none; font-size: 1.1rem;">Return to the homepage</a>
+    </div>
   </div>
 
   <footer>

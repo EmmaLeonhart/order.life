@@ -473,6 +473,11 @@ function buildFestivalsCalendar(gaianYear) {
   container.innerHTML = html.join('');
 }
 
-if (typeof GAIAN_YEAR !== 'undefined') {
-  buildFestivalsCalendar(GAIAN_YEAR);
-}
+// Run: use template-injected constant, or fall back to reading the year from the URL.
+(function () {
+  var yr = (typeof GAIAN_YEAR !== 'undefined') ? GAIAN_YEAR : (function () {
+    var m = window.location.pathname.match(/\/calendar\/year\/(\d+)\//);
+    return m ? parseInt(m[1], 10) : null;
+  })();
+  if (yr) buildFestivalsCalendar(yr);
+})();
