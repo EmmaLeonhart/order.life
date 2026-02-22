@@ -31,7 +31,7 @@ const GAIAN_MONTH_INFO = [
   { num: 11, id: 'libra',       symbol: '\u264E', name: 'Libra'       },
   { num: 12, id: 'scorpius',    symbol: '\u264F', name: 'Scorpius'    },
   { num: 13, id: 'ophiuchus',   symbol: '\u26CE', name: 'Ophiuchus'   },
-  { num: 14, id: 'horus',       symbol: '\uD800\uDD43', name: 'Horus' },
+  { num: 14, id: 'horus',       symbol: '𓅃', name: 'Horus' },
 ];
 
 // Sabbath days: Friday (idx 4), Saturday (idx 5), Sunday (idx 6)

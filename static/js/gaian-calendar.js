@@ -18,7 +18,7 @@ const GAIAN_MONTHS = [
   { num: 11, id: 'libra',       symbol: '\u264E', name_en: 'Libra' },
   { num: 12, id: 'scorpius',    symbol: '\u264F', name_en: 'Scorpius' },
   { num: 13, id: 'ophiuchus',   symbol: '\u26CE', name_en: 'Ophiuchus' },
-  { num: 14, id: 'horus',       symbol: '\uD800\uDD43', name_en: 'Horus' },
+  { num: 14, id: 'horus',       symbol: '𓅃', name_en: 'Horus' },
 ];
 
 function getISODayOfWeek(date) {

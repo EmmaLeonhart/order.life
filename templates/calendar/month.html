@@ -38,26 +38,36 @@
     {% endfor %}
   </div>
 
-  {% if month.num <= 13 %}
   <div class="section-content">
-    <h2>{{ month_display_name }} {{ t.days }}</h2>
-    <p style="color: var(--text-muted);">
-      {% if month.num == 1 %}{{ t.months.sagittarius }}: {{ t.day }} 1–28. {{ t.gaiad }} 1–28.
-      {% elif month.num == 2 %}{{ t.months.capricorn }}: {{ t.day }} 29–56. {{ t.gaiad }} 29–56.
-      {% elif month.num == 3 %}{{ t.months.aquarius }}: {{ t.day }} 57–84. {{ t.gaiad }} 57–84.
-      {% elif month.num == 4 %}{{ t.months.pisces }}: {{ t.day }} 85–112. {{ t.gaiad }} 85–112.
-      {% elif month.num == 5 %}{{ t.months.aries }}: {{ t.day }} 113–140. {{ t.gaiad }} 113–140.
-      {% elif month.num == 6 %}{{ t.months.taurus }}: {{ t.day }} 141–168. {{ t.gaiad }} 141–168.
-      {% elif month.num == 7 %}{{ t.months.gemini }}: {{ t.day }} 169–196. {{ t.gaiad }} 169–196.
-      {% elif month.num == 8 %}{{ t.months.cancer }}: {{ t.day }} 197–224. {{ t.gaiad }} 197–224.
-      {% elif month.num == 9 %}{{ t.months.leo }}: {{ t.day }} 225–252. {{ t.gaiad }} 225–252.
-      {% elif month.num == 10 %}{{ t.months.virgo }}: {{ t.day }} 253–280. {{ t.gaiad }} 253–280.
-      {% elif month.num == 11 %}{{ t.months.libra }}: {{ t.day }} 281–308. {{ t.gaiad }} 281–308.
-      {% elif month.num == 12 %}{{ t.months.scorpius }}: {{ t.day }} 309–336. {{ t.gaiad }} 309–336.
-      {% elif month.num == 13 %}{{ t.months.ophiuchus }}: {{ t.day }} 337–364. {{ t.gaiad }} 337–364.
+    {% if month_theme_title %}
+    <h2 style="color: var(--accent);">{{ month_theme_title }}</h2>
+    <p>{{ month_theme_desc }}</p>
+    {% endif %}
+
+    {% if month.num <= 13 %}
+    <p style="color: var(--text-muted); margin-top: 1rem;">
+      {{ month_display_name }} has <strong>28 days</strong> and covers
+      {% if month.num == 1 %}days 1–28 of the Gaian year · Gaiad chapters 1–28.
+      {% elif month.num == 2 %}days 29–56 of the Gaian year · Gaiad chapters 29–56.
+      {% elif month.num == 3 %}days 57–84 of the Gaian year · Gaiad chapters 57–84.
+      {% elif month.num == 4 %}days 85–112 of the Gaian year · Gaiad chapters 85–112.
+      {% elif month.num == 5 %}days 113–140 of the Gaian year · Gaiad chapters 113–140.
+      {% elif month.num == 6 %}days 141–168 of the Gaian year · Gaiad chapters 141–168.
+      {% elif month.num == 7 %}days 169–196 of the Gaian year · Gaiad chapters 169–196.
+      {% elif month.num == 8 %}days 197–224 of the Gaian year · Gaiad chapters 197–224.
+      {% elif month.num == 9 %}days 225–252 of the Gaian year · Gaiad chapters 225–252.
+      {% elif month.num == 10 %}days 253–280 of the Gaian year · Gaiad chapters 253–280.
+      {% elif month.num == 11 %}days 281–308 of the Gaian year · Gaiad chapters 281–308.
+      {% elif month.num == 12 %}days 309–336 of the Gaian year · Gaiad chapters 309–336.
+      {% elif month.num == 13 %}days 337–364 of the Gaian year · Gaiad chapters 337–364.
       {% endif %}
     </p>
+    {% else %}
+    <p style="color: var(--text-muted); margin-top: 1rem;">
+      Horus is the intercalary month: <strong>5 days</strong> in a common year,
+      <strong>7 days</strong> in a leap year (53 ISO weeks).
+    </p>
+    {% endif %}
   </div>
-  {% endif %}
 </div>
 {% endblock %}

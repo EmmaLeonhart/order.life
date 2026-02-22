@@ -69,7 +69,7 @@ MONTHS = [
     {"num": 11, "id": "libra",       "symbol": "\u264e", "element": "air"},
     {"num": 12, "id": "scorpius",    "symbol": "\u264f", "element": "water"},
     {"num": 13, "id": "ophiuchus",   "symbol": "\u26ce", "element": "healing"},
-    {"num": 14, "id": "horus",       "symbol": "\U00013143", "element": "intercalary"},
+    {"num": 14, "id": "horus",       "symbol": "𓅃", "element": "intercalary"},
 ]
 
 # Map wiki month names to our IDs (wiki uses "Scorpio" not "Scorpius")
@@ -92,6 +92,96 @@ ELEMENT_THEMES = {
     "water": {"color": "#2e86ab", "desc_key": "element_water"},
     "healing": {"color": "#9b59b6", "desc_key": "element_healing"},
     "intercalary": {"color": "#8a2be2", "desc_key": "element_intercalary"},
+}
+
+MONTH_THEMES = {
+    "sagittarius": (
+        "Creation of the Universe",
+        "The Gaiad opens with the creation of the universe — the Big Bang, the formation of stars and galaxies, "
+        "the birth of Earth, and the first stirrings of life. Days 1–28 span the deepest cosmic and geological "
+        "time, from the first moments of existence through the Hadean and Archean eons."
+    ),
+    "capricorn": (
+        "The Cambrian Explosion",
+        "Days 29–56 cover the sudden proliferation of complex animal life — the Cambrian explosion — "
+        "when the seas filled with the ancestors of every major animal body plan alive today: "
+        "trilobites, the strange creatures of the Burgess Shale, and the first nervous systems."
+    ),
+    "aquarius": (
+        "Life Comes Ashore",
+        "Days 57–84 follow life's conquest of the land — the first forests, the first four-limbed "
+        "vertebrates hauling themselves out of the water, insects taking to the air, and the rise "
+        "of the great coal swamps that would later power industrial civilization."
+    ),
+    "pisces": (
+        "The Age of Dinosaurs — The Easter Month",
+        "Days 85–112 cover the Triassic, Jurassic, and Cretaceous periods — the age of the dinosaurs — "
+        "and the great extinction that ended them. Pisces is the Easter month: all five possible dates "
+        "of Easter fall across Aquarius 28, Pisces 7, Pisces 14, Pisces 21, and Pisces 28. "
+        "Pisces 14 is the historical day of the crucifixion. We celebrate with dinosaur Easter eggs, "
+        "honouring the living dinosaurs — birds — and the deep time of the scripture."
+    ),
+    "aries": (
+        "The Rise of Mammals and Early Humanity",
+        "Days 113–140 trace the rise of mammals after the great extinction, the emergence of primates, "
+        "and the long evolutionary journey toward modern humans: bipedalism, tool use, and the first "
+        "cultures. Pentecost/Shavuot falls across five possible days spanning Aries and Taurus — "
+        "Aries 21, Aries 28, Taurus 7 (canonical), Taurus 14, and Taurus 21."
+    ),
+    "taurus": (
+        "The Dawn of Civilization",
+        "Days 141–168 cover early human civilizations — the first cities, agriculture, writing, "
+        "the great river cultures of Mesopotamia, Egypt, and the Indus Valley, and the Bronze Age. "
+        "Taurus 7 is the canonical Pentecost/Shavuot."
+    ),
+    "gemini": (
+        "The Ancient World",
+        "Days 169–196 journey through the classical world — Greece, Rome, the Han dynasty, "
+        "the spread of the world religions, and the empires that shaped the first millennium CE."
+    ),
+    "cancer": (
+        "The Medieval World and the Americas",
+        "Days 197–224 cover the medieval period and the age of exploration, culminating on "
+        "Cancer 28 — the day Columbus made landfall in the Americas, linking the Old World and the New."
+    ),
+    "leo": (
+        "The Book of Lehi — Indigenous Peoples of the Americas",
+        "Days 225–252 tell the story of the indigenous peoples of the Americas, from the first "
+        "crossing of Beringia through the great civilizations — Olmec, Maya, Aztec, Inca — to the "
+        "early 1830s. This is the Book of Lehi, one of the most sacred narratives in the Gaiad."
+    ),
+    "virgo": (
+        "The Modern Era — Season of Repentance",
+        "Days 253–280 enter the modern era: colonialism, revolution, and the reckoning with history. "
+        "Virgo is the season of repentance, echoing the Jewish High Holy Days: Virgo 7 (Rosh Hashanah), "
+        "Virgo 15 (Yom Kippur), Virgo 19 (Sukkot), Virgo 26 (end of Sukkot). The narrative of "
+        "colonialism and repentance follows its own arc rather than being spread across all days as Easter is."
+    ),
+    "libra": (
+        "The Modern World",
+        "Days 281–308 continue through the modern world — the Industrial Revolution, the beginnings "
+        "of the World Wars, and the geopolitical landscape of the 20th century taking shape."
+    ),
+    "scorpius": (
+        "The 20th Century",
+        "Days 309–336 bring the great conflicts and turning points of the modern age to their "
+        "resolution. Scorpio 21 marks the end of World War II — V-J Day and the formal surrender "
+        "aboard the USS Missouri."
+    ),
+    "ophiuchus": (
+        "Recent History and the Vision",
+        "Days 337–364 cover the most recent history — the Cold War, the digital revolution, "
+        "and the founding of the Order of Life itself. The final chapters of the Gaiad turn to "
+        "prophecy and offer a vision of the world to come."
+    ),
+    "horus": (
+        "The Intercalary Days",
+        "Horus carries no Gaiad scripture — it stands apart as an intercalary period of 5–7 days "
+        "modelled on the Ancient Egyptian epagomenal days. Each day honours a divine birth: "
+        "Day 1 Osiris, Day 2 Horus, Day 3 Set, Day 4 Isis, Day 5 Nephthys (a Friday Sabbath). "
+        "In 53-week years, Day 6 is the Saturday Sabbath and Day 7 is Sunday — New Year's Eve "
+        "before Sagittarius 1 begins the cycle anew."
+    ),
 }
 
 WEEKDAYS = [
@@ -1113,6 +1203,7 @@ def build_site():
             month_dir.mkdir(parents=True, exist_ok=True)
             days_in_month = 7 if m["num"] == 14 else 28
             wiki_month = month_wiki_content.get(m["id"], {})
+            theme = MONTH_THEMES.get(m["id"])
             month_ctx = {
                 **ctx,
                 "month": m,
@@ -1121,6 +1212,8 @@ def build_site():
                 "element": ELEMENT_THEMES[m["element"]],
                 "wiki_intro": wiki_month.get("intro"),
                 "wiki_overview": wiki_month.get("overview"),
+                "month_theme_title": theme[0] if theme else None,
+                "month_theme_desc": theme[1] if theme else None,
             }
             render_page(env, "calendar/month.html", month_dir / "index.html", month_ctx)
 

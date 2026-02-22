@@ -76,7 +76,7 @@
 
   <div class="month-grid">
     {% for m in months %}
-    <a href="{{ base }}/calendar/{{ m.id }}/" class="month-card {{ m.element }}" style="text-decoration:none; color: inherit;">
+    <a href="{{ base }}/calendar/{{ '%02d' % m.num }}/" class="month-card {{ m.element }}" style="text-decoration:none; color: inherit;">
       <div class="month-symbol">{{ m.symbol }}</div>
       <div class="month-name">{{ t.months[m.id] }}</div>
       <div class="month-info">
@@ -94,6 +94,175 @@
   <div class="text-center mt-40">
     <a class="btn" href="{{ base }}/calendar/datepicker">{{ t.nav.datepicker }}</a>
     <a class="btn" href="{{ base }}/calendar/gaian-era" style="margin-left: 10px;">{{ t.gaian_era }}</a>
+  </div>
+
+  {# ── Holidays & Observances ─────────────────────────────────────────────── #}
+  <div class="section-content" style="margin-top: 3rem;">
+    <h2 style="color: var(--accent);">Sacred Calendar — Holidays &amp; Observances</h2>
+    <p style="color: var(--text-muted); margin-bottom: 2rem;">
+      Because the Gaian calendar is perpetual, every holiday falls on the same weekday every year.
+      Dates marked * indicate the range of possible dates for moveable feasts (Easter, Pentecost).
+    </p>
+
+    <style>
+    .holidays-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1.5rem;
+    }
+    .holiday-month { border: 1px solid var(--border); border-radius: 8px; padding: 1rem 1.2rem; }
+    .holiday-month h3 { color: var(--accent); margin: 0 0 0.7rem; font-size: 1rem; }
+    .holiday-month h3 a { color: inherit; text-decoration: none; }
+    .holiday-month h3 a:hover { text-decoration: underline; }
+    .holiday-list { list-style: none; margin: 0; padding: 0; }
+    .holiday-list li { padding: 0.25rem 0; border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 0.85rem; color: var(--text-muted); }
+    .holiday-list li:last-child { border-bottom: none; }
+    .holiday-list li a { color: var(--link); text-decoration: none; font-weight: 600; }
+    .holiday-list li a:hover { text-decoration: underline; }
+    .holiday-list li span { color: var(--text); }
+    </style>
+
+    <div class="holidays-grid">
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/01/">♐ Sagittarius</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/01/01/">Day 1</a> <span>— New Year's Day (Aster Day)</span></li>
+          <li><a href="{{ base }}/calendar/01/08/">Day 8</a> <span>— Coming of Age Day</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/02/">♑ Capricorn</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/02/07/">Day 7</a> <span>— Groundhog Day</span></li>
+          <li><a href="{{ base }}/calendar/02/14/">Day 14</a> <span>— Valentine's Day · Lupercalia · Chinese New Year</span></li>
+          <li><a href="{{ base }}/calendar/02/21/">Day 21</a> <span>— Kinen-sai</span></li>
+          <li><a href="{{ base }}/calendar/02/28/">Day 28</a> <span>— Lantern Festival</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/03/">♒ Aquarius</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/03/07/">Day 7</a> <span>— Hinamatsuri</span></li>
+          <li><a href="{{ base }}/calendar/03/21/">Day 21</a> <span>— Kōrei-sai · Ides of March · St Patrick's Day</span></li>
+          <li><a href="{{ base }}/calendar/03/28/">Day 28</a> <span>— Easter Sunday*</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/04/">♓ Pisces</a></h3>
+        <p style="font-size:0.8rem;color:var(--text-muted);margin:0 0 0.5rem;">Easter season — Pisces 14 is the historical crucifixion day.</p>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/04/07/">Day 7</a> <span>— Easter Sunday*</span></li>
+          <li><a href="{{ base }}/calendar/04/14/">Day 14</a> <span>— Qingming · Easter Sunday*</span></li>
+          <li><a href="{{ base }}/calendar/04/21/">Day 21</a> <span>— Easter Sunday*</span></li>
+          <li><a href="{{ base }}/calendar/04/28/">Day 28</a> <span>— Easter Sunday*</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/05/">♈ Aries</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/05/14/">Day 14</a> <span>— Cinco de Mayo</span></li>
+          <li><a href="{{ base }}/calendar/05/21/">Day 21</a> <span>— Pentecost/Shavuot*</span></li>
+          <li><a href="{{ base }}/calendar/05/28/">Day 28</a> <span>— Pentecost/Shavuot*</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/06/">♉ Taurus</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/06/07/">Day 7</a> <span>— Pentecost/Shavuot (canonical)*</span></li>
+          <li><a href="{{ base }}/calendar/06/14/">Day 14</a> <span>— Pentecost/Shavuot*</span></li>
+          <li><a href="{{ base }}/calendar/06/21/">Day 21</a> <span>— Pentecost/Shavuot*</span></li>
+          <li><a href="{{ base }}/calendar/06/28/">Day 28</a> <span>— Dragon Boat Festival</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/07/">♊ Gemini</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/07/14/">Day 14</a> <span>— Nagoshi no Ōharai</span></li>
+          <li><a href="{{ base }}/calendar/07/21/">Day 21</a> <span>— Tanabata</span></li>
+          <li><a href="{{ base }}/calendar/07/28/">Day 28</a> <span>— Bastille Day</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/08/">♋ Cancer</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/08/28/">Day 28</a> <span>— Qixi · Columbus landfall in the Americas</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/09/">♌ Leo</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/09/14/">Day 14</a> <span>— Alolalia</span></li>
+          <li><a href="{{ base }}/calendar/09/15/">Day 15</a> <span>— Ghost Festival</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/10/">♍ Virgo — Season of Repentance</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/10/07/">Day 7</a> <span>— Rosh Hashanah</span></li>
+          <li><a href="{{ base }}/calendar/10/12/">Day 12</a> <span>— Mid-Autumn Festival</span></li>
+          <li><a href="{{ base }}/calendar/10/14/">Day 14</a> <span>— Shindensai</span></li>
+          <li><a href="{{ base }}/calendar/10/15/">Day 15</a> <span>— Yom Kippur</span></li>
+          <li><a href="{{ base }}/calendar/10/19/">Day 19</a> <span>— Sukkot begins</span></li>
+          <li><a href="{{ base }}/calendar/10/26/">Day 26</a> <span>— End of Sukkot</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/11/">♎ Libra</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/11/01/">Day 1</a> <span>— Canada Thanksgiving · Japan Sports Day · Columbus/Indigenous Peoples' Day</span></li>
+          <li><a href="{{ base }}/calendar/11/21/">Day 21</a> <span>— Halloween</span></li>
+          <li><a href="{{ base }}/calendar/11/28/">Day 28</a> <span>— Halloween</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/12/">♏ Scorpio</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/12/14/">Day 14</a> <span>— Shichi-Go-San</span></li>
+          <li><a href="{{ base }}/calendar/12/18/">Day 18</a> <span>— US Thanksgiving</span></li>
+          <li><a href="{{ base }}/calendar/12/21/">Day 21</a> <span>— Niiname-sai · End of WWII (V-J Day)</span></li>
+          <li><a href="{{ base }}/calendar/12/25/">Day 25</a> <span>— US Thanksgiving</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/13/">⛎ Ophiuchus</a></h3>
+        <ul class="holiday-list">
+          <li><a href="{{ base }}/calendar/13/21/">Day 21</a> <span>— Christmas Day · Dongzhi Festival</span></li>
+        </ul>
+      </div>
+
+      <div class="holiday-month">
+        <h3><a href="{{ base }}/calendar/14/">𓅃 Horus</a></h3>
+        <ul class="holiday-list">
+          <li><span>Day 1</span> <span>— Birth of Osiris</span></li>
+          <li><span>Day 2</span> <span>— Birth of Horus</span></li>
+          <li><span>Day 3</span> <span>— Birth of Set</span></li>
+          <li><span>Day 4</span> <span>— Birth of Isis</span></li>
+          <li><span>Day 5 (Friday)</span> <span>— Birth of Nephthys · Sabbath</span></li>
+          <li><span>Day 6 (Saturday, leap years)</span> <span>— Sabbath</span></li>
+          <li><span>Day 7 (Sunday, leap years)</span> <span>— New Year's Eve</span></li>
+        </ul>
+      </div>
+
+    </div>{# /.holidays-grid #}
+
+    <p style="font-size:0.8rem;color:var(--text-muted);margin-top:1.5rem;">
+      * Easter can fall on any of five dates (Aquarius 28 through Pisces 28).
+      Pentecost/Shavuot falls 49 days after Easter, giving five possible dates (Aries 21 through Taurus 21);
+      Taurus 7 is canonical. Two Halloweens and two US Thanksgivings reflect the spread across adjacent days.
+    </p>
   </div>
 
   <div class="quick-links fade-in-up">
