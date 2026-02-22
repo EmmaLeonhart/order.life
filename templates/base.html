@@ -161,7 +161,7 @@ function updateWikiCta() {
     if (!el) return;
     const langBase = window.LANG_BASE || '';
     const title = computeLocalWikiTitle(window.location.pathname, langBase);
-    el.href = `https://wiki.order.life/${title}${title.endsWith('_GE') ? '' : '/'}`;
+    el.href = `https://wiki.order.life/${title}`;
   } catch (e) {
     // best-effort; keep the server-rendered href
     console && console.warn && console.warn('wiki cta update failed', e);
