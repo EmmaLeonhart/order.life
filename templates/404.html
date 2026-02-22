@@ -100,10 +100,15 @@
             festLegend +
           '</div>';
 
-        // Load the rendering script now that the DOM structure is in place
-        var script = document.createElement('script');
-        script.src = isFest ? '/static/js/year-festivals.js' : '/static/js/year-page.js';
-        document.body.appendChild(script);
+        // Load festival-data.js first, then the rendering script
+        var dataScript = document.createElement('script');
+        dataScript.src = '/static/js/festival-data.js';
+        dataScript.onload = function() {
+          var script = document.createElement('script');
+          script.src = isFest ? '/static/js/year-festivals.js' : '/static/js/year-page.js';
+          document.body.appendChild(script);
+        };
+        document.body.appendChild(dataScript);
       });
     }
   })();
