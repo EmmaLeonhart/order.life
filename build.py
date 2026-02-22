@@ -650,7 +650,7 @@ def _vevent(dtstart, summary, description, uid):
 _ICAL_FIXED = [
     (1,  1,  "New Year's Day (Aster Day)",                 "new-years-day"),
     (1,  8,  "Coming of Age Day",                          "coming-of-age"),
-    (2,  7,  "Groundhog Day",                              "groundhog-day"),
+    (2,  7,  "Imbolc/Groundhog Day",                              "groundhog-day"),
     (2,  14, "Valentine's Day · Lupercalia",               "valentines-day"),
     (2,  21, "Kinen-sai",                                  "kinen-sai"),
     (2,  28, "Lantern Festival",                           "lantern-festival"),
