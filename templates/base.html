@@ -102,6 +102,12 @@
       ophiuchus: 'Ophiuchus',
       horus: 'Horus'
     };
+    // Numeric month → wiki name (for numeric URL parsing)
+    window.GAIAN_NUM_TO_WIKI = [
+      null,
+      'Sagittarius','Capricorn','Aquarius','Pisces','Aries','Taurus','Gemini',
+      'Cancer','Leo','Virgo','Libra','Scorpio','Ophiuchus','Horus'
+    ];
   </script>
 
   <script>
@@ -121,17 +127,17 @@ function computeLocalWikiTitle(pathname, langBase) {
   const calYear = path.match(/^\/calendar\/year\/(\d+)\/$/);
   if (calYear) return `${calYear[1]}_GE`;
 
-  const calDay = path.match(/^\/calendar\/([a-z-]+)\/(\d{2})\/$/);
+  const calDay = path.match(/^\/calendar\/(\d{2})\/(\d{2})\/$/);
   if (calDay) {
-    const monthId = calDay[1];
+    const monthNum = parseInt(calDay[1], 10);
     const day = parseInt(calDay[2], 10);
-    const monthWiki = (window.GAIAN_WIKI_MONTH && window.GAIAN_WIKI_MONTH[monthId]) || monthId;
+    const monthWiki = (window.GAIAN_NUM_TO_WIKI && window.GAIAN_NUM_TO_WIKI[monthNum]) || String(monthNum);
     return `${monthWiki}_${day}`;
   }
-  const calMonth = path.match(/^\/calendar\/([a-z-]+)\/$/);
+  const calMonth = path.match(/^\/calendar\/(\d{2})\/$/);
   if (calMonth) {
-    const monthId = calMonth[1];
-    const monthWiki = (window.GAIAN_WIKI_MONTH && window.GAIAN_WIKI_MONTH[monthId]) || monthId;
+    const monthNum = parseInt(calMonth[1], 10);
+    const monthWiki = (window.GAIAN_NUM_TO_WIKI && window.GAIAN_NUM_TO_WIKI[monthNum]) || String(monthNum);
     return `${monthWiki}`;
   }
 

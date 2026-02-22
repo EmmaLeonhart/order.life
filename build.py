@@ -182,6 +182,7 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
     weekday = preferred_weekday_names[iso_weekday - 1]
     ge = t.get("gaian_era_abbrev", "GE")
     month_id = gaian_today["month_data"]["id"]
+    month_num_str = f"{gaian_today['month']:02d}"
     month_symbol = gaian_today["month_data"]["symbol"]
     weekday_symbol = WEEKDAYS[iso_weekday - 1]["symbol"]
     day = gaian_today["day"]
@@ -195,7 +196,7 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
         return (
             f"{weekday_symbol}{month_symbol} "
             f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>, "
-            f"{day}-й день <a href='{b}/calendar/{month_id}/'>{month_disp}</a>, "
+            f"{day}-й день <a href='{b}/calendar/{month_num_str}/'>{month_disp}</a>, "
             f"<a href='{b}/calendar/12026/'>{year}</a> года "
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
         )
@@ -204,7 +205,7 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
         return (
             f"{weekday_symbol}{month_symbol} "
             f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>, "
-            f"{day}-й день <a href='{b}/calendar/{month_id}/'>{month_disp}</a>, "
+            f"{day}-й день <a href='{b}/calendar/{month_num_str}/'>{month_disp}</a>, "
             f"<a href='{b}/calendar/12026/'>{year}</a> року "
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
         )
@@ -214,8 +215,8 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
             f"{weekday_symbol}{month_symbol} "
             f"<a href='{b}/calendar/12026/'>{year}</a>"
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a> "
-            f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>"
-            f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
+            f"<a href='{b}/calendar/{month_num_str}/'>{month_disp}</a>"
+            f"<a href='{b}/calendar/{month_num_str}/{day:02d}/'>{day}</a>日（"
             f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>）"
         )
     if lang == "zh":
@@ -224,8 +225,8 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
             f"{weekday_symbol}{month_symbol} "
             f"<a href='{b}/calendar/12026/'>{year}</a>"
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a> "
-            f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>"
-            f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>日（"
+            f"<a href='{b}/calendar/{month_num_str}/'>{month_disp}</a>"
+            f"<a href='{b}/calendar/{month_num_str}/{day:02d}/'>{day}</a>日（"
             f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>）"
         )
     if lang == "ar":
@@ -233,8 +234,8 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
         return (
             f"{weekday_symbol}{month_symbol} "
             f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>، "
-            f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a> "
-            f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a>، "
+            f"<a href='{b}/calendar/{month_num_str}/{day:02d}/'>{day}</a> "
+            f"<a href='{b}/calendar/{month_num_str}/'>{month_disp}</a>، "
             f"<a href='{b}/calendar/12026/'>{year}</a> "
             f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
         )
@@ -244,8 +245,8 @@ def build_gaian_date_html(lang: str, t: dict, gaian_today: dict, iso_weekday: in
     return (
         f"{weekday_symbol}{month_symbol} "
         f"<a href='{b}/calendar/week/{iso_weekday}/'>{weekday}</a>, "
-        f"<a href='{b}/calendar/{month_id}/'>{month_disp}</a> "
-        f"<a href='{b}/calendar/{month_id}/{day:02d}/'>{day}</a>, "
+        f"<a href='{b}/calendar/{month_num_str}/'>{month_disp}</a> "
+        f"<a href='{b}/calendar/{month_num_str}/{day:02d}/'>{day}</a>, "
         f"<a href='{b}/calendar/12026/'>{year}</a> "
         f"<a href='{b}/calendar/gaian-era/'>{ge}</a>"
     )
@@ -1094,9 +1095,21 @@ def build_site():
             wd_short_dir.mkdir(parents=True, exist_ok=True)
             (wd_short_dir / "index.html").write_text(week_redirect(f"{base}/calendar/week/{wd['num']}/"), encoding="utf-8")
 
+        # Helper for simple meta-refresh redirects
+        def cal_redirect(target: str) -> str:
+            return (
+                f'<!DOCTYPE html><html><head><meta charset="UTF-8">'
+                f'<meta http-equiv="refresh" content="0; url={target}">'
+                f'<script>window.location.replace({target!r});</script>'
+                f'</head><body></body></html>'
+            )
+
         # ── Month pages ──
+        # Canonical URL: /calendar/{MM}/   e.g. /calendar/02/
+        # Redirect from: /calendar/{name}/ e.g. /calendar/capricorn/
         for m in MONTHS:
-            month_dir = cal_dir / m["id"]
+            month_num_str = f"{m['num']:02d}"
+            month_dir = cal_dir / month_num_str   # canonical numeric directory
             month_dir.mkdir(parents=True, exist_ok=True)
             days_in_month = 7 if m["num"] == 14 else 28
             wiki_month = month_wiki_content.get(m["id"], {})
@@ -1110,6 +1123,12 @@ def build_site():
                 "wiki_overview": wiki_month.get("overview"),
             }
             render_page(env, "calendar/month.html", month_dir / "index.html", month_ctx)
+
+            # Name-based redirect: /calendar/{name}/ → /calendar/{MM}/
+            name_month_dir = cal_dir / m["id"]
+            name_month_dir.mkdir(parents=True, exist_ok=True)
+            (name_month_dir / "index.html").write_text(
+                cal_redirect(f"{base}/calendar/{month_num_str}/"), encoding="utf-8")
 
             # Day pages
             for d in range(1, days_in_month + 1):
@@ -1129,6 +1148,12 @@ def build_site():
                     "wiki_day_overview": wiki_day.get("overview"),
                 }
                 render_page(env, "calendar/day.html", day_dir / "index.html", day_ctx)
+
+                # Name-based day redirect: /calendar/{name}/{dd}/ → /calendar/{MM}/{dd}/
+                name_day_dir = name_month_dir / f"{d:02d}"
+                name_day_dir.mkdir(parents=True, exist_ok=True)
+                (name_day_dir / "index.html").write_text(
+                    cal_redirect(f"{base}/calendar/{month_num_str}/{d:02d}/"), encoding="utf-8")
 
         # ── Gaiad Scripture ──
         gaiad_dir = lang_dir / "gaiad"

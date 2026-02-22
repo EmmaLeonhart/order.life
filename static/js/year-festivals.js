@@ -427,7 +427,7 @@ function buildFestivalsCalendar(gaianYear) {
         if (isToday) tdCls.push('gyear-today');
 
         const ddStr = String(dayInMonth).padStart(2, '0');
-        const href  = `${basePath}/calendar/${m.id}/${ddStr}/`;
+        const href  = `${basePath}/calendar/${String(m.num).padStart(2, '0')}/${ddStr}/`;
 
         const inner = buildCell(gd, dayInMonth, href, yearData, fullMoons);
         html.push(`<td class="${tdCls.join(' ')}">${inner}</td>`);

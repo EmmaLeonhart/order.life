@@ -223,7 +223,7 @@ function buildYearCalendar(gaianYear) {
         if (isToday)    cls = (cls ? cls + ' ' : '') + 'gyear-today';
 
         const ddStr = String(dayInMonth).padStart(2, '0');
-        const href = `${basePath}/calendar/${m.id}/${ddStr}/`;
+        const href = `${basePath}/calendar/${String(m.num).padStart(2, '0')}/${ddStr}/`;
         html.push(
           `<td${cls ? ` class="${cls}"` : ''}>`
           + `<a href="${href}" title="${fmtShort(gd)}">${dayInMonth}</a>`

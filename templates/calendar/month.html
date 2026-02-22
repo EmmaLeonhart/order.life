@@ -28,7 +28,7 @@
 
     {% for d in range(1, days_in_month + 1) %}
     {% set doy = (month.num - 1) * 28 + d if month.num <= 13 else 364 + d %}
-    <a href="{{ base }}/calendar/{{ month.id }}/{{ '%02d' % d }}/"
+    <a href="{{ base }}/calendar/{{ '%02d' % month.num }}/{{ '%02d' % d }}/"
        class="day-cell{% if gaian_today.month == month.num and gaian_today.day == d %} today{% endif %}">
       <span class="day-number">{{ d }}</span>
       {% if doy <= 364 %}
