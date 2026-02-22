@@ -719,6 +719,7 @@ _CUSTOM_DAY_NOTES = {
             
     (3, 1): ("This day commemorates the emergence of terrestrial life: the moment "
              "the first organisms crossed from sea to land, beginning life's conquest of Earth."),
+            (3,2): ("This day commemorates fungi moving onto earth", "not sure if I need a second one"),
 }
 
 
