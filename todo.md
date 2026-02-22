@@ -8,7 +8,7 @@ Year/month and year/day sub-pages also implemented.
 
 ---
 
-## ⏳ iCal Calendars — Phase 1 (implement now)
+## ✅ iCal Calendars — Phase 1 (complete)
 
 ### Goal
 Generate static subscribable `.ics` files as part of every CI/CD build.

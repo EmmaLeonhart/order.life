@@ -574,6 +574,194 @@ def day_of_year(month_num, day_in_month):
         return 364 + day_in_month
 
 
+# ── iCal Generation ───────────────────────────────────────────────────────
+
+def _easter_gregorian(year):
+    """Easter Sunday via Meeus-Jones-Butcher anonymous Gregorian algorithm."""
+    a = year % 19
+    b = year // 100
+    c = year % 100
+    d = b // 4
+    e = b % 4
+    f = (b + 8) // 25
+    g = (b - f + 1) // 3
+    h = (19 * a + b - d - g + 15) % 30
+    i = c // 4
+    k = c % 4
+    l = (32 + 2 * e + 2 * i - h - k) % 7
+    m = (a + 11 * h + 22 * l) // 451
+    month = (h + l - 7 * m + 114) // 31
+    day = ((h + l - 7 * m + 114) % 31) + 1
+    return datetime.date(year, month, day)
+
+
+def _gaian_day_to_greg(gaian_year, month_num, day_num):
+    """Convert a Gaian year/month/day to a Gregorian datetime.date."""
+    iso_year = gaian_year - 10000
+    jan4 = datetime.date(iso_year, 1, 4)
+    week1_start = jan4 - datetime.timedelta(days=jan4.isoweekday() - 1)
+    offset = ((month_num - 1) * 28 + day_num - 1) if month_num <= 13 \
+             else (364 + day_num - 1)
+    return week1_start + datetime.timedelta(days=offset)
+
+
+def _is_gaian_leap(gaian_year):
+    """True if the Gaian year has 53 ISO weeks (includes Horus month)."""
+    iso_year = gaian_year - 10000
+    dec28 = datetime.date(iso_year, 12, 28)
+    dow = dec28.isoweekday()
+    thu = dec28 + datetime.timedelta(days=4 - dow)
+    jan1 = datetime.date(thu.year, 1, 1)
+    return ((thu - jan1).days + 7) // 7 == 53
+
+
+def _ical_fold(line):
+    """Fold an iCal line at 75 octets with CRLF + space continuation."""
+    encoded = line.encode("utf-8")
+    if len(encoded) <= 75:
+        return line + "\r\n"
+    chunks, pos, first = [], 0, True
+    while pos < len(encoded):
+        limit = 75 if first else 74
+        chunks.append(encoded[pos:pos + limit].decode("utf-8", errors="replace"))
+        pos += limit
+        first = False
+    return "\r\n ".join(chunks) + "\r\n"
+
+
+def _vevent(dtstart, summary, description, uid):
+    """Return a complete VEVENT block string (CRLF line endings)."""
+    dtend = dtstart + datetime.timedelta(days=1)
+    desc_esc = description.replace("\\", "\\\\").replace(",", "\\,").replace("\n", "\\n")
+    lines = [
+        "BEGIN:VEVENT",
+        f"DTSTART;VALUE=DATE:{dtstart:%Y%m%d}",
+        f"DTEND;VALUE=DATE:{dtend:%Y%m%d}",
+        f"SUMMARY:{summary}",
+        f"DESCRIPTION:{desc_esc}",
+        f"UID:{uid}",
+        "END:VEVENT",
+    ]
+    return "".join(_ical_fold(l) for l in lines)
+
+
+# (month_num, day_num, summary, url-slug)
+_ICAL_FIXED = [
+    (1,  1,  "New Year's Day (Aster Day)",                 "new-years-day"),
+    (1,  8,  "Coming of Age Day",                          "coming-of-age"),
+    (2,  7,  "Groundhog Day",                              "groundhog-day"),
+    (2,  14, "Valentine's Day · Lupercalia",               "valentines-day"),
+    (2,  21, "Kinen-sai",                                  "kinen-sai"),
+    (2,  28, "Lantern Festival",                           "lantern-festival"),
+    (3,  7,  "Hinamatsuri",                                "hinamatsuri"),
+    (3,  21, "Korei-sai · Ides of March · St Patrick's Day", "korei-sai"),
+    (5,  14, "Cinco de Mayo",                              "cinco-de-mayo"),
+    (7,  14, "Nagoshi no Oharai",                          "nagoshi"),
+    (7,  21, "Tanabata",                                   "tanabata"),
+    (7,  28, "Bastille Day",                               "bastille-day"),
+    (8,  28, "Qixi",                                       "qixi"),
+    (9,  14, "Alolalia",                                   "alolalia"),
+    (10, 12, "Mid-Autumn Festival",                        "mid-autumn"),
+    (10, 14, "Shindensai",                                 "shindensai"),
+    (11, 1,  "Japan Sports Day",                           "sports-day"),
+    (13, 21, "Christmas Day · Dongzhi Festival",           "christmas"),
+]
+
+_ICAL_HORUS = [
+    (1, "Birth of Osiris"),
+    (2, "Birth of Horus"),
+    (3, "Birth of Set"),
+    (4, "Birth of Isis"),
+    (5, "Birth of Nephthys · Sabbath"),
+    (7, "New Year's Eve"),
+]
+
+_ICAL_CHRISTIAN_OFFSETS = [
+    (-46, "Ash Wednesday",     "ash-wednesday"),
+    (-7,  "Palm Sunday",       "palm-sunday"),
+    (-2,  "Good Friday",       "good-friday"),
+    (-1,  "Holy Saturday",     "holy-saturday"),
+    (0,   "Easter Sunday",     "easter"),
+    (39,  "Ascension Thursday","ascension"),
+    (49,  "Pentecost",         "pentecost"),
+]
+
+
+def generate_ical_files(site_dir):
+    """Generate Gaian Calendar .ics files into site/calendar/ical/."""
+    ical_dir = site_dir / "calendar" / "ical"
+    ical_dir.mkdir(parents=True, exist_ok=True)
+
+    today = datetime.date.today()
+    current_ge = today.isocalendar()[0] + 10000
+
+    month_name = {m["num"]: m["name"] for m in MONTHS}
+
+    ranges = {
+        "current.ics": range(current_ge - 2, current_ge + 3),
+        "gaian-holidays-extended.ics": range(12000, 12041),
+    }
+    cal_names = {
+        "current.ics": "Gaian Calendar Holidays (Current)",
+        "gaian-holidays-extended.ics": "Gaian Calendar Holidays 12000-12040",
+    }
+
+    for filename, year_range in ranges.items():
+        events = []
+        for gy in year_range:
+            iso_year = gy - 10000
+            if iso_year < 1:
+                continue
+            is_leap = _is_gaian_leap(gy)
+
+            for (mn, dn, summary, slug) in _ICAL_FIXED:
+                try:
+                    gd = _gaian_day_to_greg(gy, mn, dn)
+                except Exception:
+                    continue
+                desc = f"Gaian date: {month_name[mn]} {dn}, {gy} GE"
+                uid  = f"gaian-{gy}-{mn:02d}-{dn:02d}-{slug}@order.life"
+                events.append((gd, _vevent(gd, summary, desc, uid)))
+
+            if is_leap:
+                for (dn, summary) in _ICAL_HORUS:
+                    try:
+                        gd = _gaian_day_to_greg(gy, 14, dn)
+                    except Exception:
+                        continue
+                    desc = f"Gaian date: Horus {dn}, {gy} GE (intercalary)"
+                    uid  = f"gaian-{gy}-14-{dn:02d}-horus@order.life"
+                    events.append((gd, _vevent(gd, summary, desc, uid)))
+
+            try:
+                easter = _easter_gregorian(iso_year)
+                for (offset, summary, slug) in _ICAL_CHRISTIAN_OFFSETS:
+                    gd = easter + datetime.timedelta(days=offset)
+                    gaian = gregorian_to_gaian(gd)
+                    mname = month_name.get(gaian["month"], f"Month{gaian['month']}")
+                    desc = (f"{summary}, {gd.strftime('%d %B %Y')}. "
+                            f"Gaian date: {mname} {gaian['day']}, {gy} GE")
+                    uid  = f"gaian-{gy}-christian-{slug}@order.life"
+                    events.append((gd, _vevent(gd, summary, desc, uid)))
+            except Exception:
+                pass
+
+        events.sort(key=lambda x: x[0])
+
+        header = (
+            "BEGIN:VCALENDAR\r\n"
+            "VERSION:2.0\r\n"
+            "PRODID:-//Order of Life//Gaian Calendar//EN\r\n"
+            f"X-WR-CALNAME:{cal_names[filename]}\r\n"
+            "X-WR-CALDESC:Gaian perpetual calendar holidays and Christian season\r\n"
+            "CALSCALE:GREGORIAN\r\n"
+            "METHOD:PUBLISH\r\n"
+        )
+        content = header + "".join(ev for _, ev in events) + "END:VCALENDAR\r\n"
+        (ical_dir / filename).write_bytes(content.encode("utf-8"))
+        print(f"  iCal {filename}: {len(events)} events")
+
+
 # ── Wiki Redirect Generator ───────────────────────────────────────────────
 
 def generate_wiki_redirects(wiki_pages, languages):
@@ -1345,6 +1533,10 @@ def build_site():
         generate_wiki_redirects(wiki_pages, list(translations.keys()))
     finally:
         SITE_DIR = original_site_dir
+
+    # Generate iCal files (language-agnostic, root-level)
+    print("\nGenerating iCal files...")
+    generate_ical_files(SITE_TMP_DIR)
 
     # Write CNAME for GitHub Pages custom domain
     (SITE_TMP_DIR / "CNAME").write_text("order.life\n")
