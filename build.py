@@ -654,6 +654,7 @@ _ICAL_FIXED = [
     (2,  14, "Valentine's Day · Lupercalia",               "valentines-day"),
     (2,  21, "Kinen-sai",                                  "kinen-sai"),
     (2,  28, "Lantern Festival",                           "lantern-festival"),
+    (3,  1,  "Day of Terrestrial Life",                    "terrestrial-life"),
     (3,  7,  "Hinamatsuri",                                "hinamatsuri"),
     (3,  21, "Korei-sai · Ides of March · St Patrick's Day", "korei-sai"),
     (5,  14, "Cinco de Mayo",                              "cinco-de-mayo"),
@@ -706,6 +707,16 @@ def _vevent_span(dtstart, dtend_excl, summary, description, uid):
 def _fmt_greg(d):
     """Format date as '5 April 2026' (no leading zero)."""
     return f"{d.day} {d.strftime('%B %Y')}"
+
+
+# Custom extra notes appended to gaian_day_description() for specific days.
+# Key: (month_num, day_num)
+_CUSTOM_DAY_NOTES = {
+    (1, 1): ("The Gaian New Year always falls on a Monday — embodying the principle "
+             "that all things begin fresh on the first day of the week."),
+    (3, 1): ("This day commemorates the emergence of terrestrial life: the moment "
+             "the first organisms crossed from sea to land, beginning life's conquest of Earth."),
+}
 
 
 def _ordinal(n):
@@ -846,7 +857,8 @@ def gaian_day_description(gaian_year, month_num, day_num):
     else:
         reading = ""
 
-    return " ".join(p for p in [intro, auspicious, reading] if p)
+    custom = _CUSTOM_DAY_NOTES.get((month_num, day_num), "")
+    return " ".join(p for p in [intro, auspicious, reading, custom] if p)
 
 
 def _ical_year_holidays(gy, month_display):
