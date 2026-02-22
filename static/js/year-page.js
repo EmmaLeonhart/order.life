@@ -1,12 +1,15 @@
 'use strict';
 /**
- * year-page.js — Full Gaian year calendar renderer
+ * year-page.js — Compact Gaian year calendar renderer
+ * Layout: months as rows × 28 day columns, weekday header repeats ×4.
  * Requires: GAIAN_YEAR constant set by the page before this script runs.
  */
 
-const WEEKDAY_NAMES_YP = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
-const WEEKDAY_SYMBOLS_YP = ['\u263D','\u2642','\u263F','\u2643','\u2640','\u2644','\u2609'];
-const GREG_MONTHS_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const GREG_MONTHS_FULL = ['January','February','March','April','May','June',
+                           'July','August','September','October','November','December'];
+const GREG_MONTHS_SHORT = ['Jan','Feb','Mar','Apr','May','Jun',
+                            'Jul','Aug','Sep','Oct','Nov','Dec'];
+const WEEKDAYS_FULL = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'];
 
 const GAIAN_MONTH_INFO = [
   { num: 1,  id: 'sagittarius', symbol: '\u2650', name: 'Sagittarius' },
@@ -25,51 +28,37 @@ const GAIAN_MONTH_INFO = [
   { num: 14, id: 'horus',       symbol: '\uD800\uDD43', name: 'Horus' },
 ];
 
-/**
- * Returns a Date set to 00:00:00 local time of Monday of ISO week 1 of `y`.
- * ISO week 1 is the week containing January 4.
- */
+// Sabbath days: Friday (idx 4), Saturday (idx 5), Sunday (idx 6) in 0-based Mon-Sun
+const IS_SABBATH = [false, false, false, false, true, true, true];
+
 function isoWeek1Start(y) {
   const jan4 = new Date(y, 0, 4);
-  const dow = jan4.getDay() || 7; // 1=Mon … 7=Sun
+  const dow = jan4.getDay() || 7;
   const mon = new Date(jan4);
   mon.setDate(jan4.getDate() - (dow - 1));
   mon.setHours(0, 0, 0, 0);
   return mon;
 }
 
-/**
- * Returns 52 or 53 — the number of ISO weeks in Gregorian year `y`.
- * Dec 28 is always in the last ISO week of its year.
- */
 function isoWeeksInYear(y) {
   const dec28 = new Date(y, 11, 28);
   const dow = dec28.getDay() || 7;
-  // Move to Thursday of that week (which is in the same ISO year)
   const thu = new Date(dec28);
   thu.setDate(dec28.getDate() + (4 - dow));
   const jan1 = new Date(thu.getFullYear(), 0, 1);
   return Math.ceil((((thu - jan1) / 86400000) + 1) / 7);
 }
 
-/**
- * Anonymous Gregorian algorithm (Meeus/Jones/Butcher).
- * Returns a Date for Easter Sunday of Gregorian year `y`.
- */
+// Anonymous Gregorian algorithm (Meeus/Jones/Butcher)
 function easterDate(y) {
-  const a = y % 19;
-  const b = Math.floor(y / 100);
-  const c = y % 100;
-  const d = Math.floor(b / 4);
-  const e = b % 4;
-  const f = Math.floor((b + 8) / 25);
-  const g = Math.floor((b - f + 1) / 3);
+  const a = y % 19, b = Math.floor(y / 100), c = y % 100;
+  const d = Math.floor(b / 4), e = b % 4;
+  const f = Math.floor((b + 8) / 25), g = Math.floor((b - f + 1) / 3);
   const h = (19 * a + b - d - g + 15) % 30;
-  const i = Math.floor(c / 4);
-  const k = c % 4;
+  const i = Math.floor(c / 4), k = c % 4;
   const l = (32 + 2 * e + 2 * i - h - k) % 7;
   const m = Math.floor((a + 11 * h + 22 * l) / 451);
-  const month = Math.floor((h + l - 7 * m + 114) / 31); // 1-based
+  const month = Math.floor((h + l - 7 * m + 114) / 31);
   const day = ((h + l - 7 * m + 114) % 31) + 1;
   return new Date(y, month - 1, day);
 }
@@ -86,106 +75,125 @@ function sameDay(a, b) {
       && a.getDate() === b.getDate();
 }
 
-function formatGregorian(date) {
-  const wd = WEEKDAY_NAMES_YP[(date.getDay() || 7) - 1].slice(0, 3);
-  const day = date.getDate();
-  const mon = GREG_MONTHS_SHORT[date.getMonth()];
-  const yr = date.getFullYear();
-  return `${wd} ${day} ${mon} ${yr}`;
+// "Monday 29 December 2025"
+function fmtFull(date) {
+  const wd = WEEKDAYS_FULL[(date.getDay() || 7) - 1];
+  return `${wd} ${date.getDate()} ${GREG_MONTHS_FULL[date.getMonth()]} ${date.getFullYear()}`;
 }
 
-/** Map 1-based dayOfYear (1–371) to { month, dayInMonth }. */
-function gaianMonthAndDay(dayOfYear) {
-  if (dayOfYear > 364) {
-    return { month: GAIAN_MONTH_INFO[13], dayInMonth: dayOfYear - 364 };
-  }
-  const m0 = Math.floor((dayOfYear - 1) / 28);
-  const dayInMonth = ((dayOfYear - 1) % 28) + 1;
-  return { month: GAIAN_MONTH_INFO[m0], dayInMonth };
+// "Mon 29 Dec 2025" — used for cell title attributes
+function fmtShort(date) {
+  const wd = WEEKDAYS_FULL[(date.getDay() || 7) - 1].slice(0, 3);
+  return `${wd} ${date.getDate()} ${GREG_MONTHS_SHORT[date.getMonth()]} ${date.getFullYear()}`;
 }
 
 function buildYearCalendar(gaianYear) {
   const isoYear = gaianYear - 10000;
   const yearStart = isoWeek1Start(isoYear);
   const totalWeeks = isoWeeksInYear(isoYear);
-  const totalDays = totalWeeks * 7; // 364 (52w) or 371 (53w)
+  const totalDays = totalWeeks * 7;
   const yearEnd = datePlusDays(yearStart, totalDays - 1);
   const easter = easterDate(isoYear);
-  const basePath = (typeof window !== 'undefined' && window.LANG_BASE) || '';
+  const hasHorus = totalWeeks === 53;
+  const basePath = (window.LANG_BASE) || '';
 
-  // Update static heading elements
+  // Pre-compute a Gregorian Date for each day of the Gaian year
+  const gregDates = [];
+  for (let i = 0; i < totalDays; i++) gregDates.push(datePlusDays(yearStart, i));
+
+  // Find Easter's Gaian position (Easter is always on Gregorian Sunday = Gaian Sunday)
+  let easterGaianName = '';
+  for (let i = 0; i < totalDays; i++) {
+    if (sameDay(gregDates[i], easter)) {
+      const dayNum = i + 1;
+      const mi = dayNum > 364 ? 13 : Math.floor((dayNum - 1) / 28);
+      const dim = dayNum > 364 ? dayNum - 364 : ((dayNum - 1) % 28) + 1;
+      easterGaianName = `${GAIAN_MONTH_INFO[mi].name}\u00a0${dim}`;
+      break;
+    }
+  }
+
+  // ── Update headings ──────────────────────────────────────────────────────
   const heading = document.getElementById('year-heading');
   if (heading) heading.textContent = `${gaianYear} GE`;
 
   const sub = document.getElementById('year-subheading');
   if (sub) {
-    sub.textContent = `${formatGregorian(yearStart)} \u2014 ${formatGregorian(yearEnd)}`;
+    const horusNote = hasHorus ? '53-week year \u2014 Horus included'
+                               : '52-week year \u2014 no Horus';
+    const easterNote = easterGaianName
+      ? `\u00a0\u00b7 Easter: ${fmtShort(easter)} (${easterGaianName})`
+      : '';
+    sub.textContent =
+      `${fmtFull(yearStart)} \u2013 ${fmtFull(yearEnd)} \u00b7 ${horusNote}${easterNote}`;
   }
 
   const wikiLink = document.getElementById('wiki-link');
   if (wikiLink) {
     wikiLink.href = `https://wiki.order.life/wiki/${gaianYear}_GE`;
-    wikiLink.textContent = `${gaianYear} GE \u2014 Wiki`;
+    wikiLink.textContent = `${gaianYear}\u00a0GE \u2014 Wiki`;
   }
 
+  // ── Build compact grid table ─────────────────────────────────────────────
   const container = document.getElementById('year-calendar');
   if (!container) return;
 
-  // Collect all days
-  const days = [];
-  for (let i = 0; i < totalDays; i++) {
-    const dayNum = i + 1;
-    const gregDate = datePlusDays(yearStart, i);
-    const { month, dayInMonth } = gaianMonthAndDay(dayNum);
-    // In the Gaian perpetual calendar, day 1 is always Monday (weekdayIdx 0).
-    const weekdayIdx = (dayInMonth - 1) % 7; // 0=Mon … 6=Sun
-    days.push({ dayNum, gregDate, month, dayInMonth, weekdayIdx, isEaster: sameDay(gregDate, easter) });
-  }
+  const WD_ABBR = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
 
-  // Group by month
-  const monthGroups = [];
-  let current = null;
-  for (const day of days) {
-    if (!current || current.month.num !== day.month.num) {
-      current = { month: day.month, days: [] };
-      monthGroups.push(current);
-    }
-    current.days.push(day);
-  }
-
-  // Render
   const html = [];
-  for (const group of monthGroups) {
-    const m = group.month;
-    html.push(`<section class="year-month year-month-${m.id}">`);
-    html.push(`<h2>${m.symbol} ${m.name}</h2>`);
-    html.push('<table class="year-table">');
-    html.push('<thead><tr>');
-    html.push('<th>Gaian Date</th><th>#</th><th>Gregorian</th><th>Weekday</th><th>Gaiad</th><th>Notes</th>');
-    html.push('</tr></thead><tbody>');
-    for (const day of group.days) {
-      const gaianDate = `${m.name}\u00a0${String(day.dayInMonth).padStart(2, '0')}`;
-      const gregStr = formatGregorian(day.gregDate);
-      const sym = WEEKDAY_SYMBOLS_YP[day.weekdayIdx];
-      const wdName = WEEKDAY_NAMES_YP[day.weekdayIdx];
-      let gaiadCell = '';
-      if (day.dayNum <= 364) {
-        const ch = String(day.dayNum).padStart(3, '0');
-        gaiadCell = `<a href="${basePath}/gaiad/${ch}/">${day.dayNum}</a>`;
-      }
-      const notes = day.isEaster ? '\uD83D\uDC23 Easter' : '';
-      const rowClass = day.isEaster ? ' class="easter-row"' : '';
-      html.push(`<tr${rowClass}>`);
-      html.push(`<td>${gaianDate}</td><td>${day.dayNum}</td><td>${gregStr}</td><td>${sym}\u202f${wdName}</td><td>${gaiadCell}</td><td>${notes}</td>`);
-      html.push('</tr>');
-    }
-    html.push('</tbody></table></section>');
+  html.push('<div class="year-cal-wrap">');
+  html.push('<table class="gaian-year-table">');
+
+  // Header: blank month cell + 28 weekday headers (4 × Mon-Sun)
+  html.push('<thead><tr>');
+  html.push('<th class="gyear-month-hdr"></th>');
+  for (let dc = 0; dc < 28; dc++) {
+    const wi = dc % 7;
+    html.push(`<th class="${IS_SABBATH[wi] ? 'gyear-sab' : ''}">${WD_ABBR[wi]}</th>`);
   }
+  html.push('</tr></thead>');
+
+  // Body: one row per month
+  html.push('<tbody>');
+  const numMonths = hasHorus ? 14 : 13;
+  for (let mi = 0; mi < numMonths; mi++) {
+    const m = GAIAN_MONTH_INFO[mi];
+    const daysInMonth = mi === 13 ? 7 : 28;
+    html.push('<tr>');
+    html.push(`<th class="gyear-month-hdr">${m.symbol}\u00a0${m.name}</th>`);
+
+    for (let dc = 0; dc < 28; dc++) {
+      const dayInMonth = dc + 1;
+      const wi = dc % 7;  // 0=Mon … 6=Sun
+      const isSab = IS_SABBATH[wi];
+
+      if (dayInMonth > daysInMonth) {
+        // Unused cell (only applies to Horus row, days 8–28)
+        html.push(`<td class="gyear-empty${isSab ? ' gyear-sab' : ''}"></td>`);
+      } else {
+        const dayOfYear = mi < 13 ? mi * 28 + dayInMonth : 364 + dayInMonth;
+        const gd = gregDates[dayOfYear - 1];
+        const isEaster = sameDay(gd, easter);
+
+        let cls = isSab ? 'gyear-sab' : '';
+        if (isEaster) cls = cls ? cls + ' gyear-easter' : 'gyear-easter';
+
+        const ddStr = String(dayInMonth).padStart(2, '0');
+        const href = `${basePath}/calendar/${m.id}/${ddStr}/`;
+        html.push(
+          `<td${cls ? ` class="${cls}"` : ''}>`
+          + `<a href="${href}" title="${fmtShort(gd)}">${dayInMonth}</a>`
+          + `</td>`
+        );
+      }
+    }
+    html.push('</tr>');
+  }
+  html.push('</tbody></table></div>');
 
   container.innerHTML = html.join('');
 }
 
-// Run immediately — this script is at the bottom of <body>, DOM is ready.
 if (typeof GAIAN_YEAR !== 'undefined') {
   buildYearCalendar(GAIAN_YEAR);
 }
