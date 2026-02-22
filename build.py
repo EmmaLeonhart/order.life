@@ -714,6 +714,9 @@ def _fmt_greg(d):
 _CUSTOM_DAY_NOTES = {
     (1, 1): ("The Gaian New Year always falls on a Monday — embodying the principle "
              "that all things begin fresh on the first day of the week."),
+    (2, 7): ("This is the day sometimes seen as the beginning of spring. Not very well known we need more info on rites and how to do it. "
+             "...."),
+            
     (3, 1): ("This day commemorates the emergence of terrestrial life: the moment "
              "the first organisms crossed from sea to land, beginning life's conquest of Earth."),
 }
