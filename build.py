@@ -687,64 +687,187 @@ _ICAL_CHRISTIAN_OFFSETS = [
 ]
 
 
+def _vevent_span(dtstart, dtend_excl, summary, description, uid):
+    """Multi-day all-day spanning event (e.g. Lent, Eastertide)."""
+    desc_esc = description.replace("\\", "\\\\").replace(",", "\\,").replace("\n", "\\n")
+    lines = [
+        "BEGIN:VEVENT",
+        f"DTSTART;VALUE=DATE:{dtstart:%Y%m%d}",
+        f"DTEND;VALUE=DATE:{dtend_excl:%Y%m%d}",
+        f"SUMMARY:{summary}",
+        f"DESCRIPTION:{desc_esc}",
+        f"UID:{uid}",
+        "END:VEVENT",
+    ]
+    return "".join(_ical_fold(l) for l in lines)
+
+
+def _fmt_greg(d):
+    """Format date as '5 April 2026' (no leading zero)."""
+    return f"{d.day} {d.strftime('%B %Y')}"
+
+
+def gaian_day_description(gaian_year, month_num, day_num):
+    """Return a plain-text description for a Gaian calendar day.
+
+    Placeholder implementation — Phase 3 will enrich with historical events,
+    cross-calendar coincidences, and scheduled Lifeism events.
+    """
+    m = MONTHS[month_num - 1]
+    try:
+        gd = _gaian_day_to_greg(gaian_year, month_num, day_num)
+        greg_str = _fmt_greg(gd)
+    except Exception:
+        greg_str = None
+
+    if month_num <= 13:
+        chapter = (month_num - 1) * 28 + day_num
+        chapter_note = f"Gaiad Chapter {chapter} of 364."
+    else:
+        chapter_note = "Horus intercalary day — no Gaiad chapter."
+
+    theme = MONTH_THEMES.get(m["id"])
+    theme_note = f"{theme[0]}." if theme else ""
+
+    parts = []
+    if greg_str:
+        parts.append(f"{greg_str} (Gregorian).")
+    parts.append(chapter_note)
+    if theme_note:
+        parts.append(theme_note)
+    return " ".join(parts)
+
+
+def _ical_year_holidays(gy, month_display):
+    """Return list of (date, vevent_str) for all holiday events in a Gaian year."""
+    events = []
+    is_leap = _is_gaian_leap(gy)
+    iso_year = gy - 10000
+
+    for (mn, dn, summary, slug) in _ICAL_FIXED:
+        try:
+            gd = _gaian_day_to_greg(gy, mn, dn)
+        except Exception:
+            continue
+        desc = f"Gaian date: {month_display[mn]} {dn}, {gy} GE"
+        uid  = f"gaian-{gy}-{mn:02d}-{dn:02d}-{slug}@order.life"
+        events.append((gd, _vevent(gd, summary, desc, uid)))
+
+    if is_leap:
+        for (dn, summary) in _ICAL_HORUS:
+            try:
+                gd = _gaian_day_to_greg(gy, 14, dn)
+            except Exception:
+                continue
+            desc = f"Gaian date: Horus {dn}, {gy} GE (intercalary)"
+            uid  = f"gaian-{gy}-14-{dn:02d}-horus@order.life"
+            events.append((gd, _vevent(gd, summary, desc, uid)))
+
+    try:
+        easter = _easter_gregorian(iso_year)
+        for (offset, summary, slug) in _ICAL_CHRISTIAN_OFFSETS:
+            gd = easter + datetime.timedelta(days=offset)
+            gaian = gregorian_to_gaian(gd)
+            mname = month_display.get(gaian["month"], f"Month{gaian['month']}")
+            desc = (f"{summary}, {_fmt_greg(gd)}. "
+                    f"Gaian date: {mname} {gaian['day']}, {gy} GE")
+            uid  = f"gaian-{gy}-christian-{slug}@order.life"
+            events.append((gd, _vevent(gd, summary, desc, uid)))
+    except Exception:
+        pass
+
+    return events
+
+
+def _ical_year_daily(gy, month_display):
+    """Return list of (date, vevent_str) for every day of a Gaian year."""
+    events = []
+    is_leap = _is_gaian_leap(gy)
+    num_months = 14 if is_leap else 13
+
+    for mn in range(1, num_months + 1):
+        days_in_m = 7 if mn == 14 else 28
+        m = MONTHS[mn - 1]
+        for dn in range(1, days_in_m + 1):
+            try:
+                gd = _gaian_day_to_greg(gy, mn, dn)
+            except Exception:
+                continue
+            summary = f"{m['symbol']} {m['id'].capitalize()} {dn}, {gy} GE"
+            desc    = gaian_day_description(gy, mn, dn)
+            uid     = f"gaian-{gy}-{mn:02d}-{dn:02d}-daily@order.life"
+            events.append((gd, _vevent(gd, summary, desc, uid)))
+
+    return events
+
+
+def _ical_year_seasons(gy):
+    """Return list of (date, vevent_str) for Lent and Eastertide season spans."""
+    events = []
+    iso_year = gy - 10000
+    try:
+        easter    = _easter_gregorian(iso_year)
+        ash_wed   = easter - datetime.timedelta(days=46)
+        pentecost = easter + datetime.timedelta(days=49)
+
+        lent_desc = (f"Season of Lent: {_fmt_greg(ash_wed)} to {_fmt_greg(easter)}. "
+                     f"40 days of fasting and reflection before Easter.")
+        events.append((ash_wed, _vevent_span(
+            ash_wed, easter + datetime.timedelta(days=1),
+            "Season of Lent", lent_desc,
+            f"gaian-{gy}-lent-season@order.life"
+        )))
+
+        tide_desc = (f"Eastertide: {_fmt_greg(easter)} to {_fmt_greg(pentecost)}. "
+                     f"49 days from Easter to Pentecost.")
+        events.append((easter, _vevent_span(
+            easter, pentecost + datetime.timedelta(days=1),
+            "Eastertide", tide_desc,
+            f"gaian-{gy}-eastertide@order.life"
+        )))
+    except Exception:
+        pass
+    return events
+
+
 def generate_ical_files(site_dir):
     """Generate Gaian Calendar .ics files into site/calendar/ical/."""
     ical_dir = site_dir / "calendar" / "ical"
     ical_dir.mkdir(parents=True, exist_ok=True)
 
-    today = datetime.date.today()
+    today      = datetime.date.today()
     current_ge = today.isocalendar()[0] + 10000
 
-    month_name = {m["num"]: m["name"] for m in MONTHS}
+    # month_display: num → display name (capitalize id, "scorpius" → "Scorpius")
+    month_display = {m["num"]: m["id"].capitalize() for m in MONTHS}
 
-    ranges = {
-        "current.ics": range(current_ge - 2, current_ge + 3),
-        "gaian-holidays-extended.ics": range(12000, 12041),
-    }
-    cal_names = {
-        "current.ics": "Gaian Calendar Holidays (Current)",
-        "gaian-holidays-extended.ics": "Gaian Calendar Holidays 12000-12040",
+    files = {
+        "current.ics": {
+            "years":    range(current_ge - 2, current_ge + 3),
+            "calname":  "Gaian Calendar (Current)",
+            "caldesc":  "Gaian perpetual calendar: daily events, holidays, Lent and Eastertide",
+            "daily":    True,
+            "seasons":  True,
+        },
+        "gaian-holidays-extended.ics": {
+            "years":    range(12000, 12041),
+            "calname":  "Gaian Calendar Holidays 12000-12040",
+            "caldesc":  "Gaian perpetual calendar holidays and Christian season, 2000-2040",
+            "daily":    False,
+            "seasons":  False,
+        },
     }
 
-    for filename, year_range in ranges.items():
+    for filename, cfg in files.items():
         events = []
-        for gy in year_range:
-            iso_year = gy - 10000
-            if iso_year < 1:
+        for gy in cfg["years"]:
+            if gy - 10000 < 1:
                 continue
-            is_leap = _is_gaian_leap(gy)
-
-            for (mn, dn, summary, slug) in _ICAL_FIXED:
-                try:
-                    gd = _gaian_day_to_greg(gy, mn, dn)
-                except Exception:
-                    continue
-                desc = f"Gaian date: {month_name[mn]} {dn}, {gy} GE"
-                uid  = f"gaian-{gy}-{mn:02d}-{dn:02d}-{slug}@order.life"
-                events.append((gd, _vevent(gd, summary, desc, uid)))
-
-            if is_leap:
-                for (dn, summary) in _ICAL_HORUS:
-                    try:
-                        gd = _gaian_day_to_greg(gy, 14, dn)
-                    except Exception:
-                        continue
-                    desc = f"Gaian date: Horus {dn}, {gy} GE (intercalary)"
-                    uid  = f"gaian-{gy}-14-{dn:02d}-horus@order.life"
-                    events.append((gd, _vevent(gd, summary, desc, uid)))
-
-            try:
-                easter = _easter_gregorian(iso_year)
-                for (offset, summary, slug) in _ICAL_CHRISTIAN_OFFSETS:
-                    gd = easter + datetime.timedelta(days=offset)
-                    gaian = gregorian_to_gaian(gd)
-                    mname = month_name.get(gaian["month"], f"Month{gaian['month']}")
-                    desc = (f"{summary}, {gd.strftime('%d %B %Y')}. "
-                            f"Gaian date: {mname} {gaian['day']}, {gy} GE")
-                    uid  = f"gaian-{gy}-christian-{slug}@order.life"
-                    events.append((gd, _vevent(gd, summary, desc, uid)))
-            except Exception:
-                pass
+            events += _ical_year_holidays(gy, month_display)
+            if cfg["daily"]:
+                events += _ical_year_daily(gy, month_display)
+            if cfg["seasons"]:
+                events += _ical_year_seasons(gy)
 
         events.sort(key=lambda x: x[0])
 
@@ -752,8 +875,8 @@ def generate_ical_files(site_dir):
             "BEGIN:VCALENDAR\r\n"
             "VERSION:2.0\r\n"
             "PRODID:-//Order of Life//Gaian Calendar//EN\r\n"
-            f"X-WR-CALNAME:{cal_names[filename]}\r\n"
-            "X-WR-CALDESC:Gaian perpetual calendar holidays and Christian season\r\n"
+            f"X-WR-CALNAME:{cfg['calname']}\r\n"
+            f"X-WR-CALDESC:{cfg['caldesc']}\r\n"
             "CALSCALE:GREGORIAN\r\n"
             "METHOD:PUBLISH\r\n"
         )
