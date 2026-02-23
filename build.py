@@ -884,8 +884,13 @@ def _ical_year_holidays(gy, month_display, lang="en"):
         key_lang = f"{field}_{lang}"
         return h.get(key_lang) or h.get(field, "")
 
+    def _build_desc(gaian_label, h_obj):
+        """Build iCal DESCRIPTION: Gaian date label + note if present."""
+        note = h_obj.get("note", "") if h_obj else ""
+        return f"{gaian_label}\n{note}".strip() if note else gaian_label
+
     for (mn, dn, _summary_en, slug) in _ICAL_FIXED:
-        # Look up the full holiday object to get localized summary
+        # Look up the full holiday object to get localized summary and note
         h_obj = next((h for h in _GAIAN_DAYS["holidays"]
                       if h["month"] == mn and h["day"] == dn and h.get("slug") == slug), None)
         summary = (_localized(h_obj) if h_obj else _summary_en)
@@ -893,7 +898,7 @@ def _ical_year_holidays(gy, month_display, lang="en"):
             gd = _gaian_day_to_greg(gy, mn, dn)
         except Exception:
             continue
-        desc = f"Gaian date: {month_display[mn]} {dn}, {gy} GE"
+        desc = _build_desc(f"Gaian date: {month_display[mn]} {dn}, {gy} GE", h_obj)
         uid  = f"gaian-{gy}-{mn:02d}-{dn:02d}-{slug}@order.life"
         events.append((gd, _vevent(gd, summary, desc, uid)))
 
@@ -907,7 +912,7 @@ def _ical_year_holidays(gy, month_display, lang="en"):
                 gd = _gaian_day_to_greg(gy, 14, dn)
             except Exception:
                 continue
-            desc = f"Gaian date: Horus {dn}, {gy} GE (intercalary)"
+            desc = _build_desc(f"Gaian date: Horus {dn}, {gy} GE (intercalary)", h)
             uid  = f"gaian-{gy}-14-{dn:02d}-horus@order.life"
             events.append((gd, _vevent(gd, summary, desc, uid)))
     else:
@@ -923,7 +928,7 @@ def _ical_year_holidays(gy, month_display, lang="en"):
             except Exception:
                 continue
             mname = month_display.get(fb["month"], f"Month{fb['month']}")
-            desc = f"Gaian date: {mname} {fb['day']}, {gy} GE"
+            desc = _build_desc(f"Gaian date: {mname} {fb['day']}, {gy} GE", h)
             slug = h.get("slug", f"{fb['month']}-{fb['day']}")
             uid  = f"gaian-{gy}-{fb['month']:02d}-{fb['day']:02d}-{slug}@order.life"
             events.append((gd, _vevent(gd, summary, desc, uid)))
