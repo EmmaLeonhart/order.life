@@ -1,10 +1,11 @@
 {
-  "_comment": "Gaian calendar day data. 1:Sag, 2:Cap, 3:Aqu, 4:Pis, 5:Ari, 6:Tau, 7:Gem, 8:Can, 9:Leo, 10:Vir, 11:Lib, 12:Sco, 13:Oph, 14:Hor (leap only). Each entry may have: month, day, summary (holiday display name), slug (for iCal UID), note (longer description shown on day page), non_leap_fallback (for Horus days that move to the last day of Ophiuchus in non-leap years).",
+  "_comment": "Gaian calendar day data. 1:Sag, 2:Cap, 3:Aqu, 4:Pis, 5:Ari, 6:Tau, 7:Gem, 8:Can, 9:Leo, 10:Vir, 11:Lib, 12:Sco, 13:Oph, 14:Hor (leap only). Each entry may have: month, day, summary (holiday display name), summary_ja (Japanese), slug (for iCal UID), note (longer description shown on day page), non_leap_fallback (for Horus days that move to Ophiuchus 28 in non-leap years).",
   "holidays": [
     {
       "month": 1,
       "day": 1,
       "summary": "New Year's Day (Aster Day)",
+      "summary_ja": "元旦（アスター日）",
       "slug": "new-years-day",
       "note": "The Gaian New Year always falls on a Monday."
     },
@@ -12,36 +13,42 @@
       "month": 1,
       "day": 8,
       "summary": "Coming of Age Day",
+      "summary_ja": "成人の日",
       "slug": "coming-of-age"
     },
     {
       "month": 2,
       "day": 7,
       "summary": "Imbolc / Groundhog Day",
+      "summary_ja": "イムボルク",
       "slug": "groundhog-day"
     },
     {
       "month": 2,
       "day": 14,
       "summary": "Valentine's Day · Lupercalia · Lunar New Year",
+      "summary_ja": "バレンタインデー・旧正月",
       "slug": "valentines-day"
     },
     {
       "month": 2,
       "day": 21,
       "summary": "Kinen-sai",
+      "summary_ja": "紀元節",
       "slug": "kinen-sai"
     },
     {
       "month": 2,
       "day": 28,
       "summary": "Lantern Festival",
+      "summary_ja": "元宵節",
       "slug": "lantern-festival"
     },
     {
       "month": 3,
       "day": 1,
       "summary": "Day of Terrestrial Life",
+      "summary_ja": "陸上生命の日",
       "slug": "terrestrial-life",
       "note": "Commemorates the emergence of terrestrial life from the sea."
     },
@@ -54,48 +61,56 @@
       "month": 3,
       "day": 7,
       "summary": "Hinamatsuri (Doll Festival)",
+      "summary_ja": "ひな祭り",
       "slug": "hinamatsuri"
     },
     {
       "month": 3,
       "day": 21,
       "summary": "Kōrei-sai · Ides of March · St. Patrick's Day",
+      "summary_ja": "皇霊祭",
       "slug": "korei-sai"
     },
     {
       "month": 3,
       "day": 28,
       "summary": "Easter Sunday (I)",
+      "summary_ja": "復活祭（候補日I）",
       "slug": "easter-1"
     },
     {
       "month": 4,
       "day": 7,
       "summary": "Easter Sunday (II)",
+      "summary_ja": "復活祭（候補日II）",
       "slug": "easter-2"
     },
     {
       "month": 4,
       "day": 14,
       "summary": "Qingming Festival · Easter Sunday (III)",
+      "summary_ja": "清明節・復活祭（候補日III）",
       "slug": "qingming"
     },
     {
       "month": 4,
       "day": 21,
       "summary": "Easter Sunday (IV)",
+      "summary_ja": "復活祭（候補日IV）",
       "slug": "easter-4"
     },
     {
       "month": 4,
       "day": 28,
       "summary": "Easter Sunday (V)",
+      "summary_ja": "復活祭（候補日V）",
       "slug": "easter-5"
     },
     {
       "month": 5,
       "day": 7,
       "summary": "Festival of Flora",
+      "summary_ja": "フローラ祭",
       "slug": "flora",
       "note": "Floralia: celebrating the blooming of spring flowers."
     },
@@ -103,24 +118,28 @@
       "month": 5,
       "day": 14,
       "summary": "Cinco de Mayo",
+      "summary_ja": "シンコ・デ・マヨ",
       "slug": "cinco-de-mayo"
     },
     {
       "month": 5,
       "day": 21,
       "summary": "Aries Solstice Rites",
+      "summary_ja": "牡羊座の至点祭",
       "slug": "aries-solstice"
     },
     {
       "month": 6,
       "day": 7,
       "summary": "Pentecost",
+      "summary_ja": "聖霊降臨祭",
       "slug": "pentecost"
     },
     {
       "month": 6,
       "day": 28,
       "summary": "Dragon Boat Festival",
+      "summary_ja": "端午節（龍舟節）",
       "slug": "dragon-boat",
       "note": "The Dragon Boat Festival falls on the double fifth lunar, mapped here for Taurus season."
     },
@@ -128,132 +147,154 @@
       "month": 7,
       "day": 14,
       "summary": "Nagoshi no Ōharai",
+      "summary_ja": "夏越の大祓",
       "slug": "nagoshi"
     },
     {
       "month": 7,
       "day": 21,
       "summary": "Tanabata (Star Festival)",
+      "summary_ja": "七夕",
       "slug": "tanabata"
     },
     {
       "month": 7,
       "day": 28,
       "summary": "Bastille Day",
+      "summary_ja": "バスティーユ記念日",
       "slug": "bastille-day"
     },
     {
       "month": 8,
       "day": 28,
       "summary": "Qixi (Festival of the Double Sevens)",
+      "summary_ja": "七夕（乞巧奠）",
       "slug": "qixi"
     },
     {
       "month": 9,
       "day": 14,
       "summary": "Alolalia",
+      "summary_ja": "アロラリア",
       "slug": "alolalia"
     },
     {
       "month": 9,
       "day": 15,
       "summary": "Ghost Festival (Zhongyuan)",
+      "summary_ja": "中元節（盂蘭盆会）",
       "slug": "ghost-festival"
     },
     {
       "month": 10,
       "day": 12,
       "summary": "Mid-Autumn Festival",
+      "summary_ja": "中秋節",
       "slug": "mid-autumn"
     },
     {
       "month": 10,
       "day": 14,
       "summary": "Shindensai",
+      "summary_ja": "神殿祭",
       "slug": "shindensai"
     },
     {
       "month": 11,
       "day": 1,
       "summary": "Japan Sports Day · Canada Thanksgiving · Indigenous Peoples' Day",
+      "summary_ja": "スポーツの日・カナダ感謝祭",
       "slug": "harvest-day"
     },
     {
       "month": 11,
       "day": 21,
       "summary": "Halloween (Eve of Ancestors)",
+      "summary_ja": "ハロウィン（祖先の宵）",
       "slug": "halloween-1"
     },
     {
       "month": 11,
       "day": 28,
       "summary": "Samhain / Halloween Final",
+      "summary_ja": "サウィン",
       "slug": "halloween-2"
     },
     {
       "month": 12,
       "day": 14,
       "summary": "Shichi-Go-San",
+      "summary_ja": "七五三",
       "slug": "shichi-go-san"
     },
     {
       "month": 12,
       "day": 18,
       "summary": "US Thanksgiving (Observed)",
+      "summary_ja": "感謝祭（米国）",
       "slug": "thanksgiving-us-1"
     },
     {
       "month": 12,
       "day": 21,
       "summary": "Niiname-sai",
+      "summary_ja": "新嘗祭",
       "slug": "niiname-sai"
     },
     {
       "month": 12,
       "day": 25,
       "summary": "US Thanksgiving (Traditional)",
+      "summary_ja": "感謝祭（米国・伝統）",
       "slug": "thanksgiving-us-2"
     },
     {
       "month": 13,
       "day": 21,
       "summary": "Christmas Day · Dongzhi Festival",
+      "summary_ja": "クリスマス・冬至",
       "slug": "christmas"
     },
     {
       "month": 14,
       "day": 1,
       "summary": "Birth of Osiris",
+      "summary_ja": "オシリス誕生日",
       "slug": "horus-osiris"
     },
     {
       "month": 14,
       "day": 2,
       "summary": "Birth of Horus",
+      "summary_ja": "ホルス誕生日",
       "slug": "horus-horus"
     },
     {
       "month": 14,
       "day": 3,
       "summary": "Birth of Set",
+      "summary_ja": "セト誕生日",
       "slug": "horus-set"
     },
     {
       "month": 14,
       "day": 4,
       "summary": "Birth of Isis",
+      "summary_ja": "イシス誕生日",
       "slug": "horus-isis"
     },
     {
       "month": 14,
       "day": 5,
       "summary": "Birth of Nephthys · Sabbath",
+      "summary_ja": "ネフティス誕生日・安息日",
       "slug": "horus-nephthys"
     },
     {
       "month": 14,
       "day": 7,
       "summary": "New Year's Eve",
+      "summary_ja": "大晦日",
       "slug": "new-years-eve",
       "non_leap_fallback": {"month": 13, "day": 28}
     }

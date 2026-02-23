@@ -673,6 +673,35 @@ _ICAL_CHRISTIAN_OFFSETS = [
     (49,  "Pentecost",         "pentecost"),
 ]
 
+# Japanese names for Christian calendar events (slug → Japanese summary)
+_CHRISTIAN_NAMES_JA = {
+    "ash-wednesday": "灰の水曜日",
+    "palm-sunday":   "枝の主日",
+    "good-friday":   "聖金曜日",
+    "holy-saturday": "聖土曜日",
+    "easter":        "復活祭",
+    "ascension":     "昇天祭",
+    "pentecost":     "聖霊降臨祭",
+}
+
+# Japanese display names for Gaian months
+_MONTH_NAMES_JA = {
+    "sagittarius": "射手座",
+    "capricorn":   "山羊座",
+    "aquarius":    "水瓶座",
+    "pisces":      "魚座",
+    "aries":       "牡羊座",
+    "taurus":      "牡牛座",
+    "gemini":      "双子座",
+    "cancer":      "蟹座",
+    "leo":         "獅子座",
+    "virgo":       "乙女座",
+    "libra":       "天秤座",
+    "scorpius":    "蠍座",
+    "ophiuchus":   "蛇遣座",
+    "horus":       "ホルス月",
+}
+
 
 def _vevent_span(dtstart, dtend_excl, summary, description, uid):
     """Multi-day all-day spanning event (e.g. Lent, Eastertide)."""
@@ -844,13 +873,22 @@ def gaian_day_description(gaian_year, month_num, day_num):
     return " ".join(p for p in [intro, auspicious, custom, reading] if p)
 
 
-def _ical_year_holidays(gy, month_display):
+def _ical_year_holidays(gy, month_display, lang="en"):
     """Return list of (date, vevent_str) for all holiday events in a Gaian year."""
     events = []
     is_leap = _is_gaian_leap(gy)
     iso_year = gy - 10000
 
-    for (mn, dn, summary, slug) in _ICAL_FIXED:
+    def _localized(h, field="summary"):
+        """Return lang-specific field value, falling back to English."""
+        key_lang = f"{field}_{lang}"
+        return h.get(key_lang) or h.get(field, "")
+
+    for (mn, dn, _summary_en, slug) in _ICAL_FIXED:
+        # Look up the full holiday object to get localized summary
+        h_obj = next((h for h in _GAIAN_DAYS["holidays"]
+                      if h["month"] == mn and h["day"] == dn and h.get("slug") == slug), None)
+        summary = (_localized(h_obj) if h_obj else _summary_en)
         try:
             gd = _gaian_day_to_greg(gy, mn, dn)
         except Exception:
@@ -860,7 +898,11 @@ def _ical_year_holidays(gy, month_display):
         events.append((gd, _vevent(gd, summary, desc, uid)))
 
     if is_leap:
-        for (dn, summary) in _ICAL_HORUS:
+        for h in _GAIAN_DAYS["holidays"]:
+            if h.get("month") != 14 or not h.get("summary"):
+                continue
+            dn = h["day"]
+            summary = _localized(h)
             try:
                 gd = _gaian_day_to_greg(gy, 14, dn)
             except Exception:
@@ -875,6 +917,7 @@ def _ical_year_holidays(gy, month_display):
             if h.get("month") != 14 or "non_leap_fallback" not in h:
                 continue
             fb = h["non_leap_fallback"]
+            summary = _localized(h)
             try:
                 gd = _gaian_day_to_greg(gy, fb["month"], fb["day"])
             except Exception:
@@ -883,15 +926,16 @@ def _ical_year_holidays(gy, month_display):
             desc = f"Gaian date: {mname} {fb['day']}, {gy} GE"
             slug = h.get("slug", f"{fb['month']}-{fb['day']}")
             uid  = f"gaian-{gy}-{fb['month']:02d}-{fb['day']:02d}-{slug}@order.life"
-            events.append((gd, _vevent(gd, h["summary"], desc, uid)))
+            events.append((gd, _vevent(gd, summary, desc, uid)))
 
     try:
         easter = _easter_gregorian(iso_year)
-        for (offset, summary, slug) in _ICAL_CHRISTIAN_OFFSETS:
+        for (offset, summary_en, slug) in _ICAL_CHRISTIAN_OFFSETS:
+            summary = (_CHRISTIAN_NAMES_JA.get(slug, summary_en) if lang == "ja" else summary_en)
             gd = easter + datetime.timedelta(days=offset)
             gaian = gregorian_to_gaian(gd)
             mname = month_display.get(gaian["month"], f"Month{gaian['month']}")
-            desc = (f"{summary}, {_fmt_greg(gd)}. "
+            desc = (f"{summary_en}, {_fmt_greg(gd)}. "
                     f"Gaian date: {mname} {gaian['day']}, {gy} GE")
             uid  = f"gaian-{gy}-christian-{slug}@order.life"
             events.append((gd, _vevent(gd, summary, desc, uid)))
@@ -901,7 +945,7 @@ def _ical_year_holidays(gy, month_display):
     return events
 
 
-def _ical_year_daily(gy, month_display):
+def _ical_year_daily(gy, month_display, lang="en"):
     """Return list of (date, vevent_str) for every day of a Gaian year."""
     events = []
     is_leap = _is_gaian_leap(gy)
@@ -915,7 +959,10 @@ def _ical_year_daily(gy, month_display):
                 gd = _gaian_day_to_greg(gy, mn, dn)
             except Exception:
                 continue
-            summary = f"{m['symbol']} {m['id'].capitalize()} {dn}, {gy} GE"
+            mname = (_MONTH_NAMES_JA.get(m["id"], m["id"].capitalize())
+                     if lang == "ja" else m["id"].capitalize())
+            day_fmt = f"{dn}日" if lang == "ja" else f"{dn},"
+            summary = f"{m['symbol']} {mname} {day_fmt} {gy} GE"
             desc    = gaian_day_description(gy, mn, dn)
             uid     = f"gaian-{gy}-{mn:02d}-{dn:02d}-daily@order.life"
             events.append((gd, _vevent(gd, summary, desc, uid)))
@@ -923,10 +970,16 @@ def _ical_year_daily(gy, month_display):
     return events
 
 
-def _ical_year_seasons(gy):
+def _ical_year_seasons(gy, lang="en"):
     """Return list of (date, vevent_str) for Lent, Eastertide, and Horus month spans."""
     events = []
     iso_year = gy - 10000
+
+    _names = {
+        "en": {"horus": "Month of Horus", "lent": "Season of Lent", "eastertide": "Eastertide"},
+        "ja": {"horus": "ホルス月",       "lent": "四旬節",         "eastertide": "復活節"},
+    }
+    n = _names.get(lang, _names["en"])
 
     # Horus month (leap years only) — 7 intercalary days between Ophiuchus and Sagittarius
     if _is_gaian_leap(gy):
@@ -938,7 +991,7 @@ def _ical_year_seasons(gy):
                           f"occurring only in 53-week years.")
             events.append((h_start, _vevent_span(
                 h_start, h_end + datetime.timedelta(days=1),
-                "Month of Horus", horus_desc,
+                n["horus"], horus_desc,
                 f"gaian-{gy}-horus-month@order.life"
             )))
         except Exception:
@@ -953,7 +1006,7 @@ def _ical_year_seasons(gy):
                      f"40 days of fasting and reflection before Easter.")
         events.append((ash_wed, _vevent_span(
             ash_wed, easter + datetime.timedelta(days=1),
-            "Season of Lent", lent_desc,
+            n["lent"], lent_desc,
             f"gaian-{gy}-lent-season@order.life"
         )))
 
@@ -961,7 +1014,7 @@ def _ical_year_seasons(gy):
                      f"49 days from Easter to Pentecost.")
         events.append((easter, _vevent_span(
             easter, pentecost + datetime.timedelta(days=1),
-            "Eastertide", tide_desc,
+            n["eastertide"], tide_desc,
             f"gaian-{gy}-eastertide@order.life"
         )))
     except Exception:
@@ -987,6 +1040,15 @@ def generate_ical_files(site_dir):
             "caldesc":  "Gaian perpetual calendar: daily events, holidays, Lent and Eastertide",
             "daily":    True,
             "seasons":  True,
+            "lang":     "en",
+        },
+        "current_ja.ics": {
+            "years":    range(current_ge - 2, current_ge + 3),
+            "calname":  "ガイア暦（現在）",
+            "caldesc":  "ガイア暦：日々の出来事、祭日、四旬節と復活節",
+            "daily":    True,
+            "seasons":  True,
+            "lang":     "ja",
         },
         "gaian-holidays-extended.ics": {
             "years":    range(12000, 12041),
@@ -994,19 +1056,21 @@ def generate_ical_files(site_dir):
             "caldesc":  "Gaian perpetual calendar holidays and Christian season, 2000-2040",
             "daily":    False,
             "seasons":  False,
+            "lang":     "en",
         },
     }
 
     for filename, cfg in files.items():
+        lang = cfg.get("lang", "en")
         events = []
         for gy in cfg["years"]:
             if gy - 10000 < 1:
                 continue
-            events += _ical_year_holidays(gy, month_display)
+            events += _ical_year_holidays(gy, month_display, lang)
             if cfg["daily"]:
-                events += _ical_year_daily(gy, month_display)
+                events += _ical_year_daily(gy, month_display, lang)
             if cfg["seasons"]:
-                events += _ical_year_seasons(gy)
+                events += _ical_year_seasons(gy, lang)
 
         events.sort(key=lambda x: x[0])
 

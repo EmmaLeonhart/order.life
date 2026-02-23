@@ -3,6 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [master]
+  schedule:
+    - cron: "0 0 * * 1"  # Every Monday at midnight UTC (keeps iCal current week ranges fresh)
   workflow_dispatch:
 
 permissions:
