@@ -16,7 +16,12 @@
       "summary_ja": "成人の日",
       "slug": "coming-of-age"
     },
-    { "month": 1, "day": 14, "summary": "Ides of Sagittarius", "slug": "ides-1" },
+    {
+      "month": 1,
+      "day": 14,
+      "summary": "Ides of Sagittarius",
+      "slug": "ides-1"
+    },
     {
       "month": 2,
       "day": 7,
@@ -65,7 +70,12 @@
       "summary_ja": "ひな祭り",
       "slug": "hinamatsuri"
     },
-    { "month": 3, "day": 14, "summary": "Ides of Aquarius", "slug": "ides-3" },
+    {
+      "month": 3,
+      "day": 14,
+      "summary": "Ides of Aquarius",
+      "slug": "ides-3"
+    },
     {
       "month": 3,
       "day": 21,
@@ -88,7 +98,13 @@
       "summary_ja": "復活祭（候補日II）",
       "slug": "easter-2"
     },
-    { "month": 4, "day": 14, "summary": "Qingming Festival · Easter Sunday (III) · Ides of Pisces", "slug": "easter-3", "note": "This is the third Easter Sunday... It is the Ides of Pisces." },
+    {
+      "month": 4,
+      "day": 14,
+      "summary": "Qingming Festival · Easter Sunday (III) · Ides of Pisces",
+      "slug": "easter-3",
+      "note": "This is the third Easter Sunday... It is the Ides of Pisces."
+    },
     {
       "month": 4,
       "day": 21,
@@ -104,8 +120,19 @@
       "note": "This is the last day of Easter. it is the day the order was founded on. It is the day of the extinction of the dinosaurs. It is also the first day of Cetus, the year-end monster.",
       "slug": "easter-5"
     },
-    { "month": 5, "day": 14, "summary": "Ides of Aries", "slug": "ides-5" },
-    { "month": 5, "day": 28, "summary": "Cetus Day (The Head)", "slug": "cetus-head", "note": "The second day of Cetus, the year-start monster." },
+    {
+      "month": 5,
+      "day": 14,
+      "summary": "Ides of Aries",
+      "slug": "ides-5"
+    },
+    {
+      "month": 5,
+      "day": 28,
+      "summary": "Cetus Day (The Head)",
+      "slug": "cetus-head",
+      "note": "The second day of Cetus, the year-start monster."
+    },
     {
       "month": 6,
       "day": 7,
@@ -113,7 +140,12 @@
       "summary_ja": "聖霊降臨祭",
       "slug": "pentecost"
     },
-    { "month": 6, "day": 14, "summary": "Ides of Taurus", "slug": "ides-6" },
+    {
+      "month": 6,
+      "day": 14,
+      "summary": "Ides of Taurus",
+      "slug": "ides-6"
+    },
     {
       "month": 6,
       "day": 28,
@@ -136,7 +168,12 @@
       "summary_ja": "七夕",
       "slug": "tanabata"
     },
-    { "month": 8, "day": 14, "summary": "Ides of Cancer", "slug": "ides-8" },
+    {
+      "month": 8,
+      "day": 14,
+      "summary": "Ides of Cancer",
+      "slug": "ides-8"
+    },
     {
       "month": 8,
       "day": 28,
@@ -144,7 +181,13 @@
       "summary_ja": "七夕（乞巧奠）",
       "slug": "qixi"
     },
-    { "month": 9, "day": 14, "summary": "Alolalia · Ides of Leo", "summary_ja": "アロラリア", "slug": "alolalia" },
+    {
+      "month": 9,
+      "day": 14,
+      "summary": "Alolalia · Ides of Leo",
+      "summary_ja": "アロラリア",
+      "slug": "alolalia"
+    },
     {
       "month": 9,
       "day": 15,
@@ -173,7 +216,12 @@
       "summary_ja": "スポーツの日・カナダ感謝祭",
       "slug": "harvest-day"
     },
-    { "month": 11, "day": 14, "summary": "Ides of Libra", "slug": "ides-11" },
+    {
+      "month": 11,
+      "day": 14,
+      "summary": "Ides of Libra",
+      "slug": "ides-11"
+    },
     {
       "month": 11,
       "day": 21,
@@ -188,7 +236,12 @@
       "summary_ja": "サウィン",
       "slug": "halloween-2"
     },
-    { "month": 12, "day": 14, "summary": "Ides of Scorpio", "slug": "ides-12" },
+    {
+      "month": 12,
+      "day": 14,
+      "summary": "Ides of Scorpio",
+      "slug": "ides-12"
+    },
     {
       "month": 12,
       "day": 18,
@@ -202,7 +255,7 @@
       "summary": "Labor Thanksgiving Niiname-sai",
       "summary_ja": "新嘗祭",
       "slug": "niiname-sai",
-      "notes":" The most important holiday... industrial society finally giving to the people"
+      "notes": " The most important holiday... industrial society finally giving to the people"
     },
     {
       "month": 12,
@@ -211,7 +264,12 @@
       "summary_ja": "感謝祭（米国・伝統）",
       "slug": "thanksgiving-us-2"
     },
-    { "month": 13, "day": 14, "summary": "Ides of Ophiuchus", "slug": "ides-13" },
+    {
+      "month": 13,
+      "day": 14,
+      "summary": "Ides of Ophiuchus",
+      "slug": "ides-13"
+    },
     {
       "month": 13,
       "day": 21,
@@ -254,7 +312,10 @@
       "day": 7,
       "summary": "New Year's Eve",
       "slug": "new-years-eve",
-      "non_leap_fallback": {"month": 13, "day": 28}
+      "non_leap_fallback": {
+        "month": 13,
+        "day": 28
+      }
     }
   ]
 }
