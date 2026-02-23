@@ -1,11 +1,12 @@
 {
-  "_comment": "Gaian calendar day data. 1:Sag, 2:Cap, 3:Aqu, 4:Pis, 5:Ari, 6:Tau, 7:Gem, 8:Can, 9:Leo, 10:Vir, 11:Lib, 12:Sco, 13:Oph",
+  "_comment": "Gaian calendar day data. 1:Sag, 2:Cap, 3:Aqu, 4:Pis, 5:Ari, 6:Tau, 7:Gem, 8:Can, 9:Leo, 10:Vir, 11:Lib, 12:Sco, 13:Oph, 14:Hor (leap only). Each entry may have: month, day, summary (holiday display name), slug (for iCal UID), note (longer description shown on day page), non_leap_fallback (for Horus days that move to the last day of Ophiuchus in non-leap years).",
   "holidays": [
     {
       "month": 1,
       "day": 1,
       "summary": "New Year's Day (Aster Day)",
-      "slug": "new-years-day"
+      "slug": "new-years-day",
+      "note": "The Gaian New Year always falls on a Monday."
     },
     {
       "month": 1,
@@ -36,6 +37,18 @@
       "day": 28,
       "summary": "Lantern Festival",
       "slug": "lantern-festival"
+    },
+    {
+      "month": 3,
+      "day": 1,
+      "summary": "Day of Terrestrial Life",
+      "slug": "terrestrial-life",
+      "note": "Commemorates the emergence of terrestrial life from the sea."
+    },
+    {
+      "month": 3,
+      "day": 2,
+      "note": "Commemorates fungi moving onto earth."
     },
     {
       "month": 3,
@@ -83,7 +96,8 @@
       "month": 5,
       "day": 7,
       "summary": "Festival of Flora",
-      "slug": "flora"
+      "slug": "flora",
+      "note": "Floralia: celebrating the blooming of spring flowers."
     },
     {
       "month": 5,
@@ -107,7 +121,8 @@
       "month": 6,
       "day": 28,
       "summary": "Dragon Boat Festival",
-      "slug": "dragon-boat"
+      "slug": "dragon-boat",
+      "note": "The Dragon Boat Festival falls on the double fifth lunar, mapped here for Taurus season."
     },
     {
       "month": 7,
@@ -204,39 +219,43 @@
       "day": 21,
       "summary": "Christmas Day · Dongzhi Festival",
       "slug": "christmas"
-    }
-  ],
-  "horus_days": [
+    },
     {
+      "month": 14,
       "day": 1,
-      "summary": "Birth of Osiris"
+      "summary": "Birth of Osiris",
+      "slug": "horus-osiris"
     },
     {
+      "month": 14,
       "day": 2,
-      "summary": "Birth of Horus"
+      "summary": "Birth of Horus",
+      "slug": "horus-horus"
     },
     {
+      "month": 14,
       "day": 3,
-      "summary": "Birth of Set"
+      "summary": "Birth of Set",
+      "slug": "horus-set"
     },
     {
+      "month": 14,
       "day": 4,
-      "summary": "Birth of Isis"
+      "summary": "Birth of Isis",
+      "slug": "horus-isis"
     },
     {
+      "month": 14,
       "day": 5,
-      "summary": "Birth of Nephthys · Sabbath"
+      "summary": "Birth of Nephthys · Sabbath",
+      "slug": "horus-nephthys"
     },
     {
+      "month": 14,
       "day": 7,
-      "summary": "New Year's Eve"
+      "summary": "New Year's Eve",
+      "slug": "new-years-eve",
+      "non_leap_fallback": {"month": 13, "day": 28}
     }
-  ],
-  "day_notes": {
-    "1-1": "The Gaian New Year always falls on a Monday.",
-    "3-1": "Commemorates the emergence of terrestrial life from the sea.",
-    "3-2": "Commemorates fungi moving onto earth.",
-    "5-7": "Added: Floralia, celebrating the blooming of spring flowers.",
-    "6-28": "Added: The Dragon Boat festival falls on the double fifth lunar, mapped here for Taurus season."
-  }
+  ]
 }

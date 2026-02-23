@@ -649,10 +649,19 @@ def _vevent(dtstart, summary, description, uid):
 # Load holiday and day-note data from the editable JSON file.
 _GAIAN_DAYS = json.loads((CONTENT_DIR / "gaian_days.json").read_text(encoding="utf-8"))
 
-# (month_num, day_num, summary, url-slug)
-_ICAL_FIXED = [(h["month"], h["day"], h["summary"], h["slug"]) for h in _GAIAN_DAYS["holidays"]]
+# (month_num, day_num, summary, url-slug) — months 1-13 only
+_ICAL_FIXED = [
+    (h["month"], h["day"], h["summary"], h.get("slug", f"{h['month']}-{h['day']}"))
+    for h in _GAIAN_DAYS["holidays"]
+    if h["month"] != 14 and h.get("summary")
+]
 
-_ICAL_HORUS = [(h["day"], h["summary"]) for h in _GAIAN_DAYS["horus_days"]]
+# (day_num, summary) — month 14 (Horus) only, used only in leap years
+_ICAL_HORUS = [
+    (h["day"], h["summary"])
+    for h in _GAIAN_DAYS["holidays"]
+    if h["month"] == 14 and h.get("summary")
+]
 
 _ICAL_CHRISTIAN_OFFSETS = [
     (-46, "Ash Wednesday",     "ash-wednesday"),
@@ -686,10 +695,11 @@ def _fmt_greg(d):
 
 
 # Custom extra notes appended to gaian_day_description() for specific days.
-# Edit content/gaian_days.json to add or modify notes. Key: (month_num, day_num)
+# Edit content/gaian_days.json — add a "note" field to any holiday entry.
 _CUSTOM_DAY_NOTES = {
-    tuple(int(x) for x in k.split("-")): v
-    for k, v in _GAIAN_DAYS["day_notes"].items()
+    (h["month"], h["day"]): h["note"]
+    for h in _GAIAN_DAYS["holidays"]
+    if "note" in h
 }
 
 
@@ -824,15 +834,14 @@ def gaian_day_description(gaian_year, month_num, day_num):
     else:
         auspicious = ""
 
-    # Sentence 3: Gaiad reading
+    # Gaiad reading link — plain URL at the end
     if chapter and chapter <= 364:
-        reading = (f"On this day we read "
-                   f"[chapter {chapter}](https://order.life/en/gaiad/{chapter:03d}/).")
+        reading = f"reading: https://order.life/gaiad/{chapter:03d}/"
     else:
         reading = ""
 
     custom = _CUSTOM_DAY_NOTES.get((month_num, day_num), "")
-    return " ".join(p for p in [intro, auspicious, reading, custom] if p)
+    return " ".join(p for p in [intro, auspicious, custom, reading] if p)
 
 
 def _ical_year_holidays(gy, month_display):
