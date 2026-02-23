@@ -868,6 +868,22 @@ def _ical_year_holidays(gy, month_display):
             desc = f"Gaian date: Horus {dn}, {gy} GE (intercalary)"
             uid  = f"gaian-{gy}-14-{dn:02d}-horus@order.life"
             events.append((gd, _vevent(gd, summary, desc, uid)))
+    else:
+        # In non-leap years the Horus month doesn't exist; holidays marked with
+        # non_leap_fallback move to an alternative Gaian date (typically Ophiuchus 28).
+        for h in _GAIAN_DAYS["holidays"]:
+            if h.get("month") != 14 or "non_leap_fallback" not in h:
+                continue
+            fb = h["non_leap_fallback"]
+            try:
+                gd = _gaian_day_to_greg(gy, fb["month"], fb["day"])
+            except Exception:
+                continue
+            mname = month_display.get(fb["month"], f"Month{fb['month']}")
+            desc = f"Gaian date: {mname} {fb['day']}, {gy} GE"
+            slug = h.get("slug", f"{fb['month']}-{fb['day']}")
+            uid  = f"gaian-{gy}-{fb['month']:02d}-{fb['day']:02d}-{slug}@order.life"
+            events.append((gd, _vevent(gd, h["summary"], desc, uid)))
 
     try:
         easter = _easter_gregorian(iso_year)
@@ -908,9 +924,26 @@ def _ical_year_daily(gy, month_display):
 
 
 def _ical_year_seasons(gy):
-    """Return list of (date, vevent_str) for Lent and Eastertide season spans."""
+    """Return list of (date, vevent_str) for Lent, Eastertide, and Horus month spans."""
     events = []
     iso_year = gy - 10000
+
+    # Horus month (leap years only) — 7 intercalary days between Ophiuchus and Sagittarius
+    if _is_gaian_leap(gy):
+        try:
+            h_start = _gaian_day_to_greg(gy, 14, 1)
+            h_end   = _gaian_day_to_greg(gy, 14, 7)
+            horus_desc = (f"Month of Horus: {_fmt_greg(h_start)} to {_fmt_greg(h_end)}. "
+                          f"Seven intercalary days outside the regular calendar year, "
+                          f"occurring only in 53-week years.")
+            events.append((h_start, _vevent_span(
+                h_start, h_end + datetime.timedelta(days=1),
+                "Month of Horus", horus_desc,
+                f"gaian-{gy}-horus-month@order.life"
+            )))
+        except Exception:
+            pass
+
     try:
         easter    = _easter_gregorian(iso_year)
         ash_wed   = easter - datetime.timedelta(days=46)
