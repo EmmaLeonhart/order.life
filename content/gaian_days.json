@@ -1,5 +1,5 @@
 {
-  "_comment": "Gaian calendar day data. 1:Sag, 2:Cap, 3:Aqu, 4:Pis, 5:Ari, 6:Tau, 7:Gem, 8:Can, 9:Leo, 10:Vir, 11:Lib, 12:Sco, 13:Oph, 14:Hor (leap only). Each entry may have: month, day, summary (holiday display name), summary_ja (Japanese), slug (for iCal UID), note (longer description shown on day page), non_leap_fallback (for Horus days that move to Ophiuchus 28 in non-leap years).",
+  "_comment": "Gaian calendar day data. 1:Sag, 2:Cap, 3:Aqu, 4:Pis, 5:Ari, 6:Tau, 7:Gem, 8:Can, 9:Leo, 10:Vir, 11:Lib, 12:Sco, 13:Oph, 14:Hor (leap only).",
   "holidays": [
     {
       "month": 1,
@@ -16,6 +16,7 @@
       "summary_ja": "成人の日",
       "slug": "coming-of-age"
     },
+    { "month": 1, "day": 14, "summary": "Ides of Sagittarius", "slug": "ides-1" },
     {
       "month": 2,
       "day": 7,
@@ -26,7 +27,7 @@
     {
       "month": 2,
       "day": 14,
-      "summary": "Valentine's Day · Lupercalia · Lunar New Year",
+      "summary": "Valentine's Day · Lupercalia · Lunar New Year · Ides of Capricorn",
       "summary_ja": "バレンタインデー・旧正月",
       "slug": "valentines-day"
     },
@@ -64,6 +65,7 @@
       "summary_ja": "ひな祭り",
       "slug": "hinamatsuri"
     },
+    { "month": 3, "day": 14, "summary": "Ides of Aquarius", "slug": "ides-3" },
     {
       "month": 3,
       "day": 21,
@@ -86,14 +88,7 @@
       "summary_ja": "復活祭（候補日II）",
       "slug": "easter-2"
     },
-    {
-      "month": 4,
-      "day": 14,
-      "summary": "Qingming Festival · Easter Sunday (III)",
-      "summary_ja": "清明節・復活祭（候補日III）",
-      "slug": "easter-3",
-      "note": "This is the third Easter Sunday. it is the middle day and the average day. It is likely the day that Jesus was actually revived on"
-    },
+    { "month": 4, "day": 14, "summary": "Qingming Festival · Easter Sunday (III) · Ides of Pisces", "slug": "easter-3", "note": "This is the third Easter Sunday... It is the Ides of Pisces." },
     {
       "month": 4,
       "day": 21,
@@ -104,11 +99,13 @@
     {
       "month": 4,
       "day": 28,
-      "summary": "Easter Sunday (V)",
+      "summary": "Easter Sunday (V) · Cetus Day (The Tail)",
       "summary_ja": "復活祭（候補日V）",
-      "note": "This is the last day of Easter. it is the day the order was founded on. It is the day of the extinction of the dinosaurs",
+      "note": "This is the last day of Easter. it is the day the order was founded on. It is the day of the extinction of the dinosaurs. It is also the first day of Cetus, the year-end monster.",
       "slug": "easter-5"
     },
+    { "month": 5, "day": 14, "summary": "Ides of Aries", "slug": "ides-5" },
+    { "month": 5, "day": 28, "summary": "Cetus Day (The Head)", "slug": "cetus-head", "note": "The second day of Cetus, the year-start monster." },
     {
       "month": 6,
       "day": 7,
@@ -116,6 +113,7 @@
       "summary_ja": "聖霊降臨祭",
       "slug": "pentecost"
     },
+    { "month": 6, "day": 14, "summary": "Ides of Taurus", "slug": "ides-6" },
     {
       "month": 6,
       "day": 28,
@@ -127,7 +125,7 @@
     {
       "month": 7,
       "day": 14,
-      "summary": "Nagoshi no Ōharai",
+      "summary": "Nagoshi no Ōharai · Ides of Gemini",
       "summary_ja": "夏越の大祓",
       "slug": "nagoshi"
     },
@@ -138,6 +136,7 @@
       "summary_ja": "七夕",
       "slug": "tanabata"
     },
+    { "month": 8, "day": 14, "summary": "Ides of Cancer", "slug": "ides-8" },
     {
       "month": 8,
       "day": 28,
@@ -145,13 +144,7 @@
       "summary_ja": "七夕（乞巧奠）",
       "slug": "qixi"
     },
-    {
-      "month": 9,
-      "day": 14,
-      "summary": "Alolalia",
-      "summary_ja": "アロラリア",
-      "slug": "alolalia"
-    },
+    { "month": 9, "day": 14, "summary": "Alolalia · Ides of Leo", "summary_ja": "アロラリア", "slug": "alolalia" },
     {
       "month": 9,
       "day": 15,
@@ -169,7 +162,7 @@
     {
       "month": 10,
       "day": 14,
-      "summary": "Shindensai",
+      "summary": "Shindensai · Ides of Virgo",
       "summary_ja": "神殿祭",
       "slug": "shindensai"
     },
@@ -180,6 +173,7 @@
       "summary_ja": "スポーツの日・カナダ感謝祭",
       "slug": "harvest-day"
     },
+    { "month": 11, "day": 14, "summary": "Ides of Libra", "slug": "ides-11" },
     {
       "month": 11,
       "day": 21,
@@ -194,6 +188,7 @@
       "summary_ja": "サウィン",
       "slug": "halloween-2"
     },
+    { "month": 12, "day": 14, "summary": "Ides of Scorpio", "slug": "ides-12" },
     {
       "month": 12,
       "day": 18,
@@ -207,7 +202,7 @@
       "summary": "Labor Thanksgiving Niiname-sai",
       "summary_ja": "新嘗祭",
       "slug": "niiname-sai",
-      "notes":" The most important holiday, comes with Kinen-sai with the first one marking plants going on land for the first time and the opening of the agricultural year and this one representing the culmination of it or the point where we celebrate. Here's Thanksgiving in its most traditional form and the scripture marks to the point of industrial society finally giving to the people"
+      "notes":" The most important holiday... industrial society finally giving to the people"
     },
     {
       "month": 12,
@@ -216,6 +211,7 @@
       "summary_ja": "感謝祭（米国・伝統）",
       "slug": "thanksgiving-us-2"
     },
+    { "month": 13, "day": 14, "summary": "Ides of Ophiuchus", "slug": "ides-13" },
     {
       "month": 13,
       "day": 21,
@@ -227,42 +223,36 @@
       "month": 14,
       "day": 1,
       "summary": "Birth of Osiris",
-      "summary_ja": "オシリス誕生日",
       "slug": "horus-osiris"
     },
     {
       "month": 14,
       "day": 2,
       "summary": "Birth of Horus",
-      "summary_ja": "ホルス誕生日",
       "slug": "horus-horus"
     },
     {
       "month": 14,
       "day": 3,
       "summary": "Birth of Set",
-      "summary_ja": "セト誕生日",
       "slug": "horus-set"
     },
     {
       "month": 14,
       "day": 4,
       "summary": "Birth of Isis",
-      "summary_ja": "イシス誕生日",
       "slug": "horus-isis"
     },
     {
       "month": 14,
       "day": 5,
       "summary": "Birth of Nephthys · Sabbath",
-      "summary_ja": "ネフティス誕生日・安息日",
       "slug": "horus-nephthys"
     },
     {
       "month": 14,
       "day": 7,
       "summary": "New Year's Eve",
-      "summary_ja": "大晦日",
       "slug": "new-years-eve",
       "non_leap_fallback": {"month": 13, "day": 28}
     }
