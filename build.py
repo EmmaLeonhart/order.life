@@ -646,37 +646,13 @@ def _vevent(dtstart, summary, description, uid):
     return "".join(_ical_fold(l) for l in lines)
 
 
-# (month_num, day_num, summary, url-slug)
-_ICAL_FIXED = [
-    (1,  1,  "New Year's Day (Aster Day)",                 "new-years-day"),
-    (1,  8,  "Coming of Age Day",                          "coming-of-age"),
-    (2,  7,  "Imbolc/Groundhog Day",                              "groundhog-day"),
-    (2,  14, "Valentine's Day · Lupercalia",               "valentines-day"),
-    (2,  21, "Kinen-sai",                                  "kinen-sai"),
-    (2,  28, "Lantern Festival",                           "lantern-festival"),
-    (3,  1,  "Day of Terrestrial Life",                    "terrestrial-life"),
-    (3,  7,  "Hinamatsuri",                                "hinamatsuri"),
-    (3,  21, "Korei-sai · Ides of March · St Patrick's Day", "korei-sai"),
-    (5,  14, "Cinco de Mayo",                              "cinco-de-mayo"),
-    (7,  14, "Nagoshi no Oharai",                          "nagoshi"),
-    (7,  21, "Tanabata",                                   "tanabata"),
-    (7,  28, "Bastille Day",                               "bastille-day"),
-    (8,  28, "Qixi",                                       "qixi"),
-    (9,  14, "Alolalia",                                   "alolalia"),
-    (10, 12, "Mid-Autumn Festival",                        "mid-autumn"),
-    (10, 14, "Shindensai",                                 "shindensai"),
-    (11, 1,  "Japan Sports Day",                           "sports-day"),
-    (13, 21, "Christmas Day · Dongzhi Festival",           "christmas"),
-]
+# Load holiday and day-note data from the editable JSON file.
+_GAIAN_DAYS = json.loads((CONTENT_DIR / "gaian_days.json").read_text(encoding="utf-8"))
 
-_ICAL_HORUS = [
-    (1, "Birth of Osiris"),
-    (2, "Birth of Horus"),
-    (3, "Birth of Set"),
-    (4, "Birth of Isis"),
-    (5, "Birth of Nephthys · Sabbath"),
-    (7, "New Year's Eve"),
-]
+# (month_num, day_num, summary, url-slug)
+_ICAL_FIXED = [(h["month"], h["day"], h["summary"], h["slug"]) for h in _GAIAN_DAYS["holidays"]]
+
+_ICAL_HORUS = [(h["day"], h["summary"]) for h in _GAIAN_DAYS["horus_days"]]
 
 _ICAL_CHRISTIAN_OFFSETS = [
     (-46, "Ash Wednesday",     "ash-wednesday"),
@@ -710,16 +686,10 @@ def _fmt_greg(d):
 
 
 # Custom extra notes appended to gaian_day_description() for specific days.
-# Key: (month_num, day_num)
+# Edit content/gaian_days.json to add or modify notes. Key: (month_num, day_num)
 _CUSTOM_DAY_NOTES = {
-    (1, 1): ("The Gaian New Year always falls on a Monday — embodying the principle "
-             "that all things begin fresh on the first day of the week."),
-    (2, 7): ("This is the day sometimes seen as the beginning of spring. Not very well known we need more info on rites and how to do it. "
-             "...."),
-            
-    (3, 1): ("This day commemorates the emergence of terrestrial life: the moment "
-             "the first organisms crossed from sea to land, beginning life's conquest of Earth."),
-            (3,2): ("This day commemorates fungi moving onto earth", "not sure if I need a second one")
+    tuple(int(x) for x in k.split("-")): v
+    for k, v in _GAIAN_DAYS["day_notes"].items()
 }
 
 
