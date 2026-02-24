@@ -375,7 +375,7 @@ def load_weekday_names():
 
 
 def load_chapters():
-    """Load Gaiad epic chapters from epic/ directory."""
+    """Load Gaiad epic chapters from Gaiad/epic/ directory."""
     chapters = {}
     for i in range(1, 365):
         chapter_file = EPIC_DIR / f"chapter_{i:03d}.md"
