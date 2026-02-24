@@ -56,6 +56,13 @@
   </div>
   {% endif %}
 
+  {# Chapter planning notes for this day #}
+  {% if day_note %}
+  <div class="section-content day-notes">
+    {{ day_note | simple_md }}
+  </div>
+  {% endif %}
+
   {# Day navigation #}
   <div class="chapter-nav">
     {% if day_num > 1 %}
