@@ -75,9 +75,18 @@
 
 | Ch | Title | Summary |
 |----|-------|---------|
-| 82 | Good Permian Friday | The Permian Triassic extinction, compared to Christ's sacrifice |
-| 83 | The Harrowing of Hell | A descripition of the apocalyptic hellish environment post extinction |
-| 84 | A New Beginning | The first easter, The revival of life in the Triassic. |
+| **73** | **The Drying of the Deep** |  The retreat of the **Coal Swamps**. **Gymnos** (*Gymnosperms*) leave the wet valleys to conquer the rising dry ridges. |
+| **74** | **The Therapsid Law** |  The **Synapsids** (*Synaps*) move beyond the "Solar Sail" of *Pelyon*. **Theraps** (*Therapsids*) develop upright gaits and more active minds. |
+| **75** | **The Parareptile Fortress** |  The **Sauropsids** (*Sauros*) diversify. While *Eureps* looks to the windows of the skull, the **Parareptiles** build heavy armor for a drying world. |
+| **76** | **The Pangean Road** |  The continents unite into one land. The **Insects** (*Neopter*) and **Arachnids** (*Arachnus*) find new nations across the vast, rain-shadowed interior. |
+| **77** | **The Cynodont's Secret** |  The rise of **Cynos** (*Cynodonts*). The development of "dog-teeth," whiskers, and the first whispers of internal warmth within their burrows. |
+| **78** | **The Gorgon's Reign** |  The rise of the **Gorgonopsids** as apex predators. The "Heroic Cycle" reaches its Permian peak before the coming trial. |
+| **79** | **The Last Paleozoic Sea** |  A final look at the **Lords of Ink** (*Coleios*) and the **Armored Many** (*Malacos*) before the "Great Dying". |
+| **80** | **The Dicynodont Bread** |  The dominance of the herbivorous beaked synapsids, the "sheep of the Permian," providing for the world before the famine begins. |
+| **81** | **The Eve of the Cup** |  The world grows silent as the **Siberian Traps** begin to stir. Like the "Last Supper," life prepares for the trial of Chapter 82. |
+| **82** | **Good Permian Friday** |  The **Permian-Triassic extinction**; the ultimate sacrifice of the Paleozoic lineages. |
+| **83** | **The Harrowing of Hell** |  The apocalyptic, poisoned environment of the immediate post-extinction world. |
+| **84** | **A New Beginning** |  The "First Easter" of the **Triassic**; the revival of life and the ascent of the **Teleosts**. |
 | 100 | Tyrannosaur Supremacy | T. rex dominates; sauropod civilization develops defense strategies |
 | 101 | Hadrosaur Societies | Duck-billed dinosaurs develop social hierarchies and parental care |
 | 102 | Parasaurolophus Songs | Crested hadrosaurs develop musical/cultural traditions |
