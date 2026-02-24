@@ -179,7 +179,7 @@ They married and became
 That raged from shore to shore.
 
 From their union came
-{{c|Children}} of great fame:
+Children of great fame:
 The {{c|Brittle}} {{c|Stars}} so bright,
 {{c|Centralized}} in might.
 

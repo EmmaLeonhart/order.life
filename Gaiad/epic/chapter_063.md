@@ -1,4 +1,4 @@
-# Chapter 63: The {{c|Children}} of {{c|Two}} {{c|Worlds}}
+# Chapter 63: The Children of Two Worlds
 
 From {{c|Tetrus}}, father of the land's great nations,
 Two sons arose who chose two different roads:

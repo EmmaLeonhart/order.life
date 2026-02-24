@@ -240,7 +240,7 @@ Her offspring multiplied
 Beyond all counting true.
 What bristles never knew
 She made up with her spawn:
-{{c|Children}} from dusk to dawn.
+Children from dusk to dawn.
 
 Her children took to rivers
 Where water always quivers.

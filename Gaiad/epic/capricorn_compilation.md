@@ -1580,7 +1580,7 @@ He bore son {{c|Pambdelurion}},
 {{c|Mighty}} champion.
 
 {{c|Pambdelurion}} bore three
-{{c|Children}} of destiny:
+Children of destiny:
 {{c|Arthur}} strong and true,
 {{c|Anomalos}} who grew
 To rule with iron hand,
@@ -2235,7 +2235,7 @@ Her offspring multiplied
 Beyond all counting true.
 What bristles never knew
 She made up with her spawn:
-{{c|Children}} from dusk to dawn.
+Children from dusk to dawn.
 
 Her children took to rivers
 Where water always quivers.
@@ -5233,7 +5233,7 @@ They married and became
 That raged from shore to shore.
 
 From their union came
-{{c|Children}} of great fame:
+Children of great fame:
 The {{c|Brittle}} {{c|Stars}} so bright,
 {{c|Centralized}} in might.
 
@@ -10426,7 +10426,7 @@ In {{c|Lycopodium}} powder, fire's dawn.
 
 ---
 
-## The {{c|Children}} of {{c|Isolagos}}
+## The Children of {{c|Isolagos}}
 
 From spore-divided {{c|Isolagos}} came
 Two sons of vastly different destiny:

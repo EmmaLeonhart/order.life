@@ -48,7 +48,7 @@ In {{c|Lycopodium}} powder, fire's dawn.
 
 ---
 
-## The {{c|Children}} of {{c|Isolagos}}
+## The Children of {{c|Isolagos}}
 
 From spore-divided {{c|Isolagos}} came
 Two sons of vastly different destiny:

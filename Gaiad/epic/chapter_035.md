@@ -172,7 +172,7 @@ He bore son {{c|Pambdelurion}},
 {{c|Mighty}} champion.
 
 {{c|Pambdelurion}} bore three
-{{c|Children}} of destiny:
+Children of destiny:
 {{c|Arthur}} strong and true,
 {{c|Anomalos}} who grew
 To rule with iron hand,
