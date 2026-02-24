@@ -56,7 +56,8 @@
   </div>
   {% endif %}
 
-  {# Chapter planning notes for this day #}
+  {# Day of year statement and notes #}
+  <p class="day-ordinal-stmt">{{ t.day_of_year_statement.replace('{day}', day_of_year|string) }}</p>
   {% if day_note %}
   <div class="section-content day-notes">
     {{ day_note | simple_md }}
