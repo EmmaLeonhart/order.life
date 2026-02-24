@@ -22,11 +22,13 @@
 | Bryophytes | 48 | Mosses, hornworts |
 | Lycophytes | 56 | Lycos (arborescent lycopsids); dominant trees in Coal Swamp already told |
 | Ferns / vascular plants | 53, 56 | Sporophyte dominance, Ginkgon megaphyll masters |
+| Gymnosperms | 56 | **Gymnos** introduced as character (son of Phyllon, grandson of Ginkgon), alongside Pteridos (ferns). Class-level established — same status as insects/tetrapods. Story not elaborated yet. |
+| Amphibians | 61 | Fish-to-land transition told fully via Tictalicus → The Watcher (wholly terrestrial, no gills) → Tetrus. This IS the amphibian story. Modern groups (frogs, salamanders) are background descendants. |
 | Jawless fish | 52 | Vater/Hestracon lineage |
 | Lobe-finned fish → tetrapod transition | 61 | Rhipidistius, Pandericthus, Tiktaalik analogs; Tetrus = father of land nations |
 | Gastropods (terrestrial/respiratory) | 62 | Pulmon; air-breathing, intertidal, photosynthetic lineages |
 
-**Note on plants:** What is "done" is the spore-plant lineage (mosses → ferns → lycopsids). Seed plants are entirely open — see below.
+**Note on plants:** The spore-plant lineage is done (mosses → ferns → lycopsids). Gymnosperms are class-level established via Gymnos (Ch 56) but not elaborated. Angiosperms not yet reached.
 
 ---
 
@@ -42,9 +44,8 @@ These are confirmed gaps. Each needs at least one dedicated chapter to tell thei
 | **Insects** (order level) | Class-level only | Carboniferous | Ch 60 established hexapods (Hexapus/Romulus). Individual orders not told: beetles, cockroaches, dragonflies, ants, bees, butterflies, etc. Ch 63 touches giants (Meganeura) but orders need elaboration later. |
 | **Spiders** | Not covered | Devonian | Arachnids broadly done but spiders specifically skipped. Need a dedicated treatment. |
 | **Cephalopods** | Class-level only | Cambrian–present | Ch 47 covered nautiloids (Cephalopus, Endoceras, chambered nautilus). Coleoids — squid, octopus, cuttlefish — not told. Major omission given their intelligence and diversity. |
-| **Seed plants / gymnosperms** | Not covered | Carboniferous–present | Conifers, cycads, cordaitaleans, ginkgos. The gymnosperm story starts *right now* in the narrative and runs through the Mesozoic. Critical gap. |
+| **Seed plants / gymnosperms** | Class-level only | Carboniferous–present | Gymnos introduced in Ch 56. Conifers, cycads, cordaitaleans, ginkgos — the full gymnosperm story starts *right now* and runs through the Mesozoic. Needs elaboration. |
 | **Flowering plants (angiosperms)** | Not covered | Cretaceous–present | The dominant plant group today. Save for Cretaceous chapters but don't forget. |
-| **Amphibians** | Minimally introduced | Carboniferous | Ch 61 established Tetrus but no amphibian natural history. Temnospondyls, lissamphibians (frogs, salamanders, caecilians) not told. |
 
 ---
 
