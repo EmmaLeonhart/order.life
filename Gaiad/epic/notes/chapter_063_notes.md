@@ -1,42 +1,42 @@
-# Chapter 63: "The Great Coal Swamps" - Notes
+# Chapter 63: "The Children of Two Worlds" - Notes
 
 ## Timeline & Setting
 - **Period**: Late Carboniferous, Pennsylvanian (~300 MYA)
-- **Geological Context**: Peak coal formation period
-- **Environmental Setting**: Extensive tropical swamp forests
+- **Environmental Setting**: Coal swamp forests (Lepidos/Meganeura world as backdrop)
 
 ## Key Characters
-- **Lepidos** (scale tree king) - Lepidodendron scale tree forests
-- **Sigillaria** (seal bearer) - Ribbed bark lycopsid trees
-- **Arthropleura** (jointed rib) - Giant millipede herbivore
-- **Meganeura** (great nerve) - Giant dragonfly predator
+- **Amphibos** — son of Tetrus; master of the threshold between water and land
+- **Temna** — Amphibos' eldest daughter; founder of the temnospondyl line; great flat-skulled swamp predator
+  - **Eryops** — Temna's son; barrel-chested land-hunter
+  - **Mastod** — Temna's daughter; flat-skulled river ambush predator
+  - **Branchios** — Temna's son; neotenic; kept gills for life (paedomorphic form)
+- **Salamandrus** — Amphibos' second child; patience and shade; founder of salamander line
+  - **Proteid** — Salamandrus' descendant; cave-dwelling, permanently larval (olm/mudpuppy)
+- **Caecila** — Amphibos' third child; shed her eyes and burrowed; founder of caecilian line
+- **Rana** — the frog-line; keeper of the metamorphosis miracle; emerged after Permian recovery
 
 ## Major Themes
-- **Coal Formation**: Organic matter accumulation in anaerobic swamps
-- **Oxygen Peak**: 35% atmospheric oxygen enabling gigantism
-- **Lycopsid Dominance**: Scale trees and club mosses at maximum size
-- **Arthropod Empire**: Giant insects and millipedes ruling terrestrial ecosystems
+- **The Threshold Life**: Amphibos as master of the between-world (water and land)
+- **Metamorphosis**: The amphibian miracle — larval water life transforming to adult land life
+- **Gigantism then Loss**: Temna's empire of giant temnospondyls rises and falls with the Permian drying
+- **Survival Through Smallness**: Those needing little outlast those needing much
+- **Three Modern Lines**: Frogs (Rana), salamanders (Salamandrus), caecilians (Caecila)
 
 ## Scientific Elements
-- **Lepidodendron Biology**: 40m tall lycopsids with shallow root systems
-- **High Oxygen Atmosphere**: Enabling large spiracle-breathing arthropods
-- **Swamp Ecosystem**: Anaerobic conditions preserving organic matter
-- **Giant Arthropods**: Arthropleura 2.5m, Meganeura 70cm wingspan
-
-## Evolutionary Significance
-- Last great lycopsid forest period before seed plant takeover
-- Peak arthropod size and terrestrial dominance
-- Foundation for most of Earth's coal reserves
-- Final phase of purely Paleozoic forest structure
-
-## Environmental Context
-- Equatorial Pangaea with extensive lowland swamps
-- Seasonal flooding creating perfect preservation conditions
-- High humidity and stable warm temperatures
-- Complex multi-story forest canopies
+- **Temnospondyls**: Dominant Carboniferous amphibians; some (Prionosuchus) reached 9m
+- **Paedomorphosis**: Branchios = neotenic forms (mudpuppies, olms) that never metamorphose
+- **Skin-breathing**: Amphibians breathe through moist skin (cutaneous respiration)
+- **Permian Drying**: ~252 MYA mega-drought devastated amphibian diversity
+- **Lissamphibia**: Modern amphibians — frogs, salamanders, caecilians
 
 ## Narrative Arc
-- Peak of Carboniferous lycopsid-arthropod ecosystems
-- Setting stage for environmental changes ahead
-- Last hurrah of ancient forest types
-- Transition toward seed plant innovations
+- Branches from Tetrus (ch 61): Amphibos takes the water-retaining line while the other son founds amniotes
+- Peak of the temnospondyl empire in the Coal Swamp era
+- Permian crisis culls the giants
+- Three modern lineages emerge leaner and more resilient
+- Closing meditation on threshold living as spiritual teaching
+
+## Connection to Adjacent Chapters
+- **Ch 61**: Tetrus established as father of land nations; Amphibos branches from his line
+- **Ch 64**: Synapsids — the other son of Tetrus who abandoned water entirely (amniote line A)
+- **Ch 65**: Sauropsids — amniote line B
