@@ -1,5 +1,8 @@
 # Chapter 229 Notes: Olmec Foundations (Leo 5)
 
+## Summary
+The Caral and Norte Chico civilizations rise in coastal Peru (3000–1800 BCE) with monumental architecture and complex irrigation — the first urban centres of the Americas.
+
 ## Main Themes
 - Earliest Andean cities and complex society
 - Monumental architecture without ceramics

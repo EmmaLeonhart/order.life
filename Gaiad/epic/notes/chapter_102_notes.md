@@ -1,4 +1,8 @@
 # Chapter 102 Notes: Parasaurolophus Songs
+
+## Summary
+Crested hadrosaurs such as Parasaurolophus develop musical calls and artistic traditions across the Cretaceous landscape, establishing sophisticated cultural life.
+
 *Pisces 18 - Chapter 19 of 29*
 
 ## Position in 29-Chapter Arc

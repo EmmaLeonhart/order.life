@@ -1,4 +1,8 @@
 # Chapter 109 Notes: Cosmic Visitor Approaches
+
+## Summary
+A six-mile asteroid approaches Earth on a collision course, creating dramatic irony as unknowing civilizations reach their creative zenith.
+
 *Pisces 25 - Chapter 26 of 29*
 
 ## Position in 29-Chapter Arc

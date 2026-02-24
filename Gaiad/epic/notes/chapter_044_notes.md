@@ -1,5 +1,9 @@
 # Chapter 44: The Crustacean Determination - Detailed Notes
 
+## Summary
+
+Chapter 44 traces the genealogy of Gastropus, a son of Molluscus whose defining act was twisting his descendants so their anus sits beside their head — a design that allows them to withdraw entirely into their shells for protection. Limpus, the firstborn, becomes the ancestor of limpets and delivers a sermon echoing the Sermon on the Mount, urging his ten thousand children to build their houses on rock rather than sand, embodying steadfastness and loyal return to one's home. Snellon, the youngest son, represents innovation, and his lineage diversifies extravagantly: Trochus into cleaning snails, Avalon into abalones, and through Conchus, Marius fathers periwinkles, cowries (linked to the goddess Cuprias and credited with inventing money, their image preserved in Chinese script), murexes (source of Tyrian purple worn by Phoenicians and Romans), and the deadly cone snails. Heterobran's line produces Nudos, who sheds his shell to become the ancestor of nudibranchs, and Pulmon, who develops a lung to breathe air in tide pools — the first gastropod to survive without water.
+
 **Source:** Old Gaiad Chapter 35
 **New Chapter:** 44
 **Era:** Ordovician

@@ -1,4 +1,8 @@
 # Chapter 110 Notes: Final Mesozoic Days
+
+## Summary
+Dinosaur civilization experiences its final days of flourishing, unaware of the approaching impact, as life continues with beauty and normalcy.
+
 *Pisces 26 - Chapter 27 of 29*
 
 ## Position in 29-Chapter Arc

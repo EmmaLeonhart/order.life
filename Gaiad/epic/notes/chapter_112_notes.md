@@ -1,4 +1,8 @@
 # Chapter 112 Notes: K-Pg Extinction
+
+## Summary
+The K-Pg extinction destroys dinosaur civilization but clears the way for mammals, birds, and other survivors to inherit and reshape the world.
+
 *Pisces 28 - Extinction Anchor #5 (Chapter 29 of 29)*
 
 ## Extinction Framework

@@ -1,4 +1,8 @@
 # Chapter 107 Notes: Giant Flying Reptiles
+
+## Summary
+Pterosaurs reach maximum size and sophistication, potentially serving as aerial communication networks for the sauropod civilization.
+
 *Pisces 23 - Chapter 24 of 29*
 
 ## Position in 29-Chapter Arc

@@ -1,5 +1,8 @@
 # Chapter 226 Notes: Division of Tongues (Leo 2)
 
+## Summary
+Clovis point technology spreads rapidly across the Americas (~13,000–12,000 BCE) as hunters pursue megafauna, establishing the great American hunting traditions.
+
 ## Main Themes
 - Early hunting traditions
 - Spread across North and South America

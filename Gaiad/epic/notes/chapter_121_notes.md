@@ -1,4 +1,8 @@
 # Chapter 121 Notes: The Artiodactyls
+
+## Summary
+Even-toed ungulates dominate grasslands worldwide with ruminant specialization, antlered deer, and horned bovids establishing global herbivore success.
+
 *Aries 9 - Pre-Human Animal Chapters - Stage IV (Boreoeutheria Expands)*
 
 ## Arc Overview

@@ -1,4 +1,8 @@
 # Chapter 114 Notes: The Saga of Birds
+
+## Summary
+Avian survivors of the extinction undergo explosive adaptive radiation, diversifying into all modern bird orders and mastering aerial environments.
+
 *Aries 2 - Pre-Human Animal Chapters - Stage I (After the K-Pg)*
 
 ## Arc Overview

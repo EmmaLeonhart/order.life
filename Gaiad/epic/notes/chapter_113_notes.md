@@ -1,4 +1,8 @@
 # Chapter 113 Notes: The Survivors
+
+## Summary
+Crocodiles, turtles, birds, and small mammals emerge from the post-K-Pg devastation and begin capitalizing on the newly vacant ecological niches.
+
 *Aries 1 - Pre-Human Animal Chapters - Stage I (After the K-Pg)*
 
 ## Arc Overview

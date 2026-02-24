@@ -1,5 +1,8 @@
 # Chapter 225 Notes: First Migration (Leo 1)
 
+## Summary
+The first humans arrive in the Americas via a sea-based Pacific coastal migration route (~16,000–12,000 BCE), island-hopping with maritime skill in a journey that parallels Lehi's ocean crossing.
+
 ## Main Themes
 - First peopling of the Americas via sea routes
 - Coastal migration during Ice Age

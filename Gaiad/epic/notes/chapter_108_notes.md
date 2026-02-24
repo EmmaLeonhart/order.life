@@ -1,4 +1,8 @@
 # Chapter 108 Notes: Global Ecosystem Complexity
+
+## Summary
+Peak biological complexity as civilizations achieve planetary-scale resource management across all environments, just before cosmic catastrophe.
+
 *Pisces 24 - Chapter 25 of 29*
 
 ## Position in 29-Chapter Arc

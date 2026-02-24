@@ -1,6 +1,10 @@
 # Chapter 046 Notes: Great Ordovician Diversification
 *Aquarius 18 - Chapter 46 of 364*
 
+## Summary
+
+Chapter 46 narrates the war between Bivalves and Brachiopods among the Spiralians, framing it as the ancient conflict between innovation and tradition. Bivos, the bivalve patriarch, sheds his radula and redesigns himself entirely; his daughter Aphrodite becomes mother of oysters, scallops (including many-eyed Scallon), spiny oysters, and flame scallops, while his son Peter fathers the Trigonians — nearly all of whom are massacred, with only brave Unus escaping to become ancestor of freshwater river mussels and their pearls. Peter himself is enshrined as Keeper of the Pearly Gates. Clammon's lineage diversifies into cockles (ancestor of giant clams), Teredo the sea-termite ship-borer, zebra mussels, razor shells, geoducks, and Corbiculacea who transitions to freshwater. Against them stand Brachios's three conservative houses: Lingulus the arch-traditionalist who changes nothing across eons, and Calciatus's sons including Articulus, who builds his larval offspring as anus-less blobs that transform instantly via metamorphosis. The chapter closes with ominous foreshadowing of a catastrophe greater than the Bivalve-Brachiopod war itself, which will make all their battles irrelevant.
+
 ## Chapter Content Summary
 This chapter chronicles the epic war between Bivalves and Brachiopods during the Great Ordovician Diversification, representing innovation versus tradition in marine ecosystems. It details the genealogies of both groups while hinting at a greater catastrophic threat approaching that will dwarf their conflicts.
 

@@ -1,6 +1,10 @@
 # Chapter 045 Notes: Gondwana Assembles
 *Aquarius 17 - Chapter 45 of 364*
 
+## Summary
+
+Chapter 45 traces the echinoderm genealogy through Esther, tenth-generation descendant of Lily the Echidna, who established pentaradial (five-fold) symmetry in response to the planktonic abundance of the ancient seas. Her daughters Blastosa and Crinosa diverge into blastoids and crinoids respectively, with Luther — Crinosa's son — breaking from the stalked, sessile lifestyle to crawl across the seafloor on tube feet, becoming the ancestor of all mobile echinoderms. Luther's sons Asteros and Echinos go to war with million-strong armies, but their children Ophis and Britta end the feud by marrying, producing the brittle stars, while their separate lines yield starfish (through Starfy), serpent stars and basket stars (through their children), sea urchins with Aristotle's famous five-toothed jaw (through Aristotle), sand dollars (through Aristotle's great-granddaughter Sandy), and sea cucumbers (through Cucus), who serve as ocean janitors and eject their own viscera at enemies. The chapter closes meditating on pentamerous symmetry as a design principle expressed "through eternity," and on Luther's rebellious mobility as the fountainhead of echinoderm diversity.
+
 ## Chapter Content Summary
 This chapter chronicles the evolution of echinoderms through Esther, tenth-generation descendant of Lily the Echidna, who established pentaradial (five-fold) symmetry. It traces the diversification of major echinoderm groups through family conflicts, marriages, and innovations, from stalked filter feeders to mobile predators and specialized forms.
 

@@ -1,5 +1,8 @@
 # Chapter 228 Notes: Norte Chico (Leo 4)
 
+## Summary
+Athabaskan peoples migrate southward from Alaska, laying the cultural foundations of Apache and Navajo peoples (~8,000–5,000 BCE).
+
 ## Main Themes
 - Athabaskan ancestors spread across North America
 - Second major wave of Indigenous migration

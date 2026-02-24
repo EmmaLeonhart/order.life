@@ -1,4 +1,8 @@
 # Chapter 101 Notes: Hadrosaur Societies
+
+## Summary
+Duck-billed hadrosaurs develop complex social hierarchies, parental care systems, and cultural exchange networks with the wider sauropod civilization.
+
 *Pisces 17 - Chapter 18 of 29*
 
 ## Position in 29-Chapter Arc

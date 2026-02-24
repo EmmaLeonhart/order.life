@@ -1,6 +1,9 @@
 # Chapter 008 Notes: Heavy Elements Scattered
 *Sagittarius 8 - Chapter 8 of 364*
 
+## Summary
+The three brothers — Bios, Viros, and Dedos — pursue divergent paths on Hesper under Tezca's sun: Bios builds and grows through mitosis, Viros spreads through cunning viral replication that consumes Bios's offspring, and Dedos rejects the cyborg body entirely in favor of natural purity, only to be wiped out by starvation and radiation. The Dedos line leaves behind only a philosophical legacy, which the chapter associates with the modern anti-vaccination movement. A meteor then strikes Hesper, destroying the ocean-civilizations of all three lineages and flinging the survivors into space; the remnants set course for Phaestia, a glowing moon of the gas giant Venti, hoping to brew life anew.
+
 ## Chapter Content Summary
 This chapter details the evolutionary divergence of the three brothers' lineages on Hesper, their different survival strategies, the catastrophic meteor impact that destroys their civilization, and the survivors' journey to the moon Phaestia orbiting gas giant Venti.
 

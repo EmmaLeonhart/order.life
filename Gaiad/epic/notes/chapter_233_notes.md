@@ -1,5 +1,8 @@
 # Chapter 233 Notes: Andean Precursors (Leo 9)
 
+## Summary
+Moche, Nazca, Wari, and Tiwanaku civilizations in the Andes (200 BCE–1000 CE) lay the cultural and agricultural foundations that will later support the Inca Empire.
+
 ## Main Themes
 - Moche, Nazca, Wari, Tiwanaku civilizations
 - Sophisticated Andean societies pre-Inca

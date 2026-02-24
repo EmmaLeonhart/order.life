@@ -1,5 +1,8 @@
 # Chapter 231 Notes: Phoenicians of Zarahemla (Leo 7)
 
+## Summary
+Pre-Columbian trans-oceanic contact occurs around 500 BCE as Phoenician-Israelite traders blend culturally with Caribbean Indigenous peoples in a Zarahemla parallel.
+
 ## Main Themes
 - Israelite-Phoenician traders in Cuba
 - Pre-Columbian trans-oceanic contact

@@ -1,4 +1,8 @@
 # Chapter 111 Notes: Impact Winter Begins
+
+## Summary
+The Chicxulub asteroid strikes, triggering global firestorms and a debris winter that collapses the food web and ends dinosaur civilization.
+
 *Pisces 27 - Chapter 28 of 29*
 
 ## Position in 29-Chapter Arc

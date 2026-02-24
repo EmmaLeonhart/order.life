@@ -1,4 +1,8 @@
 # Chapter 123 Notes: The Rodents
+
+## Summary
+Rodents undergo explosive radiation producing over 2000 species — 40% of all mammals — through small size, dietary flexibility, and rapid reproduction.
+
 *Aries 11 - Pre-Human Animal Chapters - Stage IV (Boreoeutheria Expands)*
 
 ## Arc Overview

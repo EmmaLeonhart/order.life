@@ -1,4 +1,8 @@
 # Chapter 106 Notes: Marine Reptile Rulers
+
+## Summary
+Mosasaurs ascend to ocean dominance after ichthyosaur decline, completing reptilian control across all three major environments.
+
 *Pisces 22 - Chapter 23 of 29*
 
 ## Position in 29-Chapter Arc

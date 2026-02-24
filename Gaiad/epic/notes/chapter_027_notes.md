@@ -1,6 +1,9 @@
 # Chapter 027 Notes: The Great Stabilization
 *Capricorn 1 - Chapter 27 of 364*
 
+## Summary
+Chapter 27 follows Enki, adventurous son of the unique Anu, who sets sail on a galley with millions of oars to explore the open ocean, leaving behind his stay-at-home brother Homos. Lost in the endless sea, Enki summons a band of priestly flask-cell Flamens as astrologers to guide him, and the gods answer with a cascade of divine chemical gifts: Tyrosine the Devil bestows adrenaline, noradrenaline, and dopamine; Tryptophanes the Sun gives serotonin, melatonin, and DMT; Glutama the Empress offers GABA and glutamate; Mithra provides acetylcholine; Iodina reveals oxytocin (CYIQNCPLG); and Kali grants the three endorphins with their specific amino acid sequences, the ancient source of opium and morphine. Armed with these neurotransmitters, the Flamens develop coordinated nematocyst spears and wire telegraph-like nerve connections that become the first neural networks, while Enki's tentacle arms lined with choanocytes catch larvae from the sea. Enki's legacy splits between his son Xiangus (whose lineage through Daihua and Dinomischus produces Siphus, ancestor of the bioluminescent comb jellies) and the still-unfolding line of Paraxus, who will father greater nations to come.
+
 ## Chapter Content Summary
 This chapter narrates the evolution of the nervous system through Enki's oceanic journey. Enki builds a galley (representing early animals) and receives divine gifts of neurotransmitters from various deities. The Flamens (flask cells) develop nematocysts and neural networks, leading to the evolution of comb jellies and other early nervous system animals.
 

@@ -1,6 +1,9 @@
 # Chapter 002 Notes: Aster's First Call
 *Sagittarius 2 - Chapter 2 of 364*
 
+## Summary
+The chapter opens as an invocation, declaring the epic's content to be divine truth rather than mere legend, and directly addressing the reader as a thread in the cosmic wheel whose life participates in reuniting Aster and Andromeda. Aster fires a red yarn-thread across space toward Andromeda, who responds with a blue thread, but both fall short of each other. The small helper galaxies Triangulum and the Magellanic Clouds gather green strands and attempt to bridge the gap between the two. The chapter closes by reaffirming that the stars above are mirrors of human fate, and that the Omega Point will ultimately bring all threads together.
+
 ## Chapter Content Summary
 This chapter serves as both invocation and cosmic introduction, establishing the central mythological framework of Aster and Andromeda's separated love that drives all cosmic creation.
 

@@ -1,6 +1,9 @@
 # Chapter 023 Notes: The Gamma Ray Apocalypse
 *Aquarius 23 - Chapter 23 of 364*
 
+## Summary
+Chapter 23 opens with the cosmic villain Hilluhengweh striking the Earth with a devastating gamma-ray burst approximately 1.3 billion years ago, destroying nearly all of the red algae kingdom established by Rhodes. Only two survivors remain — Lifthasir and Embla — who must rebuild their lineage through forced inbreeding, weakening the gene pool and ultimately producing the diminished queen Florida, whose faded, greened descendants explain why plants today are green rather than the original crimson red. In the wake of the apocalypse, the opportunistic Rhizar rises to fill the ecological void, fathering two major branches: Nephillus (whose children include the vampiric Vampyrellida and the fortress-building Testatus) and Filoses (whose offspring include Chlorar, who independently acquires photosynthesis, and Thaumatus, whose amoeboid descendants eventually produce Paulinellus — who achieves the second and only other known primary endosymbiosis in history by capturing a cyanobacterial daughter of Saya). From Testatus descend the great protist architects: the geometric Radios (who hosts dinoflagellates in symbiosis), the waste-bloated giant Gromius, and through the artistic Retar, the foraminifera Foramer and the xenophyophore giant Monoth, whose chamber-building descendants still rule the deep ocean floor.
+
 ## Chapter Content Summary
 This chapter describes a catastrophic gamma-ray burst initiated by dark Hilluhengweh that devastates Earth's biosphere approximately 1.3 billion years ago. The extinction event wipes out most red algae, leaving only two survivors who must rebuild their lineage through inbreeding, explaining the evolutionary shift from red to green photosynthesis. The chapter chronicles how Rhizar and other protist lineages diversify in the post-apocalyptic world, including the rare second primary endosymbiosis event in Paulinellus.
 
