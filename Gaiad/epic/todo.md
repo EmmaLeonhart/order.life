@@ -64,6 +64,7 @@
 
 ### EDITS
 | Chapter| Edit|
+|-------|-------|
 | 70 | Add Ammonites|
 
 ---
