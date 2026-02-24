@@ -731,6 +731,13 @@ _CUSTOM_DAY_NOTES = {
     if "note" in h
 }
 
+# Chapter summaries keyed by day-of-year integer (1–364).
+# Edit content/gaian_days.json — add/edit the "chapter_summaries" object.
+_CHAPTER_SUMMARIES = {
+    int(k): v
+    for k, v in _GAIAN_DAYS.get("chapter_summaries", {}).items()
+}
+
 
 def _ordinal(n):
     """Return '1st', '2nd', '3rd', '4th', etc."""
@@ -1781,6 +1788,7 @@ def build_site():
                     "day_of_year": doy,
                     "chapter_num": doy if doy <= 364 else None,
                     "has_chapter": doy in chapters if doy <= 364 else False,
+                    "chapter_summary": _CHAPTER_SUMMARIES.get(doy) if doy <= 364 else None,
                     "weekday_num": ((d - 1) % 7) + 1,
                     "weekday_data": WEEKDAYS[((d - 1) % 7)],
                     "wiki_day_intro": wiki_day.get("intro"),

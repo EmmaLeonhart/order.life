@@ -35,6 +35,12 @@
   </div>
   {% endif %}
 
+  {% if chapter_summary %}
+  <div class="chapter-summary">
+    <p>{{ chapter_summary }}</p>
+  </div>
+  {% endif %}
+
   <div class="day-links">
     {% if chapter_num %}
     <a href="{{ base }}/gaiad/{{ '%03d' % chapter_num }}/">{{ t.read_chapter }}: {{ t.gaiad }} {{ chapter_num }}</a>
