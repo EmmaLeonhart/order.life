@@ -59,6 +59,12 @@
 |-------|-------|
 | **Flowering plants (angiosperms)** | Cretaceous–present. Save for later chapters (~Ch 90s). |
 | **Birds** | Will emerge from sauropsid/dinosaur chapters. |
+| Teleosts | Sometime in the Triassic |
+| Mammals | 1 section in Pisces, and others in Aries|
+
+### EDITS
+| Chapter| Edit|
+| 70 | Add Ammonites|
 
 ---
 
@@ -111,7 +117,7 @@
 | 228 | Norte Chico | Athabaskan migration Alaska southward; Apache/Navajo foundations (~8,000–5,000 BCE) |
 | 229 | Olmec Foundations | Caral and Norte Chico cities rise (3000–1800 BCE) |
 | 230 | Maya Dynasties | Tikal, Palenque, Copán; astronomy and writing (1000 BCE–900 CE) |
-| 231 | Phoenicians of Zarahemla | Pre-Columbian trans-oceanic contact (~500 BCE) |
+| 231 | Phoenicians of Zarahemla | Pre-Columbian trans-oceanic contact (~500 BCE), Lehi arrives, builds a temple of Yahweh |
 | 232 | Oaxaca's Lords | Monte Albán; Zapotec and Mixtec kingdoms (500 BCE–1500 CE) |
 | 233 | Andean Precursors | Moche, Nazca, Wari, Tiwanaku lay Inca foundations (200 BCE–1000 CE) |
 | 234 | Mound Cities | Cahokia and mound-builder cultures (500 BCE–1400 CE) |
@@ -133,6 +139,9 @@
 | 250 | Five Civilized Tribes | Cherokee, Choctaw, Chickasaw, Creek, Seminole establish republics |
 | 251 | Tecumseh, Black Hawk & Seminole Wars | Final eastern-woodland wars |
 | 252 | Indian Removal & Book of Mormon | Trail of Tears begins; Book of Mormon published (1830) |
+
+
+
 
 **Gap: Ch 130–224** — no notes yet. Covers stone age, bronze age, iron age, classical antiquity, medieval period. Needs planning.
 
