@@ -1789,6 +1789,7 @@ def build_site():
                     "chapter_num": doy if doy <= 364 else None,
                     "has_chapter": doy in chapters if doy <= 364 else False,
                     "chapter_summary": _CHAPTER_SUMMARIES.get(doy) if doy <= 364 else None,
+                    "day_note": _CUSTOM_DAY_NOTES.get((m["num"], d), ""),
                     "weekday_num": ((d - 1) % 7) + 1,
                     "weekday_data": WEEKDAYS[((d - 1) % 7)],
                     "wiki_day_intro": wiki_day.get("intro"),
