@@ -1,7 +1,7 @@
 # Gaiad Epic - Chapter Planning & Lineage Tracker
 
 ## Current Position
-- **Last completed chapter**: 63
+- **Last completed chapter**: 72
 - **Geological period**: Late Carboniferous (~300 MYA), Coal Swamp era
 - **Narrative part**: Part II — Tetrapod Heroic Cycle
 
@@ -26,24 +26,33 @@
 | Lobe-finned fish → tetrapod transition | 61 | Rhipidistius, Pandericthus, Tiktaalik analogs; Tetrus = father of land nations |
 | Gastropods (terrestrial/respiratory) | 62 | Pulmon; air-breathing, intertidal, photosynthetic lineages |
 | Amphibians | 63 | Amphibos; Temna (temnospondyls), Salamandrus, Caecila, Rana |
+| Synapsids | 64 | Amnios → Synaps → Pelyon → Theraps → Cynos |
+| Sauropsids | 65 | Sauros → Paraps (Turtlos) + Eureps → Squamos + Archon |
+| Insects (orders) | 66 | Neopter's nations: Blattus, Orthopteros, Hemipteros, Coleopteros, Diptos, Hymenos, Lepidopteron |
+| Spiders | 67 | Minirachne → Arachnus → Mygalos + Araneo |
+| Ray-finned fish | 68 | Actinus → Bichiros → Chondrosteos/Holosteos → Teleosteos |
+| Gymnosperms | 69 | Gymnos → Cordaios + Cycados + Conifera + Ginkga |
+| Cephalopods (coleoids) | 70 | Coleios → Belemno + Sepos + Teuthis + Octopos |
+| Malacostracan crustaceans | 71 | Malacos → Decapos + Euphausios + Stomatos + Isops |
+| Cartilaginous fish | 72 | Acanthus → Elasmos (Selachios + Batos) + Chimaera |
 
 **Note on plants:** Spore-plant lineage done (mosses → ferns → lycopsids). Gymnosperms class-level established via Gymnos (Ch 56). Angiosperms not yet reached.
 
 ---
 
-## Lineages: OPEN — Chapters 64–72 (Next Up)
+## Lineages: COMPLETED — Chapters 64–72
 
-| Planned Ch | Group | Status | Notes |
+| Ch | Group | Status | Notes |
 |-----------|-------|--------|-------|
-| **64** | **Synapsids** (proto-mammals) | Class-level only | Amniote split line A. Pelycosaurs → therapsids → cynodonts → mammals. |
-| **65** | **Sauropsids** (reptiles) | Class-level only | Amniote split line B. Lizards, turtles, crocodilians, dinosaurs, birds all descend from here. |
-| **66** | **Insects** (order level) | Class-level only | Ch 60 established hexapods. Now tell the orders: beetles, cockroaches, dragonflies, ants, bees, butterflies, etc. |
-| **67** | **Spiders** | Not covered | Arachnids broadly done but spiders specifically skipped. |
-| **68** | **Actinopterygii** (ray-finned fish) | Class-level only | Ch 57 named them via Janusicthus. Teleosts are the most species-rich vertebrate group today. |
-| **69** | **Gymnosperms** | Class-level only | Gymnos introduced in Ch 56. Conifers, cycads, cordaitaleans, ginkgos — story starts in the Carboniferous. |
-| **70** | **Cephalopods** (coleoids) | Class-level only | Ch 47 covered nautiloids. Squid, octopus, cuttlefish not told. |
-| **71** | **Malacostracan crustaceans** | Not covered | Crabs, shrimp, lobsters, woodlice, krill, mantis shrimp. |
-| **72** | **Cartilaginous fish** | Class-level only | Ch 57 goes to Acanthus. Tell his children: sharks, rays, chimaeras — in contrast to ray-finned fish. |
+| **64** | **Synapsids** (proto-mammals) | ✅ Written | Amnios → Synaps → Pelyon → Theraps → Cynos. Amniotic egg innovation. |
+| **65** | **Sauropsids** (reptiles) | ✅ Written | Sauros → Paraps (Turtlos) + Eureps → Squamos (lizards/snakes) + Archon (crocs/dinos/birds). |
+| **66** | **Insects** (order level) | ✅ Written | Neopter's nations: Blattus, Orthopteros, Hemipteros, Coleopteros, Diptos, Hymenos, Lepidopteron, Termitios. |
+| **67** | **Spiders** | ✅ Written | Minirachne → Arachnus → Mygalos (mygalomorphs) + Araneo (araneomorphs). Silk and web innovation. |
+| **68** | **Actinopterygii** (ray-finned fish) | ✅ Written | Actinus → Bichiros → Chondrosteos/Holosteos → Teleosteos. Most species-rich vertebrate group. |
+| **69** | **Gymnosperms** | ✅ Written | Gymnos → Cordaios + Cycados + Conifera + Ginkga. Naked seed innovation on dry hillsides. |
+| **70** | **Cephalopods** (coleoids) | ✅ Written | Coleios → Belemno + Sepos + Teuthis + Octopos. Internal/lost shell, ink, intelligence. |
+| **71** | **Malacostracan crustaceans** | ✅ Written | Malacos → Decapos + Euphausios + Stomatos + Isops. Crabs, krill, mantis shrimp, pill bugs. |
+| **72** | **Cartilaginous fish** | ✅ Written | Acanthus → Elasmos → Selachios + Batos; + Chimaera. Carboniferous golden age of sharks. |
 
 ### Still Open, No Chapter Assigned Yet
 | Group | Notes |
