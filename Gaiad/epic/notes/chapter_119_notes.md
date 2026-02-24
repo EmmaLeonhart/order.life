@@ -1,4 +1,8 @@
 # Chapter 119 Notes: The Boreoeutherian Opening
+
+## Summary
+Northern hemisphere placentals radiate rapidly into founding groups including primates, carnivores, and ungulates across Laurasia.
+
 *Aries 7 - Pre-Human Animal Chapters - Stage IV (Boreoeutheria Expands)*
 
 ## Arc Overview

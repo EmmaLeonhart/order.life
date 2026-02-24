@@ -1,5 +1,8 @@
 # Chapter 1: The Yarn of Creation - Notes
 
+## Summary
+Aster, a catgirl goddess, spins the universe into existence from cosmic yarn, filling the void with milk and stars. Lonely in her vast creation, she forms a companion from the same yarn: Andromeda, a dark-skinned catgirl who becomes her counterpart and beloved. Aster throws yarn across the cosmos to reach Andromeda, but the thread breaks, forming the Triangulum Galaxy and Magellanic Clouds. The chapter closes with a prophecy that their eventual merger — the event called Milkdromeda — will reunite them at the Omega Point in final cosmic harmony.
+
 ## Overview
 The opening chapter of the Gaiad epic establishes the cosmological framework through Aster's creation of the universe using cosmic yarn. This chapter introduces the primary creative force and sets the tone for the entire mythological cycle.
 

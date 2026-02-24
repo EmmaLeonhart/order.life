@@ -1,4 +1,8 @@
 # Chapter 122 Notes: The Marine Mammals
+
+## Summary
+Whales evolve a complete transition from land to sea with echolocation and filter-feeding, while seals and sirenians also achieve marine dominance.
+
 *Aries 10 - Pre-Human Animal Chapters - Stage IV (Boreoeutheria Expands)*
 
 ## Arc Overview

@@ -1,5 +1,8 @@
 # Chapter 230 Notes: Maya Dynasties (Leo 6)
 
+## Summary
+The Classic Maya civilization flourishes (1000 BCE–900 CE) with Tikal, Palenque, and Copán developing sophisticated writing, astronomy, and dynastic politics.
+
 ## Main Themes
 - Classic Maya civilization and inscriptions
 - Priest-astronomers and complex calendar
@@ -7,7 +10,7 @@
 - Cultural flowering and achievements
 
 ## Key Events
-- Rise of Tikal, Palenque, Cop�n
+- Rise of Tikal, Palenque, Cop�n
 - Development of Maya writing system
 - Complex astronomical observations
 - Dynastic wars and political alliances

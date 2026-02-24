@@ -1,6 +1,9 @@
 # Chapter 007 Notes: Primordial Stars Burn
 *Sagittarius 7 - Chapter 7 of 364*
 
+## Summary
+Alarmed by the fragility of life on Hesper, Aster weeps and then acts: she weaves phospholipid bilayers into protective shells for her creatures, making all life a cyborg fusion of biology and machine. From this protected life arise three brothers — Bios, who nurtures life; Viros, who thrives through cunning and change; and Dedos, who seeks purity and order — who gather to honor their divine lineage. Recounting their genealogy (Aster, then her daughter Cosmic Benzette, then Granny Hesper, then their mother Quinamette), the brothers debate what to call Aster, and all three agree: because no one stands above her, she must be called the Greatest Grandmother. This is the origin of Aster's sacred title.
+
 ## Chapter Content Summary
 This chapter introduces the concept of life as cyborg fusion of biological and mechanical elements, establishes the three fundamental forces (Bios, Viros, Dedos), and provides the genealogical foundation for Aster's divine lineage and title.
 

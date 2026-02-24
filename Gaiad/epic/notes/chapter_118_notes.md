@@ -1,4 +1,8 @@
 # Chapter 118 Notes: The Afrotherians
+
+## Summary
+African placental mammals develop intelligence in elephant lineages while aquatic sirenians and specialized aardvarks evolve from isolated stock.
+
 *Aries 6 - Pre-Human Animal Chapters - Stage III (Placental Foundations)*
 
 ## Arc Overview

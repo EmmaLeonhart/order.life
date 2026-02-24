@@ -1,6 +1,9 @@
 # Chapter 003 Notes: Andromeda's Answer
 *Sagittarius 3 - Chapter 3 of 364*
 
+## Summary
+Aster stirs her cosmic milk to birth the Milky Way, spinning stars from helium and light and imagining children who will one day mend the broken thread connecting her to Andromeda. As she creates her galaxy, a pantheon of stellar goddesses emerges, each governing a different class of star: Juno oversees the gas giant "Steppenwolves," Brunhilda guards the brown dwarf failed stars, Ruby tends the long-burning red dwarfs, Chrystella governs main sequence stars through their arc into white dwarfs, and Celestella commands red supergiants and their neutron star remnants. The chapter ends with Gigastella, the most massive stellar goddess, whose immense life burns fast and collapses in supernova, leaving behind a black hole that swallows light into eternal night.
+
 ## Chapter Content Summary
 This chapter expands the cosmic mythology by introducing stellar goddesses and establishing the hierarchical divine structure governing stellar evolution. Aster creates the Milky Way galaxy while Andromeda responds with cosmic love.
 

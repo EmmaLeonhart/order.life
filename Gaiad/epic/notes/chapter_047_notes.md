@@ -1,5 +1,9 @@
 # Chapter 47 Notes
 
+## Summary
+
+Chapter 47 chronicles the rise of the cephalopods, descendants of Cephalopus, who overthrow Leviathan's marine dominion through intelligence rather than brute force. Ellesmer, the deep-seeking patriarch, dives into the ocean's hidden mysteries; his grandson Cameroceras Magnus (Cameromagne) defeats the sons of Leviathan, and Cameromagne's own son Endoceras grows to nine meters — four times Leviathan's size — inaugurating the age of cephalopod decree. Actinos develops the ability to rise and descend through controlled buoyancy, and his son Tarphy lives fast in youth (coiling his shell a hundred times), then uncoils in old age to settle in the depths, establishing a life-cycle pattern of youthful heights followed by aged wisdom. Oncos's line preserves this wisdom through Nautilus, who still lives today unchanged. Among Orthosceros's sons, Ascos casts off his clumsy shell in adulthood to become supremely graceful, representing the sacrifice of protection for freedom, while the seemingly insignificant Bacchus conquers the sea not through size but through producing a million offspring. The chapter closes meditating on wisdom as the true currency of dominion, superior to the force that Leviathan once wielded.
+
 ## The Rise of Cephalopod Intelligence and the Overthrow of Leviathan
 
 ### The Great Lineage Divergence

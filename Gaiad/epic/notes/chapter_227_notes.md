@@ -1,5 +1,8 @@
 # Chapter 227 Notes: Second Migration (Na-Dené) (Leo 3)
 
+## Summary
+Indigenous language families diverge across the Americas in a Babel-like linguistic split (~10,000–8,000 BCE), forming the foundations of distinct tribal identities.
+
 ## Main Themes
 - Language family divergence across Americas
 - Babel-like linguistic division

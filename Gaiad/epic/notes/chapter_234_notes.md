@@ -1,5 +1,8 @@
 # Chapter 234 Notes: Mound Cities (Leo 10)
 
+## Summary
+Cahokia and the mound-building cultures of the Mississippi Valley (500 BCE–1400 CE) demonstrate North American urban sophistication and long-distance trade networks.
+
 ## Main Themes
 - Adena, Hopewell, and Mississippian cultures
 - Cahokia and other mound-building centers

@@ -1,6 +1,9 @@
 # Chapter 022 Notes: Kingdom Diversification
 *Aquarius 22 - Chapter 22 of 364*
 
+## Summary
+Chapter 22 traces the diversification of the children of Nectarius into the major eukaryotic kingdoms. Plastidus and Cortica's offspring diverge dramatically: Glauca proudly embraces clonal reproduction and the ancient peptidoglycan dress, multiplying into billions but remaining evolutionarily limited, while her sister Alga sheds tradition and weds her brother Alges to build sophisticated thylakoid systems, producing Rhodes (red algae, deep-water specialist) and Vert (green plant ancestor destined for land). Secondary endosymbiosis drives the chapter's central drama as Ochros steals Rosa from Rhodes' lineage to acquire photosynthetic power, spawning Diana (who masters glass shells with Silicon to create diatoms) and Kelpus (builder of vast underwater kelp forests). The stolen light sparks a cascade of theft and war: Alveolus steals Ochros' daughter Okra, fathering Cilliofer (ciliates) and the vampiric Myzo, whose dark descendants Dinoflagellus and Malarius bring bioluminescent fire and malarial disease respectively. Meanwhile Ozymandias rules the unikont domain through his sons Podius (who chooses love and mitochondrial partnership, ancestral to both fungi and animals) and the bitter, isolated Metamon, who refuses all alliances and is condemned to anaerobic obscurity.
+
 ## Chapter Content Summary
 This chapter chronicles the early diversification of eukaryotic kingdoms following their establishment in Chapter 21. It focuses on the complex secondary endosymbiotic events, the evolution of major protist lineages, the establishment of photosynthetic and non-photosynthetic strategies, and the emergence of parasitic relationships. The narrative includes the rise of diatoms, kelp forests, dinoflagellates, and early animal-fungal precursors.
 

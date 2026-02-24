@@ -1,4 +1,8 @@
 # Chapter 115 Notes: The Monotremes
+
+## Summary
+Egg-laying monotreme mammals preserve ancient traits and develop specialized adaptations in the isolated continents of Antarctica and Australia.
+
 *Aries 3 - Pre-Human Animal Chapters - Stage II (Basal Mammals)*
 
 ## Arc Overview

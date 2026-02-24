@@ -1,6 +1,9 @@
 # Chapter 005 Notes: The Big Bang of Longing
 *Sagittarius 5 - Chapter 5 of 364*
 
+## Summary
+Aster makes her milk "pregnant with cat seed," causing the galactic medium to curdle into stars, each surrounded by planets bearing deep oceans where life begins to bloom. Her presence permeates every system, carrying the faint scent of hydrocarbons — described poetically as burnt steak — as life rises from microbes to sea creatures across countless worlds. Andromeda watches from across the void with pride, awed by Aster's creative power, their separated love becoming the very fabric that sustains this universal proliferation of life. The chapter establishes that Aster's longing for Andromeda is the driving force behind the galaxy's fertility.
+
 ## Chapter Content Summary
 This chapter depicts Aster's cosmic pregnancy and the seeding of life throughout the galaxy. The "Big Bang of Longing" manifests as Aster spreading life-creating force across the universe, with Andromeda witnessing and supporting this creative act.
 

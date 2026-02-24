@@ -1,4 +1,8 @@
 # Chapter 104 Notes: Horns versus Teeth
+
+## Summary
+Triceratops and T. rex epitomize the ultimate predator-prey civilizational conflict as ecosystem militarization reaches peak tension before the coming crisis.
+
 *Pisces 20 - Chapter 21 of 29*
 
 ## Position in 29-Chapter Arc

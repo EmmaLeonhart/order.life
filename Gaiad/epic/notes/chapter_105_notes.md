@@ -1,4 +1,8 @@
 # Chapter 105 Notes: Peak Dinosaur Diversity
+
+## Summary
+Sauropod civilization achieves maximum complexity with all ecological niches filled; peak dinosaur diversity across land, sea, and air.
+
 *Pisces 21 - Extinction Anchor #4 (Chapter 22 of 29)*
 
 ## Extinction Framework

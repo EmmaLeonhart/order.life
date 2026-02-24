@@ -1,6 +1,9 @@
 # Chapter 004 Notes: The First Yarn String
 *Sagittarius 4 - Chapter 4 of 364*
 
+## Summary
+Rhodes, the son of the red dwarf goddess Ruby, falls in love with Marigold, a bright yellow star and daughter of Chrystella. Though mismatched in luminosity, their bond is true and enduring. As Marigold ages into a red giant and then a white dwarf, she transfers stellar material to Rhodes, who brightens in return; their exchange triggers periodic nova bursts that produce lithium, occurring at intervals of roughly twenty-five years. Both eventually become white dwarfs together, watching the nebular "children" their shared material spawned. The chapter closes by connecting their story to human wedding traditions, with ruby, topaz, and white opal rings commemorating the three phases of their love.
+
 ## Chapter Content Summary
 This chapter tells the love story of Rhodes and Marigold, the first stellar couple, whose relationship models nova recurrence and stellar evolution. Their story establishes patterns for cosmic love and stellar life cycles.
 

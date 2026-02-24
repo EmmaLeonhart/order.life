@@ -1,4 +1,8 @@
 # Chapter 117 Notes: The Threefold Division
+
+## Summary
+Placental mammals diverge into three great lineages — Afrotheria, Xenarthra, and Boreoeutheria — following continental separation and geographic isolation.
+
 *Aries 5 - Pre-Human Animal Chapters - Stage III (Placental Foundations)*
 
 ## Arc Overview

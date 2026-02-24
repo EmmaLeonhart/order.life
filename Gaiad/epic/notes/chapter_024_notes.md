@@ -1,6 +1,9 @@
 # Chapter 024 Notes: The Rise of Multicellularity
 *Aquarius 24 - Chapter 24 of 364*
 
+## Summary
+Chapter 24 follows Choanos and his collar-bearing wife Chana as they found the choanoflagellate lineage in the Proterozoic seas, driven by rivalry with Volvox's perfectly spherical colonial realm. The chapter traces an exponential doubling of colonial cells across many generations — from Sibhozo and Embili's four-cell fishing nets through Eudorinus's kingdom of 32, who solves his food crisis by marrying Zoe Xanthella, a glowing princess of Dinoflagellus's line, forging the first symbiotic farming bond and organizing the colony into a sphere. Sexagesmus (64 cells) faces a bacterial invasion, prompting his female cells to cast off their flagella and transform into pseudopod-bearing shieldmaidens — the origin of the mesoderm — while the flagellate choanocyte sons remain as endoderm fishermen. The lineage culminates in Volvox-Choan, ruler of 512 cells, who establishes a rigid two-caste system: noble Germlings who alone may reproduce, and Somatic servants who may not — sparking the rebellion of Carcinoma, a somatic maiden who challenges the entire multicellular order and shakes the sphere to its foundation.
+
 ## Chapter Content Summary
 This chapter chronicles the evolution of multicellularity through the lineage of Choanos (choanoflagellates), showing the progression from single cells to complex colonial organisms. It depicts the development of cell specialization, the first symbiotic relationships with dinoflagellates, and the eventual emergence of differentiated tissues (endoderm and mesoderm). The narrative culminates in a class struggle within Volvox-Choan's kingdom, with Carcinoma's revolution representing both the danger and necessity of cellular cooperation.
 

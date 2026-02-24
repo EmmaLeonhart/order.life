@@ -1,4 +1,8 @@
 # Chapter 100 Notes: Tyrannosaur Supremacy
+
+## Summary
+T. rex and relatives reach peak terrestrial predator status during the Late Cretaceous while sauropod civilization develops herd defense strategies and anti-predator technologies in an escalating arms race.
+
 *Pisces 16 - Chapter 17 of 29*
 
 ## Position in 29-Chapter Arc

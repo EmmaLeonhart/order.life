@@ -1,4 +1,8 @@
 # Chapter 103 Notes: Ceratopsian Displays
+
+## Summary
+Horned ceratopsians use elaborate frill displays and vocalizations for species recognition and cultural identity within multi-modal communication systems.
+
 *Pisces 19 - Chapter 20 of 29*
 
 ## Position in 29-Chapter Arc

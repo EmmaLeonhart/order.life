@@ -1,4 +1,8 @@
 # Chapter 120 Notes: The Carnivorans
+
+## Summary
+Carnivorous mammals radiate into diverse predatory forms including multiple sabre-tooth lineages, coordinated pack hunters, and marine pinnipeds.
+
 *Aries 8 - Pre-Human Animal Chapters - Stage IV (Boreoeutheria Expands)*
 
 ## Arc Overview

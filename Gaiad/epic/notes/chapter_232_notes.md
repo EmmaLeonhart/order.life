@@ -1,13 +1,16 @@
 # Chapter 232 Notes: Oaxaca's Lords (Leo 8)
 
+## Summary
+Monte AlbÃ¡n rises as the Zapotec capital while Mixtec kingdoms develop sophisticated genealogical records and political alliances in Oaxaca (500 BCEâ€“1500 CE).
+
 ## Main Themes
 - Zapotec and Mixtec genealogies
-- Monte Albán and highland kingdoms
+- Monte Albï¿½n and highland kingdoms
 - Complex political alliances
 - Sophisticated record-keeping
 
 ## Key Events
-- Rise of Monte Albán as Zapotec capital
+- Rise of Monte Albï¿½n as Zapotec capital
 - Development of Zapotec writing system
 - Mixtec codices and genealogical records
 - Political marriages and alliances

@@ -1,6 +1,9 @@
 # Chapter 026 Notes: The Sponge Kingdom
 *Aquarius 26 - Chapter 26 of 364*
 
+## Summary
+Chapter 26 opens with a survey of the three great eukaryotic kingdoms — Plantus (plants), Mygus (fungi), and Metazo's Animal Kingdom — before focusing on Metazo and Anima's founding of their city on a solid rock with their three-caste citizenry: Choanocyte fishermen, Archaeocyte shieldmaiden guardians, and Pinacocyte anchors. Their son Therion fathers three sons: Thallus (geometric colonial forms), Cloudi (upward-reaching pioneers whose descendants include the mysterious Ediacaran fossils Cloudina and Namacalathus), and Porifer, the first true sponge, who encloses his choanocyte fishermen within a protective ectoderm. Porifer's lineage advances through Wallas (whose shieldmaidens wrap the pores during a crisis, originating the first muscles) and Solenos (who engineers a channel-based aquiferous system), culminating in brothers Leucon and Sponga whose sons Vitrius and Spongius enact a fratricidal drama: Vitrius murders his father Leucon out of jealousy, builds a tyrannical glass palace, forces a hive-mind on his subjects, and is brought down when Spongius shatters his glass house with a well-aimed stone — giving the world the proverb about glass houses — while Vitrius's line becomes the marginal glass sponges and Spongius's just rule produces the vast majority of living sponges today.
+
 ## Chapter Content Summary
 This chapter chronicles the evolution of the first true animals (sponges) from the Animal Kingdom established by Metazo and Anima. It traces the development of increasingly complex sponge architectures through the lineages of Therion's three sons, focusing particularly on Porifer's line. The narrative includes the tragic story of Vitrius (glass sponges) and his fratricide, leading to Spongius's wisdom about pride and humility, and culminates in the diversification of modern sponge groups.
 

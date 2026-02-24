@@ -1,6 +1,9 @@
 # Chapter 006 Notes: Hydrogen Clouds Ignite
 *Sagittarius 6 - Chapter 6 of 364*
 
+## Summary
+On the shores of Hesper, a specific ocean world orbiting the star Tezca, Aster's vital force descends from the sky carrying tholins — complex organic molecules — that seed the primordial sea. Under Tezca's warm light, these seeds multiply in the dark ocean depths, forming the first life from self-organization. The chapter traces the unbroken line from the smallest microbes crawling through tidal pools all the way to the eventual emergence of the race of man, presenting evolution as Aster's intended "grand plan" unfolding on a prepared stage.
+
 ## Chapter Content Summary
 This chapter focuses on a specific world - Hesper - where Aster's life-creating force first takes hold under the light of the star Tezca. It depicts the origin of life in oceanic environments and the progression from microbes to complex organisms.
 

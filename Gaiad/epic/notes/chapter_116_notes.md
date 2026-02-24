@@ -1,4 +1,8 @@
 # Chapter 116 Notes: The Marsupials
+
+## Summary
+Southern hemisphere marsupials evolve in isolation, filling every ecological niche with unique body forms and reproductive strategies.
+
 *Aries 4 - Pre-Human Animal Chapters - Stage II (Basal Mammals)*
 
 ## Arc Overview

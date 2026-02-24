@@ -1,5 +1,9 @@
 # Chapter 48 Notes
 
+## Summary
+
+Chapter 48 describes the end of the Ordovician golden age, driven by the sons of Stomatos (early land plants) who colonize all the ancient continents — Laurentia, Siberia, Baltica, Avalonia, and Gondwana — building their carbon-rich bodies into coal-tombs and stripping CO2 from the atmosphere until Terra grows frigid and Gondwana becomes an icy wasteland. King Hirnan, the great potentate of Avalonia, unites the land plants in conquest, builds a billion dikes, destroys marine habitats, and triggers the decline of the brachiopods and Lingulus's line; a million trilobites make a last desperate assault on his dikes but suffocate in the open air and die. Hirnan's sons Moses and Osiris diversify the plant kingdom into mosses, hornworts, ferns, flowers, and trees. The Glomerings then mine phosphorus on an industrial scale and flush it into rivers and seas, causing catastrophic eutrophication — rotting seaweed chokes the waters, blocks sunlight, and poisons the air, wiping out the houses of Leviathan, the Krakens, and the great trilobite dynasties of Agnos, Ptychos, and Asaphos. The chapter ends with the Ordovician golden age closed and the sons of Silur rising to inherit the wreckage, with extended moralizing on how greed and conquest beget extinction while love and sharing restore life.
+
 ## The End-Ordovician Mass Extinction and Rise of Land Plants
 
 ### Transition of Power
