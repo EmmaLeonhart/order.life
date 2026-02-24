@@ -75,6 +75,9 @@
 
 | Ch | Title | Summary |
 |----|-------|---------|
+| 82 | Good Permian Friday | The Permian Triassic extinction, compared to Christ's sacrifice |
+| 83 | The Harrowing of Hell | A descripition of the apocalyptic hellish environment post extinction |
+| 84 | A New Beginning | The first easter, The revival of life in the Triassic. |
 | 100 | Tyrannosaur Supremacy | T. rex dominates; sauropod civilization develops defense strategies |
 | 101 | Hadrosaur Societies | Duck-billed dinosaurs develop social hierarchies and parental care |
 | 102 | Parasaurolophus Songs | Crested hadrosaurs develop musical/cultural traditions |
