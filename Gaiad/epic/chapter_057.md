@@ -1,4 +1,4 @@
-# Chapter 57: The {{c|Vertebrate}} {{c|Houses}}
+# Chapter 57: The Vertebrate {{c|Houses}}
 
 This is the book that tells of generations blessed
 And lineages of {{c|Janus}} glorious and bright,
@@ -12,7 +12,7 @@ Of those who'd find their home in waters blue.
 
 As they lived beneath the ocean's foam
 Their waters came to be a toxic waste,
-{{c|Suffocating}}, wild—no place for home
+Suffocating, wild—no place for home
 Where any child could grow with gentle grace.
 
 One day they prayed with all their faithful might
@@ -62,7 +62,7 @@ To vision clear and sight so sublime.
 
 The lens that held his sight within its sphere
 And cells both new and bright beyond compare:
-{{c|Cone}} cells that could detect each color clear
+Cone cells that could detect each color clear
 And all the hues that dance upon the air
 
 To perfect his vision of the world
@@ -76,7 +76,7 @@ While mighty sons of {{c|Kondricthus}}' might
 {{c|Ruled}} by the scents that they could always hear.
 
 Great {{c|Chondricthus}} could smell from waters far
-{{c|Sweet}} streams that called like some celestial star
+Sweet streams that called like some celestial star
 From distant homes across the ocean foam
 To waters that would be his future home.
 
@@ -260,7 +260,7 @@ And free in asking for the aid we need
 When overwhelmed by life's complexity
 Beyond what we can do by word or deed
 
-{{c|Alone}}, but heaven always knows the way
+Alone, but heaven always knows the way
 That every story goes from night to day
 And what each seeking soul requires to find
 The peace that comes to every faithful mind.
@@ -275,7 +275,7 @@ That seeks beyond the small will always find
 The call of something greater than what man
 Can ever comprehend or understand
 
-{{c|Alone}}, but grace reveals to those who pray
+Alone, but grace reveals to those who pray
 For help and guidance on the faithful way
 And trust that heaven sees what we cannot
 And gives us everything that we have not

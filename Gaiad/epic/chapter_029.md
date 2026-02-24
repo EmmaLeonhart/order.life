@@ -1,10 +1,10 @@
 In {{c|Terra}}'s rivers, flowing free,
 Two lineages would come to be
-{{c|United}} in a bond so strong
+United in a bond so strong
 That lasted both their whole life long.
 
 Great {{c|Symbio-Mygus}}, fungal lord,
-{{c|Son}} of {{c|Mygus}} by accord,
+Son of {{c|Mygus}} by accord,
 {{c|Tenth}} generation from the line
 Of {{c|Zygos}}, ancient and divine.
 
@@ -99,7 +99,7 @@ The powdery leprose clan
 To colonize both low and high.
 
 Some lichens chose the hardest way,
-{{c|Living}} in the rock to stay.
+Living in the rock to stay.
 {{c|Endolithic}} forms so small
 Made stone their home and all.
 
@@ -169,7 +169,7 @@ She needed help to gather food
 From soil that was not good.
 
 So {{c|Glomer}}, brother true and kind,
-{{c|Connected}} with his mind
+Connected with his mind
 A network underground to share
 The nutrients found there.
 
@@ -190,7 +190,7 @@ Required help from fungi nigh.
 
 So {{c|Glomer}} built a network vast
 That would forever last:
-The {{c|Wood}} {{c|Wide}} {{c|Web}}, that ancient net
+The Wood Wide {{c|Web}}, that ancient net
 That serves the forests yet.
 
 An underground economy
@@ -205,13 +205,13 @@ That cooperation sets us free.
 
 His startup grew beyond all measure,
 A network of such treasure.
-{{c|Today}} he holds the largest share
+Today he holds the largest share
 Of fungal networks everywhere.
 
 With eighty percent market hold,
 His story still is told.
 WoodNet service, tried and true,
-{{c|Connects}} the forest through and through.
+Connects the forest through and through.
 
 But other fungi joined the game,
 Each seeking their own fame.
@@ -220,7 +220,7 @@ To play the network's game.
 
 {{c|Amazon}} became a part
 Of this great networked art.
-The {{c|Wood}} {{c|Wide}} {{c|Web}} spreads far and wide
+The Wood Wide {{c|Web}} spreads far and wide
 Through every forest side.
 
 By this great union's might
@@ -263,7 +263,7 @@ Their children evermore
 Show us how two different kinds
 Can join their hearts and minds.
 
-The {{c|Wood}} {{c|Wide}} {{c|Web}} beneath our feet
+The Wood Wide {{c|Web}} beneath our feet
 {{c|Makes}} forest life complete.
 The network that they started long
 {{c|Ago}} still sings its song.

@@ -19,7 +19,7 @@ Yet {{c|Aster}}'s plan had need of one more mild,
 To birth the future's most exalted name.
 
 So {{c|Gravros}} took another bride to wife,
-{{c|Sweet}} Mardöll of the archaean strain.
+Sweet Mardöll of the archaean strain.
 Their love would spark a revolution's knife,
 And change the course of life's eternal refrain.
 
@@ -150,8 +150,8 @@ Still marks the passage of eternity."
 
 He blessed their union with his cosmic flame,
 And spoke the words of binding mystical:
-"{{c|Forever}} joined in deed and name,
-{{c|Nucleus}} and mitochondrial."
+"Forever joined in deed and name,
+Nucleus and mitochondrial."
 
 {{c|Eve}} entered {{c|Euka}}'s cellular embrace,
 Her double membrane intact and whole.
@@ -166,7 +166,7 @@ His nucleus and her power intertwine.
 Their first-born son was brave {{c|Reticulus}},
 Who built the networks of the inner cell.
 His factories ran continuous,
-{{c|Making}} proteins, lipids, all was well.
+Making proteins, lipids, all was well.
 
 Between the nucleus and cytoplasm's shore,
 He wove a net of folding, twisting tubes.
@@ -213,7 +213,7 @@ That would divide the chromosomes with care.
 Their dance at mitosis, rhythmic,
 {{c|Ensured}} each daughter got her rightful share.
 
-{{c|Last}} came their son, brave {{c|Nucleus}} the Second,
+{{c|Last}} came their son, brave Nucleus the Second,
 Who formalized his father's ancient gift.
 With pores and lamins, carefully reckoned,
 He gave the cell structure that would not drift.
@@ -258,7 +258,7 @@ Where first their love was blessed and born,
 The children of that union grow,
 From {{c|Euka}}'s triumph, not his scorn.
 
-For when the {{c|Omega}} {{c|Point}} draws near,
+For when the {{c|Omega}} Point draws near,
 And {{c|Aster}} meets {{c|Andromeda}}'s embrace,
 The line of {{c|Euka}}, ever dear,
 Will fill the cosmos, claiming rightful space.

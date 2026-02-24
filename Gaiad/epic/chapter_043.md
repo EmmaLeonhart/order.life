@@ -28,7 +28,7 @@ He tried despite the woe
 To establish his line
 With dynasty so fine.
 
-{{c|Heaven}} rewards the heart
+Heaven rewards the heart
 That plays determination's part
 To rise above all plight
 And reach for greater height.
@@ -90,7 +90,7 @@ And water fleas like jewels
 
 {{c|Dancing}} through the water
 Each son and each daughter
-{{c|Living}} simple lives
+Living simple lives
 Where small beauty thrives.
 
 {{c|Karkon}} fled away
@@ -120,8 +120,8 @@ Who broke from proper norms.
 
 These tongue worms chose to live
 As parasites who give
-{{c|Nothing}} back in trade—
-{{c|Poor}} choices they have made.
+Nothing back in trade—
+Poor choices they have made.
 
 Instead of getting jobs
 Like other honest mobs,
@@ -198,7 +198,7 @@ Like small-scale miracles—
 Half shrimp and half coral,
 {{c|Full}} animals with moral
 
-{{c|Lives}} upon the rock
+Lives upon the rock
 Like shepherd with his flock
 They filter from the sea
 Their food quite happily.
@@ -235,7 +235,7 @@ When they would reach their prime.
 
 Under {{c|Trilobites}}' yoke
 They lived like gentle folk
-{{c|Awaiting}} their great day
+Awaiting their great day
 When they would lead the way.
 
 But patience is the key
@@ -333,7 +333,7 @@ In time they find at length
 The preparation needed
 For when their time's succeeded.
 
-{{c|Heaven}} rewards those who try
+Heaven rewards those who try
 To reach beyond the sky
 Of present circumstance
 To future's greater dance.

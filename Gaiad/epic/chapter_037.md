@@ -19,17 +19,17 @@ So hearts they built with arteries
 And veins like flowing seas.
 
 {{c|Together}} each one made with care
-{{c|Closed}} systems everywhere.
+Closed systems everywhere.
 The blood would flow in circuits true
 And nourish organs through.
 
 Our great bloodlines were born that day
 When hearts showed them the way.
 From hydrostatic to circulatory,
-{{c|Evolution}}'s greatest story.
+Evolution's greatest story.
 
 From {{c|Annelon}} came two sons:
-{{c|Segmentus}} when day begun
+Segmentus when day begun
 And {{c|Ribbon}}, hunter of the deep
 Whose prey would never sleep.
 
@@ -43,7 +43,7 @@ As {{c|Ribbon}} {{c|Worms}} who slay
 Their victims with their poison dart
 {{c|Shot}} straight into the heart.
 
-{{c|Segmentus}} built his body wise
+Segmentus built his body wise
 With segments that would rise
 In number past all count—
 Each segment paramount.
@@ -58,7 +58,7 @@ And spread them everywhere.
 Each segment bore its pair
 Of legs beyond compare.
 
-{{c|Segmentus}} bore two sons:
+Segmentus bore two sons:
 {{c|Pleistos}} when day begun
 And {{c|Amphon}} of the sea
 Who lived quite happily.
@@ -91,7 +91,7 @@ The peanut worms of fame.
 {{c|Pleistos}} bore two sons:
 {{c|Vermo}} when day begun
 And {{c|Errantius}} who roamed
-{{c|Far}} from his ancient home.
+Far from his ancient home.
 
 {{c|Errantius}} bore two more:
 {{c|Myzo}} the parasite, and for
@@ -167,7 +167,7 @@ As fishermen who give
 Us beauty in the temple halls—
 The feather dusters' calls
 
-{{c|Remind}} us worms can be
+Remind us worms can be
 Both beautiful and free.
 In every sacred place
 They show us nature's grace.
@@ -187,7 +187,7 @@ Where {{c|Gaia}}'s treasure kept:
 {{c|Riftia}} in volcanic vents
 Where fiery mountain scents
 
-{{c|Fill}} the water hot,
+Fill the water hot,
 And {{c|Lamella}}'s got
 Her home in cold seeps where
 {{c|Oil}} riches fill the lair.
@@ -229,8 +229,8 @@ He made his living spot.
 
 {{c|Acros}} became the sire
 Of forms that never tire:
-{{c|Squidworm}} and {{c|Swima}} too
-{{c|Swam}} the ocean blue.
+{{c|Squidworm}} and Swima too
+Swam the ocean blue.
 
 {{c|Clitella}} was small of head
 But wisdom in her spread
@@ -244,7 +244,7 @@ Children from dusk to dawn.
 
 Her children took to rivers
 Where water always quivers.
-{{c|Today}} we know them well:
+Today we know them well:
 {{c|Earthworms}} who till and tell
 
 The soil of its needs,
@@ -270,7 +270,7 @@ That beautifies the place,
 In every fire worm bright
 With colors burning light,
 In every deep-sea farmer
-{{c|Working}} like a charmer,
+Working like a charmer,
 
 The legacy lives on
 From dusk until dawn

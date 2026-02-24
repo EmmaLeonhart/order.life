@@ -5,8 +5,8 @@ Of {{c|Lily}} the {{c|Echidna}},
 
 Who traded bilateral
 For pentaradial
-{{c|Design}}, and thus began
-{{c|Evolution}}'s plan
+Design, and thus began
+Evolution's plan
 
 For five-fold symmetry
 {{c|Throughout}} eternity.
@@ -144,7 +144,7 @@ Why brothers had to fight
 {{c|Throughout}} the day and night).
 
 Each with a million sons
-{{c|Arranged}} when day begun
+Arranged when day begun
 In armies vast and wide
 With warfare as their guide.
 
@@ -256,7 +256,7 @@ With predatory pride.
 They are vicious hunters
 Who never are confronters
 Of weakness, but instead
-{{c|Fill}} other hearts with dread.
+Fill other hearts with dread.
 
 That's why they have five hands
 To rule their ocean lands
@@ -295,7 +295,7 @@ He lit his every day.
 
 His great-granddaughter fair
 Was {{c|Sandy}}, everywhere
-{{c|Known}} as ancestress
+Known as ancestress
 Of {{c|Sand}} {{c|Dollars}} no less
 
 {{c|Beautiful}} than she
@@ -333,10 +333,10 @@ That works both night and day
 To keep them safe and sound
 Though strange it may be found.
 
-And so the {{c|Sons}} of grand
+And so the Sons of grand
 {{c|Echidna}} through the land
 Of sea built their great
-{{c|Civilization}}'s fate
+Civilization's fate
 
 To heights beyond all speech
 That mortals' words can reach
@@ -361,7 +361,7 @@ Of letting hatred spread,
 The echinoderms show
 How families can grow
 From single pentamerous
-{{c|Design}} so glorious
+Design so glorious
 
 Into forms so diverse
 That no single verse
@@ -379,7 +379,7 @@ The ocean's vast marine
 For all who dwell there,
 
 The five-fold symmetry
-{{c|Lives}} through eternity
+Lives through eternity
 In every starfish arm
 And every sea urchin's charm.
 

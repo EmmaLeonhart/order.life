@@ -26,7 +26,7 @@ The great creatrix of all worlds, {{c|Brahma}}.
 Her light that spreads across the cosmic span,
 The goddess of all space, {{c|Vairocana}}.
 She holds the deepest void beyond the plan,
-The keeper of the dark, {{c|Saint}} {{c|Varuna}}.
+The keeper of the dark, Saint {{c|Varuna}}.
 
 In the deep waters, creatures thrived and grew,
 From microbes small to beasts of wondrous size.

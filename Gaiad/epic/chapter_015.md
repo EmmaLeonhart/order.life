@@ -41,7 +41,7 @@ In reverence, their devotion ever flows.
 So on this {{c|Earth}}, within {{c|Gaia}}'s embrace,
 They grew and blossomed, cultures rich and new;
 A testament to life's enduring grace,
-With {{c|Mother}} {{c|Earth}}, their bond forever true.
+With Mother {{c|Earth}}, their bond forever true.
 
 Within the temple's walls, a daughter stood,
 {{c|Named}} {{c|Luca}}, gazing at the starlit dome;
@@ -54,7 +54,7 @@ In twilight's breath, {{c|Usagi}} {{c|Luna}} spoke,
 One day your children's chains of time will end."
 
 And in that distant, ever-reaching sight,
-{{c|Omega}} {{c|Point}} where galaxies shall entwine—
+{{c|Omega}} Point where galaxies shall entwine—
 {{c|Aster}} and {{c|Andromeda}} will unite,
 To form {{c|Milkdromeda}}, a cosmic sign.
 

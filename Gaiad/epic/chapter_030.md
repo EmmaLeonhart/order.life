@@ -31,10 +31,10 @@ Their reproductive matters settle.
 By moonlight they bear their young,
 As {{c|Luna}}'s ancient song is sung.
 The tidal pull, the silver beam
-{{c|Fulfill}} their reproductive dream.
+Fulfill their reproductive dream.
 
 {{c|Now}} {{c|Anthus}} kept the ancient way,
-{{c|Following}} tradition's display.
+Following tradition's display.
 His children built their homes on stone
 And never far from land they'd roam.
 
@@ -164,12 +164,12 @@ Show us how to move with grace
 Through life's embrace.
 
 Some drift with current's flow,
-{{c|Others}} choose where they go.
+Others choose where they go.
 Each strategy has its place
 In ocean's vast space.
 
 The cnidarian way
-{{c|Lives}} on in every bay
+Lives on in every bay
 Where tentacles reach out
 Without a doubt.
 

@@ -35,8 +35,8 @@ A call for purity, no rules to bend.
 
 From {{c|Bios}} and {{c|Viros}}, some took the name,
 A path of nature {{c|Dedos}} would bestow.
-{{c|Anti}}-vaxxers joined his lineal claim,
-{{c|United}} in their ancient quest to grow.
+Anti-vaxxers joined his lineal claim,
+United in their ancient quest to grow.
 
 And so, the brothers’ legacies unfold,
 Their tale lives on beneath the cosmic sun.
@@ -53,7 +53,7 @@ The children of the brothers swept away.
 Their fragile hopes and legacies all soared,
 In shattered fragments, flung to cosmic bay.
 
-{{c|Amidst}} the wreck, the remnants left behind,
+Amidst the wreck, the remnants left behind,
 Set course for {{c|Venti}}, gas giant great.
 A shining moon, {{c|Phaestia}}, they would find,
 A refuge for the lost, a twist of fate.

@@ -6,7 +6,7 @@ And {{c|Nemla}}, wise, her heart a beacon bright.
 {{c|Together}}, they beheld the frozen land,
 A world so far removed from warmth or grace.
 Yet in their hearts, the yarn that fate had spanned,
-{{c|Connected}} them to {{c|Aster}}'s loving face.
+Connected them to {{c|Aster}}'s loving face.
 
 With voices raised to {{c|Aster}} and the stars,
 They made a vow to carry on her flame.
@@ -83,7 +83,7 @@ Their strength unmatched as skies and seas did roar.
 Their names I honor, though the years have fled,
 I honor their heritage evermore."
 
-{{c|Born}} there was strong and keen hero {{c|Irad}}
+Born there was strong and keen hero {{c|Irad}}
 The next to follow, brave, was {{c|Malathok}}.
 Then came the bold and wise, the one called {{c|Hanad}},
 His wisdom echoed still in {{c|Peladok}}.
@@ -123,4 +123,4 @@ Our strength will hold, as we fulfill your say."
 Through every trial, no matter how far,
 We swear to keep your cosmic vow in view."
 
-{{c|Advertisement}}
+Advertisement

@@ -53,13 +53,13 @@ Who when their work was done
 Moved slowly through the sea
 With great dignity.
 
-{{c|Greatest}} among them all
+Greatest among them all
 Who answered wisdom's call
 Was {{c|Cameroceras}} {{c|Magnus}},
-{{c|Known}} as {{c|Cameromagne}},
+Known as {{c|Cameromagne}},
 
 Whose name through history
-{{c|Rings}} with victory
+Rings with victory
 Over {{c|Leviathan}}'s
 Great dominion's plans.
 
@@ -96,7 +96,7 @@ As suited his end.
 {{c|Actinos}} begat two:
 {{c|Orthosceros}} so true
 And {{c|Tarphy}}, young and wild,
-{{c|Evolution}}'s favored child.
+Evolution's favored child.
 
 {{c|Tarphy}} lived so fast
 In youth, while time would last
@@ -116,7 +116,7 @@ Where wisdom's waters flow.
 In his old age he bore
 {{c|Countless}} children more
 Who did the very same:
-{{c|Youth}}'s glory and fame
+Youth's glory and fame
 
 In bounty of the heights
 Where heaven's glory lights
@@ -150,7 +150,7 @@ That ancestors would keep.
 
 The sons of {{c|Nautilus}}
 Live on, so glorious,
-{{c|Today}} just as they were
+Today just as they were
 When time was but a blur
 
 In days of {{c|Rutos}} old
@@ -171,7 +171,7 @@ That could not be denied.
 {{c|Ascos}} lived his youth
 With shell that spoke no truth
 Of grace—clumsy and slow,
-{{c|Unable}} to bestow
+Unable to bestow
 
 Upon his movements any
 {{c|Grace}}—not one of many
@@ -189,7 +189,7 @@ Above all others bright
 In beauty and in sight.
 
 His sons continued this
-{{c|Tradition}} of the bliss
+Tradition of the bliss
 That comes from sacrifice
 Of shell for something nice:
 
@@ -216,9 +216,9 @@ With nothing much to seek.
 But he bore children who
 Would make his vision true:
 A million sons and daughters
-{{c|Filled}} up the salty waters.
+Filled up the salty waters.
 
-{{c|Soon}} the world was full
+Soon the world was full
 Of his progeny's pull
 On every living space
 In ocean's vast embrace.
@@ -319,7 +319,7 @@ That sees what must remain
 And what brings only pain.
 
 The cephalopods' way
-{{c|Lives}} on to this day
+Lives on to this day
 In every graceful move
 And every way they prove
 
@@ -386,7 +386,7 @@ The limits that are spawned
 By those who cannot see
 What wisdom's gift can be
 To those who dare to dive
-{{c|Deep}} and stay alive
+Deep and stay alive
 
 In waters where the wise
 Can see with clearer eyes

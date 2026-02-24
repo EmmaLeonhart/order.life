@@ -26,7 +26,7 @@ Each sister moon with legends to explore.
 In mirrored tilt, the planet spins unique,
 Its moons a dance of grace and mystic lore,
 Their daughters flourished where the shadows speak,
-{{c|Creating}} tales that echo evermore.
+Creating tales that echo evermore.
 
 On {{c|Titan}}, life's spark found a place to dwell,
 The daughters of {{c|Bios}}, their journey wide,
@@ -76,7 +76,7 @@ Her shadowed secrets held within her heart.
 Then {{c|Ligeia}}, beauty calm and fair,
 Her tranquil waves, a soothing lullaby,
 A gentle soul, her grace beyond compare,
-{{c|Embracing}} all who sought her solace nigh.
+Embracing all who sought her solace nigh.
 
 {{c|Next}} {{c|Punga}}, wild and fierce, her spirit free,
 {{c|Unyielding}} to the ice that sought her reign,
@@ -91,7 +91,7 @@ The wisdom of the ages she revealed.
 And last, {{c|Ontario}}, the nurturing one,
 Her icy shores, a haven for the lost,
 Her love and care, a mother's warmth like sun,
-{{c|Embracing}} all who braved her wintry frost.
+Embracing all who braved her wintry frost.
 
 These sisters five, the daughters of {{c|Titan}},
 Their lives entwined, their stories yet unfold,
@@ -188,7 +188,7 @@ And with a burst it spewed them out once more;
 Into the void their fates became a blur,
 As {{c|Saturn}}'s rings embraced them to the core.
 
-{{c|Amidst}} the rings a hundred cities rose,
+Amidst the rings a hundred cities rose,
 Each one a beacon shining in the dark;
 In cosmic dance these settlements compose
 A testament to dreams that leave their mark.
@@ -258,7 +258,7 @@ A thriving realm amid the swirling tides,
 With skill and art, their cities rose and spread,
 A testament to all that they'd been through.
 
-{{c|Amidst}} the depths, they forged a life so bold,
+Amidst the depths, they forged a life so bold,
 In harmony with {{c|Europa}}'s vast domain,
 {{c|Together}}, they would thrive in waters cold,
 Their spirit, ne'er defeated, nor in vain.
@@ -286,7 +286,7 @@ Where life took root and ancient vows were kept.
 Then {{c|Callisto}}, serene, its visage scarred,
 Drew them to icy lands both vast and still.
 Its frozen beauty, timeless and unmarred,
-{{c|Whispered}} of futures shaped by steady will.
+Whispered of futures shaped by steady will.
 
 With tender care, they worked the silent sphere,
 Its glaciers groaned as life began to grow.
@@ -356,11 +356,11 @@ Where daughters of {{c|Venus}} lived with fervent pace.
 Beneath the surface, vents their life sustained,
 In twilight lands, both north and south they dwelled,
 And tribes were formed, as daughters ventured forth,
-To {{c|Wind}}, to {{c|Ice}}, to {{c|Fire}}, their kin remained.
+To {{c|Wind}}, to Ice, to {{c|Fire}}, their kin remained.
 
 The {{c|Tribe}} of {{c|Wind}}, they wandered in the air,
 As skyplankton, they roamed the skies above,
-The {{c|Tribe}} of {{c|Ice}}, on {{c|Niflheim}}'s frozen crust,
+The {{c|Tribe}} of Ice, on {{c|Niflheim}}'s frozen crust,
 And {{c|Twilight}} {{c|Tribe}}, eternal dusk their lair.
 
 The {{c|Water}} {{c|Tribe}}, beneath the ice they thrived,
@@ -386,14 +386,14 @@ With hopes of finding lands to call their own.
 Upon arrival, what a sight they saw,
 A hail of meteors, a storm unkind,
 That struck with force the planet's crust and mantle,
-The {{c|Iron}} {{c|Catastrophe}}, a fate unflawed.
+The {{c|Iron}} Catastrophe, a fate unflawed.
 
 The core of {{c|Mercury}}, now bare and stark,
 A testament to cosmic rage untamed,
 The daughters gazed upon the aftermath,
 And chose to turn away, to lands more hushed.
 
-The {{c|Iron}} {{c|Catastrophe}}, a tale of woe,
+The {{c|Iron}} Catastrophe, a tale of woe,
 Of {{c|Mercury}}, once whole, now stripped and scarred,
 Yet in its wake, the daughters carried on,
 To find a home where life would bloom and grow.

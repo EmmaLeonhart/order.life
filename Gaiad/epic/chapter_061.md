@@ -33,7 +33,7 @@ And waters they had yearned for came alive
 To fill their homes once more from peak to shore
 With life-sustaining flood that stirred their blood,
 The gift of dual breath would evermore
-{{c|Protect}} them through both drought and mighty flood.
+Protect them through both drought and mighty flood.
 
 {{c|Tetram}} transformed his gut to linear form,
 A change that let him eat giant fish with ease,

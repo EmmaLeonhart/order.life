@@ -59,7 +59,7 @@ Of lesbian motherhood,
 Among purple farmers stood
 
 As planimal of the sea
-{{c|Living}} wild and free.
+Living wild and free.
 She continues to this day
 Her photosynthetic way.
 
@@ -110,7 +110,7 @@ They became a bloody beast.
 
 The blood poisoned all
 That answered nature's call.
-{{c|Whatever}} it would touch
+Whatever it would touch
 Would suffer very much.
 
 And soon the {{c|Rotifers}}
@@ -144,7 +144,7 @@ And sons of {{c|Viros}} too,
 The {{c|Diatoms}} lived true
 
 As farmers of the light
-{{c|Protected}} day and night
+Protected day and night
 By walls of glass so clear
 That kept them without fear.
 
@@ -176,7 +176,7 @@ And found new life begin.
 Within {{c|Acanther}}'s frame
 He found prosperity's name.
 The {{c|Radiolarian}}'s shell
-{{c|Protected}} him so well.
+Protected him so well.
 
 As floating greenhouse bright
 With glass that caught the light,
@@ -354,7 +354,7 @@ And {{c|Enterogon}} the strong
 Who lived his whole life long.
 
 While brethren lived as squirts
-{{c|Avoiding}} nature's hurts,
+Avoiding nature's hurts,
 {{c|Thallasus}} built his city
 {{c|Floating}} (what a pity
 
@@ -379,13 +379,13 @@ As did the {{c|Trilobites}}
 And {{c|Jellyfish}}'s bites.
 
 But {{c|Thallasus}} bore more
-{{c|Sons}} to explore:
+Sons to explore:
 {{c|Pyros}} and {{c|Salpus}} too
 Who cities built anew.
 
 {{c|Pyros}} built a tube
 So long, like a cube
-{{c|Extended}} through the sea—
+Extended through the sea—
 A city floating free.
 
 {{c|Propelled}} by wastewater
@@ -441,14 +441,14 @@ Of intelligence new.
 While {{c|Tunicates}} remind
 Us not to be confined
 To just one way of life—
-{{c|Diversity}} ends strife.
+Diversity ends strife.
 
 From tiny plankton small
 To creatures standing tall,
 The ocean's family tree
-{{c|Lives}} through eternity.
+Lives through eternity.
 
 In every drop of sea
-{{c|Lives}} their legacy:
+Lives their legacy:
 The builders of the base
 Of life's eternal grace.

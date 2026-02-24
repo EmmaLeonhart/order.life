@@ -25,7 +25,7 @@ Who different paths knew.
 
 {{c|Eurypteron}} and his brother
 {{c|Styloner}}, like no other
-{{c|Pair}} of siblings fought
+Pair of siblings fought
 For all that could be bought
 
 With power and with might
@@ -46,7 +46,7 @@ Across domains he knew
 Were his by right of birth
 While {{c|Styloner}} walked earth
 And claimed each step he took
-{{c|According}} to the book
+According to the book
 
 Of inheritance and law
 That neither brother saw
@@ -114,7 +114,7 @@ In beauty and in grace,
 And in their dwelling place
 
 {{c|Together}} they bore one
-{{c|Son}} when day begun:
+Son when day begun:
 {{c|Slender}}, fast, and sly,
 Who'd rule beneath the sky
 
@@ -184,7 +184,7 @@ Of courage in his heart
 To play the pioneer's part.
 
 His book gills became
-{{c|Book}} lungs, and his name
+Book lungs, and his name
 Would live forevermore
 From mountain peak to shore.
 
@@ -274,7 +274,7 @@ His people were a race
 With stories yet untold
 
 Of how they overcame
-{{c|Whatever}} brought them shame
+Whatever brought them shame
 Or tried to break their will
 Upon the river's sill.
 
@@ -286,7 +286,7 @@ The work he would begin to
 Do: living in the rivers
 Where water always shivers
 With life and searching for
-{{c|Food}} from shore to shore
+Food from shore to shore
 
 In most unlikely places
 Where none could see their faces
@@ -295,10 +295,10 @@ What fed both heart and mind.
 
 {{c|Megarachne}} and his brother
 {{c|Minirachne}}, like no other
-{{c|Pair}} ruled rivers wide
+Pair ruled rivers wide
 With power and with pride.
 
-{{c|Sons}} of {{c|Mycterops}},
+Sons of {{c|Mycterops}},
 They were the tops
 Of river royalty
 In their dynasty.
@@ -319,7 +319,7 @@ Could contain or tame
 In their quest for fame.
 
 Both were men whose dreams
-{{c|Surpassed}} all that seems
+Surpassed all that seems
 {{c|Possible}} to those
 Who seek repose
 
@@ -339,7 +339,7 @@ Where none had gone before
 To open up the door.
 
 His book lungs became
-{{c|Book}} gills, and his name
+Book gills, and his name
 Would be remembered long
 In evolution's song.
 

@@ -35,7 +35,7 @@ A union blessed by fate.
 
 {{c|Silicarius}} was no common lord,
 But retrovirus, strange and wild,
-{{c|Son}} of {{c|Diana}}'s silicon hoard
+Son of {{c|Diana}}'s silicon hoard
 And {{c|Retar}}'s artistic child.
 
 From {{c|Corona}}'s marriage came
@@ -54,7 +54,7 @@ Four cells together, work begun,
 "E {{c|Pluribus}} {{c|Unum}}" was their prayer.
 
 "From many, one," they sang with joy,
-"{{c|United}} we shall stand.
+"United we shall stand.
 Our strength no force can destroy
 When we work hand in hand."
 
@@ -118,7 +118,7 @@ To capture sun's bright ray.
 Her light became his beating heart,
 His strength from day to day.
 
-"{{c|Behold}}!" cried wise {{c|Eudorinus}},
+"Behold!" cried wise {{c|Eudorinus}},
 "I am the first to farm!
 My crops will always shine on us,
 And keep us safe from harm!"
@@ -126,7 +126,7 @@ And keep us safe from harm!"
 They formed their clan into a sphere,
 A perfect, living ball.
 Their partnership was crystal clear,
-{{c|United}}, one and all.
+United, one and all.
 
 From them came {{c|Sexagesmus}},
 Who ruled sixty-four with might.
@@ -144,13 +144,13 @@ Though we may be enthralled,
 We'll see this battle through!"
 
 The women of his noble line
-{{c|Cast}} off their flagella bright.
+Cast off their flagella bright.
 They changed their forms by design,
 To join the coming fight.
 
 They became like eggs with arms,
 {{c|Pseudopods}} reaching out.
-{{c|Protected}} from all harms,
+Protected from all harms,
 They faced the enemy's rout.
 
 "We are the shieldmaidens bold!"
@@ -201,7 +201,7 @@ Their die was truly cast.
 {{c|Pleodoron}} ruled one hundred twenty-eight,
 While {{c|Bytos}} commanded twice that score.
 Each ruler met his fate,
-{{c|Building}} more and more.
+Building more and more.
 
 When {{c|Bytos}} wed fair {{c|Vala}} bright,
 Their love produced a son.
@@ -289,9 +289,9 @@ The mesoderm would always see
 To muscle, blood, and call.
 
 And though {{c|Carcinoma}}'s name
-{{c|Lives}} on in cancer's blight,
+Lives on in cancer's blight,
 Her revolution's flame
-{{c|Burns}} for cellular right.
+Burns for cellular right.
 
 For every cell should have its voice,
 In body's grand design.
@@ -311,7 +311,7 @@ In memory unsurpassed.
 So honor brave {{c|Choanos}},
 And {{c|Chana}} by his side.
 Their children's grand ethos
-{{c|Lives}} on in body's pride.
+Lives on in body's pride.
 
 The fishermen and farmers,
 The warriors and the wise,

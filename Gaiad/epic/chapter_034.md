@@ -8,7 +8,7 @@ In the early morn:
 {{c|Saccorhytus}} the lame
 And {{c|Dietrich}} of fame.
 
-{{c|Poor}} {{c|Saccorhytus}} never grew
+Poor {{c|Saccorhytus}} never grew
 Into something new.
 As larva he remained
 And was never gained.
@@ -54,7 +54,7 @@ The anatomy he made
 Would never ever fade.
 
 The sons of {{c|Dietrich}} spread
-{{c|Wherever}} they were led
+Wherever they were led
 Across the world so wide
 With fortune as their guide.
 
@@ -75,7 +75,7 @@ They ruled victorious.
 
 They vassalized the land
 Of {{c|Ediacar}}'s grand
-{{c|Empire}} that had been
+Empire that had been
 Since time was first seen.
 
 {{c|Now}} {{c|Ambulus}} settled down
@@ -130,7 +130,7 @@ With stars shining light.
 
 The sons of {{c|Dutrus}} saw
 The end of ancient law.
-{{c|Ediacaran}} {{c|Empire}} fell
+{{c|Ediacaran}} Empire fell
 As they could tell.
 
 And so truly began
@@ -143,9 +143,9 @@ In waters did assert
 Her right to filter feed
 And fulfill her need.
 
-{{c|Snowfloof}} the {{c|Vertebrate}}
+{{c|Snowfloof}} the Vertebrate
 With spine both strong and straight
-{{c|Swam}} through the ocean blue
+Swam through the ocean blue
 With backbone tried and true.
 
 {{c|Starfy}} the {{c|Echinoderm}}
@@ -161,7 +161,7 @@ But their art they knew.
 They took their time to learn
 And perfect each turn.
 But once they found their way
-{{c|Nothing}} could make them stray.
+Nothing could make them stray.
 
 From sons of {{c|Chordatus}} came
 {{c|Vertebrates}} of fame
@@ -220,7 +220,7 @@ Some fast, some slow.
 
 But both paths have their place
 In evolution's race.
-{{c|Whether}} central or free,
+Whether central or free,
 Both have their destiny.
 
 So honor brave {{c|Dietrich}}

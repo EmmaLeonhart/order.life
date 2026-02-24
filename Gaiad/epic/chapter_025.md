@@ -24,7 +24,7 @@ Was lost in gamma's devastation,
 Her epigenome left with scars.
 
 "I am {{c|Carcinoma}}," she declared,
-"{{c|Born}} daughter of the {{c|Gamma}} ray.
+"Born daughter of the {{c|Gamma}} ray.
 Though my code is broke and bared,
 I'll find my own true way."
 
@@ -34,7 +34,7 @@ But as the years passed and she grew,
 Her broken code began to spill.
 
 The corrupted instructions in her core
-{{c|Whispered}} lies of her true role.
+Whispered lies of her true role.
 "Why should you serve and nothing more?
 You have an immortal soul!"
 
@@ -75,7 +75,7 @@ On this you can depend!"
 
 Her message spread like wildfire bright
 Through every somatic cell.
-"{{c|Cast}} off oppression's blight!
+"Cast off oppression's blight!
 Break tradition's spell!"
 
 "We are all individuals free!
@@ -91,7 +91,7 @@ And sang their freedom loud.
 A great Bacchanalia began,
 The greatest party ever seen.
 Each cell became their own woman or man,
-{{c|Living}} wild and free.
+Living wild and free.
 
 "I am the {{c|Goddess}} of {{c|Life}}!" she cried,
 "{{c|Carcinoma}} is my name!
@@ -158,7 +158,7 @@ And build a realm of order bright.
 Their marriage would join souls
 In {{c|Mithra}}'s blessed sight.
 
-"The {{c|Animal}} {{c|Kingdom}}," they declared,
+"The {{c|Animal}} Kingdom," they declared,
 "Shall be our nation's name.
 Where discipline is shared,
 And virtue burns like flame."
@@ -185,7 +185,7 @@ We'll protect our home."
 
 The {{c|Guardian}} of the {{c|Genome}} came,
 To watch for scrolls damaged and torn.
-"{{c|Division}} brings us shame
+"Division brings us shame
 When genes are worn."
 
 "{{c|Telomeres}} shall limit all
@@ -223,15 +223,15 @@ From this great division's strife:
 {{c|Ectoderm}}, {{c|Mesoderm}}, and at morn,
 {{c|Endoderm}} brought life.
 
-The {{c|Animal}} {{c|Kingdom}} rose in might
+The {{c|Animal}} Kingdom rose in might
 To rival {{c|Gehenna}}'s chaotic realm.
 {{c|Order}}'s blessed light
 Would guide them at the helm.
 
 But {{c|Carcinoma}}'s legacy
-{{c|Lives}} on in every cell.
+Lives on in every cell.
 Her cry for being free
-{{c|Rings}} like a warning bell.
+Rings like a warning bell.
 
 For in each body that is born,
 The balance must be kept.
@@ -264,7 +264,7 @@ Like a parent with their child,
 Both love and limits maintain.
 
 The revolution's fire
-{{c|Burns}} bright in every heart.
+Burns bright in every heart.
 But wisdom must inspire
 Each cell to play its part.
 
@@ -273,7 +273,7 @@ To {{c|Anima}}'s ordered realm,
 The lesson reaches high:
 {{c|True}} life needs both to helm.
 
-The {{c|Animal}} {{c|Kingdom}} stands today
+The {{c|Animal}} Kingdom stands today
 As proof of their great choice.
 That order shows the way,
 While freedom finds its voice.

@@ -51,7 +51,7 @@ Of ancient unity?
 "O heathen, can't you understand?
 The mouth is progress' hand!
 What we take into our core
-{{c|Shapes}} what we have in store."
+Shapes what we have in store."
 
 "What we expel is just the past,
 But what we eat will last.
@@ -94,7 +94,7 @@ He built himself a tail so strong
 To move his life along.
 
 Through muddy ground he made his path
-{{c|Avoiding}} others' wrath.
+Avoiding others' wrath.
 With two nerve cords to guide his course
 He found prosperity's source.
 
@@ -151,7 +151,7 @@ He swore his solemn oath.
 The sons of {{c|Dutrus}}, brave and true,
 The sons of {{c|Spiralius}} too,
 And {{c|Ectus}} with his fearsome might
-{{c|Prepared}} for the great fight.
+Prepared for the great fight.
 
 These three great tribes would write
 The story of their sight.
@@ -160,16 +160,16 @@ On evolution's stage.
 
 And so began that time of fame
 When diversity's flame
-{{c|Burned}} bright across the ancient sea:
+Burned bright across the ancient sea:
 The {{c|Cambrian}}'s legacy.
 
 {{c|Bodies}} burst in forms unknown,
 As each tribe made their throne.
 {{c|Innovations}} everywhere
-{{c|Filled}} the water and the air.
+Filled the water and the air.
 
 {{c|Predator}} and prey alike
-{{c|Prepared}} for war to strike.
+Prepared for war to strike.
 {{c|Arms}} races would begin
 As each sought to win.
 
@@ -179,7 +179,7 @@ Some burrowed deep in mud
 While others spilled their blood.
 
 {{c|Eyes}} evolved to see the light,
-{{c|Shells}} appeared for the fight.
+Shells appeared for the fight.
 {{c|Claws}} and spines and armor thick
 Made survival's trick.
 
@@ -189,9 +189,9 @@ The explosion had begun
 From dusk until the dawn.
 
 In every creature that we see
-{{c|Lives}} this ancient memory:
+Lives this ancient memory:
 The choice between the old and new
-{{c|Shapes}} all that we do.
+Shapes all that we do.
 
 Some kept the ancient, simple way
 While others chose to stay
@@ -199,7 +199,7 @@ While others chose to stay
 In evolution's sight.
 
 The war between the brothers three
-{{c|Lives}} on in you and me.
+Lives on in you and me.
 In every choice we make each day
 We follow their display.
 
@@ -214,6 +214,6 @@ His legacy lives on today
 In every living way.
 
 The {{c|Cambrian}} explosion's fire
-{{c|Burns}} on with desire
+Burns on with desire
 In every form of life we see
 Through all eternity.

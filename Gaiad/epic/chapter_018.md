@@ -62,7 +62,7 @@ The {{c|Elohim}}, uncertain, stood among
 A rising tide of death that closed them in.
  
 
-At {{c|Saint}}-{{c|Germain}}-des-Prés, they met anew,
+At Saint-{{c|Germain}}-des-Prés, they met anew,
 While {{c|Rara}}’s rumors thrived in every mind.
 “We’ve reached our limit; change remains untrue,”
 He whispered low, their reason quite maligned.

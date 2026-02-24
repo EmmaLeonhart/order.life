@@ -73,7 +73,7 @@ Where ocean's floor enthralled,
 {{c|Cincton}} pumped and fished
 For everything he wished.
 
-{{c|Protected}} by his mail
+Protected by his mail
 His fishing would not fail.
 Through gill slits water flowed
 Where tiny fishes showed.
@@ -183,7 +183,7 @@ The greatest ever there
 In all the ancient time
 When ocean was in prime.
 
-{{c|Today}} we see only
+Today we see only
 {{c|Ruins}} sad and lonely
 Of their once mighty home
 Beneath the ocean foam.
@@ -291,4 +291,4 @@ Were truly wondrous sight.
 Though now in ruins lie
 Their glory will not die.
 The five-fold legacy
-{{c|Lives}} through eternity.
+Lives through eternity.

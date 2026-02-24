@@ -71,7 +71,7 @@ That helped his body grow.
 When he found food to eat
 To make his life complete,
 He cleaved it with his jaw
-{{c|According}} to the law
+According to the law
 
 Of predatory might
 That filled the world with sight
@@ -86,7 +86,7 @@ And chew what he could chew.
 Down in his stomach deep
 Where acids always keep
 Their vigil through the night,
-{{c|Food}} was purified bright.
+Food was purified bright.
 
 {{c|Pancreas}} and gallbladder
 {{c|Joined}} like faithful gladder
@@ -261,7 +261,7 @@ From their authority.
 But {{c|Cynfawr}} chose instead
 A path where he was led
 By dreams of finding home
-{{c|Wherever}} he would roam.
+Wherever he would roam.
 
 {{c|Custennin}} was his son
 Who when his search begun
@@ -308,12 +308,12 @@ When her work was done
 That none had done before
 From mountain peak to shore.
 
-{{c|Mary}}, {{c|Mother}} of
+{{c|Mary}}, Mother of
 {{c|Icthys}}, blessed with love
 From heaven high above,
 Bore placenta's shove
 
-{{c|Millions}} of years before
+Millions of years before
 Any others wore
 This gift of nurturing
 That motherhood would bring.
@@ -376,12 +376,12 @@ And {{c|Homosteus}}' child.
 {{c|Eubar}} begat two:
 {{c|Pachos}}, tried and true,
 And {{c|Coccos}}, who would be
-{{c|Living}} by the sea.
+Living by the sea.
 
 {{c|Pachos}} begat then
 Two children beyond ken:
 {{c|Dunkella}}, who would grow
-{{c|Greater}} than we know
+Greater than we know
 
 Any had before
 From mountain peak to shore,
@@ -389,7 +389,7 @@ And {{c|Aspino}} the bright
 Who filled the world with sight.
 
 {{c|Dunkella}} grew to be
-{{c|Greatest}} yet to see
+Greatest yet to see
 Among all {{c|Metazo}}:
 {{c|Six}} meters high to show
 
@@ -431,7 +431,7 @@ That set his line apart.
 {{c|Janusicthus}} brought
 His teeth as none had thought
 From gills unto his jaw
-{{c|According}} to new law.
+According to new law.
 
 And so his jaw crushed down
 With teeth of great renown—
@@ -550,7 +550,7 @@ And what they could confer
 
 Upon the world around
 Where they could be found
-{{c|Living}} day by day
+Living day by day
 In their chosen way.
 
 From {{c|Devon}}'s city bright

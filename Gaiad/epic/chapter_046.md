@@ -50,7 +50,7 @@ Who rest without a care
 
 Upon the ocean floor
 From mountain peak to shore,
-{{c|Creating}} pearls so bright
+Creating pearls so bright
 That fill the world with light.
 
 {{c|Peter}} bore many sons
@@ -99,7 +99,7 @@ Of pearls that gleam so bright
 With heaven's holy light.
 
 {{c|Aphrodite}} became
-The {{c|Mother}} of great fame
+The Mother of great fame
 Of {{c|Pearls}} and {{c|Oysters}} too—
 Her children tried and true.
 
@@ -128,7 +128,7 @@ To catch him unawry.
 Great and bountiful,
 He swam so dutiful
 
-{{c|Away}} from dangers that
+Away from dangers that
 Would haunt him like a cat
 Its prey, but he was free
 To roam across the sea.
@@ -163,13 +163,13 @@ With their enormity.
 {{c|Softshell}}, gentle, mild,
 And {{c|Teredo}}, problem child
 
-{{c|Known}} as sea termite
+Known as sea termite
 Who brought shipwrights' fright
 By boring holes in wood
 Of ships where sailors stood.
 
 {{c|Zebra}} {{c|Mussels}} spread
-{{c|Wherever}} they were led
+Wherever they were led
 By currents through the sea
 In their community.
 
@@ -189,13 +189,13 @@ Would dig their burrows deep
 While surface waters sweep
 
 Above their hiding spots
-{{c|Connected}} by their lots
+Connected by their lots
 To life beneath the sand
 {{c|Throughout}} the ocean land.
 
 And {{c|Razoron}} became
 {{c|Ancestor}} of the name
-Of {{c|Razor}} {{c|Shells}} so sharp
+Of {{c|Razor}} Shells so sharp
 That cut like ocean's harp
 
 Through sand where they would hide
@@ -224,7 +224,7 @@ Live in rivers wide
 With current as their guide.
 
 {{c|Brachios}} begat three
-{{c|Sons}} for history:
+Sons for history:
 Three houses he would make
 For brachiopods' sake.
 
@@ -240,7 +240,7 @@ Of {{c|Brachios}}' command.
 
 {{c|Lingulus}}, son of him
 With the same name, would trim
-{{c|Nothing}} from tradition
+Nothing from tradition
 In his life's mission.
 
 He maintained the way
@@ -251,7 +251,7 @@ Like some sacred treasure
 That must not be changed
 Or ever rearranged
 But kept just as it was
-{{c|According}} to the laws
+According to the laws
 
 Of his forefathers who
 Had tried their whole life through
@@ -371,7 +371,7 @@ From mountain peak to shore?
 The {{c|Bivalves}} with their new
 {{c|Forms}} tried and tested true
 Through struggle and through pain
-{{c|Sought}} evolutionary gain.
+Sought evolutionary gain.
 
 The {{c|Brachiopods}} held fast
 To wisdom of the past
@@ -469,6 +469,6 @@ Of their complacent world
 Where banners once unfurled
 
 In triumph would be furled
-{{c|Forever}} in the world
+Forever in the world
 That was about to change
 Beyond familiar range.

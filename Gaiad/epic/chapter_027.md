@@ -55,8 +55,8 @@ To help their spirits lift.
 
 {{c|Dark}} {{c|Tyrosine}} the {{c|Devil}} came
 With three spells of flame:
-{{c|Adrenaline}}'s rush so bright,
-{{c|Noradrenaline}}'s fight,
+Adrenaline's rush so bright,
+Noradrenaline's fight,
 And {{c|Dopamine}}'s delight.
 
 Then {{c|Tryptophanes}} the {{c|Sun}}
@@ -123,7 +123,7 @@ As they struck once and twice.
 Their spears would never miss
 Their targets in the abyss.
 
-{{c|Soon}} cables stretched between
+Soon cables stretched between
 The hunters, long and keen.
 {{c|Telegraph}} wires of old
 Became nerves, brave and bold.
@@ -166,7 +166,7 @@ On arms that never changed.
 From {{c|Xiangus}} came the line
 Of {{c|Daihua}} so fine.
 Whose beauty was renowned
-{{c|Wherever}} she was found.
+Wherever she was found.
 
 From {{c|Daihua}}'s noble race
 Came {{c|Dinomischus}}' grace.
@@ -188,7 +188,7 @@ Would found a different state.
 His lineage would grow
 To realms we yet don't know.
 
-{{c|Far}} greater nations he
+Far greater nations he
 Would father by the sea.
 His legacy would span
 The future's plan.
@@ -206,7 +206,7 @@ When {{c|Enki}} sailed away.
 In every thought we think,
 In every neural link,
 {{c|Enki}}'s ancient quest
-{{c|Lives}} on in our breast.
+Lives on in our breast.
 
 The neurotransmitters' dance
 In every glance
@@ -236,4 +236,4 @@ To {{c|Enki}}'s neural track.
 From sponge to human mind,
 The pattern still we find:
 The nervous system's art
-{{c|Connects}} each beating heart.
+Connects each beating heart.

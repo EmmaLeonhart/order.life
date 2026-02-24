@@ -3,7 +3,7 @@ The greatest realms beneath the sea.
 Each house would claim its sovereignty,
 And rule with power, wild and free.
 
-The {{c|Kingdom}} of proud {{c|Plantus}} rose,
+The Kingdom of proud {{c|Plantus}} rose,
 Where photosynthetic glory grows.
 The realm of {{c|Mygus}}, where fungus flows,
 And {{c|Metazo}}'s beasts in ordered rows.
@@ -31,7 +31,7 @@ To rule with majesty and might.
 Upon a rock both firm and true,
 Great {{c|Metazo}} and {{c|Anima}}
 Built their city, small but new,
-The {{c|Animal}} {{c|Kingdom}}'s first hurrah.
+The {{c|Animal}} Kingdom's first hurrah.
 
 Their citizens were three in kind:
 The {{c|Choanocytes}}, fishermen,
@@ -61,7 +61,7 @@ And {{c|Cloudi}}, who would upward bring.
 {{c|Now}} {{c|Thallus}} chose the structured way,
 With holdfasts gripping to the stone.
 His {{c|Choanoderms}} in bright array
-{{c|Extended}} in directions known.
+Extended in directions known.
 
 But {{c|Cloudi}} raised his ectoderm high,
 Above the ground his city soared.
@@ -224,7 +224,7 @@ Their forms in grand array
 Show heritage divine.
 
 Among them were the green
-{{c|Sons}} of {{c|Spongillus}} bright,
+Sons of {{c|Spongillus}} bright,
 Who farm in lands serene
 And give the waters light.
 
@@ -246,7 +246,7 @@ And hunt with greater ease.
 These carnivorous sponges bold
 {{c|Pursue}} their prey with might.
 Their hunting stories told
-{{c|Fill}} listeners with delight.
+Fill listeners with delight.
 
 From {{c|Aristos}} came two more:
 Great {{c|Anu}}, unique and strange,
@@ -283,7 +283,7 @@ The sponges of today.
 Each bearing his name
 In their own special way.
 
-The {{c|Animal}} {{c|Kingdom}} grew
+The {{c|Animal}} Kingdom grew
 From that small rock-bound start.
 Though simple, plain, and true,
 It captured every heart.
@@ -306,14 +306,14 @@ With promises they keep.
 So honor every sponge
 That filters waters clean.
 Their ancient wisdom's lunge
-{{c|Connects}} what's been and seen.
+Connects what's been and seen.
 
 In every cell that beats,
 In every breath we take,
 Their legacy completes
 The choices that we make.
 
-The {{c|Animal}} {{c|Kingdom}}'s start
+The {{c|Animal}} Kingdom's start
 Was humble, small, and true.
 But in each beating heart,
 Their courage echoes through.

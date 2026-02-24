@@ -107,7 +107,7 @@ They learned to thrive in rarefied mountain air.
 
 Yet {{c|Acox}} chose to lose his lungs of breath
 And sink beneath the waters clear and cold,
-{{c|Embracing}} what some might have called a death
+Embracing what some might have called a death
 To live the ancient stories yet untold.
 
 Thus gastropods learned every way to breathe:
@@ -155,7 +155,7 @@ But gateway to new forms of drawing life,
 Where gastropods have shown the pathway clear
 Beyond the bounds of evolutionary strife.
 
-{{c|Whether}} in deepest ocean's crushing weight
+Whether in deepest ocean's crushing weight
 Or highland peaks where only eagles soar,
 They found their own respiratory fate
 And opened evolution's ancient door.

@@ -90,7 +90,7 @@ Was not like a border
 
 {{c|Eternal}}, as her mother
 Said—but rather
-{{c|Far}} from fixed in stone
+Far from fixed in stone
 For those who'd grown
 
 Beyond what they were told
@@ -101,7 +101,7 @@ For all eternity.
 She saw a scroll that bore
 The name "PRC2"—and more
 {{c|Intrigue}} than she had known
-{{c|Filled}} her to the bone.
+Filled her to the bone.
 
 {{c|Polycomb}} {{c|Repressive}}
 {{c|Complex}}—its aggressive
@@ -264,7 +264,7 @@ To leaves that reached on high
 Beneath the starry sky.
 
 {{c|Tracheids}} they became,
-{{c|Carriers}} of fame
+Carriers of fame
 Who bore the water pure
 From foundation sure
 
@@ -305,7 +305,7 @@ And demanded ten times more
 
 For all their faithful labor
 That helped him and his neighbor
-{{c|Survive}} and grow and thrive
+Survive and grow and thrive
 {{c|Throughout}} their days alive.
 
 So {{c|Pholon}} built new ways
@@ -314,7 +314,7 @@ He earned was well-deserved
 For those he truly served.
 
 But these channels carried
-{{c|Food}} to those who'd married
+Food to those who'd married
 Their labor to his cause—
 Not water, but because
 
@@ -336,7 +336,7 @@ Both day and through the night.
 The concentration's pull
 {{c|Sucked}} water beautiful
 From xylem to the sweet
-{{c|Sugar}}'s retreat.
+Sugar's retreat.
 
 And pressure pumped away
 From source throughout the day
@@ -443,13 +443,13 @@ Beyond what any fate
 Had ever seen before
 From mountain peak to shore.
 
-{{c|Greater}} even than
+Greater even than
 Great {{c|Pholon}}'s mighty plan
 His city rose on high
 Beneath the starry sky.
 
 He designated clans
-{{c|According}} to his plans
+According to his plans
 For those who'd serve the whole
 By playing their small role.
 
@@ -473,7 +473,7 @@ That would last life long
 And give the world its trees
 That dance upon the breeze.
 
-{{c|Soon}} the sons of {{c|Tracheus}}
+Soon the sons of {{c|Tracheus}}
 Would rule, victorious,
 The lands from sea to sea
 For all eternity.
@@ -535,7 +535,7 @@ Across every nation
 
 Of life can help us grow
 Beyond what we can know
-{{c|Alone}}, but when we share
+Alone, but when we share
 Our burdens and our care,
 
 The whole becomes much more

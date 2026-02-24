@@ -118,7 +118,7 @@ The spiders would shine.
 All arachnids eight-legged
 From his bloodline were pledged.
 
-{{c|Today}} in every corner
+Today in every corner
 Where webs are a mourner
 For flies caught in their snare,
 {{c|Chelicer}}'s children are there.
@@ -200,7 +200,7 @@ No detail could escape
 Their vision's perfect shape.
 
 {{c|Segmented}} bodies bore
-{{c|Legs}} numbering by the score.
+Legs numbering by the score.
 Each segment had its pair
 To walk through water fair.
 
@@ -220,7 +220,7 @@ Came this radiation:
 Each with different grabs.
 
 The {{c|Sea}} {{c|Spiders}} so strange
-{{c|Extended}} their full range
+Extended their full range
 With organs in each limb—
 A body plan quite slim.
 
@@ -247,7 +247,7 @@ To rulers high above,
 In every arthropod
 That walks upon the sod,
 His biramous limb design
-{{c|Lives}} on through space and time.
+Lives on through space and time.
 
 The double-legged innovation
 {{c|Sparked}} this radiation
@@ -267,7 +267,7 @@ Where ocean beauty talks,
 Remember {{c|Arthur}}'s art
 That gave them all their start.
 The {{c|Ironfoot}} legacy
-{{c|Lives}} through eternity.
+Lives through eternity.
 
 The sons of {{c|Arthur}} proved
 How innovation moved

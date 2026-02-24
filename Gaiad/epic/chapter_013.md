@@ -58,4 +58,4 @@ A veil of frozen whispers far from light.
 In distant orbits, comets there abound,
 A cosmic dance that fades beyond our sight.
 
-{{c|Advertisement}}
+Advertisement

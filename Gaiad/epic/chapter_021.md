@@ -58,7 +58,7 @@ He loved the golden sunlight from above.
 "I'll capture light and live on every ray,
 And feed the world with photosynthetic love."
 
-{{c|Sweet}} {{c|Cortica}} became his willing bride,
+Sweet {{c|Cortica}} became his willing bride,
 {{c|Together}} they would harvest solar power.
 She'd gather nutrients from far and wide,
 While he transformed them in each golden hour.
@@ -143,8 +143,8 @@ Great {{c|Podius}} of the flowing, changeful form,
 And dark {{c|Metamon}}, who with no one
 Would ever share his cytoplasmic storm.
 
-{{c|Poor}} {{c|Metamon}}, in his bitter pride,
-{{c|Refused}} to wed or take a loving mate.
+Poor {{c|Metamon}}, in his bitter pride,
+Refused to wed or take a loving mate.
 His children, born with no mitochondrial guide,
 Would live in darkness, sealed by fate.
 

@@ -4,7 +4,7 @@ The sons of {{c|Gastropus}},
 {{c|Renowned}} and prosperous.
 
 {{c|Gastropus}} twisted each
-{{c|Son}} beyond our reach
+Son beyond our reach
 Of understanding strange:
 Their anus he'd arrange
 
@@ -19,7 +19,7 @@ From danger's threatening call
 By pulling in completely all
 
 Within their shell so tight
-{{c|Protected}} day and night
+Protected day and night
 From any enemy
 Who'd harm their family.
 
@@ -48,7 +48,7 @@ Four hundred thirty, band
 Of {{c|Phoenicians}} came
 To conquer and to claim
 
-The great {{c|Gastropod}} {{c|Empire}}
+The great {{c|Gastropod}} Empire
 And set their hearts on fire
 For the sacred priestly dye
 Beneath the purple sky.
@@ -66,7 +66,7 @@ So rich and glorious.
 Just as his majesty
 Was purple, heavenly,
 His faith was colored blue
-{{c|Forever}} pure and true.
+Forever pure and true.
 
 In time of {{c|Moses}} great
 {{c|Prince}} {{c|Hexaplex}}' fate
@@ -76,7 +76,7 @@ Of tassels that would lift
 The spirits of the true
 {{c|Devotees}} in blue
 Who wear the tassels still
-{{c|According}} to {{c|God}}'s will.
+According to {{c|God}}'s will.
 
 Many who follow
 {{c|Moses}}' path so hollow
@@ -264,12 +264,12 @@ Where colors interlace
 In patterns beautiful
 Beyond what's dutiful—
 {{c|Art}} that takes the breath
-{{c|Away}} from life and death.
+Away from life and death.
 
 {{c|Escargon}} coiled his shell
 More than words can tell
 And bore two sons whose coils
-{{c|Surpassed}} all earthly toils
+Surpassed all earthly toils
 
 In their complexity:
 {{c|Neritus}}, you see,
@@ -309,7 +309,7 @@ And {{c|Wentletraps}} so full
 Of spiral elegance,
 {{c|Moon}} {{c|Snails}} in their dance,
 And {{c|Murexes}} so bright,
-{{c|Cone}} {{c|Snails}} in their might,
+Cone {{c|Snails}} in their might,
 
 And {{c|Turrids}} spiral-wise
 Beneath the ocean skies,
@@ -336,7 +336,7 @@ The surfer, glorious
 In his art upon
 The waves from dusk to dawn.
 
-The {{c|Cone}} {{c|Snails}} are named
+The Cone {{c|Snails}} are named
 {{c|Deceptively}}, acclaimed
 For beauty, but they're really
 {{c|Assassins}} who kill freely
@@ -344,7 +344,7 @@ For beauty, but they're really
 With poison strong beyond
 All that we're fond
 Of thinking possible—
-{{c|Nothing}}'s defensible
+Nothing's defensible
 
 Against their deadly art.
 They live set apart
@@ -409,7 +409,7 @@ And {{c|Aeros}} of the sea.
 {{c|Nudos}} shed his shell
 And untwisted as well
 Himself from gastropod
-{{c|Design}}, and so he trod
+Design, and so he trod
 
 A different path than most.
 He became the host
@@ -494,7 +494,7 @@ Through calm and raging storms.
 In every spiral shell
 That stories always tell
 Of beauty and of function
-{{c|Working}} in conjunction,
+Working in conjunction,
 
 Remember how they came
 To earn their lasting fame:
@@ -515,7 +515,7 @@ To see in all their glory
 From {{c|Limpets}} holding fast
 To rocks that ever last
 To sea slugs poison-bright
-{{c|Swimming}} day and night,
+Swimming day and night,
 
 From money-making shells
 To assassins who dwells
@@ -523,7 +523,7 @@ Between the life and death
 With poison in their breath,
 
 The gastropods show how
-{{c|Diversity}} can bow
+Diversity can bow
 To no single way
 But flourishes each day
 
@@ -533,7 +533,7 @@ That test what each can do
 To make their dreams come true.
 
 {{c|Innovation}} and tradition
-{{c|Working}} in submission
+Working in submission
 To life's eternal call
 That beckons one and all
 

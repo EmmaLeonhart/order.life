@@ -54,7 +54,7 @@ And {{c|Prasea}}, from whom two seeds were sown—
 {{c|Saya}} and {{c|Chloroflexa}}, both divine.
 
 {{c|Saya}} the bacteria shed her coat,
-{{c|Embracing}} {{c|Gram}}-negative ways for light.
+Embracing {{c|Gram}}-negative ways for light.
 She drank the sun where swirling currents float,
 {{c|Bestowing}} oxygen with force so bright.
 

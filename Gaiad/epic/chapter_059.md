@@ -1,13 +1,13 @@
-# Chapter 59: The Great {{c|Catastrophe}}
+# Chapter 59: The Great Catastrophe
 
-'{{c|Twas}} in the time when all lands had received
+'Twas in the time when all lands had received
 The children of three mothers bright and fair:
 Great {{c|Planta}}, {{c|Anima}}, and those conceived
 By {{c|Funga}}, spreading life through earth and air.
 
 They led their offspring across virgin ground
 Where peace and harmony would reign supreme,
-'{{c|Twas}} time of plenty when joy could be found
+'Twas time of plenty when joy could be found
 Where earth and heaven shared the same sweet dream.
 
 But {{c|Shesha}} the {{c|Actinite}} and {{c|Matsya}} wise
@@ -152,7 +152,7 @@ Without a reason, suddenly withdrawn.
 
 The sons of {{c|Trilobos}} left just one
 To carry on: brave {{c|Proeth}} all alone
-{{c|Survived}} when all his brothers' days were done
+Survived when all his brothers' days were done
 And he was left to face the world unknown.
 
 While all the sons of mighty {{c|Eurypter}}
@@ -197,7 +197,7 @@ With none to tend it or stand by its side.
 
 Even the lands and streams could not escape
 The schemes of evil's overwhelming hand,
-{{c|Soon}} every fertile valley and landscape
+Soon every fertile valley and landscape
 And every river throughout the land
 
 Became a sight of woe and bitter dread:
@@ -238,7 +238,7 @@ At healing the world's broken heart
 And breaking evil's chain of endless pain
 That binds us to the past and makes us strain
 Beneath the weight of what we cannot bear
-{{c|Alone}}, without the help of faithful prayer.
+Alone, without the help of faithful prayer.
 
 Remember those who died and let their light
 {{c|Guide}} all your steps through the endless night
@@ -286,7 +286,7 @@ And pass to children of the coming age
 The wisdom written on history's page.
 
 The sons of {{c|Janus}} learned that those who turn
-{{c|Away}} from truth will surely crash and burn,
+Away from truth will surely crash and burn,
 But faithful ones who never bow their head
 To evil will see better days ahead
 
@@ -328,7 +328,7 @@ That's waited for them since their natal hour.
 The lonely graptolite who lived beyond
 The night when all his people broke the bond
 With life and left him solitary there
-{{c|Reminds}} us that the faithful still can dare
+Reminds us that the faithful still can dare
 
 To hold the precious past in memory
 So pure that time can never make them flee

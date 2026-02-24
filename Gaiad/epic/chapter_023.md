@@ -91,10 +91,10 @@ And make their lineage burning bright.
 But {{c|Thaumatus}} chose a stranger path,
 His sons were amoebae diverse.
 Some bore shells to ward off wrath,
-{{c|Others}} flowed like living verse.
+Others flowed like living verse.
 
 Among {{c|Thaumatus}}' children came
-One {{c|Paul}}, who envied others' power.
+One Paul, who envied others' power.
 "Why can't I play the photosynthetic game?"
 He brooded through each passing hour.
 
@@ -113,7 +113,7 @@ And so the second time in history,
 This rare endosymbiotic mystery
 Would be {{c|Paulinellus}}' boast.
 
-"{{c|Behold}}!" he cried with joy supreme,
+"Behold!" he cried with joy supreme,
 "I've broken evolution's rule!
 The solar power, once a dream,
 {{c|Now}} makes me nature's blessed fool!"
@@ -168,7 +168,7 @@ His waste piled up within his cell.
 Though his body grew mighty and strong,
 His garbage made a living hell.
 
-"{{c|Alas}}," sighed {{c|Gromius}} in dismay,
+"Alas," sighed {{c|Gromius}} in dismay,
 "My greatness comes with bitter cost.
 My waste I cannot cast away,
 In my own filth I am lost."
@@ -266,4 +266,4 @@ Would see their lineages pursued.
 In every shell and every spine,
 In every cell both large and small,
 The memory of that design
-{{c|Reminds}} us: life conquers all.
+Reminds us: life conquers all.

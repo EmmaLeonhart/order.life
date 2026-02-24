@@ -52,7 +52,7 @@ Then you need never see the blessed sight."
 
 And so poor {{c|Remus}} lived his life in pain
 In darkness underneath {{c|Aventine}} {{c|Hill}},
-{{c|According}} to his will through sun and rain
+According to his will through sun and rain
 He dwelt in shadow, serving his own will.
 
 To this day all the children of his line
@@ -243,7 +243,7 @@ And dance with beauty through the morning air.
 {{c|Seizapter}} begat in turn a son:
 {{c|Quatorzapter}} with fourteen gills so fine
 That danced in perfect order, every one
-{{c|Arranged}} in harmony by love's design.
+Arranged in harmony by love's design.
 
 {{c|Quatorzapter}} begat {{c|Duzapter}} then
 With twelve gills bright and true to lead the way,

@@ -3,7 +3,7 @@
 "What wonders," thought he, "from our bloodline shine,
 What tools of life our children have displayed!"
 
-"{{c|Behold}} {{c|Reticulus}}, my firstborn son,
+"Behold {{c|Reticulus}}, my firstborn son,
 Who built the pathways through my living space.
 His rough and smooth domains, when day is done,
 Give every protein its appointed place.
@@ -24,7 +24,7 @@ The {{c|Centrioles}} dance in perfect sight,
 And make sure chromosomes stay tightly bound.
 
 And last, my son who bears my very name,
-{{c|Young}} {{c|Nucleus}}, keeper of the scrolls divine.
+{{c|Young}} Nucleus, keeper of the scrolls divine.
 Through nuclear pores, our sacred flame
 Of knowledge flows in patterns most fine."
 
@@ -121,7 +121,7 @@ His gift of nucleus forever dwells.
 In every plant that reaches for the sun,
 In every beast that runs across the plain,
 The marriage of the first two, when all begun,
-{{c|Lives}} on through joy and sorrow, loss and gain.
+Lives on through joy and sorrow, loss and gain.
 
 So honor {{c|Euka}}, father of us all,
 And {{c|Eve}}, the power-giver, ever true.

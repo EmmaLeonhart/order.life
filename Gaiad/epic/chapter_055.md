@@ -2,12 +2,12 @@
 
 As {{c|Devon}}'s sons grew strong and true in might,
 The spineless sons of bright {{c|Proteus}} fair
-{{c|Prepared}} themselves to join the ancient fight
+Prepared themselves to join the ancient fight
 For rule beneath the ocean's flowing care.
 
 In {{c|Devon}}'s shadow they grew day by day,
 Their strength increasing with each passing hour,
-{{c|Building}} themselves to drink what victory's way
+Building themselves to drink what victory's way
 Would bring them through their faithful, growing power.
 
 Among great {{c|Spiralius}}' noble line,
@@ -21,7 +21,7 @@ Yet what he possessed in genius true,
 He lacked in wisdom's ancient, faithful ways.
 
 He spurned his kin and ancestors so wise,
-{{c|Refused}} to learn from those who came before
+Refused to learn from those who came before
 Who faced the storms beneath the starry skies
 And learned through pain what peace was truly for.
 
@@ -47,12 +47,12 @@ From mountain peak to shore, each single part.
 
 His armor was complete from head to tail,
 A fortress that would never know defeat,
-{{c|Protection}} that would never, ever fail
+Protection that would never, ever fail
 To keep him safe from foe he chanced to meet.
 
 Great {{c|Ammon}} grew a shell of coiled design,
 {{c|Compact}} and true to serve his heart's desire,
-{{c|Wherever}} destiny would draw the line
+Wherever destiny would draw the line
 He'd dwell with freedom bright as sacred fire.
 
 He swam through waters blue where others fished,
@@ -87,7 +87,7 @@ Would serve with faithful hearts both day and night.
 
 His wife, fair {{c|Possa}}, carried them with care
 And never tarried in their nourishment,
-{{c|According}} to her sacred, mother's prayer
+According to her sacred, mother's prayer
 And oath of love that heaven to her sent.
 
 Of motherhood so pure it would endure
@@ -148,7 +148,7 @@ As father by the ocean's majesty.
 {{c|Shrimpon}} became the noble, faithful sire
 Of shrimp whose greatest joy and sweet desire
 Was boxing and much more from shore to shore,
-{{c|Protecting}} what they loved forevermore.
+Protecting what they loved forevermore.
 
 {{c|Repton}} bore two sons in their prime:
 {{c|Thalasson}} of the mud, and {{c|Omar}}'s name
@@ -187,7 +187,7 @@ What beauty means and what it's always been.
 
 {{c|Meiuron}}, noble son in the line
 Of tenth generation of {{c|Thalasson}}'s race,
-{{c|Rejected}} what his fathers thought divine
+Rejected what his fathers thought divine
 And chose to find a different dwelling place.
 
 He left the depths that lay far below
@@ -250,7 +250,7 @@ As to release their hold on shells so bright,
 The hermit crabs would use them evermore
 As homes to keep them safe through day and night.
 
-{{c|Alas}}, the great revolt of brave {{c|Proteus}}
+Alas, the great revolt of brave {{c|Proteus}}
 Felt failure's bitter sting and painful dart,
 No victory could come to those who'd thus
 {{c|Rebelled}} with proud and unrepentant heart.
@@ -263,7 +263,7 @@ And lasted life long through joy and pain.
 The sons of {{c|Devon}} held their righteous power,
 They never fell to those who rose in vain
 Against their rule through each appointed hour
-{{c|Well}}-fenced by truth that broke rebellion's chain.
+Well-fenced by truth that broke rebellion's chain.
 
 But lo! a new frontier was opening wide
 Where sons of brave {{c|Proteus}} at last could find

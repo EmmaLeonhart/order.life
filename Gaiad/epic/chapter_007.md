@@ -51,16 +51,16 @@ And {{c|Quinamette}}, our mother filled with love."
 {{c|Viros}} spoke next, his mind as sharp as light,
 "Then {{c|Aster}} stands beyond them all, it's clear.
 There is no greater grandmother in sight—
-Should we not name her '{{c|Greatest}},' far and near?"
+Should we not name her 'Greatest,' far and near?"
 
 {{c|Dedos}} agreed, with reverence in his tone,
 "There's none beyond our lineage so bright.
-{{c|Aster}} is the {{c|Greatest}} we have known,
+{{c|Aster}} is the Greatest we have known,
 And so, her title shines in endless light."
 
 And this is why we call her to this day,
-Our {{c|Greatest}} {{c|Grandmother}}, wise and true.
+Our Greatest {{c|Grandmother}}, wise and true.
 Her light still guides us on our cosmic way,
 A title passed to us and all of you.
 
-{{c|Advertisement}}
+Advertisement

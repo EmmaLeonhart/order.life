@@ -29,7 +29,7 @@ His kingdom moved with might
 Across the steppe so bright.
 
 A billion years of fame
-{{c|Belongs}} to his great name.
+Belongs to his great name.
 On {{c|Australian}} stamps today
 His image holds its sway.
 
@@ -109,7 +109,7 @@ His sons became the nomads true,
 The {{c|Rotifers}} we view.
 
 In all waters they roam,
-{{c|Making}} everywhere home.
+Making everywhere home.
 Great fishermen are they
 From night until the day.
 
@@ -171,15 +171,15 @@ And stories they do tell.
 {{c|Spiralius}} kept the old ways true
 But his children grew
 In many different directions,
-{{c|Making}} their selections.
+Making their selections.
 
 Some stayed with fishing pure,
 Their methods tried and sure.
-{{c|Others}} chose the warrior's way
+Others chose the warrior's way
 To fight another day.
 
 From tentacles to jaws,
-{{c|Following}} nature's laws,
+Following nature's laws,
 Each lineage found its place
 In evolution's race.
 

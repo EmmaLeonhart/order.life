@@ -40,5 +40,5 @@ A legacy of love that would not fade.
 
 And now, we honor them in wedding vows,
 With ruby rings for one, and topaz bright.
-{{c|White}} opal marks the bond that time allows,
+White opal marks the bond that time allows,
 A symbol of their love’s enduring light.

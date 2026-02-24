@@ -36,7 +36,7 @@ Who lived his whole life long.
 {{c|Chasmas}} begat two more:
 {{c|Belangkas}} to explore
 And {{c|Xiphos}}, who would be
-{{c|Living}} by the sea.
+Living by the sea.
 
 {{c|Xiphos}} became the sire
 Of crabs whose desire
@@ -90,7 +90,7 @@ With her maternal hand.
 
 {{c|Beautiful}} legs so long
 Made her the subject of song:
-"{{c|Granny}} {{c|Long}} {{c|Legs}}" they'd call
+"{{c|Granny}} {{c|Long}} Legs" they'd call
 Her, beloved by all.
 
 "{{c|Granny}} {{c|Harvest}}" too,
@@ -101,7 +101,7 @@ Through joy and through strife.
 And so in honor of
 Her life and of her love,
 We call her children still
-"{{c|Daddy}} {{c|Long}} {{c|Legs}}" (though will
+"{{c|Daddy}} {{c|Long}} Legs" (though will
 
 Seem strange to some that "{{c|Daddy}}"
 {{c|Names}} descendants of a lady).
@@ -131,7 +131,7 @@ Built by their tiny hand.
 {{c|Acares}} bore two sons:
 {{c|Sarco}} when day begun
 And {{c|Trombo}}, who would be
-{{c|Living}} peacefully
+Living peacefully
 
 Or not, as fate would tell
 His story oh so well
@@ -198,14 +198,14 @@ Who answer hunting's call.
 And {{c|Paras}}, who would be
 {{c|Small}} in his degree.
 
-{{c|Byblos}} the {{c|Book}} {{c|Knight}}
+{{c|Byblos}} the Book {{c|Knight}}
 {{c|Continues}} day and night
 To this very day
 To guard in his own way
 
 The books that hold the lore
 Of all who came before.
-His sons, the {{c|Book}} {{c|Scorpions}},
+His sons, the Book {{c|Scorpions}},
 Are knowledge's companions.
 
 They defend with their might
@@ -226,12 +226,12 @@ Across the globe to find
 And body's gluttony—
 A small but mighty fee
 He'd take from life around
-{{c|Wherever}} he was found.
+Wherever he was found.
 
 But {{c|Holoxos}} walked where
 {{c|Blood}} flowed everywhere
 From his fallen kin:
-{{c|Sons}} of {{c|Arachnus}} thin
+Sons of {{c|Arachnus}} thin
 
 And sons of {{c|Myriapus}}
 Who'd been victorious
@@ -311,7 +311,7 @@ That lives in me and you.
 The {{c|Midichlorians}} live
 In what {{c|Ricinus}}' give:
 Within their mitochondria
-{{c|Lives}} {{c|Lilith}}'s bacteria—
+Lives {{c|Lilith}}'s bacteria—
 
 The greatest revenge told
 By stories new and old
@@ -339,8 +339,8 @@ Into a force so strong
 That right can't win from wrong.
 
 But {{c|Eurypter}} would be
-{{c|Father}} of dynasty
-{{c|Far}} greater than the line
+Father of dynasty
+Far greater than the line
 Of {{c|Chasmas}}' design.
 
 A nation he would make
@@ -363,7 +363,7 @@ Seen in calamity
 To {{c|Opiliona}}'s care
 For life everywhere,
 
-From {{c|Book}} {{c|Knights}} who defend
+From Book {{c|Knights}} who defend
 The knowledge we depend
 Upon to light our way
 Through each and every day,
@@ -383,7 +383,7 @@ What others would rend
 {{c|Apart}} with greed and hate
 That seals our mortal fate.
 
-{{c|Others}} choose to take
+Others choose to take
 For their own selfish sake
 What others need to live
 And never learn to give.

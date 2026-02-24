@@ -26,7 +26,7 @@ In {{c|Hausa}} placed her trust.
 She jumped through shimmering sky
 Up rocks that reached so high
 To heavens bright above,
-{{c|Protecting}} those she'd love.
+Protecting those she'd love.
 
 And so she burst from sea
 Onto the land so free.
@@ -34,12 +34,12 @@ The first to make that leap
 From waters dark and deep.
 
 Upon the ground she fell,
-{{c|Suffocating}} well
+Suffocating well
 In air so thin and strange,
 {{c|Throughout}} that foreign range.
 
 But she and husband true
-{{c|Protected}} eggs they knew
+Protected eggs they knew
 Must live until the end—
 Their legacy to send.
 
@@ -78,13 +78,13 @@ The new lands she adored.
 She found she wasn't lone
 Upon this earthly zone.
 
-{{c|Tradition}} names this place
+Tradition names this place
 "{{c|Myry}}'s coast" in grace,
 But she was not the first—
-{{c|History}}'s truth rehearsed
+History's truth rehearsed
 
 {{c|Now}} calls it "{{c|Coast}} of Three
-{{c|Kingdoms}}" truthfully
+Kingdoms" truthfully
 To honor every side
 Of history's great tide.
 
@@ -103,7 +103,7 @@ Half mold and moss beside
 Each other living well:
 {{c|Mycelium}} would delve
 
-{{c|Deep}} down to earthly gold
+Deep down to earthly gold
 While thallus, brave and bold,
 {{c|Basked}} in the sun's bright blessing
 From heaven's light caressing.
@@ -133,7 +133,7 @@ Her messy eating spell
 Left pieces of her meal
 For others to steal.
 
-{{c|Soon}} sons of {{c|Mygus}} built
+Soon sons of {{c|Mygus}} built
 {{c|Cities}} without guilt
 With daughters of {{c|Charina}}
 Across each earthly arena.
@@ -184,9 +184,9 @@ And {{c|Mithra}} called to {{c|Cain}}:
 "Am I to be his guide?"
 
 "What hast thou done today?
-{{c|Thy}} brother's blood doth pray
+Thy brother's blood doth pray
 From ground where he was killed—
-{{c|Thy}} curse shall be fulfilled.
+Thy curse shall be fulfilled.
 
 No more shall ground give strength
 To thee through all thy length
@@ -216,7 +216,7 @@ To meet his chosen fate.
 There {{c|Cain}} knew his wife
 And built a city-life.
 She bore him {{c|Centipus}},
-{{c|Son}} glorious.
+Son glorious.
 
 The city bore the name
 Of {{c|Centipus}}' fame.
@@ -271,7 +271,7 @@ When growing time had passed.
 When they met they wed
 But heard what {{c|Mithra}} said:
 "O couple great and true,
-{{c|Prosperity}}'s with you.
+Prosperity's with you.
 
 But barren you shall be
 For decades, wait and see.
@@ -325,7 +325,7 @@ Two brothers everywhere:
 
 {{c|Stomatos}} and {{c|Hepatos}},
 Who chose their separate ways.
-{{c|Connected}} to network
+Connected to network
 Of cells that always work
 
 At cellular level
@@ -353,7 +353,7 @@ But {{c|Stomatos}} became
 Of all other plants
 Who dance their living dance.
 
-{{c|Today}} we honor him
+Today we honor him
 As {{c|Eloh}}, not dim
 But bright transhumanist
 Who never would desist
@@ -378,7 +378,7 @@ Through all their pilgrimages
 Would be lost forever more
 On that primeval shore.
 
-The {{c|Coast}} of Three {{c|Kingdoms}}
+The {{c|Coast}} of Three Kingdoms
 Where life's great wisdom
 First met upon the land
 By {{c|Mithra}}'s guiding hand.
@@ -423,7 +423,7 @@ In earth's darkest hour.
 From {{c|Stomatos}}' brave change
 Came plants' wide range.
 
-The {{c|Coast}} of Three {{c|Kingdoms}}
+The {{c|Coast}} of Three Kingdoms
 {{c|Shows}} how life's wisdom
 {{c|Finds}} its truest way
 Through partnership's display.

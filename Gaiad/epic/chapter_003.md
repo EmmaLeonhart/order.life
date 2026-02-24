@@ -56,7 +56,7 @@ Her presence marks the stars' unfinished beat.
 {{c|Ruby}}, the red dwarf, small but ever bright,
 Her steady flame still burns throughout today.
 To witness cosmic dusk with peaceful light,
-She sees {{c|Omega}} {{c|Point}} as time gives way.
+She sees {{c|Omega}} Point as time gives way.
 
 {{c|Chrystella}} shines with vibrant, youthful glow,
 {{c|Main}} sequence stars, her hot flashes ignite.
@@ -83,4 +83,4 @@ A brilliant burst before she fell from sight.
 From that great death, a black hole then prepared,
 To pull the stars into eternal night.
 
-{{c|Advertisement}}
+Advertisement

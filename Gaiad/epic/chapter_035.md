@@ -124,7 +124,7 @@ And {{c|Annika}}, brave and bold.
 {{c|Hongmen}} bore two sons so grand:
 {{c|Luolishania}} in the land
 And {{c|Collins}} {{c|Monster}}, fierce and wild,
-{{c|Nature}}'s problem child.
+Nature's problem child.
 
 But {{c|Annika}} chose a different way,
 She cast her armor away.
@@ -139,7 +139,7 @@ Who guides them lovingly.
 In {{c|Ursus}}' line things went
 Down a different bent.
 {{c|Ferox}} wanted to survive
-{{c|Whatever}} came alive.
+Whatever came alive.
 
 He downsized small and tough,
 {{c|Invulnerable}} stuff.
@@ -148,10 +148,10 @@ Who lived both short and long.
 
 {{c|Ursus}} became the sire
 Of water bears' entire
-{{c|Line}} who first conquered land
+Line who first conquered land
 With their small, mighty band.
 
-{{c|Unable}} yet to breathe
+Unable yet to breathe
 On land's protecting sheath,
 As {{c|Tuns}} they go dormant true
 Until the danger's through.
@@ -164,7 +164,7 @@ Two sons to explore:
 {{c|Gille}} built gills with care
 Above his legs so fair.
 His son {{c|Kerygmachelon}}
-{{c|Swam}} with gills upon.
+Swam with gills upon.
 
 {{c|Kerygmachelon}} the great
 Had a noble fate.
@@ -202,13 +202,13 @@ He watched his royal mark.
 
 But on his deathbed bed
 These words of doom were said:
-"{{c|Thy}} pomp brought down to grave,
+"Thy pomp brought down to grave,
 No power left to save.
 
 How art thou fallen down,
 O {{c|Anomalos}} from thy crown!
 From heaven thou art cast,
-{{c|Thy}} glory could not last."
+Thy glory could not last."
 
 Yet single death could not end
 The suffering they send.
@@ -227,7 +227,7 @@ With blood and sweat assured.
 
 The {{c|Arthropods}} they became
 With million-species fame.
-{{c|Today}} they rule the earth
+Today they rule the earth
 Since their ancient birth.
 
 From {{c|Lobopus}} came the tide
@@ -253,7 +253,7 @@ That gave the reefs their start.
 In every velvet worm
 That makes the earth worm squirm,
 {{c|Annika}}'s caring way
-{{c|Lives}} on another day.
+Lives on another day.
 
 In every water bear
 That conquers everywhere,

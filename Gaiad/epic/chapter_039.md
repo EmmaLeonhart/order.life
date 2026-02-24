@@ -14,7 +14,7 @@ The {{c|Trilobites}} and more—
 {{c|Brachiopods}} by the score—
 
 And {{c|Hyoliths}} barely
-{{c|Survived}} that calamity.
+Survived that calamity.
 The {{c|Botomian}} time had passed,
 Its glory could not last.
 
@@ -25,7 +25,7 @@ To set the world life free.
 
 {{c|Restore}} what has been lost
 And count extinction's cost.
-{{c|Protect}} us from the doom
+Protect us from the doom
 That fills up every room."
 
 {{c|Wiwaxius}} begat two sons:
@@ -39,7 +39,7 @@ A small and brainless state—
 A kingdom with no fate.
 
 But {{c|Molluscus}} bore many
-{{c|Sons}}, more than any
+Sons, more than any
 Other patriarch could claim.
 {{c|Eldest}} was {{c|Testar}}'s name.
 
@@ -49,8 +49,8 @@ A great thick shell he made
 Of valves in organized parade.
 
 {{c|Sixteen}} valves in all:
-{{c|Eight}} large and eight small.
-{{c|Eight}} upon the right
+Eight large and eight small.
+Eight upon the right
 And eight upon the left so bright.
 
 His brothers had no care
@@ -76,7 +76,7 @@ Both builders glorious.
 {{c|Chiton}} {{c|Horizontus}}
 {{c|Unified}} like kratos
 His shells in horizontal row:
-{{c|Eight}} shells in neat tableau.
+Eight shells in neat tableau.
 
 He became the ancestor
 Of chitons, protector
@@ -125,7 +125,7 @@ Like door without a cut.
 
 His children came to lay
 Upon their sides each day.
-{{c|Soon}} they looked the same
+Soon they looked the same
 As {{c|Brachios}}' great name.
 
 They became {{c|Bivalves}} true:
@@ -149,8 +149,8 @@ Had ideas quite different
 From others' management.
 
 He walked across the seas
-{{c|Exploring}} as he'd please,
-{{c|Discovering}} countless things
+Exploring as he'd please,
+Discovering countless things
 That wonder always brings.
 
 He bore two sons of fame:
@@ -173,7 +173,7 @@ Would curl than those before
 And grow in strength each day
 Through their spiraling way.
 
-{{c|Today}} his distant sons
+Today his distant sons
 Still coil when day begun.
 From garden snail so small
 To conch shells standing tall.
@@ -221,9 +221,9 @@ Of tusk shells, protector
 Of nothing but his ease.
 {{c|Simple}} creatures please
 Themselves with brainless ways,
-{{c|Living}} all their days
+Living all their days
 
-{{c|Underground}} they dwell
+Underground they dwell
 Within their tusk-like shell.
 They prey on {{c|Foramer}}'s sons
 When hunting time begun.
@@ -236,7 +236,7 @@ Across time's flowing tide.
 The sons of {{c|Molluscus}} grew
 And flourished, spreading through
 The world in every way,
-{{c|Taking}} roles each day
+Taking roles each day
 
 That others could not fill.
 Through strength of mind and will
@@ -251,7 +251,7 @@ Many forms depart
 To fill each niche and place
 With their unique grace.
 From simple shell began
-{{c|Evolution}}'s great plan
+Evolution's great plan
 
 That led to snails that crawl
 And squids that enthrall

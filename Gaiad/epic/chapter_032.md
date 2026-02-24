@@ -60,7 +60,7 @@ Who sought innovation's prize.
 
 {{c|Now}} {{c|Ishmael}} held fast and true
 To all his father knew.
-{{c|Tradition}} was his guiding star
+Tradition was his guiding star
 Through peace and times of war.
 
 But {{c|Isaac}} chose a different way,
@@ -73,7 +73,7 @@ Came {{c|Priapus}}, strong and fine.
 {{c|Patriarch}} of the {{c|Priapulids}},
 Who live where darkness hides.
 
-{{c|Deep}} in the ocean's depths they dwell
+Deep in the ocean's depths they dwell
 In places none can tell.
 Like ancient {{c|Ediacaran}} lands
 Of hydrogen sulfide strands.
@@ -155,7 +155,7 @@ Where pressure could be felt.
 
 The {{c|Loricifer}}'s tale
 Would never fail.
-{{c|Living}} fossils in the deep
+Living fossils in the deep
 Their ancient vigil keep.
 
 These descendants of great {{c|Ectus}}

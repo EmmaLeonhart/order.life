@@ -1,4 +1,4 @@
-# Chapter 58: The {{c|Fungal}} {{c|Kingdom}}
+# Chapter 58: The {{c|Fungal}} Kingdom
 
 {{c|Dikar}} lived as parasite upon the sons
 Of {{c|Plantus}} bright, from lineage of great fame,
@@ -166,9 +166,9 @@ And serve the world with faithful, loving heart
 That makes all life more beautiful, divine.
 
 {{c|Botry}}, the son of great {{c|Puccini}}'s line,
-{{c|Rejected}} what had been multicellular
+Rejected what had been multicellular
 And chose a simpler, more particular
-{{c|Design}} to make his life more pure, divine.
+Design to make his life more pure, divine.
 
 He became yeast who'd live alone in peace
 Within his own appointed, sacred zone
@@ -207,7 +207,7 @@ But honored as they faithfully serve.
 
 {{c|Agaricus}} left behind the parasitic mind
 And went to answer desert's lonely call,
-{{c|Away}} from green and tall trees he'd find
+Away from green and tall trees he'd find
 His home where few would ever come at all.
 
 {{c|Agaricus}} bore four sons of great worth:
@@ -223,7 +223,7 @@ And sing his glory in their faithful praise
 {{c|Jello}} formed vessels bright of gel to hold
 The sight of spores, and he returned once more
 To where {{c|Virginia}}'s forests, green and old,
-{{c|Burned}} bright with life from mountain peak to shore.
+Burned bright with life from mountain peak to shore.
 
 In rain forests where aria of life
 {{c|Rang}} out so clear for all who had an ear
@@ -312,7 +312,7 @@ With blessings flowing from the great {{c|High}} {{c|Priest}},
 
 To lichens' partnership that makes the trip
 Between two different kinds with single mind
-{{c|United}} in their blessed relationship
+United in their blessed relationship
 Where perfect harmony two souls can find,
 
 The fungi show the way we ought to live
@@ -372,11 +372,11 @@ Of hope's eternal, everlasting {{c|King}}.
 
 From {{c|Dikar}}'s ancient line to mushrooms blessed
 That nourish and heal, the very best
-{{c|Remind}} us we can choose to trust each day
+Remind us we can choose to trust each day
 In love's eternal power to show the way
 
 With gifts that help us grow beyond our sight
-{{c|Alone}}, but when we share our burden's weight
+Alone, but when we share our burden's weight
 The whole world becomes filled with blessed light
 Where all can find their truly perfect fate.
 

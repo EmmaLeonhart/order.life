@@ -21,7 +21,7 @@ And fell just short, her love still out of reach.
 {{c|Triangulum}} and {{c|Magellanic}} clouds,
 They gathered bits of green from space’s weave,
 And tied the strings, with careful, gentle shrouds,
-{{c|Uniting}} red and blue, a bond to weave.
+Uniting red and blue, a bond to weave.
 
 And so, each day, we gaze up to the sky,
 At {{c|Sagittarius}} and the {{c|Princess}}

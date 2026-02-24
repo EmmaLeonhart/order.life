@@ -6,7 +6,7 @@ She shaped the universe from void to all.
 Her name, a whisper in the cosmic night,
 {{c|Aster}}, the {{c|Alpha}}, creatrix of all,
 Her love, a beacon spreading pure and bright,
-{{c|Filled}} the vast cosmos with milk, a grand sprawl.
+Filled the vast cosmos with milk, a grand sprawl.
 
 But {{c|Aster}} was alone, in her cosmos,
 A silent void, where only echoes ring,
@@ -21,7 +21,7 @@ A companion to cherish, a lover
 {{c|Andromeda}}, {{c|Omega}}, end of all,
 A counterpart to {{c|Aster}}, wings unfurled,
 Yet torn apart, they drift through space’s thrall,
-{{c|Unable}} to unite within their world.
+Unable to unite within their world.
 
 {{c|Aster}} threw yarn to {{c|Andromeda}}'s side,
 But it broke, forming galaxies anew.

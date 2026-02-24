@@ -11,7 +11,7 @@ And life once more began a thriving scene.
 With {{c|Bios}}' line, the children sowed the land,
 While {{c|Viros}}' kin ensured that life would spread.
 The people worked together, hand in hand,
-{{c|United}} by the truths that {{c|Aster}} led.
+United by the truths that {{c|Aster}} led.
 
 They raised their temples high beneath {{c|Attle}}'s light,
 To honor {{c|Aster}} and {{c|Andromeda}}'s grace.
@@ -25,10 +25,10 @@ A force unknown, unseen in days before,
 
 From shadowed thoughts and whispered words of doubt,
 A darkness rose from discontent and pain.
-The {{c|Anti}}-{{c|Alpha}}, born of bitter clout,
-{{c|Sought}} now to break the people’s sacred chain.
+The Anti-{{c|Alpha}}, born of bitter clout,
+Sought now to break the people’s sacred chain.
 
-{{c|Anti}}-{{c|Alpha}}, coming love denied,
+Anti-{{c|Alpha}}, coming love denied,
 {{c|Rejects}} the grace of {{c|Aster}}'s guiding light.
 It twists the heart where hatred can reside,
 And casts her warmth into the endless night.
@@ -36,11 +36,11 @@ And casts her warmth into the endless night.
 From {{c|Aster}}'s love, the people turned away,
 Their envy festered, fueled by bitter lies.
 The bond that held their hearts began to fray,
-As {{c|Anti}}-{{c|Alpha}} darkened hopeful skies.
+As Anti-{{c|Alpha}} darkened hopeful skies.
 
 No longer bound by unity’s embrace,
 The people faltered, torn by cruel divide.
-{{c|Anti}}-{{c|Alpha}}’s cruel venom set the pace,
+Anti-{{c|Alpha}}’s cruel venom set the pace,
 And left the world in chaos to collide.
 
 This sinister force brought hatred and despair,
@@ -48,14 +48,14 @@ It fractured unity with unseen hands.
 The children quarreled, pulled by forces rare,
 And doubt took root within their fertile lands.
 
-The {{c|Anti}}-{{c|Alpha}}’s spread was subtle first,
+The Anti-{{c|Alpha}}’s spread was subtle first,
 It crept within the hearts of those most weak.
 Yet soon enough, its hunger grew to burst,
 And chaos reigned as love turned cold and bleak.
 
 From deep within the shadows, it emerged,
 Its form a twisted mirror of the light.
-As {{c|Anti}}-{{c|Alpha}}'s malice fully surged,
+As Anti-{{c|Alpha}}'s malice fully surged,
 It plunged {{c|Kolob}}'s bright future into night.
 
 The people, torn apart by inner war,

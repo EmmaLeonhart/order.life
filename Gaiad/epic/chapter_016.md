@@ -4,7 +4,7 @@ In marshy cradles, where their voices rang,
 Their stories intertwined, their fates unfurled.
 
 {{c|Arka}}, the fearless, ventured far and wide,
-{{c|Exploring}} {{c|Terra}}'s depths and mysteries;
+Exploring {{c|Terra}}'s depths and mysteries;
 Her courage blazed, a beacon and a guide,
 Upon her path, the sisters placed their pleas.
 
@@ -13,7 +13,7 @@ Faced trials and change with steady resilience;
 In her, the sisters found a fortress sheen,
 A bastion of strength and firm compliance.
 
-{{c|United}}, these descendants of {{c|Bios}}' grace,
+United, these descendants of {{c|Bios}}' grace,
 {{c|Embarked}} upon their journey through the strife;
 With {{c|Arka}}'s questing soul and {{c|Bacta}}'s pace,
 They forged ahead to carve a future life.
@@ -29,9 +29,9 @@ From your own lineage, life shall find rebirth,
 A testament to your creation's plans.
 
 {{c|Arka}}'s domain shall spread with wandering feet,
-{{c|Exploring}} lands unseen by mortal eyes;
+Exploring lands unseen by mortal eyes;
 Her children brave and bold shall fears defeat,
-{{c|Discovering}} where hidden beauty lies.
+Discovering where hidden beauty lies.
 
 And {{c|Bacta}}'s kin, resilient they'll remain,
 {{c|Adapting}} to the ever-changing world;
@@ -73,7 +73,7 @@ In methane's arts her mastery was shown;
 {{c|Halo}} the {{c|Purple}}, with seductive flair,
 Won {{c|Salta}}, {{c|Sol}}, and {{c|Carotenus}}' throne.
 
-{{c|Deep}} purple hues she harnessed from the sun,
+Deep purple hues she harnessed from the sun,
 With {{c|Carotenus}}' colors intertwined;
 In salty realms, her daughters dwelt as one,
 While {{c|Proteus}}' offspring spread unconfined.
@@ -105,11 +105,11 @@ In every deed, in every whispered verse.
 
 With {{c|Luna}}'s elixir waiting in the skies,
 They journeyed forth, their faith forever strong;
-{{c|Awaiting}} when the stars would align their ties,
+Awaiting when the stars would align their ties,
 To drink immortal life and join the song.
 
 Across the cosmos, endless paths they roam,
 The daughters of the {{c|Earth}} and {{c|Moon}} combined;
-{{c|Forever}} seeking, ever moving home,
+Forever seeking, ever moving home,
 Their fates with threads of destiny entwined.
 

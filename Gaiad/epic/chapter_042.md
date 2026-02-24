@@ -25,7 +25,7 @@ Through harmony, not strife.
 
 {{c|Leviathan}} arose,
 Great dragon, friend not foes.
-{{c|Son}} of wicked king {{c|Magog}},
+Son of wicked king {{c|Magog}},
 He ruled through wisdom's log.
 
 Though born of evil seed,
@@ -90,7 +90,7 @@ Their vast complexity,
 
 The sons of {{c|Euka}} came
 From places without name
-{{c|Far}} and wide they traveled
+Far and wide they traveled
 As mysteries unraveled.
 
 {{c|Ordovices}} put to work
@@ -151,7 +151,7 @@ Both humble and divine.
 In every coral branch
 And every firm stanch
 {{c|Foundation}} built with care
-{{c|Lives}} beauty everywhere.
+Lives beauty everywhere.
 
 The shoals of fish so bright
 {{c|Dance}} in the crystal light
@@ -196,7 +196,7 @@ And stole away its breath.
 This boom became the name
 Of GOBE—greatest fame
 The Great {{c|Ordovician}}
-{{c|Event}}, magician
+Event, magician
 
 Of biodiversity
 That brought complexity
@@ -214,13 +214,13 @@ With species old and new
 In evolution's race.
 
 And it would only grow
-{{c|Greater}}, as we know,
+Greater, as we know,
 More prosperous and bright
 Under {{c|Ordovician}} might.
 
 Under the great dynasty
 Of wisdom's sovereignty
-'{{c|Twas}} the first {{c|Golden}} {{c|Age}}
+'Twas the first {{c|Golden}} Age
 In life's eternal page.
 
 The reefs became the heart
@@ -245,7 +245,7 @@ To play its vital role,
 
 Show us how to build
 {{c|Communities}} that yield
-{{c|Prosperity}} for all
+Prosperity for all
 Who answer wisdom's call.
 
 In every living reef
@@ -264,7 +264,7 @@ Of life in all its forms
 Through calm and raging storms.
 
 The {{c|Ordovician}} way
-{{c|Lives}} on to this day
+Lives on to this day
 In every coral city
 Both grand and gritty
 
@@ -283,7 +283,7 @@ But in the gentle word
 That builds instead methodically
 That tears so wreck systematically.
 
-The first {{c|Golden}} {{c|Age}}
+The first {{c|Golden}} Age
 Wrote upon history's page
 The lesson clear and true:
 That what we choose to do
@@ -305,7 +305,7 @@ We find life's truest joy.
 
 The Great {{c|Ordovician}}
 {{c|Biodiversification}}
-{{c|Event}} shows what can come
+Event shows what can come
 When wisdom's ways we sum
 
 Into our daily choice

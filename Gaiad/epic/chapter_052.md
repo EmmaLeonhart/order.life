@@ -10,7 +10,7 @@ Change all for the good.
 
 {{c|Vater}} built a channel
 {{c|Grand}} beyond all span-el
-{{c|Uniting}} liver bright
+Uniting liver bright
 And pancreas in sight
 
 Into his belly's space.
@@ -19,12 +19,12 @@ This channel's honored name:
 "{{c|Ampulla}} of {{c|Vater}}'s" fame.
 
 Such an exalted father,
-{{c|Father}} of more than other
+Father of more than other
 {{c|Men}} could ever dream,
 The {{c|Elohim}}'s esteem
 
 Called him {{c|Abraham}}
-{{c|According}} to their plan
+According to their plan
 For one whose progeny
 Would fill eternity.
 
@@ -119,7 +119,7 @@ From rigid armor's weight
 That sealed their swimming fate.
 
 Where none others could bend
-{{c|Well}} enough to transcend
+Well enough to transcend
 The coral's tight embrace,
 {{c|Thelos}} found his place.
 
@@ -144,7 +144,7 @@ Of his helmet's form,
 Through calm and raging storm.
 
 His head flew as he swam
-{{c|According}} to his plan
+According to his plan
 For stability and grace
 In every watery place.
 
@@ -196,7 +196,7 @@ With wisdom tried and true.
 {{c|Osteos}} built with care
 {{c|Blood}} channels everywhere
 Inside his bones, making
-{{c|Living}}, breathing, taking
+Living, breathing, taking
 
 {{c|Stores}} of minerals
 That worked like generals
@@ -236,7 +236,7 @@ Through harmony, not strife.
 {{c|Ostracos}} bore a host
 Of sons from coast to coast:
 A million who would spread
-{{c|Wherever}} they were led
+Wherever they were led
 
 By life's eternal call
 To multiply for all
@@ -336,7 +336,7 @@ In what life could do.
 From {{c|Vater}}'s ampulla
 To {{c|Gnathus}}' formula
 For crushing with his jaws
-{{c|According}} to new laws,
+According to new laws,
 
 The vertebrates show how
 {{c|Innovation}}'s vow
@@ -356,7 +356,7 @@ Will always come to know
 {{c|New}} heights of what can be
 For all eternity
 When innovation's fire
-{{c|Burns}} with true desire
+Burns with true desire
 
 To make the world more bright
 With new forms that take flight
@@ -411,7 +411,7 @@ For me and you today.
 The jaws that {{c|Gnathus}} made
 Will never ever fade
 From vertebrate design—
-{{c|Protection}} so fine
+Protection so fine
 
 Against the world's hard ways
 {{c|Throughout}} our living days
@@ -450,7 +450,7 @@ Through harmony, not strife.
 
 The world that {{c|Gnathus}} bit
 With jaws of steel and grit
-{{c|Lives}} on in every tooth
+Lives on in every tooth
 That tells the truth
 
 Of how innovation's way

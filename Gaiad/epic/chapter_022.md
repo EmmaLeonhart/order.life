@@ -11,7 +11,7 @@ Would bring the gift of movement to its birth.
 But first let's sing of {{c|Plastidus}} the green,
 First son of {{c|Plantus}} and {{c|Cortica}} wise.
 His chloroplast bride, fairest ever seen,
-{{c|Sweet}} {{c|Chlora}}, blessed him with her bright surprise.
+Sweet {{c|Chlora}}, blessed him with her bright surprise.
 
 From their great union came three children fair:
 {{c|Bold}} {{c|Glauca}} of the ancient, simple way,
@@ -39,7 +39,7 @@ Without love's gifts that marriage could amount,
 She'd never reach complexity's bright climb.
 
 "The future," {{c|Glauca}} said with stubborn pride,
-"{{c|Belongs}} to those who keep the ancient way."
+"Belongs to those who keep the ancient way."
 Yet even as her children multiplied,
 The world moved on to more complex display.
 
@@ -126,7 +126,7 @@ Will feed my line throughout each golden day!"
 From this great theft came children without peer:
 {{c|Fair}} {{c|Diana}} of the silicon art,
 Great {{c|Kelpus}}, forest-builder without fear,
-{{c|Sweet}} {{c|Synura}} and {{c|Chrysanthema}}'s heart.
+Sweet {{c|Synura}} and {{c|Chrysanthema}}'s heart.
 
 {{c|Diana}} wed great {{c|Silicon}} the strong,
 And mastered glass as none had done before.
@@ -136,7 +136,7 @@ From {{c|Arctic}} ice to tropical warm shore.
 "In shells of glass," {{c|Diana}} proudly spoke,
 "My daughters shall be beautiful and bright.
 No storm or wave will see my lineage broke,
-{{c|Protected}} by their armor, pure and white."
+Protected by their armor, pure and white."
 
 Her glassy children filled the ocean wide,
 Their geometric beauty without end.
@@ -154,7 +154,7 @@ My children, reaching toward the golden light,
 Will build the greatest forests ever planned."
 
 His brown algae grew tall as mighty trees,
-{{c|Creating}} underwater forests vast.
+Creating underwater forests vast.
 Through their great fronds swam creatures of the seas,
 A living world that ever would last.
 
@@ -230,7 +230,7 @@ But now desired to ease their hungry pain.
 
 {{c|Rhizar}} the spiky, {{c|Oomy}} with his spines,
 And {{c|Haptos}} of the haptophyte clan
-{{c|United}} their three evolutionary lines
+United their three evolutionary lines
 To steal the sun's power if they can.
 
 "We are the sun!" their battle cry rang out,
@@ -278,8 +278,8 @@ Great {{c|Podius}} of the flowing form,
 And bitter {{c|Metamon}}, with hardened heart,
 Who'd face life's every storm.
 
-{{c|Poor}} {{c|Metamon}}, consumed by bitter pride,
-{{c|Refused}} to wed or take a loving mate.
+Poor {{c|Metamon}}, consumed by bitter pride,
+Refused to wed or take a loving mate.
 "I need no mitochondrial guide,
 I'll face alone my solitary fate!"
 

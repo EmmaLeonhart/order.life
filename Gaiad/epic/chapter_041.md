@@ -30,7 +30,7 @@ To earn eternal fame.
 
 {{c|Hemos}} built a brain
 {{c|Bigger}} than all's remain.
-{{c|Greater}} than all the rest
+Greater than all the rest
 Who ever faced life's test.
 
 He built blood vessels wide
@@ -48,7 +48,7 @@ A line within his place:
 His servants she made red
 To keep his brain well-fed.
 
-{{c|Carriers}} of oxygen bright
+Carriers of oxygen bright
 They carried day and night
 The breath of life so pure
 To make his brain endure.
@@ -71,7 +71,7 @@ To make his future bright:
 "I think I can,
 I think I can,
 I think I can
-{{c|Fulfill}} my plan."
+Fulfill my plan."
 
 And then he flew so free
 Across the boundless sea.
@@ -96,7 +96,7 @@ Like ivory and bone.
 And so {{c|Denton}} became
 The {{c|Eloh}} of great name
 Of {{c|Dentistry}} and {{c|Teeth}}—
-{{c|Protection}} and relief.
+Protection and relief.
 
 To this day we honor
 {{c|Denton}} as our donor
@@ -140,7 +140,7 @@ Through ritual truth.
 
 The holy-mouth-man opens
 Our mouths as faith hopes and
-{{c|Uses}} tools mentioned well
+Uses tools mentioned well
 To break decay's fell spell.
 
 He enlarges every hole
@@ -236,7 +236,7 @@ A new age had begun.
 And so the {{c|Ordovician}}
 Came with great precision.
 The sons of {{c|Conodon}} rose
-{{c|Again}} from their repose
+Again from their repose
 
 To mark this era new
 With teeth both strong and true.
@@ -291,7 +291,7 @@ With greatest expertise.
 The teeth that {{c|Denton}} made
 Will never ever fade
 From vertebrate design—
-{{c|Protection}} so fine
+Protection so fine
 
 Against the world's hard food
 That must be pursued

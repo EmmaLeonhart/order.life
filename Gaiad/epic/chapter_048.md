@@ -30,12 +30,12 @@ Like mausoleums' rooms
 
 Of coal so black and deep
 Where ancestors would sleep.
-{{c|Taking}} {{c|Carbon}} from the air
+Taking {{c|Carbon}} from the air
 But leaving everywhere
 
 {{c|Dioxide}} in the sky
 While {{c|Terra}}'s cloak would fly
-{{c|Away}}, and she grew cold,
+Away, and she grew cold,
 As ancient stories told.
 
 She grew frigid, unwelcoming,
@@ -48,8 +48,8 @@ Her seas began to hide
 Behind the frozen wall
 That answered winter's call.
 
-{{c|Soon}} {{c|Gondwana}} became
-{{c|Nothing}} but ice's claim—
+Soon {{c|Gondwana}} became
+Nothing but ice's claim—
 A wasteland white and stark
 Where none could make their mark.
 
@@ -131,7 +131,7 @@ Where small beauty thrives.
 {{c|Osiris}} bore two more:
 {{c|Polysporos}} to explore
 And {{c|Anthoceros}}, who'd be
-{{c|Living}} peacefully.
+Living peacefully.
 
 {{c|Anthoceros}} became
 The father of the name
@@ -150,7 +150,7 @@ In ages' ancient lore.
 
 The sons of {{c|Lingulus}}
 Died in numbers thus
-{{c|Greater}} than ever known—
+Greater than ever known—
 Their glory overthrown.
 
 {{c|Never}} again would they
@@ -163,7 +163,7 @@ Became oppression's tool,
 The sons of {{c|Metazo}}
 Began once more to grow.
 
-{{c|Alas}} the sons of {{c|Hirnan}}
+Alas the sons of {{c|Hirnan}}
 {{c|Didn}}'t stop their plan
 There, but continued on
 From dusk until dawn
@@ -176,7 +176,7 @@ Before their thorny crown.
 The {{c|Glomerings}} would mine
 The rocks with design
 For fertilizer's sake,
-{{c|Whatever}} it would take
+Whatever it would take
 
 To manufacture tons
 Of phosphorus, and done
@@ -208,7 +208,7 @@ All water, and it smoked
 With death and with decay
 {{c|Throughout}} the night and day.
 
-{{c|Soon}} it was impossible
+Soon it was impossible
 To breathe—the terrible
 {{c|Smell}} of death filled the air
 And poison everywhere
@@ -274,7 +274,7 @@ Of glory in the time
 Of {{c|Ordovician}} rhyme.
 
 And so the golden age
-{{c|Closed}} its final page.
+Closed its final page.
 The {{c|Ordovician}} time
 Was past its living prime.
 
@@ -319,7 +319,7 @@ Not by the weak to strong
 But by those who belong
 
 To elements that can't
-{{c|Survive}} where others grant
+Survive where others grant
 No mercy and no space
 For any other race.
 
@@ -394,7 +394,7 @@ But those who choose to share
 Will find life everywhere
 
 {{c|Ready}} to begin
-{{c|Again}}, and always win
+Again, and always win
 In the end, because love
 Is blessed from above
 
@@ -426,7 +426,7 @@ To live another day
 {{c|Despite}} what greed may do
 To me and you
 And all who call earth home
-{{c|Wherever}} we may roam.
+Wherever we may roam.
 
 The sons of {{c|Stomatos}}
 May think they're glorious
@@ -464,7 +464,7 @@ On all who choose to live
 But never learn to give.
 
 The {{c|Ordovician}} end
-{{c|Reminds}} us to befriend
+Reminds us to befriend
 All life in every form
 Through calm and raging storm
 

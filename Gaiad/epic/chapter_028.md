@@ -39,7 +39,7 @@ As bilateral patterns grew.
 In {{c|Paraxus}}' ancient rhyme.
 
 In youth he lived a nomad's way,
-{{c|Swimming}} through the waves all day.
+Swimming through the waves all day.
 But in his age he crawled the floor
 To graze the sea's abundant store.
 
@@ -77,7 +77,7 @@ And keep his line alive.
 But {{c|Bilateron}} chose the path
 Of greatness and its aftermath.
 He crawled along the ocean floor
-{{c|Seeking}} prey both rich and more.
+Seeking prey both rich and more.
 
 "I need to see," {{c|Bilateron}} said,
 "To hunt for daily bread.
@@ -119,7 +119,7 @@ Who founded lineages rare.
 The {{c|Roscoff}} worms today
 Still follow their ancient way.
 
-{{c|Millions}} swim in the sea
+Millions swim in the sea
 In their algal harmony.
 The farmer and his bride
 Still swim there side by side.
@@ -140,12 +140,12 @@ He built himself a coelom wide
 With room for organs inside.
 
 His kidneys and nephridia
-{{c|Filled}} this new area.
+Filled this new area.
 From ectoderm he brought
 The neural net he taught.
 
 A telegraph network grand
-{{c|Connected}} every part of his land.
+Connected every part of his land.
 Each citizen was tied
 To the network far and wide.
 
@@ -159,7 +159,7 @@ The fairest ever seen.
 Across his body they were spread
 To keep his systems fed.
 
-{{c|Sweet}} {{c|Ikaria}} became his wife,
+Sweet {{c|Ikaria}} became his wife,
 The love of all his life.
 {{c|Together}} they bore {{c|Cambrius}},
 {{c|Bold}} and glorious.
@@ -186,7 +186,7 @@ Along each segment's road.
 
 From this great innovation came
 The bilateral kingdom's fame.
-{{c|Segmentation}}'s art
+Segmentation's art
 Gave animals their start.
 
 No longer simple balls of cells

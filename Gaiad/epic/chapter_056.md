@@ -1,10 +1,10 @@
-# Chapter 56: The {{c|Settler}} {{c|King}}
+# Chapter 56: The Settler {{c|King}}
 
 *{{c|Arboreus}} divides the world between his sons, establishing the great plant dynasties*
 
 ---
 
-## The Great {{c|Division}}
+## The Great Division
 
 When {{c|Arboreus}}, son of {{c|Tracheus}}, claimed  
 His throne among the ancient forest lords,  
@@ -26,7 +26,7 @@ Between two sons to rule with different helm.
 
 ---
 
-## The {{c|Spore}}-{{c|Bearer}}'s {{c|Domain}}
+## The {{c|Spore}}-Bearer's {{c|Domain}}
 
 Great {{c|Lycos}} spread his countless spores abroad
 Like golden powder dancing on the breeze,
@@ -65,7 +65,7 @@ Their microphylls reach tall toward the sky,
 No stomata their surfaces defend -  
 Through roots they breathe, their spores where waters lie.  
 
-{{c|Underground}} their stems in darkness grow  
+Underground their stems in darkness grow  
 While leaves above catch morning's golden glow.  
 
 ---
@@ -92,7 +92,7 @@ That rule the forest's vast complexity.
 
 ---
 
-## The {{c|Line}} of {{c|Pteridos}}
+## The Line of {{c|Pteridos}}
 
 {{c|Pteridos}} the fern-father had two sons:
 {{c|Bold}} {{c|Horsa}} of the puzzlegrass and spear,
@@ -180,7 +180,7 @@ Would leave the sea and claim the land for us.
 
 ---
 
-## The {{c|Settler}}'s {{c|Legacy}}
+## The Settler's {{c|Legacy}}
 
 Thus did {{c|Arboreus}} the settler king  
 {{c|Divide}} the world 'tween spore and megaphyll,  
@@ -198,7 +198,7 @@ The legacy of him who chose to sow
 His kingdom wide remains a sacred trust.  
 
 For in each spore and in each frond unfurled  
-{{c|Lives}} on the dream of his divided world.  
+Lives on the dream of his divided world.  
 
 ---
 
