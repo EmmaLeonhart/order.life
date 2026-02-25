@@ -1537,6 +1537,7 @@ def build_site():
     env.filters["format_number"] = format_number
     env.filters["format_area"] = format_area
     env.filters["wikimedia_thumb"] = wikimedia_thumb
+    env.filters["nl2br"] = lambda s: Markup(str(s).replace("\n", "<br>\n"))
 
     # Clean output (build into a temp dir, then swap in)
     if SITE_TMP_DIR.exists():
