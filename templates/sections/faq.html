@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}{{ t.faq_page.title }}{% endblock %}
+{% block meta_description %}{{ t.faq_page.intro }}{% endblock %}
+{% block og_title %}{{ t.faq_page.title }} — {{ t.site_title }}{% endblock %}
+{% block og_description %}{{ t.faq_page.intro }}{% endblock %}
+{% block twitter_title %}{{ t.faq_page.title }} — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}{{ t.faq_page.intro }}{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ t.faq_page.title }}</h1>
+  <p>{{ t.faq_page.intro }}</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    FAQ
+  </div>
+
+  <div class="section-content faq-list">
+    {% for item in t.faq_page.items %}
+      <div class="faq-item" style="margin-bottom: 2.5rem;">
+        <h3 class="faq-question" style="color: var(--accent-color); margin-bottom: 0.75rem;">{{ item.q }}</h3>
+        <div class="faq-answer">
+          <p>{{ item.a | nl2br | safe }}</p>
+        </div>
+      </div>
+    {% endfor %}
+
+    <div class="section-actions fade-in-up" style="margin-top: 4rem;">
+      <a class="btn" href="{{ base }}/philosophy/">{{ t.nav.philosophy }}</a>
+      <a class="btn" href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
+    </div>
+  </div>
+</div>
+{% endblock %}
