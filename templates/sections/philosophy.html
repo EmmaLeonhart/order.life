@@ -23,9 +23,27 @@
     <h2>{{ t.sections.philosophy.h2_ntp }}</h2>
     <p>{{ t.sections.philosophy.p1 }}</p>
 
+    <h3>{{ t.sections.philosophy.h3_alo }}</h3>
+    <p>{{ t.sections.philosophy.p_alo | safe }}</p>
+    <ul>
+      {% for item in t.sections.philosophy.alo_items %}
+        <li>{{ item | safe }}</li>
+      {% endfor %}
+    </ul>
+
     <h3>{{ t.sections.philosophy.h3_neg }}</h3>
     <blockquote>{{ t.sections.philosophy.quote }}</blockquote>
     <p>{{ t.sections.philosophy.p_neg | safe }}</p>
+
+    <h3>{{ t.sections.philosophy.h3_highest }}</h3>
+    <p>{{ t.sections.philosophy.p_highest | safe }}</p>
+
+    <h3>{{ t.sections.philosophy.h3_salvation }}</h3>
+    <ul>
+      {% for item in t.sections.philosophy.salvation_items %}
+        <li>{{ item | safe }}</li>
+      {% endfor %}
+    </ul>
 
     <h3>{{ t.sections.philosophy.h3_poly }}</h3>
     <p>{{ t.sections.philosophy.p_poly }}</p>
