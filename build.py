@@ -1827,7 +1827,7 @@ def build_site():
             render_page(env, "gaiad/chapter.html", ch_dir / "index.html", ch_ctx)
 
         # ── Section pages ──
-        for section in ["scripture", "mythology", "philosophy", "shrines", "longevity", "evolution", "faq"]:
+        for section in ["scripture", "mythology", "philosophy", "shrines", "longevity", "evolution", "faq", "rituals"]:
             sec_dir = lang_dir / section
             sec_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, f"sections/{section}.html", sec_dir / "index.html", ctx)

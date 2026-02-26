@@ -17,7 +17,8 @@
     "evolution": "Evolution",
     "datepicker": "Date Picker",
     "wiki": "Wiki",
-    "faq": "FAQ"
+    "faq": "FAQ",
+    "rituals": "Rituals"
   },
   "months": {
     "sagittarius": "Sagittarius",
@@ -226,6 +227,10 @@
     "cta_datepicker": "Date Picker",
     "cta_gaian_era": "Gaian Era"
   },
+  "rituals_page": {
+    "title": "Rituals & Practice",
+    "intro": "The observances, practices, and calendar that structure Lifeist spiritual life."
+  },
   "sections": {
     "evolution": {
       "h2_1": "Evolution as Sacred Narrative",
@@ -317,9 +322,31 @@
       ],
       "p_symbol2": "Lifeism uses 命 in place of 神 (kami/god) to centre life itself as the sacred principle.",
       "h3_ritual": "Ritual Practice",
-      "p_ritual": "Shrines host the following practices:",
-      "ritual_items": [
-        "Daily Gaiad readings (one chapter per day of the calendar year)",
+      "p_ritual": "Shrines are the home of Lifeist practice.",
+      "ritual_link": "See the full Rituals page for details."
+    },
+    "rituals": {
+      "h2_calendar": "The Liturgical Calendar",
+      "p_calendar_1": "Lifeism maintains a dense calendar of observances — not to overwhelm, but to create a consistent rhythm that connects practitioners to the year. A regular liturgical calendar makes time feel meaningful: each week, each month, each season carries weight.",
+      "p_calendar_2": "This is the same impulse behind the 28-day month, which divides the year into 13 equal, predictable units. Progress through the year feels tangible when each month is the same length and each date always falls on the same weekday.",
+      "h2_sabbaths": "The Three Sabbaths",
+      "p_sabbaths": "Friday, Saturday, and Sunday form the three Sabbaths — a three-day weekend that unites labor rights with religious inclusion:",
+      "sabbath_items": [
+        "<strong>Saturday</strong> — honoring the Jewish Sabbath tradition",
+        "<strong>Sunday</strong> — honoring the Christian Sabbath tradition",
+        "<strong>Friday</strong> — an extension of the weekend to include the Islamic Jumu'ah tradition, in the same spirit that Saturday was added for Jewish inclusion"
+      ],
+      "p_sabbaths2": "The three-day weekend is simultaneously a labor rights position and an act of religious solidarity. Most Lifeist holidays fall on Sundays.",
+      "h2_solidarity": "Solidarity Holidays",
+      "p_solidarity": "The Gaian year incorporates holidays from Christianity, Judaism, Shinto, Buddhism, Hinduism, Roman religion, and other traditions. These are not copies — they are acts of spiritual solidarity, each grounded in the Gaiad's own scriptural narrative. Celebrating these holidays is a way of honoring the shared human thread that runs through all traditions.",
+      "h2_daily": "Daily Practice",
+      "h3_gaiad": "Daily Gaiad Reading",
+      "p_gaiad": "Each of the 364 days of the Gaian year corresponds to one chapter of the Gaiad. Reading or hearing the day's chapter is the central daily practice — a brief connection to the epic's ongoing narrative of cosmic creation, biological evolution, and human history.",
+      "h3_beads": "Prayer Beads",
+      "p_beads": "Lifeist prayer beads carry 28 beads, one for each day of the Gaian month. A full cycle through all 13 months — 13 passes of the 28 beads — meditates on the entire year. The beads provide a tactile way to mark time and reflect on the month's place in the yearly cycle.",
+      "h2_shrine": "Shrine Practices",
+      "p_shrine": "The following practices are hosted at Myōjingū shrines:",
+      "shrine_items": [
         "Seasonal festivals aligned with the Gaian Calendar",
         "Remembrance rites for the dead",
         "Vow-renewal ceremonies",

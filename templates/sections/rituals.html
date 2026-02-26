@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% block title %}{{ t.rituals_page.title }}{% endblock %}
+{% block meta_description %}{{ t.rituals_page.intro }}{% endblock %}
+{% block og_title %}{{ t.rituals_page.title }} — {{ t.site_title }}{% endblock %}
+{% block og_description %}{{ t.rituals_page.intro }}{% endblock %}
+{% block twitter_title %}{{ t.rituals_page.title }} — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}{{ t.rituals_page.intro }}{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ t.rituals_page.title }}</h1>
+  <p>{{ t.rituals_page.intro }}</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    {{ t.nav.rituals }}
+  </div>
+
+  <div class="section-content">
+    <h2>{{ t.sections.rituals.h2_calendar }}</h2>
+    <p>{{ t.sections.rituals.p_calendar_1 }}</p>
+    <p>{{ t.sections.rituals.p_calendar_2 }}</p>
+
+    <h2>{{ t.sections.rituals.h2_sabbaths }}</h2>
+    <p>{{ t.sections.rituals.p_sabbaths }}</p>
+    <ul>
+      {% for item in t.sections.rituals.sabbath_items %}
+        <li>{{ item | safe }}</li>
+      {% endfor %}
+    </ul>
+    <p>{{ t.sections.rituals.p_sabbaths2 }}</p>
+
+    <h2>{{ t.sections.rituals.h2_solidarity }}</h2>
+    <p>{{ t.sections.rituals.p_solidarity }}</p>
+
+    <h2>{{ t.sections.rituals.h2_daily }}</h2>
+
+    <h3>{{ t.sections.rituals.h3_gaiad }}</h3>
+    <p>{{ t.sections.rituals.p_gaiad }}</p>
+
+    <h3>{{ t.sections.rituals.h3_beads }}</h3>
+    <p>{{ t.sections.rituals.p_beads }}</p>
+
+    <h2>{{ t.sections.rituals.h2_shrine }}</h2>
+    <p>{{ t.sections.rituals.p_shrine }}</p>
+    <ul>
+      {% for item in t.sections.rituals.shrine_items %}
+        <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+
+    <div class="section-actions fade-in-up">
+      <a class="btn" href="{{ base }}/shrines/">{{ t.nav.shrines }}</a>
+      <a class="btn" href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
+      <a class="btn" href="{{ base }}/scripture/">{{ t.nav.scripture }}</a>
+    </div>
+  </div>
+</div>
+{% endblock %}
