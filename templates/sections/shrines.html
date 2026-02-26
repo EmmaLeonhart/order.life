@@ -30,7 +30,7 @@
     <p>{{ t.sections.shrines.p_space }}</p>
     <ul>
       {% for item in t.sections.shrines.space_items %}
-        <li>{{ item }}</li>
+        <li>{{ item | safe }}</li>
       {% endfor %}
     </ul>
 
