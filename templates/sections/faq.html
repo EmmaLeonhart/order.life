@@ -20,7 +20,7 @@
   </div>
 
   <div class="section-content faq-list">
-    {% for item in t.faq_page.items %}
+    {% for item in t.faq_page['items'] %}
       <div class="faq-item" style="margin-bottom: 2.5rem;">
         <h3 class="faq-question" style="color: var(--accent-color); margin-bottom: 0.75rem;">{{ item.q }}</h3>
         <div class="faq-answer">

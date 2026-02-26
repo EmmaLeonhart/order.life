@@ -20,10 +20,18 @@ Generates ~10,800 HTML pages across 9 languages from Jinja2 templates and JSON t
 - Epic chapters in `epic/chapter_NNN.md`
 - Wiki XML export: `lifeism+Wiki-20260209181520.xml` (parsed for day/month content)
 
-### URL Structure (per language)
+### URL Structure
+**CRITICAL: English (`en`) is served at the site ROOT — there is no `/en/` prefix.**
+All other languages use `/{lang}/` subdirectories.
+
 ```
-/{lang}/                              Homepage
-/{lang}/calendar/                     Calendar overview
+/                                     English homepage (NOT /en/)
+/calendar/                            English calendar overview
+/faq/                                 English FAQ (NOT /en/faq/)
+/{section}/                           English section pages
+/wiki/*                               English wiki redirect
+/{lang}/                              Other language homepage
+/{lang}/calendar/                     Other language calendar overview
 /{lang}/calendar/datepicker/          Interactive datepicker
 /{lang}/calendar/gaian-era/           Gaian Era explainer
 /{lang}/calendar/12026/               Year page
@@ -33,10 +41,11 @@ Generates ~10,800 HTML pages across 9 languages from Jinja2 templates and JSON t
 /{lang}/calendar/{month}/{dd}/        Day page (01-28)
 /{lang}/gaiad/                        Gaiad scripture index
 /{lang}/gaiad/{NNN}/                  Gaiad chapter (001-364)
-/{lang}/{section}/                    Section pages (scripture, mythology, philosophy, shrines, longevity, evolution)
+/{lang}/{section}/                    Section pages (scripture, mythology, philosophy, shrines, longevity, evolution, faq)
 /{lang}/wiki/*                        Redirect to lifeism.miraheze.org/wiki/{lang}:*
-/wiki/*                               Redirect to lifeism.miraheze.org/wiki/*
 ```
+
+This is controlled by `DEFAULT_LANG = "en"` in `build.py` (line ~42) and `lang_base()` which returns `""` for English.
 
 ### Wiki Redirects
 - English (`/en/wiki/*` or `/wiki/*`): redirects to `lifeism.miraheze.org/wiki/{title}` (no lang prefix)
@@ -79,7 +88,7 @@ Generates ~10,800 HTML pages across 9 languages from Jinja2 templates and JSON t
 - Sorted by country (alpha) then realm_name (alpha)
 - Images served via Wikimedia Commons `Special:FilePath/{filename}?width={N}`
 - Interactive maps via Leaflet.js with CartoDB Dark tiles; GeoJSON fetched from Commons `jsondata` API
-- English-only for now (`/en/fudoki/` and `/en/fudoki/{QID}/`)
+- English-only for now (`/fudoki/` and `/fudoki/{QID}/`) — English is at root, not /en/
 
 ## Conventions
 - Commit early and often with descriptive messages
