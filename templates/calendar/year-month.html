@@ -1,11 +1,12 @@
 {% extends "base.html" %}
 {% block title %}{{ month_info.symbol }} {{ month_info.name }} — {{ display_year }} {{ t.gaian_era_abbrev }}{% endblock %}
-{% block meta_description %}{{ month_info.name }}, month {{ month_num }} of {{ display_year }} {{ t.gaian_era_abbrev }} — Gaian calendar with world correspondence dates.{% endblock %}
+{% block meta_description %}{{ month_info.name }}, month {{ month_num }} of {{ display_year }} {{ t.gaian_era_abbrev }} — Gaian calendar with Gregorian dates and holiday connections.{% endblock %}
 {% block og_title %}{{ month_info.symbol }} {{ month_info.name }} — {{ display_year }} {{ t.gaian_era_abbrev }}{% endblock %}
 {% block og_description %}{{ month_info.name }}, month {{ month_num }} of {{ display_year }} {{ t.gaian_era_abbrev }}.{% endblock %}
 
 {% block head %}
 <script>const _GY = {{ display_year }}; const _MN = {{ month_num }};</script>
+<link rel="stylesheet" href="/static/css/year-festivals.css">
 {% endblock %}
 
 {% block content %}
@@ -27,14 +28,7 @@
 
   <div class="section-content">
     <p id="ym-intro" style="color:var(--text-muted)">Loading…</p>
-
-    <p style="margin-top:1.5rem;">
-      <a href="{{ base }}/calendar/year/{{ display_year }}/festivals/{{ '%02d' % month_num }}/">Festivals &amp; Gregorian connections for {{ month_info.name }} {{ display_year }} →</a>
-    </p>
-    <p>
-      <a href="{{ base }}/calendar/year/{{ display_year }}/festivals/">All festivals for {{ display_year }} {{ t.gaian_era_abbrev }} →</a>
-    </p>
-    <p>
+    <p style="margin-top:0.8rem;">
       <a href="{{ base }}/calendar/{{ '%02d' % month_num }}/">Perpetual {{ month_info.name }} calendar →</a>
     </p>
   </div>
@@ -52,12 +46,17 @@
     </a>
     {% endfor %}
   </div>
+
+  {# Holiday bridge cards — populated by JS below #}
+  <div id="ym-holidays"></div>
 </div>
 {% endblock %}
 
 {% block scripts %}
+<script src="/static/js/festival-data.js"></script>
 <script>
 (function () {
+  /* ── Gregorian date labels on day cells ── */
   function isoWeek1Start(y) {
     var jan4 = new Date(y, 0, 4);
     var dow = jan4.getDay() || 7;
@@ -71,38 +70,79 @@
     d.setDate(d.getDate() + n);
     return d;
   }
-  var MONTHS_SHORT = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-  var MONTHS_FULL  = ['January','February','March','April','May','June',
-                      'July','August','September','October','November','December'];
+  var MS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  var MF = ['January','February','March','April','May','June',
+            'July','August','September','October','November','December'];
 
-  var isoYear = _GY - 10000;
+  var isoYear   = _GY - 10000;
   var yearStart = isoWeek1Start(isoYear);
-  var isHorus = _MN === 14;
-  var startOffset = isHorus ? 364 : (_MN - 1) * 28;
-  var days = isHorus ? 7 : 28;
-
-  var firstDay = datePlusDays(yearStart, startOffset);
-  var lastDay  = datePlusDays(yearStart, startOffset + days - 1);
+  var isHorus   = _MN === 14;
+  var startOff  = isHorus ? 364 : (_MN - 1) * 28;
+  var days      = isHorus ? 7 : 28;
+  var firstDay  = datePlusDays(yearStart, startOff);
+  var lastDay   = datePlusDays(yearStart, startOff + days - 1);
 
   var sub = document.getElementById('ym-subheading');
   if (sub) sub.textContent =
-    firstDay.getDate() + ' ' + MONTHS_FULL[firstDay.getMonth()] + ' ' + firstDay.getFullYear()
-    + ' – '
-    + lastDay.getDate() + ' ' + MONTHS_FULL[lastDay.getMonth()] + ' ' + lastDay.getFullYear();
+    firstDay.getDate() + ' ' + MF[firstDay.getMonth()] + ' ' + firstDay.getFullYear()
+    + ' \u2013 '
+    + lastDay.getDate() + ' ' + MF[lastDay.getMonth()] + ' ' + lastDay.getFullYear();
 
   var intro = document.getElementById('ym-intro');
   if (intro) intro.innerHTML =
     'In <strong>' + _GY + '\u00a0GE</strong>, this month runs from '
-    + '<strong>' + firstDay.getDate() + '\u00a0' + MONTHS_FULL[firstDay.getMonth()] + '\u00a0' + firstDay.getFullYear() + '</strong>'
-    + ' to '
-    + '<strong>' + lastDay.getDate() + '\u00a0' + MONTHS_FULL[lastDay.getMonth()] + '\u00a0' + lastDay.getFullYear() + '</strong>'
+    + '<strong>' + firstDay.getDate() + '\u00a0' + MF[firstDay.getMonth()] + '\u00a0' + firstDay.getFullYear() + '</strong>'
+    + ' to <strong>' + lastDay.getDate() + '\u00a0' + MF[lastDay.getMonth()] + '\u00a0' + lastDay.getFullYear() + '</strong>'
     + ' (Gregorian).';
 
   for (var d = 1; d <= days; d++) {
-    var gd = datePlusDays(yearStart, startOffset + d - 1);
+    var gd = datePlusDays(yearStart, startOff + d - 1);
     var el = document.getElementById('ym-greg-' + d);
-    if (el) el.textContent = gd.getDate() + ' ' + MONTHS_SHORT[gd.getMonth()];
+    if (el) el.textContent = gd.getDate() + ' ' + MS[gd.getMonth()];
   }
+
+  /* ── Holiday bridge cards ── */
+  var container = document.getElementById('ym-holidays');
+  if (!container) return;
+
+  var exts = (typeof GAIAN_FIXED_EXTENSIONS !== 'undefined') ? GAIAN_FIXED_EXTENSIONS : [];
+  var monthHols = exts.filter(function (h) { return h.month === _MN; });
+  if (!monthHols.length) return;
+
+  var html = '<div style="margin-top:2rem;border-top:1px solid var(--border);padding-top:1.4rem;">'
+           + '<h2 style="font-size:1rem;color:var(--accent);margin:0 0 0.9rem">Holidays</h2>';
+
+  monthHols.forEach(function (hol) {
+    var gd   = datePlusDays(yearStart, startOff + hol.day - 1);
+    var greg = gd.getDate() + '\u00a0' + MF[gd.getMonth()];
+
+    html += '<div class="mfm-row mfm-hol-row">'
+          +   '<div class="mfm-row-main">'
+          +     '<span class="mfm-hname">' + hol.emoji + '\u00a0' + hol.summary + '</span>'
+          +     '<span class="mfm-wd" style="margin-left:auto;opacity:0.6">Day\u00a0' + hol.day + '\u00a0\u00b7\u00a0' + greg + '</span>'
+          +   '</div>';
+
+    if (hol.extensions && hol.extensions.length) {
+      html += '<div class="mfm-bridges">';
+      hol.extensions.forEach(function (ext) {
+        var extGreg = MS[ext.greg_month - 1] + '\u00a0' + ext.greg_day;
+        var qid = ext.qid
+          ? ' <a href="https://www.wikidata.org/wiki/' + ext.qid + '" target="_blank" rel="noopener" class="mfm-qid">' + ext.qid + '</a>'
+          : '';
+        html += '<span class="mfm-bridge">'
+              +   '<span class="mfm-arrow">\u2192</span>'
+              +   '<span class="mfm-bname">' + ext.name + '</span>'
+              +   '<span class="mfm-bdate">' + extGreg + '</span>'
+              +   qid
+              + '</span>';
+      });
+      html += '</div>';
+    }
+    html += '</div>';
+  });
+
+  html += '</div>';
+  container.innerHTML = html;
 })();
 </script>
 {% endblock %}

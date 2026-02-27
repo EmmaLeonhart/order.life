@@ -1763,6 +1763,19 @@ def build_site():
             _wks   = ((_thu - _jan1).days + 7) // 7
             has_horus_ym = (_wks == 53)
 
+            # ── Short-form month pages: /calendar/{year}/{MM}/
+            # Cleaner URL alongside /calendar/year/{year}/{MM}/
+            for m in MONTHS:
+                if m["num"] == 14 and not has_horus_ym:
+                    continue
+                days_in_m = 7 if m["num"] == 14 else 28
+                short_mdir = old_dir / f"{m['num']:02d}"
+                short_mdir.mkdir(parents=True, exist_ok=True)
+                render_page(env, "calendar/year-month.html", short_mdir / "index.html",
+                            {**ctx, "display_year": gaian_year,
+                             "month_num": m["num"], "month_info": m,
+                             "days_in_month_ym": days_in_m})
+
             for m in MONTHS:
                 if m["num"] == 14 and not has_horus_ym:
                     continue
