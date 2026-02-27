@@ -77,7 +77,7 @@
     var nextM = gaianMonth < 13 ? gaianMonth + 1 : null;
 
     function monthHref(m) {
-      return basePath + '/calendar/year/' + gaianYear + '/festivals/' + pad2(m) + '/';
+      return basePath + '/calendar/' + gaianYear + '/festivals/' + pad2(m) + '/';
     }
 
     function pad2(n) { return n < 10 ? '0' + n : '' + n; }
@@ -89,7 +89,7 @@
     } else {
       navHtml += '<span></span>';
     }
-    navHtml += '<a class="mfm-nav-btn mfm-nav-year" href="' + basePath + '/calendar/year/' + gaianYear + '/festivals/">↑ All of ' + gaianYear + '</a>';
+    navHtml += '<a class="mfm-nav-btn mfm-nav-year" href="' + basePath + '/calendar/' + gaianYear + '/festivals/">↑ All of ' + gaianYear + '</a>';
     if (nextM) {
       navHtml += '<a class="mfm-nav-btn" href="' + monthHref(nextM) + '">' + MONTH_SYMBOLS[nextM - 1] + '\u00a0' + MONTH_NAMES[nextM - 1] + ' →</a>';
     } else {
@@ -106,7 +106,7 @@
       var isSab   = (d - 1) % 7 >= 4;          // Fri=4, Sat=5, Sun=6
       var hol     = holByDay[d] || null;
       var gregStr = gd.getDate() + ' ' + GREG_MONTHS_SHORT[gd.getMonth()] + ' ' + gd.getFullYear();
-      var dayHref = basePath + '/calendar/year/' + gaianYear + '/' + pad2(gaianMonth) + '/' + pad2(d) + '/';
+      var dayHref = basePath + '/calendar/' + gaianYear + '/' + pad2(gaianMonth) + '/' + pad2(d) + '/';
 
       if (hol) {
         // ── Holiday row (expanded) ────────────────────────────────────────

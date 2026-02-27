@@ -1726,7 +1726,7 @@ def build_site():
         ge_dir.mkdir(parents=True, exist_ok=True)
         render_page(env, "calendar/gaian-era.html", ge_dir / "index.html", ctx)
 
-        # Year pages — canonical URL: /calendar/year/{gaian_year}/
+        # Year pages — canonical URL: /calendar/{gaian_year}/
         # Pre-generate current Gaian year ±10; all other years are served
         # dynamically via the 404.html client-side router.
         _today      = datetime.date.today()
@@ -1735,26 +1735,39 @@ def build_site():
         YEAR_RANGE  = range(_cur_gaian - 10, _cur_gaian + 11)
         year_dir_root = cal_dir / "year"
         year_dir_root.mkdir(parents=True, exist_ok=True)
+
+        def _yr_redirect(target: str) -> str:
+            return (f'<!DOCTYPE html><html><head><meta charset="UTF-8">'
+                    f'<meta http-equiv="refresh" content="0; url={target}">'
+                    f'<script>window.location.replace({target!r});</script>'
+                    f'</head><body></body></html>')
+
         for gaian_year in YEAR_RANGE:
-            ydir = year_dir_root / str(gaian_year)
-            ydir.mkdir(parents=True, exist_ok=True)
-            render_page(env, "calendar/year.html", ydir / "index.html",
+            # ── Canonical: /calendar/{year}/ ──
+            cdir = cal_dir / str(gaian_year)
+            cdir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "calendar/year.html", cdir / "index.html",
                         {**ctx, "display_year": gaian_year})
-            fdir = ydir / "festivals"
+
+            # ── Canonical: /calendar/{year}/festivals/ ──
+            fdir = cdir / "festivals"
             fdir.mkdir(parents=True, exist_ok=True)
             render_page(env, "calendar/year-festivals.html", fdir / "index.html",
                         {**ctx, "display_year": gaian_year})
-            # Redirect old URL /{lang}/calendar/{year}/ → new canonical
-            old_dir = cal_dir / str(gaian_year)
-            old_dir.mkdir(parents=True, exist_ok=True)
-            target = f"{base}/calendar/year/{gaian_year}/"
-            (old_dir / "index.html").write_text(
-                f'<!DOCTYPE html><html><head><meta charset="UTF-8">'
-                f'<meta http-equiv="refresh" content="0; url={target}">'
-                f'<script>window.location.replace({target!r});</script>'
-                f'</head><body></body></html>', encoding="utf-8")
 
-            # ── Year/month and year/day pages ──
+            # ── Redirect: /calendar/year/{year}/ → /calendar/{year}/ ──
+            ydir = year_dir_root / str(gaian_year)
+            ydir.mkdir(parents=True, exist_ok=True)
+            (ydir / "index.html").write_text(
+                _yr_redirect(f"{base}/calendar/{gaian_year}/"), encoding="utf-8")
+
+            # ── Redirect: /calendar/year/{year}/festivals/ → /calendar/{year}/festivals/ ──
+            yrfdir = ydir / "festivals"
+            yrfdir.mkdir(parents=True, exist_ok=True)
+            (yrfdir / "index.html").write_text(
+                _yr_redirect(f"{base}/calendar/{gaian_year}/festivals/"), encoding="utf-8")
+
+            # ── ISO/Horus detection ──
             iso_year = gaian_year - 10000
             _dec28 = datetime.date(iso_year, 12, 28)
             _dow   = _dec28.isoweekday()
@@ -1763,29 +1776,27 @@ def build_site():
             _wks   = ((_thu - _jan1).days + 7) // 7
             has_horus_ym = (_wks == 53)
 
-            # ── Short-form month pages: /calendar/{year}/{MM}/
-            # Cleaner URL alongside /calendar/year/{year}/{MM}/
             for m in MONTHS:
                 if m["num"] == 14 and not has_horus_ym:
                     continue
                 days_in_m = 7 if m["num"] == 14 else 28
-                short_mdir = old_dir / f"{m['num']:02d}"
-                short_mdir.mkdir(parents=True, exist_ok=True)
-                render_page(env, "calendar/year-month.html", short_mdir / "index.html",
-                            {**ctx, "display_year": gaian_year,
-                             "month_num": m["num"], "month_info": m,
-                             "days_in_month_ym": days_in_m})
 
-            for m in MONTHS:
-                if m["num"] == 14 and not has_horus_ym:
-                    continue
-                days_in_m = 7 if m["num"] == 14 else 28
-                mdir = ydir / f"{m['num']:02d}"
+                # ── Canonical: /calendar/{year}/{MM}/ ──
+                mdir = cdir / f"{m['num']:02d}"
                 mdir.mkdir(parents=True, exist_ok=True)
                 render_page(env, "calendar/year-month.html", mdir / "index.html",
                             {**ctx, "display_year": gaian_year,
                              "month_num": m["num"], "month_info": m,
                              "days_in_month_ym": days_in_m})
+
+                # ── Redirect: /calendar/year/{year}/{MM}/ → /calendar/{year}/{MM}/ ──
+                yr_mdir = ydir / f"{m['num']:02d}"
+                yr_mdir.mkdir(parents=True, exist_ok=True)
+                (yr_mdir / "index.html").write_text(
+                    _yr_redirect(f"{base}/calendar/{gaian_year}/{m['num']:02d}/"),
+                    encoding="utf-8")
+
+                # ── Canonical: /calendar/{year}/{MM}/{DD}/ ──
                 for d in range(1, days_in_m + 1):
                     ddir = mdir / f"{d:02d}"
                     ddir.mkdir(parents=True, exist_ok=True)
@@ -1794,17 +1805,27 @@ def build_site():
                                  "month_num": m["num"], "day_num": d,
                                  "month_info": m})
 
-            # ── Per-month festival pages ──
-            # URL: /calendar/year/{year}/festivals/{MM}/
-            for m in MONTHS:
-                if m["num"] == 14 and not has_horus_ym:
-                    continue
+                    # ── Redirect: /calendar/year/{year}/{MM}/{DD}/ ──
+                    yr_ddir = yr_mdir / f"{d:02d}"
+                    yr_ddir.mkdir(parents=True, exist_ok=True)
+                    (yr_ddir / "index.html").write_text(
+                        _yr_redirect(f"{base}/calendar/{gaian_year}/{m['num']:02d}/{d:02d}/"),
+                        encoding="utf-8")
+
+                # ── Canonical: /calendar/{year}/festivals/{MM}/ ──
                 mfdir = fdir / f"{m['num']:02d}"
                 mfdir.mkdir(parents=True, exist_ok=True)
                 render_page(env, "calendar/year-festivals-month.html",
                             mfdir / "index.html",
                             {**ctx, "display_year": gaian_year,
                              "month_num": m["num"], "month_info": m})
+
+                # ── Redirect: /calendar/year/{year}/festivals/{MM}/ ──
+                yr_mfdir = yrfdir / f"{m['num']:02d}"
+                yr_mfdir.mkdir(parents=True, exist_ok=True)
+                (yr_mfdir / "index.html").write_text(
+                    _yr_redirect(f"{base}/calendar/{gaian_year}/festivals/{m['num']:02d}/"),
+                    encoding="utf-8")
 
         # ── Weekday pages ──
         def week_redirect(target: str) -> str:

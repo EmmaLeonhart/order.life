@@ -418,9 +418,9 @@ function buildFestivalsCalendar(gaianYear) {
   // ── Prose intro ──
   const intro = document.getElementById('year-intro');
   if (intro) {
-    const yearPath   = `${basePath}/calendar/year/${gaianYear}/`;
-    const prevPath   = `${basePath}/calendar/year/${gaianYear - 1}/festivals/`;
-    const nextPath   = `${basePath}/calendar/year/${gaianYear + 1}/festivals/`;
+    const yearPath   = `${basePath}/calendar/${gaianYear}/`;
+    const prevPath   = `${basePath}/calendar/${gaianYear - 1}/festivals/`;
+    const nextPath   = `${basePath}/calendar/${gaianYear + 1}/festivals/`;
     intro.innerHTML =
       `<p><a href="${yearPath}">\u2190 Back to ${gaianYear}\u00a0GE year view</a></p>` +
       `<p class="year-nav">` +
@@ -616,7 +616,7 @@ function buildMonthFestivalsCalendar(gaianYear, gaianMonth) {
   html += prevM
     ? `<a class="mfm-nav-btn" href="${mHref(prevM)}">\u2190 ${GAIAN_MONTH_INFO[prevM-1].symbol}\u00a0${GAIAN_MONTH_INFO[prevM-1].name}</a>`
     : '<span></span>';
-  html += `<a class="mfm-nav-btn mfm-nav-year" href="${basePath}/calendar/year/${gaianYear}/festivals/">\u2191 ${gaianYear}\u00a0GE</a>`;
+  html += `<a class="mfm-nav-btn mfm-nav-year" href="${basePath}/calendar/${gaianYear}/festivals/">\u2191 ${gaianYear}\u00a0GE</a>`;
   html += nextM
     ? `<a class="mfm-nav-btn" href="${mHref(nextM)}">${GAIAN_MONTH_INFO[nextM-1].symbol}\u00a0${GAIAN_MONTH_INFO[nextM-1].name} \u2192</a>`
     : '<span></span>';
@@ -641,7 +641,7 @@ function buildMonthFestivalsCalendar(gaianYear, gaianMonth) {
       }
       const gd      = gregDates[startOffset + d - 1];
       const isToday = today && sameDay(gd, today);
-      const href    = `${basePath}/calendar/year/${gaianYear}/${p2(gaianMonth)}/${p2(d)}/`;
+      const href    = `${basePath}/calendar/${gaianYear}/${p2(gaianMonth)}/${p2(d)}/`;
       const gregStr = gd.getDate() + '\u00a0' + GREG_MONTHS_SHORT[gd.getMonth()];
 
       // Base cell content: moon dot + track bars + day number link

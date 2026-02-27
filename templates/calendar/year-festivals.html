@@ -23,7 +23,7 @@
     <span>›</span>
     <a href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
     <span>›</span>
-    <a href="{{ base }}/calendar/year/{{ display_year }}/">{{ display_year }}</a>
+    <a href="{{ base }}/calendar/{{ display_year }}/">{{ display_year }}</a>
     <span>›</span>
     Festivals
   </div>
@@ -37,7 +37,7 @@
   <div class="mfm-month-nav">
     <p class="mfm-month-nav-label">Zoom into a month:</p>
     {% for m in months %}{% if m.num <= 13 %}
-    <a href="{{ base }}/calendar/year/{{ display_year }}/festivals/{{ '%02d' % m.num }}/"
+    <a href="{{ base }}/calendar/{{ display_year }}/festivals/{{ '%02d' % m.num }}/"
        class="mfm-month-nav-btn">{{ m.symbol }} {{ m.id | title }}</a>
     {% endif %}{% endfor %}
   </div>

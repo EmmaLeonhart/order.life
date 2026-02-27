@@ -20,9 +20,9 @@
     <span>›</span>
     <a href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
     <span>›</span>
-    <a href="{{ base }}/calendar/year/{{ display_year }}/">{{ display_year }} {{ t.gaian_era_abbrev }}</a>
+    <a href="{{ base }}/calendar/{{ display_year }}/">{{ display_year }} {{ t.gaian_era_abbrev }}</a>
     <span>›</span>
-    <a href="{{ base }}/calendar/year/{{ display_year }}/{{ '%02d' % month_num }}/">{{ month_info.name }}</a>
+    <a href="{{ base }}/calendar/{{ display_year }}/{{ '%02d' % month_num }}/">{{ month_info.name }}</a>
     <span>›</span>
     Day {{ day_num }}
   </div>
@@ -34,7 +34,7 @@
       <a href="{{ base }}/calendar/{{ '%02d' % month_num }}/{{ '%02d' % day_num }}/">Perpetual day page →</a>
     </p>
     <p>
-      <a href="{{ base }}/calendar/year/{{ display_year }}/festivals/">Festivals for {{ display_year }} {{ t.gaian_era_abbrev }} →</a>
+      <a href="{{ base }}/calendar/{{ display_year }}/festivals/">Festivals for {{ display_year }} {{ t.gaian_era_abbrev }} →</a>
     </p>
   </div>
 </div>

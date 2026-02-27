@@ -155,9 +155,9 @@ function buildYearCalendar(gaianYear) {
     const passoverLine = passover
       ? `<p>Passover begins on <strong>${fmtMedium(passover)}</strong>.</p>`
       : '';
-    const prevPath = `${basePath}/calendar/year/${gaianYear - 1}/`;
-    const nextPath = `${basePath}/calendar/year/${gaianYear + 1}/`;
-    const festivalsPath = `${basePath}/calendar/year/${gaianYear}/festivals/`;
+    const prevPath = `${basePath}/calendar/${gaianYear - 1}/`;
+    const nextPath = `${basePath}/calendar/${gaianYear + 1}/`;
+    const festivalsPath = `${basePath}/calendar/${gaianYear}/festivals/`;
 
     intro.innerHTML =
       `<p><strong>${gaianYear}\u00a0GE</strong> is ${yearType}.</p>`
