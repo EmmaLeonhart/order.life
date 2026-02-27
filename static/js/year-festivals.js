@@ -492,11 +492,236 @@ function buildFestivalsCalendar(gaianYear) {
   buildExtensionsSection(gaianYear, container, gregDates);
 }
 
+// ── Month view ───────────────────────────────────────────────────────────────
+/**
+ * Renders a single-month visual calendar with full festival track bars
+ * and gold bridge bars connecting Gaian holiday positions to the Gregorian
+ * equivalent dates within the same month.
+ * Reads GAIAN_YEAR, GAIAN_MONTH, window.LANG_BASE. Renders into #year-calendar.
+ */
+function buildMonthFestivalsCalendar(gaianYear, gaianMonth) {
+  const isoYear   = gaianYear - 10000;
+  const yearStart = isoWeek1Start(isoYear);
+  const totalDays = isoWeeksInYear(isoYear) * 7;
+  const yearEnd   = datePlusDays(yearStart, totalDays - 1);
+  const easter    = easterDate(isoYear);
+  const basePath  = window.LANG_BASE || '';
+
+  const todayRaw = new Date(); todayRaw.setHours(0, 0, 0, 0);
+  const thu = new Date(todayRaw);
+  thu.setDate(todayRaw.getDate() + (4 - (todayRaw.getDay() || 7)));
+  const today = (thu.getFullYear() + 10000) === gaianYear ? todayRaw : null;
+
+  const gregDates = [];
+  for (let i = 0; i < totalDays; i++) gregDates.push(datePlusDays(yearStart, i));
+
+  const fullMoons = fullMoonsInRange(yearStart, yearEnd);
+
+  function gy(table, yr) { const e = table[yr]; return e ? new Date(yr, e[0], e[1]) : null; }
+  function findInRange(table, build) {
+    for (const yr of [isoYear-1, isoYear, isoYear+1]) {
+      const d = build(table, yr);
+      if (d && d >= yearStart && d <= yearEnd) return d;
+    }
+    return null;
+  }
+  function findIslamicInRange(field) {
+    for (const yr of [isoYear-1, isoYear, isoYear+1]) {
+      const e = ISLAMIC_GY[yr]; if (!e) continue;
+      const [y, m, d] = e[field];
+      const date = new Date(y, m, d);
+      if (date >= yearStart && date <= yearEnd) return date;
+    }
+    return null;
+  }
+  const passover      = findInRange(PASSOVER_GY,  (t, y) => gy(t, y));
+  const cny           = findInRange(CNY_GY,        (t, y) => gy(t, y));
+  const lantern       = cny ? datePlusDays(cny, 14) : null;
+  const hanukkahStart = findInRange(HANUKKAH_GY,  (t, y) => gy(t, y));
+  const diwali        = findInRange(DIWALI_GY,    (t, y) => gy(t, y));
+  const islamicRam    = findIslamicInRange('ram');
+  const islamicFitr   = findIslamicInRange('fitr');
+  const islamicAdha   = findIslamicInRange('adha');
+  const yearData = { passover, easter, cny, lantern, hanukkahStart,
+                     islamicRam, islamicFitr, islamicAdha, diwali, today };
+
+  const startOffset = gaianMonth <= 13 ? (gaianMonth - 1) * 28 : 364;
+  const daysInMonth = gaianMonth === 14 ? 7 : 28;
+
+  // Subheading
+  const firstGreg = gregDates[startOffset];
+  const lastGreg  = gregDates[startOffset + daysInMonth - 1];
+  const sub = document.getElementById('ym-subheading');
+  if (sub) sub.textContent =
+    firstGreg.getDate() + '\u00a0' + GREG_MONTHS_FULL[firstGreg.getMonth()] + '\u00a0' + firstGreg.getFullYear()
+    + ' \u2013 '
+    + lastGreg.getDate() + '\u00a0' + GREG_MONTHS_FULL[lastGreg.getMonth()] + '\u00a0' + lastGreg.getFullYear();
+
+  // ── Bridge computation ──────────────────────────────────────────────────
+  // For each Gaian holiday in this month with Gregorian extensions, find
+  // which day in this month the extension date falls on, then mark every
+  // day in that span so we can render gold bars across those cells.
+  const bridges = [];
+  if (typeof GAIAN_FIXED_EXTENSIONS !== 'undefined') {
+    GAIAN_FIXED_EXTENSIONS.forEach(hol => {
+      if (hol.month !== gaianMonth) return;
+      hol.extensions.forEach(ext => {
+        let extDay = null;
+        for (let d = 1; d <= daysInMonth; d++) {
+          const gd = gregDates[startOffset + d - 1];
+          if (gd.getMonth() + 1 === ext.greg_month && gd.getDate() === ext.greg_day) {
+            extDay = d; break;
+          }
+        }
+        bridges.push({ holDay: hol.day, extDay, holName: hol.emoji + ' ' + hol.summary,
+                       extName: ext.name, extGregM: ext.greg_month, extGregD: ext.greg_day,
+                       qid: ext.qid });
+      });
+    });
+  }
+
+  // bridgeBars[day] = [{status, label}]
+  const bridgeBars = {};
+  bridges.forEach(b => {
+    const extStr = GREG_MONTHS_SHORT[b.extGregM - 1] + '\u00a0' + b.extGregD;
+    const label  = b.holName + ' \u2192 ' + b.extName + ' (' + extStr + ')';
+    if (b.extDay === null) {
+      // Extension date falls outside this month — dot on the holiday cell only
+      if (!bridgeBars[b.holDay]) bridgeBars[b.holDay] = [];
+      bridgeBars[b.holDay].push({ status: 'dot', label: label + ' (other month)', outside: true });
+      return;
+    }
+    const a = Math.min(b.holDay, b.extDay);
+    const z = Math.max(b.holDay, b.extDay);
+    for (let d = a; d <= z; d++) {
+      if (!bridgeBars[d]) bridgeBars[d] = [];
+      const status = (a === z) ? 'dot' : (d === a ? 'start' : (d === z ? 'end' : 'mid'));
+      bridgeBars[d].push({ status, label });
+    }
+  });
+
+  // ── HTML assembly ────────────────────────────────────────────────────────
+  const container = document.getElementById('year-calendar');
+  if (!container) return;
+
+  const prevM = gaianMonth > 1  ? gaianMonth - 1 : null;
+  const nextM = gaianMonth < 13 ? gaianMonth + 1 : null;
+  const mHref = m => `${basePath}/calendar/${gaianYear}/${m < 10 ? '0' : ''}${m}/`;
+  const p2 = n => n < 10 ? '0' + n : '' + n;
+
+  let html = '';
+
+  // Navigation
+  html += '<div class="mfm-nav">';
+  html += prevM
+    ? `<a class="mfm-nav-btn" href="${mHref(prevM)}">\u2190 ${GAIAN_MONTH_INFO[prevM-1].symbol}\u00a0${GAIAN_MONTH_INFO[prevM-1].name}</a>`
+    : '<span></span>';
+  html += `<a class="mfm-nav-btn mfm-nav-year" href="${basePath}/calendar/year/${gaianYear}/festivals/">\u2191 ${gaianYear}\u00a0GE</a>`;
+  html += nextM
+    ? `<a class="mfm-nav-btn" href="${mHref(nextM)}">${GAIAN_MONTH_INFO[nextM-1].symbol}\u00a0${GAIAN_MONTH_INFO[nextM-1].name} \u2192</a>`
+    : '<span></span>';
+  html += '</div>';
+
+  // Calendar table
+  html += '<div class="year-cal-wrap"><table class="gfc-table"><thead><tr>';
+  for (let wi = 0; wi < 7; wi++) {
+    html += `<th class="${IS_SABBATH[wi] ? 'gyear-sab' : ''}">${WD_PLANETS[wi]}<br>${WD_ABBR[wi]}</th>`;
+  }
+  html += '</tr></thead><tbody>';
+
+  const numRows = Math.ceil(daysInMonth / 7);
+  for (let row = 0; row < numRows; row++) {
+    html += '<tr>';
+    for (let wi = 0; wi < 7; wi++) {
+      const d    = row * 7 + wi + 1;
+      const isSab = IS_SABBATH[wi];
+      if (d > daysInMonth) {
+        html += `<td class="gyear-empty${isSab ? ' gyear-sab' : ''}"></td>`;
+        continue;
+      }
+      const gd      = gregDates[startOffset + d - 1];
+      const isToday = today && sameDay(gd, today);
+      const href    = `${basePath}/calendar/year/${gaianYear}/${p2(gaianMonth)}/${p2(d)}/`;
+      const gregStr = gd.getDate() + '\u00a0' + GREG_MONTHS_SHORT[gd.getMonth()];
+
+      // Base cell content: moon dot + track bars + day number link
+      const baseCell = buildCell(gd, d, href, yearData, fullMoons);
+
+      // Holiday annotation (only for bridge holidays)
+      const holInfo = (typeof GAIAN_FIXED_EXTENSIONS !== 'undefined')
+        ? GAIAN_FIXED_EXTENSIONS.find(h => h.month === gaianMonth && h.day === d)
+        : null;
+      const holHtml = holInfo
+        ? `<div class="gfc-hol" title="${holInfo.summary}">${holInfo.emoji}\u00a0${holInfo.summary}</div>`
+        : '';
+
+      // Bridge bars for this cell
+      const bars = (bridgeBars[d] || []).map(b =>
+        `<div class="gfc-bridge t-${b.status}${b.outside ? ' gfc-bridge-out' : ''}" title="${b.label}"></div>`
+      ).join('');
+
+      const tdCls = ['gfc-cell', 'fd-cell',
+        isSab   ? 'gyear-sab'   : '',
+        isToday ? 'gyear-today' : ''].filter(Boolean).join(' ');
+
+      html += `<td class="${tdCls}">${baseCell}<div class="gfc-greg">${gregStr}</div>${holHtml}${bars}</td>`;
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table></div>';
+
+  // Bridge legend
+  const visibleBridges = bridges.filter(b => b.extDay !== null);
+  if (visibleBridges.length) {
+    html += '<div class="gfc-bridge-legend">';
+    html += '<h3 class="gfe-heading" style="margin-top:1.5rem">Gaian \u2194 Gregorian Bridges</h3>';
+    visibleBridges.forEach(b => {
+      const holGd   = gregDates[startOffset + b.holDay - 1];
+      const holGreg = holGd.getDate() + '\u00a0' + GREG_MONTHS_SHORT[holGd.getMonth()];
+      const extGd   = gregDates[startOffset + b.extDay - 1];
+      const extGreg = extGd.getDate() + '\u00a0' + GREG_MONTHS_SHORT[extGd.getMonth()];
+      const extStr  = GREG_MONTHS_SHORT[b.extGregM - 1] + '\u00a0' + b.extGregD;
+      const qidHtml = b.qid
+        ? ` <a href="https://www.wikidata.org/wiki/${b.qid}" target="_blank" rel="noopener" class="gfe-qid">${b.qid}</a>`
+        : '';
+      html += `<div class="gfc-bridge-item">`
+            + `<span class="gfc-bridge-swatch"></span>`
+            + `<strong>${b.holName}</strong>`
+            + ` \u00b7 Day\u00a0${b.holDay} (${holGreg})`
+            + ` <span class="gfe-arrow">\u2192</span> `
+            + `<em>${b.extName}</em> ${extStr} = Day\u00a0${b.extDay} (${extGreg})`
+            + qidHtml
+            + `</div>`;
+    });
+    html += '</div>';
+  }
+
+  // Festival legend
+  html += `<div class="fest-legend" style="margin-top:1rem">
+    <div class="fest-legend-item"><span class="leg-dot" style="background:#aaa"></span> Full moon</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#cc3333"></span> Chinese New Year \u2192 Lantern</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#3a6dbf"></span> Purim \u2192 Sukkot</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#88aaee"></span> Hanukkah</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#cc6600"></span> Ash Wednesday \u2192 Pentecost</div>
+    <div class="fest-legend-item"><span class="leg-bar" style="background:#228855"></span> Ramadan \u2192 Eid al-Fitr \u00b7 Eid al-Adha</div>
+    <div class="fest-legend-item"><span class="leg-dot" style="background:#9933bb"></span> Diwali</div>
+    ${visibleBridges.length ? '<div class="fest-legend-item"><span class="leg-bar" style="background:#d4a017"></span> Gaian \u2194 Gregorian bridge</div>' : ''}
+  </div>`;
+
+  container.innerHTML = html;
+}
+
+// ── Entry point ──────────────────────────────────────────────────────────────
 // Run: use template-injected constant, or fall back to reading the year from the URL.
 (function () {
   var yr = (typeof GAIAN_YEAR !== 'undefined') ? GAIAN_YEAR : (function () {
-    var m = window.location.pathname.match(/\/calendar\/year\/(\d+)\//);
+    var m = window.location.pathname.match(/\/calendar\/(?:year\/)?(\d{5,})\//);
     return m ? parseInt(m[1], 10) : null;
   })();
-  if (yr) buildFestivalsCalendar(yr);
+  if (!yr) return;
+  if (typeof GAIAN_MONTH !== 'undefined' && GAIAN_MONTH) {
+    buildMonthFestivalsCalendar(yr, GAIAN_MONTH);
+  } else {
+    buildFestivalsCalendar(yr);
+  }
 })();
