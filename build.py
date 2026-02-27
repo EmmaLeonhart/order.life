@@ -750,6 +750,15 @@ _CHAPTER_SUMMARIES = {
     for k, v in _GAIAN_DAYS.get("chapter_summaries", {}).items()
 }
 
+# Gregorian extensions keyed by (month, day) — links Gaian holidays to their
+# Gregorian counterparts. Each entry is a list of dicts with keys:
+#   name, greg_month, greg_day, and optionally qid.
+_GAIAN_EXTENSIONS = {
+    (h["month"], h["day"]): h["extensions"]
+    for h in _GAIAN_DAYS["holidays"]
+    if "extensions" in h
+}
+
 
 def _ordinal(n):
     """Return '1st', '2nd', '3rd', '4th', etc."""
@@ -1677,6 +1686,7 @@ def build_site():
                 "emoji": h.get("emoji", "\U0001F4C5"),
                 "slug": h.get("slug"),
                 "href": f"{base}/calendar/{mnum:02d}/{dnum:02d}/",
+                "extensions": h.get("extensions", []),
             })
         holidays_for_page.sort(key=lambda x: (x["month_num"], x["day_num"], x["summary"]))
 
@@ -1842,6 +1852,7 @@ def build_site():
                     "has_chapter": doy in chapters if doy <= 364 else False,
                     "chapter_summary": _CHAPTER_SUMMARIES.get(doy) if doy <= 364 else None,
                     "day_note": _CUSTOM_DAY_NOTES.get((m["num"], d), ""),
+                    "day_extensions": _GAIAN_EXTENSIONS.get((m["num"], d), []),
                     "weekday_num": ((d - 1) % 7) + 1,
                     "weekday_data": WEEKDAYS[((d - 1) % 7)],
                     "wiki_day_intro": wiki_day.get("intro"),
