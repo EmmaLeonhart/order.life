@@ -6,6 +6,82 @@
 {% block twitter_title %}{{ month.symbol }} {{ month_display_name }} — {{ t.calendar_page.title }}{% endblock %}
 {% block twitter_description %}{{ t.month }} {{ month.num }} of the {{ t.calendar_page.title }}. {{ days_in_month }} {{ t.days }} · {{ t['element_' + month.element] }}. {{ t.calendar_page.structure }}{% endblock %}
 
+{% block head %}
+<style>
+.month-holiday-name {
+  font-size: 0.62rem;
+  color: var(--accent);
+  display: block;
+  line-height: 1.2;
+  margin-top: 1px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+/* Holidays with extensions section */
+.month-holidays-list {
+  margin-top: 1.8rem;
+}
+.month-holidays-list h2 {
+  font-size: 1rem;
+  color: var(--accent);
+  margin: 0 0 0.8rem;
+}
+.month-hol-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem 0.6rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.07);
+}
+.month-hol-name {
+  font-weight: 600;
+  color: var(--link);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+.month-hol-name:hover { color: var(--link-hover); }
+.month-hol-day {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+.hol-ext-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.25rem;
+  width: 100%;
+}
+.hol-ext-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: rgba(255,215,0,0.07);
+  border: 1px solid rgba(255,215,0,0.2);
+  border-radius: 6px;
+  padding: 0.15rem 0.5rem;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+.hol-ext-arrow { opacity: 0.4; }
+.hol-ext-name { color: rgba(255,215,0,0.85); }
+.hol-ext-date { opacity: 0.7; font-size: 0.75rem; }
+.hol-ext-qid {
+  color: var(--text-muted);
+  font-size: 0.7rem;
+  opacity: 0.5;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 3px;
+  padding: 0 0.25rem;
+  text-decoration: none;
+  transition: opacity 0.15s, border-color 0.15s;
+}
+.hol-ext-qid:hover { opacity: 1; border-color: var(--accent); color: var(--accent); }
+</style>
+{% endblock %}
+
 {% block content %}
 <div class="section-hero" style="border-left: 4px solid {{ element.color }};">
   <h1>{{ month.symbol }} {{ month_display_name }}</h1>
@@ -60,14 +136,49 @@
 
     {% for d in range(1, days_in_month + 1) %}
     {% set doy = (month.num - 1) * 28 + d if month.num <= 13 else 364 + d %}
+    {% set hol = month_holidays.get(d) %}
     <a href="{{ base }}/calendar/{{ '%02d' % month.num }}/{{ '%02d' % d }}/"
        class="day-cell{% if gaian_today.month == month.num and gaian_today.day == d %} today{% endif %}">
-      <span class="day-number">{{ d }}</span>
+      <span class="day-number">{% if hol %}{{ hol.emoji }} {% endif %}{{ d }}</span>
       {% if doy <= 364 %}
       <span class="day-chapter">{{ t.gaiad }} {{ doy }}</span>
+      {% endif %}
+      {% if hol %}
+      <span class="month-holiday-name">{{ hol.summary }}</span>
       {% endif %}
     </a>
     {% endfor %}
   </div>
+
+  {# Holidays list with Gregorian extensions #}
+  {% set GREG_MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"] %}
+  {% set holidays_with_ext = month_holidays.items() | selectattr('1.extensions') | list %}
+  {% if month_holidays %}
+  <div class="month-holidays-list">
+    <h2>Holidays</h2>
+    {% for day_num, hol in month_holidays.items() | sort %}
+    <div class="month-hol-item">
+      <a href="{{ base }}/calendar/{{ '%02d' % month.num }}/{{ '%02d' % day_num }}/"
+         class="month-hol-name">{{ hol.emoji }} {{ hol.summary }}</a>
+      <span class="month-hol-day">Day {{ day_num }}</span>
+      {% if hol.extensions %}
+      <div class="hol-ext-badges">
+        {% for ext in hol.extensions %}
+        <span class="hol-ext-badge">
+          <span class="hol-ext-arrow">→</span>
+          <span class="hol-ext-name">{{ ext.name }}</span>
+          <span class="hol-ext-date">{{ GREG_MONTHS[ext.greg_month - 1] }} {{ ext.greg_day }}</span>
+          {% if ext.qid %}
+          <a href="https://www.wikidata.org/wiki/{{ ext.qid }}" target="_blank" rel="noopener"
+             class="hol-ext-qid" title="Wikidata: {{ ext.qid }}">{{ ext.qid }}</a>
+          {% endif %}
+        </span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
 </div>
 {% endblock %}

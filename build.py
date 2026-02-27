@@ -1413,6 +1413,20 @@ def generate_festival_data_js(static_dst):
         ",\n".join(islamic_rows),
         "};",
         "",
+        "// Fixed Gaian holidays with Gregorian calendar extensions.",
+        "// month/day are Gaian (perpetual). extensions link to real-world holidays.",
+        "const GAIAN_FIXED_EXTENSIONS = " + json.dumps([
+            {
+                "month": h["month"],
+                "day": h["day"],
+                "emoji": h.get("emoji", ""),
+                "summary": h["summary"],
+                "extensions": h["extensions"],
+            }
+            for h in _GAIAN_DAYS["holidays"]
+            if h.get("summary") and h.get("extensions")
+        ], ensure_ascii=False) + ";",
+        "",
     ]
     js = "\n".join(js_lines)
 
@@ -1829,6 +1843,15 @@ def build_site():
                 "wiki_overview": wiki_month.get("overview"),
                 "month_theme_title": theme[0] if theme else None,
                 "month_theme_desc": theme[1] if theme else None,
+                "month_holidays": {
+                    h["day"]: {
+                        "summary": h["summary"],
+                        "emoji": h.get("emoji", ""),
+                        "extensions": h.get("extensions", []),
+                    }
+                    for h in _GAIAN_DAYS["holidays"]
+                    if h["month"] == m["num"] and h.get("summary")
+                },
             }
             render_page(env, "calendar/month.html", month_dir / "index.html", month_ctx)
 

@@ -290,6 +290,56 @@ function buildCell(gd, dayInMonth, href, yearData, fullMoonSet) {
   );
 }
 
+// ── Gaian fixed holiday extensions section ───────────────────────────────────
+/**
+ * Renders the "Gaian Fixed Holidays" section showing each fixed Gaian holiday
+ * with its Gregorian extension bridges and clickable Wikidata QIDs.
+ * Appended to the container element after the main calendar table.
+ */
+function buildExtensionsSection(gaianYear, container, gregDates) {
+  if (typeof GAIAN_FIXED_EXTENSIONS === 'undefined' || !GAIAN_FIXED_EXTENSIONS.length) return;
+
+  const basePath = window.LANG_BASE || '';
+  const GREG_MONTHS_SHORT_LC = ['Jan','Feb','Mar','Apr','May','Jun',
+                                 'Jul','Aug','Sep','Oct','Nov','Dec'];
+  const GAIAN_MONTH_NAMES = ['Sagittarius','Capricorn','Aquarius','Pisces','Aries','Taurus',
+                               'Gemini','Cancer','Leo','Virgo','Libra','Scorpius','Ophiuchus','Horus'];
+
+  const rows = GAIAN_FIXED_EXTENSIONS.map(h => {
+    const dayOfYear = (h.month - 1) * 28 + h.day;
+    const gregDate  = gregDates[dayOfYear - 1];
+    const gregStr   = gregDate
+      ? `${GREG_MONTHS_SHORT_LC[gregDate.getMonth()]} ${gregDate.getDate()}`
+      : '';
+    const monthName = GAIAN_MONTH_NAMES[h.month - 1] || '';
+    const href = `${basePath}/calendar/${String(h.month).padStart(2,'0')}/${String(h.day).padStart(2,'0')}/`;
+
+    const extBadges = h.extensions.map(ext => {
+      const greg = `${GREG_MONTHS_SHORT_LC[ext.greg_month - 1]} ${ext.greg_day}`;
+      const qidHtml = ext.qid
+        ? `<a href="https://www.wikidata.org/wiki/${ext.qid}" target="_blank" rel="noopener" class="gfe-qid">${ext.qid}</a>`
+        : '';
+      return `<span class="gfe-badge"><span class="gfe-arrow">→</span><span class="gfe-ext-name">${ext.name}</span><span class="gfe-ext-date">${greg}</span>${qidHtml}</span>`;
+    }).join('');
+
+    return `<div class="gfe-item">
+      <div class="gfe-head">
+        <a href="${href}" class="gfe-name">${h.emoji} ${h.summary}</a>
+        <span class="gfe-gaian">${monthName} ${h.day}${gregStr ? ` · ${gregStr} (${gaianYear} GE)` : ''}</span>
+      </div>
+      <div class="gfe-badges">${extBadges}</div>
+    </div>`;
+  });
+
+  const section = document.createElement('div');
+  section.className = 'gfe-section';
+  section.innerHTML =
+    `<h2 class="gfe-heading">Fixed Gaian Holidays — Gregorian Connections</h2>` +
+    `<p class="gfe-sub">These Gaian holidays have fixed positions in the perpetual calendar and are linked to corresponding Gregorian observances.</p>` +
+    rows.join('');
+  container.appendChild(section);
+}
+
 // ── Main builder ─────────────────────────────────────────────────────────────
 function buildFestivalsCalendar(gaianYear) {
   const isoYear  = gaianYear - 10000;
@@ -437,6 +487,9 @@ function buildFestivalsCalendar(gaianYear) {
   }
   html.push('</tbody></table></div>');
   container.innerHTML = html.join('');
+
+  // ── Fixed Gaian holidays section ──
+  buildExtensionsSection(gaianYear, container, gregDates);
 }
 
 // Run: use template-injected constant, or fall back to reading the year from the URL.
