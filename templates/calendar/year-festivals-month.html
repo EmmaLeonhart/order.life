@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block title %}{{ month_info.symbol }} {{ month_info.name }} — {{ display_year }} {{ t.gaian_era_abbrev }} Festivals{% endblock %}
+{% block meta_description %}Festivals for {{ month_info.name }}, month {{ month_num }} of {{ display_year }} {{ t.gaian_era_abbrev }} — Gaian holidays and Gregorian calendar connections.{% endblock %}
+{% block og_title %}{{ month_info.symbol }} {{ month_info.name }} — {{ display_year }} {{ t.gaian_era_abbrev }} Festivals{% endblock %}
+{% block og_description %}Festivals for {{ month_info.name }}, month {{ month_num }} of {{ display_year }} {{ t.gaian_era_abbrev }}.{% endblock %}
+{% block twitter_title %}{{ month_info.symbol }} {{ month_info.name }} — {{ display_year }} {{ t.gaian_era_abbrev }} Festivals{% endblock %}
+{% block twitter_description %}Festivals for {{ month_info.name }}, month {{ month_num }} of {{ display_year }} {{ t.gaian_era_abbrev }}.{% endblock %}
+
+{% block head %}
+<script>
+  const GAIAN_YEAR  = {{ display_year }};
+  const GAIAN_MONTH = {{ month_num }};
+  window.LANG_BASE  = {{ base | tojson }};
+</script>
+<link rel="stylesheet" href="/static/css/year-festivals.css">
+{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ month_info.symbol }} {{ month_info.name }} — {{ display_year }} {{ t.gaian_era_abbrev }}</h1>
+  <p id="mfm-subheading" style="color:var(--text-muted);font-size:0.9rem">Loading…</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="{{ base }}/calendar/">{{ t.nav.calendar }}</a>
+    <span>›</span>
+    <a href="{{ base }}/calendar/year/{{ display_year }}/">{{ display_year }} {{ t.gaian_era_abbrev }}</a>
+    <span>›</span>
+    <a href="{{ base }}/calendar/year/{{ display_year }}/festivals/">Festivals</a>
+    <span>›</span>
+    {{ month_info.name }}
+  </div>
+
+  <div id="mfm-container">
+    <p style="color:var(--text-muted)">Loading…</p>
+  </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="/static/js/festival-data.js"></script>
+<script src="/static/js/year-festivals-month.js"></script>
+{% endblock %}

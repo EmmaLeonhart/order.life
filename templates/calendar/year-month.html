@@ -29,7 +29,10 @@
     <p id="ym-intro" style="color:var(--text-muted)">Loading…</p>
 
     <p style="margin-top:1.5rem;">
-      <a href="{{ base }}/calendar/year/{{ display_year }}/festivals/">Festivals &amp; world calendars for {{ display_year }} {{ t.gaian_era_abbrev }} →</a>
+      <a href="{{ base }}/calendar/year/{{ display_year }}/festivals/{{ '%02d' % month_num }}/">Festivals &amp; Gregorian connections for {{ month_info.name }} {{ display_year }} →</a>
+    </p>
+    <p>
+      <a href="{{ base }}/calendar/year/{{ display_year }}/festivals/">All festivals for {{ display_year }} {{ t.gaian_era_abbrev }} →</a>
     </p>
     <p>
       <a href="{{ base }}/calendar/{{ '%02d' % month_num }}/">Perpetual {{ month_info.name }} calendar →</a>

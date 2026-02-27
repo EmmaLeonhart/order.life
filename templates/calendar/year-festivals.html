@@ -34,6 +34,14 @@
 
   <div id="year-calendar"></div>
 
+  <div class="mfm-month-nav">
+    <p class="mfm-month-nav-label">Zoom into a month:</p>
+    {% for m in months %}{% if m.num <= 13 %}
+    <a href="{{ base }}/calendar/year/{{ display_year }}/festivals/{{ '%02d' % m.num }}/"
+       class="mfm-month-nav-btn">{{ m.symbol }} {{ m.id | title }}</a>
+    {% endif %}{% endfor %}
+  </div>
+
   <div class="fest-legend">
     <div class="fest-legend-item"><span class="leg-dot" style="background:#aaa"></span> Full moon</div>
     <div class="fest-legend-item"><span class="leg-bar" style="background:#cc3333"></span> Chinese New Year → Lantern Festival</div>
