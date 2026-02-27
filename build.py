@@ -1781,6 +1781,18 @@ def build_site():
                                  "month_num": m["num"], "day_num": d,
                                  "month_info": m})
 
+            # ── Per-month festival pages ──
+            # URL: /calendar/year/{year}/festivals/{MM}/
+            for m in MONTHS:
+                if m["num"] == 14 and not has_horus_ym:
+                    continue
+                mfdir = fdir / f"{m['num']:02d}"
+                mfdir.mkdir(parents=True, exist_ok=True)
+                render_page(env, "calendar/year-festivals-month.html",
+                            mfdir / "index.html",
+                            {**ctx, "display_year": gaian_year,
+                             "month_num": m["num"], "month_info": m})
+
         # ── Weekday pages ──
         def week_redirect(target: str) -> str:
             return (f'<!DOCTYPE html><html><head><meta charset="UTF-8">'
