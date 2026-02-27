@@ -840,9 +840,9 @@ def gaian_day_description(gaian_year, month_num, day_num):
         specific_christian = {easter + datetime.timedelta(days=o)
                               for (o, _, _) in _ICAL_CHRISTIAN_OFFSETS}
         if ash_wed <= gd < easter and gd not in specific_christian:
-            notable.append("the Season of Lent")
+            notable.append("\U0001F56F\uFE0F the Season of Lent")
         elif easter < gd <= pentecost and gd not in specific_christian:
-            notable.append("Eastertide")
+            notable.append("\U0001F305 Eastertide")
     except Exception:
         pass
 
@@ -1635,6 +1635,38 @@ def build_site():
 
         # ── Homepage ──
         render_page(env, "index.html", lang_dir / "index.html", ctx)
+
+        month_by_num = {m["num"]: m for m in MONTHS}
+        holidays_for_page = []
+        for h in _GAIAN_DAYS["holidays"]:
+            if not h.get("summary"):
+                continue
+            mnum = int(h["month"])
+            dnum = int(h["day"])
+            mobj = month_by_num.get(mnum)
+            if not mobj:
+                continue
+            holidays_for_page.append({
+                "month_num": mnum,
+                "day_num": dnum,
+                "day_of_year": int(h.get("day_of_year") or ((mnum - 1) * 28 + dnum)),
+                "month_id": mobj["id"],
+                "month_symbol": mobj["symbol"],
+                "month_name": t["months"].get(mobj["id"], mobj["id"].title()),
+                "weekday_name": preferred_weekday_names[(dnum - 1) % 7],
+                "summary": h["summary"],
+                "emoji": h.get("emoji", "\U0001F4C5"),
+                "slug": h.get("slug"),
+                "href": f"{base}/calendar/{mnum:02d}/{dnum:02d}/",
+            })
+        holidays_for_page.sort(key=lambda x: (x["month_num"], x["day_num"], x["summary"]))
+
+        holidays_dir = lang_dir / "holidays"
+        holidays_dir.mkdir(parents=True, exist_ok=True)
+        render_page(env, "holidays.html", holidays_dir / "index.html", {
+            **ctx,
+            "holidays": holidays_for_page,
+        })
 
         # ── Calendar section ──
         cal_dir = lang_dir / "calendar"

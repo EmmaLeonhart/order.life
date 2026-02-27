@@ -1,0 +1,50 @@
+﻿{% extends "base.html" %}
+{% block title %}Holidays{% endblock %}
+{% block meta_description %}Gaian holidays with fixed month/day dates from the calendar dataset.{% endblock %}
+{% block og_title %}Holidays — {{ t.site_title }}{% endblock %}
+{% block og_description %}All Gaian holidays and observances with their dates.{% endblock %}
+{% block twitter_title %}Holidays — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}All Gaian holidays and observances with their dates.{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>Holidays</h1>
+  <p>All holidays and observances from <code>content/gaian_days.json</code>.</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    Holidays
+  </div>
+
+  <div class="section-content">
+    <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+      Each holiday keeps a fixed Gaian date. The weekday is perpetual by day-of-month position.
+    </p>
+
+    {% for month_group in holidays|groupby('month_num') %}
+    {% set month_holidays = month_group.list %}
+    {% set first = month_holidays[0] %}
+    <div style="margin-bottom: 1.8rem; border: 1px solid var(--border); border-radius: 10px; padding: 1rem 1.2rem; background: var(--bg-card);">
+      <h2 style="margin: 0 0 0.8rem; color: var(--accent); font-size: 1.05rem;">
+        {{ first.month_symbol }} {{ first.month_name }}
+      </h2>
+      <ul style="list-style: none; margin: 0; padding: 0;">
+        {% for h in month_holidays %}
+        <li style="padding: 0.45rem 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+          <a href="{{ h.href }}" style="text-decoration: none; color: var(--link); font-weight: 600;">
+            {{ h.emoji }} {{ h.summary }}
+          </a>
+          <span style="color: var(--text-muted); font-size: 0.9rem;">
+            · Day {{ h.day_num }} · {{ h.weekday_name }} · #{{ h.day_of_year }}
+          </span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}
