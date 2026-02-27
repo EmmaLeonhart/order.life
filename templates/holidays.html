@@ -1,10 +1,63 @@
-﻿{% extends "base.html" %}
+{% extends "base.html" %}
 {% block title %}Holidays{% endblock %}
 {% block meta_description %}Gaian holidays with fixed month/day dates from the calendar dataset.{% endblock %}
 {% block og_title %}Holidays — {{ t.site_title }}{% endblock %}
 {% block og_description %}All Gaian holidays and observances with their dates.{% endblock %}
 {% block twitter_title %}Holidays — {{ t.site_title }}{% endblock %}
 {% block twitter_description %}All Gaian holidays and observances with their dates.{% endblock %}
+
+{% block head %}
+<style>
+.holiday-extensions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.45rem;
+  padding-top: 0.35rem;
+  border-top: 1px solid rgba(255,255,255,0.06);
+}
+.ext-bridge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: rgba(255,215,0,0.07);
+  border: 1px solid rgba(255,215,0,0.18);
+  border-radius: 6px;
+  padding: 0.18rem 0.55rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-decoration: none;
+  transition: background 0.15s, border-color 0.15s;
+}
+.ext-bridge:hover {
+  background: rgba(255,215,0,0.13);
+  border-color: rgba(255,215,0,0.35);
+  color: var(--accent);
+}
+.ext-bridge .ext-arrow {
+  opacity: 0.5;
+  font-size: 0.75rem;
+}
+.ext-bridge .ext-date {
+  font-variant-numeric: tabular-nums;
+  opacity: 0.75;
+}
+.ext-bridge .ext-qid {
+  opacity: 0.5;
+  font-size: 0.72rem;
+  margin-left: 0.1rem;
+}
+.ext-bridge .ext-qid:hover {
+  opacity: 0.9;
+}
+.greg-label {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  opacity: 0.55;
+  margin-right: 0.15rem;
+}
+</style>
+{% endblock %}
 
 {% block content %}
 <div class="section-hero">
@@ -22,7 +75,10 @@
   <div class="section-content">
     <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
       Each holiday keeps a fixed Gaian date. The weekday is perpetual by day-of-month position.
+      Gold tags show Gregorian calendar links.
     </p>
+
+    {% set GREG_MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"] %}
 
     {% for month_group in holidays|groupby('month_num') %}
     {% set month_holidays = month_group.list %}
@@ -33,13 +89,31 @@
       </h2>
       <ul style="list-style: none; margin: 0; padding: 0;">
         {% for h in month_holidays %}
-        <li style="padding: 0.45rem 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
-          <a href="{{ h.href }}" style="text-decoration: none; color: var(--link); font-weight: 600;">
-            {{ h.emoji }} {{ h.summary }}
-          </a>
-          <span style="color: var(--text-muted); font-size: 0.9rem;">
-            · Day {{ h.day_num }} · {{ h.weekday_name }} · #{{ h.day_of_year }}
-          </span>
+        <li style="padding: 0.55rem 0; border-bottom: 1px solid rgba(255,255,255,0.08);">
+          <div>
+            <a href="{{ h.href }}" style="text-decoration: none; color: var(--link); font-weight: 600;">
+              {{ h.emoji }} {{ h.summary }}
+            </a>
+            <span style="color: var(--text-muted); font-size: 0.9rem;">
+              · Day {{ h.day_num }} · {{ h.weekday_name }} · #{{ h.day_of_year }}
+            </span>
+          </div>
+          {% if h.extensions %}
+          <div class="holiday-extensions">
+            {% for ext in h.extensions %}
+            <span class="ext-bridge">
+              <span class="ext-arrow">→</span>
+              <span class="greg-label">Greg.</span>
+              <span>{{ ext.name }}</span>
+              <span class="ext-date">{{ GREG_MONTHS[ext.greg_month - 1] }} {{ ext.greg_day }}</span>
+              {% if ext.qid %}
+              <a href="https://www.wikidata.org/wiki/{{ ext.qid }}" target="_blank" rel="noopener"
+                 class="ext-qid" title="Wikidata: {{ ext.qid }}" onclick="event.stopPropagation()">{{ ext.qid }}</a>
+              {% endif %}
+            </span>
+            {% endfor %}
+          </div>
+          {% endif %}
         </li>
         {% endfor %}
       </ul>

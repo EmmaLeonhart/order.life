@@ -56,6 +56,27 @@
   </div>
   {% endif %}
 
+  {# Gregorian calendar extensions (bridges to real-world holidays) #}
+  {% if day_extensions %}
+  {% set GREG_MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"] %}
+  <div class="day-extensions">
+    <h3 class="ext-heading">Gregorian Connections</h3>
+    <div class="ext-list">
+      {% for ext in day_extensions %}
+      <div class="ext-item">
+        <span class="ext-arrow">→</span>
+        <span class="ext-name">{{ ext.name }}</span>
+        <span class="ext-date">{{ GREG_MONTHS[ext.greg_month - 1] }} {{ ext.greg_day }}</span>
+        {% if ext.qid %}
+        <a href="https://www.wikidata.org/wiki/{{ ext.qid }}" target="_blank" rel="noopener"
+           class="ext-qid-link" title="View on Wikidata">{{ ext.qid }}</a>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
   {# Day of year statement and notes #}
   <p class="day-ordinal-stmt">{{ t.day_of_year_statement.replace('{day}', day_of_year|string) }}</p>
   {% if day_note %}
@@ -85,6 +106,52 @@
 .wiki-table th, .wiki-table td { border: 1px solid var(--border); padding: 8px 12px; text-align: left; }
 .wiki-table th { background: var(--bg-card); color: var(--accent); }
 .wiki-table td { color: var(--text-muted); }
+
+.day-extensions {
+  background: var(--bg-card);
+  border: 1px solid rgba(255,215,0,0.18);
+  border-radius: 10px;
+  padding: 0.9rem 1.1rem;
+  margin: 1.2rem 0;
+}
+.ext-heading {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  opacity: 0.7;
+  margin: 0 0 0.6rem;
+  font-weight: 600;
+}
+.ext-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.ext-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: rgba(255,215,0,0.07);
+  border: 1px solid rgba(255,215,0,0.2);
+  border-radius: 7px;
+  padding: 0.25rem 0.7rem;
+  font-size: 0.85rem;
+}
+.ext-arrow { opacity: 0.4; font-size: 0.8rem; }
+.ext-name { color: var(--accent); font-weight: 500; }
+.ext-date { color: var(--text-muted); font-size: 0.8rem; }
+.ext-qid-link {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  opacity: 0.55;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 4px;
+  padding: 0 0.3rem;
+  text-decoration: none;
+  transition: opacity 0.15s, border-color 0.15s;
+}
+.ext-qid-link:hover { opacity: 1; border-color: var(--accent); color: var(--accent); }
 </style>
 {% endblock %}
 {% endblock %}
