@@ -649,39 +649,51 @@ def _vevent(dtstart, summary, description, uid):
 # Load holiday and day-note data from the editable JSON file.
 _GAIAN_DAYS = json.loads((CONTENT_DIR / "gaian_days.json").read_text(encoding="utf-8"))
 
+def _holiday_summary_with_emoji(h, lang="en"):
+    """Return localized holiday summary prefixed with its emoji (if present)."""
+    if not h:
+        return ""
+    key_lang = f"summary_{lang}"
+    summary = h.get(key_lang) if lang and lang != "en" else h.get("summary")
+    summary = summary or h.get("summary", "")
+    emoji = h.get("emoji", "")
+    if emoji and summary and not summary.startswith(emoji):
+        return f"{emoji} {summary}"
+    return summary
+
 # (month_num, day_num, summary, url-slug) — months 1-13 only
 _ICAL_FIXED = [
-    (h["month"], h["day"], h["summary"], h.get("slug", f"{h['month']}-{h['day']}"))
+    (h["month"], h["day"], _holiday_summary_with_emoji(h), h.get("slug", f"{h['month']}-{h['day']}"))
     for h in _GAIAN_DAYS["holidays"]
     if h["month"] != 14 and h.get("summary")
 ]
 
 # (day_num, summary) — month 14 (Horus) only, used only in leap years
 _ICAL_HORUS = [
-    (h["day"], h["summary"])
+    (h["day"], _holiday_summary_with_emoji(h))
     for h in _GAIAN_DAYS["holidays"]
     if h["month"] == 14 and h.get("summary")
 ]
 
 _ICAL_CHRISTIAN_OFFSETS = [
-    (-46, "Ash Wednesday",     "ash-wednesday"),
-    (-7,  "Palm Sunday",       "palm-sunday"),
-    (-2,  "Good Friday",       "good-friday"),
-    (-1,  "Holy Saturday",     "holy-saturday"),
-    (0,   "Easter Sunday",     "easter"),
-    (39,  "Ascension Thursday","ascension"),
-    (49,  "Pentecost",         "pentecost"),
+    (-46, "\U0001F56F\uFE0F Ash Wednesday",  "ash-wednesday"),
+    (-7,  "\U0001F33F Palm Sunday",          "palm-sunday"),
+    (-2,  "\u271D\uFE0F Good Friday",        "good-friday"),
+    (-1,  "\U0001F56F\uFE0F Holy Saturday",  "holy-saturday"),
+    (0,   "\U0001F305 Easter Sunday",        "easter"),
+    (39,  "\u2601\uFE0F Ascension Thursday", "ascension"),
+    (49,  "\U0001F54A\uFE0F Pentecost",      "pentecost"),
 ]
 
 # Japanese names for Christian calendar events (slug → Japanese summary)
 _CHRISTIAN_NAMES_JA = {
-    "ash-wednesday": "灰の水曜日",
-    "palm-sunday":   "枝の主日",
-    "good-friday":   "聖金曜日",
-    "holy-saturday": "聖土曜日",
-    "easter":        "復活祭",
-    "ascension":     "昇天祭",
-    "pentecost":     "聖霊降臨祭",
+    "ash-wednesday": "\U0001F56F\uFE0F \u7070\u306E\u6C34\u66DC\u65E5",
+    "palm-sunday":   "\U0001F33F \u679D\u306E\u4E3B\u65E5",
+    "good-friday":   "\u271D\uFE0F \u8056\u91D1\u66DC\u65E5",
+    "holy-saturday": "\U0001F56F\uFE0F \u8056\u571F\u66DC\u65E5",
+    "easter":        "\U0001F305 \u5FA9\u6D3B\u796D",
+    "ascension":     "\u2601\uFE0F \u6607\u5929\u796D",
+    "pentecost":     "\U0001F54A\uFE0F \u8056\u970A\u964D\u81E8\u796D",
 }
 
 # Japanese display names for Gaian months
@@ -886,10 +898,9 @@ def _ical_year_holidays(gy, month_display, lang="en"):
     is_leap = _is_gaian_leap(gy)
     iso_year = gy - 10000
 
-    def _localized(h, field="summary"):
-        """Return lang-specific field value, falling back to English."""
-        key_lang = f"{field}_{lang}"
-        return h.get(key_lang) or h.get(field, "")
+    def _localized(h):
+        """Return localized holiday summary with emoji prefix."""
+        return _holiday_summary_with_emoji(h, lang=lang)
 
     def _build_desc(gaian_label, h_obj):
         """Build iCal DESCRIPTION: Gaian date label + note if present."""
@@ -988,8 +999,16 @@ def _ical_year_seasons(gy, lang="en"):
     iso_year = gy - 10000
 
     _names = {
-        "en": {"horus": "Month of Horus", "lent": "Season of Lent", "eastertide": "Eastertide"},
-        "ja": {"horus": "ホルス月",       "lent": "四旬節",         "eastertide": "復活節"},
+        "en": {
+            "horus": "Month of Horus",
+            "lent": "\U0001F56F\uFE0F Season of Lent",
+            "eastertide": "\U0001F305 Eastertide",
+        },
+        "ja": {
+            "horus": "\u30DB\u30EB\u30B9\u6708",
+            "lent": "\U0001F56F\uFE0F \u56DB\u65EC\u7BC0",
+            "eastertide": "\U0001F305 \u5FA9\u6D3B\u7BC0",
+        },
     }
     n = _names.get(lang, _names["en"])
 
