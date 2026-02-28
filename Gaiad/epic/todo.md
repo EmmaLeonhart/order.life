@@ -32,7 +32,7 @@
 | Spiders | 67 | Minirachne → Arachnus → Mygalos + Araneo |
 | Ray-finned fish | 68 | Actinus → Bichiros → Chondrosteos/Holosteos → Teleosteos |
 | Gymnosperms | 69 | Gymnos → Cordaios + Cycados + Conifera + Ginkga |
-| Cephalopods (coleoids) | 70 | Coleios → Belemno + Sepos + Teuthis + Octopos |
+| Cephalopods (coleoids + ammonites) | 70 | Ammonos (ammonites, extinct); Coleios → Belemno + Sepos + Teuthis + Octopos |
 | Malacostracan crustaceans | 71 | Malacos → Decapos + Euphausios + Stomatos + Isops |
 | Cartilaginous fish | 72 | Acanthus → Elasmos (Selachios + Batos) + Chimaera |
 
@@ -65,7 +65,7 @@
 ### EDITS
 | Chapter| Edit|
 |-------|-------|
-| 70 | Add Ammonites|
+| ~~70~~ | ~~Add Ammonites~~ ✅ |
 
 ---
 

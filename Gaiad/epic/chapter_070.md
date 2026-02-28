@@ -5,6 +5,51 @@ Had built his coiled shell of chambered pride
 And ruled the ancient seas where all deployed
 Their forces in the ocean's deep and wide.
 
+Two paths diverged from that ancestral coil:
+One kept the shell and wore it like a crown,
+The other chose to shed that calcite toil—
+And each would win a glory of renown.
+
+{{c|Ammonos}} kept the outer shell and grew
+Its whorls in patterns ever more ornate:
+The suture lines that held each chamber true
+Grew folded, fractal, beautifully intricate—
+
+From simple curves to gothic tracery
+Of saddles, lobes, and ridges intertwined,
+As if the shell itself were artistry
+That nature carved but never quite defined
+
+In any final form—for {{c|Ammonos}}
+Wore every variation shell could take:
+Some broad as cartwheels, flat as river stones,
+Some tall and narrow like a coiled snake,
+
+Some spined with thorns, some smooth as polished bone,
+Some small as coins and some as large as men—
+No cephalopod has ever matched the throne
+Of shell diversity he held back then.
+
+Through every ocean, warm and cold alike,
+From shallow reef to deep abyssal floor,
+His children filled each niche and every strike
+Of evolutionary fortune opened more—
+
+So many forms that those who study stone
+Cannot untangle who begat whom next:
+The tree of {{c|Ammonos}} remains unknown
+In all its branching—tangled, rich, and vexed.
+
+Yet all of them were taken in the end:
+When the great dying struck the Mesozoic's close,
+Not one of {{c|Ammonos}}' line would bend
+Or find a refuge from those final throes.
+
+The nautiloid survived—the ancient form—
+But every ammonite was swept away,
+Their shells now spiral fossils from the storm
+Of extinction's unforgiving day.
+
 But from that shell-coiled lineage one would spring
 Who chose a different path for all his kind:
 {{c|Coleios}} turned the shell to inner thing
@@ -134,9 +179,14 @@ The lords of ink escaped through their own care
 To leave behind a decoy of the dead
 
 Dark water in the shape of what they were.
-So honor {{c|Coleios}} and his hidden shell:
-The ones who made the visible a blur
-And mastered darkness as their story's tell.
+So honor {{c|Ammonos}} and his spiral crown,
+And {{c|Coleios}} who made the visible a blur—
+Two paths from one coiled ancestor laid down:
+
+One kept the shell and filled the seas with form
+In countless variations, broad and tall,
+Then perished wholly in extinction's storm;
+The other shed the shell and outlived all.
 
 From {{c|Belemno}}'s bullet to {{c|Octopos}}' mind,
 From {{c|Sepos}}' color-speech to {{c|Teuthis}}' reach,
