@@ -1963,6 +1963,12 @@ def build_site():
             sec_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, f"sections/{section}.html", sec_dir / "index.html", ctx)
 
+        # ── Developer resources page (English only for now) ──
+        if lang == "en":
+            dev_dir = lang_dir / "dev"
+            dev_dir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "sections/dev.html", dev_dir / "index.html", ctx)
+
         # ── Fudoki / Hallowings pages (English only for now) ──
         if lang == "en" and fudoki_divisions:
             fudoki_dir = lang_dir / "fudoki"
