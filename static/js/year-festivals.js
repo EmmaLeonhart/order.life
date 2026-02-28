@@ -459,7 +459,8 @@ function buildFestivalsCalendar(gaianYear) {
     const m = GAIAN_MONTH_INFO[mi];
     const daysInMonth = mi === 13 ? 7 : 28;
     html.push('<tr>');
-    html.push(`<th class="gyear-month-hdr">${m.symbol}\u00a0${m.name}</th>`);
+    const mmStr = String(m.num).padStart(2, '0');
+    html.push(`<th class="gyear-month-hdr"><a href="${basePath}/calendar/${gaianYear}/${mmStr}/">${m.symbol}\u00a0${m.name}</a></th>`);
 
     for (let dc = 0; dc < 28; dc++) {
       const dayInMonth = dc + 1;
@@ -477,7 +478,7 @@ function buildFestivalsCalendar(gaianYear) {
         if (isToday) tdCls.push('gyear-today');
 
         const ddStr = String(dayInMonth).padStart(2, '0');
-        const href  = `${basePath}/calendar/${String(m.num).padStart(2, '0')}/${ddStr}/`;
+        const href  = `${basePath}/calendar/${gaianYear}/${mmStr}/${ddStr}/`;
 
         const inner = buildCell(gd, dayInMonth, href, yearData, fullMoons);
         html.push(`<td class="${tdCls.join(' ')}">${inner}</td>`);
