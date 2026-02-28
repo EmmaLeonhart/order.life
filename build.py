@@ -757,6 +757,15 @@ _GAIAN_EXTENSIONS = {
     (h["month"], h["day"]): h["extensions"]
     for h in _GAIAN_DAYS["holidays"]
     if "extensions" in h
+
+# Holiday info keyed by (month, day) — for day pages to show the holiday name.
+_GAIAN_HOLIDAY_INFO = {
+    (h["month"], h["day"]): {
+        "summary": h["summary"],
+        "emoji": h.get("emoji", ""),
+    }
+    for h in _GAIAN_DAYS["holidays"]
+    if h.get("summary")
 }
 
 
@@ -1413,18 +1422,18 @@ def generate_festival_data_js(static_dst):
         ",\n".join(islamic_rows),
         "};",
         "",
-        "// Fixed Gaian holidays with Gregorian calendar extensions.",
-        "// month/day are Gaian (perpetual). extensions link to real-world holidays.",
+        "// Fixed Gaian holidays. extensions (if any) link to real-world holidays.",
+        "// month/day are Gaian (perpetual).",
         "const GAIAN_FIXED_EXTENSIONS = " + json.dumps([
             {
                 "month": h["month"],
                 "day": h["day"],
                 "emoji": h.get("emoji", ""),
                 "summary": h["summary"],
-                "extensions": h["extensions"],
+                "extensions": h.get("extensions", []),
             }
             for h in _GAIAN_DAYS["holidays"]
-            if h.get("summary") and h.get("extensions")
+            if h.get("summary")
         ], ensure_ascii=False) + ";",
         "",
     ]
@@ -1921,6 +1930,7 @@ def build_site():
                     "has_chapter": doy in chapters if doy <= 364 else False,
                     "chapter_summary": _CHAPTER_SUMMARIES.get(doy) if doy <= 364 else None,
                     "day_note": _CUSTOM_DAY_NOTES.get((m["num"], d), ""),
+                    "day_holiday": _GAIAN_HOLIDAY_INFO.get((m["num"], d)),
                     "day_extensions": _GAIAN_EXTENSIONS.get((m["num"], d), []),
                     "weekday_num": ((d - 1) % 7) + 1,
                     "weekday_data": WEEKDAYS[((d - 1) % 7)],
