@@ -757,6 +757,7 @@ _GAIAN_EXTENSIONS = {
     (h["month"], h["day"]): h["extensions"]
     for h in _GAIAN_DAYS["holidays"]
     if "extensions" in h
+}
 
 # Holiday info keyed by (month, day) — for day pages to show the holiday name.
 _GAIAN_HOLIDAY_INFO = {
