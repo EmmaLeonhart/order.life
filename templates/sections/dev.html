@@ -49,6 +49,90 @@
       </div>
     </div>
 
+    <h2 style="margin-top: 2.5rem;">Planned Libraries</h2>
+    <p style="font-size:0.88rem;color:var(--text-muted);margin-bottom:1.2rem;">These are on the roadmap but not yet in active development. Contributions welcome.</p>
+
+    <div class="dev-card dev-card-planned">
+      <div class="dev-card-head">
+        <span class="dev-badge dev-badge-js">JavaScript</span>
+        <span class="dev-badge dev-badge-planned">Planned</span>
+        <h3 class="dev-card-title">gaian-calendar (npm)</h3>
+      </div>
+      <p class="dev-card-desc">TypeScript/JavaScript package for Gaian Calendar conversion, formatting, and arithmetic. Would support both Node.js and browser environments with zero dependencies.</p>
+    </div>
+
+    <div class="dev-card dev-card-planned">
+      <div class="dev-card-head">
+        <span class="dev-badge dev-badge-rust">Rust</span>
+        <span class="dev-badge dev-badge-planned">Planned</span>
+        <h3 class="dev-card-title">gaian_calendar (crates.io)</h3>
+      </div>
+      <p class="dev-card-desc">Rust crate implementing <code>GaianDate</code> as a zero-cost abstraction over a day-of-year integer, with <code>chrono</code> interop traits and <code>serde</code> support.</p>
+    </div>
+
+    <div class="dev-card dev-card-planned">
+      <div class="dev-card-head">
+        <span class="dev-badge dev-badge-java">Java / Kotlin</span>
+        <span class="dev-badge dev-badge-planned">Planned</span>
+        <h3 class="dev-card-title">gaian-calendar (Maven Central)</h3>
+      </div>
+      <p class="dev-card-desc">JVM library implementing <code>GaianDate</code> as a <code>java.time.temporal.TemporalAccessor</code>, compatible with the Java time API and usable from Kotlin.</p>
+    </div>
+
+    <div class="dev-card dev-card-planned">
+      <div class="dev-card-head">
+        <span class="dev-badge dev-badge-swift">Swift</span>
+        <span class="dev-badge dev-badge-planned">Planned</span>
+        <h3 class="dev-card-title">GaianCalendar (Swift Package)</h3>
+      </div>
+      <p class="dev-card-desc">Swift package providing a <code>GaianDate</code> struct with <code>Codable</code> and <code>Comparable</code> conformance, bridging to <code>Foundation.Calendar</code> for iOS and macOS apps.</p>
+    </div>
+
+    <div class="dev-card dev-card-planned">
+      <div class="dev-card-head">
+        <span class="dev-badge dev-badge-go">Go</span>
+        <span class="dev-badge dev-badge-planned">Planned</span>
+        <h3 class="dev-card-title">gaian (Go module)</h3>
+      </div>
+      <p class="dev-card-desc">Go module for Gaian Calendar date conversion and formatting, following the conventions of the standard <code>time</code> package.</p>
+    </div>
+
+    <div class="dev-card dev-card-planned">
+      <div class="dev-card-head">
+        <span class="dev-badge dev-badge-ruby">Ruby</span>
+        <span class="dev-badge dev-badge-planned">Planned</span>
+        <h3 class="dev-card-title">gaian_calendar (RubyGems)</h3>
+      </div>
+      <p class="dev-card-desc">Ruby gem extending <code>Date</code> with <code>#to_gaian</code> and providing a <code>GaianDate</code> class for use in Rails apps and scripts.</p>
+    </div>
+
+    <div class="dev-card dev-card-planned">
+      <div class="dev-card-head">
+        <span class="dev-badge dev-badge-php">PHP</span>
+        <span class="dev-badge dev-badge-planned">Planned</span>
+        <h3 class="dev-card-title">gaian-calendar (Composer)</h3>
+      </div>
+      <p class="dev-card-desc">PHP package wrapping <code>DateTimeImmutable</code> with Gaian Calendar output, suitable for use in WordPress plugins, Laravel, and other PHP applications.</p>
+    </div>
+
+    <div class="dev-card dev-card-planned">
+      <div class="dev-card-head">
+        <span class="dev-badge dev-badge-ical">iCal / CalDAV</span>
+        <span class="dev-badge dev-badge-planned">Planned</span>
+        <h3 class="dev-card-title">Gaian Calendar Feed</h3>
+      </div>
+      <p class="dev-card-desc">Subscribable <code>.ics</code> calendar feeds for Gaian holidays, Sabbaths, and Gaiad chapter readings — importable into Google Calendar, Apple Calendar, Outlook, and any CalDAV client.</p>
+    </div>
+
+    <div class="dev-card dev-card-planned">
+      <div class="dev-card-head">
+        <span class="dev-badge dev-badge-obsidian">Obsidian</span>
+        <span class="dev-badge dev-badge-planned">Planned</span>
+        <h3 class="dev-card-title">Gaian Calendar Plugin</h3>
+      </div>
+      <p class="dev-card-desc">Obsidian plugin that shows the current Gaian date in the status bar, generates daily notes with Gaiad chapter headings, and supports Gaian date links in the daily notes graph.</p>
+    </div>
+
     <h2 style="margin-top: 2.5rem;">Wiki Templates</h2>
 
     <div class="dev-card">
@@ -99,10 +183,21 @@
   border-radius: 4px;
   text-transform: uppercase;
 }
-.dev-badge-python { background: #3572a5; color: #fff; }
-.dev-badge-csharp { background: #178600; color: #fff; }
-.dev-badge-wiki   { background: rgba(255,215,0,0.15); color: var(--accent); border: 1px solid rgba(255,215,0,0.3); }
-.dev-badge-wip    { background: rgba(255,165,0,0.15); color: #ffa500; border: 1px solid rgba(255,165,0,0.3); }
+.dev-badge-python   { background: #3572a5; color: #fff; }
+.dev-badge-csharp   { background: #178600; color: #fff; }
+.dev-badge-js       { background: #f0db4f; color: #222; }
+.dev-badge-rust     { background: #dea584; color: #222; }
+.dev-badge-java     { background: #b07219; color: #fff; }
+.dev-badge-swift    { background: #f05138; color: #fff; }
+.dev-badge-go       { background: #00acd7; color: #fff; }
+.dev-badge-ruby     { background: #cc342d; color: #fff; }
+.dev-badge-php      { background: #4f5d95; color: #fff; }
+.dev-badge-ical     { background: rgba(255,255,255,0.1); color: var(--text-muted); border: 1px solid var(--border); }
+.dev-badge-obsidian { background: #7c3aed; color: #fff; }
+.dev-badge-wiki     { background: rgba(255,215,0,0.15); color: var(--accent); border: 1px solid rgba(255,215,0,0.3); }
+.dev-badge-wip      { background: rgba(255,165,0,0.15); color: #ffa500; border: 1px solid rgba(255,165,0,0.3); }
+.dev-badge-planned  { background: rgba(255,255,255,0.06); color: var(--text-muted); border: 1px solid var(--border); }
+.dev-card-planned   { opacity: 0.75; }
 .dev-card-desc {
   font-size: 0.9rem;
   color: var(--text-muted);
