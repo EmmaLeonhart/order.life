@@ -581,15 +581,23 @@ function buildMonthFestivalsCalendar(gaianYear, gaianMonth) {
     });
   }
 
-  // bridgeBars[day] = [{dir, label}] — only the Gregorian date cell gets an arrow
+  // bridgeBars[day] = [{status, arrowAt, label}]
+  // Spans every cell from the Gregorian date to the Gaian holiday; arrowhead at the Gaian end.
   const bridgeBars = {};
   bridges.forEach(b => {
     if (b.extDay === null || b.extDay === b.holDay) return;
-    const extStr = GREG_MONTHS_SHORT[b.extGregM - 1] + '\u00a0' + b.extGregD;
-    const label  = b.extName + ' (' + extStr + ') \u2192 ' + b.holName;
-    const dir    = b.holDay < b.extDay ? 'left' : 'right';
-    if (!bridgeBars[b.extDay]) bridgeBars[b.extDay] = [];
-    bridgeBars[b.extDay].push({ dir, label });
+    const extStr   = GREG_MONTHS_SHORT[b.extGregM - 1] + '\u00a0' + b.extGregD;
+    const label    = b.extName + ' (' + extStr + ') \u2192 ' + b.holName;
+    const a        = Math.min(b.holDay, b.extDay);
+    const z        = Math.max(b.holDay, b.extDay);
+    // arrowDir: the arrowhead is always at the Gaian holiday cell
+    const arrowDir = b.holDay < b.extDay ? 'left' : 'right';
+    for (let d = a; d <= z; d++) {
+      if (!bridgeBars[d]) bridgeBars[d] = [];
+      const status  = d === a ? 'start' : (d === z ? 'end' : 'mid');
+      const arrowAt = d === b.holDay ? arrowDir : null;
+      bridgeBars[d].push({ status, arrowAt, label });
+    }
   });
 
   // ── HTML assembly ────────────────────────────────────────────────────────
@@ -647,10 +655,11 @@ function buildMonthFestivalsCalendar(gaianYear, gaianMonth) {
         ? `<div class="gfc-hol" title="${holInfo.summary}">${holInfo.emoji}\u00a0${holInfo.summary}</div>`
         : '';
 
-      // Bridge arrows for this cell (only on Gregorian date cell, at top)
-      const bars = (bridgeBars[d] || []).map(b =>
-        `<div class="gfc-bridge gfc-bridge-${b.dir}" title="${b.label}"></div>`
-      ).join('');
+      // Bridge bar for this cell — at top of cell, arrowhead at the Gaian holiday end
+      const bars = (bridgeBars[d] || []).map(b => {
+        const arrowCls = b.arrowAt ? ` gfc-bridge-arrow-${b.arrowAt}` : '';
+        return `<div class="gfc-bridge gfc-bridge-${b.status}${arrowCls}" title="${b.label}"></div>`;
+      }).join('');
 
       const tdCls = ['gfc-cell', 'fd-cell',
         isSab   ? 'gyear-sab'   : '',
