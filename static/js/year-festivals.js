@@ -299,13 +299,17 @@ function buildCell(gd, dayInMonth, href, yearData, fullMoonSet) {
 function buildExtensionsSection(gaianYear, container, gregDates) {
   if (typeof GAIAN_FIXED_EXTENSIONS === 'undefined' || !GAIAN_FIXED_EXTENSIONS.length) return;
 
+  // Only show holidays that have Gregorian extensions in this section
+  const withExtensions = GAIAN_FIXED_EXTENSIONS.filter(h => h.extensions && h.extensions.length);
+  if (!withExtensions.length) return;
+
   const basePath = window.LANG_BASE || '';
   const GREG_MONTHS_SHORT_LC = ['Jan','Feb','Mar','Apr','May','Jun',
                                  'Jul','Aug','Sep','Oct','Nov','Dec'];
   const GAIAN_MONTH_NAMES = ['Sagittarius','Capricorn','Aquarius','Pisces','Aries','Taurus',
                                'Gemini','Cancer','Leo','Virgo','Libra','Scorpius','Ophiuchus','Horus'];
 
-  const rows = GAIAN_FIXED_EXTENSIONS.map(h => {
+  const rows = withExtensions.map(h => {
     const dayOfYear = (h.month - 1) * 28 + h.day;
     const gregDate  = gregDates[dayOfYear - 1];
     const gregStr   = gregDate

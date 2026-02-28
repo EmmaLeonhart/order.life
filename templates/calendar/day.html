@@ -28,6 +28,14 @@
     {{ day_num }}
   </div>
 
+  {# Holiday name and emoji #}
+  {% if day_holiday %}
+  <div class="day-holiday-banner">
+    <span class="day-holiday-emoji">{{ day_holiday.emoji }}</span>
+    <span class="day-holiday-name">{{ day_holiday.summary }}</span>
+  </div>
+  {% endif %}
+
   {# Wiki intro from the XML export #}
   {% if wiki_day_intro %}
   <div class="section-content">
@@ -152,6 +160,19 @@
   transition: opacity 0.15s, border-color 0.15s;
 }
 .ext-qid-link:hover { opacity: 1; border-color: var(--accent); color: var(--accent); }
+
+.day-holiday-banner {
+  background: rgba(255,215,0,0.08);
+  border: 1px solid rgba(255,215,0,0.25);
+  border-radius: 10px;
+  padding: 0.7rem 1rem;
+  margin: 0.8rem 0 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.day-holiday-emoji { font-size: 1.3rem; }
+.day-holiday-name { color: var(--accent); font-weight: 600; font-size: 1.05rem; }
 </style>
 {% endblock %}
 {% endblock %}
