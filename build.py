@@ -1194,28 +1194,7 @@ def _ical_year_holidays(gy, month_display, lang="en"):
     except Exception:
         pass
 
-    # Islamic holidays: Eid al-Fitr, Eid al-Adha, and Friday observances
-    for g_yr in [iso_year - 1, iso_year, iso_year + 1]:
-        try:
-            ram, fitr, adha = _islamic_events_for_year(g_yr)
-        except Exception:
-            continue
-        if not ram:
-            continue
-
-        for gd, label, slug in [
-            (fitr, "\u262A\uFE0F Eid al-Fitr", "eid-al-fitr"),
-            (adha, "\u262A\uFE0F Eid al-Adha", "eid-al-adha"),
-        ]:
-            gaian = gregorian_to_gaian(gd)
-            if gaian["year"] == gy:
-                mname = month_display.get(gaian["month"], f"Month{gaian['month']}")
-                desc = (f"{label}, {_fmt_greg(gd)}. "
-                        f"Gaian date: {mname} {gaian['day']}, {gy} GE")
-                uid = f"gaian-{gy}-islamic-{slug}@order.life"
-                events.append((gd, _vevent(gd, label, desc, uid)))
-
-    # Islamic Friday observances
+    # Islamic Friday observances (Fitr Friday, Adha Friday, Ramadan Fridays)
     try:
         islamic_fridays = _islamic_friday_observances(gy)
         for (mn, dn), labels in islamic_fridays.items():
