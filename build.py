@@ -776,6 +776,117 @@ def _ordinal(n):
     return f"{n}{suffix}"
 
 
+# ── Islamic calendar (module-level) ──────────────────────────────────────────
+# Primary: hijridate (Umm al-Qura calendar, Saudi Arabia official calendar).
+#   Supported range: Hijri 1343–1500 AH ≈ Gregorian 1924–2077 CE.
+# Fallback: pure tabular algorithm for years outside hijridate's range.
+# Either way, dates are approximate (±1–2 days from regional moon sighting).
+
+from hijridate import Hijri as HijriDate
+
+_HIJRIDATE_H_MIN = 1343
+_HIJRIDATE_H_MAX = 1500
+
+
+def _tabular_to_date(y, m, d):
+    """Tabular Islamic calendar (astronomical epoch) → datetime.date."""
+    jdn = (d
+           + math.ceil(29.5 * (m - 1))
+           + (y - 1) * 354
+           + (11 * y + 3) // 30
+           + 1948438)
+    a = jdn + 32044
+    b = (4 * a + 3) // 146097
+    c = a - (146097 * b) // 4
+    dd = (4 * c + 3) // 1461
+    e = c - (1461 * dd) // 4
+    mm = (5 * e + 2) // 153
+    day_ = e - (153 * mm + 2) // 5 + 1
+    month_ = mm + 3 - 12 * (mm // 10)
+    year_ = 100 * b + dd - 4800 + mm // 10
+    return datetime.date(year_, month_, day_)
+
+
+def _hijri_event(h, hijri_month, hijri_day):
+    """Convert a Hijri date to datetime.date, using hijridate or tabular."""
+    if _HIJRIDATE_H_MIN <= h <= _HIJRIDATE_H_MAX:
+        g = HijriDate(h, hijri_month, hijri_day).to_gregorian()
+        return datetime.date(g.year, g.month, g.day)
+    return _tabular_to_date(h, hijri_month, hijri_day)
+
+
+def _islamic_events_for_year(g_year):
+    """Return (ram, fitr, adha) as datetime.date objects for g_year, or Nones."""
+    h_approx = int((g_year - 622) * 1.030685)
+    for h in range(h_approx - 1, h_approx + 2):
+        if h < 1:
+            continue
+        ram = _hijri_event(h, 9, 1)
+        if ram.year == g_year:
+            fitr = _hijri_event(h, 10, 1)
+            adha = _hijri_event(h, 12, 10)
+            return ram, fitr, adha
+    return None, None, None
+
+
+def _islamic_friday_observances(gaian_year):
+    """Return dict mapping (month_num, day_num) → list of observance labels for Islamic Fridays.
+
+    Computes:
+      - Fitr Friday: the Friday on or after Eid al-Fitr (or Eid itself if Friday)
+      - Adha Friday: the Friday on or after Eid al-Adha (or Eid itself if Friday)
+      - 1st–4th Ramadan Friday: the four Fridays before Eid al-Fitr
+    """
+    iso_year = gaian_year - 10000
+    result = {}
+
+    # Check adjacent Gregorian years because Islamic calendar can span year boundaries
+    for gy in [iso_year - 1, iso_year, iso_year + 1]:
+        try:
+            ram, fitr, adha = _islamic_events_for_year(gy)
+        except Exception:
+            continue
+        if not ram:
+            continue
+
+        # Fitr Friday: Friday on or after Eid al-Fitr
+        days_to_fri = (4 - fitr.weekday()) % 7  # weekday(): 0=Mon, 4=Fri
+        fitr_friday = fitr + datetime.timedelta(days=days_to_fri)
+
+        # Adha Friday: Friday on or after Eid al-Adha
+        days_to_fri = (4 - adha.weekday()) % 7
+        adha_friday = adha + datetime.timedelta(days=days_to_fri)
+
+        # 4 Fridays before Eid al-Fitr (during Ramadan)
+        ramadan_fridays = []
+        d = fitr - datetime.timedelta(days=1)  # start day before Fitr
+        while len(ramadan_fridays) < 4:
+            if d.weekday() == 4:  # Friday
+                ramadan_fridays.append(d)
+            d -= datetime.timedelta(days=1)
+        ramadan_fridays.reverse()  # oldest first: 1st, 2nd, 3rd, 4th
+
+        # Collect all with labels
+        entries = [
+            ("\u262A\uFE0F Fitr Friday", fitr_friday),
+            ("\u262A\uFE0F Adha Friday", adha_friday),
+        ]
+        _ORD = {0: "1st", 1: "2nd", 2: "3rd", 3: "4th"}
+        for i, rf in enumerate(ramadan_fridays):
+            entries.append((f"\u262A\uFE0F {_ORD[i]} Ramadan Friday", rf))
+
+        # Convert to Gaian dates and keep only those in our target year
+        for label, greg_date in entries:
+            gaian = gregorian_to_gaian(greg_date)
+            if gaian["year"] == gaian_year:
+                key = (gaian["month"], gaian["day"])
+                if key not in result:
+                    result[key] = []
+                result[key].append(label)
+
+    return result
+
+
 def _ramadan_start(g_year):
     """Return approximate 1 Ramadan as datetime.date for a Gregorian year.
 
@@ -886,6 +997,14 @@ def gaian_day_description(gaian_year, month_num, day_num):
                 notable.append("the beginning of Ramadan")
             elif ram_start < gd <= ram_end:
                 notable.append("Ramadan")
+    except Exception:
+        pass
+
+    # Islamic Friday observances (Fitr Friday, Adha Friday, Ramadan Fridays)
+    try:
+        obs_map = _islamic_friday_observances(gaian_year)
+        for obs_label in obs_map.get((month_num, day_num), []):
+            notable.append(obs_label)
     except Exception:
         pass
 
@@ -1324,55 +1443,7 @@ def generate_festival_data_js(static_dst):
         except Exception:
             return None
 
-    # ── Islamic calendar ──────────────────────────────────────────────────────
-    # Primary: hijridate (Umm al-Qura calendar, Saudi Arabia official calendar).
-    #   Supported range: Hijri 1343–1500 AH ≈ Gregorian 1924–2077 CE.
-    # Fallback: pure tabular algorithm for years outside hijridate's range.
-    # Either way, dates are approximate (±1–2 days from regional moon sighting).
-
-    from hijridate import Hijri as HijriDate
-
-    def tabular_to_date(y, m, d):
-        """Tabular Islamic calendar (astronomical epoch) → datetime.date."""
-        jdn = (d
-               + math.ceil(29.5 * (m - 1))
-               + (y - 1) * 354
-               + (11 * y + 3) // 30
-               + 1948438)
-        a = jdn + 32044
-        b = (4 * a + 3) // 146097
-        c = a - (146097 * b) // 4
-        dd = (4 * c + 3) // 1461
-        e = c - (1461 * dd) // 4
-        mm = (5 * e + 2) // 153
-        day_ = e - (153 * mm + 2) // 5 + 1
-        month_ = mm + 3 - 12 * (mm // 10)
-        year_ = 100 * b + dd - 4800 + mm // 10
-        return datetime.date(year_, month_, day_)
-
-    # hijridate's supported Hijri range
-    HIJRIDATE_H_MIN = 1343
-    HIJRIDATE_H_MAX = 1500
-
-    def hijri_event(h, hijri_month, hijri_day):
-        """Convert a Hijri date to datetime.date, using hijridate or tabular."""
-        if HIJRIDATE_H_MIN <= h <= HIJRIDATE_H_MAX:
-            g = HijriDate(h, hijri_month, hijri_day).to_gregorian()
-            return datetime.date(g.year, g.month, g.day)
-        return tabular_to_date(h, hijri_month, hijri_day)
-
-    def islamic_events_for_year(g_year):
-        """Return (ram, fitr, adha) as datetime.date objects for g_year, or Nones."""
-        h_approx = int((g_year - 622) * 1.030685)
-        for h in range(h_approx - 1, h_approx + 2):
-            if h < 1:
-                continue
-            ram = hijri_event(h, 9, 1)
-            if ram.year == g_year:
-                fitr = hijri_event(h, 10, 1)
-                adha = hijri_event(h, 12, 10)
-                return ram, fitr, adha
-        return None, None, None
+    # ── Islamic calendar — uses module-level _islamic_events_for_year ────────
 
     # ── Build JS table strings ────────────────────────────────────────────────
 
@@ -1392,7 +1463,7 @@ def generate_festival_data_js(static_dst):
             hanukkah_rows.append(f"  {g_year}:[{h[0]},{h[1]}]")
 
     for g_year in range(ISLAMIC_YEAR_START, YEAR_END + 1):
-        ram, fitr, adha = islamic_events_for_year(g_year)
+        ram, fitr, adha = _islamic_events_for_year(g_year)
         if ram:
             islamic_rows.append(
                 f"  {g_year}:{{ram:{fmt_md(ram)},fitr:{fmt_md(fitr)},adha:{fmt_md(adha)}}}"
@@ -1777,6 +1848,9 @@ def build_site():
             (yrfdir / "index.html").write_text(
                 _yr_redirect(f"{base}/calendar/{gaian_year}/festivals/"), encoding="utf-8")
 
+            # ── Islamic Friday observances for this year ──
+            _islamic_fridays = _islamic_friday_observances(gaian_year)
+
             # ── ISO/Horus detection ──
             iso_year = gaian_year - 10000
             _dec28 = datetime.date(iso_year, 12, 28)
@@ -1813,7 +1887,8 @@ def build_site():
                     render_page(env, "calendar/year-day.html", ddir / "index.html",
                                 {**ctx, "display_year": gaian_year,
                                  "month_num": m["num"], "day_num": d,
-                                 "month_info": m})
+                                 "month_info": m,
+                                 "islamic_observances": _islamic_fridays.get((m["num"], d), [])})
 
                     # ── Redirect: /calendar/year/{year}/{MM}/{DD}/ ──
                     yr_ddir = yr_mdir / f"{d:02d}"

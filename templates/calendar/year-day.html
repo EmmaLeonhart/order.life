@@ -30,6 +30,14 @@
   <div class="section-content">
     <p id="yd-intro" style="color:var(--text-muted)">Loading…</p>
 
+    {% if islamic_observances %}
+    <div class="islamic-observances">
+      {% for obs in islamic_observances %}
+      <div class="islamic-obs-item">{{ obs }}</div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
     <p style="margin-top:1.5rem;">
       <a href="{{ base }}/calendar/{{ '%02d' % month_num }}/{{ '%02d' % day_num }}/">Perpetual day page →</a>
     </p>
@@ -41,6 +49,23 @@
 {% endblock %}
 
 {% block scripts %}
+<style>
+.islamic-observances {
+  margin: 1.2rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.islamic-obs-item {
+  background: rgba(0, 128, 64, 0.1);
+  border: 1px solid rgba(0, 128, 64, 0.25);
+  border-radius: 8px;
+  padding: 0.4rem 0.85rem;
+  font-size: 0.9rem;
+  color: var(--accent);
+  font-weight: 500;
+}
+</style>
 <script>
 (function () {
   function isoWeek1Start(y) {
