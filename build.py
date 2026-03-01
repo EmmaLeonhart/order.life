@@ -887,6 +887,96 @@ def _islamic_friday_observances(gaian_year):
     return result
 
 
+def _floating_holidays_for_year(gaian_year):
+    """Return dict mapping (month_num, day_num) → list of holiday dicts for a Gaian year.
+
+    Each holiday dict has keys: summary, emoji.
+    Covers: Christian calendar (Easter, Lent days, etc.), Islamic Friday observances,
+    and Islamic seasons (Ramadan, Eid al-Fitr, Eid al-Adha).
+    """
+    iso_year = gaian_year - 10000
+    result = {}
+
+    def _add(month_num, day_num, summary, emoji=""):
+        key = (month_num, day_num)
+        if key not in result:
+            result[key] = []
+        result[key].append({"summary": summary, "emoji": emoji})
+
+    # ── Christian floating holidays ──
+    try:
+        easter = _easter_gregorian(iso_year)
+        for (offset, summary, _slug) in _ICAL_CHRISTIAN_OFFSETS:
+            gd = easter + datetime.timedelta(days=offset)
+            gaian = gregorian_to_gaian(gd)
+            if gaian["year"] == gaian_year:
+                _add(gaian["month"], gaian["day"], summary, "")
+
+        # Season markers: Lent (Ash Wed through Holy Saturday) and Eastertide (Easter Monday through Pentecost)
+        ash_wed = easter - datetime.timedelta(days=46)
+        pentecost = easter + datetime.timedelta(days=49)
+        easter_monday = easter + datetime.timedelta(days=1)
+        specific_christian = {easter + datetime.timedelta(days=o)
+                              for (o, _, _) in _ICAL_CHRISTIAN_OFFSETS}
+
+        d = ash_wed
+        while d <= pentecost:
+            if d not in specific_christian:
+                gaian = gregorian_to_gaian(d)
+                if gaian["year"] == gaian_year:
+                    if ash_wed <= d < easter:
+                        _add(gaian["month"], gaian["day"],
+                             "\U0001F56F\uFE0F Season of Lent", "")
+                    elif easter_monday <= d <= pentecost:
+                        _add(gaian["month"], gaian["day"],
+                             "\U0001F305 Eastertide", "")
+            d += datetime.timedelta(days=1)
+    except Exception:
+        pass
+
+    # ── Islamic Friday observances ──
+    islamic_fridays = _islamic_friday_observances(gaian_year)
+    for key, labels in islamic_fridays.items():
+        for label in labels:
+            _add(key[0], key[1], label, "")
+
+    # ── Islamic seasons (Ramadan, Eid al-Fitr, Eid al-Adha) ──
+    for gy in [iso_year - 1, iso_year, iso_year + 1]:
+        try:
+            ram, fitr, adha = _islamic_events_for_year(gy)
+        except Exception:
+            continue
+        if not ram:
+            continue
+
+        # Ramadan span
+        d = ram
+        while d < fitr:
+            gaian = gregorian_to_gaian(d)
+            if gaian["year"] == gaian_year:
+                if d == ram:
+                    _add(gaian["month"], gaian["day"],
+                         "\u262A\uFE0F Beginning of Ramadan", "")
+                else:
+                    _add(gaian["month"], gaian["day"],
+                         "\u262A\uFE0F Ramadan", "")
+            d += datetime.timedelta(days=1)
+
+        # Eid al-Fitr
+        gaian = gregorian_to_gaian(fitr)
+        if gaian["year"] == gaian_year:
+            _add(gaian["month"], gaian["day"],
+                 "\u262A\uFE0F Eid al-Fitr", "")
+
+        # Eid al-Adha
+        gaian = gregorian_to_gaian(adha)
+        if gaian["year"] == gaian_year:
+            _add(gaian["month"], gaian["day"],
+                 "\u262A\uFE0F Eid al-Adha", "")
+
+    return result
+
+
 def _ramadan_start(g_year):
     """Return approximate 1 Ramadan as datetime.date for a Gregorian year.
 
@@ -979,11 +1069,12 @@ def gaian_day_description(gaian_year, month_num, day_num):
                 notable.append(summary)
 
         # Season context (if not already a specific feast day)
+        easter_monday = easter + datetime.timedelta(days=1)
         specific_christian = {easter + datetime.timedelta(days=o)
                               for (o, _, _) in _ICAL_CHRISTIAN_OFFSETS}
         if ash_wed <= gd < easter and gd not in specific_christian:
             notable.append("\U0001F56F\uFE0F the Season of Lent")
-        elif easter < gd <= pentecost and gd not in specific_christian:
+        elif easter_monday <= gd <= pentecost and gd not in specific_christian:
             notable.append("\U0001F305 Eastertide")
     except Exception:
         pass
@@ -1103,6 +1194,45 @@ def _ical_year_holidays(gy, month_display, lang="en"):
     except Exception:
         pass
 
+    # Islamic holidays: Eid al-Fitr, Eid al-Adha, and Friday observances
+    for g_yr in [iso_year - 1, iso_year, iso_year + 1]:
+        try:
+            ram, fitr, adha = _islamic_events_for_year(g_yr)
+        except Exception:
+            continue
+        if not ram:
+            continue
+
+        for gd, label, slug in [
+            (fitr, "\u262A\uFE0F Eid al-Fitr", "eid-al-fitr"),
+            (adha, "\u262A\uFE0F Eid al-Adha", "eid-al-adha"),
+        ]:
+            gaian = gregorian_to_gaian(gd)
+            if gaian["year"] == gy:
+                mname = month_display.get(gaian["month"], f"Month{gaian['month']}")
+                desc = (f"{label}, {_fmt_greg(gd)}. "
+                        f"Gaian date: {mname} {gaian['day']}, {gy} GE")
+                uid = f"gaian-{gy}-islamic-{slug}@order.life"
+                events.append((gd, _vevent(gd, label, desc, uid)))
+
+    # Islamic Friday observances
+    try:
+        islamic_fridays = _islamic_friday_observances(gy)
+        for (mn, dn), labels in islamic_fridays.items():
+            for label in labels:
+                try:
+                    gd = _gaian_day_to_greg(gy, mn, dn)
+                except Exception:
+                    continue
+                mname = month_display.get(mn, f"Month{mn}")
+                desc = (f"{label}, {_fmt_greg(gd)}. "
+                        f"Gaian date: {mname} {dn}, {gy} GE")
+                slug = label.lower().replace(" ", "-").replace("\u262A\uFE0F-", "")
+                uid = f"gaian-{gy}-{mn:02d}-{dn:02d}-{slug}@order.life"
+                events.append((gd, _vevent(gd, label, desc, uid)))
+    except Exception:
+        pass
+
     return events
 
 
@@ -1171,18 +1301,19 @@ def _ical_year_seasons(gy, lang="en"):
         ash_wed   = easter - datetime.timedelta(days=46)
         pentecost = easter + datetime.timedelta(days=49)
 
-        lent_desc = (f"Season of Lent: {_fmt_greg(ash_wed)} to {_fmt_greg(easter)}. "
+        lent_desc = (f"Season of Lent: {_fmt_greg(ash_wed)} to {_fmt_greg(easter - datetime.timedelta(days=1))}. "
                      f"40 days of fasting and reflection before Easter.")
         events.append((ash_wed, _vevent_span(
-            ash_wed, easter + datetime.timedelta(days=1),
+            ash_wed, easter,
             n["lent"], lent_desc,
             f"gaian-{gy}-lent-season@order.life"
         )))
 
-        tide_desc = (f"Eastertide: {_fmt_greg(easter)} to {_fmt_greg(pentecost)}. "
-                     f"49 days from Easter to Pentecost.")
-        events.append((easter, _vevent_span(
-            easter, pentecost + datetime.timedelta(days=1),
+        easter_monday = easter + datetime.timedelta(days=1)
+        tide_desc = (f"Eastertide: {_fmt_greg(easter_monday)} to {_fmt_greg(pentecost)}. "
+                     f"From Easter Monday to Pentecost.")
+        events.append((easter_monday, _vevent_span(
+            easter_monday, pentecost + datetime.timedelta(days=1),
             n["eastertide"], tide_desc,
             f"gaian-{gy}-eastertide@order.life"
         )))
@@ -1848,8 +1979,8 @@ def build_site():
             (yrfdir / "index.html").write_text(
                 _yr_redirect(f"{base}/calendar/{gaian_year}/festivals/"), encoding="utf-8")
 
-            # ── Islamic Friday observances for this year ──
-            _islamic_fridays = _islamic_friday_observances(gaian_year)
+            # ── Floating holidays for this year (Christian + Islamic) ──
+            _floating = _floating_holidays_for_year(gaian_year)
 
             # ── ISO/Horus detection ──
             iso_year = gaian_year - 10000
@@ -1888,7 +2019,7 @@ def build_site():
                                 {**ctx, "display_year": gaian_year,
                                  "month_num": m["num"], "day_num": d,
                                  "month_info": m,
-                                 "islamic_observances": _islamic_fridays.get((m["num"], d), [])})
+                                 "floating_holidays": _floating.get((m["num"], d), [])})
 
                     # ── Redirect: /calendar/year/{year}/{MM}/{DD}/ ──
                     yr_ddir = yr_mdir / f"{d:02d}"
