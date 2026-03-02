@@ -57,6 +57,22 @@
           </a>
         {% endfor %}
       </div>
+      {% if chapter_passages %}
+        <div class="passages-list">
+          {% for chapter_num in chapters_mentioned_in %}
+            {% if chapter_passages[chapter_num] is defined and chapter_passages[chapter_num] %}
+              <div class="passage-group">
+                <h3><a href="{{ base }}/gaiad/{{ '%03d' % chapter_num }}/">{{ t.chapter }} {{ chapter_num }}</a></h3>
+                <ul class="passage-lines">
+                  {% for line in chapter_passages[chapter_num] %}
+                    <li>{{ line }}</li>
+                  {% endfor %}
+                </ul>
+              </div>
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% endif %}
     </div>
 
     <div class="character-genealogy">
@@ -143,6 +159,48 @@
 
 .chapter-link:hover {
   background-color: var(--accent-hover);
+}
+
+.passages-list {
+  margin-top: 25px;
+  border-top: 1px solid var(--border-color);
+  padding-top: 20px;
+}
+
+.passage-group {
+  margin-bottom: 24px;
+}
+
+.passage-group h3 {
+  margin: 0 0 8px 0;
+  font-size: 1em;
+  color: var(--text-muted);
+}
+
+.passage-group h3 a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.passage-group h3 a:hover {
+  text-decoration: underline;
+}
+
+.passage-lines {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.passage-lines li {
+  padding: 6px 10px;
+  border-left: 3px solid var(--accent-color);
+  margin-bottom: 6px;
+  font-style: italic;
+  line-height: 1.6;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  border-radius: 0 4px 4px 0;
 }
 
 .family-tree {
