@@ -190,6 +190,12 @@ The following events and genealogies need to be woven into the ~95 chapters of t
 - Norse mythology (cosmogony through Ragnarök)
 - The Celts (pre-Roman Europe; Gaul, Britain, Ireland; absorbed by Rome and later the Church)
 
+**Greek Philosophy**
+- Pre-Socratics (Thales, Heraclitus, Parmenides — the first attempt to explain the cosmos without myth)
+- Socrates, Plato, Aristotle (the chain; Aristotle tutors Alexander, connecting philosophy directly to conquest)
+- Epicureanism and Stoicism (the schools that survive into Rome and shape early Christian theology)
+- Neoplatonism (Plotinus; the bridge between Greek philosophy and both Christianity and Islam)
+
 **Classical Mediterranean**
 - Romulus and Remus; the Roman Kingdom and Republic
 - Achaemenid Persia: Cyrus the Great (freed Jews from Babylon — pivotal for post-exilic Judaism), Darius, Xerxes
