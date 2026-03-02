@@ -192,11 +192,22 @@ The following events and genealogies need to be woven into the ~95 chapters of t
 - The fall of Rome; the Gothic Wars
 - The Nubians (Kushite/Meroitic kingdoms and their relationship with Egypt)
 
+**Religion & Philosophy**
+- Zoroastrianism and its role in the transition toward monotheism (influenced Jewish theology during the Babylonian exile; ancestor of Manichaeism)
+- Manichaeism (Mani's synthesis of Zoroastrian, Buddhist, and Christian elements; Augustine was Manichaean before converting)
+- Buddhism (Siddhartha, spread through India and along the Silk Road into China and Japan; connects to Ashoka)
+- Hinduism as a religious system (Vedic religion, the Upanishads, Brahman — beyond just the epics)
+- Confucianism and Taoism (Chinese philosophical traditions; companion to the Yellow Emperor thread)
+
 **Late Antique & Early Medieval**
 - Genealogy of Charlemagne
 - Christianization of Rome (including Sol Invictus and the syncretism of Mithraism/solar cults)
 - The corruption of Judaism into strict monotheism (post-Babylonian exile redaction)
 - The rise of Islam
+
+**Cross-tradition connections to develop**
+- Bible–Greek mythology parallels: Yahweh as El (Ugaritic tablets show the pre-monotheist Canaanite pantheon El/Asherah/Baal that was absorbed into YHWH); Dionysus as proto-Christ (dying/resurrecting god); Deucalion flood = Noah; Prometheus = Lucifer; Heracles = Samson; Perseus as Near Eastern hero archetype
+- The flood myth across traditions: Utnapishtim (Gilgamesh), Deucalion (Greek), Noah (Genesis), Manu (Hindu) — all traceable to a shared ancient stratum
 
 ### Chapters 329–364: Scorpio/Ophiuchus — Modern Era to Future (Notes complete)
 
