@@ -2207,10 +2207,29 @@ def build_site():
                     if genealogy.get(child):
                         child_urls[child] = f"{base}/gaiad/characters/{child_safe}/"
 
+                # Extract passages from chapters mentioning this character
+                chapter_passages = {}
+                for chapter_num in char_data.get("chapters_mentioned_in", []):
+                    chapter_file = EPIC_DIR / f"chapter_{chapter_num:03d}.md"
+                    if chapter_file.exists():
+                        try:
+                            with open(chapter_file, 'r', encoding='utf-8') as f:
+                                lines = f.readlines()
+                            # Find lines containing the character name (case-insensitive)
+                            matching_lines = [
+                                line.rstrip() for line in lines
+                                if char_name.lower() in line.lower()
+                            ]
+                            if matching_lines:
+                                chapter_passages[chapter_num] = matching_lines
+                        except Exception as e:
+                            print(f"Warning: Could not read chapter {chapter_num} for {char_name}: {e}")
+
                 char_ctx = {
                     **ctx,
                     "character_name": char_name,
                     "chapters_mentioned_in": char_data.get("chapters_mentioned_in", []),
+                    "chapter_passages": chapter_passages,
                     "father": char_data.get("father"),
                     "mother": char_data.get("mother"),
                     "children": char_data.get("children", []),
