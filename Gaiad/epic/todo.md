@@ -164,6 +164,8 @@ The following events and genealogies need to be woven into the ~95 chapters of t
 
 **Ancient Near East & Egypt**
 - Rise of Sumer; early city-states and kingship
+- Epic of Gilgamesh and Babylon (Utnapishtim/flood narrative predates Genesis; Enkidu/Adam parallels; Hammurabi's law code as precursor to Mosaic law)
+- Ashurbanipal (Assyrian king; his Nineveh library preserved the Gilgamesh tablets; Assyrian destruction of the northern Kingdom of Israel)
 - Rise of Egypt; genealogy of pharaohs beginning with Menes, Khasemkwy, and Djoser (who abolishes slavery)
 - The Hyksos invasion and their connection to the Exodus story
 - Abraham and his children; Jacob as Yaqub-Har
@@ -178,36 +180,46 @@ The following events and genealogies need to be woven into the ~95 chapters of t
 - The Mahabharata
 
 **East Asia**
+- Spring and Autumn period; Warring States; Qin Shi Huang (first unification of China, burning of books, Legalism vs. Confucianism)
 - The Yellow Emperor
+- Wu Zetian (only female emperor of China; Tang Dynasty; persecution of Manichaeism)
 - Jimmu (first Emperor of Japan)
 - Empress Jingu and Emperor Ojin
 
 **Norse & Northern Europe**
 - Norse mythology (cosmogony through Ragnarök)
+- The Celts (pre-Roman Europe; Gaul, Britain, Ireland; absorbed by Rome and later the Church)
 
 **Classical Mediterranean**
 - Romulus and Remus; the Roman Kingdom and Republic
+- Achaemenid Persia: Cyrus the Great (freed Jews from Babylon — pivotal for post-exilic Judaism), Darius, Xerxes
 - Alexander's conquests
+- Carthage and the Punic Wars (Hannibal; Rome's near-destruction and eventual dominance)
 - Julius Caesar
 - The fall of Rome; the Gothic Wars
+- Byzantine Empire (continuation of Rome; the Gothic Wars are Byzantine; survives until 1453)
 - The Nubians (Kushite/Meroitic kingdoms and their relationship with Egypt)
 
 **Religion & Philosophy**
-- Zoroastrianism and its role in the transition toward monotheism (influenced Jewish theology during the Babylonian exile; ancestor of Manichaeism)
-- Manichaeism (Mani's synthesis of Zoroastrian, Buddhist, and Christian elements; Augustine was Manichaean before converting)
-- Buddhism (Siddhartha, spread through India and along the Silk Road into China and Japan; connects to Ashoka)
+- Zoroastrianism and its role in the transition toward monotheism (influenced Jewish theology during the Babylonian exile; Cyrus as agent of Ahura Mazda; ancestor of Manichaeism)
+- Manichaeism (Mani's synthesis of Zoroastrian, Buddhist, and Christian elements; Augustine was Manichaean before converting; persecuted under Wu Zetian in China)
+- Buddhism: Siddhartha and the founding; Ashoka's conversion and empire-wide spread; the origin of Mahayana (Prajnaparamita sutras, bodhisattva ideal, ~1st c. BCE–CE)
+- The transmission of Buddhism to China: White Horse Temple (~68 CE, first Buddhist temple in China) through to Xuanzang (Tang Dynasty; pilgrim to India; basis for Journey to the West)
+- Buddhism reaches Japan: Kukai (founder of Shingon; brought esoteric Buddhism from Tang China) and Saicho (founder of Tendai; rival school; both early 9th century)
 - Hinduism as a religious system (Vedic religion, the Upanishads, Brahman — beyond just the epics)
-- Confucianism and Taoism (Chinese philosophical traditions; companion to the Yellow Emperor thread)
+- Confucianism and Taoism (Chinese philosophical traditions; companion to the Yellow Emperor and Qin Shi Huang threads)
 
 **Late Antique & Early Medieval**
 - Genealogy of Charlemagne
 - Christianization of Rome (including Sol Invictus and the syncretism of Mithraism/solar cults)
+- The Sassanid Empire (Persian renaissance; great Zoroastrian state; rival to Byzantium; falls to Islam)
 - The corruption of Judaism into strict monotheism (post-Babylonian exile redaction)
 - The rise of Islam
 
 **Cross-tradition connections to develop**
 - Bible–Greek mythology parallels: Yahweh as El (Ugaritic tablets show the pre-monotheist Canaanite pantheon El/Asherah/Baal that was absorbed into YHWH); Dionysus as proto-Christ (dying/resurrecting god); Deucalion flood = Noah; Prometheus = Lucifer; Heracles = Samson; Perseus as Near Eastern hero archetype
 - The flood myth across traditions: Utnapishtim (Gilgamesh), Deucalion (Greek), Noah (Genesis), Manu (Hindu) — all traceable to a shared ancient stratum
+- Indo-European migrations as connective tissue: the spread of Vedic, Greek, Latin, Norse, Celtic, and Persian traditions from a common ancestral religion
 
 ### Chapters 329–364: Scorpio/Ophiuchus — Modern Era to Future (Notes complete)
 
