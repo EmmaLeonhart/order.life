@@ -387,6 +387,25 @@ def load_chapters():
     return chapters
 
 
+def load_genealogy():
+    """Load character genealogy data from Gaiad/genealogy/ JSON files."""
+    genealogy = {}
+    genealogy_dir = SCRIPT_DIR / "Gaiad" / "genealogy"
+    if not genealogy_dir.exists():
+        return genealogy
+
+    for json_file in genealogy_dir.glob("*.json"):
+        try:
+            with open(json_file, "r", encoding="utf-8") as f:
+                char_data = json.load(f)
+                # Use the character name as the key
+                genealogy[char_data.get("name")] = char_data
+        except Exception as e:
+            print(f"  Warning: Failed to load {json_file.name}: {e}")
+
+    return genealogy
+
+
 def load_wiki_pages():
     """Load wiki page content from XML export. Returns dict of title -> wikitext."""
     wiki_pages = {}
@@ -1640,6 +1659,7 @@ def build_site():
     chapters = load_chapters()
     weekday_names = load_weekday_names()
     wiki_pages = load_wiki_pages()
+    genealogy = load_genealogy()
     fudoki_divisions = load_fudoki_data()
     today = date.today()
     gaian_today = gregorian_to_gaian(today)
@@ -2152,6 +2172,55 @@ def build_site():
                 "next_chapter": ch_num + 1 if ch_num < 364 else None,
             }
             render_page(env, "gaiad/chapter.html", ch_dir / "index.html", ch_ctx)
+
+        # ── Character pages (English only for now) ──
+        if lang == DEFAULT_LANG and genealogy:
+            characters_dir = lang_dir / "gaiad" / "characters"
+            characters_dir.mkdir(parents=True, exist_ok=True)
+
+            for char_name, char_data in genealogy.items():
+                # Create filename-safe version of character name
+                safe_name = re.sub(r'[^a-zA-Z0-9_-]', '', char_name.replace(' ', '_')).lower()
+                if not safe_name:
+                    safe_name = "unknown"
+
+                char_page_dir = characters_dir / safe_name
+                char_page_dir.mkdir(parents=True, exist_ok=True)
+
+                # Build URLs for family members if they exist in genealogy
+                father_url = None
+                mother_url = None
+                child_urls = {}
+
+                if char_data.get("father"):
+                    father_safe = re.sub(r'[^a-zA-Z0-9_-]', '', char_data["father"].replace(' ', '_')).lower()
+                    if genealogy.get(char_data["father"]):
+                        father_url = f"{base}/gaiad/characters/{father_safe}/"
+
+                if char_data.get("mother"):
+                    mother_safe = re.sub(r'[^a-zA-Z0-9_-]', '', char_data["mother"].replace(' ', '_')).lower()
+                    if genealogy.get(char_data["mother"]):
+                        mother_url = f"{base}/gaiad/characters/{mother_safe}/"
+
+                for child in char_data.get("children", []):
+                    child_safe = re.sub(r'[^a-zA-Z0-9_-]', '', child.replace(' ', '_')).lower()
+                    if genealogy.get(child):
+                        child_urls[child] = f"{base}/gaiad/characters/{child_safe}/"
+
+                char_ctx = {
+                    **ctx,
+                    "character_name": char_name,
+                    "chapters_mentioned_in": char_data.get("chapters_mentioned_in", []),
+                    "father": char_data.get("father"),
+                    "mother": char_data.get("mother"),
+                    "children": char_data.get("children", []),
+                    "wiki_qid": char_data.get("wiki_qid"),
+                    "father_url": father_url,
+                    "mother_url": mother_url,
+                    "child_urls": child_urls,
+                }
+
+                render_page(env, "gaiad/character.html", char_page_dir / "index.html", char_ctx)
 
         # ── Section pages ──
         for section in ["scripture", "mythology", "philosophy", "shrines", "longevity", "evolution", "faq", "rituals"]:
