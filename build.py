@@ -868,8 +868,8 @@ def _islamic_friday_observances(gaian_year):
 
         # Collect all with labels
         entries = [
-            ("\u262A\uFE0F Fitr Friday", fitr_friday),
-            ("\u262A\uFE0F Adha Friday", adha_friday),
+            ("🕌 Fitr Friday", fitr_friday),
+            ("🕋 Adha Friday", adha_friday),
         ]
         _ORD = {0: "1st", 1: "2nd", 2: "3rd", 3: "4th"}
         for i, rf in enumerate(ramadan_fridays):
