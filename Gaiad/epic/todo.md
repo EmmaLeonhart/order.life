@@ -229,6 +229,44 @@ The following events and genealogies need to be woven into the ~95 chapters of t
 - The flood myth across traditions: Utnapishtim (Gilgamesh), Deucalion (Greek), Noah (Genesis), Manu (Hindu) — all traceable to a shared ancient stratum
 - Indo-European migrations as connective tissue: the spread of Vedic, Greek, Latin, Norse, Celtic, and Persian traditions from a common ancestral religion
 
+---
+
+### Chapters 130–224: Specific Planned Scenes & Stories (unassigned, roughly chronological)
+
+| # | Event / Story | Notes |
+|---|---------------|-------|
+| — | **Egyptian time periods** | Old Kingdom → First Intermediate Period → Middle Kingdom → Second Intermediate Period (Hyksos) → New Kingdom; each as a distinct chapter beat |
+| — | **Hyksos and Jacob as Yaqub-Har** | Jacob/Yaqub-Har is a Hyksos chieftain; the Israelite sojourn in Egypt embedded in the Hyksos occupation |
+| — | **Abraham** | Founding patriarch; departure from Ur; covenant; genealogy into Isaac/Ishmael |
+| — | **Exodus** | Moses and the departure from Egypt; link to Hyksos expulsion as the historical substrate |
+| — | **Ashurbanipal makes the first library** | Nineveh; deliberate collection of Gilgamesh and all Mesopotamian knowledge; the first archivist |
+| — | **Life of King David and successors** | David's wars and poetry; Solomon's temple; Jezebel and her connection into Greek mythology (Phoenician princess, Baal worship) |
+| — | **Judaism becomes monotheistic during the Babylonian exile** | Post-exilic redaction of the Torah; Deuteronomistic history; Cyrus as Messiah figure |
+| — | **Life of Zarathustra** | Prophet of Ahura Mazda; historical vs. legendary Zarathustra; Zoroastrianism's influence on the exiled Jews |
+| — | **Sassanid transition: Zoroastrianism toward monotheism** | Zurvanite heresy; the hardening of Zoroastrian orthodoxy under the Sassanids |
+| — | **The Trojan War and the Aeneid** | Trojan War as the mythic hinge of Greek and Roman identity; Aeneas's flight to Italy as Rome's founding myth |
+| — | **Greek philosophy** | Pre-Socratics → Socrates → Plato → Aristotle (who tutors Alexander); Stoicism and Epicureanism as the philosophical legacy that shapes Rome and Christianity |
+| — | **Alexander's conquests** | Macedonian expansion; Hellenization of the Near East; Alexandria as the world's knowledge center |
+| — | **Romulus and Remus** | Founding of Rome; fratricide as the city's original sin |
+| — | **Jimmu's conquests** | First Emperor of Japan; divine descent from Amaterasu; unification of the islands |
+| — | **Empress Jingu** | Legendary regent; Korean campaigns; mother of Ojin (later deified as Hachiman) |
+| — | **Life of the Yellow Emperor and his successors** | Huangdi vs. Chiyou; invention of writing, medicine, silk; the five legendary emperors |
+| — | **Qin Shi Huang** | Warring States; first unification of China; burning of books; the Great Wall; Legalism vs. Confucianism |
+| — | **Christ and Herod** | Existing planned story; Herod's massacre; the flight to Egypt |
+| — | **Emperor Elagabalus** | Syrian teenager becomes Roman emperor; brings the black stone of Emesa (El-Gabal) to Rome and installs it above Jupiter |
+| — | **Iamblichus takes the black stone from Emesa to Mecca** | Connecting the Emesa stone to the Kaaba; the thread from Elagabalus's solar cult into Islamic sacred geography |
+| — | **Sol Invictus** | Aurelian's solar monotheism; the cult that Constantine inherits |
+| — | **Constantine and syncretism** | Edict of Milan; Council of Nicaea; Christ fused with Sol Invictus; the political creation of orthodox Christianity |
+| — | **Life of Muhammad** | Birth, revelation, Hijra, conquest of Mecca, death; the founding of Islam |
+| — | **Gothic Wars and the fall of Rome** | Visigoths sack Rome (410); Odoacer deposes Romulus Augustulus (476); Justinian's attempted reconquest |
+| — | **Fall of Constantinople** | 1453; Ottoman conquest; end of the Byzantine Empire; Greek scholars flee to Italy and spark the Renaissance |
+| — | **Mongol conquests** | Genghis Khan; the largest contiguous empire; destruction of Baghdad (1258) ends the Islamic Golden Age; connects East and West via the Pax Mongolica |
+| — | **Christianization of the Celts of England and the Anglo-Saxon invasion** | Patrick in Ireland; Augustine of Canterbury; the Germanic Anglo-Saxon displacement of Romano-British Christianity |
+| — | **Christianization of the Rus** | Vladimir I's conversion (988); Orthodox Christianity comes to Eastern Europe; the split from Rome |
+| — | **The story of Ethiopia** | Aksumite Empire; early Christianity (4th c., before Rome); the Ark of the Covenant tradition; Queen of Sheba link to Solomon |
+| — | **Crusades** | First through Fourth Crusade; the sack of Constantinople (1204) by fellow Christians; collapse of crusader states |
+| — | **Medieval papacy: House of Theophylact / Marozia** | The Pornocracy (~904–964 CE); Marozia as kingmaker and pope-maker; the nadir of papal authority |
+
 ### Chapters 329–364: Scorpio/Ophiuchus — Modern Era to Future (Notes complete)
 
 | Ch | Title | Summary |
