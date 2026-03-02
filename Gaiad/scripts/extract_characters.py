@@ -1,96 +1,104 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """
-Extract all character names from chapters 001-062.
+Extract characters from Gaiad epic chapters.
+Parses {{c|Name}} markup from chapter_*.md files and generates JSON files for each character.
 """
 
+import json
 import re
-import glob
 from pathlib import Path
-from collections import Counter
+from collections import defaultdict
 
-def extract_capitalized_names(text):
-    """Extract capitalized words that look like character names."""
-    # Match capitalized words, but exclude common words
-    exclude_words = {
-        "The", "And", "But", "For", "With", "From", "Through", "When", "Where", "What",
-        "This", "That", "Their", "They", "Them", "These", "Those", "Then", "Thus",
-        "Here", "There", "While", "Which", "Who", "Whose", "Whom", "How", "Why",
-        "All", "Each", "Every", "Some", "Many", "Few", "Most", "Several", "Both",
-        "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten",
-        "First", "Second", "Third", "Last", "Next", "Previous", "Another", "Other",
-        "Lord", "Lady", "King", "Queen", "Prince", "Princess", "God", "Goddess",
-        "Father", "Mother", "Brother", "Sister", "Son", "Daughter", "Children",
-        "Day", "Night", "Dawn", "Dusk", "Morning", "Evening", "Noon", "Midnight",
-        "Spring", "Summer", "Fall", "Winter", "Autumn",
-        "North", "South", "East", "West",
-        "Heaven", "Earth", "Sky", "Sea", "Ocean", "Land", "Water", "Fire", "Air",
-        "Life", "Death", "Love", "Hope", "Faith", "Truth", "Light", "Dark", "Darkness",
-        "Time", "Space", "Universe", "World", "Cosmos", "Galaxy",
-        "In", "On", "At", "To", "By", "Of", "As", "Into", "Upon", "Within",
-        "About", "Above", "Across", "After", "Against", "Along", "Among", "Around",
-        "Before", "Behind", "Below", "Beneath", "Beside", "Between", "Beyond",
-        "During", "Inside", "Near", "Over", "Past", "Since", "Under", "Until",
-        "Unless", "Unlike", "Without", "Toward", "Towards",
-        "Advertisement", "Chapter", "Book", "Tale", "Story", "Song", "Poem",
-        "Once", "Upon", "Never", "Always", "Sometimes", "Often", "Rarely",
-        "Can", "Could", "May", "Might", "Must", "Should", "Would", "Will", "Shall",
-        "His", "Her", "Its", "My", "Your", "Our",
-        "Not", "No", "Yes", "Yet", "Still", "Just", "Only", "Even", "Also", "Too",
-        "So", "Such", "Very", "Much", "More", "Most", "Less", "Least",
-        "Great", "Grand", "Mighty", "Noble", "Sacred", "Holy", "Divine", "Blessed",
-        "Bright", "Beautiful", "Fair", "Pure", "True", "Wise", "Ancient", "Old", "New",
-        "First", "Final", "Last", "Eternal", "Endless",
-        "Though", "Although", "Because", "Since", "While", "Until", "Unless",
-        "If", "Whether", "Than", "Rather", "Instead", "Otherwise",
-        "Omega", "Alpha", "Point",
-    }
+# Directories
+EPIC_DIR = Path(__file__).parent.parent / "epic"
+GENEALOGY_DIR = Path(__file__).parent.parent / "genealogy"
 
-    # Extract capitalized words
-    pattern = r'\b[A-Z][a-z]+(?:-[A-Z][a-z]+)*\b'
-    words = re.findall(pattern, text)
+# Create genealogy directory if it doesn't exist
+GENEALOGY_DIR.mkdir(exist_ok=True)
 
-    # Filter out excluded words
-    names = [word for word in words if word not in exclude_words]
+def extract_marked_text(text):
+    """Extract all {{c|...}} marked text from a string."""
+    pattern = r'\{\{c\|([^}]+)\}\}'
+    return re.findall(pattern, text)
 
-    return names
+def load_chapters():
+    """Load all chapters and extract marked characters."""
+    chapters = {}
+    character_chapters = defaultdict(set)  # Use set to deduplicate
 
-def main():
-    epic_dir = Path("/home/user/Gaiad-and-Literature-work/epic")
-
-    # Get chapters 001-062
-    chapter_files = sorted(epic_dir.glob("chapter_0[0-5][0-9].md")) + sorted(epic_dir.glob("chapter_06[0-2].md"))
-
-    print(f"Extracting characters from {len(chapter_files)} chapters...\n")
-
-    all_names = []
+    # Find all chapter files
+    chapter_files = sorted(EPIC_DIR.glob("chapter_*.md"))
 
     for chapter_file in chapter_files:
-        with open(chapter_file, 'r', encoding='utf-8') as f:
+        # Extract chapter number from filename
+        match = re.match(r"chapter_(\d+)\.md", chapter_file.name)
+        if not match:
+            continue
+
+        chapter_num = int(match.group(1))
+
+        # Read chapter content
+        with open(chapter_file, "r", encoding="utf-8") as f:
             content = f.read()
-            names = extract_capitalized_names(content)
-            all_names.extend(names)
 
-    # Count occurrences
-    name_counts = Counter(all_names)
+        chapters[chapter_num] = content
 
-    # Sort by frequency (descending)
-    sorted_names = sorted(name_counts.items(), key=lambda x: (-x[1], x[0]))
+        # Extract all marked text
+        marked_texts = extract_marked_text(content)
 
-    print("Top 100 most frequently mentioned names:\n")
-    for i, (name, count) in enumerate(sorted_names[:100], 1):
-        print(f"{i:3d}. {name:30s} ({count:4d} mentions)")
+        # Track which chapters each character appears in (deduplicated per chapter)
+        for char_name in marked_texts:
+            character_chapters[char_name].add(chapter_num)
 
-    print(f"\n\nTotal unique names: {len(name_counts)}")
-    print(f"Total mentions: {sum(name_counts.values())}")
+    return chapters, character_chapters
 
-    # Save all unique names to a file
-    output_file = epic_dir / "extracted_character_names.txt"
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write("# Extracted Character Names (sorted by frequency)\n\n")
-        for name, count in sorted_names:
-            f.write(f"{name}: {count}\n")
+def create_character_jsons(character_chapters):
+    """Create JSON files for each unique character."""
 
-    print(f"\n\nFull list saved to: {output_file}")
+    for char_name in sorted(character_chapters.keys()):
+        chapters = sorted(list(character_chapters[char_name]))
+
+        # Create character data
+        char_data = {
+            "name": char_name,
+            "chapters_mentioned_in": chapters,
+            "father": None,
+            "mother": None,
+            "children": [],
+            "wiki_qid": None
+        }
+
+        # Create filename from character name (sanitize for filesystem)
+        # Convert to snake_case and replace spaces with underscores
+        filename = re.sub(r'[^a-zA-Z0-9_-]', '', char_name.replace(' ', '_')).lower()
+
+        # Handle edge cases where filename becomes empty
+        if not filename:
+            filename = "unknown"
+
+        filepath = GENEALOGY_DIR / f"{filename}.json"
+
+        # Write JSON file
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(char_data, f, indent=2, ensure_ascii=False)
+
+        print(f"Created: {filepath}")
+
+    print(f"\nTotal characters created: {len(character_chapters)}")
+
+def main():
+    """Main entry point."""
+    print("Extracting characters from Gaiad epic chapters...")
+    print(f"Epic directory: {EPIC_DIR}")
+    print(f"Output directory: {GENEALOGY_DIR}")
+    print()
+
+    chapters, character_chapters = load_chapters()
+    print(f"Loaded {len(chapters)} chapters")
+    print(f"Found {len(character_chapters)} unique characters/concepts")
+    print()
+
+    create_character_jsons(character_chapters)
 
 if __name__ == "__main__":
     main()

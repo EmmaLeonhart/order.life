@@ -1,0 +1,187 @@
+{% extends "base.html" %}
+{% block title %}{{ character_name }} — {{ t.gaiad }} Characters{% endblock %}
+{% block meta_description %}Learn about {{ character_name }}, a character from the Gaiad epic. Appears in {{ chapters_mentioned_in|length }} chapter{{ 's' if chapters_mentioned_in|length != 1 else '' }}.{% endblock %}
+{% block og_title %}{{ character_name }} — {{ t.site_title }}{% endblock %}
+{% block og_description %}{{ character_name }} from the Gaiad epic appears in chapters {{ chapters_mentioned_in|join(', ') }}.{% endblock %}
+{% block twitter_title %}{{ character_name }} — {{ t.gaiad }} Characters{% endblock %}
+{% block twitter_description %}Learn about {{ character_name }} from the Gaiad.{% endblock %}
+
+{% block content %}
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    <a href="{{ base }}/gaiad/">{{ t.gaiad }}</a>
+    <span>›</span>
+    <a href="{{ base }}/gaiad/characters/">Characters</a>
+    <span>›</span>
+    {{ character_name }}
+  </div>
+
+  <div class="character-content">
+    <div class="character-header">
+      <h1>{{ character_name }}</h1>
+      <p class="character-meta">
+        {% if father %}
+          <strong>Father:</strong>
+          {% if father_url %}<a href="{{ father_url }}">{{ father }}</a>{% else %}{{ father }}{% endif %}
+          <br>
+        {% endif %}
+        {% if mother %}
+          <strong>Mother:</strong>
+          {% if mother_url %}<a href="{{ mother_url }}">{{ mother }}</a>{% else %}{{ mother }}{% endif %}
+          <br>
+        {% endif %}
+        {% if children %}
+          <strong>Children:</strong>
+          {% for child in children %}
+            {% if child_urls and child_urls[child] %}<a href="{{ child_urls[child] }}">{{ child }}</a>{% else %}{{ child }}{% endif %}
+            {% if not loop.last %}, {% endif %}
+          {% endfor %}
+          <br>
+        {% endif %}
+        {% if wiki_qid %}
+          <strong>Wiki QID:</strong> {{ wiki_qid }}
+          <br>
+        {% endif %}
+      </p>
+    </div>
+
+    <div class="character-info">
+      <h2>Mentions</h2>
+      <p>{{ character_name }} appears in {{ chapters_mentioned_in|length }} chapter{{ 's' if chapters_mentioned_in|length != 1 else '' }}:</p>
+      <div class="chapters-list">
+        {% for chapter_num in chapters_mentioned_in %}
+          <a href="{{ base }}/gaiad/{{ '%03d' % chapter_num }}/" class="chapter-link">
+            {{ t.chapter }} {{ chapter_num }}
+          </a>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="character-genealogy">
+      <h2>Genealogy</h2>
+      {% if father or mother or children %}
+        <div class="family-tree">
+          {% if father or mother %}
+            <div class="family-section">
+              <h3>Parents</h3>
+              <ul>
+                {% if father %}<li>Father: {% if father_url %}<a href="{{ father_url }}">{{ father }}</a>{% else %}{{ father }}{% endif %}</li>{% endif %}
+                {% if mother %}<li>Mother: {% if mother_url %}<a href="{{ mother_url }}">{{ mother }}</a>{% else %}{{ mother }}{% endif %}</li>{% endif %}
+              </ul>
+            </div>
+          {% endif %}
+          {% if children %}
+            <div class="family-section">
+              <h3>Children</h3>
+              <ul>
+                {% for child in children %}
+                  <li>{% if child_urls and child_urls[child] %}<a href="{{ child_urls[child] }}">{{ child }}</a>{% else %}{{ child }}{% endif %}</li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+        </div>
+      {% else %}
+        <p style="color: var(--text-muted);">No genealogical information available yet.</p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<style>
+.character-content {
+  max-width: 800px;
+  margin: 40px auto;
+}
+
+.character-header {
+  margin-bottom: 40px;
+}
+
+.character-header h1 {
+  font-size: 2.5em;
+  margin: 0 0 20px 0;
+}
+
+.character-meta {
+  font-size: 1.1em;
+  line-height: 1.8;
+  color: var(--text-muted);
+  margin: 0;
+}
+
+.character-info {
+  margin-bottom: 40px;
+  padding: 20px;
+  background-color: var(--bg-secondary);
+  border-radius: 8px;
+}
+
+.character-info h2 {
+  margin-top: 0;
+}
+
+.chapters-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 15px;
+}
+
+.chapter-link {
+  display: inline-block;
+  padding: 6px 12px;
+  background-color: var(--accent-color);
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.9em;
+  transition: background-color 0.2s;
+}
+
+.chapter-link:hover {
+  background-color: var(--accent-hover);
+}
+
+.family-tree {
+  margin-top: 15px;
+}
+
+.family-section {
+  margin-bottom: 20px;
+}
+
+.family-section h3 {
+  margin: 0 0 10px 0;
+  color: var(--text-muted);
+  font-size: 1em;
+  text-transform: uppercase;
+}
+
+.family-section ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.family-section li {
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.family-section li:last-child {
+  border-bottom: none;
+}
+
+.family-section a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.family-section a:hover {
+  text-decoration: underline;
+}
+</style>
+{% endblock %}
