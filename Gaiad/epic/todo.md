@@ -216,11 +216,13 @@ The following events and genealogies need to be woven into the ~95 chapters of t
 - Confucianism and Taoism (Chinese philosophical traditions; companion to the Yellow Emperor and Qin Shi Huang threads)
 
 **Late Antique & Early Medieval**
+- Christ and Herod (existing story draft)
 - Genealogy of Charlemagne
 - Christianization of Rome (including Sol Invictus and the syncretism of Mithraism/solar cults)
 - The Sassanid Empire (Persian renaissance; great Zoroastrian state; rival to Byzantium; falls to Islam)
 - The corruption of Judaism into strict monotheism (post-Babylonian exile redaction)
 - The rise of Islam
+- The medieval papacy under the House of Theophylact / Marozia (the Pornocracy; the most corrupt period of the papacy, ~900–960 CE; Marozia effectively controlled the papacy for decades)
 
 **Cross-tradition connections to develop**
 - Bible–Greek mythology parallels: Yahweh as El (Ugaritic tablets show the pre-monotheist Canaanite pantheon El/Asherah/Baal that was absorbed into YHWH); Dionysus as proto-Christ (dying/resurrecting god); Deucalion flood = Noah; Prometheus = Lucifer; Heracles = Samson; Perseus as Near Eastern hero archetype
