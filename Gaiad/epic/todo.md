@@ -158,6 +158,46 @@
 
 **Gap: Ch 130–224** — no notes yet. Covers stone age, bronze age, iron age, classical antiquity, medieval period. Needs planning.
 
+### Chapters 130–224: Premodern Old World History — Topics to incorporate (unassigned)
+
+The following events and genealogies need to be woven into the ~95 chapters of this block. Chapter assignments TBD.
+
+**Ancient Near East & Egypt**
+- Rise of Sumer; early city-states and kingship
+- Rise of Egypt; genealogy of pharaohs beginning with Menes, Khasemkwy, and Djoser (who abolishes slavery)
+- The Hyksos invasion and their connection to the Exodus story
+- Abraham and his children; Jacob as Yaqub-Har
+- Exodus
+
+**Epics & Heroic Cycles**
+- The Trojan War
+- The Odyssey
+- The Aeneid
+- Perseus
+- The Ramayana
+- The Mahabharata
+
+**East Asia**
+- The Yellow Emperor
+- Jimmu (first Emperor of Japan)
+- Empress Jingu and Emperor Ojin
+
+**Norse & Northern Europe**
+- Norse mythology (cosmogony through Ragnarök)
+
+**Classical Mediterranean**
+- Romulus and Remus; the Roman Kingdom and Republic
+- Alexander's conquests
+- Julius Caesar
+- The fall of Rome; the Gothic Wars
+- The Nubians (Kushite/Meroitic kingdoms and their relationship with Egypt)
+
+**Late Antique & Early Medieval**
+- Genealogy of Charlemagne
+- Christianization of Rome (including Sol Invictus and the syncretism of Mithraism/solar cults)
+- The corruption of Judaism into strict monotheism (post-Babylonian exile redaction)
+- The rise of Islam
+
 ### Chapters 329–364: Scorpio/Ophiuchus — Modern Era to Future (Notes complete)
 
 | Ch | Title | Summary |
