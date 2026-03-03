@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %}{{ t.gaiad }} {{ chapter_num }} — {{ t.gaiad_index.title }}{% endblock %}
+{% block title %}{{ t.gaiad }} {{ chapter_num }}{% if chapter_title %}: {{ chapter_title }}{% endif %} — {{ t.gaiad_index.title }}{% endblock %}
 {% block meta_description %}{{ t.gaiad }} {{ t.chapter }} {{ chapter_num }}{% if chapter_month %} — {{ t.months[chapter_month.id] }} {{ chapter_day }}, {{ t.day_of_year }} {{ chapter_num }}{% endif %}. {{ t.gaiad_subtitle }}.{% endblock %}
 {% block og_title %}{{ t.gaiad }}: {{ t.chapter }} {{ chapter_num }} — {{ t.site_title }}{% endblock %}
 {% block og_description %}{% if chapter_month %}{{ t.months[chapter_month.id] }} {{ chapter_day }} · {{ t.day_of_year }} {{ chapter_num }}. {% endif %}{{ t.gaiad_subtitle }}.{% endblock %}
@@ -19,6 +19,9 @@
   <div class="chapter-content">
     <div class="chapter-header">
       <h1>{{ t.gaiad }}: {{ t.chapter }} {{ chapter_num }}</h1>
+      {% if chapter_title %}
+      <p class="chapter-title">{{ chapter_title }}</p>
+      {% endif %}
       {% if chapter_month %}
       <p class="chapter-meta">
         {{ chapter_month.symbol }}

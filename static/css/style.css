@@ -547,6 +547,14 @@ nav .nav-right {
   margin-bottom: 10px;
 }
 
+.chapter-header .chapter-title {
+  font-family: var(--font-display);
+  font-size: 1.3em;
+  font-style: italic;
+  color: var(--text);
+  margin: 5px 0 0;
+}
+
 .chapter-header .chapter-meta {
   color: var(--text-muted);
   font-size: 0.9em;
