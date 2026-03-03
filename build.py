@@ -375,7 +375,9 @@ def load_weekday_names():
 
 
 def load_chapters():
-    """Load Gaiad epic chapters from Gaiad/epic/ directory."""
+    """Load Gaiad epic chapters from Gaiad/epic/ directory.
+    Returns dict of chapter_num -> (title, text) tuples.
+    """
     chapters = {}
     for i in range(1, 365):
         chapter_file = EPIC_DIR / f"chapter_{i:03d}.md"
@@ -383,7 +385,13 @@ def load_chapters():
             with open(chapter_file, "r", encoding="utf-8") as f:
                 raw = f.read()
                 clean = re.sub(r'\{\{[cp]\|([^}]*)\}\}', r'\1', raw)
-                chapters[i] = clean
+                # Extract title from markdown heading and strip it from text
+                title = None
+                title_match = re.match(r'^#\s+(?:Chapter\s+\d+:\s*)?(.*)', clean)
+                if title_match:
+                    title = title_match.group(1).strip()
+                    clean = clean[title_match.end():].lstrip('\n')
+                chapters[i] = (title, clean)
     return chapters
 
 
@@ -2162,10 +2170,12 @@ def build_site():
             ch_dir.mkdir(parents=True, exist_ok=True)
             ch_month = ((ch_num - 1) // 28) + 1
             ch_day = ((ch_num - 1) % 28) + 1
+            ch_data = chapters.get(ch_num)
             ch_ctx = {
                 **ctx,
                 "chapter_num": ch_num,
-                "chapter_text": chapters.get(ch_num, None),
+                "chapter_title": ch_data[0] if ch_data else None,
+                "chapter_text": ch_data[1] if ch_data else None,
                 "chapter_month": MONTHS[ch_month - 1] if ch_month <= 14 else None,
                 "chapter_day": ch_day,
                 "prev_chapter": ch_num - 1 if ch_num > 1 else None,
