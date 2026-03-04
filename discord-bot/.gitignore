@@ -1,0 +1,9 @@
+# Never commit secrets
+.env
+
+# Bot state
+posted_guids.json
+
+# Python
+__pycache__/
+*.pyc

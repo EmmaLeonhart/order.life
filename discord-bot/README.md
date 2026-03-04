@@ -14,8 +14,8 @@ daily Gaiad chapter readings. Each item includes:
 - **GUID**: `gaiad-12026-066@order.life` (unique per year + chapter)
 - **Description**: Intro line + full chapter markdown text
 
-The bot polls this feed periodically and creates a new forum thread for each
-unseen chapter in the configured Discord forum channels.
+The bot polls this feed every 30 minutes and creates a new forum thread for
+each unseen chapter in the configured Discord forum channels.
 
 ## Target Discord Servers
 
@@ -24,164 +24,104 @@ unseen chapter in the configured Discord forum channels.
 | `1473062005509193838`  | `1478856506500976690`  | Server 1      |
 | `1472675405059064083`  | `1477872761807437824`  | Server 2      |
 
-## Bot Behavior
+## What the Bot Does
 
-1. **Poll RSS feed** (`https://order.life/feed.xml`) on a schedule (e.g. every
-   30 minutes, or once daily shortly after midnight UTC).
-2. **Track posted GUIDs** so chapters are never double-posted. Store seen GUIDs
-   in a local file (`posted_guids.json`) or a lightweight database.
-3. **For each new item**, create a **forum thread** in both forum channels:
-   - **Thread title**: The RSS `<title>` (truncated to 100 chars if needed —
-     Discord's limit)
-   - **Thread body (starter message)**: The chapter intro + text from
-     `<description>`, plus a link to the web version.
-   - **Tags**: Optionally apply forum tags if configured (e.g. "Daily Reading").
-4. **Error handling**: Log failures, retry on transient errors, skip and log
-   permanent failures.
+1. **Polls the RSS feed** (`https://order.life/feed.xml`) every 30 minutes
+2. **Tracks posted GUIDs** in `posted_guids.json` so chapters are never
+   double-posted
+3. **Creates a forum thread** in both forum channels for each new entry:
+   - Thread title: the RSS `<title>` (truncated to 100 chars)
+   - Thread body: chapter text + link to the web version
+4. **Logs everything** to stdout — errors, posts, connection status
+5. **Saves state after each post** so a crash won't cause re-posts
 
-## Implementation Plan
+## Setup Checklist (What You Need To Do)
 
-### Option A: discord.py Bot (Recommended)
+### Step 1: Create a Discord Bot Application
 
-A Python bot using `discord.py` and `feedparser`.
+1. Go to **https://discord.com/developers/applications**
+2. Click **"New Application"** → name it something like "Gaiad Daily Reading"
+3. Go to the **Bot** tab on the left sidebar
+4. Click **"Reset Token"** → copy the token and save it somewhere safe
+5. Under **Privileged Gateway Intents**: no special intents are needed
 
-#### Dependencies
+### Step 2: Invite the Bot to Both Servers
+
+Use this URL template (replace `YOUR_APP_ID` with the Application ID from the
+"General Information" tab):
 
 ```
-discord.py>=2.3
-feedparser>=6.0
+https://discord.com/oauth2/authorize?client_id=YOUR_APP_ID&permissions=326417525760&scope=bot
 ```
 
-#### Skeleton
+This grants the bot:
+- `Send Messages`
+- `Create Public Threads` (for forum thread creation)
+- `Read Message History`
+- `View Channels`
 
-```python
-import discord
-import feedparser
-import json
-import asyncio
-from pathlib import Path
+**Do this for both servers.**
 
-FEED_URL = "https://order.life/feed.xml"
-POSTED_GUIDS_FILE = Path("posted_guids.json")
-
-# Forum channels to post to (server_id: forum_channel_id)
-TARGETS = [
-    {"server": 1473062005509193838, "forum": 1478856506500976690},
-    {"server": 1472675405059064083, "forum": 1477872761807437824},
-]
-
-POLL_INTERVAL = 1800  # 30 minutes
-
-intents = discord.Intents.default()
-client = discord.Client(intents=intents)
-
-
-def load_posted():
-    if POSTED_GUIDS_FILE.exists():
-        return set(json.loads(POSTED_GUIDS_FILE.read_text()))
-    return set()
-
-
-def save_posted(guids):
-    POSTED_GUIDS_FILE.write_text(json.dumps(sorted(guids)))
-
-
-async def check_feed():
-    await client.wait_until_ready()
-    while not client.is_closed():
-        try:
-            feed = feedparser.parse(FEED_URL)
-            posted = load_posted()
-
-            for entry in reversed(feed.entries):  # oldest first
-                guid = entry.get("id", entry.get("link"))
-                if guid in posted:
-                    continue
-
-                title = entry.get("title", "Daily Reading")[:100]
-                description = entry.get("description", "")
-                link = entry.get("link", "")
-
-                # Build the message (Discord max 2000 chars per message)
-                body = description
-                if len(body) > 1900:
-                    body = body[:1900] + "..."
-                body += f"\n\n[Read on order.life]({link})"
-
-                for target in TARGETS:
-                    try:
-                        forum = client.get_channel(target["forum"])
-                        if forum is None:
-                            print(f"Forum channel {target['forum']} not found")
-                            continue
-                        await forum.create_thread(
-                            name=title,
-                            content=body,
-                        )
-                        print(f"Posted: {title} → {target['forum']}")
-                    except Exception as e:
-                        print(f"Error posting to {target['forum']}: {e}")
-
-                posted.add(guid)
-
-            save_posted(posted)
-
-        except Exception as e:
-            print(f"Feed check error: {e}")
-
-        await asyncio.sleep(POLL_INTERVAL)
-
-
-@client.event
-async def on_ready():
-    print(f"Logged in as {client.user}")
-
-
-client.loop.create_task(check_feed())
-client.run("YOUR_BOT_TOKEN")
-```
-
-#### Running
+### Step 3: Install and Run
 
 ```bash
-pip install discord.py feedparser
-export DISCORD_BOT_TOKEN="your-token-here"
+cd discord-bot
+pip install -r requirements.txt
+cp .env.example .env
+# Edit .env and paste your bot token
+```
+
+Then run:
+
+```bash
+# Linux / Mac
+export $(cat .env | xargs) && python bot.py
+
+# Windows (PowerShell)
+$env:DISCORD_BOT_TOKEN="your-token-here"
+python bot.py
+
+# Windows (CMD)
+set DISCORD_BOT_TOKEN=your-token-here
 python bot.py
 ```
 
-### Option B: GitHub Actions + Discord Webhook
+### Step 4: Verify
 
-If you don't want to host a persistent bot, use a GitHub Actions workflow
-that runs daily after the site build, parses the feed, and posts via Discord
-webhook. Webhooks can't create forum threads natively though — you'd need the
-bot API for forum thread creation.
+- The bot should log `Logged in as YourBot#1234` and list the servers
+- Wait for the next poll cycle (or restart the bot) and check the forum
+  channels for new threads
+- If the feed has chapters the bot hasn't seen, they'll be posted immediately
 
-### Option C: Third-party RSS-to-Discord services
+## Configuration
 
-Services like MonitoRSS or IFTTT can forward RSS items to Discord channels,
-but most don't support **forum thread creation** — they post as regular messages.
+| Environment Variable | Default | Description |
+|---------------------|---------|-------------|
+| `DISCORD_BOT_TOKEN` | (required) | Bot authentication token |
+| `POLL_INTERVAL` | `1800` | Seconds between feed checks (30 min) |
 
-## Setup Checklist
+## Hosting Options
 
-1. [ ] Create a Discord Application at https://discord.com/developers/applications
-2. [ ] Create a Bot user and copy the token
-3. [ ] Enable these **Privileged Gateway Intents** (if needed): none required
-       for basic forum posting
-4. [ ] Invite the bot to both servers with these permissions:
-   - `Send Messages`
-   - `Create Public Threads` (for forum thread creation)
-   - `Read Message History`
-   - `View Channels`
-   - OAuth2 URL scopes: `bot`, `applications.commands`
-   - Permission integer: `326417525760` (covers the above)
-   - Invite URL template:
-     ```
-     https://discord.com/oauth2/authorize?client_id=YOUR_APP_ID&permissions=326417525760&scope=bot
-     ```
-5. [ ] Set the bot token as an environment variable or in a `.env` file
-       (never commit the token!)
-6. [ ] Run the bot: `python bot.py`
-7. [ ] Verify: check that new chapters appear as forum threads
+The bot needs to run 24/7 to catch daily posts. Options:
+
+- **Your own PC**: just leave a terminal running (simplest to start)
+- **A VPS** (e.g. Oracle Cloud free tier, DigitalOcean $4/mo): run with
+  `nohup python bot.py &` or use `systemd`
+- **Railway / Render / Fly.io**: free or cheap container hosting, set
+  `DISCORD_BOT_TOKEN` as an environment secret
+- **Raspberry Pi**: low-power always-on option at home
+
+## Files
+
+```
+discord-bot/
+├── bot.py              ← The bot implementation
+├── requirements.txt    ← Python dependencies
+├── .env.example        ← Template for environment variables
+├── .gitignore          ← Keeps .env and state files out of git
+├── posted_guids.json   ← (created at runtime) tracks posted chapters
+└── README.md           ← This file
+```
 
 ## RSS Feed Details
 
@@ -196,12 +136,11 @@ but most don't support **forum thread creation** — they post as regular messag
 ## Notes
 
 - The RSS feed is rebuilt on every deploy, so all chapters up to today are
-  always present. The bot must track which GUIDs it has already posted to avoid
+  always present. The bot tracks which GUIDs it has already posted to avoid
   duplicates.
 - Discord forum thread titles are limited to 100 characters. The RSS titles
-  can be longer, so truncate if needed.
+  can be longer, so the bot truncates if needed.
 - Discord message body limit is 2000 characters. Chapter texts can exceed this.
-  Either truncate with a "Read more" link, or split into multiple messages in
-  the thread.
+  The bot truncates with a "Read more" link to order.life.
 - The bot needs to be in both servers and have forum posting permissions in
   both forum channels.
