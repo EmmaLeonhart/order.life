@@ -1,0 +1,298 @@
+{% extends "base.html" %}
+{% block title %}{{ t.doctrine_page.title }}{% endblock %}
+{% block meta_description %}{{ t.doctrine_page.intro }}{% endblock %}
+{% block og_title %}{{ t.doctrine_page.title }} — {{ t.site_title }}{% endblock %}
+{% block og_description %}{{ t.doctrine_page.intro }}{% endblock %}
+{% block twitter_title %}{{ t.doctrine_page.title }} — {{ t.site_title }}{% endblock %}
+{% block twitter_description %}{{ t.doctrine_page.intro }}{% endblock %}
+
+{% block content %}
+<div class="section-hero">
+  <h1>{{ t.doctrine_page.title }}</h1>
+  <p>{{ t.doctrine_page.intro }}</p>
+</div>
+
+<div class="container">
+  <div class="breadcrumb">
+    <a href="{{ base }}/">{{ t.nav.home }}</a>
+    <span>›</span>
+    {{ t.doctrine_page.breadcrumb }}
+  </div>
+
+  <div class="section-content">
+
+    <!-- Foundational Axiom -->
+    <div class="doctrine-axiom">
+      <div class="doctrine-axiom-kanji">命</div>
+      <h2>{{ t.doctrine_page.axiom_title }}</h2>
+      <p class="doctrine-axiom-text">{{ t.doctrine_page.axiom_text }}</p>
+    </div>
+
+    <!-- Five Core Commitments -->
+    <h2 class="doctrine-section-title">{{ t.doctrine_page.commitments_title }}</h2>
+    <p>{{ t.doctrine_page.commitments_intro }}</p>
+
+    <div class="doctrine-grid">
+      {% for c in t.doctrine_page.commitments %}
+      <div class="doctrine-card">
+        <div class="doctrine-card-num">{{ loop.index }}</div>
+        <h3>{{ c.title }}</h3>
+        <p>{{ c.desc }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- Four Pillars of Salvation -->
+    <h2 class="doctrine-section-title">{{ t.doctrine_page.salvation_title }}</h2>
+    <p>{{ t.doctrine_page.salvation_intro }}</p>
+
+    <div class="doctrine-pillars">
+      {% for p in t.doctrine_page.pillars %}
+      <div class="doctrine-pillar">
+        <div class="doctrine-pillar-icon">{{ p.icon }}</div>
+        <h3>{{ p.title }}</h3>
+        <p>{{ p.desc }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- Sacred Domains -->
+    <h2 class="doctrine-section-title">{{ t.doctrine_page.domains_title }}</h2>
+    <p>{{ t.doctrine_page.domains_intro }}</p>
+
+    <div class="doctrine-domains">
+      {% for d in t.doctrine_page.domains %}
+      <a class="doctrine-domain" href="{{ base }}/{{ d.path }}/">
+        <h3>{{ d.title }}</h3>
+        <p>{{ d.desc }}</p>
+        <span class="doctrine-domain-arrow">→</span>
+      </a>
+      {% endfor %}
+    </div>
+
+    <!-- Theological Method -->
+    <h2 class="doctrine-section-title">{{ t.doctrine_page.method_title }}</h2>
+    <p>{{ t.doctrine_page.method_intro | safe }}</p>
+
+    <div class="doctrine-method-grid">
+      {% for m in t.doctrine_page.methods %}
+      <div class="doctrine-method-item">
+        <h3>{{ m.title }}</h3>
+        <p>{{ m.desc }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+    <!-- Summary statement -->
+    <div class="doctrine-summary">
+      <blockquote>{{ t.doctrine_page.summary_quote }}</blockquote>
+    </div>
+
+    <div class="section-actions fade-in-up">
+      <a class="btn" href="{{ base }}/philosophy/">{{ t.nav.philosophy }}</a>
+      <a class="btn" href="{{ base }}/gaiad/">{{ t.nav.scripture }}</a>
+      <a class="btn" href="{{ base }}/faq/">{{ t.nav.faq }}</a>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block head %}
+<style>
+/* Foundational axiom */
+.doctrine-axiom {
+  text-align: center;
+  padding: 3rem 1.5rem;
+  margin: 2rem 0 3rem;
+  background: rgba(255,215,0,0.04);
+  border: 1px solid rgba(255,215,0,0.15);
+  border-radius: 12px;
+}
+.doctrine-axiom-kanji {
+  font-size: 4rem;
+  color: var(--accent-color);
+  margin-bottom: 0.5rem;
+  line-height: 1;
+}
+.doctrine-axiom h2 {
+  margin: 0.5rem 0;
+  font-size: 1.3rem;
+}
+.doctrine-axiom-text {
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  max-width: 600px;
+  margin: 0.75rem auto 0;
+  line-height: 1.7;
+}
+
+/* Section titles */
+.doctrine-section-title {
+  margin-top: 3rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Commitments grid */
+.doctrine-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+.doctrine-card {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  position: relative;
+}
+.doctrine-card-num {
+  position: absolute;
+  top: 0.75rem;
+  right: 1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  color: rgba(255,215,0,0.12);
+  line-height: 1;
+}
+.doctrine-card h3 {
+  color: var(--accent-color);
+  margin: 0 0 0.5rem;
+  font-size: 1rem;
+}
+.doctrine-card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+/* Pillars of Salvation */
+.doctrine-pillars {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+.doctrine-pillar {
+  text-align: center;
+  background: rgba(255,255,255,0.02);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.5rem 1.25rem;
+}
+.doctrine-pillar-icon {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+.doctrine-pillar h3 {
+  color: var(--accent-color);
+  margin: 0 0 0.5rem;
+  font-size: 0.95rem;
+}
+.doctrine-pillar p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+/* Sacred Domains */
+.doctrine-domains {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+.doctrine-domain {
+  display: block;
+  background: rgba(255,255,255,0.02);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  position: relative;
+  transition: border-color 0.2s, background 0.2s;
+}
+.doctrine-domain:hover {
+  border-color: var(--accent-color);
+  background: rgba(255,215,0,0.04);
+}
+.doctrine-domain h3 {
+  color: var(--accent-color);
+  margin: 0 0 0.35rem;
+  font-size: 0.95rem;
+}
+.doctrine-domain p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+.doctrine-domain-arrow {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  color: var(--text-muted);
+  font-size: 1.1rem;
+  transition: color 0.2s;
+}
+.doctrine-domain:hover .doctrine-domain-arrow {
+  color: var(--accent-color);
+}
+
+/* Theological method */
+.doctrine-method-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0 2rem;
+}
+.doctrine-method-item {
+  background: rgba(255,255,255,0.02);
+  border-left: 3px solid var(--accent-color);
+  padding: 1rem 1.25rem;
+  border-radius: 0 8px 8px 0;
+}
+.doctrine-method-item h3 {
+  margin: 0 0 0.4rem;
+  font-size: 0.95rem;
+  color: var(--accent-color);
+}
+.doctrine-method-item p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+/* Summary */
+.doctrine-summary {
+  text-align: center;
+  margin: 3rem 0;
+}
+.doctrine-summary blockquote {
+  font-size: 1.1rem;
+  font-style: italic;
+  color: var(--accent-color);
+  border: none;
+  padding: 0;
+  max-width: 650px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+@media (max-width: 600px) {
+  .doctrine-grid,
+  .doctrine-pillars,
+  .doctrine-domains,
+  .doctrine-method-grid {
+    grid-template-columns: 1fr;
+  }
+  .doctrine-axiom-kanji { font-size: 3rem; }
+}
+</style>
+{% endblock %}

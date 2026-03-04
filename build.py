@@ -2352,6 +2352,12 @@ def build_site():
             sec_dir.mkdir(parents=True, exist_ok=True)
             render_page(env, f"sections/{section}.html", sec_dir / "index.html", ctx)
 
+        # ── Doctrine overview page (English only for now) ──
+        if lang == "en":
+            doctrine_dir = lang_dir / "doctrine"
+            doctrine_dir.mkdir(parents=True, exist_ok=True)
+            render_page(env, "sections/doctrine.html", doctrine_dir / "index.html", ctx)
+
         # ── Developer resources page (English only for now) ──
         if lang == "en":
             dev_dir = lang_dir / "dev"
