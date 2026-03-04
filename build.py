@@ -1394,6 +1394,101 @@ def generate_ical_files(site_dir):
         print(f"  iCal {filename}: {len(events)} events")
 
 
+# ── RSS Feed Generation ──────────────────────────────────────────────────
+
+def generate_rss_feed(site_dir, chapters):
+    """Generate an RSS feed with daily Gaiad chapter readings.
+
+    Each item represents one day of the current Gaian year.  Items up to and
+    including today are emitted so that RSS readers surface the latest chapter
+    on each new day.
+    """
+    from xml.sax.saxutils import escape as xml_escape
+
+    today = date.today()
+    gaian = gregorian_to_gaian(today)
+    gy = gaian["year"]
+    today_doy = day_of_year(gaian["month"], gaian["day"])
+
+    items = []
+    for ch_num in range(1, 365):
+        # Only emit items up to today
+        if ch_num > today_doy:
+            break
+
+        ch_month = ((ch_num - 1) // 28) + 1
+        ch_day = ((ch_num - 1) % 28) + 1
+        m = MONTHS[ch_month - 1]
+        month_name = m["id"].capitalize()
+        symbol = m["symbol"]
+
+        greg = _gaian_day_to_greg(gy, ch_month, ch_day)
+
+        # Holiday info for this day
+        holidays = []
+        for (mn, dn, summary, _slug) in _ICAL_FIXED:
+            if mn == ch_month and dn == ch_day:
+                holidays.append(summary)
+
+        # Chapter content
+        ch_data = chapters.get(ch_num)
+        ch_title = ch_data[0] if ch_data else f"Chapter {ch_num}"
+        ch_text = ch_data[1] if ch_data else ""
+
+        # Build the message
+        gaian_date = f"{symbol} {month_name} {ch_day}, {gy} GE"
+        if holidays:
+            holiday_str = " and ".join(holidays)
+            title = f"{gaian_date} — {holiday_str} — Chapter {ch_num}: {ch_title}"
+            intro = (f"Today is {gaian_date}. It is {holiday_str}, "
+                     f"and here is chapter {ch_num}, the daily reading.")
+        else:
+            title = f"{gaian_date} — Chapter {ch_num}: {ch_title}"
+            intro = (f"Today is {gaian_date}, "
+                     f"and here is chapter {ch_num}, the daily reading.")
+
+        # RFC-822 date for pubDate
+        pub_date = greg.strftime("%a, %d %b %Y 00:00:00 +0000")
+
+        link = f"https://order.life/gaiad/{ch_num:03d}/"
+        guid = f"gaiad-{gy}-{ch_num:03d}@order.life"
+
+        # Build description: intro + full chapter text
+        description = f"{intro}\n\n{ch_text}"
+
+        items.append(
+            f"    <item>\n"
+            f"      <title>{xml_escape(title)}</title>\n"
+            f"      <link>{link}</link>\n"
+            f"      <guid isPermaLink=\"false\">{guid}</guid>\n"
+            f"      <pubDate>{pub_date}</pubDate>\n"
+            f"      <description>{xml_escape(description)}</description>\n"
+            f"    </item>"
+        )
+
+    # Most recent first
+    items.reverse()
+
+    rss = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
+        '  <channel>\n'
+        '    <title>Gaiad — Daily Reading</title>\n'
+        '    <link>https://order.life/gaiad/</link>\n'
+        '    <atom:link href="https://order.life/feed.xml" rel="self" type="application/rss+xml"/>\n'
+        '    <description>The daily chapter reading from the Gaiad, the scripture of Lifeism.</description>\n'
+        '    <language>en</language>\n'
+        f'    <lastBuildDate>{date.today().strftime("%a, %d %b %Y 00:00:00 +0000")}</lastBuildDate>\n'
+        + "\n".join(items) + "\n"
+        '  </channel>\n'
+        '</rss>\n'
+    )
+
+    feed_path = site_dir / "feed.xml"
+    feed_path.write_text(rss, encoding="utf-8")
+    print(f"  RSS feed: {len(items)} items → feed.xml")
+
+
 # ── Wiki Redirect Generator ───────────────────────────────────────────────
 
 def generate_wiki_redirects(wiki_pages, languages):
@@ -2309,6 +2404,10 @@ def build_site():
     # Generate iCal files (language-agnostic, root-level)
     print("\nGenerating iCal files...")
     generate_ical_files(SITE_TMP_DIR)
+
+    # Generate RSS feed for daily Gaiad readings
+    print("\nGenerating RSS feed...")
+    generate_rss_feed(SITE_TMP_DIR, chapters)
 
     # Write CNAME for GitHub Pages custom domain
     (SITE_TMP_DIR / "CNAME").write_text("order.life\n")
