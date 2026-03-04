@@ -1,146 +1,74 @@
-# Gaiad Daily Reading — Discord Forum Bot
+# Gaiad Daily Reading — Discord Forum Post
 
-Posts each new daily Gaiad chapter reading from the RSS feed as a new thread
-in Discord forum channels.
+A GitHub Actions workflow that posts today's Gaiad chapter as a new forum
+thread in Discord every day at 00:05 UTC. No bot hosting required.
 
-## Overview
+## How It Works
 
-The site generates an RSS feed at `https://order.life/feed.xml` containing
-daily Gaiad chapter readings. Each item includes:
+1. GitHub Actions runs `discord-bot/post_daily.py` daily via cron
+2. The script calculates today's Gaian calendar date
+3. It loads the corresponding chapter from `epic/chapter_NNN.md`
+4. It posts a new forum thread to each Discord forum channel via webhook
 
-- **Title**: Gaian date, any holidays, chapter number and title
-  (e.g. `♓ Pisces 10, 12026 GE — Chapter 66: The Meiji Restoration`)
-- **Link**: `https://order.life/gaiad/066/`
-- **GUID**: `gaiad-12026-066@order.life` (unique per year + chapter)
-- **Description**: Intro line + full chapter markdown text
+**Thread title**: Just the Gaian date (e.g. `♓ Pisces 10, 12026 GE`)
+**Thread body**: Chapter number, title, full text, and link to order.life
 
-The bot polls this feed every 30 minutes and creates a new forum thread for
-each unseen chapter in the configured Discord forum channels.
+## Setup (What You Need To Do)
 
-## Target Discord Servers
+### Step 1: Create Webhooks in Discord (2 min)
 
-| Server ID              | Forum Channel ID        | Notes         |
-|------------------------|------------------------|---------------|
-| `1473062005509193838`  | `1478856506500976690`  | Server 1      |
-| `1472675405059064083`  | `1477872761807437824`  | Server 2      |
+For **each** forum channel:
 
-## What the Bot Does
+1. Open the forum channel settings (gear icon)
+2. Go to **Integrations** → **Webhooks**
+3. Click **"New Webhook"**
+4. Name it something like "Gaiad Daily Reading"
+5. **Copy the webhook URL**
 
-1. **Polls the RSS feed** (`https://order.life/feed.xml`) every 30 minutes
-2. **Tracks posted GUIDs** in `posted_guids.json` so chapters are never
-   double-posted
-3. **Creates a forum thread** in both forum channels for each new entry:
-   - Thread title: the RSS `<title>` (truncated to 100 chars)
-   - Thread body: chapter text + link to the web version
-4. **Logs everything** to stdout — errors, posts, connection status
-5. **Saves state after each post** so a crash won't cause re-posts
+You need webhook URLs for both forum channels:
+- Server 1, forum `1478856506500976690`
+- Server 2, forum `1477872761807437824`
 
-## Setup Checklist (What You Need To Do)
+### Step 2: Add the Secret to GitHub (1 min)
 
-### Step 1: Create a Discord Bot Application
+1. Go to your repo → **Settings** → **Secrets and variables** → **Actions**
+2. Click **"New repository secret"**
+3. Name: `DISCORD_WEBHOOKS`
+4. Value: both webhook URLs separated by a comma:
+   ```
+   https://discord.com/api/webhooks/xxx/yyy,https://discord.com/api/webhooks/aaa/bbb
+   ```
+5. Click **"Add secret"**
 
-1. Go to **https://discord.com/developers/applications**
-2. Click **"New Application"** → name it something like "Gaiad Daily Reading"
-3. Go to the **Bot** tab on the left sidebar
-4. Click **"Reset Token"** → copy the token and save it somewhere safe
-5. Under **Privileged Gateway Intents**: no special intents are needed
+### Step 3: Test It
 
-### Step 2: Invite the Bot to Both Servers
+Go to **Actions** → **Daily Gaiad Discord Post** → **Run workflow** → click
+the green button. Check your Discord forum channels for the new thread.
 
-Use this URL template (replace `YOUR_APP_ID` with the Application ID from the
-"General Information" tab):
-
-```
-https://discord.com/oauth2/authorize?client_id=YOUR_APP_ID&permissions=326417525760&scope=bot
-```
-
-This grants the bot:
-- `Send Messages`
-- `Create Public Threads` (for forum thread creation)
-- `Read Message History`
-- `View Channels`
-
-**Do this for both servers.**
-
-### Step 3: Install and Run
-
-```bash
-cd discord-bot
-pip install -r requirements.txt
-cp .env.example .env
-# Edit .env and paste your bot token
-```
-
-Then run:
-
-```bash
-# Linux / Mac
-export $(cat .env | xargs) && python bot.py
-
-# Windows (PowerShell)
-$env:DISCORD_BOT_TOKEN="your-token-here"
-python bot.py
-
-# Windows (CMD)
-set DISCORD_BOT_TOKEN=your-token-here
-python bot.py
-```
-
-### Step 4: Verify
-
-- The bot should log `Logged in as YourBot#1234` and list the servers
-- Wait for the next poll cycle (or restart the bot) and check the forum
-  channels for new threads
-- If the feed has chapters the bot hasn't seen, they'll be posted immediately
-
-## Configuration
-
-| Environment Variable | Default | Description |
-|---------------------|---------|-------------|
-| `DISCORD_BOT_TOKEN` | (required) | Bot authentication token |
-| `POLL_INTERVAL` | `1800` | Seconds between feed checks (30 min) |
-
-## Hosting Options
-
-The bot needs to run 24/7 to catch daily posts. Options:
-
-- **Your own PC**: just leave a terminal running (simplest to start)
-- **A VPS** (e.g. Oracle Cloud free tier, DigitalOcean $4/mo): run with
-  `nohup python bot.py &` or use `systemd`
-- **Railway / Render / Fly.io**: free or cheap container hosting, set
-  `DISCORD_BOT_TOKEN` as an environment secret
-- **Raspberry Pi**: low-power always-on option at home
+That's it. It will now run automatically every day.
 
 ## Files
 
 ```
 discord-bot/
-├── bot.py              ← The bot implementation
-├── requirements.txt    ← Python dependencies
-├── .env.example        ← Template for environment variables
-├── .gitignore          ← Keeps .env and state files out of git
-├── posted_guids.json   ← (created at runtime) tracks posted chapters
-└── README.md           ← This file
+├── post_daily.py     ← Script: calculates Gaian date, loads chapter, posts to Discord
+├── .gitignore
+└── README.md         ← This file
+
+.github/workflows/
+└── discord-daily.yml ← Cron job: runs post_daily.py daily at 00:05 UTC
 ```
 
-## RSS Feed Details
+## Manual Testing
 
-- **URL**: `https://order.life/feed.xml`
-- **Format**: RSS 2.0 with Atom self-link
-- **Update frequency**: Rebuilt on every site deploy (GitHub Actions on push
-  to master)
-- **Items**: One per day of the current Gaian year, up to today
-- **Item GUID pattern**: `gaiad-{gaian_year}-{chapter_number:03d}@order.life`
-- **Newest items first** in the feed (most recent chapter at top)
+```bash
+DISCORD_WEBHOOKS="https://discord.com/api/webhooks/xxx/yyy" python discord-bot/post_daily.py
+```
 
 ## Notes
 
-- The RSS feed is rebuilt on every deploy, so all chapters up to today are
-  always present. The bot tracks which GUIDs it has already posted to avoid
-  duplicates.
-- Discord forum thread titles are limited to 100 characters. The RSS titles
-  can be longer, so the bot truncates if needed.
-- Discord message body limit is 2000 characters. Chapter texts can exceed this.
-  The bot truncates with a "Read more" link to order.life.
-- The bot needs to be in both servers and have forum posting permissions in
-  both forum channels.
+- No external Python dependencies needed (uses only stdlib)
+- The script reads chapters directly from `epic/chapter_NNN.md` in the repo
+- Discord message body limit is 2000 chars; longer chapters are truncated
+  with a link to the full page on order.life
+- The workflow also supports `workflow_dispatch` so you can trigger it manually
