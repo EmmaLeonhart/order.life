@@ -1,0 +1,28 @@
+name: Discord Daily Reading Bot
+
+on:
+  schedule:
+    - cron: "30 0 * * *"  # Daily at 00:30 UTC
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  post-daily-reading:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - run: pip install feedparser requests
+
+      - uses: actions/cache@v4
+        with:
+          path: discord-bot/posted_guids.json
+          key: discord-posted-guids-${{ github.run_id }}
+          restore-keys: discord-posted-guids-
+
+      - run: python discord-bot/bot.py
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
