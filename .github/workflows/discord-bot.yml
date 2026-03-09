@@ -2,11 +2,22 @@ name: Discord Daily Reading Bot
 
 on:
   schedule:
-    - cron: "30 0 * * *"  # Daily at 00:30 UTC
-  workflow_dispatch:  # Manual trigger
+    - cron: "30 0 * * *"  # Daily chapter at 00:30 UTC
+    - cron: "30 1 * * *"  # Catch-up chapter at 01:30 UTC
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Which post to make"
+        required: false
+        default: "daily"
+        type: choice
+        options:
+          - daily
+          - catchup
 
 jobs:
-  post-daily-reading:
+  daily-post:
+    if: github.event.schedule == '30 0 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'daily')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -24,5 +35,27 @@ jobs:
           restore-keys: discord-posted-guids-
 
       - run: python discord-bot/bot.py
+        env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+
+  catchup-post:
+    if: github.event.schedule == '30 1 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'catchup')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - run: pip install feedparser requests
+
+      - uses: actions/cache@v4
+        with:
+          path: discord-bot/catchup_posted_guids.json
+          key: discord-catchup-guids-${{ github.run_id }}
+          restore-keys: discord-catchup-guids-
+
+      - run: python discord-bot/bot.py --catchup
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
