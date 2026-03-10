@@ -1,0 +1,23 @@
+This is the operational bot account used for automated maintenance on lifeism.miraheze.org.
+
+Its purpose is to create missing pages and categories, publish git revision history, and perform routine maintenance with transparent logging and auditable edit summaries tied to GitHub Actions workflow runs.
+
+Repository: https://github.com/Emma-Leonhart/order.life
+
+== Operations policy ==
+
+Routine automated edits are implemented by changing the GitHub repository and executed through GitHub Actions. Local manual script runs are reserved for testing and emergency intervention only.
+
+== Current tasks ==
+
+* Create stub pages from [[Special:WantedPages]]
+* Create stub categories from [[Special:WantedCategories]]
+* Publish [[Git revisions]] table from repository commit history
+
+== Future tasks ==
+
+* Sync Gaiad chapter summaries from build data
+* Cross-link calendar day pages with corresponding Gaiad chapters
+
+<!-- BOT-RUN-STATUS:START -->
+<!-- BOT-RUN-STATUS:END -->
