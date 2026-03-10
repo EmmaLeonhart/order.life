@@ -129,4 +129,36 @@
 }
 </style>
 
+<script>
+// Recalculate "today" highlight using visitor's local date instead of build-time UTC
+(function() {
+  var now = new Date();
+  // ISO week calculation
+  var d = new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()));
+  var dayNum = d.getUTCDay() || 7;
+  d.setUTCDate(d.getUTCDate() + 4 - dayNum);
+  var yearStart = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
+  var weekNo = Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
+  var dayOfWeek = (now.getDay() === 0) ? 7 : now.getDay();
+  // Gaian date
+  var monthIndex = Math.floor((weekNo - 1) / 4);
+  var weekInMonth = (weekNo - 1) % 4;
+  var gaianMonth = monthIndex + 1;
+  var gaianDay = weekInMonth * 7 + dayOfWeek;
+  var chapter = (gaianMonth <= 13) ? (gaianMonth - 1) * 28 + gaianDay : null;
+  if (!chapter || chapter > 364) return;
+  // Remove server-set today class, apply correct one
+  var tiles = document.querySelectorAll('.chapter-tile.today');
+  for (var i = 0; i < tiles.length; i++) tiles[i].classList.remove('today');
+  var all = document.querySelectorAll('.chapter-tile');
+  for (var i = 0; i < all.length; i++) {
+    var ch = all[i].querySelector('.chapter-tile-ch');
+    if (ch && parseInt(ch.textContent) === chapter) {
+      all[i].classList.add('today');
+      break;
+    }
+  }
+})();
+</script>
+
 {% endblock %}
