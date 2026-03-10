@@ -1,0 +1,37 @@
+name: wiki-bot
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+  schedule:
+    - cron: "0 0 * * *"
+
+concurrency:
+  group: wiki-bot
+  cancel-in-progress: false
+
+jobs:
+  wiki-bot:
+    runs-on: ubuntu-latest
+    env:
+      WIKI_USERNAME: EmmaBot@EmmaBot
+      WIKI_PASSWORD: ${{ secrets.WIKI_PASSWORD }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # full history for git revisions
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install mwclient
+
+      - name: Run wiki bot
+        run: |
+          chmod +x wiki-scripts/bot_loop.sh
+          wiki-scripts/bot_loop.sh
