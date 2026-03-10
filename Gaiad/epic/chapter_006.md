@@ -1,3 +1,5 @@
+# Chapter 6: Hydrogen Clouds Ignite
+
 Upon the shores of {{c|Hesper}}, where waves meet,
 {{c|Aster}}'s vital force descended from the skies.
 Her essence, tholins, seed, a cosmic feat,

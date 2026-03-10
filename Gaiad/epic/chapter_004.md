@@ -1,3 +1,5 @@
+# Chapter 4: The First Yarn String
+
 The tale of {{c|Rhodes}} and {{c|Marigold}} begins,
 A union forged in stars, their love so bright.
 The first of lovers bound, their fate still spins,

@@ -1,3 +1,5 @@
+# Chapter 27: The Great Stabilization
+
 From {{c|Anu}}'s unique lineage came
 Two sons of very different fame:
 {{c|Bold}} {{c|Enki}}, seeker of the sea,

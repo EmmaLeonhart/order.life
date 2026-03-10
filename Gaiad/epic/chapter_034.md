@@ -1,3 +1,5 @@
+# Chapter 34: Laurentia Emerges
+
 While sons of {{c|Proteus}} divided fast
 And their kingdoms grew vast,
 The sons of {{c|Dutrus}} moved slow

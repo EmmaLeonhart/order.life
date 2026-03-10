@@ -1,3 +1,5 @@
+# Chapter 51: The Sea Scorpions
+
 The sons of {{c|Eurypter}} would
 {{c|Usurp}} as no one could
 The sons of {{c|Cephalus}}

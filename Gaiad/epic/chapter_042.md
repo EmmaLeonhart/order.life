@@ -1,3 +1,5 @@
+# Chapter 42: The Rise of Vertebrates
+
 The {{c|Ordovician}} began
 With great extinction's plan—
 Or did it? {{c|Sages}} still debate

@@ -1,3 +1,5 @@
+# Chapter 24: The Rise of Multicellularity
+
 In the age when {{c|Choanos}} ruled the sea,
 The {{c|Earth}} was wild, uncivilized, and young.
 The learned call this time {{c|Proterozoic}},

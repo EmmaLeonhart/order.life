@@ -1,3 +1,5 @@
+# Chapter 22: Kingdom Diversification
+
 {{c|Now}} when the children of {{c|Nectarius}} had grown,
 Each claimed their realm with purpose strong and true.
 The paths they'd walk would soon be clearly shown,

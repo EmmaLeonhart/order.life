@@ -1,3 +1,5 @@
+# Chapter 3: Andromeda's Answer
+
 As above, so below, the stars reflect,
 The cosmic tales that shape our earthly lives.
 {{c|Aster}}'s children below, she will protect,

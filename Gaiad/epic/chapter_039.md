@@ -1,3 +1,5 @@
+# Chapter 39: The First Mass Extinction
+
 {{c|Fire}} rained down from sky
 And many had to die.
 The first extinction came

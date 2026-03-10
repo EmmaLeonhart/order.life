@@ -1,3 +1,5 @@
+# Chapter 43: The Golden Age Begins
+
 While {{c|Trilobites}} ruled the seas
 With their great dynasties,
 The rivers flowed so free

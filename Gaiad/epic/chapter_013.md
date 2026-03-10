@@ -1,3 +1,5 @@
+# Chapter 13: Solar Nebula Collapse
+
 In {{c|Sol}}'s embrace, her daughters came to be,
 From nebula, they formed a cosmic host.
 {{c|Mercury}}, {{c|Venus}}, {{c|Earth}}, and {{c|Mars}} we see,

@@ -1,3 +1,5 @@
+# Chapter 7: Primordial Stars Burn
+
 Upon the shores of {{c|Hesper}}, life was born,
 Yet fragile were the forms that learned to crawl.
 {{c|Aster}} looked upon them, she came to warn,

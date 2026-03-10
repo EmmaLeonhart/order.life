@@ -1,3 +1,5 @@
+# Chapter 31: Rodinia Supercontinent Forms
+
 When {{c|Cambrius}} and {{c|Spriggina}} died,
 Great heroes who had ruled with pride,
 Two sons were left to claim their throne:

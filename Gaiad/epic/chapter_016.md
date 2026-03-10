@@ -1,3 +1,5 @@
+# Chapter 16: Earth's Violent Birth
+
 From {{c|Luca}}'s lineage, two daughters sprang,
 {{c|Arka}} and {{c|Bacta}}, shaped to change the world;
 In marshy cradles, where their voices rang,

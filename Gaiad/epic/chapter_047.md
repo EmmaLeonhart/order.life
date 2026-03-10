@@ -1,3 +1,5 @@
+# Chapter 47: The Cephalopod Rise
+
 This is the story told
 Of ones both new and old:
 The {{c|Cephalopods}} so great,

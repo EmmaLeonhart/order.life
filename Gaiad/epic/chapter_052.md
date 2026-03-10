@@ -1,3 +1,5 @@
+# Chapter 52: The Great Ancestor
+
 {{c|Vater}} was the son so great
 In the tenth generation's fate
 Of {{c|Pteraspis}}, and he'd be

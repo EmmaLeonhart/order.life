@@ -1,3 +1,5 @@
+# Chapter 30: Snowball Earth Begins
+
 This is the chronicle of {{c|Cnider}},
 Who sat upon a rock so wide
 And built on each side of his throne

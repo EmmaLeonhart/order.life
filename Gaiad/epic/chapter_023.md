@@ -1,3 +1,5 @@
+# Chapter 23: The Gamma Ray Apocalypse
+
 But peace would not endure for long,
 {{c|Dark}} {{c|Hilluhengweh}} watched from space afar.
 His jealous heart burned fierce and strong,

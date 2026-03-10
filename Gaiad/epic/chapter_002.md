@@ -1,3 +1,5 @@
+# Chapter 2: Aster's First Call
+
 This tale you hear is not just woven lore,
 But truths divine, a map for every soul.
 In {{c|Aster}}'s yarn and {{c|Andromeda}}'s core,

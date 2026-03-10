@@ -1,3 +1,5 @@
+# Chapter 26: The Sponge Kingdom
+
 From {{c|Euka}}'s line arose kingdoms three,
 The greatest realms beneath the sea.
 Each house would claim its sovereignty,

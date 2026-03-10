@@ -1,3 +1,5 @@
+# Chapter 28: Continental Drift Begins
+
 Great {{c|Paraxus}} was blessed one day
 By {{c|Hecate}}, who showed the way.
 The {{c|Hexenmaiden}}, wise and deep,

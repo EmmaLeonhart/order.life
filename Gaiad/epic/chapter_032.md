@@ -1,3 +1,5 @@
+# Chapter 32: Pannotia Fragments
+
 In the age of patriarchs three,
 {{c|Dutrus}}, {{c|Ectus}}, {{c|Spiralius}} free,
 Among these lords of ancient might,
