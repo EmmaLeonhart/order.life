@@ -5,15 +5,16 @@ Checks the order.life RSS feed and posts new chapters as forum threads.
 Runs once and exits. Designed for daily GitHub Actions cron.
 
 Modes:
-  (default)   Post today's new chapter
-  --catchup   Post the next catch-up chapter (chapters 1-70, one per day,
-              starting March 9 2026 through May 17 2026)
+  (default)   Post today's new chapter from RSS feed
+  --catchup   Post the next catch-up chapter directly from chapter files
+              (chapters 1-70, one per day, March 9 – May 17 2026)
 """
 
 import argparse
 import datetime
 import json
 import os
+import re
 import sys
 import time
 from pathlib import Path
@@ -24,6 +25,7 @@ import requests
 FEED_URL = "https://order.life/feed.xml"
 POSTED_GUIDS_FILE = Path(__file__).parent / "posted_guids.json"
 CATCHUP_GUIDS_FILE = Path(__file__).parent / "catchup_posted_guids.json"
+EPIC_DIR = Path(__file__).parent.parent / "Gaiad" / "epic"
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 DISCORD_API = "https://discord.com/api/v10"
@@ -37,6 +39,33 @@ TARGETS = [
 # Catch-up: post chapters 1-70, one per day, starting March 9 2026
 CATCHUP_START_DATE = datetime.date(2026, 3, 9)
 CATCHUP_CHAPTERS = 70
+
+# Gaian calendar months in order
+GAIAN_MONTHS = [
+    ("\u2650", "Sagittarius"),
+    ("\u2651", "Capricorn"),
+    ("\u2652", "Aquarius"),
+    ("\u2653", "Pisces"),
+    ("\u2648", "Aries"),
+    ("\u2649", "Taurus"),
+    ("\u264a", "Gemini"),
+    ("\u264b", "Cancer"),
+    ("\u264c", "Leo"),
+    ("\u264d", "Virgo"),
+    ("\u264e", "Libra"),
+    ("\u264f", "Scorpius"),
+    ("\u26ce", "Ophiuchus"),
+]
+
+
+def chapter_to_gaian_date(chapter_num):
+    """Convert chapter number (1-364) to Gaian calendar date string."""
+    month_index = (chapter_num - 1) // 28
+    day = (chapter_num - 1) % 28 + 1
+    if month_index < len(GAIAN_MONTHS):
+        symbol, name = GAIAN_MONTHS[month_index]
+        return f"{symbol} {name} {day}, 12026 GE"
+    return f"Day {chapter_num}, 12026 GE"
 
 
 def load_guids(path):
@@ -67,17 +96,19 @@ def create_forum_thread(channel_id, title, body):
     return resp.json()
 
 
-def find_entry_by_chapter(feed, chapter_num):
-    """Find RSS entry matching a chapter number."""
-    chapter_str = f"{chapter_num:03d}"
-    for entry in feed.entries:
-        guid = entry.get("id", "")
-        if guid.endswith(f"-{chapter_str}@order.life"):
-            return entry
-        link = entry.get("link", "")
-        if link.endswith(f"/gaiad/{chapter_str}/"):
-            return entry
-    return None
+def load_chapter_file(chapter_num):
+    """Load chapter text from Gaiad/epic/chapter_NNN.md."""
+    chapter_file = EPIC_DIR / f"chapter_{chapter_num:03d}.md"
+    if not chapter_file.exists():
+        return None, None
+    raw = chapter_file.read_text(encoding="utf-8")
+    clean = re.sub(r'\{\{[cp]\|([^}]*)\}\}', r'\1', raw)
+    title = None
+    title_match = re.match(r'^#\s+(?:Chapter\s+\d+:\s*)?(.*)', clean)
+    if title_match:
+        title = title_match.group(1).strip()
+        clean = clean[title_match.end():].lstrip('\n')
+    return title, clean
 
 
 def run_daily(feed):
@@ -147,13 +178,13 @@ def run_daily(feed):
     print(f"Done. Posted {new_count} new chapter(s).")
 
 
-def run_catchup(feed):
+def run_catchup():
     """Post a catch-up chapter (chapters 1-70, one per day from March 9)."""
     today = datetime.date.today()
     day_offset = (today - CATCHUP_START_DATE).days
 
     if day_offset < 0 or day_offset >= CATCHUP_CHAPTERS:
-        print("No catch-up chapter due today (outside March 9 – May 17 window).")
+        print("No catch-up chapter due today (outside March 9 - May 17 window).")
         return
 
     chapter_num = day_offset + 1  # day 0 = chapter 1, day 1 = chapter 2, ...
@@ -165,42 +196,37 @@ def run_catchup(feed):
         print(f"Catch-up chapter {chapter_num} already posted.")
         return
 
-    entry = find_entry_by_chapter(feed, chapter_num)
-    if entry is None:
-        print(f"Chapter {chapter_num} not found in RSS feed.")
+    # Load chapter directly from file
+    chapter_title, chapter_text = load_chapter_file(chapter_num)
+    if chapter_text is None:
+        print(f"Chapter file chapter_{chapter_num:03d}.md not found.")
         return
 
-    # Extract the normal Gaian date from the RSS title
-    # Title format: "♐ Sagittarius 1, 12026 GE — Chapter 1: Title"
-    rss_title = entry.get("title", "")
-    if " \u2014 " in rss_title:
-        normal_date = rss_title.split(" \u2014 ")[0]
-        chapter_part = rss_title.split(" \u2014 ")[1]
-    else:
-        normal_date = f"Chapter {chapter_num}"
-        chapter_part = f"Chapter {chapter_num}"
+    gaian_date = chapter_to_gaian_date(chapter_num)
+    link = f"https://order.life/gaiad/{chapter_num:03d}/"
 
-    title = f"[Catch-up] {chapter_part}"[:100]
-    description = entry.get("description", "")
-    link = entry.get("link", "")
+    if chapter_title:
+        thread_title = f"[Catch-up] Chapter {chapter_num}: {chapter_title}"[:100]
+    else:
+        thread_title = f"[Catch-up] Chapter {chapter_num} ({gaian_date})"[:100]
 
     catchup_intro = (
-        f"**Catch-up Reading \u2014 {normal_date}**\n\n"
-        f"This chapter would normally have been posted on {normal_date}, "
+        f"**Catch-up Reading \u2014 {gaian_date}**\n\n"
+        f"This chapter would normally have been posted on {gaian_date}, "
         f"but since our daily readings began on \u2652 Aquarius 15, 12026 GE, "
         f"we are posting previous chapters in chronological order through "
         f"\u2649 Taurus 1 for the benefit of readers.\n\n"
     )
 
-    body = catchup_intro + description
+    body = catchup_intro + chapter_text
     if len(body) > 1900:
         body = body[:1900] + "..."
     body += f"\n\n[Read on order.life]({link})"
 
     for target in TARGETS:
         try:
-            create_forum_thread(target["forum"], title, body)
-            print(f"Catch-up posted: {title} -> channel {target['forum']}")
+            create_forum_thread(target["forum"], thread_title, body)
+            print(f"Catch-up posted: {thread_title} -> channel {target['forum']}")
         except requests.HTTPError as e:
             print(f"Error posting catch-up to {target['forum']}: {e}")
             print(f"Response: {e.response.text}")
@@ -221,14 +247,13 @@ def main():
         print("ERROR: BOT_TOKEN environment variable not set")
         sys.exit(1)
 
-    feed = feedparser.parse(FEED_URL)
-    if not feed.entries:
-        print("No entries in feed")
-        return
-
     if args.catchup:
-        run_catchup(feed)
+        run_catchup()
     else:
+        feed = feedparser.parse(FEED_URL)
+        if not feed.entries:
+            print("No entries in feed")
+            return
         run_daily(feed)
 
 
