@@ -37,8 +37,8 @@ TARGETS = [
     {"server": 1472675405059064083, "forum": 1477872761807437824},
 ]
 
-# Catch-up: post chapters 1-70, one per day, starting March 10 2026 (PST)
-CATCHUP_START_DATE = datetime.date(2026, 3, 10)
+# Catch-up: post chapters 1-70, one per day, starting March 9 2026 (PST)
+CATCHUP_START_DATE = datetime.date(2026, 3, 9)
 CATCHUP_CHAPTERS = 70
 PST = ZoneInfo("America/Los_Angeles")
 
