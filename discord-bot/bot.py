@@ -37,8 +37,10 @@ TARGETS = [
     {"server": 1472675405059064083, "forum": 1477872761807437824},
 ]
 
-# Catch-up: post chapters 1-70, one per day, starting March 9 2026 (PST)
+# Catch-up: chapters 1-70, one per day starting March 9 2026 (PST)
+# Ch1 (Mar 9) and Ch2 (Mar 10) already posted manually
 CATCHUP_START_DATE = datetime.date(2026, 3, 9)
+CATCHUP_ALREADY_POSTED = {f"catchup-{n:03d}" for n in range(1, 3)}  # 1 and 2
 CATCHUP_CHAPTERS = 70
 PST = ZoneInfo("America/Los_Angeles")
 
@@ -191,8 +193,9 @@ def run_catchup():
 
     chapter_num = day_offset + 1  # day 0 = chapter 1, day 1 = chapter 2, ...
 
-    # Check if already posted today
+    # Check if already posted
     catchup_posted = load_guids(CATCHUP_GUIDS_FILE)
+    catchup_posted |= CATCHUP_ALREADY_POSTED  # seed ch1+ch2 as done
     catchup_key = f"catchup-{chapter_num:03d}"
     if catchup_key in catchup_posted:
         print(f"Catch-up chapter {chapter_num} already posted.")
