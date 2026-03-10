@@ -18,6 +18,7 @@ import re
 import sys
 import time
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import feedparser
 import requests
@@ -36,9 +37,10 @@ TARGETS = [
     {"server": 1472675405059064083, "forum": 1477872761807437824},
 ]
 
-# Catch-up: post chapters 1-70, one per day, starting March 9 2026
-CATCHUP_START_DATE = datetime.date(2026, 3, 9)
+# Catch-up: post chapters 1-70, one per day, starting March 10 2026 (PST)
+CATCHUP_START_DATE = datetime.date(2026, 3, 10)
 CATCHUP_CHAPTERS = 70
+PST = ZoneInfo("America/Los_Angeles")
 
 # Gaian calendar months in order
 GAIAN_MONTHS = [
@@ -180,7 +182,7 @@ def run_daily(feed):
 
 def run_catchup():
     """Post a catch-up chapter (chapters 1-70, one per day from March 9)."""
-    today = datetime.date.today()
+    today = datetime.datetime.now(PST).date()
     day_offset = (today - CATCHUP_START_DATE).days
 
     if day_offset < 0 or day_offset >= CATCHUP_CHAPTERS:
