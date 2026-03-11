@@ -2404,7 +2404,15 @@ def build_site():
 
     # English homepage is the site root (no separate language selector page needed).
 
-    # ── Wiki Redirects ──
+    # Generate iCal files (language-agnostic, root-level)
+    print("\nGenerating iCal files...")
+    generate_ical_files(SITE_TMP_DIR)
+
+    # Generate RSS feed for daily Gaiad readings
+    print("\nGenerating RSS feed...")
+    generate_rss_feed(SITE_TMP_DIR, chapters)
+
+    # ── Wiki Redirects (last — slowest step) ──
     print("Generating wiki redirects...")
     # Note: generate_wiki_redirects writes into SITE_DIR; temporarily point it at temp.
     global SITE_DIR
@@ -2414,14 +2422,6 @@ def build_site():
         generate_wiki_redirects(wiki_pages, list(translations.keys()))
     finally:
         SITE_DIR = original_site_dir
-
-    # Generate iCal files (language-agnostic, root-level)
-    print("\nGenerating iCal files...")
-    generate_ical_files(SITE_TMP_DIR)
-
-    # Generate RSS feed for daily Gaiad readings
-    print("\nGenerating RSS feed...")
-    generate_rss_feed(SITE_TMP_DIR, chapters)
 
     # Write CNAME for GitHub Pages custom domain
     (SITE_TMP_DIR / "CNAME").write_text("order.life\n")
