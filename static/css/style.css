@@ -568,6 +568,30 @@ nav .nav-right {
   white-space: pre-wrap;
 }
 
+.further-reading {
+  margin: 40px 0 0;
+  padding: 20px 24px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+.further-reading h3 {
+  margin: 0 0 12px;
+  font-size: 1em;
+  color: var(--text-muted);
+}
+.further-reading ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.further-reading li {
+  padding: 4px 0;
+}
+.further-reading a {
+  font-size: 0.95em;
+}
+
 .chapter-nav {
   display: flex;
   justify-content: space-between;

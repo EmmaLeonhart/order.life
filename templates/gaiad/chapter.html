@@ -41,6 +41,17 @@
     </div>
     {% endif %}
 
+    {% if further_reading %}
+    <div class="further-reading">
+      <h3>Further Reading</h3>
+      <ul>
+        {% for article in further_reading %}
+        <li><a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
     <div class="chapter-nav">
       {% if prev_chapter %}
       <a href="{{ base }}/gaiad/{{ '%03d' % prev_chapter }}/">{{ t.prev }}: {{ prev_chapter }}</a>

@@ -395,6 +395,18 @@ def load_chapters():
     return chapters
 
 
+def load_further_reading():
+    """Load further reading Wikipedia links from Gaiad/epic/further_reading.json.
+    Returns dict of chapter_num (int) -> list of {title, url} dicts.
+    """
+    fr_file = EPIC_DIR / "further_reading.json"
+    if fr_file.exists():
+        with open(fr_file, "r", encoding="utf-8") as f:
+            raw = json.load(f)
+        return {int(k): v for k, v in raw.items()}
+    return {}
+
+
 def load_genealogy():
     """Load character genealogy data from Gaiad/genealogy/ JSON files."""
     genealogy = {}
@@ -1760,6 +1772,7 @@ def build_site():
     translations = load_translations()
     glossary = load_glossary()
     chapters = load_chapters()
+    further_reading = load_further_reading()
     weekday_names = load_weekday_names()
     wiki_pages = load_wiki_pages()
     genealogy = load_genealogy()
@@ -2275,6 +2288,7 @@ def build_site():
                 "chapter_day": ch_day,
                 "prev_chapter": ch_num - 1 if ch_num > 1 else None,
                 "next_chapter": ch_num + 1 if ch_num < 364 else None,
+                "further_reading": further_reading.get(ch_num, []) if lang == DEFAULT_LANG else [],
             }
             render_page(env, "gaiad/chapter.html", ch_dir / "index.html", ch_ctx)
 

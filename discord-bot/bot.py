@@ -27,6 +27,7 @@ FEED_URL = "https://order.life/feed.xml"
 POSTED_GUIDS_FILE = Path(__file__).parent / "posted_guids.json"
 CATCHUP_GUIDS_FILE = Path(__file__).parent / "catchup_posted_guids.json"
 EPIC_DIR = Path(__file__).parent.parent / "Gaiad" / "epic"
+FURTHER_READING_FILE = EPIC_DIR / "further_reading.json"
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 DISCORD_API = "https://discord.com/api/v10"
@@ -82,6 +83,25 @@ def save_guids(guids, path):
     path.write_text(json.dumps(sorted(guids)))
 
 
+def load_further_reading():
+    """Load the further reading Wikipedia links for each chapter."""
+    if FURTHER_READING_FILE.exists():
+        return json.loads(FURTHER_READING_FILE.read_text(encoding="utf-8"))
+    return {}
+
+
+def build_further_reading_message(chapter_num):
+    """Build a 'Further Reading' message for a given chapter number."""
+    readings = load_further_reading()
+    articles = readings.get(str(chapter_num))
+    if not articles:
+        return None
+    lines = ["📚 **Further Reading**", ""]
+    for article in articles:
+        lines.append(f"• [{article['title']}]({article['url']})")
+    return "\n".join(lines)
+
+
 def create_forum_thread(channel_id, title, body):
     """Create a new forum thread via Discord HTTP API."""
     url = f"{DISCORD_API}/channels/{channel_id}/threads"
@@ -95,6 +115,19 @@ def create_forum_thread(channel_id, title, body):
             "content": body[:2000],
         },
     }
+    resp = requests.post(url, headers=headers, json=payload)
+    resp.raise_for_status()
+    return resp.json()
+
+
+def post_message_in_thread(thread_id, content):
+    """Post a follow-up message in an existing thread."""
+    url = f"{DISCORD_API}/channels/{thread_id}/messages"
+    headers = {
+        "Authorization": f"Bot {BOT_TOKEN}",
+        "Content-Type": "application/json",
+    }
+    payload = {"content": content[:2000]}
     resp = requests.post(url, headers=headers, json=payload)
     resp.raise_for_status()
     return resp.json()
@@ -137,10 +170,19 @@ def run_daily(feed):
             body = body[:1900] + "..."
         body += f"\n\n[Read on order.life]({link})"
 
+        # Extract chapter number from link URL
+        ch_match = re.search(r'/gaiad/(\d+)/', link)
+        chapter_num = int(ch_match.group(1)) if ch_match else None
+        further_msg = build_further_reading_message(chapter_num) if chapter_num else None
+
         for target in TARGETS:
             try:
-                create_forum_thread(target["forum"], title, body)
+                result = create_forum_thread(target["forum"], title, body)
                 print(f"Posted: {title} -> channel {target['forum']}")
+                if further_msg and "id" in result:
+                    time.sleep(0.5)
+                    post_message_in_thread(result["id"], further_msg)
+                    print(f"  Further reading posted to thread {result['id']}")
             except requests.HTTPError as e:
                 print(f"Error posting to {target['forum']}: {e}")
                 print(f"Response: {e.response.text}")
@@ -166,10 +208,19 @@ def run_daily(feed):
             body = body[:1900] + "..."
         body += f"\n\n[Read on order.life]({link})"
 
+        # Extract chapter number from link URL
+        ch_match = re.search(r'/gaiad/(\d+)/', link)
+        chapter_num = int(ch_match.group(1)) if ch_match else None
+        further_msg = build_further_reading_message(chapter_num) if chapter_num else None
+
         for target in TARGETS:
             try:
-                create_forum_thread(target["forum"], title, body)
+                result = create_forum_thread(target["forum"], title, body)
                 print(f"Posted: {title} -> channel {target['forum']}")
+                if further_msg and "id" in result:
+                    time.sleep(0.5)
+                    post_message_in_thread(result["id"], further_msg)
+                    print(f"  Further reading posted to thread {result['id']}")
             except requests.HTTPError as e:
                 print(f"Error posting to {target['forum']}: {e}")
                 print(f"Response: {e.response.text}")
@@ -228,10 +279,16 @@ def run_catchup():
         body = body[:1900] + "..."
     body += f"\n\n[Read on order.life]({link})"
 
+    further_msg = build_further_reading_message(chapter_num)
+
     for target in TARGETS:
         try:
-            create_forum_thread(target["forum"], thread_title, body)
+            result = create_forum_thread(target["forum"], thread_title, body)
             print(f"Catch-up posted: {thread_title} -> channel {target['forum']}")
+            if further_msg and "id" in result:
+                time.sleep(0.5)
+                post_message_in_thread(result["id"], further_msg)
+                print(f"  Further reading posted to thread {result['id']}")
         except requests.HTTPError as e:
             print(f"Error posting catch-up to {target['forum']}: {e}")
             print(f"Response: {e.response.text}")
