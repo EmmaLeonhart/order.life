@@ -4,7 +4,7 @@ on:
   push:
     branches: [master]
   schedule:
-    - cron: "0 0 * * 1"  # Every Monday at midnight UTC (keeps iCal current week ranges fresh)
+    - cron: "0 8 * * *"  # Daily at 08:00 UTC (before Discord bot at 08:30 UTC)
   workflow_dispatch:
 
 permissions:
