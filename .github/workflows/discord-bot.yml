@@ -2,8 +2,8 @@ name: Discord Daily Reading Bot
 
 on:
   schedule:
-    - cron: "30 8 * * *"  # Daily chapter at 00:30 PST (08:30 UTC)
-    - cron: "30 9 * * *"  # Catch-up chapter at 01:30 PST (09:30 UTC)
+    - cron: "30 16 * * *"  # Daily chapter at 8:30 AM PST (16:30 UTC)
+    - cron: "30 4 * * *"  # Catch-up chapter at 8:30 PM PST (04:30 UTC)
   workflow_dispatch:
     inputs:
       mode:
@@ -17,7 +17,7 @@ on:
 
 jobs:
   daily-post:
-    if: github.event.schedule == '30 8 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'daily')
+    if: github.event.schedule == '30 16 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'daily')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -39,7 +39,7 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
 
   catchup-post:
-    if: github.event.schedule == '30 9 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'catchup')
+    if: github.event.schedule == '30 4 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'catchup')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
