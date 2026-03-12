@@ -66,7 +66,8 @@
       "Bash(wc:*)",
       "Bash(sleep 30:*)",
       "Bash(sleep 45:*)",
-      "Bash(sleep 60:*)"
+      "Bash(sleep 60:*)",
+      "Bash(find C:/Users/Immanuelle/AndroidStudioProjects/order.life -maxdepth 2 -name \"*.png\" -o -name \"*.jpg\" -o -name \"*.svg\" -o -name \"*.ico\" -o -name \"*.webp\" 2>/dev/null | head -30)"
     ]
   }
 }
