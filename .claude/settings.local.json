@@ -73,7 +73,9 @@
       "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run view 22994514901 --json jobs --jq '.jobs[].steps[] | \"\\\\\\(.name\\): \\\\\\(.conclusion\\)\"')",
       "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run view 22996538596 --json jobs --jq '.jobs[].steps[] | \"\\\\\\(.name\\): \\\\\\(.conclusion\\)\"')",
       "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run view 22994514901 --log-failed 2>&1; gh run view 22994514901 --log 2>&1 | grep -i \"chapter\\\\|posted\\\\|error\\\\|done\\\\|no entries\\\\|new\\\\|guid\" | head -20)",
-      "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run view 22994514901 --log 2>&1 | wc -l)"
+      "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run view 22994514901 --log 2>&1 | wc -l)",
+      "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh workflow run discord-bot.yml --field mode=daily)",
+      "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run watch 23021922368 --exit-status 2>&1)"
     ]
   }
 }
