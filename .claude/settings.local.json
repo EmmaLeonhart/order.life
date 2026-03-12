@@ -67,7 +67,13 @@
       "Bash(sleep 30:*)",
       "Bash(sleep 45:*)",
       "Bash(sleep 60:*)",
-      "Bash(find C:/Users/Immanuelle/AndroidStudioProjects/order.life -maxdepth 2 -name \"*.png\" -o -name \"*.jpg\" -o -name \"*.svg\" -o -name \"*.ico\" -o -name \"*.webp\" 2>/dev/null | head -30)"
+      "Bash(find C:/Users/Immanuelle/AndroidStudioProjects/order.life -maxdepth 2 -name \"*.png\" -o -name \"*.jpg\" -o -name \"*.svg\" -o -name \"*.ico\" -o -name \"*.webp\" 2>/dev/null | head -30)",
+      "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run view 22994514901 --log 2>&1 | head -50)",
+      "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run view 22996538596 --log 2>&1 | head -50)",
+      "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run view 22994514901 --json jobs --jq '.jobs[].steps[] | \"\\\\\\(.name\\): \\\\\\(.conclusion\\)\"')",
+      "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run view 22996538596 --json jobs --jq '.jobs[].steps[] | \"\\\\\\(.name\\): \\\\\\(.conclusion\\)\"')",
+      "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run view 22994514901 --log-failed 2>&1; gh run view 22994514901 --log 2>&1 | grep -i \"chapter\\\\|posted\\\\|error\\\\|done\\\\|no entries\\\\|new\\\\|guid\" | head -20)",
+      "Bash(cd C:/Users/Immanuelle/AndroidStudioProjects/order.life && gh run view 22994514901 --log 2>&1 | wc -l)"
     ]
   }
 }
