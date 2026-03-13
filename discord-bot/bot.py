@@ -235,12 +235,15 @@ def run_daily(feed):
 
 def run_catchup():
     """Post a catch-up chapter (chapters 1-70, one per day from March 9)."""
-    # Use UTC date - 1 because the cron fires at 04:30 UTC, which is always
-    # the previous day in PST/PDT. Using now(PST) breaks when GitHub Actions
-    # delays push the run past midnight Pacific, causing it to compute the
-    # wrong chapter (stealing the next day's chapter).
-    today = (datetime.datetime.now(datetime.timezone.utc).date()
-             - datetime.timedelta(days=1))
+    # For scheduled runs (cron at ~03:30 UTC), use UTC date - 1 because that
+    # time is always the previous day in PST/PDT. This prevents GitHub Actions
+    # delays from pushing the date past midnight Pacific and posting the wrong
+    # chapter. For manual dispatch, use the actual Pacific date.
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule":
+        today = (datetime.datetime.now(datetime.timezone.utc).date()
+                 - datetime.timedelta(days=1))
+    else:
+        today = datetime.datetime.now(PST).date()
     day_offset = (today - CATCHUP_START_DATE).days
 
     if day_offset < 0 or day_offset >= CATCHUP_CHAPTERS:
