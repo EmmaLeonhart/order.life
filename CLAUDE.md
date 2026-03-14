@@ -103,3 +103,10 @@ This is controlled by `DEFAULT_LANG = "en"` in `build.py` (line ~42) and `lang_b
 - **GitHub Actions** automatically runs `python build.py` and deploys on every push to master
 - Pipeline config: `.github/workflows/deploy.yml`
 - Do NOT check for CI/CD existence — it is always there. Do NOT run the build manually before committing.
+
+## Discord Bot
+- **Nothing is time-critical.** We use GitHub Actions because only vague timing matters (morning-ish, evening-ish). Do NOT over-engineer for exact scheduling, DST edge cases, or sub-minute precision. GitHub Actions cron is unreliable by design — that's fine, the state file handles it.
+- Bot config: `.github/workflows/discord-bot.yml` — runs every 3 hours, posts daily chapter after 6 AM PT and catch-up chapter after 6 PM PT
+- Bot code: `discord-bot/bot.py` — one-shot script, uses `discord-bot/state.json` (committed to repo) to track what's been posted
+- State file prevents duplicate posts across runs — extra runs are harmless no-ops
+- `deploy.yml` has `paths-ignore` for `discord-bot/state.json` so bot state commits don't trigger site rebuilds
