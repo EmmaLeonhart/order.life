@@ -194,11 +194,16 @@ def try_daily(now_pt, state):
     link = f"https://order.life/gaiad/{chapter_num:03d}/"
 
     if chapter_title:
-        thread_title = f"Chapter {chapter_num}: {chapter_title}"[:100]
+        thread_title = f"{gaian_date} — Chapter {chapter_num}: {chapter_title}"[:100]
     else:
-        thread_title = f"Chapter {chapter_num} ({gaian_date})"[:100]
+        thread_title = f"{gaian_date} — Chapter {chapter_num}"[:100]
 
-    body = chapter_text
+    daily_intro = (
+        f"Today is {gaian_date}, and here is chapter {chapter_num}, "
+        f"the daily reading.\n\n"
+    )
+
+    body = daily_intro + chapter_text
     if len(body) > 1900:
         body = body[:1900] + "..."
     body += f"\n\n[Read on order.life]({link})"
