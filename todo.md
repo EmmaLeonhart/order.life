@@ -2,6 +2,24 @@
 
 ---
 
+## 🚨 Discord Bot Cron Reliability — FIXED (2026-03-14)
+
+Rewrote the Discord bot to use a state-file approach instead of relying on exact cron timing.
+
+### What changed
+- **Runs every 3 hours** (`0 */3 * * *`) instead of at exact times — state file prevents duplicates
+- **Two time windows**: daily chapter posts after 6 AM PT, catch-up after 6 PM PT
+- **Committed state file** (`discord-bot/state.json`) instead of GitHub Actions cache
+- **Always uses Pacific time** via `zoneinfo` — no more UTC offset hacks or DST confusion
+- **No more RSS dependency** — daily chapter computed directly from Gaian calendar date
+- **deploy.yml ignores** state.json changes to avoid unnecessary rebuilds
+
+### Monitor for
+- Verify both daily and catch-up posts are landing reliably over the next few days
+- If GitHub Actions skips all 8 daily runs (extremely unlikely), the post will go out next day
+
+---
+
 ## ⚠️ iCal Calendars — Phase 1 (bug fix + spec revision needed)
 
 ### Bug

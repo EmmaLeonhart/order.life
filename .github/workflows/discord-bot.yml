@@ -2,22 +2,15 @@ name: Discord Daily Reading Bot
 
 on:
   schedule:
-    - cron: "30 15 * * *"  # Daily chapter at 8:30 AM PDT (15:30 UTC)
-    - cron: "30 3 * * *"  # Catch-up chapter at 8:30 PM PDT (03:30 UTC)
+    # Run every 3 hours for reliability — state file prevents duplicate posts
+    - cron: "0 */3 * * *"
   workflow_dispatch:
-    inputs:
-      mode:
-        description: "Which post to make"
-        required: false
-        default: "daily"
-        type: choice
-        options:
-          - daily
-          - catchup
+
+permissions:
+  contents: write
 
 jobs:
-  daily-post:
-    if: github.event.schedule == '30 15 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'daily')
+  post:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -26,36 +19,16 @@ jobs:
         with:
           python-version: "3.13"
 
-      - run: pip install feedparser requests
-
-      - uses: actions/cache@v4
-        with:
-          path: discord-bot/posted_guids.json
-          key: discord-posted-guids-${{ github.run_id }}
-          restore-keys: discord-posted-guids-
+      - run: pip install requests
 
       - run: python discord-bot/bot.py
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
 
-  catchup-post:
-    if: github.event.schedule == '30 3 * * *' || (github.event_name == 'workflow_dispatch' && github.event.inputs.mode == 'catchup')
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.13"
-
-      - run: pip install feedparser requests
-
-      - uses: actions/cache@v4
-        with:
-          path: discord-bot/catchup_posted_guids.json
-          key: discord-catchup-guids-${{ github.run_id }}
-          restore-keys: discord-catchup-guids-
-
-      - run: python discord-bot/bot.py --catchup
-        env:
-          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+      - name: Commit state file if changed
+        run: |
+          git config user.name "discord-bot[bot]"
+          git config user.email "discord-bot[bot]@users.noreply.github.com"
+          git add discord-bot/state.json
+          git diff --cached --quiet || git commit -m "Update Discord bot state"
+          git push || echo "Push failed (concurrent update?), will retry next run"

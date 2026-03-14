@@ -1,16 +1,14 @@
 #!/usr/bin/env python3
-"""Gaiad Daily Reading — Discord Forum Bot (one-shot).
+"""Gaiad Daily Reading — Discord Forum Bot (one-shot, state-file based).
 
-Checks the order.life RSS feed and posts new chapters as forum threads.
-Runs once and exits. Designed for daily GitHub Actions cron.
+Runs on a frequent cron (every 3 hours). Uses a committed state file to
+track what has already been posted, so duplicate runs are harmless no-ops.
 
-Modes:
-  (default)   Post today's new chapter from RSS feed
-  --catchup   Post the next catch-up chapter directly from chapter files
-              (chapters 1-70, one per day, March 9 – May 17 2026)
+Two posting windows per day (Pacific Time):
+  - After 6 AM PT:  Post today's daily chapter (computed from Gaian calendar)
+  - After 6 PM PT:  Post today's catch-up chapter (chapters 1-70, Mar 9 – May 17)
 """
 
-import argparse
 import datetime
 import json
 import os
@@ -20,14 +18,11 @@ import time
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-import feedparser
 import requests
 
-FEED_URL = "https://order.life/feed.xml"
-POSTED_GUIDS_FILE = Path(__file__).parent / "posted_guids.json"
-CATCHUP_GUIDS_FILE = Path(__file__).parent / "catchup_posted_guids.json"
 EPIC_DIR = Path(__file__).parent.parent / "Gaiad" / "epic"
 FURTHER_READING_FILE = EPIC_DIR / "further_reading.json"
+STATE_FILE = Path(__file__).parent / "state.json"
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 DISCORD_API = "https://discord.com/api/v10"
@@ -38,12 +33,11 @@ TARGETS = [
     {"server": 1472675405059064083, "forum": 1477872761807437824},
 ]
 
-# Catch-up: chapters 1-70, one per day starting March 9 2026 (PST)
-# Ch1 (Mar 9) and Ch2 (Mar 10) already posted manually
+# Catch-up: chapters 1-70, one per day starting March 9 2026 (Pacific)
 CATCHUP_START_DATE = datetime.date(2026, 3, 9)
-CATCHUP_ALREADY_POSTED = {f"catchup-{n:03d}" for n in range(1, 3)}  # 1 and 2
 CATCHUP_CHAPTERS = 70
-PST = ZoneInfo("America/Los_Angeles")
+
+PT = ZoneInfo("America/Los_Angeles")
 
 # Gaian calendar months in order
 GAIAN_MONTHS = [
@@ -73,14 +67,22 @@ def chapter_to_gaian_date(chapter_num):
     return f"Day {chapter_num}, 12026 GE"
 
 
-def load_guids(path):
-    if path.exists():
-        return set(json.loads(path.read_text()))
-    return set()
+def greg_to_chapter(greg_date):
+    """Convert a Gregorian date to Gaiad chapter number (1-364+)."""
+    iso_year, iso_week, iso_day = greg_date.isocalendar()
+    return (iso_week - 1) * 7 + iso_day
 
 
-def save_guids(guids, path):
-    path.write_text(json.dumps(sorted(guids)))
+def load_state():
+    """Load the posting state from state.json."""
+    if STATE_FILE.exists():
+        return json.loads(STATE_FILE.read_text(encoding="utf-8"))
+    return {"last_daily_date": None, "last_catchup_date": None}
+
+
+def save_state(state):
+    """Save posting state to state.json."""
+    STATE_FILE.write_text(json.dumps(state, indent=2) + "\n", encoding="utf-8")
 
 
 def load_further_reading():
@@ -96,9 +98,9 @@ def build_further_reading_message(chapter_num):
     articles = readings.get(str(chapter_num))
     if not articles:
         return None
-    lines = ["📚 **Further Reading**", ""]
+    lines = ["\U0001f4da **Further Reading**", ""]
     for article in articles:
-        lines.append(f"• [{article['title']}]({article['url']})")
+        lines.append(f"\u2022 [{article['title']}]({article['url']})")
     return "\n".join(lines)
 
 
@@ -111,9 +113,7 @@ def create_forum_thread(channel_id, title, body):
     }
     payload = {
         "name": title[:100],
-        "message": {
-            "content": body[:2000],
-        },
+        "message": {"content": body[:2000]},
     }
     resp = requests.post(url, headers=headers, json=payload)
     resp.raise_for_status()
@@ -148,123 +148,91 @@ def load_chapter_file(chapter_num):
     return title, clean
 
 
-def run_daily(feed):
-    """Post today's chapter (the newest entry in the feed)."""
-    posted = load_guids(POSTED_GUIDS_FILE)
-    first_run = len(posted) == 0
-
-    if first_run:
-        # First run: seed all existing GUIDs, only post the latest chapter
-        all_guids = set()
-        for entry in feed.entries:
-            guid = entry.get("id", entry.get("link"))
-            all_guids.add(guid)
-
-        latest = feed.entries[0]
-        title = latest.get("title", "Daily Reading")[:100]
-        description = latest.get("description", "")
-        link = latest.get("link", "")
-
-        body = description
-        if len(body) > 1900:
-            body = body[:1900] + "..."
-        body += f"\n\n[Read on order.life]({link})"
-
-        # Extract chapter number from link URL
-        ch_match = re.search(r'/gaiad/(\d+)/', link)
-        chapter_num = int(ch_match.group(1)) if ch_match else None
-        further_msg = build_further_reading_message(chapter_num) if chapter_num else None
-
-        for target in TARGETS:
-            try:
-                result = create_forum_thread(target["forum"], title, body)
-                print(f"Posted: {title} -> channel {target['forum']}")
-                if further_msg and "id" in result:
-                    time.sleep(0.5)
-                    post_message_in_thread(result["id"], further_msg)
-                    print(f"  Further reading posted to thread {result['id']}")
-            except requests.HTTPError as e:
-                print(f"Error posting to {target['forum']}: {e}")
-                print(f"Response: {e.response.text}")
-            time.sleep(1)
-
-        save_guids(all_guids, POSTED_GUIDS_FILE)
-        print(f"First run: posted latest chapter, seeded {len(all_guids)} GUIDs.")
-        return
-
-    # Normal run: post any new entries since last run
-    new_count = 0
-    for entry in reversed(feed.entries):  # oldest first
-        guid = entry.get("id", entry.get("link"))
-        if guid in posted:
-            continue
-
-        title = entry.get("title", "Daily Reading")[:100]
-        description = entry.get("description", "")
-        link = entry.get("link", "")
-
-        body = description
-        if len(body) > 1900:
-            body = body[:1900] + "..."
-        body += f"\n\n[Read on order.life]({link})"
-
-        # Extract chapter number from link URL
-        ch_match = re.search(r'/gaiad/(\d+)/', link)
-        chapter_num = int(ch_match.group(1)) if ch_match else None
-        further_msg = build_further_reading_message(chapter_num) if chapter_num else None
-
-        for target in TARGETS:
-            try:
-                result = create_forum_thread(target["forum"], title, body)
-                print(f"Posted: {title} -> channel {target['forum']}")
-                if further_msg and "id" in result:
-                    time.sleep(0.5)
-                    post_message_in_thread(result["id"], further_msg)
-                    print(f"  Further reading posted to thread {result['id']}")
-            except requests.HTTPError as e:
-                print(f"Error posting to {target['forum']}: {e}")
-                print(f"Response: {e.response.text}")
-            time.sleep(1)
-
-        posted.add(guid)
-        new_count += 1
-
-    save_guids(posted, POSTED_GUIDS_FILE)
-    print(f"Done. Posted {new_count} new chapter(s).")
+def post_to_discord(thread_title, body, chapter_num):
+    """Post a chapter to all target Discord forums. Returns True if successful."""
+    further_msg = build_further_reading_message(chapter_num)
+    success = False
+    for target in TARGETS:
+        try:
+            result = create_forum_thread(target["forum"], thread_title, body)
+            print(f"  Posted: {thread_title} -> channel {target['forum']}")
+            success = True
+            if further_msg and "id" in result:
+                time.sleep(0.5)
+                post_message_in_thread(result["id"], further_msg)
+                print(f"  Further reading posted to thread {result['id']}")
+        except requests.HTTPError as e:
+            print(f"  Error posting to {target['forum']}: {e}")
+            print(f"  Response: {e.response.text}")
+        time.sleep(1)
+    return success
 
 
-def run_catchup():
-    """Post a catch-up chapter (chapters 1-70, one per day from March 9)."""
-    # For scheduled runs (cron at ~03:30 UTC), use UTC date - 1 because that
-    # time is always the previous day in PST/PDT. This prevents GitHub Actions
-    # delays from pushing the date past midnight Pacific and posting the wrong
-    # chapter. For manual dispatch, use the actual Pacific date.
-    if os.environ.get("GITHUB_EVENT_NAME") == "schedule":
-        today = (datetime.datetime.now(datetime.timezone.utc).date()
-                 - datetime.timedelta(days=1))
-    else:
-        today = datetime.datetime.now(PST).date()
-    day_offset = (today - CATCHUP_START_DATE).days
+def try_daily(now_pt, state):
+    """Post today's daily chapter if after 6 AM PT and not yet posted today."""
+    today_str = now_pt.date().isoformat()
 
-    if day_offset < 0 or day_offset >= CATCHUP_CHAPTERS:
-        print("No catch-up chapter due today (outside March 9 - May 17 window).")
-        return
+    if state.get("last_daily_date") == today_str:
+        print(f"[daily] Already posted for {today_str}, skipping.")
+        return False
 
-    chapter_num = day_offset + 1  # day 0 = chapter 1, day 1 = chapter 2, ...
+    if now_pt.hour < 6:
+        print(f"[daily] Before 6 AM PT ({now_pt.strftime('%H:%M')}), skipping.")
+        return False
 
-    # Check if already posted
-    catchup_posted = load_guids(CATCHUP_GUIDS_FILE)
-    catchup_posted |= CATCHUP_ALREADY_POSTED  # seed ch1+ch2 as done
-    catchup_key = f"catchup-{chapter_num:03d}"
-    if catchup_key in catchup_posted:
-        print(f"Catch-up chapter {chapter_num} already posted.")
-        return
+    chapter_num = greg_to_chapter(now_pt.date())
+    if chapter_num < 1 or chapter_num > 364:
+        print(f"[daily] Chapter {chapter_num} out of range (Horus intercalary?), skipping.")
+        return False
 
-    # Load chapter directly from file
     chapter_title, chapter_text = load_chapter_file(chapter_num)
     if chapter_text is None:
-        print(f"Chapter file chapter_{chapter_num:03d}.md not found.")
-        return
+        print(f"[daily] Chapter file chapter_{chapter_num:03d}.md not found, skipping.")
+        return False
+
+    gaian_date = chapter_to_gaian_date(chapter_num)
+    link = f"https://order.life/gaiad/{chapter_num:03d}/"
+
+    if chapter_title:
+        thread_title = f"Chapter {chapter_num}: {chapter_title}"[:100]
+    else:
+        thread_title = f"Chapter {chapter_num} ({gaian_date})"[:100]
+
+    body = chapter_text
+    if len(body) > 1900:
+        body = body[:1900] + "..."
+    body += f"\n\n[Read on order.life]({link})"
+
+    print(f"[daily] Posting chapter {chapter_num} ({gaian_date}) for {today_str}...")
+    if post_to_discord(thread_title, body, chapter_num):
+        state["last_daily_date"] = today_str
+        return True
+    return False
+
+
+def try_catchup(now_pt, state):
+    """Post today's catch-up chapter if after 6 PM PT and not yet posted today."""
+    today_str = now_pt.date().isoformat()
+
+    if state.get("last_catchup_date") == today_str:
+        print(f"[catchup] Already posted for {today_str}, skipping.")
+        return False
+
+    if now_pt.hour < 18:
+        print(f"[catchup] Before 6 PM PT ({now_pt.strftime('%H:%M')}), skipping.")
+        return False
+
+    day_offset = (now_pt.date() - CATCHUP_START_DATE).days
+    if day_offset < 0 or day_offset >= CATCHUP_CHAPTERS:
+        print(f"[catchup] Outside catch-up window (day offset {day_offset}), skipping.")
+        return False
+
+    chapter_num = day_offset + 1
+
+    chapter_title, chapter_text = load_chapter_file(chapter_num)
+    if chapter_text is None:
+        print(f"[catchup] Chapter file chapter_{chapter_num:03d}.md not found, skipping.")
+        return False
 
     gaian_date = chapter_to_gaian_date(chapter_num)
     link = f"https://order.life/gaiad/{chapter_num:03d}/"
@@ -287,44 +255,35 @@ def run_catchup():
         body = body[:1900] + "..."
     body += f"\n\n[Read on order.life]({link})"
 
-    further_msg = build_further_reading_message(chapter_num)
-
-    for target in TARGETS:
-        try:
-            result = create_forum_thread(target["forum"], thread_title, body)
-            print(f"Catch-up posted: {thread_title} -> channel {target['forum']}")
-            if further_msg and "id" in result:
-                time.sleep(0.5)
-                post_message_in_thread(result["id"], further_msg)
-                print(f"  Further reading posted to thread {result['id']}")
-        except requests.HTTPError as e:
-            print(f"Error posting catch-up to {target['forum']}: {e}")
-            print(f"Response: {e.response.text}")
-        time.sleep(1)
-
-    catchup_posted.add(catchup_key)
-    save_guids(catchup_posted, CATCHUP_GUIDS_FILE)
-    print(f"Catch-up: posted chapter {chapter_num}.")
+    print(f"[catchup] Posting chapter {chapter_num} ({gaian_date}) for {today_str}...")
+    if post_to_discord(thread_title, body, chapter_num):
+        state["last_catchup_date"] = today_str
+        return True
+    return False
 
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--catchup", action="store_true",
-                        help="Post catch-up chapter instead of daily")
-    args = parser.parse_args()
-
     if not BOT_TOKEN:
         print("ERROR: BOT_TOKEN environment variable not set")
         sys.exit(1)
 
-    if args.catchup:
-        run_catchup()
+    now_pt = datetime.datetime.now(PT)
+    print(f"Bot running at {now_pt.strftime('%Y-%m-%d %H:%M %Z')}")
+
+    state = load_state()
+    changed = False
+
+    if try_daily(now_pt, state):
+        changed = True
+
+    if try_catchup(now_pt, state):
+        changed = True
+
+    if changed:
+        save_state(state)
+        print(f"State updated: {json.dumps(state)}")
     else:
-        feed = feedparser.parse(FEED_URL)
-        if not feed.entries:
-            print("No entries in feed")
-            return
-        run_daily(feed)
+        print("Nothing to post this run.")
 
 
 if __name__ == "__main__":
