@@ -43,3 +43,14 @@ python wiki-scripts/create_wanted_pages.py --apply --run-tag "${RUN_TAG}"
 
 # 4. Update git revisions page
 python wiki-scripts/update_git_revisions.py --apply --run-tag "${RUN_TAG}"
+
+# 5. Sync git-synced pages (bidirectional: pull from wiki, push local edits)
+python wiki-scripts/sync_git_pages.py --sync --apply --run-tag "${RUN_TAG}"
+
+# Commit any pages pulled from wiki
+if ! git diff --quiet -- wiki-pages/ 2>/dev/null || [ -n "$(git ls-files --others --exclude-standard -- wiki-pages/)" ]; then
+  git add wiki-pages/
+  git commit -m "chore(state): sync wiki pages [skip ci]"
+  git pull --rebase origin master
+  git push origin HEAD:master
+fi

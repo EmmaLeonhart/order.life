@@ -5,6 +5,7 @@ on:
     branches: [master]
     paths-ignore:
       - "discord-bot/state.json"
+      - "wiki-pages/**"
   schedule:
     - cron: "0 16 * * *"  # Daily at 8:00 AM PST (16:00 UTC), before Discord bot at 8:30 AM PST
   workflow_dispatch:
