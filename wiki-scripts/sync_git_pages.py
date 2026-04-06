@@ -139,7 +139,11 @@ def propagate(site, apply: bool = False, run_tag: str = "",
             if apply:
                 new_text = text.rstrip() + "\n" + CAT_TAG + "\n"
                 summary = f"Bot: propagate git-sync category from Category:{subcat_name}{run_tag_suffix}"
-                saved = safe_save(page, new_text, summary)
+                try:
+                    saved = safe_save(page, new_text, summary)
+                except Exception as exc:
+                    print(f"    ERROR tagging {title}: {exc}")
+                    continue
                 if saved:
                     tagged += 1
                     print(f"    tagged: {title}")

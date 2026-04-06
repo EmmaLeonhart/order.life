@@ -18,6 +18,9 @@ from utils import connect, create_page, append_log, Progress
 
 CATEGORY_TEXT = "[[Category:Created from Wanted Pages]]"
 EDIT_SUMMARY = "Bot: create stub from Special:WantedPages"
+
+# Namespaces where wikitext stubs don't work (e.g. Module expects Lua code)
+SKIP_PREFIXES = ("Module:", "Module talk:")
 SCRIPT_DIR = os.path.dirname(__file__)
 DEFAULT_LOG_FILE = os.path.join(SCRIPT_DIR, "create_wanted_pages.log")
 
@@ -78,6 +81,10 @@ def main():
             print(f"  would create: {t}")
         print(f"\nTotal: {len(wanted)} pages")
         return
+
+    # Filter out namespaces that don't accept wikitext stubs
+    wanted = [t for t in wanted if not t.startswith(SKIP_PREFIXES)]
+    print(f"After filtering non-wikitext namespaces: {len(wanted)} pages.", flush=True)
 
     stats = Progress()
     for i, title in enumerate(wanted, 1):
