@@ -1,0 +1,226 @@
+{{Short description|Closeness of someone's association with mathematician Paul Erdős}}
+[[File:Erdos budapest fall 1992.jpg|thumb|upright|[[Paul Erdős]] in 1992]]
+
+The '''Erdős number''' ({{IPA-hu|ˈɛrdøːʃ|lang}}) describes the "collaborative distance" between mathematician [[Paul Erdős]] and another person, as measured by authorship of [[List of important publications in mathematics|mathematical papers]]. The same principle has been applied in other fields where a particular individual has collaborated with a large and broad number of peers.
+
+== Overview ==
+Paul Erdős (1913–1996) was an influential [[Hungarian people|Hungarian]] mathematician who in the latter part of his life spent a great deal of time writing papers with a large number of colleagues, working on solutions to outstanding mathematical problems.<ref name="newman2001">{{cite journal|last=Newman|first=Mark E. J.|author-link=Mark Newman|title=The structure of scientific collaboration networks|journal=[[Proceedings of the National Academy of Sciences of the United States of America]]| year=2001| doi=10.1073/pnas.021544898| volume=98|issue=2|pages=404–409|pmid=11149952|pmc=14598|doi-access=free}}</ref> He published more papers during his lifetime (at least 1,525<ref>{{cite web |url=http://www.oakland.edu/enp/pubinfo/ |title=Publications of Paul Erdős | first=Jerry | last=Grossman |access-date=1 Feb 2011}}</ref>) than any other mathematician in history.<ref name="newman2001"/> ([[Leonhard Euler]] published more total pages of mathematics but fewer separate papers: about 800.)<ref>{{cite web| url=https://www.math.dartmouth.edu/~euler/FAQ.html| work=The Euler Archive| title=Frequently Asked Questions| publisher=Dartmouth College}}</ref> Erdős spent a large portion of his later life living out of a suitcase, visiting his over 500 collaborators around the world.
+
+The idea of the Erdős number was originally created by the mathematician's friends as a tribute to his enormous output. Later it gained prominence as a tool to study how mathematicians cooperate to find answers to unsolved problems. Several projects are devoted to studying connectivity among researchers, using the Erdős number as a proxy.<ref name="Erdős Number Project">{{cite web|title=Facts about Erdös Numbers and the Collaboration Graph|url=https://oakland.edu/enp/trivia/|url-status=live|publisher=Oakland University}}</ref> For example, Erdős [[collaboration graph]]s can tell us how authors cluster, how the number of co-authors per paper evolves over time, or how new theories propagate.<ref>{{cite web|url=http://www.oakland.edu/enp/trivia/|title=Facts about Erdös Numbers and the Collaboration Graph|work=Erdös Number Project|publisher=Oakland University}}</ref>
+
+Several studies have shown that leading mathematicians tend to have particularly low Erdős numbers.<ref name="trails">{{cite journal
+ |last1       = De Castro
+ |first1      = Rodrigo
+ |last2       = Grossman
+ |first2      = Jerrold W.
+ |doi         = 10.1007/BF03025416
+ |issue       = 3
+ |journal     = [[The Mathematical Intelligencer]]
+ |mr          = 1709679
+ |pages       = 51–63
+ |title       = Famous trails to Paul Erdős
+ |url         = http://www.oakland.edu/upload/docs/Erdos%20Number%20Project/trails.pdf
+ |volume      = 21
+ |year        = 1999
+ |s2cid = 120046886
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20150924054224/http://www.oakland.edu/upload/docs/Erdos%20Number%20Project/trails.pdf
+ |archive-date = 2015-09-24
+}} Original Spanish version in ''Rev. Acad. Colombiana Cienc. Exact. Fís. Natur.'' '''23''' (89) 563–582, 1999, {{MR|1744115}}.</ref> The median Erdős number of [[Fields Medalists]] is 3. Only 7,097 (about 5% of mathematicians with a collaboration path) have an Erdős number of 2 or lower.<ref name="paths"/> As time passes, the lowest Erdős number that can still be achieved will necessarily increase, as mathematicians with low Erdős numbers die and become unavailable for collaboration. Still, historical figures can have low Erdős numbers. For example, renowned Indian mathematician [[Srinivasa Ramanujan]] has an Erdős number of only 3 (through [[G. H. Hardy]], Erdős number 2), even though Paul Erdős was only 7 years old when Ramanujan died.<ref name="Collaboration distance" />
+
+==Definition and application in mathematics==
+[[File:Erdosnumber.png|thumb|If [[Alice and Bob|Alice]] collaborates with Paul Erdős on one paper, and with Bob on another, but Bob never collaborates with Erdős himself, then Alice is given an Erdős number of 1 and Bob is given an Erdős number of 2, as he is two steps from Erdős.]]
+
+To be assigned an Erdős number, someone must be a coauthor of a research paper with another person who has a finite Erdős number.  Paul Erdős has an Erdős number of zero. Anybody else's Erdős number is {{math|''k'' + 1}} where {{math|''k''}} is the lowest Erdős number of any coauthor.  The [[American Mathematical Society]] provides a free online tool to determine the collaboration distance between two mathematical authors listed in the ''[[Mathematical Reviews]]'' catalogue.<ref name="Collaboration distance">{{cite web|url=https://www.ams.org/mathscinet/collaborationDistance.html|title= Collaboration Distance|work=[[MathSciNet]]|publisher=American Mathematical Society}}</ref>
+
+Erdős wrote around 1,500 mathematical articles in his lifetime, mostly co-written. He had 509 direct collaborators;<ref name="Erdős Number Project"/> these are the people with Erdős number 1.  The people who have collaborated with them (but not with Erdős himself) have an Erdős number of 2 (12,600 people as of 7 August 2020<ref name="Erdős Number Project File Erdos2">[https://www.oakland.edu/enp/thedata/erdos2/ Erdos2], Version 2020, 7 August 2020.</ref>), those who have collaborated with people who have an Erdős number of 2 (but not with Erdős or anyone with an Erdős number of 1) have an Erdős number of 3, and so forth. A person with no such coauthorship chain connecting to Erdős has an Erdős number of [[infinity]] (or an [[defined and undefined|undefined]] one). Since the death of Paul Erdős, the lowest Erdős number that a new researcher can obtain is 2.
+
+There is room for ambiguity over what constitutes a link between two authors. The American Mathematical Society collaboration distance calculator uses data from ''Mathematical Reviews'', which includes most mathematics journals but covers other subjects only in a limited way, and which also includes some non-research publications. The Erdős Number Project web site says:{{quote|... One drawback of the MR system is that it considers all jointly authored works as providing legitimate links, even articles such as obituaries, which are not really joint research. ...}}<ref name="Oakland University Erdös Number compute">{{cite web | title=Compute your Erdös number - The Erdös Number Project | website=Oakland University | date=1999-02-22 | url=https://www.oakland.edu/enp/compute/ | access-date=2022-10-15}}</ref> It also says:
+
+{{quote|... Our criterion for inclusion of an edge between vertices u and v is some research collaboration between them resulting in a published work. Any number of additional co-authors is permitted,...}}
+but excludes non-research publications such as elementary textbooks, joint editorships, obituaries, and the like.  The "Erdős number of the second kind" restricts assignment of Erdős numbers to papers with only two collaborators.<ref>Grossman ''et al.''  "[http://www.oakland.edu/?id=9569&sid=243#en2k Erdős numbers of the second kind]," in ''Facts about Erdős Numbers and the Collaboration Graph''. [http://www.oakland.edu/enp The Erdős Number Project], [[Oakland University]], USA. Retrieved July 25, 2009.</ref>
+
+The Erdős number was most likely first defined in print by Casper Goffman, an [[Mathematical analysis|analyst]] whose own Erdős number is 2.<ref name="Erdős Number Project File Erdos2"/> Goffman published his observations about Erdős' prolific collaboration in a 1969 article entitled "''And what is your Erdős number?''"<ref>{{cite journal|last=Goffman|first=Casper|title=And what is your Erdős number?|journal=[[American Mathematical Monthly]]|volume=76|year=1969|doi=10.2307/2317868|page=791|jstor=2317868|issue=7}}</ref> See also some comments in an obituary by Michael Golomb.<ref>{{Cite web|url=https://www.math.purdue.edu/about/purview/fall96/paul-erdos.html|title=Paul Erdös at Purdue|website=www.math.purdue.edu}}</ref>
+
+The median Erdős number among [[Fields medal]]ists is as low as 3.<ref name="paths"/> Fields medalists with Erdős number 2 include [[Atle Selberg]], [[Kunihiko Kodaira]], [[Klaus Roth]], [[Alan Baker (mathematician)|Alan Baker]], [[Enrico Bombieri]], [[David Mumford]], [[Charles Fefferman]], [[William Thurston]], [[Shing-Tung Yau]], [[Jean Bourgain]], [[Richard Borcherds]], [[Manjul Bhargava]], [[Jean-Pierre Serre]] and [[Terence Tao]].  There are no Fields medalists with Erdős number 1;<ref name="project">{{cite web|url=http://www.oakland.edu/enp/erdpaths/|title=Paths to Erdös|work=The Erdös Number Project|publisher=Oakland University}}</ref> however, [[Endre Szemerédi]] is an [[Abel Prize]] Laureate with Erdős number 1.<ref name="trails"/>
+
+==Most frequent Erdős collaborators==
+While Erdős collaborated with hundreds of co-authors, there were some individuals with whom he co-authored dozens of papers. This is a list of the ten persons who most frequently co-authored with Erdős and their number of papers co-authored with Erdős (i.e. their number of collaborations).<ref>Grossman, Jerry, [https://files.oakland.edu/users/grossman/enp/Erdos0p.html Erdos0p],  Version 2010, ''[http://www.oakland.edu/enp The Erdős Number Project]'', [[Oakland University]], US, October 20, 2010.</ref>
+{| class="wikitable sortable"
+|-
+! Co-author !! Number of <br>collaborations
+|-
+| [[András Sárközy]] || 62
+|-
+| [[András Hajnal]] || 56
+|-
+| [[Ralph Faudree]] || 50
+|-
+| [[Richard Schelp]] || 42
+|-
+| [[Cecil C. Rousseau]] || 35 
+|-
+| [[Vera T. Sós]] || 35
+|-
+| [[Alfréd Rényi]] || 32
+|-
+| [[Pál Turán]] || 30
+|-
+| [[Endre Szemerédi]] || 29
+|-
+| [[Ronald Graham]] || 28
+|}
+
+==Related fields==
+{{As of|2022}}, all [[Fields Medal]]ists have a finite Erdős number, with values that range between 2 and 6, and a median of 3. In contrast, the median Erdős number across all mathematicians (with a finite Erdős number) is 5, with an extreme value of 13.<ref>{{Cite web|url=http://wwwp.oakland.edu/enp/trivia/|title=Facts about Erdös Numbers and the Collaboration Graph - The Erdös Number Project- Oakland University|website=wwwp.oakland.edu|access-date=2016-10-27}}</ref> The table below summarizes the Erdős number statistics for [[Nobel Prize|Nobel prize]] laureates in Physics, Chemistry, Medicine and Economics.<ref>{{Cite journal|last=López de Prado|first=Marcos|title=Mathematics and Economics: A reality check|journal=The Journal of Portfolio Management|volume=43|issue=1|pages=5–8|doi=10.3905/jpm.2016.43.1.005|year=2016| s2cid=219231926 }}</ref> The first column counts the number of laureates. The second column counts the number of winners with a finite Erdős number. The third column is the percentage of winners with a finite Erdős number. The remaining columns report the minimum, maximum, average and median Erdős numbers among those laureates.
+
+{| class="wikitable sortable"
+|+ Statistics on Mathematical Collaboration, 1903-2016
+!
+! #Laureates
+! #Erdős
+! %Erdős
+! Min 
+! Max
+! Average
+! Median
+|-
+|Fields Medal
+|56
+|56
+|100.0%
+|2
+|6
+|3.36
+|3
+|-
+|Nobel Economics
+|76
+|47
+|61.84%
+|2
+|8
+|4.11
+|4
+|-
+|Nobel Chemistry
+|172
+|42
+|24.42%
+|3
+|10
+|5.48
+|5
+|-
+|Nobel Medicine
+|210
+|58
+|27.62%
+|3
+|12
+|5.50
+|5
+|-
+|Nobel Physics
+|200
+|159
+|79.50%
+|2
+|12
+|5.63
+|5
+|}
+
+===Physics===
+Among the Nobel Prize laureates in Physics, [[Albert Einstein]] and [[Sheldon Glashow]] have an Erdős number of 2. Nobel Laureates with an Erdős number of 3 include [[Enrico Fermi]], [[Otto Stern]], [[Wolfgang Pauli]], [[Max Born]], [[Willis E. Lamb]], [[Eugene Wigner]], [[Richard P. Feynman]], [[Hans A. Bethe]], [[Murray Gell-Mann]], [[Abdus Salam]], [[Steven Weinberg]], [[Norman F. Ramsey]], [[Frank Wilczek]], and [[David Wineland]]. Fields Medal-winning physicist [[Ed Witten]] has an Erdős number of 3.<ref name="paths">{{Cite web |title = Some Famous People with Finite Erdős Numbers |url = http://www.oakland.edu/enp/erdpaths/ |publisher = [[Oakland University|oakland.edu]] |access-date = 4 April 2014 }}</ref>
+
+===Biology===
+[[computational biology|Computational biologist]] [[Lior Pachter]] has an Erdős number of 2.<ref name="erdos2">{{cite web |title=List of all people with Erdos number less than or equal to 2 |url=https://files.oakland.edu/users/grossman/enp/ErdosA.html |work=The Erdös Number Project |publisher=Oakland University |date=14 July 2015 |access-date=25 August 2015}}</ref> [[Evolutionary biology|Evolutionary biologist]] [[Richard Lenski]] has an Erdős number of 3, having co-authored a publication with Lior Pachter and with mathematician [[Bernd Sturmfels]], each of whom has an Erdős number of 2.<ref>{{cite web|url=http://telliamedrevisited.wordpress.com/2015/05/28/erdos-with-a-non-kosher-side-of-bacon|title=Erdös with a non-kosher side of Bacon|author=Richard Lenski|date=May 28, 2015}}</ref>
+
+===Finance and economics===
+There are at least two winners of the [[Nobel Memorial Prize in Economic Sciences|Nobel Prize in Economics]] with an Erdős number of 2: [[Harry M. Markowitz]] (1990) and [[Leonid Kantorovich]] (1975). Other financial mathematicians with Erdős number of 2 include [[David Donoho]], [[Marc Yor]], [[Henry McKean]], [[Daniel Stroock]], and [[Joseph Keller]].
+
+Nobel Prize laureates in Economics with an Erdős number of 3 include [[Kenneth J. Arrow]] (1972), [[Milton Friedman]] (1976), [[Herbert A. Simon]] (1978), [[Gerard Debreu]] (1983), [[John Forbes Nash, Jr.]] (1994), [[James Mirrlees]] (1996), [[Daniel McFadden]] (2000), [[Daniel Kahneman]] (2002), [[Robert J. Aumann]] (2005), [[Leonid Hurwicz]] (2007), [[Roger Myerson]] (2007), [[Alvin E. Roth]] (2012), and [[Lloyd S. Shapley]] (2012) and [[Jean Tirole]] (2014).<ref>Grossman, J. (2015): "The Erdős Number Project." http://wwwp.oakland.edu/enp/erdpaths/</ref>
+
+Some investment firms have been founded by mathematicians with low Erdős numbers, among them [[James Ax|James B. Ax]] of [[Renaissance Technologies#Medallion Fund|Axcom Technologies]], and [[James H. Simons]] of [[Renaissance Technologies]], both with an Erdős number of 3.<ref>{{Cite news|url=https://www.bloomberg.com/news/articles/2016-11-11/six-degrees-of-quant-kevin-bacon-and-the-erdos-number-mystery|title=Six Degrees of Quant: Kevin Bacon and the Erdős Number Mystery|last=Kishan|first=Saijel|date=2016-11-11|newspaper=Bloomberg.com|access-date=2016-11-12}}</ref><ref>{{Cite news|url=http://www.financial-math.org/blog/2016/11/erdos-numbers-in-finance/|title=Erdős Numbers: A True "Prince and the Pauper" story|last=Bailey|first=David H.|date=2016-11-06|newspaper=The Mathematical Investor|language=en-US|access-date=2016-11-12}}</ref>
+
+===Philosophy===
+Since the more formal versions of philosophy share reasoning with the basics of mathematics, these fields overlap considerably, and Erdős numbers are available for many philosophers.<ref>{{cite web |url=http://home.iprimus.com.au/than/toby/2013-researchnetwork-poster.pdf |title=Philosophy research networks |author=Toby Handfield |archive-url=https://web.archive.org/web/20160221161316/http://home.iprimus.com.au/than/toby/2013-researchnetwork-poster.pdf |archive-date=2016-02-21 }}</ref>  Philosophers [[John P. Burgess]] and [[Brian Skyrms]] have an Erdős number of 2.<ref name="Erdős Number Project File Erdos2">[https://www.oakland.edu/enp/thedata/erdos2/ Erdos2], Version 2020, 7 August 2020.</ref>  [[Jon Barwise]] and [[Joel David Hamkins]], both with Erdős number 2, have also contributed extensively to philosophy, but are primarily described as mathematicians.
+
+===Law===
+Judge [[Richard Posner]], having coauthored with [[Alvin E. Roth]], has an Erdős number of at most 4. [[Roberto Mangabeira Unger]], a politician, philosopher and legal theorist who teaches at Harvard Law School, has an Erdős number of at most 4, having coauthored with [[Lee Smolin]].
+
+===Politics===
+[[Angela Merkel]], [[Chancellor of Germany]] from 2005 to 2021, has an Erdős number of at most 5.<ref name="project"/>
+
+===Engineering===
+Some fields of engineering, in particular [[communication theory]] and [[cryptography]], make direct use of the discrete mathematics championed by Erdős.  It is therefore not surprising that practitioners in these fields have low Erdős numbers.  For example, [[Robert McEliece]], a professor of [[electrical engineering]] at [[California Institute of Technology|Caltech]], had an Erdős number of 1, having collaborated with Erdős himself.<ref>{{cite journal |author=Erdős, Paul, Robert McEliece, and Herbert Taylor |title=Ramsey bounds for graph products |journal=[[Pacific Journal of Mathematics]] |volume=37 |issue=1 |date=1971 |pages=45–46 |url=https://msp.org/pjm/1971/37-1/pjm-v37-n1-p07-p.pdf |doi=10.2140/pjm.1971.37.45|doi-access=free }}</ref>  Cryptographers  [[Ron Rivest]], [[Adi Shamir]], and [[Leonard Adleman]], inventors of the [[RSA (cryptosystem)|RSA]] cryptosystem, all have Erdős number 2.<ref name="erdos2"/>
+
+===Linguistics===
+The Romanian mathematician and computational linguist [[Solomon Marcus]] had an Erdős number of 1 for a paper in ''[[Acta Mathematica Hungarica]]'' that he co-authored with Erdős in 1957.<ref>{{cite journal|first1=Paul|last1= Erdős |author1-link=Paul Erdős|first2= Solomon|last2= Marcus|author2-link=Solomon Marcus| year=1957|title= Sur la décomposition de l'espace euclidien en ensembles homogènes |trans-title= On the decomposition of the Euclidean space into homogeneous sets|journal=[[Acta Mathematica Hungarica]]|volume=8|issue= 3–4 |pages=443–452|mr=0095456|doi=10.1007/BF02020326|doi-access=free|s2cid= 121671198 }}</ref>
+
+==Impact==
+[[File:Paul Erdos with Terence Tao.jpg|thumb|Paul Erdős in 1985 at the [[University of Adelaide]] teaching [[Terence Tao]], who was then 10 years old. Tao became a math professor at [[UCLA]], received the [[Fields Medal]] in 2006, and was elected a [[Fellow of the Royal Society]] in 2007. His Erdős number is 2.]]
+Erdős numbers have been a part of the [[folklore]] of mathematicians throughout the world for many years. Among all working mathematicians at the turn of the millennium who have a finite Erdős number, the numbers range up to 15, the median is 5, and the mean is 4.65;<ref name="Erdős Number Project"/> almost everyone with a finite Erdős number has a number less than 8.  Due to the very high frequency of interdisciplinary collaboration in science today, very large numbers of non-mathematicians in many other fields of science also have finite Erdős numbers.<ref>{{cite web |url=http://www.oakland.edu/enp/erdpaths/ |title=Some Famous People with Finite Erdős Numbers | first=Jerry | last=Grossman |access-date=1 February 2011}}</ref>  For example, political scientist [[Steven Brams]] has an Erdős number of 2. In biomedical research, it is common for statisticians to be among the authors of publications, and many statisticians can be linked to Erdős via [[John Tukey]], who has an Erdős number of 2.  Similarly, the prominent geneticist [[Eric Lander]] and the mathematician [[Daniel Kleitman]] have collaborated on papers,<ref>{{cite journal | pmid = 10582576 | doi=10.1089/106652799318364 | volume=6 | title=A dictionary-based approach for gene annotation | year=1999 | journal=J Comput Biol | pages=419–30 | last1 = Pachter | first1 = L | last2 = Batzoglou | first2 = S | last3 = Spitkovsky | first3 = VI | last4 = Banks | first4 = E | last5 = Lander | first5 = ES | last6 = Kleitman | first6 = DJ | last7 = Berger | first7 = B| issue=3–4 }}</ref><ref>{{cite web|url=http://www-math.mit.edu/~djk/list.html|title=Publications Since 1980 more or less|first=Daniel|last=Kleitman|author-link=Daniel Kleitman|publisher=[[Massachusetts Institute of Technology]]}}</ref> and since Kleitman has an Erdős number of 1,<ref>
+{{cite journal | last1 = Erdős | first1 = Paul | author1-link = Paul Erdős |author2-link=Daniel Kleitman|last2=Kleitman|first2=Daniel  | title = On Collections of Subsets Containing No 4-Member Boolean Algebra | journal = [[Proceedings of the American Mathematical Society]] | volume = 28 | issue = 1 | pages = 87–90 |date=April 1971 | doi = 10.2307/2037762 | jstor = 2037762|url=http://www.math-inst.hu/~p_erdos/1971-07.pdf}}</ref> a large fraction of the genetics and genomics community can be linked via Lander and his numerous collaborators.  Similarly, collaboration with [[Gustavus Simmons]] opened the door for 
+[[List of people by Erdős number|Erdős numbers]] within the [[cryptographic]] research community, and many [[linguistics|linguists]] have finite Erdős numbers, many due to chains of collaboration with such notable scholars as [[Noam Chomsky]] (Erdős number 4),<ref>{{cite web |last=von Fintel |first=Kai |title=My Erdös Number is 8 |url=http://semantics-online.org/2004/01/my-erds-number-is-8 |publisher=Semantics, Inc. |date=2004 |archive-url=https://web.archive.org/web/20060823085712/http://semantics-online.org/2004/01/my-erds-number-is-8 |archive-date=23 August 2006}}</ref> [[William Labov]] (3),<ref>{{cite web|url=http://www.ling.upenn.edu/~dinkin/ |title=Aaron Dinkin has a web site? |publisher=Ling.upenn.edu |access-date=2010-08-29}}</ref> [[Mark Liberman]] (3),<ref>{{cite web|url=http://www.ling.upenn.edu/~myl/ |title=Mark Liberman's Home Page |publisher=Ling.upenn.edu |access-date=2010-08-29}}</ref> [[Geoffrey Pullum]] (3),<ref>{{cite web|url=http://www.stanford.edu/~cgpotts/miscellany.html |title=Christopher Potts: Miscellany |publisher=Stanford.edu |access-date=2010-08-29}}</ref> or [[Ivan Sag]] (4).<ref>{{cite web|url=http://lingo.stanford.edu/sag/erdos.html |title=Bob's Erdős Number |publisher=Lingo.stanford.edu |access-date=2010-08-29}}</ref> There are also connections with [[arts]] fields.<ref>{{cite conference | last1=Bowen | first1=Jonathan P. | author-link1=Jonathan Bowen | last2=Wilson | first2=Robin J. | author-link2=Robin Wilson (mathematician) | editor1-first=Stuart|editor1-last=Dunn|editor2-first=Jonathan P.|editor2-last=Bowen|editor3-first= Kia|editor3-last=Ng | title=Visualising Virtual Communities: From Erdős to the Arts | url=http://ewic.bcs.org/content/ConWebDoc/46141 | book-title= EVA London 2012: Electronic Visualisation and the Arts | publisher=[[British Computer Society]] | series= Electronic Workshops in Computing | pages = 238–244 |date=10–12 July 2012}}</ref>
+
+According to Alex Lopez-Ortiz, all the [[Fields Medal|Fields]] and [[Nevanlinna Prize|Nevanlinna prize]] winners during the three cycles in 1986 to 1994 have Erdős numbers of at most 9.
+
+Earlier mathematicians published fewer papers than modern ones, and more rarely published jointly written papers.  The earliest person known to have a finite Erdős number is either [[Antoine Lavoisier]] (born 1743, Erdős number 13), [[Richard Dedekind]] (born 1831, Erdős number 7), or [[Ferdinand Georg Frobenius]] (born 1849, Erdős number 3), depending on the standard of publication eligibility.<ref>{{cite web|url=http://www.oakland.edu/enp/erdpaths |title=Paths to Erdös - The Erdös Number Project- Oakland University|work=oakland.edu}}</ref>
+
+Martin Tompa<ref>{{cite journal|last=Tompa|first=Martin|title=Figures of merit|journal=ACM SIGACT News|volume=20|issue=1|pages=62–71|year=1989|doi=10.1145/65780.65782|s2cid=34277380}} {{cite journal|last=Tompa|first= Martin|title=Figures of merit: the sequel|journal=ACM SIGACT News|volume=21|issue=4|pages=78–81|year=1990|doi=10.1145/101371.101376|s2cid= 14144008}}</ref> proposed a [[directed graph]] version of the Erdős number problem, by orienting edges of the collaboration graph from the alphabetically earlier author to the alphabetically later author and defining the ''monotone Erdős number'' of an author to be the length of a [[longest path]] from Erdős to the author in this directed graph. He finds a path of this type of length 12.
+
+Also, [[Michael Barr (mathematician)|Michael Barr]] suggests "rational Erdős numbers", generalizing the idea that a person who has written ''p'' joint papers with Erdős should be assigned Erdős number 1/''p''. From the collaboration multigraph of the second kind (although he also has a way to deal with the case of the first kind)—with one edge between two mathematicians for ''each'' joint paper they have produced—form an electrical network with a one-ohm resistor on each edge. The total resistance between two nodes tells how "close" these two nodes are.
+
+It has been argued that "for an individual researcher, a measure such as Erdős number captures the structural properties of [the] network whereas the [[h-index|''h''-index]] captures the citation impact of the publications," and that "One can be easily convinced that ranking in coauthorship networks should take into account both measures to generate a realistic and acceptable ranking."<ref name=Dixit>Kashyap Dixit, S Kameshwaran, Sameep Mehta, Vinayaka Pandit, N Viswanadham, ''[http://domino.research.ibm.com/library/cyberdig.nsf/papers/2B600A90C54E51B18525755800283D37/$File/RR_ranking.pdf Towards simultaneously exploiting structure and outcomes in interaction networks for node ranking]'', IBM Research Report R109002, February 2009; also appeared as {{Cite journal | doi = 10.1145/1871437.1871470| last1 = Kameshwaran | first1 = S. | last2 = Pandit | first2 = V. | last3 = Mehta | first3 = S. | last4 = Viswanadham | first4 = N. | last5 = Dixit | first5 = K. | title = Outcome aware ranking in interaction networks | pages = 229–238| year = 2010 | isbn = 978-1-4503-0099-5| journal = Proceedings of the 19th ACM International Conference on Information and Knowledge Management (CIKM '10)| s2cid = 16370569| url = http://www.cse.iitd.ernet.in/%7Epandit/cikm_camera_ready.pdf}}</ref>
+
+In 2004 William Tozier, a mathematician with an Erdős number of 4, auctioned off a co-authorship on [[eBay]], hence providing the buyer with an Erdős number of 5. The winning bid of $1031 was posted by a Spanish mathematician, who however did not intend to pay but just placed the bid to stop what he considered a mockery.<ref>Clifford A. Pickover: ''A Passion for Mathematics: Numbers, Puzzles, Madness, Religion, and the Quest for Reality''. Wiley, 2011, {{ISBN|9781118046074}}, S. 33 ({{Google books|03CVDsZSBIcC|excerpt|page=33}})</ref><ref>{{cite journal | last1 = Klarreich | first1 = Erica | year = 2004 | title = Theorem for Sale | journal = Science News | volume = 165 | issue = 24| pages = 376–377 | doi = 10.2307/4015267 | jstor=4015267}}</ref>
+
+==Variations==
+A number of variations on the concept have been proposed to apply to other fields, notably the [[Bacon number]] (as in the game [[Six Degrees of Kevin Bacon]]), connecting actors to the actor [[Kevin Bacon]] by a chain of joint appearances in films. It was created in 1994, 25 years after Goffman's article on the Erdős number.
+
+A small number of people are connected to both Erdős and Bacon and thus have an [[Erdős–Bacon number]], which combines the two numbers by taking their sum. One example is the actress-mathematician [[Danica McKellar]], best known for playing Winnie Cooper on the TV series ''[[The Wonder Years]]''. 
+Her Erdős number is 4,<ref>McKellar's co-author Lincoln Chayes published [https://projecteuclid.org/euclid.cmp/1103940982 a paper] with [[Elliott H. Lieb]], who in turn co-authored [https://doi.org/10.1016/0012-365X(71)90004-5 a paper] with [[Daniel Kleitman]], a co-author of Paul Erdős.</ref> and her Bacon number is 2.<ref>Danica McKellar was in ''[[The Year That Trembled]]'' (2002) with James Kisicki, who was in ''[[Telling Lies in America]]'' (1997) with Kevin Bacon.</ref>
+
+Further extension is possible. For example, the "Erdős–Bacon–Sabbath number" is the sum of the Erdős–Bacon number and the collaborative distance to the band [[Black Sabbath]] in terms of singing in public. Physicist [[Stephen Hawking]] had an Erdős–Bacon–Sabbath number of 8,<ref>{{cite web|url=https://www.timeshighereducation.com/blog/whats-your-erdos-bacon-sabbath-number |title=What's your Erdős–Bacon–Sabbath number? |website=[[Times Higher Education]] |date=2016-02-17 |access-date=2018-07-29 |last=Fisher |first=Len}}</ref> and actress [[Natalie Portman]] has one of 11 (her Erdős number is 5).<ref>{{cite web|url=http://blogs.surrey.ac.uk/physics/2012/09/15/erdos-bacon-sabbath-numbers/comment-page-1/ |title=Erdős–Bacon–Sabbath numbers |date=2012-09-15 |access-date=2018-07-29 |last=Sear |first=Richard |website=Department of Physics, [[University of Surrey]]}}</ref>
+
+In [[chess]], the [[Morphy number]] describes a player's connection to [[Paul Morphy]], widely considered the greatest chess player of his time and an unofficial [[World Chess Championship|World Chess Champion]].<ref>{{Cite web|last=Kingston|first=Taylor|title=Your Morphy Number Is Up|url=http://www.chesscafe.com/text/skittles258.pdf|url-status=live|archive-url=https://web.archive.org/web/20060613225534/http://www.chesscafe.com/text/skittles258.pdf|archive-date=13 June 2006|access-date=9 December 2020|website=Chesscafe}}</ref>
+
+In [[video games]], the [[Ryu (Street Fighter)|Ryu]] number describes a video game character's connection to the [[Street Fighter]] character Ryu.<ref>{{cite news |title=Street Fighter's Ryu and Chun-Li join Ubisoft's take on Smash Bros., Brawlhalla |last=McWhertor |first=Michael |date=November 22, 2021 |publisher=Polygon |url=https://www.polygon.com/22796703/ubisoft-brawlhalla-street-fighter-ryu-chun-li-akuma |access-date=December 3, 2022}}</ref><ref>{{cite news |title=Street Fighter's Ryu Is The Kevin Bacon Of Video Games |last=Walker |first=Ian |date=June 22, 2021 |publisher=Kotaku |url=https://kotaku.com/street-fighter-s-ryu-is-the-kevin-bacon-of-video-games-1847150520 |access-date=December 3, 2022}}</ref>
+
+== See also ==
+* {{annotated link|Author-level metrics}}
+* {{annotated link|Collaboration graph}}
+* {{annotated link|List of people by Erdős number}}
+* {{annotated link|List of things named after Paul Erdős}}
+* {{annotated link|Scientometrics}}
+* {{annotated link|Six degrees of separation}}
+* {{annotated link|Small-world experiment}}
+* {{annotated link|Small-world network}}
+* {{annotated link|Sociology of scientific knowledge}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* Jerry Grossman, [http://www.oakland.edu/enp The Erdős Number Project]. Contains statistics and a complete list of all mathematicians with an Erdős number less than or equal to 2.
+* [http://www4.oakland.edu/upload/docs/Erdos%20Number%20Project/collab.pdf "On a Portion of the Well-Known Collaboration Graph"], Jerrold W. Grossman and Patrick D. F. Ion.
+* [http://vlado.fmf.uni-lj.si/pub/networks/doc/erdos/erdos.pdf "Some Analyses of Erdős Collaboration Graph"], Vladimir Batagelj and Andrej Mrvar.
+* American Mathematical Society, [https://www.ams.org/mathscinet/freeTools.html?version=2 MR: Search MSC database]. A search engine for Erdős numbers and collaboration distance between other authors. As of 18 November 2011 no special access is required.
+* [https://www.youtube.com/watch?v=izdZPx89ph4 Numberphile video]. Ron Graham on imaginary Erdős numbers.
+
+{{DEFAULTSORT:Erdos Number}}
+[[Category:Paul Erdős|Number]]
+[[Category:Social networks]]
+[[Category:Mathematics literature]]
+[[Category:Separation numbers]]
+[[Category:Bibliometrics]]
+[[Category:Technical mathematics]]
+[[Category:Social network analysis]][[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+[[Category:Git synced pages]]

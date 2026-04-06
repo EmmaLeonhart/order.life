@@ -1,0 +1,245 @@
+[[File:Barabasi albert graph.svg|Display of three graphs generated with the Barabasi-Albert (BA) model. Each has 20 nodes and a parameter of attachment m as specified. The color of each node is dependent upon its degree (same scale for each graph).|thumb|300px]]
+
+{{Network Science}}
+
+The '''Barabási–Albert (BA) model''' is an algorithm for generating random [[scale-free network|scale-free]] [[complex network|networks]] using a [[preferential attachment]] mechanism. Several natural and human-made systems, including the [[Internet]], the [[World Wide Web]], [[citation analysis|citation networks]], and some [[social networks]] are thought to be approximately scale-free and certainly contain few nodes (called hubs) with unusually high degree as compared to the other nodes of the network. The BA model tries to explain the existence of such nodes in real networks. The algorithm is named for its inventors [[Albert-László Barabási]] and [[Réka Albert]].
+
+==Concepts==
+Many observed networks (at least approximately) fall into the class of [[scale-free networks]], meaning that they have [[power law|power-law]] (or scale-free) degree distributions, while random graph models such as the [[Erdős–Rényi model|Erdős–Rényi (ER) model]] and the [[Watts and Strogatz model|Watts–Strogatz (WS) model]] do not exhibit power laws. The Barabási–Albert model is one of several proposed models that generate scale-free networks.  It incorporates two important general concepts: growth and [[preferential attachment]]. Both growth and preferential attachment exist widely in real networks.
+
+Growth means that the number of nodes in the network increases over time.
+
+[[Preferential attachment]] means that the more connected a node is, the more likely it is to receive new links. Nodes with a higher [[degree (graph theory)|degree]] have a stronger ability to grab links added to the network. Intuitively, the preferential attachment can be understood if we think in terms of [[social networks]] connecting people. Here a link from A to B means that person A "knows" or "is acquainted with" person B. Heavily linked nodes represent well-known people with lots of relations. When a newcomer enters the community, they are more likely to become acquainted with one of those more visible people rather than with a relative unknown. The BA model was proposed by assuming that in the World Wide Web, new pages link preferentially to hubs, i.e. very well known sites such as [[Google]], rather than to pages that hardly anyone knows. If someone selects a new page to link to by randomly choosing an existing link, the probability of selecting a particular page would be proportional to its degree. The BA model claims that this explains the preferential attachment probability rule.
+
+Later, the [[Bianconi–Barabási model]] works to address this issue by introducing a "fitness" parameter. 
+Preferential attachment is an example of a [[positive feedback]] cycle where initially random variations (one node initially having more links or having started accumulating links earlier than another) are automatically reinforced, thus greatly magnifying differences. This is also sometimes called the [[Matthew effect (sociology)|Matthew effect]], "the [[rich get richer]]". See also [[autocatalysis]].
+
+==Algorithm==
+[[File:Barabasi Albert model.gif|thumb|300px|The steps of the growth of the network according to the Barabasi–Albert model  (<math>m_0=m=2</math>)]] 
+The network begins with an initial connected network of <math>m_0</math> nodes.
+
+New nodes are added to the network one at a time. Each new node is connected to <math>m \le m_0</math> existing nodes with a probability that is proportional to the number of links that the existing nodes already have. Formally, the probability <math>p_i</math> that the new node is connected to node <math>i</math> is<ref name=RMP>{{Cite journal
+ |url         = http://www.nd.edu/~networks/Publication%20Categories/03%20Journal%20Articles/Physics/StatisticalMechanics_Rev%20of%20Modern%20Physics%2074,%2047%20(2002).pdf
+ |author-link1 = Réka Albert
+ |first1      = Réka
+ |last1       = Albert
+ |author-link2 = Albert-László Barabási
+ |first2      = Albert-László
+ |last2       = Barabási
+ |title       = Statistical mechanics of complex networks
+ |journal     = [[Reviews of Modern Physics]]
+ |volume      = 74
+ |issue = 47
+ |pages       = 47–97
+ |year        = 2002
+ |doi         = 10.1103/RevModPhys.74.47
+ |bibcode     = 2002RvMP...74...47A
+ |arxiv       = cond-mat/0106096
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20150824235818/http://www3.nd.edu/~networks/Publication%20Categories/03%20Journal%20Articles/Physics/StatisticalMechanics_Rev%20of%20Modern%20Physics%2074,%2047%20(2002).pdf
+ |archive-date = 2015-08-24
+|citeseerx = 10.1.1.242.4753
+ |s2cid = 60545
+ }}</ref>
+
+: <math>p_i = \frac{k_i}{\sum_j k_j},</math>
+
+where <math>k_i</math> is the degree of node <math>i</math> and the sum is made over all pre-existing nodes <math>j</math> (i.e. the denominator results in twice the current number of edges in the network). Heavily linked nodes ("hubs") tend to quickly accumulate even more links, while nodes with only a few links are unlikely to be chosen as the destination for a new link. The new nodes have a "preference" to attach themselves to the already heavily linked nodes.
+
+[[File:Barabasi Albert generated network.jpg|thumb|A network generated according to the Barabasi Albert model. The network is made of 50 vertices with initial degrees <math>m_0=1</math>.]]
+
+==Properties==
+
+===[[Degree distribution]]===
+[[File:Barabasi-albert model degree distribution.svg|thumb|The degree distribution of the BA Model, which follows a power law. In loglog scale the power law function is a straight line.<ref name=Barabasi1999 />]]
+The degree distribution resulting from the BA model is scale free, in particular, it is a power law of the form
+
+: <math>P(k)\sim k^{-3} \, </math>
+
+===Hirsch index distribution===
+The [[h-index]] or Hirsch index distribution was shown to also be scale free and was proposed as the lobby index, to be used as a centrality measure<ref name=Lobby>{{Cite journal
+ | author-link1 = A. Korn | first1 = A. | last1 = Korn
+ | author-link2 = A. Schubert | first2 = A. | last2 = Schubert
+ | author-link3 = A. Telcs | first3 = A. | last3 = Telcs
+ | title = Lobby index in networks
+ | journal = Physica A
+ | volume = 388
+ | issue = 11 | pages = 2221–2226
+ | year = 2009
+ | doi = 10.1016/j.physa.2009.02.013 |arxiv = 0809.0514 |bibcode = 2009PhyA..388.2221K | s2cid = 1119190 }}</ref>
+
+: <math>H(k)\sim k^{-6} \, </math>
+
+Furthermore, an analytic result for the density of nodes with [[h-index]] 1 can be obtained in the case where <math>m_0=1</math>
+
+: <math>H(1)\Big|_{m_0=1}=4-\pi \, </math>
+
+===Node degree correlations===
+Correlations between the degrees of connected nodes develop spontaneously in the BA model because of the way the network evolves. The probability, <math>n_{k\ell}</math>, of finding a link that connects a node of degree  <math>k</math> to an ancestor node of degree  <math>\ell</math> in the BA model for the special case of <math>m=1</math> (BA tree) is given by
+
+: <math>n_{k\ell}=\frac{4\left(\ell-1\right)}{k\left(k+1\right)\left(k+\ell\right)\left(k+\ell+1\right)\left(k+\ell+2\right)}+\frac{12\left(\ell-1\right)}{k\left(k+\ell-1\right)\left(k+\ell\right)\left(k+\ell+1\right)\left(k+\ell+2\right)}.</math>
+
+This confirms the existence of degree correlations, because if the distributions were uncorrelated, we would get <math>n_{k\ell}=k^{-3}\ell^{-3}</math>.<ref name=RMP/>
+
+For general <math> m </math>, the fraction of links who connect a node of degree <math>k</math>   to a node of degree  <math>\ell</math> is<ref name=BA_PLK>{{cite journal|last1=Fotouhi|first1=Babak|last2=Rabbat|first2=Michael|title=Degree correlation in scale-free graphs|journal=The European Physical Journal B|year=2013|volume=86|issue=12|page=510|doi=10.1140/epjb/e2013-40920-6|bibcode=2013EPJB...86..510F|arxiv = 1308.5169 |s2cid=7520124 }}</ref>
+
+: <math> p(k,\ell)= \frac{ 2m(m+1)}{k(k+1)\ell(\ell+1)} \left[ 1-\frac{\binom{2m+2}{m+1} \binom{k+\ell-2m}{\ell-m}}{\binom{k+\ell+2}{\ell+1}} \right] .</math>
+
+Also, the nearest-neighbor degree distribution <math> p(\ell\mid k) </math>, that is, the degree distribution of the neighbors of a node with degree <math> k </math>, is given by<ref name="BA_PLK"/>
+
+: <math> p(\ell\mid k)= \frac{ m (k+2) }{k \ell (\ell+1)} \left[ 1-\frac{\binom{2m+2}{m+1} \binom{k+\ell-2m}{\ell-m}}{\binom{k+\ell+2}{\ell+1 }} \right]  .</math>
+
+In other words, if we select a node with degree   <math> k</math>, and then select one of its neighbors randomly, the probability that this randomly selected neighbor will have degree <math>\ell </math> is given by the expression <math> p(\ell|k) </math> above.
+
+===Clustering coefficient===
+
+An analytical result for the [[clustering coefficient]] of the BA model was obtained by Klemm and Eguíluz<ref>{{Cite journal
+ | doi = 10.1103/PhysRevE.65.057102
+| pmid = 12059755
+| title = Growing scale-free networks with small-world behavior
+| journal = Physical Review E
+| volume = 65
+| issue = 5
+| pages = 057102
+| year = 2002
+| last1 = Klemm | first1 = K. 
+| last2 = Eguíluz | first2 = V. C. 
+|arxiv=cond-mat/0107607 
+|bibcode = 2002PhRvE..65e7102K | hdl = 10261/15314
+| s2cid = 12945422
+}}</ref> and proven by Bollobás.<ref>{{cite book |last1=Bollobás |first1=B. |chapter=Mathematical results on scale-free random graphs |title=Handbook of Graphs and Networks |date=2003 |pages=1–37 |citeseerx=10.1.1.176.6988}}</ref><ref>{{Cite journal |citeseerx = 10.1.1.176.6988|title = Mathematical results on scale-free random graphs|pages = 1–37|year = 2003}}</ref> A mean-field approach to study the clustering coefficient was applied by Fronczak, Fronczak and Holyst.<ref>{{Cite journal |arxiv = cond-mat/0306255|last1 = Albert|first1 = Reka|title = Mean-field theory for clustering coefficients in Barabasi-Albert networks|journal = Phys. Rev. E |volume = 68 |issue=4 |pages = 046126|last2 = Barabasi|first2 = Albert-Laszlo|last3 = Hołyst|first3 = Janusz A|year = 2003|doi = 10.1103/PhysRevE.68.046126|pmid = 14683021| bibcode=2003PhRvE..68d6126F | s2cid=2372695 }}</ref>
+
+This behavior is still distinct from the behavior of small-world networks where clustering is independent of system size.
+In the case of hierarchical networks, clustering as a function of node degree also follows a power-law,
+
+: <math>C(k) = k^{-1}. \, </math>
+
+This result was obtained analytically by  Dorogovtsev, Goltsev and Mendes.<ref>{{cite journal | first1 = S.N. | last1 = Dorogovtsev | first2 = A.V. | last2 = Goltsev | first3 = J.F.F. | last3 = Mendes | title = Pseudofractal scale-free web | journal = [[Physical Review E]] | volume = 65 | issue = 6 | page = 066122 | date = 25 June 2002 | doi = 10.1103/PhysRevE.65.066122 | pmid = 12188798 | arxiv = cond-mat/0112143 |bibcode = 2002PhRvE..65f6122D | s2cid = 13996254 }}</ref>
+
+===[[Spectral properties]]===
+
+The spectral density of BA model has a different shape from the semicircular spectral density of random graph. It has a triangle-like shape with the top lying well above the semicircle and edges decaying as a power law.
+<ref>{{cite journal | first1 = I.J. | last1 = Farkas | first2 = I. | last2 = Derényi | first3 = A.-L. | last3 = Barabási | first4 = T. | last4 = Vicsek | title = Spectra of "real-world" graphs: Beyond the semicircle law | journal = [[Physical Review E]] | volume = 64 | issue = 2 | pages = 026704 | date = 20 July 2001 | orig-year = 19 February 2001 | doi = 10.1103/PhysRevE.64.026704 | pmid = 11497741 | arxiv = cond-mat/0102335 |bibcode = 2001PhRvE..64b6704F | hdl = 2047/d20000692 | s2cid = 1434432 }}</ref>
+<!--
+Image with unknown copyright status removed: [[File:SpectralDensityOfBA.jpg|thumb|right|Rescaled spectral density of BA networks, which has a different shape from the semicircular spectral density of random graph.<ref name=RMP/>]] -->
+
+=== [[Dynamic scaling]] ===
+
+[[File:ScaledDegreeDistribution-multiplot.jpg|thumb|Generalized degree distribution <math>F(q,t)</math> of the BA model for <math>m=1</math>.]]
+[[File:Data collapse m1.jpg|thumb|The same data is plotted in the self-similar coordinates <math>t^{1/2}F(q,N)</math> and <math>q/t^{1/2}</math> and
+it gives an excellent
+collapsed revealing that <math>F(q,t)</math> exhibit dynamic scaling.]]
+
+By definition, the BA model describes a time developing phenomenon and hence, besides its scale-free property, one could also look for its dynamic scaling property.
+In the BA network nodes can also be characterized by generalized degree <math>q</math>, the product
+of the square root of the birth time of each node and their corresponding degree <math>k</math>, instead
+of the degree <math>k</math> alone since the time of birth matters in the BA network. We find that the
+generalized degree distribution <math>F(q, t)</math> has some non-trivial features and exhibits [[dynamic scaling]]
+
+: <math>F(q,t)\sim t^{-1/2}\phi(q/t^{1/2}).</math>
+
+It implies that the distinct plots of <math>F(q,t)</math> vs <math>q</math> would collapse into a universal curve if we plot <math>F(q,t)t^{1/2}</math> vs <math>q/t^{1/2}</math>.<ref>M. K. Hassan, M. Z. Hassan and N. I. Pavel, “Dynamic scaling, data-collapseand Self-similarity in Barabasi-Albert networks” J. Phys. A: Math. Theor. '''44''' 175101 (2011) https://dx.doi.org/10.1088/1751-8113/44/17/175101</ref>
+
+==Limiting cases==
+
+===Model A===
+
+Model A retains growth but does not include preferential attachment.  The probability of a new node connecting to any pre-existing node is equal. The resulting degree distribution in this limit is geometric,<ref>{{cite journal | last1 = Pekoz | first1 = Erol | first2 = A. | last2 = Rollin | first3 = N. | last3 = Ross | title = Total variation and local limit error bounds for geometric approximation | journal = Bernoulli | year = 2012 | url = http://www.e-publications.org/ims/submission/index.php/BEJ/user/submissionFile/10315?confirm=c40442a0}}</ref> indicating that growth alone is not sufficient to produce a scale-free structure.
+
+===Model B===
+
+Model B retains preferential attachment but eliminates growth. The model begins with a fixed number of disconnected nodes and adds links, preferentially choosing high degree nodes as link destinations. Though the degree distribution early in the simulation looks scale-free, the distribution is not stable, and it eventually becomes nearly Gaussian as the network nears saturation.  So preferential attachment alone is not sufficient to produce a scale-free structure.
+<!--
+Image with unknown copyright status removed: [[File:Limiting_Case_A.GIF|thumb|left|The degree distribution for Model A is an exponential distribution<ref name=RMP/>]] -->
+<!-- Image with unknown copyright status removed: [[File:Limiting_Case_B.jpg|thumb|right|The degree distribution for Model B becomes a Gaussian around its mean value<ref name=RMP/>]] -->
+
+The failure of models A and B to lead to a scale-free distribution indicates that growth and preferential attachment are needed simultaneously to reproduce the stationary power-law distribution observed in real networks.<ref name=RMP/>
+
+==Non-linear preferential attachment==
+{{Main|Non-linear_preferential_attachment}}
+
+The BA model can be thought of as a specific case of the more general non-linear preferential attachment (NLPA) model.<ref>{{cite journal |last1=Krapivsky |first1=P. L. |last2=Redner |first2=S. |last3=Leyvraz |first3=F. |title=Connectivity of Growing Random Networks |journal=Physical Review Letters |date=20 November 2000 |volume=85 |issue=21 |pages=4629–4632 |doi=10.1103/PhysRevLett.85.4629|pmid=11082613 |arxiv=cond-mat/0005139 |bibcode=2000PhRvL..85.4629K |s2cid=16251662 }}</ref> The NLPA algorithm is identical to the BA model with the attachment probability replaced by the more general form
+
+: <math>p_i = \frac{k_i^{\alpha}}{\sum_j k_j^{\alpha}},</math>
+
+where <math>\alpha</math> is a constant positive exponent. If <math>\alpha=1</math>, NLPA reduces to the BA model and is referred to as "linear". If <math>0<\alpha<1</math>, NLPA is referred to as "sub-linear" and the degree distribution of the network tends to a [[Stretched_exponential_function|stretched exponential distribution]]. If <math>\alpha>1</math>, NLPA is referred to as "super-linear" and a small number of nodes connect to almost all other nodes in the network. For both <math>\alpha<1</math> and <math>\alpha>1</math>, the scale-free property of the network is broken in the limit of infinite system size. However, if <math>\alpha</math> is only slightly larger than <math>1</math>, NLPA may result in [[degree distribution|degree distributions]] which appear to be transiently scale free.<ref>{{cite journal |last1=Krapivsky |first1=Paul |last2=Krioukov |first2=Dmitri |title=Scale-free networks as preasymptotic regimes of superlinear preferential attachment |journal=Physical Review E |date=21 August 2008 |volume=78 |issue=2 |pages=026114 |doi=10.1103/PhysRevE.78.026114|pmid=18850904 |arxiv=0804.1366 |bibcode=2008PhRvE..78b6114K |s2cid=14292535 }}</ref>
+
+== History ==
+
+Preferential attachment made its first appearance in 1923 in the celebrated urn model of the Hungarian mathematician [[György Pólya]] in 1923.<ref>{{cite journal
+ | author-link = Albert-László Barabási
+ | last = Albert-László
+ | first = Barabási
+ | title = Luck or reason
+ | journal =  Nature
+ | volume = 489
+ | issue = 7417
+ | pages = 507–508
+ | year = 2012
+ | doi = 10.1038/nature11486
+ | pmid = 22972190
+ | s2cid = 205230706
+ }}</ref>  The master equation method, which yields a more transparent derivation, was applied to the problem by [[Herbert A. Simon]] in 1955<ref>{{Cite journal 
+ | author-link = Herbert A. Simon | first = Herbert A. | last = Simon
+ | title = On a Class of Skew Distribution Functions
+ | journal = [[Biometrika]]
+ | volume = 42
+ | issue = 3–4
+ | pages = 425&ndash;440
+ |date=December 1955
+ | doi = 10.1093/biomet/42.3-4.425
+}}</ref> in the course of studies of the sizes of cities and other phenomena. It was first applied to explain citation frequencies by [[Derek J. de Solla Price|Derek de Solla Price]] in 1976.<ref>{{Cite journal | author-link = Derek J. de Solla Price | first = D.J. de Solla | last = Price| title = A general theory of bibliometric and other cumulative advantage processes | doi = 10.1002/asi.4630270505 | journal = [[Journal of the American Society for Information Science]] | volume = 27 | issue = 5 | pages = 292–306 | date = September 1976 | citeseerx = 10.1.1.161.114 }}</ref> Price was interested in the acumulation of citations of scientific papers and the [[Price's model|Price model]] used "cumulative advantage" (his name for preferential attachment) to generate a fat tailed distribution. In the language of modern citations network, Price's model produces a directed network, i.e. the version of the  Barabási-Albert model. The name "preferential attachment" and the present popularity of scale-free network models is due to the work of [[Albert-László Barabási]] and [[Réka Albert]], who discovered that a similar process is present in real networks, and applied in 1999 preferential attachment to explain the numerically observed degree distributions on the web.<ref name=Barabasi1999>{{Cite journal
+ |url         = http://www.nd.edu/~networks/Publication%20Categories/03%20Journal%20Articles/Physics/EmergenceRandom_Science%20286,%20509-512%20(1999).pdf
+ |author-link1 = Albert-László Barabási
+ |first1      = Albert-László
+ |last1       = Barabási
+ |author-link2 = Réka Albert
+ |first2      = Réka
+ |last2       = Albert
+ |title       = Emergence of scaling in random networks
+ |journal     = [[Science (journal)|Science]]
+ |volume      = 286
+ |pages       = 509&ndash;512
+ |date        = October 1999
+ |doi         = 10.1126/science.286.5439.509
+ |issue       = 5439
+ |pmid        = 10521342
+ |arxiv       = cond-mat/9910332
+ |bibcode     = 1999Sci...286..509B
+ |s2cid = 524106
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20120417112354/http://www.nd.edu/~networks/Publication%20Categories/03%20Journal%20Articles/Physics/EmergenceRandom_Science%20286,%20509-512%20(1999).pdf
+ |archive-date = 2012-04-17
+}}</ref> 
+
+==See also==
+* [[Bianconi–Barabási model]]
+* [[Chinese restaurant process]]
+* [[Complex networks]]
+* [[Erdős–Rényi model|Erdős–Rényi (ER) model]]
+* [[Price's model]]
+* [[Percolation theory]]
+* [[Scale-free network]]
+* [[Small-world network]]
+* [[Watts and Strogatz model]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.popsci.com/science/article/2011-10/man-could-rule-world "This Man Could Rule the World"]
+*[https://github.com/alihadian/ROLL "A Java Implementation for Barabási–Albert"]
+*[https://compuzzle.wordpress.com/2015/02/03/generating-barabasi-albert-model-graphs-in-clojure/ "Generating Barabási–Albert Model Graphs in Code"]
+
+{{DEFAULTSORT:Barabasi-Albert Model}}
+[[Category:Social networks]]
+[[Category:Graph algorithms]]
+[[Category:Random graphs]]
+[[Category:Technical mathematics]]
+[[Category:Social network analysis]][[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+[[Category:Git synced pages]]
