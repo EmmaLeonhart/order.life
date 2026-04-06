@@ -65,10 +65,16 @@ def safe_save(page, text: str, summary: str) -> bool:
             page.save(text, summary=summary)
             time.sleep(THROTTLE)
             return True
-        except mwclient.errors.APIError as e:
-            if e.code == "editconflict" and attempt < 2:
+        except (mwclient.errors.APIError, mwclient.errors.EditError) as e:
+            is_conflict = (
+                (isinstance(e, mwclient.errors.APIError) and e.code == "editconflict")
+                or (isinstance(e, mwclient.errors.EditError) and "conflict" in str(e).lower())
+            )
+            if is_conflict and attempt < 2:
                 print(f"  Edit conflict (retry {attempt + 1}/3): {page.name}")
                 time.sleep(3)
+                # Re-fetch page to get fresh base revision
+                page.purge()
             else:
                 raise
     return False
