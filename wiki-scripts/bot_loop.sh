@@ -51,9 +51,9 @@ python wiki-scripts/sync_git_pages.py --sync --apply --run-tag "${RUN_TAG}"
 if ! git diff --quiet -- wiki-pages/ 2>/dev/null || [ -n "$(git ls-files --others --exclude-standard -- wiki-pages/)" ]; then
   git add wiki-pages/
   git commit -m "chore(state): sync wiki pages [skip ci]"
-  # Clean untracked/unstaged files (e.g. .log files) so rebase can proceed
-  git checkout -- . 2>/dev/null || true
-  git clean -fd 2>/dev/null || true
+  # Stash any leftover files (logs, etc.) so rebase can proceed cleanly
+  git stash --include-untracked 2>/dev/null || true
   git pull --rebase origin master || { echo "Rebase failed, aborting"; git rebase --abort 2>/dev/null; exit 1; }
+  git stash pop 2>/dev/null || true
   git push origin HEAD:master
 fi
