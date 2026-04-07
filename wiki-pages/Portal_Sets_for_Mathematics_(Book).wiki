@@ -1,0 +1,185 @@
+{{InfoboxBook
+|title=Basic Mathematics
+|image=[[File:Lawvere Sets for Mathematics Cover.jpg]]
+|author=[https://en.wikipedia.org/wiki/William_Lawvere F. William Lawvere]
+|language=English
+|series=
+|genre=
+|publisher=Cambridge University Press
+|publicationdate=10 April 2003
+|pages=276
+|isbn10=0521010608
+|isbn13=978-0521010603
+}}
+The textbook '''''Sets for Mathematics''''' by [https://en.wikipedia.org/wiki/William_Lawvere F. William Lawvere] uses categorical algebra to introduce set theory.
+
+In parallel to Grothendieck, Lawvere developed the notion of a topos as a collection of objects/points behaving as sets and arrows as maps between sets. The utility of this is for a characterization of sets via mappings only - there is a unique (equivalence class of) set(s) with one element that can alternatively be described as only receiving one map from each other set. The number of maps in the other direction count the elements of sets conversely. Two element sets are an instance of "subobject classifiers" in the topos of sets such that the maps into them correspond to subsets of the source set of the map. The language of toposes is particularly accessible here, and plays a universal role in modern mathematics, e.g. for toposes emerging from sets parametrized by a topological space (presheaf toposes) even inspiring functional programming languages such as Haskell due to the logical properties of toposes.
+
+== Table of Contents ==
+
+{| class="wikitable"
+|-
+! Chapter/Section # !! Title !! Page #
+|- 
+! colspan="2" | Foreword || ix
+|-
+! colspan="2" | Contributors to Sets for Mathematics || xiii
+|-
+! colspan="3" | 1. Abstract Sets and Mappings
+|-
+| 1.1 || Sets, Mappings, and Composition || 1
+|-
+| 1.2 || Listings, Properties, and Elements || 4
+|-
+| 1.3 || Surjective and Injective Mappings || 8
+|-
+| 1.4 || Associativity and Categories || 10
+|-
+| 1.5 || Separators and the Empty Set || 11
+|-
+| 1.6 || Generalized Elements || 15
+|- 
+| 1.7 || Mappings as Properties || 17
+|- 
+| 1.8 || Additional Exercises || 23
+|- 
+! colspan="3" | 2. Sums, Monomorphisms, and Parts
+|-
+| 2.1 || Sum as a Universal Property || 26
+|-
+| 2.2 || Monomorphisms and Parts || 32
+|-
+| 2.3 || Inclusion and Membership || 34
+|-
+| 2.4 || Characteristic Functions || 38
+|-
+| 2.5 || Inverse Image of a Part || 40
+|-
+| 2.6 || Additional Exercises || 44
+|-
+! colspan="3" | 3. Finite Inverse Limits
+|-
+| 3.1 || Retractions || 48
+|-
+| 3.2 || Isomorphism and Dedekind Finiteness || 54
+|-
+| 3.3 || Cartesian Products and Graphs || 58
+|-
+| 3.4 || Equalizers || 66
+|-
+| 3.5 || Pullbacks || 69
+|-
+| 3.6 || Inverse Limits || 71
+|-
+| 3.7 || Additional Exercises || 75
+|-
+! colspan="3" | Colimits, Epimorphisms, and the Axiom of Choice
+|-
+| 4.1 || Colimits are Dual to Limits || 78
+|-
+| 4.2 || Epimorphisms and Split Surjections || 80
+|-
+| 4.3 || The Axiom of Choice || 84
+|-
+| 4.4 || Partitions and Equivalence Relations || 85
+|-
+| 4.5 || Split Images || 89
+|-
+| 4.6 || The Axiom of Choice as the Distinguishing Property of Constant/Random Sets || 92
+|-
+| 4.7 || Additional Exercises || 94
+|-
+! colspan="3" | 5. Mapping Sets and Exponentials
+|-
+| 5.1 || Natural Bijection and Functoriality || 96
+|-
+| 5.2 || Exponentiation || 98
+|-
+| 5.3 || Functoriality of Function Spaces || 102
+|-
+| 5.4 || Additional Exercises || 108
+|-
+! colspan="3" | 6. Summary of the Axioms and an Example of Variable Sets
+|-
+| 6.1 || Axioms for Abstract Sets and Mappings || 111
+|-
+| 6.2 || Truth Values for Two-Stage Variable Sets || 114
+|-
+| 6.3 || Additional Exercises || 117
+|-
+! colspan="3" | 7. Consequences and Uses of Exponentials
+|-
+| 7.1 || Concrete Duality: The Behavior of Monics and Epics under the Contravariant Functoriality of Exponentiation || 120
+|-
+| 7.2 || The Distributive Law || 126
+|-
+| 7.3 || Cantor's Diagonal Argument || 129
+|-
+| 7.4 || Additional Exercises || 134
+|-
+! colspan="3" | 8. More on Power Sets
+|-
+| 8.1 || Images || 136
+|-
+| 8.2 || The Covariant Power Set Functor || 141
+|-
+| 8.3 || The Natural Map <math>Placeholder</math> || 145
+|-
+| 8.4 || Measuring, Averaging, and Winning with <math>V</math>-Valued Quantities || 148
+|-
+| 8.5 || Additional Exercises || 152
+|-
+! colspan="3" | 9. Introduction to Variable Sets
+|-
+| 9.1 || The Axiom of Infinity: Number Theory || 154
+|-
+| 9.2 || Recursion || 157
+|-
+| 9.3 || Arithmetic of <math>N</math> || 160
+|-
+| 9.4 || Additional Exercises || 165
+|-
+! colspan="3" | 10. Models of Additional Variation
+|-
+| 10.1 || Monoids, Posets, and Groupoids || 167
+|-
+| 10.2 || Actions || 171
+|-
+| 10.3 || Reversible Graphs || 176
+|-
+| 10.4 || Chaotic Graphs || 180
+|-
+| 10.5 || Feedback and Control || 186
+|-
+| 10.6 || To and from Idempotents || 189
+|-
+| 10.7 || Additional Exercises || 191
+|-
+! colspan="3" | Appendixes
+|-
+! colspan="3" | A. Logic as the Algebra of Parts
+|-
+| A.0 || Why Study Logic? || 193
+|-
+| A.1 || Basic Operators and Their Rules of Inference || 195
+|-
+| A.2 || Fields, Nilpotents, Idempotents || 212
+|-
+! colspan="2" | B. Logic as the Algebra of Parts || 220
+|-
+! colspan="3" | C. Definitions, Symbols, and the Greek Alphabet
+|-
+| C.1 || Definitions of Some Mathematical and Logical Concepts || 231
+|-
+| C.2 || Mathematical Notations and Logical Symbols || 251
+|-
+| C.3 || The Greek Alphabet || 252
+|-
+! colspan="2" | Bibliography || 253
+|-
+! colspan="2" | Index || 257
+|-
+|}
+
+[[Category:Mathematics]][[Category:Pages]]
+[[Category:Git synced pages]]

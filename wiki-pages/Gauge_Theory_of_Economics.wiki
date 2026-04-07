@@ -1,0 +1,91 @@
+'''Gauge theory of economics''' is the application of differential geometric methods to economic problems. This was first developed by [https://twitter.com/PiaMalaney Pia Malaney] and [[Eric Weinstein]] in Malaney's 1996 doctoral thesis [https://pdfs.semanticscholar.org/eb74/898337415912a12d5b6642e5c2e6950f637c.pdf The Index Number Problem:  A Differential Geometric Approach].
+
+== Examples ==
+Gauge theory is all you need to break out of the economics flatland. The following is an equation that Eric Weinstein talked about. We are going to break it down together and picture the meaning of each part in a geometrical and intuitive way. The results of this work will be interesting for the present economics community.
+
+<math> q = \frac{ {p_0}\cdot{q} }{ {p_0}\cdot{q_0} } q_0 + (q - \frac{ {p_0}\cdot{q} }{ {p_0}\cdot{q_0} } q_0) </math>
+
+where we label the first term as Reference Basket and the second one as Barter.
+
+Suppose that we live in a world where there are only 3 different types of items for sale: apples, berries and cherries (A, B and C respectively.) Say today we pick up our basket and go to the market. At the market, the price of each item is posted up as a number on the wall where we can see. So, we represent the prices by a <math>{1}\times{3}</math> row vector <math>p</math>. On the other hand, we buy different quantities of each item and so a <math>{3}\times{1}</math> column vector <math>q</math> denotes the list of 3 quantities for items A, B and C.
+
+The next day, we go back to the market and now we are interested in measuring price changes.
+
+=== Inflation ===
+{{#widget:YouTube|id=NgfMK8nhTyo}}
+(Video and text from [https://geometricunity.org/pull-that-up-jamie/ Pull that up, Jamie])
+
+Here is shown a red curve/function, possibly representing the inflation of a currency as time progresses to the right along with a blue function representing the notion of “constant wage.” The concept at play is that the definition of constant depends on the faded horizontal ticks in the background space, and in the example of a wage, it makes conceptual sense to set such a notion of constant against the inflation curve rather than the axis. This represents one spirit of what is done in the “calculus of gauges,” and in reality we tend not to see god-given coordinate grids sprawling over space thus encouraging us to adopt a different language of geometry/calculus.
+
+== Reference Material ==
+
+=== Papers ===
+
+* [https://pdfs.semanticscholar.org/eb74/898337415912a12d5b6642e5c2e6950f637c.pdf The Index Number Problem:  A Differential Geometric Approach] by Pia Malaney.
+* [https://economics.uchicago.edu/sites/economics.uchicago.edu/files/Welfare_Chicago_Draft.pdf An Extension of Intertemporal Ordinal Welfare to Changing Tastes: Economics as Gauge Theory (Draft for University of Chicago Money and Banking Workshop. In preparation.)] by Pia Malaney and Eric Weinstein
+* [https://economics.uchicago.edu/sites/economics.uchicago.edu/files/Chicago_Trade_Index_Draft.pdf Tracking Changes in Bilateral Trading Patterns in the Absence of PPP] by Eric Weinstein
+* [https://arxiv.org/abs/0902.4274 Time and symmetry in models of economic markets] by Lee Smolin.
+* [https://arxiv.org/pdf/0908.3043.pdf Gauge Invariance, Geometry and Arbitrage] by Samuel Vázquez and Simone Farinelli
+
+=== Books ===
+
+* [[The Physics of Wall Street]] by James Weatherall.
+
+=== Lectures ===
+Lectures, presentations, and panels by Pia Malaney and Eric Weinstein on the topic.
+
+{| class="wikitable sortable"
+! Outlet !! Title !! Link !! Air Date
+|-
+| University of Chicago Money and Banking Workshop || Gauge Theory, Inflation and Geometric Marginalism: Are our Inflation, Productivity and Trade Indicators All Off Because The Marginal Revolution Was Based on the Wrong Version of The differential Calculus? || [https://economics.uchicago.edu/sites/economics.uchicago.edu/files/Money%20%26%20Banking%20Abstract%20-%20Nov.%2012.pdf Abstract] || 2021-11-10
+|-
+| Fields Institute || [[Towards a Mathematics of New Economic Thinking for Reflexive Markets (Fields Institute Content)|Towards a Mathematics of New Economic Thinking for Reflexive Markets]] || [https://video-archive.fields.utoronto.ca/view/1837 Watch] || 2013-11-02
+|-
+| Institute for New Economic Thinking || [[What Math and Physics Can Do for New Economic Thinking (YouTube Content)|What Math and Physics Can Do for New Economic Thinking]] || [https://youtu.be/XjCAsXUDvno Watch] || 2013-10-30
+|-
+| Stanford University || [[Systems Architecture, Kabuki Capitalism, and the Economic Manhattan Project (YouTube Content)|Systems Architecture, Kabuki Capitalism, and the Economic Manhattan Project]] || [https://youtu.be/4_brHQRMu9k Watch] || 2013-06-21
+|-
+| Perimeter Institute for Theoretical Physics || [[A Science Less Dismal: Welcome to the Economic Manhattan Project (YouTube Content)|A Science Less Dismal: Welcome to the Economic Manhattan Project]] || [http://pirsa.org/09050047 Watch] || 2009-01-05
+|-
+| Perimeter Institute for Theoretical Physics || [[Sheldon Glashow Owes me a Dollar and 17 years of interest (YouTube Content)|Sheldon Glashow Owes me a Dollar (and 17 years of interest)]] || [http://pirsa.org/08090036/ Watch] || 2008-09-11
+|-
+| Perimeter Institute for Theoretical Physics || [[Gauge Theory and Inflation: Enlarging the Wu-Yang Dictionary (YouTube Content)|Gauge Theory and Inflation: Enlarging the Wu-Yang Dictionary]] || [https://youtu.be/h5gnATQMtPg Watch] || 2006-05-24
+|-
+|}
+
+=== Interviews ===
+
+{| class="wikitable sortable"
+! Outlet !! Title !! Link !! Air Date
+|-
+| Institute for New Economic Thinking || [[Economic Thinking In A Fallible World (YouTube Content)|Economic Thinking In A Fallible World]] || [https://youtu.be/TrZmq1Ti3Po Watch] || 2014-06-22
+|-
+| Institute for New Economic Thinking || [[What Math and Physics Can Do for New Economic Thinking (YouTube Content)|What Math and Physics Can Do for New Economic Thinking]] || [https://youtu.be/XjCAsXUDvno Watch] || 2013-10-30
+|-
+|}
+
+=== Other Sources ===
+* [https://slate.com/technology/2013/02/should-algebra-be-in-curriculum-why-math-protects-us-from-the-unscrupulous.html Op-Ed by mathematician Edward Frenkel]
+*[https://www.quora.com/How-does-gauge-theory-apply-to-economic-models-and-indices Eric talking about this on Quora]
+
+== GPT Criticism ==
+Eric Weinstein's Gauge Theory of Economics is an intriguing proposal that seeks to utilize mathematical tools from theoretical physics to address complex economic issues. While the ambition and creativity behind this theory are commendable, it does have its criticisms.
+
+# Domain Appropriation: While drawing parallels between fields can occasionally yield groundbreaking insights, there is a concern about using techniques from one field, such as theoretical physics, directly into another like economics. It's worth noting that the two disciplines study fundamentally different phenomena, with physics dealing with natural laws that are time-invariant and deterministic, while economics deals with human behavior, which is often unpredictable, highly complex, and time-variant. This makes it dubious whether the methods from physics can be wholesale ported over to economics.
+# Over-simplification: Gauge theory, by definition, requires simplification to reduce complexity. The proposed model does this by boiling down complex economic behaviors into mathematical equations. Critics argue that such simplification might overlook crucial aspects of economic realities, such as power imbalances, irrational behaviors, or unique societal contexts, which could significantly affect economic outcomes.
+# Practical Application: Weinstein's gauge theory of economics is, at its heart, a high-concept theoretical construct. The ability to apply such a theory to practical economic policy is a crucial concern. If the theory cannot be used to guide economic decisions, formulate policy, or predict economic trends, its utility becomes severely limited.
+# Accessibility: Given its sophisticated mathematical nature, Weinstein's gauge theory of economics can be quite challenging to comprehend for anyone without an advanced understanding of theoretical physics and high-level mathematics. As a result, it runs the risk of being inaccessible to the majority of economists, let alone policymakers or the general public.
+# Empirical Validation: A significant criticism of Weinstein's gauge theory revolves around the lack of empirical validation. The robustness of any economic theory lies in its predictive power and the ability to explain real-world phenomena accurately. So far, Weinstein's theory has yet to be thoroughly tested in this regard.
+# Undermining Established Theory: Weinstein's approach also tends to undermine well-established economic theories and principles. While it's healthy to challenge accepted norms, it's crucial to recognize that these theories have withstood rigorous empirical testing and have shown substantial explanatory and predictive power.
+
+In conclusion, while Eric Weinstein's Gauge Theory of Economics offers a novel and exciting perspective, it faces considerable challenges. There is a need for rigorous testing, wider comprehension, and most importantly, demonstrating its practical applicability for it to be accepted widely in the economic community.
+[[Category:Concepts]]
+[[Category:Projects]]
+[[Category:Economics]]
+[[Category:Gauge Theory of Economics]][[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+[[Category:Git synced pages]]
