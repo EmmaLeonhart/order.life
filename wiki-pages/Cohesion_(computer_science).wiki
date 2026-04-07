@@ -1,0 +1,125 @@
+{{short description|Degree to which elements within a module belong together}}
+
+In [[computer programming]], '''cohesion''' refers to the ''degree to which the elements inside a [[module (programming)|module]] belong together''.<ref name="Yourdon_1979"/> In one sense, it is a measure of the strength of relationship between the [[Method (computer programming)|methods]] and data of a [[Class (computer programming)|class]] and some unifying purpose or concept served by that class. In another sense, it is a measure of the strength of relationship between the class's methods and data themselves.
+
+Cohesion is an [[level of measurement#Ordinal_scale|ordinal]] type of measurement and is usually described as “high cohesion” or “low cohesion”. Modules with high cohesion tend to be preferable, because high cohesion is associated with several desirable traits of software including [[Robustness (computer science)|robustness]], reliability, [[reusability]], and understandability. In contrast, low cohesion is associated with undesirable traits such as being difficult to maintain, test, reuse, or even understand.
+
+Cohesion is often contrasted with [[coupling (computer science)|coupling]], a different concept. High cohesion often correlates with [[loose coupling]], and vice versa.<ref name="Ingeno_2018"/> The [[software metric]]s of coupling and cohesion were invented by [[Larry Constantine]] in the late 1960s as<!--nyaaa this comment was added to indicate that this page has been reviewed from the [[Great November Outage]]--> part of [[Structured Design]], based on characteristics of “good” programming practices that reduced maintenance and modification costs. Structured Design, cohesion and coupling were published in the article ''Stevens, Myers & Constantine'' (1974)<ref name="Stevens_1974"/> and the book ''Yourdon & Constantine'' (1979);<ref name="Yourdon_1979"/> the latter two subsequently became standard terms in [[software engineering]].
+
+== High cohesion ==
+{{unreferenced section|date=October 2014}}
+In [[object-oriented programming]], if the methods that serve a class tend to be similar in many aspects, then the class is said to have high cohesion.<ref name="Marsic_2012"/> In a highly cohesive system, code readability and [[reusability]] is increased, while complexity is kept manageable.
+[[File:CouplingVsCohesion.svg|thumb|Cohesion]]
+Cohesion is increased if:
+*The functionalities embedded in a class, accessed through its methods, have much in common.
+*Methods carry out a small number of related activities, by ''avoiding'' [[Granularity#Data granularity|coarsely grained]] or unrelated sets of data.
+*Related methods are in the same source file or otherwise grouped together; for example, in separate files but in the same sub-directory/folder.
+
+Advantages of high cohesion (or "strong cohesion") are:
+*Reduced module complexity (they are simpler, having fewer operations).
+*Increased system [[maintainability]], because logical changes in the domain affect fewer modules, and because changes in one module require fewer changes in other modules.
+*Increased module reusability, because application developers will find the [[Software component|component]] they need more easily among the cohesive set of operations provided by the module.
+
+While in principle a module can have perfect cohesion by only consisting of a single, atomic element – having a single function, for example – in practice complex tasks are not expressible by a single, simple element. Thus a single-element module has an element that either is too complicated, in order to accomplish a task, or is too narrow, and thus tightly [[Coupling (computer programming)|coupled]] to other modules. Thus cohesion is balanced with both unit complexity and coupling.
+
+== Types of cohesion ==
+Cohesion is a qualitative measure, meaning that the source code to be measured is examined using a [[rubric (academic)|rubric]] to determine a classification. Cohesion types, from the worst to the best, are as follows:
+
+;{{anchor|Coincidental}}Coincidental cohesion (worst): Coincidental cohesion is when parts of a module are grouped arbitrarily; the only relationship between the parts is that they have been grouped together (e.g., a “Utilities” class). Example:
+::<syntaxhighlight lang="c">
+/*
+Groups: The function definitions
+Parts: The terms on each function
+*/
+Module A{
+  /*
+  Implementation of r(x) = 5x + 3
+  There is no particular reason to group functions in this way,
+  so the module is said to have Coincidental Cohesion.
+  */ 
+  r(x) = a(x) + b(x) 
+  a(x) = 2x + 1
+  b(x) = 3x + 2
+}
+</syntaxhighlight>
+
+;{{anchor|Logical}}Logical cohesion: Logical cohesion is when parts of a module are grouped because they are logically categorized to do the same thing even though they are different by nature (e.g., grouping all mouse and keyboard input handling routines or bundling all models, views, and controllers in separate folders in an [[Model–view–controller|MVC pattern]]).
+
+;{{anchor|Temporal}}Temporal cohesion: Temporal cohesion is when parts of a module are grouped by when they are processed - the parts are processed at a particular time in program execution (e.g., a function which is called after catching an exception which closes open files, creates an error log, and notifies the user).
+
+;{{anchor|Procedural}}Procedural cohesion: Procedural cohesion is when parts of a module are grouped because they always follow a certain sequence of execution (e.g., a function which checks file permissions and then opens the file).
+
+;{{anchor|Communicational|Informational}}Communicational/informational cohesion: Communicational cohesion is when parts of a module are grouped because they operate on the same data (e.g., a module which operates on the same record of information).
+
+;{{anchor|Sequential}}Sequential cohesion: Sequential cohesion is when parts of a module are grouped because the output from one part is the input to another part like an assembly line (e.g., a function which reads data from a file and processes the data).
+
+;{{anchor|Functional}}Functional cohesion (best): Functional cohesion is when parts of a module are grouped because they all contribute to a single well-defined task of the module (e.g., [[Lexical analysis]] of an XML string). Example:
+::<syntaxhighlight lang="c">
+/*
+Groups: The function definitions
+Parts: The terms on each function
+*/
+Module A {
+  /*
+  Implementation of arithmetic operations
+  This module is said to have functional cohesion because 
+  there is an intention to group simple arithmetic operations
+  on it. 
+  */
+  a(x, y) = x + y
+  b(x, y) = x * y
+}
+
+Module B {
+  /*
+  Module B: Implements r(x) = 5x + 3
+  This module can be said to have atomic cohesion. The whole
+  system (with Modules A and B as parts) can also be said to have functional
+  cohesion, because its parts both have specific separate purposes. 
+  */
+  r(x) = [Module A].a([Module A].b(5, x), 3)
+}
+</syntaxhighlight>
+
+;{{anchor|Perfect|Atomic}}Perfect cohesion (atomic): Example.
+::<syntaxhighlight lang="c">
+/*
+Groups: The function definitions
+Parts: The terms on each function
+*/
+Module A {
+  /* 
+  Implementation of r(x) = 2x + 1 + 3x + 2
+  It's said to have perfect cohesion because it cannot be reduced any more than that.
+  */
+  r(x) = 5x + 3
+}
+</syntaxhighlight>
+
+Although cohesion is a ranking type of scale, the ranks do not indicate a steady progression of improved cohesion. Studies by various people including [[Larry Constantine]], [[Edward Yourdon]], and [[Steve McConnell]]<ref name="McConnell"/> indicate that the first two types of cohesion are inferior; communicational and sequential cohesion are very good; and functional cohesion is superior.
+
+== See also ==
+* [[Coupling (computer science)]]
+* [[List of object-oriented programming terms]]
+* [[Static code analysis]]
+
+== References ==
+{{reflist|refs=
+<ref name="Ingeno_2018">{{cite book |author-last=Ingeno |author-first=Joseph |title=Software Architect's Handbook |publisher=[[Packt Publishing]] |date=2018 |pages=175 |isbn=978-178862406-0}}</ref>
+<ref name="Stevens_1974">{{Cite journal |doi=10.1147/sj.132.0115 |title=Structured design |journal=[[IBM Systems Journal]] |volume=13 |issue=2 |pages=115–139 |date=June 1974 |author-last1=Stevens |author-first1=Wayne P. |author-link1=Wayne Stevens (software engineer) |author-last2=Myers |author-first2=Glenford J. |author-link2=Glenford J. Myers |author-last3=Constantine |author-first3=Larry LeRoy |author-link3=Larry LeRoy Constantine}}</ref>
+<ref name="Yourdon_1979">{{Cite book |title=Structured Design: Fundamentals of a Discipline of Computer Program and Systems Design |author-last1=Yourdon |author-first1=Edward |author-link1=Edward Yourdon |author-last2=Constantine |author-first2=Larry LeRoy |author-link2=Larry LeRoy Constantine |date=1979 |orig-year=1975 |publisher=Yourdon Press |isbn=978-0-13-854471-3 |bibcode=1979sdfd.book.....Y}}</ref>
+<ref name="Marsic_2012">{{cite book |author-last=Marsic |author-first=Ivan |date=2012 |title=Software Engineering |publisher=[[Rutgers University]]}}</ref>
+<ref name="McConnell">{{cite book |author-first=Steve |author-last=McConnell |author-link=Steve McConnell |title=Code Complete |title-link=Code Complete |edition=2 |date=June 2004 |orig-year=1993 |isbn=978-0-7356-1967-8 |pages=[https://archive.org/details/codecomplete0000mcco/page/168 168-171] }}</ref>
+}}
+
+== External links ==
+* [http://www.ndepend.com/Metrics.aspx#RelationalCohesion Definitions of Cohesion metrics]
+* [http://www.aivosto.com/project/help/pm-oo-cohesion.html Cohesion metrics]
+* [https://github.com/mschwager/cohesion Measuring Cohesion in Python]
+
+[[Category:Software architecture]]
+[[Category:Software metrics]]
+[[Category:Programming principles]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+[[Category:Git synced pages]]

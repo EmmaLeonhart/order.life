@@ -1,0 +1,93 @@
+[[Category:Discrete Mathematics]]
+[[sn:Chapter 6 Graph theory]]Graphs and Trees
+[[File:3 utilities problem plane.svg|thumb|Diagram of the three utilities problem showing lines in a plane. Can each house be connected to each utility, with no connection lines crossing? ]]
+
+== Chapter 6.1 Graphs and representations ==
+
+A (discrete) graph (informally) is a set of points and a set of paths between them
+
+=== Formal Definition ===
+
+A graph is a triple (N, A, g) where 
+* N is a nonempty set of nodes or verticies
+* A is a set of arcs (can be an empty set)
+* g is a function which associates each arc with an unordered pair x-y of notes from N
+
+=== Directed Graphs ===
+[[File:Directed graph no background.svg|upright|thumb|A simple directed graph]]
+
+Directed graphs have ordered pairs instead of unordered pairs for A
+
+*N is a nonempty set of nodes or verticies
+* A is a set of arcs (can be an empty set)
+* g: A → N x N (cartesian product) is a function which associates each arc with an ordered pair x-y of notes from N, x is the initial point and y is the terminal point
+
+==Terminology==
+* Adjacent: two points are '''adjacent''' if they are connected by an arc. This applies equally in either a directed or undirected arc
+* A '''loop''' is an arc with endpoints n-n (or (n,n))
+* A graph with no loops is '''loop-free'''
+* A node is '''isolated''' if it is not adjacent to any other node
+* Arcs are '''parallel''' if they have the same endpoint. Can happen with both being directionless, both being in the same direction, or both going in different directions
+*An arc is '''simple''' if it is loop free and contains no parallel arcs
+*The '''degree''' of a node is the number of times it appears as the endpoint of an arc
+**If a node is connected to itself in a loop that means that it increases its degree by two, one for each time.
+*A '''path''' from node n0 to node nk is asequence of arcs and nodes
+*The '''length''' of a path is the number of '''arcs''' it contains
+*A graph is connected if there is a path between any two nodes
+*a '''cycle''' is a path from n0 to n0 where no arc appears more than once and no node appears more than once except n0
+**Needs to happen only twice, a cycle can't have n0 go through a bunch of things to itself and then back to itself in a different path That would be two cycles
+*A graph is '''acyclic''' if there are no possible cycles in the graph
+*A '''complete graph''' is one in which any two distinct nodes are the endpoints of an arc
+
+==Complete graph examples==
+
+
+Complete graphs on <math>n</math> vertices, for <math>n</math> between 1 and 12, are shown below along with the numbers of edges:
+
+{|class="wikitable"
+! {{math|''K''<sub>1</sub>: 0}}
+! {{math|''K''<sub>2</sub>: 1}}
+! {{math|''K''<sub>3</sub>: 3}}
+! {{math|''K''<sub>4</sub>: 6}}
+|-
+| [[Image:Complete graph K1.svg|140px]]
+| [[Image:Complete graph K2.svg|140px]]
+| [[Image:Complete graph K3.svg|140px]]
+| [[Image:3-simplex graph.svg|140px]]
+|-
+! {{math|''K''<sub>5</sub>: 10}}
+! {{math|''K''<sub>6</sub>: 15}}
+! {{math|''K''<sub>7</sub>: 21}}
+! {{math|''K''<sub>8</sub>: 28}}
+|-
+| [[Image:4-simplex graph.svg|140px]]
+| [[Image:5-simplex graph.svg|140px]]
+| [[Image:6-simplex graph.svg|140px]]
+| [[Image:7-simplex graph.svg|140px]]
+|-
+! {{math|''K''<sub>9</sub>: 36}}
+! {{math|''K''<sub>10</sub>: 45}}
+! {{math|''K''<sub>11</sub>: 55}}
+! {{math|''K''<sub>12</sub>: 66}}
+|-
+| [[Image:8-simplex graph.svg|140px]]
+| [[Image:9-simplex graph.svg|140px]]
+| [[Image:10-simplex graph.svg|140px]]
+| [[Image:11-simplex graph.svg|140px]]
+|}
+
+==More definitions==
+* [[File:Isomorphic graphs.jpg|thumb]][[File:Isomorphism example solving.jpg|thumb]]'''Isomorphic''' graphs are ones which are algebraically identical up to the relabelling
+
+==Planar Graphs==
+
+[[Planar Graph]]s are isomorphic to ones that don't cross each other
+[[Category:Graph Theory]]
+
+
+
+
+==Adjacency Matrix==
+* [[Adjacency Matrix]]
+[[Category:Pages]]
+[[Category:Git synced pages]]

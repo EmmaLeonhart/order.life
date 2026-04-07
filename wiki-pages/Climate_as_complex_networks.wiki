@@ -1,0 +1,105 @@
+{{Short description|Conceptual model to generate insight into climate science}}
+The field of [[complex network]]s has emerged as an important area of science to generate novel insights into nature of complex systems<ref name="AlbertBarabási2002">{{cite journal|last1=Albert|first1=Réka|last2=Barabási|first2=Albert-László|title=Statistical mechanics of complex networks|journal=Reviews of Modern Physics|volume=74|issue=1|year=2002|pages=47–97|issn=0034-6861|doi=10.1103/RevModPhys.74.47|bibcode=2002RvMP...74...47A|arxiv=cond-mat/0106096|s2cid=60545}}</ref> The application of network theory to [[Climatology|climate science]] is a young and emerging field.<ref name="TsonisSwanson2006" /><ref name=first>{{cite journal|last1 = Donges
+| first1      = J. F.
+| last2      = Zou
+| first2     = Y.
+| last3      = Marwan	
+| first3     = N.
+| last4      = Kurths
+| first4     = J.
+| year      = 2009
+| title      = Complex Networks in Climate Dynamics
+| journal    = The European Physical Journal Special Topics
+| publisher  = Springer-Verlag
+| volume     = 174
+| issue      = 1
+| pages      = 157–179
+| doi        = 10.1140/epjst/e2009-01098-2| bibcode= 2009EPJST.174..157D
+| arxiv = 0907.4359
+| s2cid = 2375970
+}}</ref><ref name="SteinhaeuserGanguly2011">{{cite journal|last1=Steinhaeuser|first1=Karsten|last2=Ganguly|first2=Auroop R.|last3=Chawla|first3=Nitesh V.|title=Multivariate and multiscale dependence in the global climate system revealed through complex networks|journal=Climate Dynamics|volume=39|issue=3–4|year=2011|pages=889–895|issn=0930-7575|doi=10.1007/s00382-011-1135-9|bibcode=2012ClDy...39..889S|s2cid=12086088}}</ref> To identify and analyze patterns in global climate, scientists model climate data as complex networks.
+
+Unlike most real-world networks where [[Node (graph theory)|nodes]] and [[Edge (geometry)|edges]] are well defined, in climate networks, nodes are identified as the sites in a spatial grid of the underlying global climate data set, which can be represented at various resolutions. Two nodes are connected by an edge depending on the degree of statistical similarity (that may be related to dependence) between the corresponding pairs of [[time-series]] taken from climate records.<ref name="first"/><ref name=Third>{{cite journal
+| last1       = Steinhaeuser
+| first1      = K.
+| last2      = Chawla
+| first2     = N.V.
+| last3      = Ganguly	
+| first3     = A.R.
+| year       = 2010
+| title      = Complex Networks as a Unified Framework for Descriptive Analysis and Predictive Modeling in climate science
+| journal    = Statistical Analysis and Data Mining
+| publisher  = John Wiley & Sons, Inc.
+| volume     = 4
+| issue      = 5
+| pages      = 497–511
+| doi        = 10.1002/sam.10100}}</ref>
+The climate network approach enables novel insights into the dynamics of the [[climate system]] over different spatial and temporal scales.<ref name="first"/>
+
+==Construction of climate networks==
+Depending upon the choice of [[Node (graph theory)|nodes]] and/or [[Edge (geometry)|edges]], climate networks may take many different forms, shapes, sizes and complexities. 
+Tsonis et al. introduced the field of complex networks to climate. In their model, the nodes for the network were constituted by a single variable (500 hPa) from [[NCEP/NCAR Reanalysis]] datasets. In order to estimate the [[Edge (geometry)|edges]] between nodes, [[correlation coefficient]] at zero time lag between all possible pairs of nodes were estimated. A pair of nodes was considered to be connected, if their [[correlation coefficient]] is above a threshold of 0.5.<ref name="AlbertBarabási2002"/>
+
+Steinhaeuser and team introduced the novel technique of [[Multivariate analysis|multivariate]] networks in [[climate]] by constructing networks from several climate variables separately and capture their interaction in multivariate predictive model. It was demonstrated in their studies that in context of climate, extracting predictors based on [[Clustering coefficient|cluster]] attributes yield informative precursors to improve [[predictive]] skills.<ref name="Third" />
+
+Kawale et al. presented a graph based approach to find dipoles in pressure data. Given the importance of [[teleconnection]], this methodology has potential to provide significant insights.<ref>{{cite journal|author1=Kawale J. |author2=Liess S. |author3=Kumar A. |author4=Steinbach M. |author5=Ganguly A.R. |author6=Samatova F. |author7=Semazzi F. |author8=Snyder K. |author9=Kumar V. | title= Data Guided Discovery of Dynamic Climate Dipoles |journal = Proceedings of the 2011 Conference on Intelligent Data Understanding, CIDU 2011, October 19–21, 2011, Mountain View, California | year=2011 | pages=30–44 |url=http://c3.nasa.gov/dashlink/static/media/other/CIDU_Proceedings2011.pdf}}</ref>
+
+Imme et al. introduced a new type of network construction in climate based on temporal probabilistic graphical model, which provides an alternative viewpoint by focusing on information flow within network over time.<ref>{{cite journal
+| first1      = Ebert-Uphoff 
+| last1 = Imme
+| last2      = Deng
+| first2     = Yi
+| year      = 2012
+| title      = A new type of climate network based on probabilistic graphical models: Results of boreal winter versus summer
+| journal    = Geophysical Research Letters
+| publisher  = Springer-Verlag
+| volume     = 39
+| issue      = 19
+| pages      = 157–179
+| doi        = 10.1029/2012GL053269
+| bibcode=2012GeoRL..3919701E| doi-access= free
+}}</ref>
+
+Agarwal et al. proposed advanced linear <ref name="AgarwalMaheswaranMarwan2018">{{cite journal | last1 = Agarwal | first1 = Ankit | last2 = Maheswaran | first2 = Rathinasamy | last3 = Marwan | first3 = Norbert | last4 = Caesar | first4 = Levke | last5 = Kurths | first5 = Jürgen | title = Wavelet-based multiscale similarity measure for complex networks | journal = The European Physical Journal B | date = November 2018 | volume = 91 | issue = 11 | issn = 1434-6028 | eissn = 1434-6036 | doi = 10.1140/epjb/e2018-90460-6 | pmid = | url = }}</ref> and nonlinear <ref name="AgarwalMarwanRathinasamy2017">{{cite journal | last1 = Agarwal | first1 = Ankit | last2 = Marwan | first2 = Norbert | last3 = Rathinasamy | first3 = Maheswaran | last4 = Merz | first4 = Bruno | last5 = Kurths | first5 = Jürgen | title = Multi-scale event synchronization analysis for unravelling climate processes: a wavelet-based approach | journal = Nonlinear Processes in Geophysics | date = 13 October 2017 | volume = 24 | issue = 4 | pages = 599–611 | eissn = 1607-7946 | doi = 10.5194/npg-24-599-2017 | pmid = | url = }}</ref> methods to construct and investigate climate networks at different timescales. Climate networks constructed using SST datasets at different timescale averred that multi-scale analysis of climatic processes holds the promise of better understanding the system dynamics that may be missed when processes are analyzed at one timescale only
+<ref name="AgarwalCaesarMarwan2019">{{cite journal | last1 = Agarwal | first1 = Ankit | last2 = Caesar | first2 = Levke | last3 = Marwan | first3 = Norbert | last4 = Maheswaran | first4 = Rathinasamy | last5 = Merz | first5 = Bruno | last6 = Kurths | first6 = Jürgen | title = Network-based identification and characterization of teleconnections on different scales | journal = Scientific Reports | date = 19 June 2019 | volume = 9 | issue = 1 | eissn = 2045-2322 | doi = 10.1038/s41598-019-45423-5 | pmid = 31217490 | pmc = 6584743 | url = }}</ref>
+
+==Applications of climate networks==
+Climate networks enable insights into the [[wikt:dynamics|dynamics]] of [[climate]] system over many spatial scales. The local [[centrality|degree centrality]] and related measures have been used to identify super-nodes and to associate them to known dynamical interrelations in the atmosphere, called [[teleconnection]] patterns. It was observed that climate networks possess [[Small-world network|“small world”]] properties owing to the long-range spatial connections.<ref name="TsonisSwanson2006">{{cite journal|last1=Tsonis|first1=Anastasios A.|last2=Swanson|first2=Kyle L.|last3=Roebber|first3=Paul J.|title=What Do Networks Have to Do with Climate?|journal=Bulletin of the American Meteorological Society|volume=87|issue=5|year=2006|pages=585–595|issn=0003-0007|doi=10.1175/BAMS-87-5-585|bibcode=2006BAMS...87..585T|doi-access=free}}</ref>
+
+Steinhaeuser et al. applied complex networks to explore the multivariate and [[Multi-scale Mathematics|multi-scale]] dependence in climate data. Findings of the group suggested a close similarity of observed dependence patterns in multiple variables over multiple time and spatial scales.
+<ref name="SteinhaeuserGanguly2011" />
+
+Tsonis and Roeber investigated the coupling architecture of the climate network. It was found that the overall network emerges from intertwined subnetworks. One subnetwork is operating at higher altitudes and other is operating in the tropics, while the equatorial subnetwork acts as an agent linking the 2 hemispheres . Though, both networks possess [[small world property|Small World Property]], the 2 subnetworks are significantly different from each other in terms of network properties like  [[degree distribution]].<ref name="TsonisRoebber2004">{{cite journal|last1=Tsonis|first1=A.A.|last2=Roebber|first2=P.J.|title=The architecture of the climate network|journal=Physica A: Statistical Mechanics and Its Applications|volume=333|year=2004|pages=497–504|issn=0378-4371|doi=10.1016/j.physa.2003.10.045|bibcode=2004PhyA..333..497T}}</ref>
+
+Donges et al. applied climate networks for physics and nonlinear dynamical interpretations in climate. The team used measure of node centrality, [[betweenness centrality]] (BC) to demonstrate the wave-like structures in the [[betweenness centrality|BC]] fields of climate networks constructed from monthly averaged reanalysis and atmosphere-ocean coupled general circulation model [[General Circulation Model|(AOGCM)]] [[surface air temperature]] (SAT) data.<ref name="DongesZou2009">{{cite journal|last1=Donges|first1=J. F.|last2=Zou|first2=Y.|last3=Marwan|first3=N.|last4=Kurths|first4=J.|title=The backbone of the climate network|journal=EPL|volume=87|issue=4|year=2009|pages=48007|issn=0295-5075|doi=10.1209/0295-5075/87/48007|arxiv=1002.2100|bibcode=2009EL.....8748007D|s2cid=11225385}}</ref>
+
+==Teleconnection path==
+[[Teleconnection]]s are spatial patterns in the atmosphere that link weather and climate anomalies over large distances across the globe. Teleconnections have the characteristics that they are persistent, lasting for 1 to 2 weeks, and often much longer, and they are recurrent, as similar patterns tend to occur repeatedly. The presence of teleconnections is associated with changes in temperature, wind, precipitation, atmospheric variables of greatest societal interest.<ref name="Feldstein">{{Cite book|chapter-url=https://www.cambridge.org/core/books/nonlinear-and-stochastic-climate-dynamics/atmospheric-teleconnection-patterns/AC059929DFD3096397A825D9F6BA3B3A|chapter=Atmospheric Teleconnection Patterns|last1=Feldstein|first1=Steven B.|last2=Franzke|first2=Christian L. E.|editor2-first=Terence J.|editor2-last=Okane|editor1-first=Christian L. E.|editor1-last=Franzke|title=Nonlinear and Stochastic Climate Dynamics|date=January 2017|pages=54–104|language=en|doi=10.1017/9781316339251.004|isbn=9781316339251|access-date=2019-12-07}}</ref>
+
+==Computational issues and challenges==
+There are numerous computational challenges that arise at various stages of the network construction and analysis process in field of climate networks:<ref name="ComplexNetworkInClimateScience">{{cite journal|author1=Steinhaeuser K. |author2=Chawla N.V. |author3=Ganguly A.R. |title=Complex Network in Climate Science| journal= Conference on Intelligent Data Understanding | year=2010|pages=16–26}}</ref>
+
+# Calculating the pair-wise correlations between all grid points is a non-trivial task. 
+# Computational demands of network construction, which depends upon the resolution of [[Grid (spatial index)|spatial grid]].
+# Generation of predictive models from the data poses additional challenges.
+# Inclusion of lag and lead effects over space and time is a non-trivial task.
+
+==See also==
+* [[Community structure]]
+* [[Network theory]]
+* [[Network science]]
+* [[Teleconnection]]
+* [[Climatology]]
+
+==References==
+{{Reflist}}
+
+[[Category:Network theory]]
+[[Category:Climatology]]
+[[Category:Technical mathematics]][[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+[[Category:Git synced pages]]

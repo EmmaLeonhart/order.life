@@ -1,0 +1,77 @@
+{{Short description|Standard UNIX utility for file comparison}}
+{{lowercase title|title=diff}}
+{{Infobox software
+| name = diff
+| title = diff
+| screenshot = <!-- Image name is enough -->
+| caption = 
+| screenshot size = 
+| screenshot alt = 
+| collapsible = 
+| author = [[Douglas McIlroy]]<br />([[AT&T Bell Laboratories]])
+| developer = Various [[open-source software|open-source]] and [[commercial software|commercial]] developers
+| released = {{Start date and age|1974|6}}
+| latest release version = 
+| latest release date = <!-- {{Start date and age|YYYY|MM|DD|df=yes/no}} -->
+| programming language = [[C (programming language)|C]]
+| operating system = [[Unix]], [[Unix-like]], [[V (operating system)|V]], [[Plan 9 from Bell Labs|Plan 9]], [[Inferno (operating system)|Inferno]]
+| platform = [[Cross-platform]]
+| genre = [[Command (computing)|Command]]
+| license = Plan 9: [[MIT License]]
+| website = 
+| standard = 
+| AsOf = 
+}}
+In [[computing]], the utility '''diff''' is a [[data comparison]] tool that computes and displays the differences between the contents of files. Unlike [[edit distance]] notions used for other purposes, diff is line-oriented rather than character-oriented, but it is like [[Levenshtein distance]] in that it tries to determine the smallest set of deletions and insertions to create one file from the other. The utility displays the changes in one of several standard formats, such that both humans or computers can parse the changes, and use them for [[patch (Unix)|patching]].
+
+Typically, ''diff'' is used to show the changes between two versions of the same file. Modern implementations also support [[binary file]]s.<ref>MacKenzie ''et al.''  "Binary Files and Forcing Text Comparison" in ''Comparing and Merging Files with GNU Diff and Patch''.  Downloaded 28 April 2007.  [https://www.gnu.org/software/diffutils/manual/html_node/Binary.html] {{Webarchive|url=https://web.archive.org/web/20171219223414/http://www.gnu.org/software/diffutils/manual/html_node/Binary.html |date=2017-12-19 }}</ref> The output is called a "diff", or a [[patch (computing)|patch]], since the output can be applied with the [[Unix]] program [[patch (Unix)|{{Mono|patch}}]]. The output of similar file comparison utilities is also called a "diff"; like the use of the word "[[grep]]" for describing the act of searching, the word ''diff'' became a generic term for calculating data difference and the results thereof.<ref>Eric S. Raymond (ed.), [http://catb.org/jargon/html/D/diff.html "diff"] {{Webarchive|url=https://web.archive.org/web/20140131071625/http://www.catb.org/jargon/html/D/diff.html |date=2014-01-31 }}, ''The Jargon File'', version 4.4.7</ref> The [[POSIX]] standard specifies the behavior of the "diff" and "patch" utilities and their file formats.<ref>{{cite book|author1 = IEEE Computer Society|author2-link = The Open Group|author2 = The Open Group|date=26 September 2008|title = Standard for Information Technology&mdash;Portable Operating System Interface (POSIX) Base Specifications, Issue 7|pages = 2599–2607|author1-link = IEEE Computer Society}} IEEE Std. 1003.1-2001 specifies traditional, "ed script", and context diff output formats; IEEE Std. 1003.1-2008 added the (by then more common) unified format.</ref>
+
+==See also==
+*[[comm]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite journal|author=Paul Heckel|title=A technique for isolating differences between files|journal=Communications of the ACM|volume=21|issue=4|date=April 1978|pages=264–268|doi=10.1145/359460.359467|s2cid=207683976}}[http://doi.acm.org/10.1145/359460.359467 A technique for isolating differences between files]
+*A generic implementation of the Myers SES/LCS algorithm with the Hirschberg linear space refinement [http://www.ioplex.com/~miallen/libmba/dl/src/diff.c (C source code)]
+
+==External links==
+{{Wikibooks|Guide to Unix|Commands}}
+{{Prone to spam|date=May 2012}}
+<!--     {{No more links}}
+
+       Please be cautious adding more external links.
+
+Wikipedia is not a collection of links and should not be used for advertising.
+
+     Excessive or inappropriate links will be removed.
+
+ See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.
+
+If there are already suitable links, propose additions or replacements on
+the article's talk page, or submit your link to the relevant category at 
+the Open Directory Project (dmoz.org) and link there using {{Dmoz}}.
+
+-->
+*{{man|cu|diff|SUS|compare two files}}
+* {{man|1|diff|Plan 9}}
+* {{man|1|diff|Inferno}}
+*{{Curlie|Computers/Software/File_Management/File_Comparison|File comparison}}
+*[http://www.bodurov.com/JavaScriptDiff/ JavaScript Implementation]
+
+{{Unix commands}}
+{{Plan 9 commands}}
+{{Version control software}}
+
+[[Category:1974 software]]
+[[Category:Free file comparison tools]]
+[[Category:Formal languages]]
+[[Category:Pattern matching]]
+[[Category:Data differencing]]
+[[Category:Standard Unix programs]]
+[[Category:Unix SUS2008 utilities]]
+[[sn:Diff]][[Category:Linux]]
+[[sn:Diff]][[sn:Diff]]
+[[Category:Pages]]
+[[Category:Git synced pages]]
