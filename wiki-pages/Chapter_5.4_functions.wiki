@@ -1,0 +1,60 @@
+Functions lecture yay[[Category:Discrete Mathematics]]
+[[sn:Chapter 5.4 functions]][[Category:Pages that existed before the Great November Outage]]
+[[sn:Chapter 5.4 functions]][[sn:Chapter 5.4 functions]]Functions are sets
+
+Functions are a subset of [[relations]]
+
+== Definition ==
+f(S) = T
+
+S is the set of inputs
+
+T is the set of inputs
+
+A function is a set of ordered pairs {S, T} the first coordinate S cannot appear more than once
+
+=== S restrictions ===
+Often there are restrictions on input. 
+
+== Equality of functions ==
+
+* same domain
+* same codomain
+* f(a) = g(a) for all in their domain
+
+== Piecewise functions ==
+They do not need to have a specific formula, can change based on place. Piecewise functions do this
+
+[[quus]] is a famous piecewise function used by Kripke in the [[rule following paradox]]
+{{multiple image
+ | align     = right
+ | direction = vertical
+ | header    = Floor and ceiling functions
+ | width     = 200
+ | image1    = Floor function.svg
+ | caption1  = Floor function
+ | image2    = Ceiling function.svg
+ | caption2  = Ceiling function
+}}
+
+==One to One==
+One to one functions have no overlap in codomain to domain
+
+Same as surjective
+
+== -Jectivities ==
+
+* surjective - all elements in the codomain have an element in the domain that goes to them
+** Every odd degree polynomial is surjective
+** Covers entire domain, like surveillance
+* injective - one to one - injects to one value
+* bijective - both
+
+== Function composition ==
+
+Composition is just nested functions
+
+[[Image:Injective composition2.svg|thumb|300px|The composition of two injective functions is injective.]]
+[[File:Surjective_composition.svg|thumb|300px|the composition of two surjective functions is surjective]]
+[[Category:Pages]]
+[[Category:Git synced pages]]

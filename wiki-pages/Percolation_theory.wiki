@@ -1,0 +1,151 @@
+{{Short description|Mathematical theory on behavior of connected clusters in a random graph}}
+{{Network science}}
+In [[statistical physics]] and [[mathematics]], '''percolation theory''' describes the behavior of a network when nodes or links are added. This is a geometric type of phase transition, since at a critical fraction of addition the network of small, disconnected clusters merge into significantly larger [[Glossary of graph theory|connected]], so-called spanning clusters. The applications of percolation theory to [[materials science]] and in many other disciplines are discussed here and in the articles [[network theory]] and [[percolation]].
+
+==Introduction==<!-- [[Bond percolation]] and [[Site percolation]] redirect to here -->
+[[File:perc-wiki.png|thumb|left|A three-dimensional site percolation graph]]
+[[File:Transition de percolation 2.gif|thumb|left|Bond percolation in a square lattice from p=0.3 to p=0.52]]
+
+A representative question (and the [[etymology|source]] of the name) is as follows. Assume that some liquid is poured on top of some [[porosity|porous]] material. Will the liquid be able to make its way from hole to hole and reach the bottom? This physical question is [[mathematical model|modelled]] mathematically as a [[Grid graph|three-dimensional network]] of {{math|''n'' × ''n'' × ''n''}} [[graph (discrete mathematics)|vertices]], usually called "sites", in which the [[graph (discrete mathematics)|edge]] or "bonds" between each two neighbors may be open (allowing the liquid through) with probability {{math|''p''}}, or closed with probability {{math|1 – ''p''}}, and they are assumed to be independent. Therefore, for a given {{math|''p''}}, what is the probability that an open path (meaning a path, each of whose links is an "open" bond) exists from the top to the bottom? The behavior for large&nbsp;{{math|''n''}} is of primary interest. This problem, called now '''bond percolation''', was introduced in the mathematics literature by {{harvtxt|Broadbent|Hammersley|1957}},<ref name="BroadbentHammersley1957">{{cite journal |last1=Broadbent |first1=Simon |last2=Hammersley |first2=John |author-link2=John Hammersley |title=Percolation processes I. Crystals and mazes |journal=Mathematical Proceedings of the Cambridge Philosophical Society |volume=53 |issue=3 |year=1957 |pages=629–641 |issn=0305-0041 |doi=10.1017/S0305004100032680 |bibcode=1957PCPS...53..629B|s2cid=84176793 }}</ref> and has been studied intensively by mathematicians and physicists since then.
+
+In a slightly different mathematical model for obtaining a random graph, a site is "occupied" with probability {{math|''p''}} or "empty" (in which case its edges are removed) with probability {{math|1 – ''p''}}; the corresponding problem is called '''site percolation'''. The question is the same: for a given ''p'', what is the probability that a path exists between top and bottom? Similarly, one can ask, given a connected graph at what fraction {{math|1 – ''p''}} of failures the graph will become disconnected (no large component).
+[[File:Tube Network Percolation.gif|thumb|A 3D tube network percolation determination]]
+The same questions can be asked for any lattice dimension. As is quite typical, it is actually easier to examine [[Infinite graph|infinite]] networks than just large ones. In this case the corresponding question is: does an infinite open cluster exist? That is, is there a path of connected points of infinite length "through" the network?  By [[Kolmogorov's zero–one law]], for any given {{math|''p''}}, the probability that an infinite cluster exists is either zero or one. Since this probability is an increasing function of {{math|''p''}} (proof via [[Coupling (probability)|coupling]] argument), there must be a '''critical''' {{math|''p''}} (denoted by&nbsp;{{math|''p''<sub>c</sub>}}) below which the probability is always 0 and above which the probability is always&nbsp;1. In practice, this criticality is very easy to observe. Even for {{math|''n''}} as small as 100, the probability of an open path from the top to the bottom increases sharply from very close to zero to very close to one in a short span of values of&nbsp;{{math|''p''}}.
+
+[[Image:Bond percolation p 51.png|thumb|Detail of a bond percolation on the square lattice in two dimensions with percolation probability {{math|''p'' {{=}} 0.51}}]]
+
+== History ==
+The [[Flory–Stockmayer theory]] was the first theory investigating percolation processes.<ref>{{Cite book|url=https://books.google.com/books?id=Mw_csu3AcB0C&q=Flory%E2%80%93Stockmayer+theory+percolation+theory&pg=PA8|title=Applications Of Percolation Theory|last1=Sahini|first1=M.|last2=Sahimi|first2=M.|date=2003-07-13|publisher=CRC Press|isbn=978-0-203-22153-2|language=en}}</ref>
+
+The history of the percolation model as we know it has its root in the coal industry. Since the industrial revolution, the economical importance of this source of energy fostered many scientific studies to understand its composition and optimize its use. During the 30' and 40', the qualitative analysis by organic chemistry left more and more room to more quantitative studies. 
+<ref>{{cite journal|last=van Krevelen|first=Dirk W|title=Development of coal research—a review. |journal=Fuel |volume=61|issue=9|year=1982|pages=786–790|doi=10.1016/0016-2361(82)90304-0 }}</ref>
+
+In this context, the [[British Coal Utilisation Research Association]] (BCURA) was created in 1938. It is a research association funded by the coal mines owners. In 1942, [[Rosalind Franklin]], who then recently graduated in chemistry from the university of Cambridge, joined the BCURA. She started research on the density and porosity of coal. During the Second World War, coal was an important strategic resource. It was used as a source of energy, but also was the main constituent of gas masks.
+
+Coal is a porous medium. To measure its 'real' density, one was to sink it in a liquid or a gas whose molecule are small enough to fill its microscopic pores. While trying to measure the density of coal using several gases (helium, methanol, hexane, benzene) and as she found different values depending on the used gas, Rosalind Franklin showed that the pores of coal are made of microstructures of various lengths that act as a microscopic sieve to discriminate the gases. She also discovered that the size of these structures depends on the temperature of carbonation during the coal production. With these research, she obtained a PhD degree and she left the BCURA in 1946.
+<ref>The rosalind franklin papers - the holes in coal: Research at BCURA and in Paris, 1942-1951. https://profiles.nlm.nih.gov/spotlight/kr/feature/coal. Accessed: 2022-01-17.</ref>
+
+In the mid fifties, Simon Broadbent worked in the BCURA as a statistician. Among other interests, he studied the use of coal in gas masks. One question is to understand how a fluid can diffuse in the coal pores, modeled as a random maze of open or closed tunnels. In 1954, during a symposium on [[Monte Carlo method|Monte Carlo methods]], he asks questions to [[John Hammersley]] on the use of numerical methods to analyze this model.
+<ref>{{Cite journal |first1=JM |last1=Hammersley | first2=DJA | last2=Welsh |title=Percolation theory and its ramifications.  |journal=Contemporary Physics |volume=21 | issue=6 |date=1980 |pages=593–605|doi=10.1080/00107518008210661 |bibcode=1980ConPh..21..593H }}</ref>
+
+Broadbent and Hammersley introduced in their article of 1957 a mathematical model to model this phenomenon, that is percolation.
+
+== Computation of the critical parameter ==
+
+For most infinite lattice graphs, {{math|''p''<sub>c</sub>}} cannot be calculated exactly, though in some cases {{math|''p''<sub>c</sub>}} there is an exact value. For example:
+
+*for the [[square lattice]] {{math|'''ℤ'''<sup>2</sup>}} in two dimensions, {{math|''p''<sub>c</sub> {{=}} {{sfrac|1|2}}}} for bond percolation, a fact which was an open question for more than 20 years and was finally resolved by [[Harry Kesten]] in the early 1980s,<ref name="BollobásRiordan2006">{{cite journal|last1=Bollobás|first1=Béla|last2=Riordan|first2=Oliver|title=Sharp thresholds and percolation in the plane|journal=Random Structures and Algorithms |volume=29|issue=4|year=2006|pages=524–548|issn=1042-9832|doi=10.1002/rsa.20134|arxiv=math/0412510|s2cid=7342807}}</ref> see {{harvtxt|Kesten|1982}}. For site percolation, the value of {{math|''p''<sub>c</sub>}} is not known from analytic derivation but only via simulations of large lattices.<ref>{{cite journal |author=MEJ Newman |author2=RM Ziff|year=2000|title=Efficient Monte Carlo algorithm and high-precision results for percolation |journal=Physical Review Letters |issue=19|volume=85|pages=4104–4107|doi=10.1103/physrevlett.85.4104 |pmid=11056635|arxiv=cond-mat/0005264|bibcode=2000PhRvL..85.4104N|s2cid=747665}}</ref>  
+*A limit case for lattices in high dimensions is given by the [[Bethe lattice]], whose threshold is at {{math|''p''<sub>c</sub> {{=}} {{sfrac|1|''z'' − 1}}}} for a [[coordination number]]&nbsp;{{math|''z''}}. In other words: for the regular [[Tree (graph theory)|tree]] of degree <math>z</math>, <math>p_c</math> is equal to <math>1/(z-1)</math>. 
+[[File:Front de percolation.png|thumb]]
+
+* For a random [[Tree (graph theory)|tree-like]] network without degree-degree correlation, it can be shown that such network can have a [[giant component]], and the [[percolation threshold]] (transmission probability) is given by <math>p_c = \frac{1}{g_1'(1)}</math>,  where <math>g_1(z)</math> is the [[Degree distribution#The Generating Functions Method|generating function]] corresponding to the [[Degree distribution#The Generating Functions Method|excess degree distribution]]. So, for random [[Erdős–Rényi model|Erdős–Rényi networks]] of average degree <math>\langle k\rangle</math>, {{math|''p''<sub>c</sub> {{=}} {{sfrac|1|&lang;k&rang;}}}}.<ref>{{cite journal|author=Erdős, P.|author2=Rényi, A.|name-list-style=amp|year=1959|title=On random graphs I.|journal=Publ. Math.|issue=6|pages=290–297}}</ref><ref>{{cite journal|author=Erdős, P.|author2=Rényi, A.|name-list-style=amp|year=1960|title=The evolution of random graphs|journal=Publ. Math. Inst. Hung. Acad. Sci.|issue=5|pages=17–61}}</ref><ref>{{cite journal|author=Bolloba's, B.|year=1985|title=Random Graphs|journal=Academic}}</ref>
+* In networks with low [[Clustering coefficient|clustering]], <math>
+0 < C \ll 1
+</math>, the critical point gets scaled by <math>
+(1-C)^{-1}
+</math> such that:
+
+<math>p_c = \frac{1}{1-C}\frac{1}{g_1'(1)}.</math><ref>{{Cite journal|last1=Berchenko|first1=Yakir|last2=Artzy-Randrup|first2=Yael|last3=Teicher|first3=Mina|last4=Stone|first4=Lewi|date=2009-03-30|title=Emergence and Size of the Giant Component in Clustered Random Graphs with a Given Degree Distribution|url=https://link.aps.org/doi/10.1103/PhysRevLett.102.138701|journal=Physical Review Letters|language=en|volume=102|issue=13|pages=138701|doi=10.1103/PhysRevLett.102.138701|pmid=19392410 |bibcode=2009PhRvL.102m8701B |issn=0031-9007}}</ref>  
+
+This indicates that for a given degree distribution, the clustering leads to a larger percolation threshold, mainly because for a fixed number of links, the clustering structure reinforces the core of the network with the price of diluting the global connections. For networks with high clustering, strong clustering could induce the core–periphery structure, in which the core and periphery might percolate at different critical points, and the above approximate treatment is not applicable.<ref>{{Cite journal|last1=Li|first1=Ming|last2=Liu|first2=Run-Ran|last3=Lü|first3=Linyuan|last4=Hu|first4=Mao-Bin|last5=Xu|first5=Shuqi|last6=Zhang|first6=Yi-Cheng|date=2021-04-25|title=Percolation on complex networks: Theory and application|url=https://www.sciencedirect.com/science/article/pii/S0370157320304269|journal=Physics Reports|series=Percolation on complex networks: Theory and application|language=en|volume=907|pages=1–68|doi=10.1016/j.physrep.2020.12.003|arxiv=2101.11761 |bibcode=2021PhR...907....1L |s2cid=231719831 |issn=0370-1573}}</ref>
+
+==Universality==
+The [[Universality (dynamical systems)|universality principle]] states that the numerical value of {{math|''p''<sub>c</sub>}} is determined by the local structure of the graph, whereas the behavior near the critical threshold, {{math|''p''<sub>c</sub>}}, is characterized by universal [[critical exponents]]. For example the distribution of the size of clusters at criticality decays as a power law with the same exponent for all 2d lattices. This universality means that for a given dimension, the various critical exponents, the [[fractal dimension]] of the clusters at {{math|''p''<sub>c</sub>}} is independent of the lattice type and percolation type (e.g., bond or site). However, recently percolation has been performed on a [[weighted planar stochastic lattice (WPSL)]] and found that although the dimension of the WPSL coincides with the dimension of the space where it is embedded, its universality class is different from that of all the known planar lattices.<ref>{{cite journal | last1 = Hassan | first1 = M. K. | last2 = Rahman | first2 = M. M. | year = 2015 | title = Percolation on a multifractal scale-free planar stochastic lattice and its universality class | journal = Phys. Rev. E | volume = 92 | issue = 4| page = 040101 | doi=10.1103/PhysRevE.92.040101| pmid = 26565145 | arxiv = 1504.06389 | bibcode = 2015PhRvE..92d0101H | s2cid = 119112286 }}</ref><ref>{{cite journal | last1 = Hassan | first1 = M. K. | last2 = Rahman | first2 = M. M. | year = 2016 | title = Universality class of site and bond percolation on multi-multifractal scale-free planar stochastic lattice | journal = Phys. Rev. E | volume = 94 | issue = 4| page = 042109 | doi=10.1103/PhysRevE.94.042109| pmid = 27841467 | arxiv = 1604.08699 | bibcode = 2016PhRvE..94d2109H | s2cid = 22593028 }}</ref>
+
+== Phases ==
+
+===Subcritical and supercritical===
+
+The main fact in the subcritical phase is "exponential decay". That is, when {{math|''p'' < ''p''<sub>c</sub>}}, the probability that a specific point (for example, the origin) is contained in an open cluster (meaning a maximal connected set of "open" edges of the graph) of size {{math|''r''}} decays to zero [[Big O notation#Orders of common functions|exponentially]] in&nbsp;{{math|''r''}}. This was proved for percolation in three and more dimensions by {{harvtxt|Menshikov|1986}} and independently by {{harvtxt|Aizenman|Barsky|1987}}. In two dimensions, it formed part of Kesten's proof that {{math|''p''<sub>c</sub> {{=}} {{sfrac|1|2}}}}.<ref name="Kesten1982">{{Cite book |last1=Kesten |first1=Harry |author-link1=Harry Kesten |title=Percolation Theory for Mathematicians |publisher=Birkhauser |year=1982 |doi=10.1007/978-1-4899-2730-9 |isbn=978-0-8176-3107-9}}</ref>
+
+The [[dual graph]] of the square lattice {{math|'''ℤ'''<sup>2</sup>}} is also the square lattice. It follows that, in two dimensions, the supercritical phase is dual to a subcritical percolation process. This provides essentially full information about the supercritical model with {{math|''d'' {{=}} 2}}. The main result for the supercritical phase in three and more dimensions is that,  for sufficiently large&nbsp;{{math|''N''}}, there is{{clarify|reason=With probability one?|date=April 2016}} an infinite open cluster in the two-dimensional slab {{math|'''ℤ'''<sup>2</sup> × [0, ''N'']<sup>''d'' − 2</sup>}}. This was proved by {{harvtxt|Grimmett|Marstrand|1990}}.<ref name="GrimmettMarstrand1990">{{cite journal |last1=Grimmett |first1=Geoffrey |author-link1=Geoffrey Grimmett |last2=Marstrand |first2=John |title=The Supercritical Phase of Percolation is Well Behaved |journal=Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences |volume=430 |issue=1879 |year=1990 |pages=439–457 |issn=1364-5021 |doi=10.1098/rspa.1990.0100 |bibcode=1990RSPSA.430..439G |s2cid=122534964}}</ref>
+
+In two dimensions with {{math|''p'' < {{sfrac|1|2}}}}, there is with probability one a unique infinite closed cluster (a closed cluster is a maximal connected set of "closed" edges of the graph). Thus the subcritical phase may be described as finite open islands in an infinite closed ocean. When {{math|''p'' > {{sfrac|1|2}}}} just the opposite occurs, with finite closed islands in an infinite open ocean. The picture is more complicated when {{math|''d'' ≥ 3}} since {{math|''p''<sub>c</sub> < {{sfrac|1|2}}}}, and there is coexistence of infinite open and closed clusters for {{math|''p''}} between {{math|''p''<sub>c</sub>}} and&nbsp;{{math|1 − ''p''<sub>c</sub>}}.
+
+===Criticality===
+[[File:Percolation zoom.gif|right|thumb|Zoom in a critical percolation cluster (Click to animate)]]
+Percolation has a [[mathematical singularity|singularity]] at the critical point {{math|''p'' {{=}} ''p''<sub>c</sub>}} and many properties behave as of a power-law with <math>p-p_c</math>, near <math>p_c</math>. [[Critical scaling|Scaling theory]] predicts the existence of [[critical exponents]], depending on the number ''d'' of dimensions, that determine the class of the singularity. When {{math|''d'' {{=}} 2}} these predictions are backed up by arguments from [[conformal field theory]] and [[Schramm–Loewner evolution]], and include predicted numerical values for the exponents. Most of these predictions are conjectural except when the number {{math|''d''}} of dimensions satisfies either {{math|''d'' {{=}} 2}} or {{math|''d'' ≥ 6}}. They include:
+
+* There are no infinite clusters (open or closed)
+* The probability that there is an open path from some fixed point (say the origin) to a distance of {{math|''r''}} decreases ''polynomially'', i.e. is [[big O notation|on the order of]] {{math|''r''<sup>''α''</sup>}} for some&nbsp;{{math|''α''}}
+** {{math|''α''}} does not depend on the particular lattice chosen, or on other local parameters. It depends only on the dimension {{math|''d''}} (this is an instance of the [[Universality (dynamical systems)|universality]] principle).
+** {{math|''α<sub>d</sub>''}} decreases from {{math|''d'' {{=}} 2}} until {{math|''d'' {{=}} 6}} and then stays fixed.
+** {{math|''α''<sub>2</sub> {{=}} −{{sfrac|5|48}}}}
+** {{math|''α''<sub>6</sub> {{=}} −1}}.
+* The shape of a large cluster in two dimensions is [[conformal map|conformally invariant]].
+
+See {{harvtxt|Grimmett|1999}}.<ref name="Grimmett1999">{{Cite book |last1=Grimmett |first1=Geoffrey |author-link1=Geoffrey Grimmett |title=Percolation |volume=321 |year=1999 |issn=0072-7830 |doi=10.1007/978-3-662-03981-6 |series=Grundlehren der mathematischen Wissenschaften |place=Berlin |publisher=Springer |isbn=978-3-642-08442-3 |url=http://www.statslab.cam.ac.uk/~grg/papers/perc/perc.html}}</ref> In 11 or more dimensions, these facts are largely proved using a technique known as the [[lace expansion]]. It is believed that a version of the lace expansion should be valid for 7 or more dimensions, perhaps with implications also for the threshold case of 6 dimensions.  The connection of percolation to the lace expansion is found in {{harvtxt|Hara|Slade|1990}}.<ref name="HaraSlade1990">{{cite journal |last1=Hara |first1=Takashi |last2=Slade |first2=Gordon |title=Mean-field critical behaviour for percolation in high dimensions |journal=Communications in Mathematical Physics |volume=128 |issue=2 |year=1990 |pages=333–391 |issn=0010-3616 |doi=10.1007/BF02108785 |bibcode=1990CMaPh.128..333H |s2cid=119875060|url=http://projecteuclid.org/euclid.cmp/1104180434 }}</ref>
+
+In two dimensions, the first fact ("no percolation in the critical phase") is proved for many lattices, using duality. Substantial progress has been made on two-dimensional percolation through the conjecture of [[Oded Schramm]] that the [[scaling limit]] of a large cluster may be described in terms of a [[Schramm&ndash;Loewner evolution]]. This conjecture was proved by {{harvtxt|Smirnov|2001}}<ref name="Smirnov2001">{{cite journal |last1=Smirnov |first1=Stanislav |author-link1=Stanislav Smirnov |title=Critical percolation in the plane: conformal invariance, Cardy's formula, scaling limits |journal=Comptes Rendus de l'Académie des Sciences |series=I |volume=333 |issue=3 |year=2001 |pages=239–244 |issn=0764-4442 |doi=10.1016/S0764-4442(01)01991-7 |bibcode=2001CRASM.333..239S |arxiv=0909.4499 |citeseerx=10.1.1.246.2739}}</ref> in the special case of site percolation on the triangular lattice.
+
+==Different models==
+*[[Directed percolation]] that models the effect of [[gravity|gravitational forces acting on the liquid]] was also introduced in {{harvtxt|Broadbent|Hammersley|1957}},<ref name="BroadbentHammersley1957"/> and has connections with the [[contact process (mathematics)|contact process]].
+*The first model studied was Bernoulli percolation. In this model all bonds are independent.  This model is called bond percolation by physicists.
+*A generalization was next introduced as the [[random cluster model|Fortuin–Kasteleyn random cluster model]], which has many connections with the [[Ising model]] and other [[Potts model]]s.
+*Bernoulli (bond) percolation on [[complete graph]]s is an example of a [[random graph]].  The critical probability is&nbsp;{{math|''p'' {{=}} {{sfrac|1|''N''}}}}, where {{math|''N''}} is the number of vertices (sites) of the graph.
+*[[Bootstrap percolation]] removes active cells from clusters when they have too few active neighbors, and looks at the connectivity of the remaining cells.<ref>{{citation
+ | last = Adler | first = Joan | author-link = Joan Adler
+ | doi = 10.1016/0378-4371(91)90295-n
+ | issue = 3
+ | journal = Physica A: Statistical Mechanics and Its Applications
+ | pages = 453–470
+ | title = Bootstrap percolation
+ | volume = 171
+ | year = 1991| bibcode = 1991PhyA..171..453A}}.</ref>
+*[[First passage percolation]].
+*[[Invasion percolation]].
+== Applications ==
+
+=== In biology, biochemistry, and physical virology ===
+Percolation theory has been used to successfully predict the fragmentation of biological virus shells (capsids),<ref name="Brunk Twarock p. ">{{cite journal | last1=Brunk | first1=Nicholas E. | last2=Twarock | first2=Reidun | title=Percolation Theory Reveals Biophysical Properties of Virus-like Particles | journal=ACS Nano | publisher=American Chemical Society (ACS) | date=2021 | volume=15 | issue=8 | pages=12988–12995 | issn=1936-0851 | doi=10.1021/acsnano.1c01882 | pmid=34296852 | pmc=8397427 | doi-access=free }}</ref><ref>{{cite journal | last1 = Brunk | first1 = N. E. | last2 = Lee | first2 = L. S. | last3 = Glazier | first3 = J. A. | last4 = Butske | first4 = W. | last5 = Zlotnick | first5 = A. | year = 2018 | title = Molecular Jenga: the percolation phase transition (collapse) in virus capsids | journal = Physical Biology | volume = 15 | issue = 5| page = 056005 | doi=10.1088/1478-3975/aac194| pmid = 29714713 | pmc = 6004236 | bibcode = 2018PhBio..15e6005B }}</ref> with the fragmentation threshold of [[Hepatitis B]] virus [[capsid]] predicted and detected experimentally.<ref>{{cite journal | last1 = Lee | first1 = L. S. | last2 = Brunk | first2 = N. | last3 = Haywood | first3 = D. G. | last4 = Keifer | first4 = D. | last5 = Pierson | first5 = E. | last6 = Kondylis | first6 = P. | last7 = Zlotnick | first7 = A. | year = 2017 | title = A molecular breadboard: Removal and replacement of subunits in a hepatitis B virus capsid | journal = Protein Science | volume = 26 | issue = 11| pages = 2170–2180 | doi=10.1002/pro.3265| pmid = 28795465 | pmc = 5654856 }}</ref> When a critical number of subunits has been randomly removed from the nanoscopic shell, it fragments and this fragmentation may be detected using Charge Detection Mass Spectroscopy (CDMS) among other single-particle techniques.  This is a molecular analog to the common board game [[Jenga]], and has relevance to the broader study of virus disassembly.  Interestingly, more stable viral particles (tilings with greater fragmentation thresholds) are found in greater abundance in nature.<ref name="Brunk Twarock p. ">{{cite journal | last1=Brunk | first1=Nicholas E. | last2=Twarock | first2=Reidun | title=Percolation Theory Reveals Biophysical Properties of Virus-like Particles | journal=ACS Nano | publisher=American Chemical Society (ACS) | date=2021 | volume=15 | issue=8 | pages=12988–12995 | issn=1936-0851 | doi=10.1021/acsnano.1c01882 | pmid=34296852 | pmc=8397427 | doi-access=free }}</ref>
+
+=== In ecology ===
+Percolation theory has been applied to studies of how environment fragmentation impacts animal habitats<ref>{{Cite journal|last1=Boswell|first1=G. P.|last2=Britton|first2=N. F.|last3=Franks|first3=N. R.|date=1998-10-22|title=Habitat fragmentation, percolation theory and the conservation of a keystone species|journal=Proceedings of the Royal Society of London B: Biological Sciences|language=en|volume=265|issue=1409|pages=1921–1925|doi=10.1098/rspb.1998.0521|issn=0962-8452|pmc=1689475}}</ref> and models of how the plague bacterium ''[[Yersinia pestis]]'' spreads.<ref>{{Cite journal|last1=Davis|first1=S.|last2=Trapman|first2=P.|last3=Leirs|first3=H.|last4=Begon|first4=M.|last5=Heesterbeek|first5=J. a. P.|date=2008-07-31|title=The abundance threshold for plague as a critical percolation phenomenon|journal=Nature|volume=454|issue=7204|pages=634–637|doi=10.1038/nature07053|issn=1476-4687|pmid=18668107|bibcode=2008Natur.454..634D|hdl=1874/29683|s2cid=4425203|hdl-access=free}}</ref>
+
+==See also==
+{{Div col}}
+* {{annotated link|Continuum percolation theory}}
+* {{annotated link|Critical exponent}}
+* {{annotated link|Directed percolation}}
+* {{annotated link|Erdős–Rényi model}}
+* {{annotated link|Fractal}}
+* {{annotated link|Giant component}}
+* {{annotated link|Graph theory}}
+* {{annotated link|Interdependent networks}}
+* {{annotated link|Invasion percolation}}
+* {{annotated link|Kahn–Kalai conjecture}}
+* {{annotated link|Network theory}}
+* {{annotated link|Network science}}
+* {{annotated link|Percolation threshold}}
+* {{annotated link|Percolation critical exponents}}
+* {{annotated link|Scale-free network}}
+* {{annotated link|Shortest path problem}}
+{{Div col end}}
+
+==References==
+{{Reflist|30em}}
+*{{Citation |last1=Aizenman |first1=Michael |author-link1=Michael Aizenman |last2=Barsky |first2=David |year=1987 |title=Sharpness of the phase transition in percolation models |journal=Communications in Mathematical Physics |volume=108 |issue=3 |pages=489–526 |doi=10.1007/BF01212322|bibcode = 1987CMaPh.108..489A |s2cid=35592821|url=http://projecteuclid.org/euclid.cmp/1104116538 }}
+*{{Citation |last1=Menshikov |first1=Mikhail |author-link1=Mikhail Vasiliyevich Menshikov |title=Coincidence of critical points in percolation problems |journal=Soviet Mathematics - Doklady |volume=33 |year=1986 |pages=856–859}}
+
+===Further reading===
+{{refbegin}}
+*{{cite web |last1=Austin |first1=David |title=Percolation: Slipping through the Cracks |publisher=American Mathematical Society |date=July 2008 |url=https://www.ams.org/featurecolumn/archive/percolation.html}}
+*{{cite book |url=http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521872324 |title=Percolation |first1=Béla |last1=Bollobás |author-link1=Béla Bollobás |first2=Oliver |last2=Riordan |publisher=Cambridge University Press |year= 2006 |isbn=978-0521872324}}
+*{{cite journal |last1=Kesten |first1=Harry |title=What Is ... Percolation? |journal=Notices of the American Mathematical Society |volume=53 |issue=5 |pages=572–573 |date=May 2006 |url=https://www.ams.org/notices/200605/what-is-kesten.pdf |issn=1088-9477}}
+{{refend}}
+
+==External links==
+*[http://danlarremore.com/PercoVIS.html PercoVIS: a {{nowrap|Mac OS X}} program to visualize percolation on networks in real time]
+*[http://ibiblio.org/e-notes/Perc/contents.htm Interactive Percolation]
+*[http://nanohub.org/resources/5660 Nanohub online course on ''Percolation Theory'']
+
+{{Stochastic processes}}
+
+[[Category:Percolation theory| ]]
+[[Category:Technical mathematics]][[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Oldest pages before the refresh]]
+[[Category:Pages]]
+[[Category:Git synced pages]]

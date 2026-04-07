@@ -1,0 +1,153 @@
+[[Category:Discrete Mathematics]]
+[[sn:Chapter 5.1 relations]][[Category:Pages that existed before the Great November Outage]]
+[[sn:Chapter 5.1 relations]][[sn:Chapter 5.1 relations]]Define relations as sets of ordered pairs. This makes functions
+
+
+Use letter rho ρ
+
+ρ = { (1, 2),(2,4),(3,7),(2,2)}
+
+
+A relation is a subset of the [[cartesian product]] of two sets[[File:Cartesian_Product_qtl1.svg|thumb|Cartesian products]]x^2 + y^2 = 8
+
+For the set of numbers{ -4 ... + 4} on each
+{| class="wikitable"
+|+
+!
+!-4
+!-3
+!-2
+!-1
+!0
+!1
+!2
+!3
+!4
+|-
+| -4
+!-4
+!-3
+|
+|
+|
+|
+|
+|
+|
+|-
+| -3
+!-4
+!-3
+|
+|
+|
+|
+|
+|
+|
+|-
+| -2
+!-4
+!-3
+|'''(-2, -2)'''
+|
+|
+|
+|'''(-2, 2)'''
+|
+|
+|-
+| -1
+!-4
+!-3
+|
+|
+|
+|
+|
+|
+|
+|-
+|0
+!-4
+!-3
+|
+|
+|(0, 0)
+|
+|
+|
+|
+|-
+|1
+!-4
+!-3
+|
+|
+|
+|
+|
+|
+|
+|-
+|2
+!-4
+!-3
+|'''(2, -2)'''
+|
+|
+|
+|'''(2, 2)'''
+|
+|
+|-
+|3
+!-4
+!-3
+|
+|
+|
+|
+|
+|
+|
+|-
+|4
+!-4
+!-3
+|
+|
+|
+|
+|
+|
+|
+|}
+For all natural numbers or whatever there's an infinite number of pairs in the cartesian products
+
+== Interesting relations ==
+[[File:Properies of relations.png|thumb|Relation properties]]
+
+# [[Reflexive relation]]
+# [[Symmetric]]
+# [[Transitive]]
+# [[Antisymmetric]]
+Adding elements of the cartesian product allows the achivement of all of these properties except antisymmettry. This means that the full cartesian product as 123 but not 4
+
+== Relations examples ==
+| is not symmettric: 1 | 2 but not 2 | 1
+
+| is transitive: if a | b and b | c then a | c
+
+| is antisymmetric: suppose x | y and y | x, 
+
+* x and y are real numbers
+
+== Closure of a relation ==
+{{Main|Closure}}
+Closure is another relation
+
+== Poset ==
+{{Main|Poset}}
+[[Category:Pages]]
+[[Category:Git synced pages]]

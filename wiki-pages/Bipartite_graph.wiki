@@ -1,0 +1,356 @@
+{{Short description|Graph divided into two independent sets}}
+{{multiple image
+ | align = right | perrow = 1  | total_width = 230px
+ | image1 = Simple bipartite graph; two layers.svg
+ | image2 = Simple bipartite graph; no crossings.svg
+ | footer = Example of a bipartite graph without cycles
+}}
+[[File:Biclique K 3 5 bicolor.svg|thumbnail|A [[complete bipartite graph]] with ''m'' = 5 and ''n'' = 3]]
+[[File:Heawood graph bipartite (bicolor).svg|thumb|The [[Heawood graph]] is bipartite.]]
+In the [[mathematics|mathematical]] field of [[graph theory]], a '''bipartite graph''' (or '''bigraph''') is a [[Graph (discrete mathematics)|graph]] whose [[vertex (graph theory)|vertices]] can be divided into two [[disjoint sets|disjoint]] and [[Independent set (graph theory)|independent sets]] <math>U</math> and <math>V</math>, that is every [[edge (graph theory)|edge]] connects a [[Vertex (graph theory)|vertex]] in <math>U</math> to one in <math>V</math>. Vertex sets <math>U</math> and <math>V</math> are usually called the ''parts'' of the graph. Equivalently, a bipartite graph is a graph that does not contain any odd-length [[cycle (graph theory)|cycles]].<ref name=diestel2005graph>{{citation|last=Diestel|first=Reinard|title=Graph Theory|series=[[Graduate Texts in Mathematics]]|year=2005|publisher=Springer|isbn=978-3-642-14278-9|url=http://diestel-graph-theory.com/}}</ref><ref>{{citation
+ | last1 = Asratian
+ | first1 = Armen S.
+ | last2 = Denley
+ | first2 = Tristan M. J.
+ | last3 = Häggkvist
+ | first3 = Roland
+ | isbn = 9780521593458
+ | publisher = Cambridge University Press
+ | series = Cambridge Tracts in Mathematics
+ | title = Bipartite Graphs and their Applications
+ | volume = 131
+ | year = 1998
+ | url-access = registration
+ | url = https://archive.org/details/bipartitegraphst0000asra
+ }}.</ref>
+
+The two sets <math>U</math> and <math>V</math> may be thought of as a [[graph coloring|coloring]] of the graph with two colors: if one colors all nodes in <math>U</math> blue, and all nodes in <math>V</math> green, each edge has endpoints of differing colors, as is required in the graph coloring problem.<ref name="adh98-7"/><ref name="s12">{{citation
+ | last = Scheinerman | first = Edward R. | author-link = Ed Scheinerman
+ | edition = 3rd
+ | isbn = 9780840049421
+ | page = 363
+ | publisher = Cengage Learning
+ | title = Mathematics: A Discrete Introduction
+ | url = https://books.google.com/books?id=DZBHGD2sEYwC&pg=PA363
+ | year = 2012}}.</ref> In contrast, such a coloring is impossible in the case of a non-bipartite graph, such as a [[Gallery of named graphs|triangle]]: after one node is colored blue and another green, the third vertex of the triangle is connected to vertices of both colors, preventing it from being assigned either color.
+
+One often writes <math>G=(U,V,E)</math> to denote a bipartite graph whose partition has the parts <math>U</math> and <math>V</math>, with <math>E</math> denoting the edges of the graph. If a bipartite graph is not [[connected graph|connected]], it may have more than one bipartition;<ref>{{citation
+ | last1 = Chartrand | first1 = Gary | author1-link = Gary Chartrand
+ | last2 = Zhang | first2 = Ping | author2-link = Ping Zhang (graph theorist)
+ | isbn = 9781584888000
+ | page = 223
+ | publisher = CRC Press
+ | series = Discrete Mathematics And Its Applications
+ | title = Chromatic Graph Theory
+ | url = https://books.google.com/books?id=_l4CJq46MXwC&pg=PA223
+ | volume = 53
+ | year = 2008}}.</ref> in this case, the <math>(U,V,E)</math> notation is helpful in specifying one particular bipartition that may be of importance in an application.  If <math>|U|=|V|</math>, that is, if the two subsets have equal [[cardinality]], then <math>G</math> is called a ''balanced'' bipartite graph.<ref name="adh98-7">{{harvtxt|Asratian|Denley|Häggkvist|1998}}, p. 7.</ref> If all vertices on the same side of the bipartition have the same [[Degree (graph theory)|degree]], then <math>G</math> is called [[biregular graph|biregular]].
+
+==Examples==
+
+When modelling [[heterogeneous relation|relations]] between two different classes of objects, bipartite graphs very often arise naturally. For instance, a graph of football players and clubs, with an edge between a player and a club if the player has played for that club, is a natural example of an ''affiliation network'', a type of bipartite graph used in [[social network analysis]].<ref>{{citation
+ | last1 = Wasserman | first1 = Stanley
+ | author-link1= Stanley Wasserman
+ | last2 = Faust | first2 = Katherine
+ | isbn = 9780521387071
+ | pages = 299–302
+ | publisher = Cambridge University Press
+ | series = Structural Analysis in the Social Sciences
+ | title = Social Network Analysis: Methods and Applications
+ | url = https://books.google.com/books?id=CAm2DpIqRUIC&pg=PA299
+ | volume = 8
+ | year = 1994}}.</ref>
+
+Another example where bipartite graphs appear naturally is in the ([[NP-complete]]) railway optimization problem, in which the input is a schedule of trains and their stops, and the goal is to find a set of train stations as small as possible such that every train visits at least one of the chosen stations. This problem can be modeled as a [[dominating set]] problem in a bipartite graph that has a vertex for each train and each station and an edge for each pair of a station and a train that stops at that station.<ref name=niedermeier2006invitiation>{{citation|last=Niedermeier|first=Rolf|author-link=Rolf Niedermeier|title=Invitation to Fixed Parameter Algorithms|series=Oxford Lecture Series in Mathematics and Its Applications|year=2006|publisher=Oxford University Press|isbn=978-0-19-856607-6|pages=20–21}}</ref>
+
+A third example is in the academic field of numismatics. Ancient coins are made using two positive impressions of the design (the obverse and reverse). The charts numismatists produce to represent the production of coins are bipartite graphs.<ref name=bracey2012>{{citation|last=Bracey|first=Robert|editor1-first=David M.|editor1-last=Jacobson|editor2-first=Nikos|editor2-last=Kokkinos|chapter=On the graphical interpretation of Herod's year 3 coins|title=Judaea and Rome in Coins 65 BCE – 135 CE: Papers Presented at the International Conference hosted by Spink, 13th – 14th September 2010|year=2012|publisher=[[Spink & Son]]|pages=65–84}}</ref>
+
+More abstract examples include the following:
+* Every [[tree (graph theory)|tree]] is bipartite.<ref name="s12"/>
+* [[Cycle graph]]s with an even number of vertices are bipartite.<ref name="s12"/>
+* Every [[planar graph]] whose [[Glossary of graph theory#Genus|faces]] all have even length is bipartite.<ref>{{citation|first=Alexander|last=Soifer|author-link=Alexander Soifer|year=2008|title=The Mathematical Coloring Book|title-link= The Mathematical Coloring Book |publisher=Springer-Verlag|isbn=978-0-387-74640-1|pages=136–137}}. This result has sometimes been called the "two color theorem"; Soifer credits it to a famous 1879 paper of [[Alfred Kempe]] containing a false proof of the [[four color theorem]].</ref> Special cases of this are [[grid graph]]s and [[squaregraph]]s, in which every inner face consists of 4 edges and every inner vertex has four or more neighbors.<ref>{{citation|title=Combinatorics and geometry of finite and infinite squaregraphs|first1=H.-J.|last1=Bandelt|first2=V.|last2=Chepoi|first3=D.|last3=Eppstein|author3-link=David Eppstein|arxiv=0905.4537|journal=[[SIAM Journal on Discrete Mathematics]]|volume=24|issue=4|pages=1399–1440|year=2010|doi=10.1137/090760301|s2cid=10788524}}.</ref>
+* The [[complete bipartite graph]] on ''m'' and ''n'' vertices, denoted by ''K<sub>n,m</sub>'' is the bipartite graph <math>G = (U, V, E)</math>, where ''U'' and ''V'' are disjoint sets of size ''m'' and ''n'', respectively, and ''E'' connects every vertex in ''U'' with all vertices in ''V''.  It follows that ''K<sub>m,n</sub>'' has ''mn'' edges.<ref>{{harvtxt|Asratian|Denley|Häggkvist|1998}}, p. 11.</ref> Closely related to the complete bipartite graphs are the [[crown graph]]s, formed from complete bipartite graphs by removing the edges of a [[perfect matching]].<ref>{{citation
+ | last1 = Archdeacon | first1 = D. | author1-link = Dan Archdeacon
+ | last2 = Debowsky | first2 = M.
+ | last3 = Dinitz | first3 = J. | author3-link = Jeff Dinitz
+ | last4 = Gavlas | first4 = H.
+ | doi = 10.1016/j.disc.2003.11.021
+ | issue = 1–3
+ | journal = [[Discrete Mathematics (journal)|Discrete Mathematics]]
+ | pages = 37–43
+ | title = Cycle systems in the complete bipartite graph minus a one-factor
+ | volume = 284
+ | year = 2004| doi-access = free
+ }}.</ref>
+* [[Hypercube graph]]s, [[partial cube]]s, and [[median graph]]s are bipartite. In these graphs, the vertices may be labeled by [[bitvector]]s, in such a way that two vertices are adjacent if and only if the corresponding bitvectors differ in a single position. A bipartition may be formed by separating the vertices whose bitvectors have an even number of ones from the vertices with an odd number of ones. Trees and squaregraphs form examples of median graphs, and every median graph is a partial cube.<ref>{{citation|first=Sergei|last=Ovchinnikov|title=Graphs and Cubes|series=Universitext|publisher=Springer|year=2011}}. See especially Chapter 5, "Partial Cubes", pp. 127–181.</ref>
+[[Category:Discrete Mathematics]]
+[[sn:Bipartite graph]]==Properties==
+
+===Characterization===
+Bipartite graphs may be characterized in several different ways:
+* A graph is bipartite [[if and only if]] it does not contain an [[Cycle (graph theory)|odd cycle]].<ref>{{harvtxt|Asratian|Denley|Häggkvist|1998}}, Theorem 2.1.3, p. 8. Asratian et al. attribute this characterization to a 1916 paper by [[Dénes Kőnig]]. For infinite graphs, this result requires the [[axiom of choice]].</ref>
+* A graph is bipartite if and only if it is 2-colorable, (i.e. its [[chromatic number]] is less than or equal to 2).<ref name="adh98-7"/>
+* A graph is bipartite if and only if every edge belongs to an odd number of [[Cut (graph theory)|bonds]], minimal subsets of edges whose removal increases the number of components of the graph.<ref>{{citation
+ | last = Woodall | first = D. R.
+ | doi = 10.1016/0012-365X(90)90380-Z
+ | issue = 2
+ | journal = [[Discrete Mathematics (journal)|Discrete Mathematics]]
+ | mr = 1071664
+ | pages = 217–220
+ | title = A proof of McKee's Eulerian-bipartite characterization
+ | volume = 84
+ | year = 1990}}</ref> 
+* A graph is bipartite if and only if the [[Spectral graph theory|spectrum]] of the graph is symmetric.<ref>{{citation
+ | last = Biggs | first = Norman
+ | edition = 2nd
+ | isbn = 9780521458979
+ | page = 53
+ | publisher = Cambridge University Press
+ | series = Cambridge Mathematical Library
+ | title = Algebraic Graph Theory
+ | url = https://books.google.com/books?id=6TasRmIFOxQC&pg=PA53
+ | year = 1994}}.</ref>
+
+===Kőnig's theorem and perfect graphs===
+In bipartite graphs, the size of [[minimum vertex cover]] is equal to the size of the [[maximum matching]]; this is [[Kőnig's theorem (graph theory)|Kőnig's theorem]].<ref>{{citation
+  | author = Kőnig, Dénes
+  | author-link = Dénes Kőnig
+  | title = Gráfok és mátrixok
+  | journal = Matematikai és Fizikai Lapok
+  | volume = 38
+  | year = 1931
+  | pages = 116–119}}.</ref><ref>{{citation
+ | last1 = Gross | first1 = Jonathan L.
+ | last2 = Yellen | first2 = Jay
+ | edition = 2nd
+ | isbn = 9781584885054
+ | page = 568
+ | publisher = CRC Press
+ | series = Discrete Mathematics And Its Applications
+ | title = Graph Theory and Its Applications
+ | url = https://books.google.com/books?id=-7Q_POGh-2cC&pg=PA568
+ | year = 2005}}.</ref> An alternative and equivalent form of this theorem is that the size of the [[maximum independent set]] plus the size of the maximum matching is equal to the number of vertices. In any graph without [[isolated vertex|isolated vertices]] the size of the [[minimum edge cover]] plus the size of a maximum matching equals the number of vertices.<ref>{{citation
+ | last1 = Chartrand | first1 = Gary | author1-link = Gary Chartrand
+ | last2 = Zhang | first2 = Ping | author2-link = Ping Zhang (graph theorist)
+ | isbn = 9780486483689
+ | pages = 189–190
+ | publisher = Courier Dover Publications
+ | title = A First Course in Graph Theory
+ | url = https://books.google.com/books?id=ocIr0RHyI8oC&pg=PA189
+ | year = 2012}}.</ref> Combining this equality with Kőnig's theorem leads to the facts that, in bipartite graphs, the size of the minimum edge cover is equal to the size of the maximum independent set, and the size of the minimum edge cover plus the size of the minimum vertex cover is equal to the number of vertices.
+
+Another class of related results concerns [[perfect graph]]s: every bipartite graph, the [[complement (graph theory)|complement]] of every bipartite graph, the [[line graph]] of every bipartite graph, and the complement of the line graph of every bipartite graph, are all perfect. Perfection of bipartite graphs is easy to see (their [[chromatic number]] is two and their [[maximum clique]] size is also two) but perfection of the [[complement (graph theory)|complements]] of bipartite graphs is less trivial, and is another restatement of Kőnig's theorem. This was one of the results that motivated the initial definition of perfect graphs.<ref>{{citation|title=Modern Graph Theory
+|volume= 184 |series= Graduate Texts in Mathematics
+|author=Béla Bollobás|publisher	=Springer|year= 1998
+|isbn= 9780387984889|url=https://books.google.com/books?id=SbZKSZ-1qrwC&pg=PA165|page=165|author-link= Béla Bollobás }}.</ref> Perfection of the complements of line graphs of perfect graphs is yet another restatement of Kőnig's theorem, and perfection of the line graphs themselves is a restatement of an earlier theorem of Kőnig, that every bipartite graph has an [[edge coloring]] using a number of colors equal to its maximum degree.
+
+According to the [[strong perfect graph theorem]], the perfect graphs have a [[forbidden graph characterization]] resembling that of bipartite graphs: a graph is bipartite if and only if it has no odd cycle as a subgraph, and a graph is perfect if and only if it has no odd cycle or its [[complement (graph theory)|complement]] as an [[induced subgraph]]. The bipartite graphs, line graphs of bipartite graphs, and their complements form four out of the five basic classes of perfect graphs used in the proof of the strong perfect graph theorem.<ref>{{citation
+ | last1 = Chudnovsky | first1 = Maria | author1-link = Maria Chudnovsky
+ | last2 = Robertson | first2 = Neil | author2-link = Neil Robertson (mathematician)
+ | last3 = Seymour | first3 = Paul | author3-link = Paul Seymour (mathematician)
+ | last4 = Thomas | first4 = Robin | author4-link = Robin Thomas (mathematician)
+ | doi = 10.4007/annals.2006.164.51
+ | issue = 1
+ | journal = [[Annals of Mathematics]]
+ | pages = 51–229
+ | title = The strong perfect graph theorem
+ | volume = 164
+ | year = 2006| citeseerx = 10.1.1.111.7265| arxiv = math/0212070| s2cid = 119151552 }}.</ref>
+
+===Degree===
+For a vertex, the number of adjacent vertices is called the [[degree (graph theory)|degree]] of the vertex and is denoted <math>\deg(v)</math>. The [[degree sum formula]] for a bipartite graph states that<ref>{{citation|title=Combinatorial Problems and Exercises|first=László|last=Lovász|author-link=László Lovász|edition=2nd|publisher=Elsevier|year=2014|isbn=9780080933092|page=281|url=https://books.google.com/books?id=wvHiBQAAQBAJ&pg=PA281}}</ref>
+:<math>\sum_{v \in V} \deg(v) = \sum_{u \in U} \deg(u) = |E|\, .</math>
+
+The degree sequence of a bipartite graph is the pair of lists each containing the degrees of the two parts <math>U</math> and <math>V</math>. For example, the complete bipartite graph ''K''<sub>3,5</sub> has degree sequence <math>(5,5,5),(3,3,3,3,3)</math>. Isomorphic bipartite graphs have the same degree sequence. However, the degree sequence does not, in general, uniquely identify a bipartite graph; in some cases, non-isomorphic bipartite graphs may have the same degree sequence.
+
+The [[bipartite realization problem]] is the problem of finding a simple bipartite graph with the degree sequence being two given lists of natural numbers. (Trailing zeros may be ignored since they are trivially realized by adding an appropriate number of isolated vertices to the digraph.)
+
+===Relation to hypergraphs and directed graphs===
+The [[Adjacency matrix of a bipartite graph|biadjacency matrix]] of a bipartite graph <math>(U,V,E)</math> is a [[(0,1) matrix]] of size <math>|U|\times|V|</math> that has a one for each pair of adjacent vertices and a zero for nonadjacent vertices.<ref>{{harvtxt|Asratian|Denley|Häggkvist|1998}}, p. 17.</ref> Biadjacency matrices may be used to describe equivalences between bipartite graphs, hypergraphs, and directed graphs.
+
+A [[hypergraph]] is a combinatorial structure that, like an undirected graph, has vertices and edges, but in which the edges may be arbitrary sets of vertices rather than having to have exactly two endpoints. A bipartite graph <math>(U,V,E)</math> may be used to model a hypergraph in which {{mvar|U}} is the set of vertices of the hypergraph, {{mvar|V}} is the set of hyperedges, and {{mvar|E}} contains an edge from a hypergraph vertex {{mvar|v}} to a hypergraph edge {{mvar|e}} exactly when {{mvar|v}} is one of the endpoints of {{mvar|e}}. Under this correspondence, the biadjacency matrices of bipartite graphs are exactly the [[incidence matrix|incidence matrices]] of the corresponding hypergraphs. As a special case of this correspondence between bipartite graphs and hypergraphs, any [[multigraph]] (a graph in which there may be two or more edges between the same two vertices) may be interpreted as a hypergraph in which some hyperedges have equal sets of endpoints, and represented by a bipartite graph that does not have multiple adjacencies and in which the vertices on one side of the bipartition all have [[degree (graph theory)|degree]] two.<ref>{{SpringerEOM|title=Hypergraph|author=A. A. Sapozhenko}}</ref>
+
+A similar reinterpretation of adjacency matrices may be used to show a one-to-one correspondence between [[directed graph]]s (on a given number of labeled vertices, allowing self-loops) and balanced bipartite graphs, with the same number of vertices on both sides of the bipartition. For, the adjacency matrix of a directed graph with {{mvar|n}} vertices can be any [[(0,1) matrix]] of size <math>n\times n</math>, which can then be reinterpreted as the adjacency matrix of a bipartite graph with {{mvar|n}} vertices on each side of its bipartition.<ref>{{citation
+ | last1 = Brualdi | first1 = Richard A.
+ | last2 = Harary | first2 = Frank | author2-link = Frank Harary
+ | last3 = Miller | first3 = Zevi
+ | doi = 10.1002/jgt.3190040107
+ | mr = 558453
+ | issue = 1
+ | journal = [[Journal of Graph Theory]]
+ | pages = 51–73
+ | title = Bigraphs versus digraphs via matrices
+ | volume = 4
+ | year = 1980}}. Brualdi et al. credit the idea for this equivalence to {{citation
+ | doi = 10.4153/CJM-1958-052-0
+ | last1 = Dulmage | first1 = A. L.
+ | last2 = Mendelsohn | first2 = N. S. | author2-link = Nathan Mendelsohn
+ | mr = 0097069
+ | journal = Canadian Journal of Mathematics
+ | pages = 517–534
+ | title = Coverings of bipartite graphs
+ | volume = 10
+ | year = 1958| s2cid = 123363425 }}.</ref> In this construction, the bipartite graph is the [[bipartite double cover]] of the directed graph.
+
+==Algorithms==
+
+===Testing bipartiteness===
+It is possible to test whether a graph is bipartite, and to return either a two-coloring (if it is bipartite) or an odd cycle (if it is not) in [[linear time]], using [[depth-first search]]. The main idea is to assign to each vertex the color that differs from the color of its parent in the depth-first search forest, assigning colors in a [[preorder traversal]] of the depth-first-search forest. This will necessarily provide a two-coloring of the [[spanning forest]] consisting of the edges connecting vertices to their parents, but it may not properly color some of the non-forest edges. In a depth-first search forest, one of the two endpoints of every non-forest edge is an ancestor of the other endpoint, and when the depth first search discovers an edge of this type it should check that these two vertices have different colors. If they do not, then the path in the forest from ancestor to descendant, together with the miscolored edge, form an odd cycle, which is returned from the algorithm together with the result that the graph is not bipartite. However, if the algorithm terminates without detecting an odd cycle of this type, then every edge must be properly colored, and the algorithm returns the coloring together with the result that the graph is bipartite.<ref>{{citation
+ | last = Sedgewick | first = Robert | author-link = Robert Sedgewick (computer scientist)
+ | edition = 3rd
+ | pages = 109–111
+ | publisher = Addison Wesley
+ | title = Algorithms in Java, Part 5: Graph Algorithms
+ | year = 2004}}.</ref>
+
+Alternatively, a similar procedure may be used with [[breadth-first search]] in place of depth-first search. Again, each node is given the opposite color to its parent in the search forest, in breadth-first order. If, when a vertex is colored, there exists an edge connecting it to a previously-colored vertex with the same color, then this edge together with the paths in the breadth-first search forest connecting its two endpoints to their [[lowest common ancestor]] forms an odd cycle. If the algorithm terminates without finding an odd cycle in this way, then it must have found a proper coloring, and can safely conclude that the graph is bipartite.<ref>{{citation
+ | last1 = Kleinberg | first1 = Jon | author1-link = Jon Kleinberg
+ | last2 = Tardos | first2 = Éva | author2-link = Éva Tardos
+ | pages = 94–97
+ | publisher = Addison Wesley
+ | title = Algorithm Design
+ | year = 2006}}.</ref>
+
+For the [[intersection graph]]s of <math>n</math> [[line segment]]s or other simple shapes in the [[Euclidean plane]], it is possible to test whether the graph is bipartite and return either a two-coloring or an odd cycle in time <math>O(n\log n)</math>, even though the graph itself may have up to <math>O\left(n^2\right)</math> edges.<ref>
+{{citation
+ | last = Eppstein | first = David | author-link = David Eppstein
+ | arxiv = cs.CG/0307023
+ | doi = 10.1145/1497290.1497291
+ | issue = 2
+ | journal = ACM Transactions on Algorithms
+ | mr = 2561751
+ | page = Art. 15
+ | title = Testing bipartiteness of geometric intersection graphs
+ | volume = 5
+ | year = 2009
+ | s2cid = 60496
+}}.</ref>
+
+===Odd cycle transversal===
+{{main|Odd cycle transversal}}
+[[File:Odd Cycle Transversal of size 2.png|thumb|A graph with an odd cycle transversal of size 2: removing the two blue bottom vertices leaves a bipartite graph.]]
+[[Odd cycle transversal]] is an [[NP-complete]] [[algorithm]]ic problem that asks, given a graph ''G'' = (''V'',''E'') and a number ''k'', whether there exists a set of&nbsp;''k'' vertices whose removal from ''G'' would cause the resulting graph to be bipartite.<ref name=yannakakis1978node>{{citation
+ | last = Yannakakis | first = Mihalis | author-link = Mihalis Yannakakis
+ | contribution = Node-and edge-deletion NP-complete problems
+ | doi = 10.1145/800133.804355
+ | pages = 253–264
+ | title = Proceedings of the 10th ACM Symposium on Theory of Computing (STOC '78)
+ | year = 1978
+ | title-link = Symposium on Theory of Computing | s2cid = 363248
+}}</ref> The problem is [[Parameterized complexity|fixed-parameter tractable]], meaning that there is an algorithm whose running time can be bounded by a polynomial function of the size of the graph multiplied by a larger function of ''k''.<ref name=reed2004finding>{{citation
+ | last1 = Reed | first1 = Bruce | author1-link = Bruce Reed (mathematician)
+ | last2 = Smith | first2 = Kaleigh
+ | last3 = Vetta | first3 = Adrian
+ | doi = 10.1016/j.orl.2003.10.009
+ | issue = 4
+ | journal = Operations Research Letters
+ | mr = 2057781
+ | pages = 299–301
+ | title = Finding odd cycle transversals
+ | volume = 32
+ | year = 2004| citeseerx = 10.1.1.112.6357
+}}.</ref> The name ''odd cycle transversal'' comes from the fact that a graph is bipartite if and only if it has no odd [[Cycle (graph theory)|cycles]].  Hence, to delete vertices from a graph in order to obtain a bipartite graph, one needs to "hit all odd cycle", or find a so-called odd cycle [[Transversal (combinatorics)|transversal]] set.  In the illustration, every odd cycle in the graph contains the blue (the bottommost) vertices, so removing those vertices kills all odd cycles and leaves a bipartite graph.
+
+The ''edge bipartization'' problem is the algorithmic problem of deleting as few edges as possible to make a graph bipartite and is also an important problem in graph modification algorithmics. This problem is also [[fixed-parameter tractable]], and can be solved in time <math display="inline">O\left(2^k m^2\right)</math>,<ref name=guo2006compression>{{citation
+ | last1 = Guo | first1 = Jiong
+ | last2 = Gramm | first2 = Jens
+ | last3 = Hüffner | first3 = Falk
+ | last4 = Niedermeier | first4 = Rolf
+ | last5 = Wernicke | first5 = Sebastian
+ | doi = 10.1016/j.jcss.2006.02.001
+ | journal =  Journal of Computer and System Sciences
+ | volume = 72
+ | issue = 8
+ | pages = 1386–1396
+ | title = Compression-based fixed-parameter algorithms for feedback vertex set and edge bipartization
+ | year = 2006
+| doi-access = free
+ }}</ref> where ''k'' is the number of edges to delete and ''m'' is the number of edges in the input graph.
+
+===Matching===
+{{main|Matching (graph theory)}}
+A [[Matching (graph theory)|matching]] in a graph is a subset of its edges, no two of which share an endpoint. [[Polynomial time]] algorithms are known for many algorithmic problems on matchings, including [[maximum matching]] (finding a matching that uses as many edges as possible), [[maximum weight matching]], and [[stable marriage]].<ref>{{citation
+ | last1 = Ahuja | first1 = Ravindra K.
+ | last2 = Magnanti | first2 = Thomas L.
+ | last3 = Orlin | first3 = James B.
+ | contribution = 12. Assignments and Matchings
+ | pages = 461–509
+ | publisher = Prentice Hall
+ | title = Network Flows: Theory, Algorithms, and Applications
+ | year = 1993}}.</ref> In many cases, matching problems are simpler to solve on bipartite graphs than on non-bipartite graphs,<ref>{{harvtxt|Ahuja|Magnanti|Orlin|1993}}, p. 463: "Nonbipartite matching problems are more difficult to solve because they do not reduce to standard network flow problems."</ref> and many matching algorithms such as the [[Hopcroft–Karp algorithm]] for maximum cardinality matching<ref>{{citation|first1=John E.|last1=Hopcroft|author1-link=John Hopcroft|first2=Richard M.|last2=Karp|author2-link=Richard Karp|title=An ''n''<sup>5/2</sup> algorithm for maximum matchings in bipartite graphs|journal=SIAM Journal on Computing|volume=2|issue=4|pages=225–231|year=1973|doi=10.1137/0202019}}.</ref> work correctly only on bipartite inputs.
+
+As a simple example, suppose that a set <math>P</math> of people are all seeking jobs from among a set <math>J</math> of jobs, with not all people suitable for all jobs. This situation can be modeled as a bipartite graph <math>(P,J,E)</math> where an edge connects each job-seeker with each suitable job.<ref>{{harvtxt|Ahuja|Magnanti|Orlin|1993}}, Application 12.1 Bipartite Personnel Assignment, pp. 463–464.</ref> A [[perfect matching]] describes a way of simultaneously satisfying all job-seekers and filling all jobs; [[Hall's marriage theorem]] provides a characterization of the bipartite graphs which allow perfect matchings. The [[National Resident Matching Program]] applies graph matching methods to solve this problem for [[Medical education in the United States|U.S. medical student]] job-seekers and [[Residency (medicine)|hospital residency]] jobs.<ref>{{citation
+ |last         = Robinson
+ |first        = Sara
+ |date         = April 2003
+ |issue        = 3
+ |journal      = SIAM News
+ |page         = 36
+ |title        = Are Medical Students Meeting Their (Best Possible) Match?
+ |url          = http://www.siam.org/pdf/news/305.pdf
+ |access-date  = 2012-08-27
+ |archive-url  = https://web.archive.org/web/20161118115832/http://www.siam.org/pdf/news/305.pdf
+ |archive-date = 2016-11-18
+ |url-status     = dead
+}}.</ref>
+
+The [[Dulmage–Mendelsohn decomposition]] is a structural decomposition of bipartite graphs that is useful in finding maximum matchings.<ref>{{harvtxt|Dulmage|Mendelsohn|1958}}.</ref>
+
+==Additional applications==
+Bipartite graphs are extensively used in modern [[coding theory]], especially to decode [[codeword]]s received from the channel. [[Factor graph]]s and [[Tanner graph]]s are examples of this. A Tanner graph is a bipartite graph in which the vertices on one side of the bipartition represent digits of a codeword, and the vertices on the other side represent combinations of digits that are expected to sum to zero in a codeword without errors.<ref>{{citation
+ | last = Moon | first = Todd K.
+ | isbn = 9780471648000
+ | page = 638
+ | publisher = John Wiley & Sons
+ | title = Error Correction Coding: Mathematical Methods and Algorithms
+ | url = https://books.google.com/books?id=adxb8CRx5vQC&pg=PA638
+ | year = 2005}}.</ref> A factor graph is a closely related [[belief network]] used for probabilistic decoding of [[LDPC]] and [[turbo codes]].<ref>{{harvtxt|Moon|2005}}, p. 686.</ref>
+
+In computer science, a [[Petri net]] is a mathematical modeling tool used in analysis and simulations of concurrent systems. A system is modeled as a bipartite directed graph with two sets of nodes:  A set of "place" nodes that contain resources, and a set of "event" nodes which generate and/or consume resources.  There are additional constraints on the nodes and edges that constrain the behavior of the system.  Petri nets utilize the properties of bipartite directed graphs and other properties to allow mathematical proofs of the behavior of systems while also allowing easy implementation of simulations of the system.<ref>{{citation
+ | last1 = Cassandras | first1 = Christos G.
+ | last2 = Lafortune | first2 = Stephane
+ | edition = 2nd
+ | isbn = 9780387333328
+ | page = 224
+ | publisher = Springer
+ | title = Introduction to Discrete Event Systems
+ | url = https://books.google.com/books?id=AxguNHDtO7MC&pg=PA224
+ | year = 2007}}.</ref>
+
+In [[projective geometry]], [[Levi graph]]s are a form of bipartite graph used to model the incidences between points and lines in a [[configuration (geometry)|configuration]]. Corresponding to the geometric property of points and lines that every two lines meet in at most one point and every two points be connected with a single line, Levi graphs necessarily do not contain any cycles of length four, so their [[girth (graph theory)|girth]] must be six or more.<ref>{{citation
+ | last = Grünbaum | first = Branko | author-link = Branko Grünbaum
+ | isbn = 9780821843086
+ | page = 28
+ | publisher = [[American Mathematical Society]]
+ | series = [[Graduate Studies in Mathematics]]
+ | title = Configurations of Points and Lines
+ | url = https://books.google.com/books?id=mRw571GNa5UC&pg=PA28
+ | volume = 103
+ | year = 2009}}.</ref>
+
+==See also==
+*[[Bipartite dimension]], the minimum number of complete bipartite graphs whose union is the given graph
+*[[Bipartite double cover]], a way of transforming any graph into a bipartite graph by doubling its vertices
+*[[Bipartite hypergraph]], a generalization of bipartiteness to [[hypergraph]]s.
+*[[Bipartite matroid]], a class of matroids that includes the [[graphic matroid]]s of bipartite graphs
+*[[Bipartite network projection]], a weighting technique for compressing information about bipartite networks
+*[[Convex bipartite graph]], a bipartite graph whose vertices can be ordered so that the vertex neighborhoods are contiguous
+*[[Multipartite graph]], a generalization of bipartite graphs to more than two subsets of vertices
+*[[Parity graph]], a generalization of bipartite graphs in which every two [[induced path]]s between the same two points have the same parity
+*[[Quasi-bipartite graph]], a type of Steiner tree problem instance in which the terminals form an independent set, allowing approximation algorithms that generalize those for bipartite graphs
+*[[Split graph]], a graph in which the vertices can be partitioned into two subsets, one of which is independent and the other of which is a clique
+*[[Zarankiewicz problem]] on the maximum number of edges in a bipartite graph with forbidden subgraphs
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+* {{springer|title=Graph, bipartite|id=p/g044880}}
+* [http://www.graphclasses.org/ Information System on Graph Classes and their Inclusions]: [http://www.graphclasses.org/classes/gc_69.html bipartite graph]
+* {{mathworld | title = Bipartite Graph | urlname = BipartiteGraph | mode=cs2}}
+* [https://academic.oup.com/gigascience/article/7/4/giy014/4875933/ Bipartite graphs in systems biology and medicine]
+
+[[Category:Graph families]]
+[[Category:Bipartite graphs| ]]
+[[Category:Pages]]
+[[Category:Git synced pages]]

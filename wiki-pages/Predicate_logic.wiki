@@ -1,0 +1,32 @@
+[[Category:Discrete Mathematics]]
+[[sn:Predicate logic]]Predicate logic is the logic we are currently using
+
+==Logical symbols==
+{{Main|List of logical symbols}}Logical symbols vary by author, but usually include the following:<ref>{{Cite web|title=Predicate Logic {{!}} Brilliant Math & Science Wiki|url=https://brilliant.org/wiki/predicate-logic/|access-date=2020-08-20|website=brilliant.org|language=en-us}}</ref>
+*[[Quantifier (logic)|Quantifier]] symbols: [[Universal quantification|∀]] for universal quantification, and [[Existential quantification|∃]] for existential quantification
+*[[Logical connective]]s: [[∧]] for [[logical conjunction|conjunction]], [[∨]] for [[disjunction]], [[→]] for [[material conditional|implication]], [[↔]] for [[logical biconditional|biconditional]], [[¬]] for [[negation]].
+*Parentheses, brackets, and other punctuation symbols. The choice of such symbols varies depending on context.
+
+== Predicates example ==
+(∀x∃y∀z)P(x, y, z)
+
+For all people, there is a kind of food, such that they like all instances of that kind of food
+
+If you mess up the order of the existential quantifiers you can get a completely different sentence
+
+(∃y∀x∀z)P(x, y, z)
+
+There exists a kind of food, for which all people like all instances of that kind of food
+
+Totally different
+
+== 9-16 ==
+
+=== Non examples ===
+(∀x)[P(x) | P=Q(x)]  → [(∀x)P(x)] | [(∀x)P=Q(x)]
+
+All numbers are either even or odd → All numbers are odd, or all numbers are even\
+
+== References ==
+[[Category:Pages]]
+[[Category:Git synced pages]]
