@@ -1,0 +1,786 @@
+{{InfoboxBook
+|title=Calculus
+|image=[[File:Apostol Calculus V1 Cover.jpg]]
+|author=[https://en.wikipedia.org/wiki/Tom_M._Apostol Tom Apostol]
+|language=English
+|series=
+|genre=
+|publisher=Wiley
+|publicationdate=16 January 1991
+|pages=666
+|isbn10=0471000051
+|isbn13=978-0471000051
+}}
+The textbook '''''Calculus''''' by [https://en.wikipedia.org/wiki/Tom_M._Apostol Tom Apostol] introduces calculus. It provides a rigorous treatment of theory and application, in addition to the historical context of its topics. It should be noted that there is a second volume, not listed here, which covers multivariable topics and applications to subjects such as probability.
+
+== Table of Contents ==
+
+{| class="wikitable"
+|-
+! Chapter/Section # !! Title !! Page #
+|- 
+! colspan="3" | I. INTRODUCTION
+|-
+! colspan="3" | Part 1: Historical Introduction
+|-
+| I 1.1 || The two basic concepts of calculus || 1
+|-
+| I 1.2 || Historical background || 2
+|-
+| I 1.3 || The method of exhaustion for the area of a parabolic segment || 3
+|-
+| <nowiki>*</nowiki>I 1.4 || Exercises || 8
+|-
+| I 1.5 || A critical analysis of the Archimedes' method || 8
+|-
+| I 1.6 || The approach to calculus to be used in this book || 10
+|- 
+! colspan="3" | Part 2: Some Basic Concepts of the Theory of Sets
+|-
+| I 2.1 || Introduction to set theory || 11
+|-
+| I 2.2 || Notations for designating sets || 12
+|-
+| I 2.3 || Subsets || 12
+|-
+| I 2.4 || Unions, intersections, complements || 13
+|-
+| I 2.5 || Exercises || 15
+|-
+! colspan="3" | Part 3: A set of Axioms for the Real-Number System
+|-
+| I 3.1 || Introduction || 17
+|-
+| I 3.2 || The field axioms || 17
+|-
+| <nowiki>*</nowiki>I 3.3 || Exercises || 19
+|-
+| I 3.4 || The order axioms || 19
+|-
+| <nowiki>*</nowiki>I 3.5 || Exercises || 21
+|-
+| I 3.6 || Integers and rational numbers || 21
+|-
+| I 3.7 || Geometric interpretation of real numbers as points on a line || 22
+|-
+| I 3.8 || Upper bound of a set, maximum element, least upper bound (supremum) || 23
+|-
+| I 3.9 || The least-Upper-bound axiom (completeness axiom) || 25
+|-
+| I 3.10 || The Archimedean property of the real-number system || 25
+|-
+| I 3.11 || Fundamental properties of the supremum and infimum || 26
+|-
+| <nowiki>*</nowiki>I 3.12 || Exercises || 28
+|-
+| <nowiki>*</nowiki>I 3.13 || Existence of square roots of nonnegative real numbers || 29
+|-
+| <nowiki>*</nowiki>I 3.14 || Roots of higher order. Rational powers || 30
+|-
+| <nowiki>*</nowiki>I 3.15 || Representation of real numbers by decimals || 30
+|-
+! colspan="3" | Part 4: Mathematical Induction, Summation Notation, and Related Topics
+|-
+| I 4.1 || An example of a proof by mathematical induction || 32
+|-
+| I 4.2 || The principle of mathematical induction || 34
+|-
+| <nowiki>*</nowiki>I 4.3 || The well-ordering principle || 34
+|-
+| I 4.4 || Exercises || 35
+|-
+| <nowiki>*</nowiki>I 4.5 || Proof of the well-ordering principle || 37
+|-
+| I 4.6 || The summation notation || 37
+|-
+| I 4.7 || Exercises || 39
+|-
+| I 4.8 || Absolute values and the triangle inequality || 41
+|-
+| I 4.9 || Exercises || 43
+|-
+| <nowiki>*</nowiki>I 4.10 || Miscellaneous exercises involving induction || 44
+|-
+! colspan="3" | 1. THE CONCEPTS OF INTEGRAL CALCULUS
+|-
+| 1.1 || The basic ideas of Cartesian geometry || 48
+|-
+| 1.2 || Functions. Informal description and examples || 50
+|-
+| <nowiki>*</nowiki>1.3 || Functions. Formal definition as a set of ordered pairs || 53
+|-
+| 1.4 || More examples of real functions || 54
+|-
+| 1.5 || Exercises || 56
+|-
+| 1.6 || The concept of area as a set function || 57
+|-
+| 1.7 || Exercises || 60
+|-
+| 1.8 || Intervals and ordinate sets || 60
+|-
+| 1.9 || Partitions and step functions || 61
+|-
+| 1.10 || Sum and product of step functions || 63
+|-
+| 1.11 || Exercises || 63
+|-
+| 1.12 || The definition of the integral for step functions || 64
+|-
+| 1.13 || Properties of the integral of a step function || 66
+|-
+| 1.14 || Other notations for integrals || 69
+|-
+| 1.15 || Exercises || 70
+|-
+| 1.16 || The integral of more general functions || 72
+|-
+| 1.17 || Upper and lower integrals || 74
+|-
+| 1.18 || The area of an ordinate set expressed as an integral || 75
+|-
+| 1.19 || Informal remarks on the theory and technique of integration || 75
+|-
+| 1.20 || Monotonic and piecewise monotonic functions. Definitions and examples || 76
+|-
+| 1.21 || Integrability of bounded monotonic functions || 77
+|-
+| 1.22 || Calculation of the integral of a bounded monotonic function || 79
+|-
+| 1.23 || Calculation of the integral <math>\int_0^b x^p dx</math> when <math>p</math> is a positive integer || 79
+|-
+| 1.24 || The basic properties of the integral || 80
+|-
+| 1.25 || Integration of polynomials || 81
+|-
+| 1.26 || Exercises || 83
+|-
+| 1.27 || Proofs of the basic properties of the integral || 84
+|-
+! colspan="3" | 2. SOME APPLICATIONS OF INTEGRATION
+|-
+| 2.1 || Introduction || 88
+|-
+| 2.2 || The area of a region between two graphs expressed as an integral || 88
+|-
+| 2.3 || Worked examples || 89
+|-
+| 2.4 || Exercises || 94
+|-
+| 2.5 || The trigonometric functions || 94
+|-
+| 2.6 || Integration formulas for the sine and cosine || 94
+|-
+| 2.7 || A geometric description of the sine and cosine functions || 94
+|-
+| 2.8 || Exercises || 94
+|-
+| 2.9 || Polar coordinates || 94
+|-
+| 2.10 || The integral for area in polar coordinates || 94
+|-
+| 2.11 || Exercises || 94
+|-
+| 2.12 || Application of integration to the calculation of volume || 94
+|-
+| 2.13 || Exercises || 94
+|-
+| 2.14 || Application of integration to the calculation of work || 94
+|-
+| 2.15 || Exercises || 94
+|-
+| 2.16 || Average value of a function || 94
+|-
+| 2.17 || Exercises || 94
+|-
+| 2.18 || The integral as a function of the upper limit. Indefinite integrals || 94
+|-
+| 2.19 || Exercises || 94
+|-
+! colspan="3" | 3. CONTINUOUS FUNCTIONS
+|-
+| 3.1 || Informal description of continuity || 126
+|-
+| 3.2 || The definition of the limit of a function || 127
+|-
+| 3.3 || The definition of continuity of a function || 130
+|-
+| 3.4 || The basic limit theorems. More examples of continuous functions || 131
+|-
+| 3.5 || Proofs of the basic limit theorems || 135
+|-
+| 3.6 || Exercises || 138
+|-
+| 3.7 || Composite functions and continuity || 140
+|-
+| 3.8 || Exercises || 142
+|-
+| 3.9 || Bolzano's theorem for continuous functions || 142
+|-
+| 3.10 || The intermediate-value theorem for continuous functions || 144
+|-
+| 3.11 || Exercises || 145
+|-
+| 3.12 || The process of inversion || 146
+|-
+| 3.13 || Properties of functions preserved by inversion || 147
+|-
+| 3.14 || Inverses of piecewise monotonic functions || 148
+|-
+| 3.15 || Exercises || 149
+|-
+| 3.16 || The extreme-value theorem for continuous functions || 150
+|-
+| 3.17 || The small-span theorem for continuous functions (uniform continuity) || 152
+|-
+| 3.18 || The integrability theorem for continuous functions || 152
+|-
+| 3.19 || Mean-value theorems for integrals of continuous functions || 154
+|-
+| 3.20 || Exercises || 155
+|-
+! colspan="3" | 4. DIFFERENTIAL CALCULUS
+|-
+| 4.1 || Historical introduction || 156
+|-
+| 4.2 || A problem involving velocity || 157
+|-
+| 4.3 || The derivative of a function || 159
+|-
+| 4.4 || Examples of derivatives || 161
+|-
+| 4.5 || The algebra of derivatives || 164
+|-
+| 4.6 || Exercises || 167
+|-
+| 4.7 || Geometric interpretation of the derivative as a slope || 169
+|-
+| 4.8 || Other notations for derivatives || 171
+|-
+| 4.9 || Exercises || 173
+|-
+| 4.10 || The chain rule for differentiating composite functions || 174
+|-
+| 4.11 || Applications of the chain rule. Related rates and implicit differentiation || 176
+|-
+| 4.12 || Exercises || 179
+|-
+| 4.13 || Applications of the differentiation to extreme values of cuntions|| 181
+|-
+| 4.14 || The mean-value theorem for derivatives || 183
+|-
+| 4.15 || Exercises || 186
+|-
+| 4.16 || Applications of the mean-value theorem to geometric properties of functions || 187
+|-
+| 4.17 || Second-derivative test for extrema || 188
+|-
+| 4.18 || Curve sketching || 189
+|-
+| 4.19 || Exercises || 191
+|-
+| 4.20 || Worked examples of extremum problems || 191
+|-
+| 4.21 || Exercises || 194
+|-
+| <nowiki>*</nowiki>4.22 || Partial derivatives || 196
+|-
+| <nowiki>*</nowiki>4.23 || Exercises || 201
+|-
+! colspan="3" | 5. THE RELATION BETWEEN INTEGRATION AND DIFFERENTIATION
+|-
+| 5.1 || The derivative of an indefinite integral. The first fundamental theorem of calculus || 202
+|-
+| 5.2 || The zero-derivative theorem || 204
+|-
+| 5.3 || Primitive functions and the second fundamental theorem of calculus || 205
+|-
+| 5.4 || Properties of a function deduced from properties of its derivative || 207
+|-
+| 5.5 || Exercises || 208
+|-
+| 5.6 || The Leibniz notation for primitives || 210
+|-
+| 5.7 || Integration by substitution || 212
+|-
+| 5.8 || Exercises || 216
+|-
+| 5.9 || Integration by parts || 217
+|-
+| 5.10 || Exercises || 220
+|-
+| <nowiki>*</nowiki>5.11 || Miscellaneous review exercises || 222
+|-
+! colspan="3" | 6. THE LOGARITHM, THE EXPONENTIAL, AND THE INVERSE TRIGONOMETRIC FUNCTIONS
+|-
+| 6.1 || Introduction || 226
+|-
+| 6.2 || Motivation for the definition of the natural logarithm as an integral || 227
+|-
+| 6.3 || The definition of the logarithm. Basic properties || 229
+|-
+| 6.4 || The graph of the natural logarithm || 230
+|-
+| 6.5 || Consequences of the functional equation <math>L(ab) = L(a) + L(b)</math> || 230
+|-
+| 6.6 || Logarithms referred to any positive base <math>b \ne 1</math> || 232
+|-
+| 6.7 || Differentiation and integration formulas involving logarithms || 233
+|-
+| 6.8 || Logarithmic differentiation || 235
+|-
+| 6.9 || Exercises || 236
+|-
+| 6.10 || Polynomial approximations to the logarithm || 236
+|-
+| 6.11 || Exercises || 242
+|-
+| 6.12 || The exponential function || 242
+|-
+| 6.13 || Exponentials expressed as powers of e || 242
+|-
+| 6.14 || The definition of <math>e^x</math> for arbitrary real x || 244
+|-
+| 6.15 || The definition of <math>a^x</math> for <math>a > 0</math> and x real || 245
+|-
+| 6.16 || Differentiation and integration formulas involving exponentials || 245
+|-
+| 6.17 || Exercises || 248
+|-
+| 6.18 || The hyperbolic functions || 251
+|-
+| 6.19 || Exercises || 251
+|-
+| 6.20 || Derivatives of inverse functions || 252
+|-
+| 6.21 || Inverses of the trigonometric functions || 253
+|-
+| 6.22 || Exercises || 256
+|-
+| 6.23 || Integration by partial fractions || 258
+|-
+| 6.24 || Integrals which can be transformed into integrals of rational functions || 264
+|-
+| 6.25 || Exercises || 267
+|-
+| 6.26 || Miscellaneous review exercises || 268
+|-
+! colspan="3" | 7. POLYNOMIAL APPROXIMATIONS TO FUNCTIONS
+|-
+| 7.1 || Introduction || 272
+|-
+| 7.2 || The Taylor polynomials generated by a function || 273
+|-
+| 7.3 || Calculus of Taylor polynomials || 275
+|-
+| 7.4 || Exercises || 278
+|-
+| 7.5 || Taylor's formula with remainder || 278
+|-
+| 7.6 || Estimates for the error in Taylor's formula || 280
+|-
+| <nowiki>*</nowiki>7.7 || Other forms of the remainder in Taylor's formula || 283
+|-
+| 7.8 || Exercises || 284
+|-
+| 7.9 || Further remarks on the error in Taylor's formula. The o-notation || 286
+|-
+| 7.10 || Applications to indeterminate forms || 289
+|-
+| 7.11 || Exercises || 290
+|-
+| 7.12 || L'Hopital's rule for the indeterminate form 0/0 || 292
+|-
+| 7.13 || Exercises || 295
+|-
+| 7.14 || The symbols <math>+\inf</math> and <math>-\inf</math>. Extension of L'Hopital's rule || 296
+|-
+| 7.15 || Infinite limits || 298
+|-
+| 7.16 || The behavior of log<math>x</math> and <math>e^x</math> for large <math>x</math> || 300
+|-
+| 7.17 || Exercises || 303
+|-
+! colspan="3" | 8. INTRODUCTION TO DIFFERENTIAL EQUATIONS
+|-
+| 8.1 || Introduction || 305
+|-
+| 8.2 || Terminology and notation || 306
+|-
+| 8.3 || A first-order differential equation for the exponential function || 307
+|-
+| 8.4 || First-order linear differential equations || 308
+|-
+| 8.5 || Exercises || 311
+|-
+| 8.6 || Some physical problems leading to first-order linear differential equations || 313
+|-
+| 8.7 || Exercises || 319
+|-
+| 8.8 || Linear equations of second order with constant coefficients || 322
+|-
+| 8.9 || Existence of solutions of the equation <math>y^{''} + by = 0</math> || 323
+|-
+| 8.10 || Reduction of the general equation to the special case <math>y^{''} + by = 0</math> || 324
+|-
+| 8.11 || Uniqueness theorem for the equation <math>y^{''} + by = 0</math> || 324
+|-
+| 8.12 || Complete solution of the equation <math>y^{''} + by = 0</math> || 326
+|-
+| 8.13 || Complete solution of the equation <math>y^{''} + ay^{'} + by = 0</math> || 326
+|-
+| 8.14 || Exercises || 328
+|-
+| 8.15 || Nonhomogeneous linear equations of second order with constant coefficients || 329
+|-
+| 8.16 || Special methods for determining a particular solution of the nonhomogeneous equation <math>y^{''} + ay^{'} + by = R</math> || 332
+|-
+| 8.17 || Exercises || 333
+|-
+| 8.18 || Examples of physical problems leading to linear second-order equations with constant coefficients || 334
+|-
+| 8.19 || Exercises || 339
+|-
+| 8.20 || Remarks concerning nonlinear differential equations || 339
+|-
+| 8.21 || Integral curves and direction fields || 341
+|-
+| 8.22 || Exercises || 344
+|-
+| 8.23 || First-order separable equations || 345
+|-
+| 8.24 || Exercises || 347
+|-
+| 8.25 || Homogeneous first-order equations || 347
+|-
+| 8.26 || Exercises || 350
+|-
+| 8.27 || Some geometrical and physical problems leading to first-order equations || 351
+|-
+| 8.28 || Miscellaneous review exercises || 355
+|-
+! colspan="3" | 9. COMPLEX NUMBERS
+|-
+| 9.1 || Historical introduction || 358
+|-
+| 9.2 || Definitions and field properties || 358
+|-
+| 9.3 || The complex numbers as an extension of the real numbers || 360
+|-
+| 9.4 || The imaginary unit <math>i</math> || 361
+|-
+| 9.5 || Geometric interpretation. Modulus and argument || 362
+|-
+| 9.6 || Exercises || 365
+|-
+| 9.7 || Complex exponentials || 366
+|-
+| 9.8 || Complex-valued functions || 368
+|-
+| 9.9 || Examples of differentiation and integration formulas || 369
+|-
+| 9.10 || Exercises || 371
+|-
+! colspan="3" | 10. SEQUENCES, INFINITE SERIES, IMPROPER INTEGRALS
+|-
+| 10.1 || Zeno's paradox || 374
+|-
+| 10.2 || Sequences || 378
+|-
+| 10.3 || Monotonic sequences of real numbers || 381
+|-
+| 10.4 || Exercises || 382
+|-
+| 10.5 || Infinite series || 383
+|-
+| 10.6 || The linearity property of convergent series || 385
+|-
+| 10.7 || Telescoping series || 386
+|-
+| 10.8 || The geometric series || 388
+|-
+| 10.9 || Exercises || 391
+|-
+| <nowiki>*</nowiki>10.10 || Exercises on decimal expansions || 393
+|-
+| 10.11 || Tests for convergence || 394
+|-
+| 10.12 || Comparison tests for series of nonnegative terms || 394
+|-
+| 10.13 || The integral test || 397
+|-
+| 10.14 || Exercises || 398
+|-
+| 10.15 || The root test and the ratio test for series of nonnegative terms || 399
+|-
+| 10.16 || Exercises || 402
+|-
+| 10.17 || Alternating series || 403
+|-
+| 10.18 || Conditional and absolute convergence || 406
+|-
+| 10.19 || The convergence tests of Dirichlet and Abel || 407
+|-
+| 10.20 || Exercises || 409
+|-
+| <nowiki>*</nowiki>10.21 || Rearrangements of series || 411
+|-
+| 10.22 || Miscellaneous review exercises || 414
+|-
+| 10.23 || Improper integrals || 416
+|-
+| 10.24 || Exercises || 420
+|-
+! colspan="3" | 11. SEQUENCES AND SERIES OF FUNCTIONS
+|-
+| 11.1 || Pointwise convergence of sequences of functions || 422
+|-
+| 11.2 || Uniform convergence of sequences of functions || 423
+|-
+| 11.3 || Uniform convergence and continuity || 424
+|-
+| 11.4 || Uniform convergence and integration || 425
+|-
+| 11.5 || A sufficient condition for uniform convergence || 427
+|-
+| 11.6 || Power series. Circle of convergence || 428
+|-
+| 11.7 || Exercises || 430
+|-
+| 11.8 || Properties of functions represented by real power series || 431
+|-
+| 11.9 || The Taylor's series generated by a function || 434
+|-
+| 11.10 || A sufficient condition for convergence of a Taylor's series || 435
+|-
+| 11.11 || Power-series expansions for the exponential and trigonometric functions || 435
+|-
+| <nowiki>*</nowiki>11.12 || Bernstein's theorem || 437
+|-
+| 11.13 || Exercises || 438
+|-
+| 11.14 || Power series and differential equations || 439
+|-
+| 11.15 || The binomial series || 441
+|-
+| 11.16 || Exercises || 443
+|-
+! colspan="3" | 12. VECTOR ALGEBRA
+|-
+| 12.1 || Historical introduction || 445
+|-
+| 12.2 || The vector space of n-tuples of real numbers || 446
+|-
+| 12.3 || Geometric interpretation for <math>n \leq 3</math> || 448
+|-
+| 12.4 || Exercises || 450
+|-
+| 12.5 || The dot product || 451
+|-
+| 12.6 || Length or norm of a vector|| 453
+|-
+| 12.7 || Orthogonality of vectors || 455
+|-
+| 12.8 || Exercises || 456
+|-
+| 12.9 || Projections. Angle between vectors in n-space || 457
+|-
+| 12.10 || The unit coordinate vectors || 458
+|-
+| 12.11 || Exercises || 460
+|-
+| 12.12 || The linear span of a finite set of vectors || 462
+|-
+| 12.13 || Linear independence || 463
+|-
+| 12.14 || Bases || 466
+|-
+| 12.15 || Exercises || 467
+|-
+| 12.16 || The vector space <math>V_N(C)</math> of n-tuples of complex numbers || 468
+|-
+| 12.17 || Exercises || 470
+|-
+! colspan="3" | 13. APPLICATIONS OF VECTOR ALGEBRA TO ANALYTIC GEOMETRY
+|-
+| 13.1 || Introduction || 471
+|-
+| 13.2 || Lines in n-space || 472
+|-
+| 13.3 || Some simple properties of straight lines || 473
+|-
+| 13.4 || Lines and vector-valued functions || 474
+|-
+| 13.5 || Exercises || 477
+|-
+| 13.6 || Planes in Euclidean n-space || 478
+|-
+| 13.7 || Planes and vector-valued functions || 481
+|-
+| 13.8 || Exercises || 482
+|-
+| 13.9 || The cross product || 483
+|-
+| 13.10 || The cross product expressed as a determinant || 486
+|-
+| 13.11 || Exercises || 487
+|-
+| 13.12 || The scalar triple product || 488
+|-
+| 13.13 || Cramer's rule for solving a system of three linear equations || 490
+|-
+| 13.14 || Exercises || 491
+|-
+| 13.15 || Normal vectors to planes || 493
+|-
+| 13.16 || Linear Cartesian equations for planes || 494
+|-
+| 13.17 || Exercises || 496
+|-
+| 13.18 || The conic sections || 497
+|-
+| 13.19 || Eccentricity of conic sections || 500
+|-
+| 13.20 || Polar equations for conic sections || 501
+|-
+| 13.21 || Exercises || 503
+|-
+| 13.22 || Conic sections symmetric about the origin || 504
+|-
+| 13.23 || Cartesian equations for the conic sections || 505
+|-
+| 13.24 || Exercises || 508
+|-
+| 13.25 || Miscellaneous exercises on conic sections || 509
+|-
+! colspan="3" | 14. CALCULUS OF VECTOR-VALUED FUNCTIONS
+|-
+| 14.1 || Vector-valued functions of a real variable || 512
+|-
+| 14.2 || Algebraic operations. Components || 512
+|-
+| 14.3 || Limits, derivatives, and integrals || 513
+|-
+| 14.4 || Exercises || 516
+|-
+| 14.5 || Applications to curves. Tangency || 517
+|-
+| 14.6 || Applications to curvilinear motion. Velocity, speed, and acceleration || 520
+|-
+| 14.7 || Exercises || 524
+|-
+| 14.8 || The unit tangent, the principal normal, and the osculating plane of a curve || 525
+|-
+| 14.9 || Exercises || 528
+|-
+| 14.10 || The definition of arc length || 529
+|-
+| 14.11 || Additivity of arc length || 532
+|-
+| 14.12 || The arc-length function || 533
+|-
+| 14.13 || Exercises || 535
+|-
+| 14.14 || Curvature of a curve || 536
+|-
+| 14.15 || Exercises || 538
+|-
+| 14.16 || Velocity and acceleration in polar coordinates || 540
+|-
+| 14.17 || Plane motion with radial acceleration || 542
+|-
+| 14.18 || Cylindrical coordinates || 543
+|-
+| 14.19 || Exercises || 543
+|-
+| 14.20 || Applications to planetary motion || 545
+|-
+| 14.21 || Miscellaneous review exercises || 549
+|-
+! colspan="3" | 15. LINEAR SPACES
+|-
+| 15.1 || Introduction || 551
+|-
+| 15.2 || The definition of a linear space || 551
+|-
+| 15.3 || Examples of linear spaces || 552
+|-
+| 15.4 || Elementary consequences of the axioms || 554
+|-
+| 15.5 || Exercises || 555
+|-
+| 15.6 || Subspaces of a linear space || 556
+|-
+| 15.7 || Dependent and independent sets in a linear space || 557
+|-
+| 15.8 || Bases and dimension || 559
+|-
+| 15.9 || Exercises || 560
+|-
+| 15.10 || Inner products, Euclidean spaces, norms || 561
+|-
+| 15.11 || Orthogonality in a Euclidean space || 564
+|-
+| 15.12 || Exercises || 566
+|-
+| 15.13 || Construction of orthogonal sets. The Gram-Schmidt process || 568
+|-
+| 15.14 || Orthogonal complements. Projections || 572
+|-
+| 15.15 || Best approximation of elements in a Euclidean space by elements in a finite-dimensional subspace || 574
+|-
+| 15.16 || Exercises || 576
+|-
+! colspan="3" | 16. LINEAR TRANSFORMATIONS AND MATRICES
+|-
+| 16.1 || Linear transformations || 578
+|-
+| 16.2 || Null space and range || 579
+|-
+| 16.3 || Nullity and rank || 581
+|-
+| 16.4 || Exercises || 582
+|-
+| 16.5 || Algebraic operations on linear transformations || 583
+|-
+| 16.6 || Inverses || 585
+|-
+| 16.7 || One-to-one linear transformations || 587
+|-
+| 16.8 || Exercises || 589
+|-
+| 16.9 || Linear transformations with prescribed values || 590
+|-
+| 16.10 || Matrix representations of linear transformations || 591
+|-
+| 16.11 || Construction of a matrix representation in diagonal form || 594
+|-
+| 16.12 || Exercises || 596
+|-
+| 16.13 || Linear spaces of matrices || 597
+|-
+| 16.14 || Isomorphism between linear transformations and matrices || 599
+|-
+| 16.15 || Multiplication of matrices || 600
+|-
+| 16.16 || Exercises || 603
+|-
+| 16.17 || Systems of linear equations || 605
+|-
+| 16.18 || Computation techniques || 607
+|-
+| 16.19 || Inverses of square matrices || 611
+|-
+| 16.20 || Exercises || 613
+|-
+| 16.21 || Miscellaneous exercises on matrices || 614
+|-
+! colspan="2" | Answers to exercises || 617
+|-
+! colspan="2" | Index || 657
+|-
+|}
+
+[[Category:Mathematics]]
+{{Stub}}[[Category:Pages]]
+[[Category:Git synced pages]]
