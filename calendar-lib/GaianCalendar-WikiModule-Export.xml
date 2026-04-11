@@ -1,0 +1,205 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="en">
+  <siteinfo>
+    <sitename>Evolutionism Wiki</sitename>
+    <dbname>evolutionismwiki</dbname>
+    <base>https://evolutionism.miraheze.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.43.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Evolutionism Wiki</namespace>
+      <namespace key="5" case="first-letter">Evolutionism Wiki talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="460" case="first-letter">Campaign</namespace>
+      <namespace key="461" case="first-letter">Campaign talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="860" case="first-letter">Item</namespace>
+      <namespace key="861" case="first-letter">Item talk</namespace>
+      <namespace key="862" case="first-letter">Property</namespace>
+      <namespace key="863" case="first-letter">Property talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="3000" case="first-letter">Appendix</namespace>
+      <namespace key="3001" case="first-letter">Appendix talk</namespace>
+      <namespace key="3002" case="first-letter">Portal</namespace>
+      <namespace key="3003" case="first-letter">Portal talk</namespace>
+      <namespace key="3004" case="first-letter">Prompt</namespace>
+      <namespace key="3005" case="first-letter">Prompt talk</namespace>
+      <namespace key="3006" case="first-letter">Notes</namespace>
+      <namespace key="3007" case="first-letter">Notes talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Module:GaiadDate</title>
+    <ns>828</ns>
+    <id>192018</id>
+    <revision>
+      <id>2370835</id>
+      <parentid>2370826</parentid>
+      <contributor>
+        <username>Immanuelle</username>
+        <id>2</id>
+      </contributor>
+      <origin>2370835</origin>
+      <model>Scribunto</model>
+      <format>text/plain</format>
+      <text bytes="5030" sha1="frg0y8k0ypbs3ckfra6ps83crc9liq2" xml:space="preserve">-- Module:GaiadDate — ISO week math → 13×28 (+Horus) calendar
+-- Year  = ISO week-year (o) + 10000
+-- Month = floor((W-1)/4)+1  -- 1=Sagittarius … 13=Ophiuchus, 14=Horus (for W=53)
+-- Day   = ((W-1) % 4)*7 + N
+
+local p = {}
+
+local MONTHS = {
+  "Sagittarius","Capricorn","Aquarius","Pisces","Aries","Taurus","Gemini",
+  "Cancer","Leo","Virgo","Libra","Scorpio","Ophiuchus","Horus"
+}
+
+local function L() return mw.getContentLanguage() end
+
+local function ymd(y,m,d)
+  if not (y and m and d) then return nil end
+  return string.format("%04d-%02d-%02d", tonumber(y), tonumber(m), tonumber(d))
+end
+
+-- Convert historical year numbering (… -2, -1, 1, 2 …; no year 0)
+-- to astronomical numbering (… -1, 0, 1, 2 …; year 0 == 1 BCE)
+local function toAstronomicalYear(y)
+  y = tonumber(y)
+  if not y then return nil end
+  if y &lt;= 0 then return y + 1 end  -- -1 (1 BCE) -&gt; 0, -2 (2 BCE) -&gt; -1, etc.
+  return y
+end
+
+-- ===== Robust civil date ⇄ day-number (Hinnant) =====
+-- days_from_civil: astronomical year
+local function days_from_civil(y, m, d)
+  y = y - (m &lt;= 2 and 1 or 0)
+  local era = (y &gt;= 0) and math.floor(y/400) or math.floor((y-399)/400)
+  local yoe = y - era*400
+  local doy = math.floor((153 * (m + (m &gt; 2 and -3 or 9)) + 2) / 5) + d - 1
+  local doe = yoe*365 + math.floor(yoe/4) - math.floor(yoe/100) + doy
+  return era*146097 + doe - 719468
+end
+
+-- civil_from_days: returns astronomical y, m, d
+local function civil_from_days(z)
+  z = z + 719468
+  local era = (z &gt;= 0) and math.floor(z/146097) or math.floor((z-146096)/146097)
+  local doe = z - era*146097
+  local yoe = math.floor((doe - math.floor(doe/1460) + math.floor(doe/36524) - math.floor(doe/146096)) / 365)
+  local y = yoe + era*400
+  local doy = doe - (365*yoe + math.floor(yoe/4) - math.floor(yoe/100))
+  local mp  = math.floor((5*doy + 2)/153)
+  local dd  = doy - math.floor((153*mp + 2)/5) + 1
+  local mm  = (mp &lt; 10) and (mp + 3) or (mp - 9)
+  y = y + ((mm &lt;= 2) and 1 or 0)
+  return y, mm, dd
+end
+
+-- ISO week: returns W (1..53), N (1..7 Mon..Sun), O (ISO week-year; astronomical)
+local function isoWeekDateAstr(yA, m, d)
+  local z = days_from_civil(yA, m, d)
+  local N = ((z + 3) % 7) + 1 -- 1970-01-01 is Thu (ISO 4)
+  local th = z + (4 - N)     -- shift to Thursday of this week
+  local yW = civil_from_days(th) -- ISO week-year = Gregorian year of that Thursday
+  -- Find Thursday of week 1: Jan 4 is always in week 1, find its Thursday
+  local jan4 = days_from_civil(yW, 1, 4)
+  local jan4_weekday = ((jan4 + 3) % 7) + 1
+  local firstTh = jan4 + (4 - jan4_weekday) -- Thursday of week containing Jan 4
+  local W = 1 + math.floor((th - firstTh)/7)
+  return W, N, yW
+end
+
+-- ===== Core compute =====
+local function compute(ts, y, m, d)
+  local yN, mN, dN = tonumber(y), tonumber(m), tonumber(d)
+
+  -- If explicit y/m/d given: do pure-Lua math (safe for BCE &amp; ancient)
+  if yN and mN and dN then
+    local yA = toAstronomicalYear(yN)
+    local W, N, O = isoWeekDateAstr(yA, mN, dN)
+    local monthIdx = math.floor((W - 1) / 4) + 1
+    if monthIdx &lt; 1 then monthIdx = 1 end
+    if monthIdx &gt; 14 then monthIdx = 14 end
+    local dayInMon = ((W - 1) % 4) * 7 + N
+    local yearOut  = O + 10000  -- O may be 0 for 1 BCE → 10000
+    return MONTHS[monthIdx], dayInMon, yearOut, monthIdx, W, N, O
+  end
+
+  -- Otherwise allow 'date=' or 'now' via MediaWiki; protect with pcall
+  ts = ts or ymd(y,m,d) or nil
+  local W, N, O
+  local okW, vW = pcall(function() return tonumber(L():formatDate('W', ts)) end)
+  local okN, vN = pcall(function() return tonumber(L():formatDate('N', ts)) end)
+  local okO, vO = pcall(function() return tonumber(L():formatDate('o', ts)) end)
+
+  if okW and okN and okO and vW and vN and vO then
+    W, N, O = vW, vN, vO
+  else
+    -- Fallback: try parsing ts as YYYY-MM-DD and use pure-Lua
+    if type(ts) == "string" then
+      local yy, mm, dd = ts:match("^(%-?%d+)%-(%d%d)%-(%d%d)$")
+      if yy and mm and dd then
+        local yA = toAstronomicalYear(tonumber(yy))
+        W, N, O = isoWeekDateAstr(yA, tonumber(mm), tonumber(dd))
+      end
+    end
+    -- Last resort: use "now"
+    if not (W and N and O) then
+      W = tonumber(L():formatDate('W')) or 1
+      N = tonumber(L():formatDate('N')) or 1
+      O = tonumber(L():formatDate('o')) or 1970
+    end
+  end
+
+  local monthIdx = math.floor((W - 1) / 4) + 1
+  if monthIdx &lt; 1 then monthIdx = 1 end
+  if monthIdx &gt; 14 then monthIdx = 14 end
+  local dayInMon = ((W - 1) % 4) * 7 + N
+  local yearOut  = O + 10000
+  return MONTHS[monthIdx], dayInMon, yearOut, monthIdx, W, N, O
+end
+
+local function render(month, day, yearOut)
+  return string.format('[[%s %d]], %d', month, day, yearOut)
+end
+
+-- ===== Public API =====
+function p.convert(frame)
+  local a = frame:getParent() and frame:getParent().args or frame.args
+  local month, day, yearOut, monthIdx, W, N, O = compute(a.date, a.y, a.m, a.d)
+  if (a.format or ""):lower() == "parts" then
+    -- MONTH|DAY|YEAR|MONTHIDX|W|N|ISOYEAR
+    return table.concat({month, day, yearOut, monthIdx, W, N, O}, "|")
+  end
+  return render(month, day, yearOut)
+end
+
+function p.today(frame)
+  local month, day, yearOut = compute(nil, nil, nil, nil)
+  return render(month, day, yearOut)
+end
+
+return p</text>
+      <sha1>frg0y8k0ypbs3ckfra6ps83crc9liq2</sha1>
+    </revision>
+  </page>
+</mediawiki>
