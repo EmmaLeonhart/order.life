@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gaian Date Picker</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            color: #e0e0e0;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            max-width: 450px;
+            width: 100%;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 25px;
+            font-size: 1.8em;
+            background: linear-gradient(90deg, #ffd700, #ff8c00);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .picker-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            gap: 10px;
+        }
+
+        .nav-btn {
+            background: rgba(255, 215, 0, 0.2);
+            border: 1px solid rgba(255, 215, 0, 0.3);
+            color: #ffd700;
+            padding: 8px 15px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1.2em;
+            transition: all 0.3s ease;
+        }
+
+        .nav-btn:hover {
+            background: rgba(255, 215, 0, 0.4);
+            transform: scale(1.05);
+        }
+
+        .month-year-display {
+            text-align: center;
+            flex-grow: 1;
+        }
+
+        .month-name {
+            font-size: 1.4em;
+            font-weight: bold;
+            color: #ffd700;
+        }
+
+        .year-display {
+            font-size: 1em;
+            color: #a0a0a0;
+        }
+
+        .month-selector {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 8px;
+            margin-bottom: 20px;
+            display: none;
+        }
+
+        .month-selector.active {
+            display: grid;
+        }
+
+        .month-btn {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            color: #e0e0e0;
+            padding: 10px 5px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.75em;
+            transition: all 0.3s ease;
+        }
+
+        .month-btn:hover {
+            background: rgba(255, 215, 0, 0.2);
+            border-color: rgba(255, 215, 0, 0.3);
+        }
+
+        .month-btn.selected {
+            background: rgba(255, 215, 0, 0.3);
+            border-color: #ffd700;
+            color: #ffd700;
+        }
+
+        .month-btn.intercalary {
+            background: rgba(138, 43, 226, 0.2);
+            border-color: rgba(138, 43, 226, 0.3);
+        }
+
+        .month-btn.intercalary:hover {
+            background: rgba(138, 43, 226, 0.4);
+        }
+
+        .weekdays {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 5px;
+            margin-bottom: 10px;
+        }
+
+        .weekday {
+            text-align: center;
+            font-weight: bold;
+            color: #ffd700;
+            padding: 10px 0;
+            font-size: 0.85em;
+        }
+
+        .days-grid {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 5px;
+        }
+
+        .day {
+            aspect-ratio: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.95em;
+            transition: all 0.3s ease;
+        }
+
+        .day:hover {
+            background: rgba(255, 215, 0, 0.2);
+            border-color: rgba(255, 215, 0, 0.3);
+            transform: scale(1.1);
+        }
+
+        .day.selected {
+            background: linear-gradient(135deg, #ffd700, #ff8c00);
+            color: #1a1a2e;
+            font-weight: bold;
+            border-color: #ffd700;
+        }
+
+        .day.today {
+            border: 2px solid #00ff88;
+        }
+
+        .week-row {
+            display: contents;
+        }
+
+        .week-label {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #666;
+            font-size: 0.7em;
+        }
+
+        .selected-date {
+            margin-top: 25px;
+            padding: 20px;
+            background: rgba(255, 215, 0, 0.1);
+            border-radius: 12px;
+            border: 1px solid rgba(255, 215, 0, 0.2);
+        }
+
+        .selected-date h3 {
+            color: #ffd700;
+            margin-bottom: 10px;
+            font-size: 1em;
+        }
+
+        .date-display {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #fff;
+            margin-bottom: 8px;
+        }
+
+        .gregorian-display {
+            font-size: 0.9em;
+            color: #a0a0a0;
+        }
+
+        .year-input-container {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .year-input-container label {
+            color: #a0a0a0;
+        }
+
+        .year-input {
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: #fff;
+            padding: 8px 12px;
+            border-radius: 8px;
+            width: 100px;
+            font-size: 1em;
+            text-align: center;
+        }
+
+        .year-input:focus {
+            outline: none;
+            border-color: #ffd700;
+        }
+
+        .toggle-month-selector {
+            background: none;
+            border: none;
+            color: #ffd700;
+            cursor: pointer;
+            font-size: 1em;
+            padding: 5px;
+        }
+
+        .info-section {
+            margin-top: 20px;
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 10px;
+            font-size: 0.85em;
+            color: #888;
+        }
+
+        .info-section h4 {
+            color: #ffd700;
+            margin-bottom: 8px;
+        }
+
+        .horus-warning {
+            background: rgba(138, 43, 226, 0.2);
+            border: 1px solid rgba(138, 43, 226, 0.3);
+            padding: 10px;
+            border-radius: 8px;
+            margin-top: 10px;
+            font-size: 0.85em;
+            color: #d8b4fe;
+            display: none;
+        }
+
+        .horus-warning.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Gaian Calendar</h1>
+
+        <div class="picker-header">
+            <button class="nav-btn" onclick="changeMonth(-1)">&lt;</button>
+            <div class="month-year-display">
+                <button class="toggle-month-selector" onclick="toggleMonthSelector()">
+                    <span class="month-name" id="currentMonth">Sagittarius</span>
+                </button>
+                <div class="year-display" id="currentYear">12026</div>
+            </div>
+            <button class="nav-btn" onclick="changeMonth(1)">&gt;</button>
+        </div>
+
+        <div class="month-selector" id="monthSelector">
+            <!-- Month buttons will be generated by JS -->
+        </div>
+
+        <div class="weekdays">
+            <div class="weekday">Mon</div>
+            <div class="weekday">Tue</div>
+            <div class="weekday">Wed</div>
+            <div class="weekday">Thu</div>
+            <div class="weekday">Fri</div>
+            <div class="weekday">Sat</div>
+            <div class="weekday">Sun</div>
+        </div>
+
+        <div class="days-grid" id="daysGrid">
+            <!-- Days will be generated by JS -->
+        </div>
+
+        <div class="horus-warning" id="horusWarning">
+            Horus is the intercalary month (week 53). It only exists in years with a long week-year (approximately 5-6 times per 28 years).
+        </div>
+
+        <div class="selected-date">
+            <h3>Selected Date</h3>
+            <div class="date-display" id="selectedDateDisplay">Sagittarius 1, 12026</div>
+            <div class="gregorian-display" id="gregorianDisplay">Gregorian: January 6, 2026</div>
+        </div>
+
+        <div class="year-input-container">
+            <label for="yearInput">Year:</label>
+            <input type="number" id="yearInput" class="year-input" value="12026" min="10001" max="19999" onchange="setYear(this.value)">
+        </div>
+
+        <div class="info-section">
+            <h4>About the Gaian Calendar</h4>
+            <p>13 months of 28 days (4 weeks each), plus Horus (intercalary month for week 53). Year = ISO week-year + 10,000.</p>
+        </div>
+    </div>
+
+    <script>
+        const MONTHS = [
+            { num: 1, name: 'Sagittarius', symbol: '♐' },
+            { num: 2, name: 'Capricorn', symbol: '♑' },
+            { num: 3, name: 'Aquarius', symbol: '♒' },
+            { num: 4, name: 'Pisces', symbol: '♓' },
+            { num: 5, name: 'Aries', symbol: '♈' },
+            { num: 6, name: 'Taurus', symbol: '♉' },
+            { num: 7, name: 'Gemini', symbol: '♊' },
+            { num: 8, name: 'Cancer', symbol: '♋' },
+            { num: 9, name: 'Leo', symbol: '♌' },
+            { num: 10, name: 'Virgo', symbol: '♍' },
+            { num: 11, name: 'Libra', symbol: '♎' },
+            { num: 12, name: 'Scorpius', symbol: '♏' },
+            { num: 13, name: 'Ophiuchus', symbol: '⛎' },
+            { num: 14, name: 'Horus', symbol: '𓅃' }
+        ];
+
+        let currentMonth = 1;
+        let currentYear = 12026;
+        let selectedDay = 1;
+
+        // Check if an ISO year has 53 weeks
+        function hasWeek53(isoYear) {
+            // A year has 53 weeks if Jan 1 is Thursday, or Dec 31 is Thursday
+            // Equivalently: year starts on Thursday, or is a leap year starting on Wednesday
+            const jan1 = new Date(isoYear, 0, 1);
+            const dec31 = new Date(isoYear, 11, 31);
+            const jan1Day = jan1.getDay(); // 0=Sun, 4=Thu
+            const dec31Day = dec31.getDay();
+            return jan1Day === 4 || dec31Day === 4;
+        }
+
+        // Check if current Gaian year has Horus
+        function yearHasHorus(gaianYear) {
+            return hasWeek53(gaianYear - 10000);
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            // Set to today's Gaian date
+            const today = new Date();
+            const gaianDate = gregorianToGaian(today);
+            currentMonth = gaianDate.month;
+            currentYear = gaianDate.year;
+            selectedDay = gaianDate.day;
+
+            generateMonthSelector();
+            renderCalendar();
+            updateDisplay();
+        });
+
+        function generateMonthSelector() {
+            const container = document.getElementById('monthSelector');
+            container.innerHTML = '';
+            const hasHorus = yearHasHorus(currentYear);
+
+            MONTHS.forEach(month => {
+                const btn = document.createElement('button');
+                btn.className = 'month-btn' + (month.num === 14 ? ' intercalary' : '');
+                btn.textContent = `${month.symbol} ${month.name.substring(0, 3)}`;
+
+                // Disable Horus if year doesn't have week 53
+                if (month.num === 14 && !hasHorus) {
+                    btn.disabled = true;
+                    btn.style.opacity = '0.3';
+                    btn.style.cursor = 'not-allowed';
+                    btn.title = 'No Horus this year (no week 53)';
+                } else {
+                    btn.onclick = () => selectMonth(month.num);
+                }
+
+                container.appendChild(btn);
+            });
+        }
+
+        function toggleMonthSelector() {
+            const selector = document.getElementById('monthSelector');
+            selector.classList.toggle('active');
+        }
+
+        function selectMonth(month) {
+            // Prevent selecting Horus if year doesn't have it
+            if (month === 14 && !yearHasHorus(currentYear)) {
+                return;
+            }
+            currentMonth = month;
+            selectedDay = 1;
+            document.getElementById('monthSelector').classList.remove('active');
+            renderCalendar();
+            updateDisplay();
+        }
+
+        function changeMonth(delta) {
+            currentMonth += delta;
+
+            // Get max month for current year (13 or 14 depending on Horus)
+            const maxMonth = yearHasHorus(currentYear) ? 14 : 13;
+
+            if (currentMonth > maxMonth) {
+                currentMonth = 1;
+                currentYear++;
+            } else if (currentMonth < 1) {
+                currentYear--;
+                // Check if previous year has Horus
+                currentMonth = yearHasHorus(currentYear) ? 14 : 13;
+            }
+
+            // If we landed on Horus but year doesn't have it, adjust
+            if (currentMonth === 14 && !yearHasHorus(currentYear)) {
+                if (delta > 0) {
+                    currentMonth = 1;
+                    currentYear++;
+                } else {
+                    currentMonth = 13;
+                }
+            }
+
+            selectedDay = 1;
+            document.getElementById('yearInput').value = currentYear;
+            generateMonthSelector();
+            renderCalendar();
+            updateDisplay();
+        }
+
+        function setYear(year) {
+            currentYear = parseInt(year);
+
+            // If on Horus but new year doesn't have it, go to Ophiuchus
+            if (currentMonth === 14 && !yearHasHorus(currentYear)) {
+                currentMonth = 13;
+                selectedDay = 1;
+            }
+
+            generateMonthSelector();
+            renderCalendar();
+            updateDisplay();
+        }
+
+        function renderCalendar() {
+            const grid = document.getElementById('daysGrid');
+            grid.innerHTML = '';
+
+            // Gaian months always have 28 days (4 weeks)
+            // Exception: Horus (month 14) only has 7 days (week 53)
+            const daysInMonth = currentMonth === 14 ? 7 : 28;
+
+            // Get today's Gaian date for highlighting
+            const today = gregorianToGaian(new Date());
+
+            for (let day = 1; day <= daysInMonth; day++) {
+                const dayEl = document.createElement('div');
+                dayEl.className = 'day';
+                dayEl.textContent = day;
+
+                if (day === selectedDay) {
+                    dayEl.classList.add('selected');
+                }
+
+                if (today.year === currentYear &&
+                    today.month === currentMonth &&
+                    today.day === day) {
+                    dayEl.classList.add('today');
+                }
+
+                dayEl.onclick = () => selectDay(day);
+                grid.appendChild(dayEl);
+            }
+
+            // Show/hide Horus warning
+            const horusWarning = document.getElementById('horusWarning');
+            if (currentMonth === 14) {
+                horusWarning.classList.add('active');
+            } else {
+                horusWarning.classList.remove('active');
+            }
+
+            // Update month selector highlighting
+            const monthBtns = document.querySelectorAll('.month-btn');
+            monthBtns.forEach((btn, index) => {
+                if (index + 1 === currentMonth) {
+                    btn.classList.add('selected');
+                } else {
+                    btn.classList.remove('selected');
+                }
+            });
+        }
+
+        function selectDay(day) {
+            selectedDay = day;
+            renderCalendar();
+            updateDisplay();
+        }
+
+        function updateDisplay() {
+            const monthData = MONTHS[currentMonth - 1];
+
+            document.getElementById('currentMonth').textContent =
+                `${monthData.symbol} ${monthData.name}`;
+            document.getElementById('currentYear').textContent = currentYear;
+            document.getElementById('yearInput').value = currentYear;
+
+            document.getElementById('selectedDateDisplay').textContent =
+                `${monthData.name} ${selectedDay}, ${currentYear}`;
+
+            // Convert to Gregorian for display
+            const gregorian = gaianToGregorian(currentYear, currentMonth, selectedDay);
+            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            document.getElementById('gregorianDisplay').textContent =
+                `Gregorian: ${gregorian.toLocaleDateString('en-US', options)}`;
+        }
+
+        // Convert Gregorian date to Gaian date
+        function gregorianToGaian(date) {
+            // Get ISO week info
+            const { weekYear, weekOfYear } = getISOWeekInfo(date);
+            const dayOfWeek = getISODayOfWeek(date); // Mon=1, Sun=7
+
+            // Calculate Gaian month and day
+            const monthIndex0 = Math.floor((weekOfYear - 1) / 4);
+            const weekInMonth0 = (weekOfYear - 1) % 4;
+            const month = monthIndex0 + 1;
+            const dayOfMonth = weekInMonth0 * 7 + dayOfWeek;
+
+            return {
+                year: weekYear + 10000,
+                month: month,
+                day: dayOfMonth
+            };
+        }
+
+        // Convert Gaian date to Gregorian date
+        function gaianToGregorian(gaianYear, gaianMonth, gaianDay) {
+            const isoYear = gaianYear - 10000;
+
+            // Calculate ISO week number
+            // Month 1-13: weeks 1-52, Month 14: week 53
+            const weekInMonth0 = Math.floor((gaianDay - 1) / 7);
+            const dayOfWeek = ((gaianDay - 1) % 7) + 1; // 1-7 (Mon-Sun)
+
+            const weekOfYear = (gaianMonth - 1) * 4 + weekInMonth0 + 1;
+
+            // Find the date from ISO week
+            return dateFromISOWeek(isoYear, weekOfYear, dayOfWeek);
+        }
+
+        // Get ISO week year and week number
+        function getISOWeekInfo(date) {
+            const d = new Date(date.getTime());
+            d.setHours(0, 0, 0, 0);
+
+            // Set to nearest Thursday (ISO week definition)
+            d.setDate(d.getDate() + 4 - (d.getDay() || 7));
+
+            const yearStart = new Date(d.getFullYear(), 0, 1);
+            const weekOfYear = Math.ceil((((d - yearStart) / 86400000) + 1) / 7);
+
+            return {
+                weekYear: d.getFullYear(),
+                weekOfYear: weekOfYear
+            };
+        }
+
+        // Get ISO day of week (Mon=1, Sun=7)
+        function getISODayOfWeek(date) {
+            const day = date.getDay();
+            return day === 0 ? 7 : day;
+        }
+
+        // Get date from ISO week year, week number, and day of week
+        function dateFromISOWeek(isoYear, week, dayOfWeek) {
+            // Find January 4th of the ISO year (always in week 1)
+            const jan4 = new Date(isoYear, 0, 4);
+
+            // Find Monday of week 1
+            const dayOfJan4 = getISODayOfWeek(jan4);
+            const mondayWeek1 = new Date(jan4);
+            mondayWeek1.setDate(jan4.getDate() - dayOfJan4 + 1);
+
+            // Add weeks and days
+            const result = new Date(mondayWeek1);
+            result.setDate(mondayWeek1.getDate() + (week - 1) * 7 + (dayOfWeek - 1));
+
+            return result;
+        }
+    </script>
+</body>
+</html>
