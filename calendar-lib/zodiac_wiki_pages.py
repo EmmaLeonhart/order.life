@@ -19,8 +19,8 @@ from typing import Dict, List, Tuple, Optional
 import sys
 import argparse
 
-API_URL     = "https://evolutionism.miraheze.org/w/api.php"
-USER_AGENT  = "ZodiacWikiBot/0.2 (User:Immanuelle; contact: you@example.com)"
+API_URL     = os.environ.get("WIKI_API_URL", "https://lifeism.miraheze.org/w/api.php")
+USER_AGENT  = "ZodiacWikiBot/0.3 (order.life calendar bot; https://github.com/EmmaLeonhart/order.life)"
 SUMMARY     = "Create/update zodiac date page"
 THROTTLE    = 0.6      # seconds between edits (be polite to the wiki)
 TITLE_PREFIX = ""      # e.g., "Calendar:" if you want them in a namespace
@@ -2646,8 +2646,8 @@ def build_year_page(year: int, wiki: 'Wiki' = None) -> (str, str):
 
 def main():
     parser = argparse.ArgumentParser(description='Generate Gaian calendar wiki pages')
-    parser.add_argument('--username', required=True, help='Wiki username')
-    parser.add_argument('--password', required=True, help='Wiki password')
+    parser.add_argument('--username', default=os.environ.get('WIKI_USERNAME'), help='Wiki username (or set WIKI_USERNAME env var)')
+    parser.add_argument('--password', default=os.environ.get('WIKI_PASSWORD'), help='Wiki password (or set WIKI_PASSWORD env var)')
     parser.add_argument('--days', action='store_true', help='Generate day pages (default behavior)')
     parser.add_argument('--months', action='store_true', help='Generate month pages')
     parser.add_argument('--years', action='store_true', help='Generate year pages')
@@ -2655,11 +2655,15 @@ def main():
     parser.add_argument('--year-end', type=int, default=12100, help='Ending year for year pages (default: 12100)')
     
     args = parser.parse_args()
-    
+
+    if not args.username or not args.password:
+        parser.error("--username/--password required (or set WIKI_USERNAME / WIKI_PASSWORD env vars)")
+
     # If no specific type is requested, default to days
     if not (args.days or args.months or args.years):
         args.days = True
-    
+
+    print(f"Target wiki: {API_URL}")
     wiki = Wiki(API_URL)
     wiki.login_bot(args.username, args.password)
 

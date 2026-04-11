@@ -1,0 +1,68 @@
+name: calendar-bot
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "What to regenerate"
+        required: true
+        default: "months"
+        type: choice
+        options:
+          - months
+          - days
+          - years
+          - all
+      year_start:
+        description: "Year range start (years mode only)"
+        required: false
+        default: "1"
+      year_end:
+        description: "Year range end (years mode only)"
+        required: false
+        default: "12100"
+
+concurrency:
+  group: calendar-bot
+  cancel-in-progress: false
+
+jobs:
+  calendar-bot:
+    runs-on: ubuntu-latest
+    env:
+      WIKI_USERNAME: EmmaBot@EmmaBot
+      WIKI_PASSWORD: ${{ secrets.WIKI_PASSWORD }}
+      WIKI_API_URL: https://lifeism.miraheze.org/w/api.php
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run calendar bot
+        working-directory: calendar-lib
+        run: |
+          MODE="${{ github.event.inputs.mode }}"
+          YEAR_START="${{ github.event.inputs.year_start }}"
+          YEAR_END="${{ github.event.inputs.year_end }}"
+
+          case "$MODE" in
+            months)
+              python zodiac_wiki_pages.py --months
+              ;;
+            days)
+              python zodiac_wiki_pages.py --days
+              ;;
+            years)
+              python zodiac_wiki_pages.py --years --year-start "$YEAR_START" --year-end "$YEAR_END"
+              ;;
+            all)
+              python zodiac_wiki_pages.py --months --days --years --year-start "$YEAR_START" --year-end "$YEAR_END"
+              ;;
+          esac
