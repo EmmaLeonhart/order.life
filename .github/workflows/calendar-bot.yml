@@ -21,6 +21,10 @@ on:
         description: "Year range end (years mode only)"
         required: false
         default: "12100"
+  schedule:
+    # Weekly on Sunday 00:00 UTC — regenerates the 371 day pages so the
+    # rolling ±10-year Gregorian windows on each page stay current.
+    - cron: "0 0 * * 0"
 
 concurrency:
   group: calendar-bot
@@ -48,9 +52,13 @@ jobs:
       - name: Run calendar bot
         working-directory: calendar-lib
         run: |
+          # Defaults apply when triggered by the weekly cron (no inputs).
           MODE="${{ github.event.inputs.mode }}"
+          MODE="${MODE:-days}"
           YEAR_START="${{ github.event.inputs.year_start }}"
+          YEAR_START="${YEAR_START:-1}"
           YEAR_END="${{ github.event.inputs.year_end }}"
+          YEAR_END="${YEAR_END:-12100}"
 
           case "$MODE" in
             months)
