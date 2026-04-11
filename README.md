@@ -87,6 +87,7 @@ Outputs static HTML to `site/` directory. ~10,800 pages across all languages.
 - `static/` — CSS and JS assets
 - `epic/` — Gaiad epic chapters and reference materials
 - `planning/` — Architecture and doctrine documentation
+- `calendar-lib/` — C# Gaian calendar library (NodaTime wrappers) + Python wiki-page generator for lifeism.miraheze.org. See [`calendar-lib/README.md`](calendar-lib/README.md).
 - `site/` — Generated output (gitignored)
 
 ## Connected Services
