@@ -139,3 +139,27 @@ in build.py.
 - `content/day-events.json` keyed by `MM/DD` for recurring culturally-noted events
 - Per-year scheduled Lifeism events JSON
 - Historical events database (optional, curated)
+
+---
+
+## 🛠 GitHub Actions — Node.js 20 deprecation
+
+GitHub is deprecating Node.js 20 actions. Every workflow in `.github/workflows/` that uses `actions/checkout@v4` or `actions/setup-python@v5` currently runs on Node 20, which affects: `calendar-bot.yml`, `dotnet-build.yml`, `wiki-bot.yml`, `discord-bot.yml`, `deploy.yml`.
+
+**Timeline:**
+- **June 2, 2026** — runners will force Node.js 24 by default
+- **September 16, 2026** — Node.js 20 removed from runners entirely
+
+**Fix:** bump to newer action tags once they officially support Node 24, or set `FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true` as an interim opt-in. Not urgent — still has months.
+
+Reference: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+
+---
+
+## 🗓 calendar-lib follow-ups
+
+See `calendar-lib/README.md` for the full roadmap. Most pressing after the first successful bot run:
+
+- [ ] Import `Module:GaiadDate` onto lifeism.miraheze.org (manual — the XML is in `calendar-lib/GaianCalendar-WikiModule-Export.xml`, paste into `Module:GaiadDate` via Special:Import or copy-paste the Lua source)
+- [ ] First `dotnet-build.yml` run — may reveal the `.csproj` targets a framework other than .NET 8; bump if so
+- [ ] Verify the 14 month pages the bot just overwrote on Lifeism didn't clobber valuable content (first run logged all 14 as `Updated page`, not `No change` — worth a visual check that the new markup isn't missing anything)
