@@ -1,0 +1,33 @@
+name: dotnet-build
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "calendar-lib/**"
+      - ".github/workflows/dotnet-build.yml"
+  pull_request:
+    paths:
+      - "calendar-lib/**"
+      - ".github/workflows/dotnet-build.yml"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Restore
+        working-directory: calendar-lib
+        run: dotnet restore GaianNodaTimeWrappers.sln
+
+      - name: Build
+        working-directory: calendar-lib
+        run: dotnet build GaianNodaTimeWrappers.sln --no-restore --configuration Release
