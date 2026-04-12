@@ -122,7 +122,12 @@ def propagate(site, apply: bool = False, run_tag: str = "",
         subcat = site.categories[subcat_name]
         for member in subcat.members():
             title = member.name
-            page = site.pages[title]
+            try:
+                page = site.pages[title]
+            except (KeyError, Exception):
+                if verbose:
+                    print(f"    skipped (API error): {title}")
+                continue
             if not page.exists:
                 continue
 
