@@ -2,6 +2,47 @@
 
 ---
 
+## 📥 Wikibase dump: import items + properties from wiki.order.life
+
+`wiki.order.life` is a **Wikibase** instance (items Q1.., properties P1..),
+not a plain MediaWiki wiki. Human-era genealogy (Charlemagne/Pani lines,
+Persian-royal-family bridge connecting Jewish/Muslim lines, gateway ancestors
+back to prehistoric haplogroup founders) lives on it as Wikibase entities,
+none of which have been imported into the repo yet. The existing JSONs in
+`Gaiad/genealogy/` are pre-human stubs only and do not overlap with this.
+
+### Why this matters
+Needed to support the 130–220 chapter block (beginning of humanity →
+beginning of modern age). The genealogical spine is load-bearing for the
+pre-BAC mythic-mosaic register and for the post-BAC genealogical-bridge
+material. Also enables real network analysis on the built genealogies
+(see `planning/gaiad-130-220-structure.md` §13).
+
+### Implementation (READY — merge the open PR after the first run)
+- **Script:** `wiki-scripts/wikibase_dump.py` — fetches entities from
+  `Special:EntityData/{id}.json` with `wbgetentities` API fallback.
+- **Workflow:** `.github/workflows/wikibase-dump.yml` — manual dispatch with
+  numeric range inputs; commits to a throwaway branch and opens a PR per run.
+- **Output layout:** `wikibase/items/Q{N}.json`, `wikibase/properties/P{N}.json`.
+  Kept separate from `Gaiad/genealogy/` because (per Emma) the Wikibase data
+  is complex and should be isolated.
+
+### How to run
+Trigger the `wikibase-dump` workflow from the Actions tab with the numeric
+range of items/properties to pull. Default is Q1..Q100 and P1..P100. A PR
+is created automatically on success.
+
+### Open after first run
+- Confirm the endpoint / schema matches what the script expects — it's
+  untested against the live wiki from Emma's side; script has a fallback
+  URL but the real structure of the entities is unknown.
+- Schema parity with pre-human `Gaiad/genealogy/*.json` — the Wikibase
+  dump is raw; a later pass will translate selected items into the
+  existing JSON shape if useful.
+- Network analysis on the graph once properties + items are imported.
+
+---
+
 ## 🚨 Discord Bot Cron Reliability — FIXED (2026-03-14)
 
 Rewrote the Discord bot to use a state-file approach instead of relying on exact cron timing.
