@@ -2,6 +2,31 @@
 
 ---
 
+## 📥 Import human-genealogy JSONs from wiki.order.life
+
+Human-era genealogy (descendants-from-antiquity, Charlemagne/Pani lines, Persian-royal-family bridge connecting Jewish/Muslim lines, gateway ancestors back to prehistoric haplogroup founders) currently lives on **wiki.order.life** and has NOT been imported into `Gaiad/genealogy/*.json`. The existing JSONs in that directory are pre-human only.
+
+### Why this matters
+Needed to support the 130–220 chapter block (beginning of humanity → beginning of modern age). The genealogical spine is load-bearing for the pre-BAC mythic-mosaic register and for the post-BAC genealogical-bridge material.
+
+### Proposed approach (batched GitHub Action)
+Wiki-based, can run on GitHub Actions since existing wiki bots already work. Batch by QID range to stay within Action runtime limits:
+
+- Action input: `start_qid` / `end_qid` (e.g. Q1–Q100, Q101–Q200, …)
+- For each QID in range: fetch wiki page, parse genealogy data, write to `Gaiad/genealogy/{slug}.json`
+- Commit the batch. Re-dispatch manually with next range, or chain via workflow_dispatch.
+- Reference existing bot patterns in `wiki-scripts/` (`sync_git_pages.py`, `config.py`).
+
+### Open questions (address when importing)
+- Are wiki QIDs contiguous or sparse? If sparse, iterate a category/list page instead of numeric range.
+- Slug collision with pre-human genealogy JSONs — probably namespace human entries under `Gaiad/genealogy/human/` to keep separate (user noted "place the wiki-based JSONs as being separate because there's a lot of complexity here").
+- Schema parity: existing JSONs have a fixed shape; wiki pages may have richer/looser structure. Decide whether to normalize on import or keep wiki-shape and convert at read time.
+
+### Status
+Emma will handle when home and able to run/monitor scripts. Reconvene on schema + structure questions after initial import batch lands.
+
+---
+
 ## 🚨 Discord Bot Cron Reliability — FIXED (2026-03-14)
 
 Rewrote the Discord bot to use a state-file approach instead of relying on exact cron timing.
