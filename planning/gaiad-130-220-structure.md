@@ -368,7 +368,275 @@ are named entities, edges link entities that share a chapter. Useful for:
 This is tractable as a small Python script reading the 2,044 JSONs —
 can be run on demand.
 
-## 14. Current drafting state (as of 2026-04-14)
+## 14. The genealogical super-network (current state of the wiki)
+
+Emma has already built, on wiki.order.life, a very large genealogical
+integration that the 130-220 and 221-364 chapter blocks will draw on.
+Documenting what is there so the chapter planning can actually use it
+(rather than re-inventing it).
+
+### Goal: incorporation, not legitimization
+
+**Critical framing.** The descent-from-antiquity work is NOT an attempt
+to legitimize a specific bloodline or ruling claim. It is an attempt to
+**incorporate people into the mythical narrative** — to give every modern
+population a connective path back through documented history into the
+mythic-register material. This is why the work can absorb acknowledged
+merging errors without self-destructing: it is a narrative bridge, not
+a legal pedigree.
+
+### The West Eurasian super-network (Emma's preferred framing)
+
+The genealogies integrate, as a single connected graph spanning the
+**West Eurasian** population zone — Europe + West Asia + North Africa +
+parts of Central Asia and the northwestern Indian subcontinent. This is
+a better term than "Western/Abrahamic-Mediterranean" because it matches
+the underlying population-genetic reality (West Eurasian as a clade)
+and captures the eastward reach into India without having to qualify.
+
+Emma, explicit: "it's not perfect, but our genealogy here isn't perfect.
+We're not necessarily trying to make it perfect; we're trying to tell
+a story." (See also §14 Goal: incorporation, not legitimization.)
+
+Contents of the super-network:
+
+- **Ancient Rome** (imperial lines, early legendary kings, Trojan descent)
+- **Ancient Greece** (Sparta, Athenian royal houses, Argive cycles)
+- **Greek mythology** (Heroic Age genealogies — Heracles, the Trojan-line
+  genealogies, etc.)
+- **Ancient Egypt** (dynastic lines back to Irihor / Menes / ghost pharaohs,
+  see §4 Seam 2)
+- **Mesopotamia** (Sumerian King List → later dynasties)
+- **Biblical lines** (patriarchs, kings, priestly genealogies)
+- **Muhammad's lineage** — placed as having a **descent from ancient Rome**
+  (a deliberate creative integration into the super-network; not orthodox
+  Islamic genealogy but structurally serves the incorporation goal)
+
+**Geographic reach:** North Africa → Europe → parts of India. The network
+is single-connected across the whole Mediterranean basin plus extensions.
+
+### Key gateway ancestors
+
+The super-network converges at a small number of high-centrality figures
+that act as bridges between otherwise-disconnected populations:
+
+- **Charlemagne** — primary European gateway. Most modern Europeans have
+  some documented descent through the Carolingian line.
+- **Bustanai ben Ḥaninai** (c. 610-670 CE) — the **Jewish Exilarch**
+  living through the Islamic conquest. Emma referenced him as "the Jewish
+  Exilarch around the time of Muhammad." Tradition ties him to a Sasanian
+  princess (Dara, daughter of Khosrow II), which makes him the **structural
+  bridge between Jewish, Persian royal, and post-conquest Islamic lines**
+  — exactly the "Jewish/Muslim/Persian family" connection noted in earlier
+  sessions (see §7 Genealogical spine).
+- **Muhammad** — with his lineage placed as descending from ancient Rome
+  (per above). This closes a loop: Roman antiquity → Muhammad → Islamic
+  genealogies → and via Bustanai → back through Persian/Jewish lines
+  into biblical material.
+
+### Acknowledged imperfections
+
+Emma: "there's definitely some errors in the genealogical merging, because
+it was difficult as fuck to do." This is expected and acceptable. The
+super-network is a **narrative integration layer**, not a citable
+historical genealogy — errors are tolerable because the work it has to
+do is structural, not evidentiary.
+
+### The Jesus bloodline — placed via Rome, emphasizing continuity
+
+The Gaiad has its own **Jesus-bloodline** thread embedded in the
+super-network. It is **structurally unlike the *Holy Blood, Holy Grail*
+(Baigent/Leigh/Lincoln) narrative**, which Emma has explicitly rejected
+for this project — regardless of the historical merits of that framing,
+it is wrong for the Gaiad because it emphasizes **discontinuity**
+(a hidden or disrupted line, a secret preserved against the mainstream)
+rather than continuity.
+
+The Gaiad's placement goes the opposite direction: **Jesus is embedded
+in the Roman network**, emphasizing Jesus-as-integrated with the
+mainstream West Eurasian genealogical fabric rather than as a
+suppressed counter-thread. This parallels Muhammad being placed with
+descent from ancient Rome (see above) — **both prophetic figures are
+structurally incorporated into Rome**, not held out against it. This
+is what continuity-emphasis means in practice.
+
+This will be visible once the Wikibase data is reviewed (see §13, §17).
+
+### Asia — deliberately scattered, and structurally different
+
+Asian genealogies in the super-network are intentionally less integrated:
+
+- **Japan ↔ China** — some attempted connections, per Emma.
+- **Japan ↔ Korea ↔ India** — the bridge runs through the legend of
+  **Heo Hwang-ok** (허황옥 / Princess Heo), documented in the *Samguk Yusa*
+  as an Ayodhya princess who married King Suro of Geumgwan Gaya (~48 CE).
+  Her descendants (Gimhae Kim clan) tie through Korean → Japanese royal
+  intermarriage into the Japanese imperial line. Emma: "it works, but it
+  doesn't work as well."
+
+**Why the looser integration is a feature, not a bug.** The Asian
+genealogies sit outside the West Eurasian super-network because the
+relevant cultures (Japan, China, Korea, India-east) were not
+Christianized or Abrahamized, and their polytheistic traditions carry
+their own structural logics. Forcing them into the Western merged-graph
+would be culturally flattening. Leaving them distinct gives them room
+to be integrated on their own terms — their mythic-to-historical bridges
+(see §6 Tier list: China, Japan tier 2; Korea, Vietnam, Tibet tier 3)
+can carry narrative weight without having to plug into Charlemagne or
+Bustanai.
+
+### Asian genealogies are structurally different, not weaker
+
+Asian genealogies are NOT thin — they are **differently shaped**:
+
+- **Very good paternal-line descent from antiquity.** East Asian clan /
+  lineage traditions often preserve Y-line descent over much longer
+  timespans than European aristocratic genealogies, because they were
+  maintained by the whole clan rather than the royal house alone.
+- **Surname-based narrative.** The natural unit of story is not
+  a royal dynasty but **a surname's individual story**. Each surname
+  has its own origin account. In regions with small numbers of
+  surnames (Korea, Vietnam), this means a few surname-stories carry
+  most of the population.
+- **European-style aristocratic genealogies also exist** (imperial
+  lines in Japan and China, royal lineages in Korea), but they are
+  **narrower in population coverage** than the clan-lineage traditions
+  — they cover the aristocracy only, not the whole population.
+
+**Implication for chapter planning:** Asian chapters in 130-220 should
+lean toward surname-origin or clan-origin framing rather than royal-
+dynasty framing where appropriate, and should treat the paternal-line
+depth as its own legitimate mode rather than comparing it unfavorably
+to the merged European aristocratic super-network.
+
+### Implication for chapter planning
+
+- **Register C (post-BAC history) chapters in 130-220** — especially from
+  ~ch 180 onward where post-BAC material lives — should lean on Charlemagne
+  and Bustanai as **named pivot figures** that let the chapter gesture at
+  the whole super-network without reciting it.
+- **Register B (mythic antiquity) chapters** in the earlier part of
+  130-220 can invoke the Greek/Roman/Egyptian/Mesopotamian integration
+  as a mosaic, since the super-network already merges them.
+- **Asian material** in 130-220 should stay relatively self-contained
+  per culture (China tier 3, Korea/Vietnam/Tibet tier 3, Japan tier 2),
+  with the Heo Hwang-ok legend as a potential bridge chapter if there's
+  room.
+
+### Analysis to run after the Wikibase dump
+
+Once `wikibase/items/*.json` is populated (see §13 and the
+`wikibase-dump` workflow), a real network analysis becomes possible:
+
+- Identify high-centrality (gateway) ancestors empirically — not just
+  Charlemagne/Bustanai but whatever the graph actually reveals.
+- Find weakly-connected components — where does Asia actually sit
+  relative to the Western mega-network?
+- Detect genealogical merging errors (cycles, impossible dates, etc.)
+  as a quality-assurance pass.
+
+Emma: "it'll probably be best for you to actually do the analysis
+yourself. There's a lot of individuals."
+
+## 15. Coverage philosophy: represent everywhere, chapter only the pivotal
+
+**Rule (Emma):** "not every country needs to be in the Gaiad, just every
+single country needs to be somewhat represented." The 91-chapter budget
+for 130-220 is spent on **pivotal civilizations** (the ones that carry
+narrative weight for multiple downstream chapters or connect big branches
+of the super-network); lesser entries appear as **mentions within
+chapters** rather than getting their own chapter.
+
+This resolves the "91 chapters for 200,000 years" pressure: the budget
+isn't a uniform slicing of world history, it's a **weighted spotlight**
+on pivots, with the rest of the world present in connective tissue.
+
+### Required inclusions (Emma called these out specifically)
+
+- **Indus Valley Civilization** — Harappa, Mohenjo-Daro. Non-negotiable.
+  A pillar of Register B / early civilizations on par with Egypt and
+  Mesopotamia, but often under-covered. Must have meaningful chapter
+  presence, not just a mention.
+- **Cucuteni-Trypillia** — the European Neolithic-Chalcolithic culture
+  centered on modern Ukraine / Romania / Moldova (~5500-2750 BCE),
+  famous for proto-city settlements larger than any in contemporary
+  Mesopotamia. Emma: "Kukutani-Shropilia, which is some Indus Valley
+  group in Ukraine" — the Indus-Valley comparison is an analogy for
+  scale, not a statement of cultural origin; this is a distinct European
+  Chalcolithic culture. Must have meaningful chapter presence for the
+  same reason as Indus Valley: it is a very large prehistoric
+  civilization that most histories elide.
+- **Indo-European migrations from the Pontic-Caspian steppe** — the
+  Yamnaya horizon (~3300-2600 BCE) and downstream expansions
+  (Corded Ware, Bell Beaker, Sintashta/Andronovo toward Central Asia
+  and the Indian subcontinent, Anatolian branch southward). Emma:
+  "the Indo-European migration was always going to be there and a
+  pretty critical thing." Carries enormous Register A (haplogroup)
+  weight because it is the single migration event that shapes the
+  modern distribution of R1a, R1b, and associated lines across West
+  Eurasia + northern India. Pairs naturally with the Cucuteni-Trypillia
+  chapter — same geographic zone, later period, cultural replacement /
+  layering story.
+
+All three are **scale corrections**. Default histories overweight
+Egypt, Sumer, Greece, Rome and underweight Indus Valley, Cucuteni-
+Trypillia, and the Indo-European / steppe material. The Gaiad explicitly
+rebalances.
+
+The Ukraine/steppe zone therefore earns **at least 2 chapters** in the
+130-220 block — Cucuteni-Trypillia as a pre-Indo-European
+Chalcolithic-settlement story, and the Yamnaya / Indo-European
+expansion as both a haplogroup chapter and a civilizational-shift
+chapter. A third chapter (Sintashta/Andronovo / chariot horizon /
+eastward Indo-Iranian migration) is plausible if budget allows.
+
+## 16. Indigenous groups — framing and regional treatment
+
+### Framing (Emma, explicit)
+
+**Indigenous-ness is NOT treated as granting moral status.** The Gaiad
+rejects the stance (held by some modern frameworks) that "indigenous" is
+itself a morally privileging category. The working definition here is
+descriptive: **certain groups live in a way that is different** from the
+agricultural / industrial / literate-historiographical default, and that
+difference is worth representing narratively — not because it confers
+higher moral standing, but because it is another mode of being human.
+
+This framing matters for tone. Chapters about indigenous groups will not
+adopt a reverential-by-default voice; they will treat indigenous material
+with the same honesty and deflationary attitude applied to Abrahamic,
+classical, and other material elsewhere in the book.
+
+### Regional treatment
+
+- **Americas — already handled reasonably well.** Indigenous American
+  material (including the Aztec tier-1 case, §6) is substantively present
+  in the Book of Leo (ch 225-252). Emma: "I think we have a pretty good
+  representation. It's not the best, but it's the best we can get."
+- **Sub-Saharan Africa — open problem, likely modern-period.** Emma: "I
+  don't know what to make of them, and I feel like it's naturally going
+  to be a bit difficult. It's going to be more modern too." Slot into
+  the 253-328 block (modern era) rather than 130-220.
+- **Southeast Asia — similar to Sub-Saharan Africa.** Indigenous groups
+  of Southeast Asia also land more in the modern period than in pre-1500
+  material. 253-328 block.
+- **Australia / Pacific** — not explicitly discussed yet, but by the
+  same logic Māori is already slotted into 253-328 (see §6 Māori
+  reclassification). Aboriginal Australian material is an open question
+  — implicitly defers to the same "difficult, likely modern" rule.
+
+### Implication
+
+The 130-220 block is **not** the place for most indigenous-group
+material. The modern-period block (253-328) absorbs the Sub-Saharan
+African, Southeast Asian, Māori, and likely Aboriginal Australian
+chapters, alongside the modern-world stuff already planned there.
+This keeps 130-220 focused on the pivotal-civilizations work
+(pre-BAC → BAC → post-BAC through ~1453).
+
+## 17. Current drafting state (as of 2026-04-14)
+
+
 
 - Ch 1-129: complete (pre-human cosmogony through dawn of humanity).
 - Ch 130-220: **this document.** Undrafted.
