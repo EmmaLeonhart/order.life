@@ -266,7 +266,109 @@ later working session.
 - **Human parts are harder than non-human parts.** Deliberate; not a
   scheduling problem.
 
-## 10. Current drafting state (as of 2026-04-14)
+## 11. The book's narrative architecture (Emma)
+
+The Gaiad is doing **three (really four) parallel histories at once**, and
+chapters divide material to serve all of them:
+
+1. **Geological history** — the earth itself.
+2. **Natural history** — life forms accumulating.
+3. **History of peoples / table of nations** — human groups, migrations,
+   genealogies.
+4. **Technological and ideological history** — tools, thought, institutions,
+   culminating in AI in the modern chapters.
+
+Chapters in the 130-220 block must serve (3) primarily but also carry (1),
+(2), and (4) where relevant. This is why a single chapter can justifiably
+carry a migration wave, a named person, a technological turning point, and
+an ideological shift in the same 28-line stretch.
+
+### The big pivot points of the whole book
+
+- **Month of Sagittarius (ch 1-28)** — creation. The entire first month is a
+  pivot in itself, establishing the stakes and cosmogony.
+- **Month of Pisces (ch 85-112)** — destruction. A full month of destructive
+  events and dramatic irony. This is where the book stops being just
+  "more and more life forms" and becomes **a period between multiple
+  destructive events**. The stakes get teeth here. "We're finally at the
+  point where the stakes are established and now we're actually saying
+  something with them."
+- **Chapter 129 — beginning of humanity as epilogue.** Not a fresh start —
+  an epilogue to the pre-human cycle that opens the human one.
+- **Book of Leo (ch 225-252) — the biggest human pivot.** See §12.
+- **Modern age (late chapters)** — AI, technological transformation, etc.
+
+### The three pivots WITHIN humanity
+
+1. **Exodus** (~Bronze Age Collapse, in the 130-220 block — see §4 Seam 2).
+2. **Book of Leo** (ch 225-252).
+3. **Modern age** (ch 253-364).
+
+## 12. Book of Leo = Book of Lehi (the satirical structural note)
+
+The Book of Leo is also the **Book of Lehi** — **loosely satirical on the
+Book of Mormon's structure**. Emma's framing: leaning into that structure
+is, counterintuitively, more culturally sensitive because it is
+*differently* structured rather than attempting neutral universalism.
+
+Status: "I'm probably going to change the Book of Leo a decent amount
+moving forward." So treat Leo as in-flux rather than fixed.
+
+### What Leo contains that's relevant here
+
+- **Aztec genealogy** is placed **inside** the Book of Leo. Emma: Aztec is
+  "probably the best genealogies in there." This means the Aztec material
+  from §6 Tier 1 is already drafted (in 225-252), not pending in 130-220.
+- **Indigenous cultures** generally are in Leo (as noted earlier).
+- **Māori material is placed AFTER Leo**, in the 253-328 modern-period
+  block (consistent with §6 Māori reclassification). Emma's reasoning:
+  "if we wanted to strictly talk about events, then the period before
+  the Book of Leo would be better for it to be later" — placing Māori
+  post-Leo serves the narrative even though events could be arranged
+  chronologically earlier.
+
+### Implication for 130-220
+
+Aztec and Māori are both **not** chapters to be drafted in the 130-220
+block — Aztec is in Leo (drafted), Māori is post-Leo (undrafted but
+deferred). This frees up the 130-220 budget: the tier-1 and tier-2+
+cases that DO belong here are **Scandinavia, Japan, Rome, China,
+Mongolia, Arabia, Ethiopia, and the Tier-4 Greek material**, plus the
+other Tier-3-ish candidates (Tibet, Korea, Vietnam, Ireland, Wales,
+Persia, Armenia, Georgia, and the Lithuania counterfactual).
+
+## 13. Genealogy network analysis (pending)
+
+Emma has raised the idea of **real network analysis on the built
+genealogies** as a planning aid. Current state:
+
+- `Gaiad/genealogy/*.json` = **2,044 JSON stubs** extracted as named
+  entities from chapters 1-129. **Graph data is essentially empty**:
+  father/mother/children all null, only 7 wiki QIDs linked. These are
+  name-in-chapter index entries, not a graph.
+- **The actual genealogies are on wiki.order.life, which is a Wikibase
+  instance (items Q1.., properties P1..)** — this is where the real graph
+  data lives, as structured Wikibase statements.
+- `wiki-scripts/wikibase_dump.py` + `.github/workflows/wikibase-dump.yml`
+  are ready to dispatch and will dump entities to `wikibase/items/Q*.json`
+  and `wikibase/properties/P*.json`. Once those run, network analysis
+  becomes possible on the real graph.
+
+### What IS possible right now (without the import)
+
+The `chapters_mentioned_in` array on each JSON stub enables a
+**chapter-cooccurrence network** across the 162 drafted chapters: nodes
+are named entities, edges link entities that share a chapter. Useful for:
+
+- Finding which mythic/historical figures have already been invoked in
+  chapters 1-129 and 221-252, so the 130-220 block doesn't duplicate.
+- Identifying central vs. peripheral entities in the existing text.
+- Seeing chapter clusters (which chapters share the densest character sets).
+
+This is tractable as a small Python script reading the 2,044 JSONs —
+can be run on demand.
+
+## 14. Current drafting state (as of 2026-04-14)
 
 - Ch 1-129: complete (pre-human cosmogony through dawn of humanity).
 - Ch 130-220: **this document.** Undrafted.

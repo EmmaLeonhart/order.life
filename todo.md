@@ -2,28 +2,44 @@
 
 ---
 
-## 📥 Import human-genealogy JSONs from wiki.order.life
+## 📥 Wikibase dump: import items + properties from wiki.order.life
 
-Human-era genealogy (descendants-from-antiquity, Charlemagne/Pani lines, Persian-royal-family bridge connecting Jewish/Muslim lines, gateway ancestors back to prehistoric haplogroup founders) currently lives on **wiki.order.life** and has NOT been imported into `Gaiad/genealogy/*.json`. The existing JSONs in that directory are pre-human only.
+`wiki.order.life` is a **Wikibase** instance (items Q1.., properties P1..),
+not a plain MediaWiki wiki. Human-era genealogy (Charlemagne/Pani lines,
+Persian-royal-family bridge connecting Jewish/Muslim lines, gateway ancestors
+back to prehistoric haplogroup founders) lives on it as Wikibase entities,
+none of which have been imported into the repo yet. The existing JSONs in
+`Gaiad/genealogy/` are pre-human stubs only and do not overlap with this.
 
 ### Why this matters
-Needed to support the 130–220 chapter block (beginning of humanity → beginning of modern age). The genealogical spine is load-bearing for the pre-BAC mythic-mosaic register and for the post-BAC genealogical-bridge material.
+Needed to support the 130–220 chapter block (beginning of humanity →
+beginning of modern age). The genealogical spine is load-bearing for the
+pre-BAC mythic-mosaic register and for the post-BAC genealogical-bridge
+material. Also enables real network analysis on the built genealogies
+(see `planning/gaiad-130-220-structure.md` §13).
 
-### Proposed approach (batched GitHub Action)
-Wiki-based, can run on GitHub Actions since existing wiki bots already work. Batch by QID range to stay within Action runtime limits:
+### Implementation (READY — merge the open PR after the first run)
+- **Script:** `wiki-scripts/wikibase_dump.py` — fetches entities from
+  `Special:EntityData/{id}.json` with `wbgetentities` API fallback.
+- **Workflow:** `.github/workflows/wikibase-dump.yml` — manual dispatch with
+  numeric range inputs; commits to a throwaway branch and opens a PR per run.
+- **Output layout:** `wikibase/items/Q{N}.json`, `wikibase/properties/P{N}.json`.
+  Kept separate from `Gaiad/genealogy/` because (per Emma) the Wikibase data
+  is complex and should be isolated.
 
-- Action input: `start_qid` / `end_qid` (e.g. Q1–Q100, Q101–Q200, …)
-- For each QID in range: fetch wiki page, parse genealogy data, write to `Gaiad/genealogy/{slug}.json`
-- Commit the batch. Re-dispatch manually with next range, or chain via workflow_dispatch.
-- Reference existing bot patterns in `wiki-scripts/` (`sync_git_pages.py`, `config.py`).
+### How to run
+Trigger the `wikibase-dump` workflow from the Actions tab with the numeric
+range of items/properties to pull. Default is Q1..Q100 and P1..P100. A PR
+is created automatically on success.
 
-### Open questions (address when importing)
-- Are wiki QIDs contiguous or sparse? If sparse, iterate a category/list page instead of numeric range.
-- Slug collision with pre-human genealogy JSONs — probably namespace human entries under `Gaiad/genealogy/human/` to keep separate (user noted "place the wiki-based JSONs as being separate because there's a lot of complexity here").
-- Schema parity: existing JSONs have a fixed shape; wiki pages may have richer/looser structure. Decide whether to normalize on import or keep wiki-shape and convert at read time.
-
-### Status
-Emma will handle when home and able to run/monitor scripts. Reconvene on schema + structure questions after initial import batch lands.
+### Open after first run
+- Confirm the endpoint / schema matches what the script expects — it's
+  untested against the live wiki from Emma's side; script has a fallback
+  URL but the real structure of the entities is unknown.
+- Schema parity with pre-human `Gaiad/genealogy/*.json` — the Wikibase
+  dump is raw; a later pass will translate selected items into the
+  existing JSON shape if useful.
+- Network analysis on the graph once properties + items are imported.
 
 ---
 

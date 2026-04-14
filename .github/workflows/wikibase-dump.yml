@@ -1,0 +1,128 @@
+name: wikibase-dump
+
+# Dump a slice of Wikibase items/properties from wiki.order.life into the
+# repo under wikibase/. Manual dispatch only — use the workflow_dispatch
+# inputs to control the numeric range. The action commits any new/changed
+# JSON files to a dedicated branch and opens a PR for Emma to review/merge.
+
+on:
+  workflow_dispatch:
+    inputs:
+      items_start:
+        description: "First item number (inclusive). Q{items_start}."
+        required: true
+        default: "1"
+      items_end:
+        description: "Last item number + 1 (exclusive). Q{items_end - 1} is last fetched."
+        required: true
+        default: "101"
+      properties_start:
+        description: "First property number (inclusive)."
+        required: true
+        default: "1"
+      properties_end:
+        description: "Last property number + 1 (exclusive)."
+        required: true
+        default: "101"
+      skip_items:
+        description: "Skip items entirely (true/false)."
+        required: false
+        default: "false"
+      skip_properties:
+        description: "Skip properties entirely (true/false)."
+        required: false
+        default: "false"
+      throttle:
+        description: "Seconds between requests."
+        required: false
+        default: "0.5"
+
+concurrency:
+  group: wikibase-dump
+  cancel-in-progress: false
+
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Build skip flags
+        id: skip
+        run: |
+          flags=""
+          if [ "${{ inputs.skip_items }}" = "true" ]; then
+            flags="$flags --skip-items"
+          fi
+          if [ "${{ inputs.skip_properties }}" = "true" ]; then
+            flags="$flags --skip-properties"
+          fi
+          echo "flags=$flags" >> $GITHUB_OUTPUT
+
+      - name: Run Wikibase dumper
+        run: |
+          python wiki-scripts/wikibase_dump.py \
+            --items-start "${{ inputs.items_start }}" \
+            --items-end "${{ inputs.items_end }}" \
+            --properties-start "${{ inputs.properties_start }}" \
+            --properties-end "${{ inputs.properties_end }}" \
+            --throttle "${{ inputs.throttle }}" \
+            ${{ steps.skip.outputs.flags }}
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add wikibase/ || true
+          if git diff --cached --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No changes to commit."
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            changed=$(git diff --cached --numstat | wc -l)
+            echo "$changed files changed."
+          fi
+
+      - name: Create branch and commit
+        if: steps.changes.outputs.has_changes == 'true'
+        id: commit
+        run: |
+          BRANCH="wikibase-dump/items-${{ inputs.items_start }}-${{ inputs.items_end }}-props-${{ inputs.properties_start }}-${{ inputs.properties_end }}-${{ github.run_id }}"
+          echo "branch=$BRANCH" >> $GITHUB_OUTPUT
+          git checkout -b "$BRANCH"
+          git commit -m "Wikibase dump: items Q${{ inputs.items_start }}..Q$((${{ inputs.items_end }} - 1)), properties P${{ inputs.properties_start }}..P$((${{ inputs.properties_end }} - 1))
+
+          Dumped from wiki.order.life Special:EntityData endpoint.
+          Triggered by workflow run ${{ github.run_id }}."
+          git push -u origin "$BRANCH"
+
+      - name: Create PR
+        if: steps.changes.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr create \
+            --base master \
+            --head "${{ steps.commit.outputs.branch }}" \
+            --title "Wikibase dump: items Q${{ inputs.items_start }}..Q$((${{ inputs.items_end }} - 1)), props P${{ inputs.properties_start }}..P$((${{ inputs.properties_end }} - 1))" \
+            --body "Automated dump of wiki.order.life Wikibase entities via \`wiki-scripts/wikibase_dump.py\`.
+
+          **Range:**
+          - Items: \`Q${{ inputs.items_start }}\` .. \`Q$((${{ inputs.items_end }} - 1))\`
+          - Properties: \`P${{ inputs.properties_start }}\` .. \`P$((${{ inputs.properties_end }} - 1))\`
+
+          Triggered manually by @${{ github.actor }} (run [${{ github.run_id }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}))."
