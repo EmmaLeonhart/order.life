@@ -101,15 +101,40 @@ registers had already fossilized into priestly ritual by the time writing
 stabilized. You interpolate between preserved layers rather than catching a
 living tradition crossing the threshold.
 
-**The benchmark cases (Emma): Scandinavia and Japan.** They are the strongest
-not despite being recent but *because* of it — both had an active mythic cycle
-that was caught by a competent literary tradition at the exact moment of
-transition (post-conversion Icelandic monks for the Eddas; the Yamato court
-commissioning Kojiki 712 / Nihon Shoki 720 for imperial legitimacy). China is
-a strong case too but less clean — by the time the *Shiji* (c. 94 BCE)
-recorded the Three Sovereigns and Five Emperors, Confucian rationalization had
-already partly flattened the mythic register, so the bridge is smoother but
-less vivid.
+### Tiering (Emma)
+
+**Tier 1 — strongest:**
+- **Aztec.** Probably the single strongest case. Mythic cycle captured in the
+  act of being destroyed — by indigenous informants under Spanish supervision
+  in Sahagún's *Florentine Codex* (1569-1585), Durán, the Boturini and Mendoza
+  codices. Tlatoani genealogy from Acamapichtli (~1376) through Moctezuma II
+  (1520) is fully historical but traces back to Huitzilopochtli and the
+  migration from Aztlán. The "modern legible form" criterion is satisfied
+  almost perfectly — this is essentially early-modern ethnography catching
+  a living tradition at the threshold.
+
+**Tier 2 — benchmark (classic clean cases):**
+- **Scandinavia** — post-conversion Icelandic monks writing down the Eddas.
+  Active mythic cycle caught by Latin-literate scribes at the moment of
+  transition (~1000-1220).
+- **Japan** — Yamato court commissioning Kojiki (712) and Nihon Shoki (720)
+  for imperial legitimacy, at the moment Chinese-style literate bureaucracy
+  became available. A deliberate state-funded capture of the mythic cycle.
+
+**Tier 3 — strong:**
+- **Rome.** Livy's *Ab Urbe Condita* (c. 27 BCE - 9 CE) + Virgil's *Aeneid*.
+  Aeneas → Romulus → kingly period → Republic. Augustus-era imperial
+  commissioning of the mythic material.
+- **China.** *Shiji* (Sima Qian, c. 94 BCE). Three Sovereigns and Five
+  Emperors → Xia → Shang → Zhou → historical. Confucian rationalization had
+  already partly flattened the mythic register before the *Shiji* compiled
+  it — smoother bridge but less vivid. Emma: "China is weird — people lived
+  in China a lot, but China did modernize a lot faster and quicker."
+
+**Tier 4 — lower (valuable but less clean):**
+- **Ancient Greece.** Homer/Hesiod → historical polities. Gap is wider;
+  no single work bridges mythic to historical as cleanly as Livy does for
+  Rome. Spartan kings-from-Heracles, etc., exist but are thinner threads.
 
 ### Why this matters for the Gaiad
 A culture with a clean mythic-to-historical bridge is **gold** for the pre-modern
@@ -117,27 +142,27 @@ human arc. We are not doing strict "descent from antiquity" (literal unbroken
 bloodlines) — we are doing bridge-making between two modes of history. Cultures
 with clean bridges carry a disproportionate narrative load.
 
-### Candidates (beyond Scandinavia and Japan)
+### Additional strong cases (beyond the tier list)
 
-**Strongest (arguably cleaner than Scandinavia):**
+Confirmed strong by Emma, to be added in explicitly:
+
 - **Mongolia** — *Secret History of the Mongols* (c. 1240). Genghis Khan
   (1162-1227, fully historical) traces to Börte Chino (Blue Wolf) and Gua Maral
   (Fallow Doe). Short generational gap from mythic to historical. Global
-  gateway-ancestor significance via Genghis's descendants.
-- **Māori / Polynesian whakapapa** — unbroken genealogy from Io / Ranginui /
-  Papatūānuku through Kupe and the great canoes to present-day individuals.
-  European contact 18th-19th c. means mythic-to-colonial-record bridge with
-  no gap. Structurally may be the cleanest case globally.
+  gateway-ancestor significance via Genghis's descendants. Emma noted wanting
+  to treat this more fully than it has been so far.
+- **Arabia** — Pre-Islamic Quraysh genealogies tracing to Adnan and Qahtan,
+  bridging to Muhammad's lineage. Emma considers this case very strong
+  — and it is structurally important because it is the **Jewish/Muslim/Persian
+  bridge** referenced elsewhere. The mythic-to-historical transition happens
+  rapidly around the 7th c. with the *sīra* and early Islamic historiography
+  catching a living pre-Islamic tribal-genealogical tradition at the threshold.
 - **Ethiopia** — *Kebra Nagast* (14th c.). Solomonic dynasty from Menelik I
   (son of Solomon and Sheba) to Haile Selassie. Continuous royal line from
   mythic origin to living memory.
 
-**Comparable to Scandinavia / Japan:**
-- **China** — *Shiji* (Sima Qian, c. 94 BCE). Three Sovereigns and Five
-  Emperors → Xia → Shang → Zhou → historical period. Strong case, but the
-  mythic material had already been partly rationalized by Confucian scholars
-  before the *Shiji* compiled it. Smoother bridge than Scandinavia/Japan but
-  less vivid as a living-cycle capture.
+### Other candidates (weaker but usable)
+
 - **Tibet** — Yarlung dynasty traces to Nyatri Tsenpo (sky-descended).
   Documented in Red Annals (14th c.), Blue Annals (15th c.).
 - **Korea** — *Samguk Yusa* (1281). Dangun founding myth + Park Hyeokgeose,
@@ -152,12 +177,25 @@ with clean bridges carry a disproportionate narrative load.
   of Troy. Vehicle for the British-Arthur fix (see §7.1).
 - **Persia** — *Shahnameh* (c. 1000). Keyumars → Pishdadian → Kayanian →
   Sasanian. Gradual legendary-to-historical transition.
+- **Armenia** — Movses Khorenatsi; Haik → Arsacids.
+- **Georgia** — *Life of Kartli*; Azon/Pharnavaz → Bagrationi.
 
-**Honorable mentions:**
-- Armenia (Movses Khorenatsi; Haik → Arsacids)
-- Georgia (*Life of Kartli*; Azon/Pharnavaz → Bagrationi)
-- Arabia (pre-Islamic Quraysh genealogies; Adnan/Qahtan → Muhammad — part of
-  the Jewish/Muslim/Persian bridge)
+### Māori — reclassified to the modern-period block
+
+Māori / Polynesian whakapapa is a **tier-1-structural** case (unbroken
+genealogy from Io / Ranginui / Papatūānuku through Kupe and the great canoes
+to present-day individuals), **but the documentation quality is the exception
+to the tier list**: most of the others were captured by indigenous-literate
+scribal traditions; Māori material was captured by 19th-century colonial-era
+ethnography. This is not a weakness — it is a structural feature.
+
+**Placement: Māori material belongs in the 253-328 block (modern period,
+Virgo/Libra/Scorpius), not in 130-220.** The transition the Māori case
+dramatizes is the *colonial clash itself* — a living mythic tradition
+meeting European modernity. That belongs in the modern chapters.
+
+Emma: "it's really, really memorable for the way to come clashes." Plan for
+**a full chapter or two** in the modern block.
 
 ### The Lithuania counterfactual
 
@@ -235,6 +273,8 @@ later working session.
 - Ch 221-252: complete (early modern, Book of Cancer/Leo boundary → end of Leo).
   Includes indigenous cultures arc.
 - Ch 253-328: undrafted (Virgo/Libra/Scorpius — likely modern era).
+  **Planned inclusion:** Māori / Polynesian colonial-clash material as a full
+  chapter or two (see §6 Māori reclassification).
 - Ch 329: complete (one-off).
 - Ch 330-364: undrafted (Ophiuchus + intercalary Horus).
 
