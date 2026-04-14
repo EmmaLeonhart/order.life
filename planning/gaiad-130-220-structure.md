@@ -90,21 +90,100 @@ time. A ch-175 chapter about the BAC can legitimately sit next to a ch-200
 chapter about a modern haplogroup reveal, because the haplogroup thread never
 closes.
 
-## 6. Regional exceptions to the register schema
+## 6. Late mythic cycles — the rapid-transition hypothesis
 
-Two cultures have heroic/mythic cycles that extend into what elsewhere would
-already be historical-register material:
+**Refined hypothesis (Emma):** the cultures with the cleanest mythic-to-historical
+bridge are NOT the oldest ones. They are the ones where the **transition was
+rapid AND a scribal/literary tradition was ready to record the living heroic
+cycle into modern legible form at the moment of transition**. Ancient Egypt and
+Mesopotamia fail not because they are too old but because their mythic
+registers had already fossilized into priestly ritual by the time writing
+stabilized. You interpolate between preserved layers rather than catching a
+living tradition crossing the threshold.
 
-- **Scandinavia:** Norse mythology extends to ~year 1000 CE.
-- **Japan:** Kojiki and Nihon Shoki extend to ~600 CE.
+**The benchmark cases (Emma): Scandinavia and Japan.** They are the strongest
+not despite being recent but *because* of it — both had an active mythic cycle
+that was caught by a competent literary tradition at the exact moment of
+transition (post-conversion Icelandic monks for the Eddas; the Yamato court
+commissioning Kojiki 712 / Nihon Shoki 720 for imperial legitimacy). China is
+a strong case too but less clean — by the time the *Shiji* (c. 94 BCE)
+recorded the Three Sovereigns and Five Emperors, Confucian rationalization had
+already partly flattened the mythic register, so the bridge is smoother but
+less vivid.
 
-Open question: do these get dedicated late chapters in the Register C run
-(briefly breaking register), or do they get retrofitted out of chronological
-order into the Register B run? **Decision deferred.**
+### Why this matters for the Gaiad
+A culture with a clean mythic-to-historical bridge is **gold** for the pre-modern
+human arc. We are not doing strict "descent from antiquity" (literal unbroken
+bloodlines) — we are doing bridge-making between two modes of history. Cultures
+with clean bridges carry a disproportionate narrative load.
 
-**Note:** Indigenous cultures (which might seem to have similar extended mythic
-cycles) are handled in the already-drafted Book of Leo (chapters 225-252), not
-here.
+### Candidates (beyond Scandinavia and Japan)
+
+**Strongest (arguably cleaner than Scandinavia):**
+- **Mongolia** — *Secret History of the Mongols* (c. 1240). Genghis Khan
+  (1162-1227, fully historical) traces to Börte Chino (Blue Wolf) and Gua Maral
+  (Fallow Doe). Short generational gap from mythic to historical. Global
+  gateway-ancestor significance via Genghis's descendants.
+- **Māori / Polynesian whakapapa** — unbroken genealogy from Io / Ranginui /
+  Papatūānuku through Kupe and the great canoes to present-day individuals.
+  European contact 18th-19th c. means mythic-to-colonial-record bridge with
+  no gap. Structurally may be the cleanest case globally.
+- **Ethiopia** — *Kebra Nagast* (14th c.). Solomonic dynasty from Menelik I
+  (son of Solomon and Sheba) to Haile Selassie. Continuous royal line from
+  mythic origin to living memory.
+
+**Comparable to Scandinavia / Japan:**
+- **China** — *Shiji* (Sima Qian, c. 94 BCE). Three Sovereigns and Five
+  Emperors → Xia → Shang → Zhou → historical period. Strong case, but the
+  mythic material had already been partly rationalized by Confucian scholars
+  before the *Shiji* compiled it. Smoother bridge than Scandinavia/Japan but
+  less vivid as a living-cycle capture.
+- **Tibet** — Yarlung dynasty traces to Nyatri Tsenpo (sky-descended).
+  Documented in Red Annals (14th c.), Blue Annals (15th c.).
+- **Korea** — *Samguk Yusa* (1281). Dangun founding myth + Park Hyeokgeose,
+  Kim Alji bridging to historical Silla/Goguryeo/Baekje.
+- **Vietnam** — Hồng Bàng dynasty via Lạc Long Quân and Âu Cơ. *Lĩnh Nam
+  chích quái* (14th c.), *Đại Việt sử ký toàn thư* (15th c.).
+- **Ireland / Celtic** — *Lebor Gabála Érenn* (11th c. compilation of older
+  material). Milesians → Tuatha Dé Danann → high kings of Tara → Brian Boru
+  (d. 1014). Emma: "the Celtic ones really, really go in."
+- **Wales** — Mabinogion + Geoffrey of Monmouth's *Historia Regum Britanniae*
+  (1136). Arthur → Uther → Constantine → back through Roman Britain → Brutus
+  of Troy. Vehicle for the British-Arthur fix (see §7.1).
+- **Persia** — *Shahnameh* (c. 1000). Keyumars → Pishdadian → Kayanian →
+  Sasanian. Gradual legendary-to-historical transition.
+
+**Honorable mentions:**
+- Armenia (Movses Khorenatsi; Haik → Arsacids)
+- Georgia (*Life of Kartli*; Azon/Pharnavaz → Bagrationi)
+- Arabia (pre-Islamic Quraysh genealogies; Adnan/Qahtan → Muhammad — part of
+  the Jewish/Muslim/Persian bridge)
+
+### The Lithuania counterfactual
+
+Lithuania was pagan until **1387** — the latest Christianization in Europe.
+Had a *Shahnameh*-scale pre-Christian epic been compiled before or shortly
+after conversion, Lithuania would have the **cleanest late-mythic bridge in
+the world** — the Gediminid dynasty (Mindaugas, Gediminas, Algirdas, Jogaila)
+is fully historical and was still pagan. Perkūnas, Velnias, Sovij, Žemyna
+survive only fragmentarily (Gimbutas, Greimas did reconstructive work).
+
+The *absence* of this epic is itself historically meaningful — Teutonic Order
+pressure suppressed documentation rather than encouraging it. Worth a chapter
+or at least a sustained note: "the book Lithuania never got to write."
+
+### The underlying pattern
+
+Clean bridges = a living mythic register caught by rich documentation. This
+refines when chapters should adopt the Register B mosaic register vs.
+the Register C historiographical register: **the specific cultures above**
+can carry Register B material much later in chapter-count than the
+chronological default.
+
+### Indigenous cultures
+
+Handled in the already-drafted Book of Leo (chapters 225-252), not in the
+130-220 block.
 
 ## 7. Genealogical spine
 
