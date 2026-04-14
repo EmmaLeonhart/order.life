@@ -368,7 +368,124 @@ are named entities, edges link entities that share a chapter. Useful for:
 This is tractable as a small Python script reading the 2,044 JSONs —
 can be run on demand.
 
-## 14. Current drafting state (as of 2026-04-14)
+## 14. The genealogical super-network (current state of the wiki)
+
+Emma has already built, on wiki.order.life, a very large genealogical
+integration that the 130-220 and 221-364 chapter blocks will draw on.
+Documenting what is there so the chapter planning can actually use it
+(rather than re-inventing it).
+
+### Goal: incorporation, not legitimization
+
+**Critical framing.** The descent-from-antiquity work is NOT an attempt
+to legitimize a specific bloodline or ruling claim. It is an attempt to
+**incorporate people into the mythical narrative** — to give every modern
+population a connective path back through documented history into the
+mythic-register material. This is why the work can absorb acknowledged
+merging errors without self-destructing: it is a narrative bridge, not
+a legal pedigree.
+
+### Western / Abrahamic-Mediterranean mega-network
+
+The genealogies integrate, as a single connected graph:
+
+- **Ancient Rome** (imperial lines, early legendary kings, Trojan descent)
+- **Ancient Greece** (Sparta, Athenian royal houses, Argive cycles)
+- **Greek mythology** (Heroic Age genealogies — Heracles, the Trojan-line
+  genealogies, etc.)
+- **Ancient Egypt** (dynastic lines back to Irihor / Menes / ghost pharaohs,
+  see §4 Seam 2)
+- **Mesopotamia** (Sumerian King List → later dynasties)
+- **Biblical lines** (patriarchs, kings, priestly genealogies)
+- **Muhammad's lineage** — placed as having a **descent from ancient Rome**
+  (a deliberate creative integration into the super-network; not orthodox
+  Islamic genealogy but structurally serves the incorporation goal)
+
+**Geographic reach:** North Africa → Europe → parts of India. The network
+is single-connected across the whole Mediterranean basin plus extensions.
+
+### Key gateway ancestors
+
+The super-network converges at a small number of high-centrality figures
+that act as bridges between otherwise-disconnected populations:
+
+- **Charlemagne** — primary European gateway. Most modern Europeans have
+  some documented descent through the Carolingian line.
+- **Bustanai ben Ḥaninai** (c. 610-670 CE) — the **Jewish Exilarch**
+  living through the Islamic conquest. Emma referenced him as "the Jewish
+  Exilarch around the time of Muhammad." Tradition ties him to a Sasanian
+  princess (Dara, daughter of Khosrow II), which makes him the **structural
+  bridge between Jewish, Persian royal, and post-conquest Islamic lines**
+  — exactly the "Jewish/Muslim/Persian family" connection noted in earlier
+  sessions (see §7 Genealogical spine).
+- **Muhammad** — with his lineage placed as descending from ancient Rome
+  (per above). This closes a loop: Roman antiquity → Muhammad → Islamic
+  genealogies → and via Bustanai → back through Persian/Jewish lines
+  into biblical material.
+
+### Acknowledged imperfections
+
+Emma: "there's definitely some errors in the genealogical merging, because
+it was difficult as fuck to do." This is expected and acceptable. The
+super-network is a **narrative integration layer**, not a citable
+historical genealogy — errors are tolerable because the work it has to
+do is structural, not evidentiary.
+
+### Asia — deliberately scattered
+
+Asian genealogies in the super-network are intentionally less integrated:
+
+- **Japan ↔ China** — some attempted connections, per Emma.
+- **Japan ↔ Korea ↔ India** — the bridge runs through the legend of
+  **Heo Hwang-ok** (허황옥 / Princess Heo), documented in the *Samguk Yusa*
+  as an Ayodhya princess who married King Suro of Geumgwan Gaya (~48 CE).
+  Her descendants (Gimhae Kim clan) tie through Korean → Japanese royal
+  intermarriage into the Japanese imperial line. Emma: "it works, but it
+  doesn't work as well."
+
+**Why the looser integration is a feature, not a bug.** The Asian
+genealogies sit outside the Abrahamic-Mediterranean super-network
+because the relevant cultures (Japan, China, Korea, India) were not
+Christianized or Abrahamized, and their polytheistic traditions carry
+their own structural logics. Forcing them into the Western merged-graph
+would be culturally flattening. Leaving them distinct gives them room
+to be integrated on their own terms — their mythic-to-historical bridges
+(see §6 Tier list: China, Japan tier 2; Korea, Vietnam, Tibet tier 3)
+can carry narrative weight without having to plug into Charlemagne or
+Bustanai.
+
+### Implication for chapter planning
+
+- **Register C (post-BAC history) chapters in 130-220** — especially from
+  ~ch 180 onward where post-BAC material lives — should lean on Charlemagne
+  and Bustanai as **named pivot figures** that let the chapter gesture at
+  the whole super-network without reciting it.
+- **Register B (mythic antiquity) chapters** in the earlier part of
+  130-220 can invoke the Greek/Roman/Egyptian/Mesopotamian integration
+  as a mosaic, since the super-network already merges them.
+- **Asian material** in 130-220 should stay relatively self-contained
+  per culture (China tier 3, Korea/Vietnam/Tibet tier 3, Japan tier 2),
+  with the Heo Hwang-ok legend as a potential bridge chapter if there's
+  room.
+
+### Analysis to run after the Wikibase dump
+
+Once `wikibase/items/*.json` is populated (see §13 and the
+`wikibase-dump` workflow), a real network analysis becomes possible:
+
+- Identify high-centrality (gateway) ancestors empirically — not just
+  Charlemagne/Bustanai but whatever the graph actually reveals.
+- Find weakly-connected components — where does Asia actually sit
+  relative to the Western mega-network?
+- Detect genealogical merging errors (cycles, impossible dates, etc.)
+  as a quality-assurance pass.
+
+Emma: "it'll probably be best for you to actually do the analysis
+yourself. There's a lot of individuals."
+
+## 15. Current drafting state (as of 2026-04-14)
+
+
 
 - Ch 1-129: complete (pre-human cosmogony through dawn of humanity).
 - Ch 130-220: **this document.** Undrafted.
