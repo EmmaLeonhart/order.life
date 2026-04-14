@@ -2,7 +2,39 @@
 
 ---
 
-## 📥 Wikibase dump: import items + properties from wiki.order.life
+## 📥 Wikibase dump: BLOCKED — actions not working, pivot to manual
+
+**Status update:** The `wikibase-dump` GitHub Action (`.github/workflows/wikibase-dump.yml`
++ `wiki-scripts/wikibase_dump.py`) is not working in practice. Both
+`wiki.order.life/wiki/Special:EntityData/Q1.json` and the `wbgetentities`
+API fallback return 503 from GitHub Actions and from sandbox probes.
+Unclear whether this is a Miraheze-side issue, a URL-shape mismatch with
+the actual Wikibase install, or a transient outage.
+
+**Pivot:** Emma will collect the genealogy manually / via other means from
+home. The automated action stays in place as a scaffolding for when it can
+be fixed, but we are NOT blocking on it.
+
+### Everything still standing
+- `wiki-scripts/wikibase_dump.py` — stdlib dumper, ready to run once the
+  endpoint works.
+- `.github/workflows/wikibase-dump.yml` — workflow_dispatch with range
+  inputs, auto-PR per run.
+- Output layout: `wikibase/items/Q*.json`, `wikibase/properties/P*.json`.
+
+### When it comes back up
+Trigger the workflow from the Actions tab. Defaults Q1..Q100, P1..P100.
+PR is created automatically on success.
+
+### Open after first run (or after manual collection)
+- Schema parity with pre-human `Gaiad/genealogy/*.json`.
+- Network analysis on the graph: empirical gateway ancestors vs. the
+  hypothesized Charlemagne / Bustanai, weakly-connected components
+  (how scattered Asia actually is), QA for merging errors.
+
+---
+
+## 📥 Wikibase dump: import items + properties from wiki.order.life (original plan)
 
 `wiki.order.life` is a **Wikibase** instance (items Q1.., properties P1..),
 not a plain MediaWiki wiki. Human-era genealogy (Charlemagne/Pani lines,
