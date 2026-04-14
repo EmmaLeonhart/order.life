@@ -483,7 +483,84 @@ Once `wikibase/items/*.json` is populated (see §13 and the
 Emma: "it'll probably be best for you to actually do the analysis
 yourself. There's a lot of individuals."
 
-## 15. Current drafting state (as of 2026-04-14)
+## 15. Coverage philosophy: represent everywhere, chapter only the pivotal
+
+**Rule (Emma):** "not every country needs to be in the Gaiad, just every
+single country needs to be somewhat represented." The 91-chapter budget
+for 130-220 is spent on **pivotal civilizations** (the ones that carry
+narrative weight for multiple downstream chapters or connect big branches
+of the super-network); lesser entries appear as **mentions within
+chapters** rather than getting their own chapter.
+
+This resolves the "91 chapters for 200,000 years" pressure: the budget
+isn't a uniform slicing of world history, it's a **weighted spotlight**
+on pivots, with the rest of the world present in connective tissue.
+
+### Required inclusions (Emma called these out specifically)
+
+- **Indus Valley Civilization** — Harappa, Mohenjo-Daro. Non-negotiable.
+  A pillar of Register B / early civilizations on par with Egypt and
+  Mesopotamia, but often under-covered. Must have meaningful chapter
+  presence, not just a mention.
+- **Cucuteni-Trypillia** — the European Neolithic-Chalcolithic culture
+  centered on modern Ukraine / Romania / Moldova (~5500-2750 BCE),
+  famous for proto-city settlements larger than any in contemporary
+  Mesopotamia. Emma: "Kukutani-Shropilia, which is some Indus Valley
+  group in Ukraine" — the Indus-Valley comparison is an analogy for
+  scale, not a statement of cultural origin; this is a distinct European
+  Chalcolithic culture. Must have meaningful chapter presence for the
+  same reason as Indus Valley: it is a very large prehistoric
+  civilization that most histories elide.
+
+Both of these are **scale corrections**. Default histories overweight
+Egypt, Sumer, Greece, Rome and underweight Indus Valley and
+Cucuteni-Trypillia. The Gaiad explicitly rebalances.
+
+## 16. Indigenous groups — framing and regional treatment
+
+### Framing (Emma, explicit)
+
+**Indigenous-ness is NOT treated as granting moral status.** The Gaiad
+rejects the stance (held by some modern frameworks) that "indigenous" is
+itself a morally privileging category. The working definition here is
+descriptive: **certain groups live in a way that is different** from the
+agricultural / industrial / literate-historiographical default, and that
+difference is worth representing narratively — not because it confers
+higher moral standing, but because it is another mode of being human.
+
+This framing matters for tone. Chapters about indigenous groups will not
+adopt a reverential-by-default voice; they will treat indigenous material
+with the same honesty and deflationary attitude applied to Abrahamic,
+classical, and other material elsewhere in the book.
+
+### Regional treatment
+
+- **Americas — already handled reasonably well.** Indigenous American
+  material (including the Aztec tier-1 case, §6) is substantively present
+  in the Book of Leo (ch 225-252). Emma: "I think we have a pretty good
+  representation. It's not the best, but it's the best we can get."
+- **Sub-Saharan Africa — open problem, likely modern-period.** Emma: "I
+  don't know what to make of them, and I feel like it's naturally going
+  to be a bit difficult. It's going to be more modern too." Slot into
+  the 253-328 block (modern era) rather than 130-220.
+- **Southeast Asia — similar to Sub-Saharan Africa.** Indigenous groups
+  of Southeast Asia also land more in the modern period than in pre-1500
+  material. 253-328 block.
+- **Australia / Pacific** — not explicitly discussed yet, but by the
+  same logic Māori is already slotted into 253-328 (see §6 Māori
+  reclassification). Aboriginal Australian material is an open question
+  — implicitly defers to the same "difficult, likely modern" rule.
+
+### Implication
+
+The 130-220 block is **not** the place for most indigenous-group
+material. The modern-period block (253-328) absorbs the Sub-Saharan
+African, Southeast Asian, Māori, and likely Aboriginal Australian
+chapters, alongside the modern-world stuff already planned there.
+This keeps 130-220 focused on the pivotal-civilizations work
+(pre-BAC → BAC → post-BAC through ~1453).
+
+## 17. Current drafting state (as of 2026-04-14)
 
 
 
