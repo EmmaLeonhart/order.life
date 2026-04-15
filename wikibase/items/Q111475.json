@@ -1,0 +1,228 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q111475$F14BED41-54BE-48E6-A6B4-D0DE4A37BDCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111479",
+              "numeric-id": 111479
+            }
+          },
+          "hash": "b198e0f9148f73c149840016af10c694f3372952",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q111475$D6BE4E59-0B2D-41FC-976F-D5643C3A78DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111477",
+              "numeric-id": 111477
+            }
+          },
+          "hash": "00c6acda5fd4c2fe80f5d7fc258371a8cc7dc5fd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q111475$17A8C68F-0B40-4B11-BCCF-155BA6590A5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110894",
+              "numeric-id": 110894
+            }
+          },
+          "hash": "577b7b7fc25d8c9142f9fa716b785412485e237e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q111475$8986294E-86A4-466E-B0F9-91E351AEC21C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q111475$B4279BC9-8C33-4D55-B8AC-D1EC6F262638",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q111475$BD7EC225-6057-4555-8E4D-B64C53052CE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112300",
+              "numeric-id": 112300
+            }
+          },
+          "hash": "10fb65c32ee5155876e9c87ef29912c4176e3afb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q111475$C598A7D0-E93F-46D6-978D-88D752B1AF0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q111475$275ED340-87F2-488B-9785-3B7B4BBB8071",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2068513"
+          },
+          "hash": "866da22daf6ee89836ea13f0f59471d115c65494",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q111475$11D7A90D-0EE9-4899-985C-9CAB8C6BCCB5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bernard I, Count of Poitiers Arms.svg"
+          },
+          "hash": "71f5262050fa7e3f3807f1a4c6922078e290cc24",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "it": {
+      "language": "it",
+      "value": "nobile"
+    }
+  },
+  "id": "Q111475",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Bernat I de Poitiers"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bernard I, Count of Poitiers"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bernat I de Poitiers"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bernard Ier de Poitiers"
+    },
+    "it": {
+      "language": "it",
+      "value": "Bernardo I di Poitiers"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bernard I, Count of Poitiers"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бернар I"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Bernard I, Count of Poitiers"
+    }
+  },
+  "lastrevid": 17523211,
+  "modified": "2025-09-17T03:44:24Z",
+  "ns": 860,
+  "pageid": 132973,
+  "sitelinks": {},
+  "title": "Item:Q111475",
+  "type": "item"
+}

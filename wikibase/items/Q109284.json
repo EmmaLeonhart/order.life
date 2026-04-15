@@ -1,0 +1,176 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Safwan bin Umayya"
+      },
+      {
+        "language": "en",
+        "value": "Safwan son of Umayya"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q97626$AAD2739D-5F33-4F04-B2A1-A48DCF9B9499",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q69476",
+              "numeric-id": 69476
+            }
+          },
+          "hash": "20b08ae33af079f242e2e47bb05eb0dec1a2b669",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q97626$27C21357-64CE-4A93-9779-75BC5E272791",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q97626$0E585DF1-CE36-40EA-96B3-1E8FD8DF843F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q97626$0863F5E7-CA64-4CA0-BAC1-BF57E15858F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q67690",
+              "numeric-id": 67690
+            }
+          },
+          "hash": "b159cc6244a52681f4aa21f7fa98516e855658b8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q97626$39CA7FAB-3EF5-4C62-8AB4-4E33590A9AC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q97626$0794063A-27F1-4E45-A3A0-AAFA50A59A19",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q97626$C17DB3CF-D8BE-4F9C-8890-F3CE5922558F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000020876572977"
+          },
+          "hash": "358b5588dc90b75b46bd6e34b56c85cde945d557",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q97626",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Safwan son of Umayya"
+    }
+  },
+  "lastrevid": 17512393,
+  "modified": "2025-09-17T00:56:05Z",
+  "ns": 860,
+  "pageid": 114355,
+  "sitelinks": {},
+  "title": "Item:Q97626",
+  "type": "item"
+}

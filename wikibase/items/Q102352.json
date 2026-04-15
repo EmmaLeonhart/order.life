@@ -1,0 +1,133 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hecuba  bint Dymas"
+      },
+      {
+        "language": "en",
+        "value": "Hecuba  daughter of Dymas"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q90672$104B01CA-05B3-4AE7-A22F-E45449FB1EA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90283",
+              "numeric-id": 90283
+            }
+          },
+          "hash": "6ffa4fe1e104475a8eda65462da6773003ca0388",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q90672$96B57B52-935C-4CFD-AC30-0C4CB0D1F770",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q90672$6C4E989A-401B-4DE3-A082-D37468FF1C1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q90672$B3908F4C-88B0-4688-B57B-0FEA70D0B904",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Hecuba /bint Dymas/"
+            }
+          },
+          "hash": "3aa26ceae968e1ddb6829d5165163109276d47d1",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q90672$F0B93566-CBA3-4674-8B7A-A94FBD340FBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q90672",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hecuba  daughter of Dymas"
+    }
+  },
+  "lastrevid": 17505479,
+  "modified": "2025-09-16T23:17:55Z",
+  "ns": 860,
+  "pageid": 105605,
+  "sitelinks": {},
+  "title": "Item:Q90672",
+  "type": "item"
+}

@@ -1,0 +1,174 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmad bin Ahmad"
+      },
+      {
+        "language": "en",
+        "value": "Ahmad son of Ahmad"
+      },
+      {
+        "language": "en",
+        "value": "Ahmad Al-Husayni"
+      }
+    ]
+  },
+  "claims": {
+    "P3": [
+      {
+        "id": "Q99084$3FC2F5FD-9310-42DA-AD43-0A74F530A773",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ahmad bin Ahmad"
+            }
+          },
+          "hash": "fbb6ebc29e44c71964a6963b7fa687e4c0db573d",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99084$C04A6C67-64EB-4E16-AFB7-E8683E7B4FAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99084$3F66EF98-F0EE-41F0-8B5D-05B21C9E4DD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q99084$6C022B39-D0F2-43FE-8079-48738CB1A4D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98569",
+              "numeric-id": 98569
+            }
+          },
+          "hash": "8240be107e13095746a381d3c66739f3cd8f7bc0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99084$F1189173-0B73-4E64-AF3B-F95088388694",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ahmad bin Ahmad //"
+            }
+          },
+          "hash": "119c906747b7ff1e71de286dbbdb1842a8ec7b66",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99084$6680AC62-1E27-4B58-A4E8-5F0E8641028F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99084$25875334-4397-467C-BFAC-EB2FEBA26DEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000218119238870"
+          },
+          "hash": "762305a2186bbadd42763726c21046c82156d16a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q99084",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ahmad son of Ahmad"
+    }
+  },
+  "lastrevid": 17513839,
+  "modified": "2025-09-17T01:16:24Z",
+  "ns": 860,
+  "pageid": 116314,
+  "sitelinks": {},
+  "title": "Item:Q99084",
+  "type": "item"
+}

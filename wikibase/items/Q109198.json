@@ -1,0 +1,226 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince Musa bin Isa"
+      },
+      {
+        "language": "en",
+        "value": "Prince Musa son of Isa"
+      },
+      {
+        "language": "en",
+        "value": "Musa Al-Abbasi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q97540$B533810E-A0C2-4928-BEC7-5709581217DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97574",
+              "numeric-id": 97574
+            }
+          },
+          "hash": "803019fec02967d8d8d8a76507007917d586ffc9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q97540$1895363C-8A14-4D36-A21D-4422C8C9E885",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q97540$04F1DD46-1F03-49D1-A53B-0E30D7ED3B9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q97540$1D15D764-C0F9-4C85-94DE-43768A018845",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q96892",
+              "numeric-id": 96892
+            }
+          },
+          "hash": "450a16597978a7e9a263ce7f0726cb7ad23c3f3b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q97540$2A22DAA1-D67C-428B-A7C6-EF3097769C96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q96870",
+              "numeric-id": 96870
+            }
+          },
+          "hash": "aa7a29f43f4067026fd569b14e354e9e35e4745f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q97540$BC1442A9-29D6-46FA-8F31-87AFE67F4DEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q97540$8436254E-16E7-4165-90FE-2CB2A4DD7235",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q97540$960FEA17-0093-4ACB-80C3-E5C0BB6DDFD7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q97540$DBF045E0-3640-40D7-A1FE-D9D73211EEF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000218041803846"
+          },
+          "hash": "c98155c2c185858d4f95b1c710f5daf960d1aea0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q97540",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Prince Musa son of Isa"
+    }
+  },
+  "lastrevid": 17512311,
+  "modified": "2025-09-17T00:54:42Z",
+  "ns": 860,
+  "pageid": 114239,
+  "sitelinks": {},
+  "title": "Item:Q97540",
+  "type": "item"
+}

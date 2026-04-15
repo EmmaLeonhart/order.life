@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abu Salama bin Abdul-Rahman bin Awf"
+      },
+      {
+        "language": "en",
+        "value": "Abu Salama son of Abdul-Rahman son of Awf"
+      },
+      {
+        "language": "en",
+        "value": "Ismail Al-Zuhri"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q95223$7317C275-6684-4E12-9317-83A8057F7F82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q95223$DB8AD735-4D08-4919-9E37-7CDCB4A15656",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q95223$164A3B28-2047-49EB-828D-8AF8311444C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94862",
+              "numeric-id": 94862
+            }
+          },
+          "hash": "8b56f2e452437dc54834910bb62fe068aa8a063d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q95223$02C16238-E008-460D-8E86-1DBA887BF041",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94836",
+              "numeric-id": 94836
+            }
+          },
+          "hash": "45ead5988df6402264dd1d3a80cf5029b340374e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q95223$9B6D045A-6D4B-4E1D-82BB-4A10F0841BFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q95223$2AEA3895-832B-4794-AAD6-FF7C10C270AD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q95223$0C8A59F7-280A-4411-B384-AF1466FAAC59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q95223$0F7A3321-F5CD-424C-99DE-B1411C206BC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000039110925862"
+          },
+          "hash": "34f6385a16080054f9c1583e84fa546c5f9870ae",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q95223",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Abu Salama son of Abdul-Rahman son of Awf"
+    }
+  },
+  "lastrevid": 17509995,
+  "modified": "2025-09-17T00:21:47Z",
+  "ns": 860,
+  "pageid": 111136,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q95223",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q95223"
+    }
+  },
+  "title": "Item:Q95223",
+  "type": "item"
+}

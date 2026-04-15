@@ -1,0 +1,204 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91438$0BDBE9ED-683C-47E7-BB99-186C0AE5FC8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89465",
+              "numeric-id": 89465
+            }
+          },
+          "hash": "fa5e92ebc3bf34567fbc62c187e6ce13e4de7684",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91438$5F8CE0ED-D712-427C-B4DD-D675266955B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89467",
+              "numeric-id": 89467
+            }
+          },
+          "hash": "355cd4d85bc881dac56635a276de7de3096ee9f4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91438$BE8D94AB-DA09-42F6-AF8D-4D59670B2E40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91438$05AACC7A-80CB-4B53-B41C-C06F231AD350",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91438$E79DA077-450A-43F2-ACBD-6704777DC068",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89295",
+              "numeric-id": 89295
+            }
+          },
+          "hash": "1a1b1896774c9e68fb8e8d75ac8bc5fdfd126fcf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q91438$3F970E7F-EFD3-420E-AE2B-D6DF833D3565",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Feigel Meshullam /ben Jacob/"
+            }
+          },
+          "hash": "5c594af241a3aef08d35942728e1ef1a36a0c81b",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91438$DB9E2B23-A8C1-454A-AE81-897C65D865EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91438$0A18625C-3C21-4246-899B-205B30485038",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91438$AE1D04CB-7649-4312-BFEE-D338285C2D21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000180725047822"
+          },
+          "hash": "f8bcbf6d1b256c13fe54edd685c48d076b612ff2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91438",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Feigel Meshullam  ben Jacob"
+    }
+  },
+  "lastrevid": 17506243,
+  "modified": "2025-09-16T23:28:09Z",
+  "ns": 860,
+  "pageid": 106615,
+  "sitelinks": {},
+  "title": "Item:Q91438",
+  "type": "item"
+}

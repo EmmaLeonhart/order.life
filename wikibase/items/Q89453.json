@@ -1,0 +1,185 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q89453$CB0365A9-3252-4C2B-B847-8EEEF0432D3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89685",
+              "numeric-id": 89685
+            }
+          },
+          "hash": "b287cae0afa6405919d641b4d20d98c0abbf76be",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q89453$E1C8AE54-805B-4947-AA88-0FA0F31F55F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89453$12D03749-D132-4EB7-B6DD-6459A0237656",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q89453$23885B0B-7CAD-4B33-803E-8C2EB6E559F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89287",
+              "numeric-id": 89287
+            }
+          },
+          "hash": "457ba99dc8395e3637ea28116fe8f4e1377857dd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q89453$EB97D9E3-F5AE-41F5-853D-F6C4F5217CC3",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Moshe Bonafos /Saltell/"
+            }
+          },
+          "hash": "7a31db111beef6db9075c28b3f0c253c448e7dff",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q89453$D7ECF30A-DB81-4921-8279-D414975D14DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q89453$38395BF4-578A-48E3-B297-CBEC38D1C0F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q89453$B2DAD45B-A362-4824-9166-A74DF2DC84DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000014683643295"
+          },
+          "hash": "01d722f493a00f2e8c197b3dbdd4011bc93c07fa",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q89453",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Moshe Bonafos  Saltell"
+    }
+  },
+  "lastrevid": 17504261,
+  "modified": "2025-09-16T22:59:48Z",
+  "ns": 860,
+  "pageid": 104284,
+  "sitelinks": {},
+  "title": "Item:Q89453",
+  "type": "item"
+}

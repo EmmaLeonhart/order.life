@@ -1,0 +1,181 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Argilo de Castela"
+      },
+      {
+        "language": "en",
+        "value": "Velasquita"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113441$EE5BDE6B-E72C-4F15-B777-5259AB8475F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113441$D4BCED51-5BE5-482E-A0D3-874AC6D9ED0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113441$74607BF1-FDE4-4A46-B0C8-305C0C99288A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113441$87386FE8-E002-431E-955A-286FB890511F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0905-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "61f875afcb762de78c79138a9d5fbf39dff04e9c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q113441$C81D483C-288D-48EF-A1FA-0A0D5EE16F3B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0970-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fef57a6aeac202326af7f0f382c543d221cf6ead",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113441$1170A268-2132-4179-8041-79384078ACCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000016170670442"
+          },
+          "hash": "d3e6f181562d566554078d1187eb28a3f1229511",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113441$40B3DF4F-4175-4DD9-834B-AB7F81B4E7EB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Velasquita Arms.svg"
+          },
+          "hash": "15b17b97cfd156f17a379de4983a6ee56aac71da",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113441",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Velasquita"
+    }
+  },
+  "lastrevid": 17525249,
+  "modified": "2025-09-17T04:15:03Z",
+  "ns": 860,
+  "pageid": 135613,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q113441",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q113441"
+    }
+  },
+  "title": "Item:Q113441",
+  "type": "item"
+}

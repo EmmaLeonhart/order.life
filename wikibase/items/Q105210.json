@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cristóbal Montesinos Navarrete Vera de Aragón"
+      },
+      {
+        "language": "en",
+        "value": "Cristobal Montesinos Navarrete y Vera de Aragón"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q93544$59E2AC5C-B402-48B2-97DD-0A32CA03C46E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93544$4AC0B8CA-D408-4D57-8BC2-BCF32C525C94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q93544$34B6D747-D87D-49FD-B6BF-AE980D21D9E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93542",
+              "numeric-id": 93542
+            }
+          },
+          "hash": "43ab15b2af7504372e2a46314109dae3b55db857",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q93544$C96C1352-71BE-4DB5-8976-672127607A47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92878",
+              "numeric-id": 92878
+            }
+          },
+          "hash": "30a724d99bd1902f49eb2311c8d73201ea73f3b7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q93544$0D5CAEB8-4C82-4A2A-8923-F9697FB1DCD6",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Cristobal /Montesinos Navarrete y Vera de Aragón/"
+            }
+          },
+          "hash": "4c1fad4c324f68c258b016500e5e1db6f0abb1b5",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93544$568E365A-C281-44A1-B591-867735ADF5E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q93544$87BEE8E7-FBE7-487E-92A1-E4AA95845134",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q93544$590854BA-8753-4BF8-BD9C-2A73D3CD7447",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "7ab81a952e3ff076b69c615d1e4254b2c7f1fa5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93544$273D2907-7B0B-4D94-9E7D-05D79C15635C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001315238207"
+          },
+          "hash": "df681dedf13486190ee09bcae3e1c37b497bf107",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93544",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Cristobal  Montesinos Navarrete y Vera de Aragon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cristobal  Montesinos Navarrete y Vera de Aragón"
+    }
+  },
+  "lastrevid": 17508337,
+  "modified": "2025-09-16T23:56:40Z",
+  "ns": 860,
+  "pageid": 108958,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q93544",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q93544"
+    }
+  },
+  "title": "Item:Q93544",
+  "type": "item"
+}

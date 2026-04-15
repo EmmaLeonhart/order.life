@@ -1,0 +1,143 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Raymond de Bordeaux"
+      },
+      {
+        "language": "en",
+        "value": "Raymond, comte de Bordeaux"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118721$EC852572-4631-47EC-8CDA-A1790D688E85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118721$AC05B265-2B21-496B-98D0-01F70344F0D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q118721$B2B24685-CF5A-496A-858F-2F22BB59DFE8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "comte de Bordeaux"
+          },
+          "hash": "9c80e5fcbfe149d4952f85853b307e502b679241",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118721$D4505971-C086-456F-81F3-6D769E9AB802",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118721$EBD0655C-4CBF-495C-BF5D-AC7D050D897C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013716551883"
+          },
+          "hash": "c96b09d134a9880be1f6659a110ff5ee58525872",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118721$35C4B846-F3A4-4B2E-A108-5223ADEB5753",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Raymond, comte de Bordeaux Arms.svg"
+          },
+          "hash": "887bf50f433e5b0878c431bc145072b86506348f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118721",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Raymond, comte de Bordeaux"
+    }
+  },
+  "lastrevid": 17531702,
+  "modified": "2025-09-17T05:52:20Z",
+  "ns": 860,
+  "pageid": 142688,
+  "sitelinks": {},
+  "title": "Item:Q118721",
+  "type": "item"
+}

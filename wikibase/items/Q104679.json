@@ -1,0 +1,227 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q93012$1181DD48-3DBB-4037-AED1-33DB8593AB54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33889",
+              "numeric-id": 33889
+            }
+          },
+          "hash": "aa14c0479df0cb15405cb919cb3fea94cd5ef4fd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93012$FE4A339B-B312-4BDB-AFE1-6DA891241B6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33893",
+              "numeric-id": 33893
+            }
+          },
+          "hash": "653db5d799d981c048acd93736cf5185d005dfb2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93012$346E1B43-C027-4B3A-A775-B74BF85A35C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33897",
+              "numeric-id": 33897
+            }
+          },
+          "hash": "a3cd4782a739209afc66ef31e0d87762f9c4bd3b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q93012$4FACD950-A0FA-4F0D-BCE0-0CB8C4B6B522",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93012$DA426B3C-0E31-44DA-B4D6-89A480878B58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q93012$BD766FF7-1188-4FF0-9F9E-B74137BCD153",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32351",
+              "numeric-id": 32351
+            }
+          },
+          "hash": "241925a2d3d22b6063322af113c0109eb197ab56",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q93012$7336CC5A-A2CB-492B-A4DD-4AC70DF2DFE3",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Alonso /Vélez de Guevara y Salamanca/"
+            }
+          },
+          "hash": "791c06306ec2e07f43b8d76dc2686fc665915777",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93012$D2A48427-E1C6-48C5-ACCF-3F9A265CBFC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q93012$00281157-6E7F-45B0-B819-4397630804E2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93012$E594E7BE-369C-4296-B907-5258D1AF9787",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000045996955232"
+          },
+          "hash": "10246eb53d08bf1aaf1db045bf613d6edd32c3a8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93012",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Alonso  Velez de Guevara y Salamanca"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alonso  Vélez de Guevara y Salamanca"
+    }
+  },
+  "lastrevid": 17507805,
+  "modified": "2025-09-16T23:49:31Z",
+  "ns": 860,
+  "pageid": 108384,
+  "sitelinks": {},
+  "title": "Item:Q93012",
+  "type": "item"
+}

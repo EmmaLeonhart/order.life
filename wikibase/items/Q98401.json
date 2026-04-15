@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Obadya Ben Amay ibn Arnan"
+      },
+      {
+        "language": "en",
+        "value": "עובדיה בן ישעיה"
+      },
+      {
+        "language": "en",
+        "value": "Obadya ibn Arnan"
+      },
+      {
+        "language": "en",
+        "value": "Obadiasz"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q86717$91BDB446-0437-4060-BD21-75E6D80A9D91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86707",
+              "numeric-id": 86707
+            }
+          },
+          "hash": "c973f8678917858c5aed622e8e0611dc98d30e66",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q86717$2FE71523-C13D-45A7-9808-4AE42F32E26B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86717$473671DF-03DC-4C41-9FF9-95E1DAEB4F45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q86717$F5ACAC51-D1EC-4AE0-BC0F-834466336D06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86727",
+              "numeric-id": 86727
+            }
+          },
+          "hash": "9a9b654f1c906d5e56bc12554357c272ba82b296",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q86717$C0221BFB-B8E1-42EA-9184-852D3C968869",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86729",
+              "numeric-id": 86729
+            }
+          },
+          "hash": "9d9aad54892f95e1905c6643d461f3ba742de9e0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q86717$74C05BC6-03ED-4C3E-BA08-249FF53E5FA1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "11th Exilarch"
+          },
+          "hash": "0bfbf05894598f2039f438fc19166093ef6b4e8e",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86717$58E769F2-4ED2-48B2-B968-3DB25CBB71E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q86717$B36CBFC1-4E02-4185-A78F-4F6ACF8CDC52",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86717$A98D6439-21BB-4E65-B45A-6400C96896E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000009708476278"
+          },
+          "hash": "5d2c43ebd8730057859412d7a390b926a1ed1fd0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q86717",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Obadiasz"
+    }
+  },
+  "lastrevid": 17501527,
+  "modified": "2025-09-16T22:21:03Z",
+  "ns": 860,
+  "pageid": 101548,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q86717",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q86717"
+    }
+  },
+  "title": "Item:Q86717",
+  "type": "item"
+}

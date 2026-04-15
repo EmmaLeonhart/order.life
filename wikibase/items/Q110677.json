@@ -1,0 +1,190 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Haider  bin ?"
+      },
+      {
+        "language": "en",
+        "value": "Haider  son of ?"
+      }
+    ]
+  },
+  "claims": {
+    "P3": [
+      {
+        "id": "Q99016$BEEFBF2B-FB23-4047-AD47-B30E237F6738",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Haider"
+            }
+          },
+          "hash": "ef2bf72e3aeaa65c68810e1c2ad67b1ed70b311a",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99016$D857BA31-EE13-4C79-B794-C4500BF3D764",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99016$87A10F33-836F-4CAF-9DAC-8E71D3115C0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q99016$573E60E4-8F71-45E2-899E-68A17518B3F9",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "bin ?"
+            }
+          },
+          "hash": "087aeb59764418b860209c6897ae8f67262bf532",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q99016$12C8A692-CAAE-44A0-9407-7FF961D445A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98489",
+              "numeric-id": 98489
+            }
+          },
+          "hash": "484f68eaf831bf0ffe45acba6c3ef9d3cfb36933",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99016$CACDB3E2-E2E5-4614-A3C7-DC288849333B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Haider /bin ?/"
+            }
+          },
+          "hash": "94f2900c18bbfc1da5330464a46f17fb968e8a88",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99016$3CC92F5F-B0D6-4409-AE65-720D39AEE1B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99016$2424FBBA-A19A-47EF-B9C3-DD70441993A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013224805953"
+          },
+          "hash": "04b3c6782fd9a64b5b5fe2c8b0f962e7ec5ffb77",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q99016",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haider  son of ?"
+    }
+  },
+  "lastrevid": 17513773,
+  "modified": "2025-09-17T01:15:30Z",
+  "ns": 860,
+  "pageid": 116222,
+  "sitelinks": {},
+  "title": "Item:Q99016",
+  "type": "item"
+}

@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sunyer de Pallars Jussà"
+      },
+      {
+        "language": "en",
+        "value": "Sunyer, Infant de Pallars Jussà"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113365$3ABCF7BD-7D16-4C8D-A972-AD335DEC82D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113365$931A7108-A21F-4A90-B880-CD4EE45691A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q113365$E09BFF63-FD05-4034-BCDE-D0967E4E6761",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113361",
+              "numeric-id": 113361
+            }
+          },
+          "hash": "b4634ee271971796552949cabeb8bc34e2f51981",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q113365$CBA34C80-94B5-48E3-B639-3FC1833347AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100920",
+              "numeric-id": 100920
+            }
+          },
+          "hash": "13f2eaca2290f5968f7a2a69a1695574d6320206",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q113365$26DFA801-9C24-4248-8ADA-48751EE16FF3",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Infant de Pallars Jussà"
+          },
+          "hash": "f6f70404348a62b62ca57257053def6b19e2f816",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113365$D472D267-85ED-41C4-A511-194C9ECF86D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q113365$6720C3ED-5041-436D-B920-C1748D05F442",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1103-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1fc75502b88516c1f27d33f1c139eff61a0b727a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113365$2AF0140C-E9EA-40E5-BD05-7F7D81453785",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011063532109"
+          },
+          "hash": "ae28bc5652fada3798d66f1fd567752fa8e92320",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113365$02A220D4-92B6-465F-9390-BE832CA914BA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sunyer, Infant de Pallars Jussa Arms.svg"
+          },
+          "hash": "7dc13c46d57099d5ea860254c0954a5e2feaa8d9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113365",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sunyer, Infant de Pallars Jussa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sunyer, Infant de Pallars Jussà"
+    }
+  },
+  "lastrevid": 17525123,
+  "modified": "2025-09-17T04:12:29Z",
+  "ns": 860,
+  "pageid": 135510,
+  "sitelinks": {},
+  "title": "Item:Q113365",
+  "type": "item"
+}

@@ -1,0 +1,176 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sallam bin Mishkam"
+      },
+      {
+        "language": "en",
+        "value": "Sallam son of Mishkam"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q93935$A3EC948A-CD29-4D7A-91E6-9F494CA9112F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93935$40A53ABD-5CF3-4E6A-B2A2-5DDC7C8F45A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q93935$D4CF0DDC-499B-4221-B937-74D20E140F94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90753",
+              "numeric-id": 90753
+            }
+          },
+          "hash": "002d4a55d1e80b3f7c3c5ad43df1ca383bb0b702",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q93935$554F5AC8-D49F-4603-B5C8-AB422BB298D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q96312",
+              "numeric-id": 96312
+            }
+          },
+          "hash": "39295e3fcb0adb51de9c00186d926d9b6d4565df",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93935$24D59518-5E1C-423E-A437-0DDFBB4CC9B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q93935$EF3C2FC1-98B6-45B6-9F27-0D0273B29016",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93935$09A8D86F-FAF8-4E31-8BBC-3B7F6AE1382E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018211461556"
+          },
+          "hash": "f0d1bbfe2cdca7b4899d9de5304aa093baeb77e8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93935",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sallam son of Mishkam"
+    }
+  },
+  "lastrevid": 17508727,
+  "modified": "2025-09-17T00:03:06Z",
+  "ns": 860,
+  "pageid": 109399,
+  "sitelinks": {},
+  "title": "Item:Q93935",
+  "type": "item"
+}

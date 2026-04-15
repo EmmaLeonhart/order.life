@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eliyashiv ibn Tuvya"
+      },
+      {
+        "language": "en",
+        "value": "Eliyashiv ibn Azariya (ibn Tuvya)"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q86756$3C4B1471-33B4-45F1-9B3D-14D60A2099CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86750",
+              "numeric-id": 86750
+            }
+          },
+          "hash": "0e1ac662e60773c81648636776569852f5a47be1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q86756$09D9620D-80A4-4706-BDBD-4F68D893E281",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86756$3BF3B8CA-17E0-4A7F-921A-52785345309E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q86756$A9752853-FDD9-4C6B-AA3F-4E9A8ADAC4C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86760",
+              "numeric-id": 86760
+            }
+          },
+          "hash": "7dd816937a42ade4e64a60da5fb7278a7cd14033",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86756$62ABB4A2-571C-4B9E-BC75-FAD41AFB9F80",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Eliyashiv /ibn Azariya (ibn Tuvya)/"
+            }
+          },
+          "hash": "f587b6caa5a0e0458fb59e9d13236a63417b7689",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86756$45779B98-C702-4902-B360-00749884A1FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q86756$55CA0F7B-2EA6-41A8-B13A-9830DBAFA497",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86756$C8C7C915-7E0F-4D20-8D3A-0B054A0C05B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000019082005648"
+          },
+          "hash": "3836fdb57e5be2ce8fea99cb20ac6555d144f9b1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q86756",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Eliyashiv  ibn Azariya (ibn Tuvya)"
+    }
+  },
+  "lastrevid": 17501565,
+  "modified": "2025-09-16T22:21:36Z",
+  "ns": 860,
+  "pageid": 101587,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q86756",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q86756"
+    }
+  },
+  "title": "Item:Q86756",
+  "type": "item"
+}

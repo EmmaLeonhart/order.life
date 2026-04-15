@@ -1,0 +1,203 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q92436$70E3C975-92D2-4E16-A4C1-D4F4FDE2EFBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32379",
+              "numeric-id": 32379
+            }
+          },
+          "hash": "445b50e7c82ebc023d51942dcf732ad989cfa2c1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92436$96A7704F-FC90-4085-9555-554CFED3D389",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32383",
+              "numeric-id": 32383
+            }
+          },
+          "hash": "d51a2c6c1a023e9677b8c31370774f3767c0fd71",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q92436$FAC1BB27-C2D5-4576-83F2-6161AFC33EDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92436$946CC64D-130B-4951-BD2C-397EDA444AF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q92436$51880099-D33A-4398-8086-BDBF1F0DA25F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92062",
+              "numeric-id": 92062
+            }
+          },
+          "hash": "2e4398e490aacd1a415ec34603f8ed61042ae7f3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q92436$035A9B9C-C94C-4911-BE2E-15D224CEBC53",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Jeronimo /de Salamanca y Polanco/"
+            }
+          },
+          "hash": "cbc3f6d44898009b29a73a312f3ed8be413bd732",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q92436$DD36F747-D1FC-4D4F-9710-214AB8B351E3",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "banker of Felipe II"
+          },
+          "hash": "8f6d47bc881ebcb9c8ed58f0d407d25435144f33",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q92436$63DFF751-3222-4A6D-BD9D-65A50E24C8FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q92436$997595DB-86D2-4379-B432-F85C5A6C216B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000080869878951"
+          },
+          "hash": "78dce11cae5159a405b4ed9b618a81f54fee48fc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q92436",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Jeronimo  de Salamanca y Polanco"
+    }
+  },
+  "lastrevid": 17507233,
+  "modified": "2025-09-16T23:41:32Z",
+  "ns": 860,
+  "pageid": 107807,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q92436",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q92436"
+    }
+  },
+  "title": "Item:Q92436",
+  "type": "item"
+}

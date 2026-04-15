@@ -1,0 +1,211 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ahmad bin  Hasan"
+      },
+      {
+        "language": "en",
+        "value": "Ahmad son of  Hasan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q98426$9DA97B29-3890-423F-A561-45D078C6EEEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98944",
+              "numeric-id": 98944
+            }
+          },
+          "hash": "1c183962376b95a499b8f7dac87889855bfca370",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q98426$EA9E9FC3-D90C-4BB2-ACDF-6B06BC70E99B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ahmad bin"
+            }
+          },
+          "hash": "0327280384bf1ba3022c41dcafda8ec6ef92acc0",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q98426$8D894AC0-83C5-44CD-8FAD-838683D82D57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q98426$181EC2E8-6496-463F-9F2F-CBD0E4D28078",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q98426$E2206619-DAAC-4CA5-B0F5-F3A643117E38",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Hasan"
+            }
+          },
+          "hash": "ec7908894ff1ab56d2a14543bce6c09e8f8eb111",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q98426$302A4829-9D50-4119-A245-F5A2124E93E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97815",
+              "numeric-id": 97815
+            }
+          },
+          "hash": "8aac79bd6e9403d81c9438a61b3244d0ae1d0d80",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q98426$DF4EB8F8-47E1-41AF-8E03-1F4D6F804719",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ahmad bin /Hasan/"
+            }
+          },
+          "hash": "3e5f91cfdb410ec50186a4240aaad75eefa99b8f",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q98426$94189136-7CCE-4F0D-8FA4-5A6B6BE17C1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q98426$1F71982E-BD13-4EED-BD58-27B95B467545",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000039186359744"
+          },
+          "hash": "51b9226c1d06b1504e460b1565b01ef3916c86fa",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q98426",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ahmad son of  Hasan"
+    }
+  },
+  "lastrevid": 17513189,
+  "modified": "2025-09-17T01:07:33Z",
+  "ns": 860,
+  "pageid": 115429,
+  "sitelinks": {},
+  "title": "Item:Q98426",
+  "type": "item"
+}

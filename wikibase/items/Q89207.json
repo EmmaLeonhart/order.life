@@ -1,0 +1,231 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q89207$F6A4D13B-89A8-4841-AC1B-51C564A22C13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89367",
+              "numeric-id": 89367
+            }
+          },
+          "hash": "0b80caed6c953c7ea012e34468799dac603080a0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q89207$B7D094C8-5D3C-49E7-9692-562025B3F645",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89207$2A314EE8-C838-490F-A861-C363A44F1085",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q89207$B9E58DA8-4239-4B0A-8CB0-28F72A948029",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91402",
+              "numeric-id": 91402
+            }
+          },
+          "hash": "fed0205560ad9ab5caadad20490b249478cd4b9e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q89207$17F7A172-1DCA-4285-8213-0FBC892F7F3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89069",
+              "numeric-id": 89069
+            }
+          },
+          "hash": "356cc4693d01807ee0f09dcab0b3c09e6f440e91",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q89207$6D7AECB0-0C39-4308-9963-6C13D7CF3A11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91348",
+              "numeric-id": 91348
+            }
+          },
+          "hash": "f95d17892c9d5fdb7ac8f5aa730af7d6f55e1c00",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q89207$8BB60233-E705-489D-9E09-D1E5ED0354CF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Solomón Ben /Haleví de la Caballería/"
+            }
+          },
+          "hash": "693aa7a180e55a1e202d8a99990a08d534f21f36",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q89207$341FE9D9-E6F2-4734-A5EC-FDCA5B0C09CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q89207$19C4B93F-4BA3-42DE-8A57-16F8F7E12970",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q89207$43929D0B-3E2A-4328-A719-5CA4B3075200",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000027596597174"
+          },
+          "hash": "fc3258400b121263a93ea0e66cc36108b41e12e2",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q89207",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Solomon Ben  Halevi de la Caballeria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Solomón Ben  Haleví de la Caballería"
+    }
+  },
+  "lastrevid": 17504015,
+  "modified": "2025-09-16T22:56:27Z",
+  "ns": 860,
+  "pageid": 104038,
+  "sitelinks": {},
+  "title": "Item:Q89207",
+  "type": "item"
+}

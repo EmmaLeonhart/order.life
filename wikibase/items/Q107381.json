@@ -1,0 +1,484 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maria al-Qibtiyya"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q119034$07AAB28D-E7DF-4423-A22D-AFB3CBA3AAAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Al-Qibtiyya-1"
+          },
+          "hash": "5baaf1047623db1a9e878cb47c4fc9ac621d650d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q119034$BA35AF74-24EA-4BF2-9171-6D6F77A032FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q119034$8A4B982D-DEAB-4952-9602-7CCC5BC8EA7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q119034$144E6B8A-4926-4194-901C-7AA021E56D55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q119034$A0715DDC-1283-47F1-9B13-E03446DEBFD1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0637-02-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "13f706d232242e1613a43ed9d2ccb0c78d2c673d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q119034$A10CEF94-C410-40D4-BE66-CB69C9013E1C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q263779"
+          },
+          "hash": "7320c41bfa541daff2076803376a37209ea9b6cb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q119034$95FE6E9F-D6A1-4884-ACC2-07AAB8C9E41B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maria al-Qibtiyya Arms.svg"
+          },
+          "hash": "7ada022055a3b106ea6d63f09bfeb9485e37e3e2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أمة رسول الإسلام محمد وأم ولده ابراهيم"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ইসলামের নবী মুহম্মদের স্ত্রী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "sahabiyya"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "یەکێک لە هاوسەرەکانی پێغەمبەر محەممەد"
+    },
+    "de": {
+      "language": "de",
+      "value": "christliche Sklavin und Konkubine des Religionsstifters Mohammed"
+    },
+    "en": {
+      "language": "en",
+      "value": "One of Muhammad's concubines"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "unu el la edzinoj de Mohamedo"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "profeetta Muhammedin orja ja jalkavaimo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse de Mahomet"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "nane jeh ny mraane sheshee lesh Mahommad"
+    },
+    "he": {
+      "language": "he",
+      "value": "אחת מנשותיו של מוחמד, איתו הביאה לעולם את אבראהים"
+    },
+    "id": {
+      "language": "id",
+      "value": "istri nabi Muhammad"
+    },
+    "it": {
+      "language": "it",
+      "value": "schiava copta cristiana sposa di Maometto"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Jina Muhemmed pêxember"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "sahaba uit Egypte (?-637)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "krščanska sužnja in konkubina preroka Mohameda"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "slavkonkubin till Muhammed"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Muhammed'le sohbet etmiş Müslüman (sahabe)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "наложниця пророка Мухаммеда"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "صحابیہ و ام المومنین"
+    }
+  },
+  "id": "Q119034",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مارية القبطية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ماريه القبطيه"
+    },
+    "as": {
+      "language": "as",
+      "value": "মাৰিয়া দ্য কপ্ট"
+    },
+    "av": {
+      "language": "av",
+      "value": "Мария ал-КъибтӀийя"
+    },
+    "az": {
+      "language": "az",
+      "value": "Mariyə əl-Qibtiyyə"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Мәрйәм (әл-Кибтия)"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "মারিয়া আল-কিবতিয়া"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Marija Kibtija"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Màriya al-Qibtiyya"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Марьят аль-КъибтӀият"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ماریا کچی شەمعون"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Maria bint Šamún"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Maria al-Qibtiyya"
+    },
+    "de": {
+      "language": "de",
+      "value": "Māriya al-Qibtīya"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maria al-Qibtiyya"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Marijah al-Kibtia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Maria al-Qibtiyya"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Mariya al-Qibtiyya"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماریه"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Maria al-Qibtiyya"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Meriem la Copte"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Maria al-Qibtiyya"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Maria al-Qibtiyya"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Maria al-Qibtiyya"
+    },
+    "he": {
+      "language": "he",
+      "value": "מאריה אל-קבטיה"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मरिया अल-क़ीब्टिय्या"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մարիա ալ-Կիբտիա"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Մարիա ալ-Քըպթիյյա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mariyah al-Qibthiyah"
+    },
+    "it": {
+      "language": "it",
+      "value": "Marya al-Qibtiyya"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マーリーヤ・アル＝キブティーヤ・ビント・シャムウーン"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Maria al-Qabtiyya"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Mariye Elqibtiye"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Mariyah al-Qibtiyya"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "മാരിയ അൽ ഖിബ്തിയ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Maria al-Qibtiyyah"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Maria al-Qibtiyya"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maria al-Qibtiyya"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Maria Koptyjka"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "ماریہ قبطیہ"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "ماريه القبطيه"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мария аль-Кибтия"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Maria al-Qibtiyya"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "ماريه قبطيه"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Marija Al Kibitja"
+    },
+    "so": {
+      "language": "so",
+      "value": "Maryama al-Qibtiyya"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Maria el-Kibtija"
+    },
+    "su": {
+      "language": "su",
+      "value": "Maria al-Qabtiyya"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Maria al-Qibtiyya"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Maria al-Qibtiyya"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mariye el-Kıbtiyye"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Мария әл-Кыйбтия"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "مارىيە ئەل قىبتىييە"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марія аль-Кібтія"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ماریہ قبطیہ"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Mariya al-Qibtiya"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "科普特的玛利亚"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "玛利亚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "科普特的玛利亚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "瑪利亞"
+    }
+  },
+  "lastrevid": 17532217,
+  "modified": "2025-09-17T05:59:10Z",
+  "ns": 860,
+  "pageid": 143106,
+  "sitelinks": {},
+  "title": "Item:Q119034",
+  "type": "item"
+}

@@ -1,0 +1,691 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "María"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q121951$85108D1C-1782-45CF-AF10-77022EB588C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q121951$F4A269E3-0735-469E-B237-0095EECCE70E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q121951$50976938-3646-4B4B-8F96-2CC15A4CD88C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q121951$5DD9AA1F-D6B9-4C24-B0EA-25D64D9DE2CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15834293"
+          },
+          "hash": "2d6ed8a884d680498051d12b58728e43fbf431a4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q121951$B66340B1-95DB-4FD4-9766-3439862A6618",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "María Arms.svg"
+          },
+          "hash": "a8554d91f87336e943f2ebcd4d3436d701211175",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "an": {
+      "language": "an",
+      "value": "pachina de desambigación"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "صفحة توضيح لويكيميديا"
+    },
+    "ary": {
+      "language": "ary",
+      "value": "صفحة توضيح ديال ويكيميديا"
+    },
+    "as": {
+      "language": "as",
+      "value": "ৱিকিমিডিয়া দ্ব্যৰ্থতা দূৰীকৰণ পৃষ্ঠা"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "páxina de dixebra de Wikimedia"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Уикимедия пояснителна страница"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "উইকিমিডিয়ার দ্ব্যর্থতা নিরসন পাতা"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "višeznačna odrednica na Wikimediji"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "pàgina de desambiguació de Wikimedia"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "پەڕەی ڕوونکردنەوەی ویکیمیدیا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "rozcestník na projektech Wikimedia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Wikimedia-flertydigside"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wikimedia-Begriffsklärungsseite"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Wikimedia-Begriffsklärungsseite"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Wikimedia-Begriffsklärungsseite"
+    },
+    "el": {
+      "language": "el",
+      "value": "σελίδα αποσαφήνισης εγχειρημάτων Wikimedia"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wikimedia disambiguation page"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Wikimedia disambiguation page"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Wikimedia disambiguation page"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "apartigilo"
+    },
+    "es": {
+      "language": "es",
+      "value": "página de desambiguación de Wikimedia"
+    },
+    "et": {
+      "language": "et",
+      "value": "Wikimedia täpsustuslehekülg"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Wikimediako argipen orri"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یک صفحهٔ ابهامزدایی ویکیمدیا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "täsmennyssivu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "page d'homonymie de Wikimédia"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Wikimedia-betsjuttingsside"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "páxina de homónimos"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Wikimedia-Begriffsklärigssite"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "સ્પષ્ટતા પાનું"
+    },
+    "he": {
+      "language": "he",
+      "value": "דף פירושונים"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "बहुविकल्पी पृष्ठ"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "razdvojbena stranica na Wikimediji"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyértelműsítő lap"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վիքիմեդիայի նախագծի բազմիմաստության փարատման էջ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Halaman disambiguasi"
+    },
+    "is": {
+      "language": "is",
+      "value": "aðgreiningarsíða á Wikipediu"
+    },
+    "it": {
+      "language": "it",
+      "value": "pagina di disambiguazione di un progetto Wikimedia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウィキメディアの曖昧さ回避ページ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მრავალმნიშვნელოვანი"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ದ್ವಂದ್ವ ನಿವಾರಣೆ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "위키미디어 동음이의어 문서"
+    },
+    "la": {
+      "language": "la",
+      "value": "pagina discretiva Vicimediorum"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Wikimedia-Homonymiesäit"
+    },
+    "li": {
+      "language": "li",
+      "value": "Wikimedia-verdudelikingspazjena"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Wikimedia projekta nozīmju atdalīšanas lapa"
+    },
+    "min": {
+      "language": "min",
+      "value": "laman disambiguasi"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "појаснителна страница"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "വിക്കിപീഡിയ വിവക്ഷ താൾ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "निःसंदिग्धीकरण पाने"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Laman nyahkekaburan"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Wikimedia-pekerside"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Sied för en mehrdüdig Begreep op Wikimedia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "doorverwijspagina"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Wikimedia-fleirtydingsside"
+    },
+    "or": {
+      "language": "or",
+      "value": "ବହୁବିକଳ୍ପ ପୃଷ୍ଠା"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਵਿਕੀਮੀਡੀਆ ਗੁੰਝਲਖੋਲ੍ਹ ਸਫ਼ਾ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "strona ujednoznaczniająca"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "página de desambiguação"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "pagină de dezambiguizare Wikimedia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "страница значений"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Wikimedia disambiguation page"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "rozlišovacia stránka"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "razločitvena stran Wikimedie"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "faqe kthjelluese e Wikimedias"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "вишезначна одредница на Викимедији"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "grensida"
+    },
+    "te": {
+      "language": "te",
+      "value": "వికీమీడియా అయోమయ నివృత్తి పేజీ"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "саҳифаи маъноҳои Викимедиа"
+    },
+    "tg-cyrl": {
+      "language": "tg-cyrl",
+      "value": "саҳифаи маъноҳои Викимедиа"
+    },
+    "tg-latn": {
+      "language": "tg-latn",
+      "value": "sahifai ma'nohoi Vikimedia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Vikimedya anlam ayrımı sayfası"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Мәгънәләр бите Викимедиа проектында"
+    },
+    "tt-cyrl": {
+      "language": "tt-cyrl",
+      "value": "Мәгънәләр бите Викимедиа проектында"
+    },
+    "tt-latn": {
+      "language": "tt-latn",
+      "value": "Mäğnälär bite Wikimedia proyektında"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "сторінка значень у проєкті Вікімедіа (María)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "trang định hướng Wikimedia"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "ojúewé ìṣojútùú Wikimedia"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "維基媒體搞清楚頁"
+    },
+    "zea": {
+      "language": "zea",
+      "value": "Wikimedia-deurverwiespagina"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "維基媒體消歧義頁"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "维基媒体消歧义页"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "維基媒體消歧義頁"
+    }
+  },
+  "id": "Q121951",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "María"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "María"
+    },
+    "ay": {
+      "language": "ay",
+      "value": "María"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "María"
+    },
+    "br": {
+      "language": "br",
+      "value": "María"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "María"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "María"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "María"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "María"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "María"
+    },
+    "da": {
+      "language": "da",
+      "value": "María"
+    },
+    "de": {
+      "language": "de",
+      "value": "María"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "María"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "María"
+    },
+    "en": {
+      "language": "en",
+      "value": "María"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "María"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "María"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "María"
+    },
+    "es": {
+      "language": "es",
+      "value": "María"
+    },
+    "et": {
+      "language": "et",
+      "value": "María"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "María"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "María"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "María"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "María"
+    },
+    "gn": {
+      "language": "gn",
+      "value": "María (myesakãrã)"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "María"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "María"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "María"
+    },
+    "id": {
+      "language": "id",
+      "value": "María"
+    },
+    "is": {
+      "language": "is",
+      "value": "María"
+    },
+    "it": {
+      "language": "it",
+      "value": "María"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "María"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "María"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "María"
+    },
+    "min": {
+      "language": "min",
+      "value": "María"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "María"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "María"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "María"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "María"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "María"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "María"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "María"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "María"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "María"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "María"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "María"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "María"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "María"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "María"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "María"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "María"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Марія"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "María"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馬利亞"
+    }
+  },
+  "lastrevid": 17535140,
+  "modified": "2025-09-17T06:39:06Z",
+  "ns": 860,
+  "pageid": 147020,
+  "sitelinks": {},
+  "title": "Item:Q121951",
+  "type": "item"
+}

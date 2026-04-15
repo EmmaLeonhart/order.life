@@ -1,0 +1,202 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q93371$51DE02D3-D100-4F49-96CA-E1174173953A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93371$74BA1653-1280-495B-A2EC-A8CA0E68F973",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q93371$F551D2D1-A08E-4129-B3D1-AB449FDC31B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92740",
+              "numeric-id": 92740
+            }
+          },
+          "hash": "79dd263a9c780b483a7115d7821bc4087b9eada1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q93371$DBAED73A-FCF8-4606-8B09-BAA34F3407E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93369",
+              "numeric-id": 93369
+            }
+          },
+          "hash": "5b7c809fe3ed9346fc011e28bcd34fcb92d169ea",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q93371$993037B8-070A-460B-A33E-0E0D8E187266",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Juana Trevino /Falcon/"
+            }
+          },
+          "hash": "d3902a5ec40cf5d5775a3b87d39670fc1b2ad58f",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93371$8E071885-67B9-420B-8BA2-120B0A263CAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q93371$0F70D807-97E8-4CAB-9654-EDCD6918AAED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q93371$A802DB48-4BD2-4859-B6CD-79D631F6BF00",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "7ab81a952e3ff076b69c615d1e4254b2c7f1fa5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93371$BB2A548F-B907-42CE-A0D5-41179167496D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000205990901145"
+          },
+          "hash": "374c999865b3040f5fcb7ca4d6324d5e1ff37ee9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93371",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Juana Trevino  Falcon"
+    }
+  },
+  "lastrevid": 17508163,
+  "modified": "2025-09-16T23:54:21Z",
+  "ns": 860,
+  "pageid": 108776,
+  "sitelinks": {},
+  "title": "Item:Q93371",
+  "type": "item"
+}

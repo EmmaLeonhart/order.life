@@ -1,0 +1,166 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "'Isa Musa bin Alī"
+      },
+      {
+        "language": "en",
+        "value": "'Isa bin Musa bin Alī"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q96206$0309B8B5-5491-469C-A551-6110AD6679D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q96206$125D133A-C47F-45AB-B63A-6CF5302453D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q96206$D8FCA160-11A6-4AC3-BDF8-8DF813DF5375",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95668",
+              "numeric-id": 95668
+            }
+          },
+          "hash": "0f2641f87bb211e753b0fcde2f23328228877942",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q96206$548D9F19-3A8C-404B-9C13-0B49F2B53295",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q96206$28D7232B-AE44-44B8-881B-91FE66A26C9F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q96206$2202354D-AC44-4651-9629-35EA20B664C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008649237292"
+          },
+          "hash": "cb3f0e8c4e732f3ec25299dc89305acb26253406",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q96206",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "'Isa bin Musa bin Ali"
+    },
+    "es": {
+      "language": "es",
+      "value": "'Isa bin Musa bin Alī"
+    }
+  },
+  "lastrevid": 17510989,
+  "modified": "2025-09-17T00:35:34Z",
+  "ns": 860,
+  "pageid": 112457,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q96206",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q96206"
+    }
+  },
+  "title": "Item:Q96206",
+  "type": "item"
+}

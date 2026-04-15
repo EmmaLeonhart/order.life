@@ -1,0 +1,292 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ermesenda Gondesendes"
+      },
+      {
+        "language": "en",
+        "value": "Ermesenda Eriz"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q99993$FCA143A0-78AF-4540-84BB-7EC157C95180",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100011",
+              "numeric-id": 100011
+            }
+          },
+          "hash": "dc230937817da751fc3850423227939a53ee2e6d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99993$F7617739-F65B-44FE-8D3B-7A6B6464CD66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100013",
+              "numeric-id": 100013
+            }
+          },
+          "hash": "10549f7abcf9a131a61c49286b84d7ae812b0202",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99993$EFD97503-C4FA-4BA9-9117-3BE8DDEABCA7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ermesenda"
+            }
+          },
+          "hash": "0047df88c03d63d9e86c098a47d8d045c47de0f9",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99993$20C16EBC-A4BE-455C-98F2-0EA5286ACA04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99993$16FA03BB-2042-44B8-8497-C36DCE132BC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q99993$4CB368B2-26B6-4083-B459-D77DFB9A5374",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Eriz"
+            }
+          },
+          "hash": "a956e72e1cf12d175bd75911aef88cd33a6ffd28",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q99993$C96B82CD-939B-4CFD-9749-ADD98A6E3732",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99889",
+              "numeric-id": 99889
+            }
+          },
+          "hash": "8f7a486ac434f7a298bc4d84281470b94bde5082",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q99993$5FB720AA-7C57-4A55-BD29-DF3A6DF8FB8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99985",
+              "numeric-id": 99985
+            }
+          },
+          "hash": "515e7ab218569a3a802eba63ecdfed03a4f4bdc4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q99993$6577165A-8372-46FE-9E73-FA85AF77DE2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99883",
+              "numeric-id": 99883
+            }
+          },
+          "hash": "26234d9ff10336dd92f152adc80ba542ffef1954",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99993$CA8487D8-A5FD-467D-B96B-BE961B177700",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ermesenda /Eriz/"
+            }
+          },
+          "hash": "4af703caf3bdc194082e23de56be5d53522462f4",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99993$9D85D359-5999-4734-BB95-D2425F0E05AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99993$E3E557C3-8BFC-4A58-9C28-1204CA589A5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4539109721550011587"
+          },
+          "hash": "8d9f8cec0c0a9ae7d5aa3ce177266363191238d9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q99993$93983A20-E98A-4EF2-B332-11C4BEF161AC",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "BEF 924"
+            }
+          },
+          "hash": "9d74392e3dad8871a5b4f76a5f594a5df38d43f3",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q99993",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ermesenda  Eriz"
+    }
+  },
+  "lastrevid": 17514581,
+  "modified": "2025-09-17T01:26:26Z",
+  "ns": 860,
+  "pageid": 117532,
+  "sitelinks": {},
+  "title": "Item:Q99993",
+  "type": "item"
+}

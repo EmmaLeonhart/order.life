@@ -1,0 +1,154 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gonzalo Remóndez de Figueroa"
+      },
+      {
+        "language": "en",
+        "value": "Remón de Figueroa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118669$B47A31A2-5168-4DFE-B7EC-962D091E926D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118669$2A2CCA07-979F-4B60-A051-41AD720494AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118669$D6433335-5E47-4A9D-BCEB-9E7F80769AB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118669$97993961-DF96-4E09-8549-289F9B63259C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1191-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "096cacc765a3f6957d9d780334bb615c8aa12220",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118669$9DE6BBC7-CE4B-4383-A84C-A2F6732E7DD6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000193504377859"
+          },
+          "hash": "6bbf374d7c4d4efc122679debd5bba5452c4ad58",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118669$17B28D5E-2DC4-4B52-BFD6-23FDFC711C63",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Remon de Figueroa Arms.svg"
+          },
+          "hash": "042312f9664cccc9d37fbe08bec36936bbbff9df",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118669",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Remon de Figueroa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Remón de Figueroa"
+    }
+  },
+  "lastrevid": 17531610,
+  "modified": "2025-09-17T05:51:10Z",
+  "ns": 860,
+  "pageid": 142618,
+  "sitelinks": {},
+  "title": "Item:Q118669",
+  "type": "item"
+}

@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Francisco Alonso de Estrada"
+      },
+      {
+        "language": "en",
+        "value": "Gutierrez Flores de la Caballería"
+      },
+      {
+        "language": "en",
+        "value": "Gutiérrez Flores de la Caballería"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q90217$234BA6B4-1D3A-48E5-A26F-0AD6E21119E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q90217$C2C39818-123C-4EA1-B96D-BEFEB9EEE775",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q90217$1E79A833-84BE-4B10-B674-72B8CF247843",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91972",
+              "numeric-id": 91972
+            }
+          },
+          "hash": "68ffa5804b27760af1d10b62a0108da8e645bb5b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q90217$F348BE79-C4F2-45C3-8445-187DBD6B55BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89949",
+              "numeric-id": 89949
+            }
+          },
+          "hash": "42dec8d9f23b5339767354b6c8ff1ddac05cbba3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q90217$BB67627F-A946-489A-8604-1DD3874F0649",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "/Gutiérrez Flores de la Caballería/"
+            }
+          },
+          "hash": "887ff5cc16c65ca98f79b33ca48fb795fe30215d",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q90217$77B7B64D-6ADB-4DE5-8FA5-9A3AA16166BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q90217$C882A777-84FE-406A-85E5-09DB91CF3F3E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q90217$80BD2ECD-B28B-486B-9564-C157F57FCF92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000079675063969"
+          },
+          "hash": "fb8b36de52f6fbf226901dcb226a415a4faa5325",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q90217",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gutierrez Flores de la Caballeria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gutiérrez Flores de la Caballería"
+    }
+  },
+  "lastrevid": 17505025,
+  "modified": "2025-09-16T23:11:28Z",
+  "ns": 860,
+  "pageid": 105049,
+  "sitelinks": {},
+  "title": "Item:Q90217",
+  "type": "item"
+}

@@ -1,0 +1,251 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mira dos Suevos"
+      },
+      {
+        "language": "en",
+        "value": "Mira, Princess of Galicia"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q99546$502CB0F3-C95B-4FDA-B91D-B93566707251",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99534",
+              "numeric-id": 99534
+            }
+          },
+          "hash": "410712bb6522bfdd9ef15f259a011cf205acffe4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99546$1D679D56-8107-462B-80F2-0715B2DEA0D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99542",
+              "numeric-id": 99542
+            }
+          },
+          "hash": "db7dcda5c38cc206839eea3682ffbb5d816f28c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99546$16F0EE7F-DAE3-4238-B4B1-E1CC009A7E9E",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Mira, Princess of Galicia"
+            }
+          },
+          "hash": "3fae34c51d5558c3073e616d10756fa5a738c534",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99546$7001A7FC-6C34-4564-8D3A-77B5A7649132",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99546$FA8877D5-F1E0-47F6-AE40-63B3CC64DF3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q99546$4D751867-B332-4BD8-86CA-9B598D6EAA3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99548",
+              "numeric-id": 99548
+            }
+          },
+          "hash": "067dbe6a0e80cb633471ad7259758ed492e47961",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99546$2563D695-0444-496A-9BDF-4EA86A9DBBA9",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Mira, Princess of Galicia //"
+            }
+          },
+          "hash": "526a59373f31e75384c87880c352c846c9ca4051",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q99546$EAF311B1-CB11-4AEB-9292-704F56B0BDEF",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess of Galicia"
+          },
+          "hash": "dfed12e7fef65ce1e680311d34c5ee03170cf158",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99546$C764C805-4A1A-4719-BFDC-71F10F14EA07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99546$15047124-5CD3-4551-83F8-D975E4020CFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000186248112832"
+          },
+          "hash": "5b97ba4fa2b0656b85a547c57ca0b286c026a14e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q99546$EC37F2FE-7D99-4AD6-A122-C97CE812FF6F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mira, Princess of Galicia Arms.svg"
+          },
+          "hash": "29a6c3bc495869082892e2e5e1fbb01a395bcc68",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q99546",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mira, Princess of Galicia"
+    }
+  },
+  "lastrevid": 17514203,
+  "modified": "2025-09-17T01:21:27Z",
+  "ns": 860,
+  "pageid": 116933,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q99546",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q99546"
+    }
+  },
+  "title": "Item:Q99546",
+  "type": "item"
+}

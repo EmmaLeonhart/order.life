@@ -1,0 +1,232 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q93704$16057B5B-06C1-42CD-B781-AC47B1A471FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93706",
+              "numeric-id": 93706
+            }
+          },
+          "hash": "4c1a3e1d8dc36248d3adbda7d5a35d335f85b451",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93704$ADBC4AA6-E3AF-47DB-B83B-203163A08797",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93708",
+              "numeric-id": 93708
+            }
+          },
+          "hash": "04fa096a580087e6f648a5c2296ed1d57f499b42",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q93704$3C85ECBB-746F-48B2-9AFF-39170F488131",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93704$C597F3BA-852E-4314-838B-A5543CA49607",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q93704$3C4ADC5F-CD44-4199-8262-562F8AB2ED70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92960",
+              "numeric-id": 92960
+            }
+          },
+          "hash": "2904cf481b26a69e3518334f3805422a8268140a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q93704$2DDD59BC-2978-435E-A144-1A85D4E0C4B9",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "María /Rodríguez de Montemayor/"
+            }
+          },
+          "hash": "7d2c0a93725ca0e1d0a457e39cd89def445fe9f2",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93704$0FA0CE73-274D-4CCC-9C79-F6358BC0B157",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q93704$154CD43B-0FA7-47E4-81F8-A114C1F3EA1C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q93704$5DC87091-70C8-41E2-AD10-958FD873EB65",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "7ab81a952e3ff076b69c615d1e4254b2c7f1fa5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93704$FD1E665D-1323-44AB-9B95-B8D2F402CBA5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018959746320"
+          },
+          "hash": "7fcf8ea7cf91e4ce6225fc868b58b77fe91cbb4a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93704",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maria  Rodriguez de Montemayor"
+    },
+    "es": {
+      "language": "es",
+      "value": "María  Rodríguez de Montemayor"
+    }
+  },
+  "lastrevid": 17508497,
+  "modified": "2025-09-16T23:58:54Z",
+  "ns": 860,
+  "pageid": 109137,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q93704",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q93704"
+    }
+  },
+  "title": "Item:Q93704",
+  "type": "item"
+}

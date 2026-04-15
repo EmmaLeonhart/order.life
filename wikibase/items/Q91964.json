@@ -1,0 +1,196 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Daniel Ben Yehuda Diogo NASI"
+      },
+      {
+        "language": "en",
+        "value": "Daniel ben Yehuda Diogo ben Eliahu Senneor Coronel"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91964$629219AC-3262-4D36-B7D3-7532D64890E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31649",
+              "numeric-id": 31649
+            }
+          },
+          "hash": "15ec74c0703a3555ed8366b631dfdfa58516c427",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91964$AD8F8F7D-FE13-4391-94CD-F5ECEE5EF895",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91964$46B35424-F321-48E9-BE25-247A4FA93805",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q91964$6E902D69-4682-4FC1-86C4-E133B3B6D161",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89929",
+              "numeric-id": 89929
+            }
+          },
+          "hash": "e97da7e1b6deaa3715942c48b3151a4d2d62bc49",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q91964$7F8ADBE6-868D-4193-906D-4AFC91DCF7A5",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Daniel ben Yehuda Diogo ben Eliahu /Senneor Coronel/"
+            }
+          },
+          "hash": "3309d82bc036ba4a15704e8c287da93ddd151663",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91964$19FA57FF-D72C-4431-96E4-697E952034B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91964$BB341008-1931-4CD9-B135-222F8F0EA0FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91964$224AFC0A-4E6E-486F-A0BB-D4CF15740ACF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000028958757296"
+          },
+          "hash": "ac58e6f2a6398597da4a5cc686455f53aa053edb",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91964",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Daniel ben Yehuda Diogo ben Eliahu  Senneor Coronel"
+    }
+  },
+  "lastrevid": 17506765,
+  "modified": "2025-09-16T23:35:13Z",
+  "ns": 860,
+  "pageid": 107299,
+  "sitelinks": {},
+  "title": "Item:Q91964",
+  "type": "item"
+}

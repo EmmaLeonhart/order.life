@@ -1,0 +1,223 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Muhammad Al-Husayni"
+      },
+      {
+        "language": "en",
+        "value": "Muhammad bin Alawi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q98547$BE09A720-B5D9-4B1D-9B9A-A0A9307C74D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99070",
+              "numeric-id": 99070
+            }
+          },
+          "hash": "22bae85f8ff814a0e6c26b6a11c41e6833191e66",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q98547$650EB295-2445-4EA5-8190-CDE37B1334BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q98547$67D776F1-444B-4196-8675-BFD787ED3CF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q98547$DE1BF7BB-643C-46D7-A5D7-77348688BF05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97975",
+              "numeric-id": 97975
+            }
+          },
+          "hash": "2d54f2964cdac2e193e61e9893b456bde80ecb6f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q98547$C20EBD4F-098D-49ED-A121-D60CD7F5203C",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "//"
+            }
+          },
+          "hash": "c5b3d963073b731d8e072b3304bcf387f1f73607",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q98547$B0489CA6-08AE-4C99-A8C0-00BF3B8702D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q98547$4B82F4B9-90F2-45BB-B568-6001C39DD7F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003962865274"
+          },
+          "hash": "9cac78c42a3f9a3ba66764c12ae5b81eddc6aef0",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7": [
+      {
+        "id": "Q98547$AA05D28C-EDF2-4367-A50A-6A2B1F7E61C6",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given {'text': 'ABT 999', 'language': 'en'}",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "{'text': 'ABT 999', 'language': 'en'}",
+              "timezone": 0
+            }
+          },
+          "hash": "130a68b88c3aa57be9f736555755e22dfa7d6094",
+          "property": "P7",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8": [
+      {
+        "id": "Q98547$85E50051-1994-44FB-9522-A7931A01F0DF",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given {'text': 'ABT 1054', 'language': 'en'}",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "{'text': 'ABT 1054', 'language': 'en'}",
+              "timezone": 0
+            }
+          },
+          "hash": "d167777aebe67f745f8764de681c46e87ff7c3c0",
+          "property": "P8",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q98547",
+  "labels": {},
+  "lastrevid": 17513311,
+  "modified": "2025-09-17T01:09:12Z",
+  "ns": 860,
+  "pageid": 115591,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q98547",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q98547"
+    }
+  },
+  "title": "Item:Q98547",
+  "type": "item"
+}

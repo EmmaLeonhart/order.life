@@ -1,0 +1,200 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91897$5ED3BF0E-00B0-44D3-929A-60C696263DA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90049",
+              "numeric-id": 90049
+            }
+          },
+          "hash": "2b624d6613446f1331d5f201bb66decfffaeae3b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91897$176314BF-BD6F-4BB1-906E-373B00922F93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90051",
+              "numeric-id": 90051
+            }
+          },
+          "hash": "395dc6193b7be824393f584c25e4ab755d996dd9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91897$11994355-6630-4CB8-8537-39F9E4605D11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91897$1C7D8541-E73E-4D6A-B13B-3189C1430C11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91897$DFB76302-D080-462D-81EE-12EDED2A1439",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89795",
+              "numeric-id": 89795
+            }
+          },
+          "hash": "f357baa287382fabd4bc9321255520de60c4eb9e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q91897$97EC2686-4DEF-443B-93A8-C6205FBEB873",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Iñigo /de Mendoza/"
+            }
+          },
+          "hash": "bd07c772736d71f425f5586dfb06deb346221c2f",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q91897$D1185C09-674E-4F82-8317-775646120FBB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Barón de Sangarrén"
+          },
+          "hash": "306668cd4e0e67d56b137cb400ce660710b09dc4",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91897$8C65522A-231E-4E9C-BCB2-61CAF42082E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91897$4D1AFFD3-1B7F-4EDE-A882-325D8E6C984B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000042556833334"
+          },
+          "hash": "06009e6380b6a40a67149f12755d5a230c771302",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91897",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Inigo  de Mendoza"
+    },
+    "es": {
+      "language": "es",
+      "value": "Iñigo  de Mendoza"
+    }
+  },
+  "lastrevid": 17506699,
+  "modified": "2025-09-16T23:34:19Z",
+  "ns": 860,
+  "pageid": 107207,
+  "sitelinks": {},
+  "title": "Item:Q91897",
+  "type": "item"
+}

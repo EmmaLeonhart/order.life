@@ -1,0 +1,178 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fernando Fernández de Toro"
+      },
+      {
+        "language": "en",
+        "value": "Fernando Fernández de Castro"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118685$475E25D9-F5E7-4E5A-833D-B1B05484EC65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118685$755889D8-3D2A-410D-BBD8-34DF817E5D0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118685$CA23C06F-30AA-460A-9C3A-70C2DB4F3324",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q118685$591DEC76-F69C-4DDA-88F1-A2E3F89CA53C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1075-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "994b508a4295f84a9fcfa952d15812452d9a58f6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q118685$BDF88F4E-B3F6-43BE-A1FC-B60C3F2074A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1129-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec6324c1579f2a8df016799506ca619749cf754f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118685$52C2B658-A73D-4617-A953-909DA1FB868B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013754387723"
+          },
+          "hash": "3375273a7c69265b95518c67dc22e3736d00764b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118685$7AC1A37D-4F82-4F09-9630-355B2FCEACA2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fernando  Fernandez de Castro Arms.svg"
+          },
+          "hash": "7b543e4fa41739fc206b0d933233462815c6320d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118685",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fernando  Fernandez de Castro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fernando  Fernández de Castro"
+    }
+  },
+  "lastrevid": 17531641,
+  "modified": "2025-09-17T05:51:31Z",
+  "ns": 860,
+  "pageid": 142640,
+  "sitelinks": {},
+  "title": "Item:Q118685",
+  "type": "item"
+}

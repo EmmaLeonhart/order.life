@@ -1,0 +1,158 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Béatrix d'Aquitaine"
+      },
+      {
+        "language": "en",
+        "value": "Beatrix de Aquitania, Reina consorte de León"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q106615$76F8A6A5-5DCD-4519-B302-8D111B4C42D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q106615$9591D01F-183A-42BA-9364-AC6291B3DE4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q106615$69A23F94-6E39-4D17-9862-18F441371561",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104013",
+              "numeric-id": 104013
+            }
+          },
+          "hash": "bdcd39f52cacf3db150127ad8ae00710b63b89ad",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q106615$371904CA-65F1-4A9D-92CF-9897FEE5380E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q106615$444EAAA4-0D8D-4DFF-9171-02F9E82ADFE2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1109-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6170f8ef29e9c8480d1ecf07020ed6808e9c50d3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q106615$59708453-8237-4E3E-92CE-7F0AD62A0315",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Beatrix de Aquitania, Reina consorte de Leon Arms.svg"
+          },
+          "hash": "4e5f75bbbd6c3bba732dddb20b235a60eab5b53b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q106615",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Beatrix de Aquitania, Reina consorte de Leon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Beatrix de Aquitania, Reina consorte de León"
+    }
+  },
+  "lastrevid": 17519156,
+  "modified": "2025-09-17T02:41:03Z",
+  "ns": 860,
+  "pageid": 126440,
+  "sitelinks": {},
+  "title": "Item:Q106615",
+  "type": "item"
+}

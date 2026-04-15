@@ -1,0 +1,235 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Margaret (Margarethe oder Margaretha?) Schenkel"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91984$17DF7AFF-80B0-4644-9767-2C5F2DC5ABBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90229",
+              "numeric-id": 90229
+            }
+          },
+          "hash": "862e3eebbc6d1c284ceda9f692ee902b894d92cd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91984$11E4C2AC-75D5-4569-B6E7-5F5FE2F36D88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90231",
+              "numeric-id": 90231
+            }
+          },
+          "hash": "cb8161dc38085e0027195c03cf0b3700f2693912",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91984$3F968873-E430-435F-B4C1-F85D17C26C23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91984$B6AF17ED-4C31-453E-B292-FE86B2ED43D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91984$C05F7AF3-3639-497D-A8E4-D668A0D984D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89967",
+              "numeric-id": 89967
+            }
+          },
+          "hash": "7545a0e910560343ca70570d83411e56ece64045",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q91984$13D31A5C-EDB2-47E0-AD22-C4F41C0D668F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Margaret (Margarethe oder Margaretha?) /Schenkel/"
+            }
+          },
+          "hash": "9adf5a0901f031eca6902859a249eb745ea0198d",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91984$3A928FEB-C388-4D44-B83B-A7C70C409D59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91984$E7F19F89-BF7D-466C-B238-5C8265BF8134",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q91984$6BF6D1AB-CC43-4851-8CC9-1E43B1E77240",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91984$A49F0A1D-6649-47DA-BC39-37C9DB7BBA17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000024325060844"
+          },
+          "hash": "a5274fc136f9fbd534b5a58ae84bf344a228cab7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91984",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Margaret (Margarethe oder Margaretha?)  Schenkel"
+    }
+  },
+  "lastrevid": 17506785,
+  "modified": "2025-09-16T23:35:29Z",
+  "ns": 860,
+  "pageid": 107327,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q91984",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q91984"
+    }
+  },
+  "title": "Item:Q91984",
+  "type": "item"
+}

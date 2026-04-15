@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jeshaiah ben Hananiah"
+      },
+      {
+        "language": "en",
+        "value": "Jéséia"
+      },
+      {
+        "language": "en",
+        "value": "ישעיהו בן חנניה"
+      },
+      {
+        "language": "en",
+        "value": "Yishaya ben Hananya"
+      },
+      {
+        "language": "en",
+        "value": "Izajasz"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q86746$97209CC8-7A66-4A51-86B8-327BD00602E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86738",
+              "numeric-id": 86738
+            }
+          },
+          "hash": "8e4576cdb41e8c209279e7517db9f748c43fa104",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q86746$4113050F-3E9F-4476-97CB-EDA52AAD0C7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86746$3823ECA7-867C-4B84-99EE-A1E4A77DD0A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q86746$32D2D768-EB3A-4E13-8E11-51BAFE87012E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86752",
+              "numeric-id": 86752
+            }
+          },
+          "hash": "160895cea4553b5507fc1c85f6ceeea54b34871a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q86746$05B4770C-4C44-415E-B457-E40F7A653CCB",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "8th Exilarch"
+          },
+          "hash": "c1a6dd52b6464c9d561f6e0c32e0d8c38b0faa3d",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86746$A4CADE57-856D-43B3-B480-173F23EFD5AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q86746$E9D83E99-1739-42C1-906C-35D368DDC907",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86746$AC271101-849D-4B7D-AE64-8887B93A1BDD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008636827679"
+          },
+          "hash": "442b256b5d782b2aec5fcb7db99bccd486f7ed51",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q86746",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Izajasz"
+    }
+  },
+  "lastrevid": 17501555,
+  "modified": "2025-09-16T22:21:27Z",
+  "ns": 860,
+  "pageid": 101577,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q86746",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q86746"
+    }
+  },
+  "title": "Item:Q86746",
+  "type": "item"
+}

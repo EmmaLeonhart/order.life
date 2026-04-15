@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zur'ah Al-Thawri"
+      },
+      {
+        "language": "en",
+        "value": "Zur'ah bint Musharah"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q95155$9DF2201F-F27A-4EA3-B610-89BCA7F629BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95157",
+              "numeric-id": 95157
+            }
+          },
+          "hash": "880955a20d5905f4f7ca74295be2ee19117b0e76",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q95155$E8ABBC4A-DDFD-4F83-974B-B18A8E230F97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94195",
+              "numeric-id": 94195
+            }
+          },
+          "hash": "0befdb9c720f86f26474bcd5c3f1bf5faf1ecbcb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q95155$6D881644-DE75-412F-8CC5-BCAF5D473A33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68293",
+              "numeric-id": 68293
+            }
+          },
+          "hash": "b74430761ed416c0b19817f7ac4fb1ee9ab0aa5d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q95155$405E01DA-F7D1-427B-8E58-11D8772FA77E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q68302",
+              "numeric-id": 68302
+            }
+          },
+          "hash": "f38ad148302847ad296c1738427220103ef5f737",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q95155$CB677466-1D8A-472E-95B2-431DE1A581D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q95155$EF47430B-A4B6-4680-AB62-0690E6DBA181",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q95155$BE2B2748-FF02-4290-A119-2D40460E77F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94757",
+              "numeric-id": 94757
+            }
+          },
+          "hash": "fd04687eb8b64ce3aabacf4296f01511d7122489",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q95155$EACD7F32-89CD-440A-B470-73C8EFA9BF19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q95155$EFD697E5-6484-4095-8606-0BA819151E72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018952544271"
+          },
+          "hash": "a11e52fb18a5e6bdbd0d3f112ed1f4560b9512c8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q95155",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Zur'ah bint Musharah"
+    }
+  },
+  "lastrevid": 17509931,
+  "modified": "2025-09-17T00:20:10Z",
+  "ns": 860,
+  "pageid": 111044,
+  "sitelinks": {},
+  "title": "Item:Q95155",
+  "type": "item"
+}

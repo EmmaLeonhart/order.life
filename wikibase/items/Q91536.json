@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shlomo ."
+      },
+      {
+        "language": "en",
+        "value": "Shlomo III ben David"
+      },
+      {
+        "language": "en",
+        "value": "شلومو بن دافيد"
+      },
+      {
+        "language": "en",
+        "value": "שלמה"
+      },
+      {
+        "language": "en",
+        "value": "Shlomo III ibn Da'ud"
+      },
+      {
+        "language": "en",
+        "value": "Shlomo III ibn Da'ud Exilarch"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91536$2DC84FB1-1163-403D-A6E8-59CBD5305CEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91426",
+              "numeric-id": 91426
+            }
+          },
+          "hash": "73c2b888c56b0bc57df3ef4ecfb78c4d092a37e3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91536$7BFB2E5C-9EA0-44B9-8FD2-46188BAE1CEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91536$E59377B7-DEA0-45FE-BF2B-CEF378B19D54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q91536$1E05F11A-7711-48CB-BE47-606049A9524F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86659",
+              "numeric-id": 86659
+            }
+          },
+          "hash": "b99ee8d137a65efc299b8dae193d03128148b8af",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q91536$2C8A2EC0-8BE2-4052-B2D5-2AB768AAF1C3",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Exilarch"
+          },
+          "hash": "61733f941e0fb6c3c034d9a1b6c1aba3d72db53a",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91536$F6C416FB-126C-4CFB-8325-47F4ECF482EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91536$625B2FA0-5689-45C0-BFA7-28F851C587EA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q91536$42CF6751-2670-494D-B58E-10A97132698D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91536$2833B307-68AE-4384-B9E0-0E819CDE3B97",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000795687204"
+          },
+          "hash": "3bfa94b50fc632ccc64e3123284e8cc01ce39ae5",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91536",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shlomo III ibn Da'ud Exilarch"
+    }
+  },
+  "lastrevid": 17506339,
+  "modified": "2025-09-16T23:29:26Z",
+  "ns": 860,
+  "pageid": 106747,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q91536",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q91536"
+    }
+  },
+  "title": "Item:Q91536",
+  "type": "item"
+}

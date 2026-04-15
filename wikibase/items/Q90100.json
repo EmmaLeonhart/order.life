@@ -1,0 +1,414 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gnaeus Claudius Severus Arabianus"
+      },
+      {
+        "language": "en",
+        "value": "Consul (146) - Gnaeus Claudius Severus Arabianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q76741$8F8179D5-75FF-4D1C-A6E2-D3F0B6CD9638",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736215"
+          },
+          "hash": "e26f8782c57866135c9252b009c8dd634d6606e7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q76741$3CCD8072-4FFF-47AB-8EDF-FE13120FA631",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76511",
+              "numeric-id": 76511
+            }
+          },
+          "hash": "9d3cef7f93199b1f9bfb749e3d897ccb446bc544",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q76741$EF073CD5-90AA-4B78-85E4-F3065819A09F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q76741$87EC64C3-64F4-45FD-BB5D-9EAA78350D53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q76741$4FE14A34-6217-4640-8A46-1236EE4343A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus_Claudius_Severus_Arabianus_(1)"
+          },
+          "hash": "2e6c4a749a9552e8efb2323b92186bcb9ada82fb",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q76741$8301E244-1AFF-496A-9013-FF535FA4AD36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76744",
+              "numeric-id": 76744
+            }
+          },
+          "hash": "a54028ab87fcfd4f2e01bd49c12cefebb5d4b388",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q76741$0BE67B58-9E8D-46BA-949F-16403EE9536F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76990",
+              "numeric-id": 76990
+            }
+          },
+          "hash": "0fe1010bbf1603eb2c58f248f0d8cda0ba37db52",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q76741$2ED2E627-8CEB-4AA9-83DF-2222047D6DFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q76993",
+              "numeric-id": 76993
+            }
+          },
+          "hash": "a625fa8baa31ab8c53bec31eb954fe68f499b8b8",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q76741$86EFB088-D0DB-4CDB-9AF4-A8C2E893784C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q76741$D127A069-8216-4554-92DE-293733B79C01",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0113-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a52dde560343dfef5a80a19f10a4066180994ff",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q76741$DBDAA98B-11A0-431E-9574-8C8DC3B609C0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0200-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fd1e1335d54e460730b3321900450e794fd306b3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q76741$D282AB14-2802-44CE-931C-24CFF1C8AA87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q717647"
+          },
+          "hash": "f49da9246d449af4ee00d88c3741154e65485846",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q76741$F8BDE2D8-E587-4724-89D7-13B83BFA4157",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000041282670515"
+          },
+          "hash": "559f960212c24376ec63d592bc03e982353825a3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q76741$4E64CA0A-2CE2-4240-A417-81BB8AFE7137",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Claudius Severus Arabianus"
+          },
+          "hash": "3bd94f4a53201028111405eb93cc91cbda7f23c9",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q76741$51435B04-BA70-4A7A-B984-4EA019731BF8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gnaeus Claudius Severus Arabianus Arms.svg"
+          },
+          "hash": "a066fb5aa6e05f1bde858d139efb2e85a127dfd5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "römischer Konsul 146"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd century Roman senator and philosopher"
+    },
+    "es": {
+      "language": "es",
+      "value": "político y militar romano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "senateur et philosophe romain"
+    },
+    "it": {
+      "language": "it",
+      "value": "senatore e filosofo romano, console nel 163"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "filosoof uit Oude Rome (113-)"
+    }
+  },
+  "id": "Q76741",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Гней Клавдий Север Арабиан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gneu Claudi Sever"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gnaeus Claudius Severus Arabianus"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gnaeus Claudius Severus Arabianus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cneo Claudio Severo Arabiano"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gnaeus Claudius Severus Arabianus"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gnaeus Claudius Severus Arabianus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gneo Claudio Severo Arabiano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グナエウス・クラウディウス・セウェルス・アラビアヌス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gnaeus Claudius Severus Arabianus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Gnaeus Claudius Severus Arabianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gnaeus Claudius Severus Arabianus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гней Клавдий Север Арабиан"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gnaeus Claudius Severus Arabianus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гней Клавдій Север Арабіан"
+    }
+  },
+  "lastrevid": 17490366,
+  "modified": "2025-09-16T19:43:37Z",
+  "ns": 860,
+  "pageid": 91572,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q76741",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q76741"
+    }
+  },
+  "title": "Item:Q76741",
+  "type": "item"
+}

@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Muhammad bin Muslim"
+      },
+      {
+        "language": "en",
+        "value": "Muhammad son of Muslim"
+      },
+      {
+        "language": "en",
+        "value": "Muhammad Al-Hashemi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q94211$E1982670-6A07-42E0-B939-9E32F07FDE65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q94211$87087D90-38BB-4A7C-B348-EC45E494E5EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q94211$19A2337A-E0FC-46C9-A262-16337E2E8A8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94207",
+              "numeric-id": 94207
+            }
+          },
+          "hash": "6d4907397c65158316d0193e054819b753a4024e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q94211$1C45C061-816E-4D43-8A37-0F032B42BF61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94022",
+              "numeric-id": 94022
+            }
+          },
+          "hash": "a111786a2c75d42bc79e858c966c8017640f24de",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q94211$0676A548-F5E9-425B-ADFA-A9F02A3BD803",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q94211$1C2B8C34-73A3-4A7B-A22A-FE5E1AA9555E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q94211$6C8A7031-C3CE-49C6-803A-BEEFE4F4CE7A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "7ab81a952e3ff076b69c615d1e4254b2c7f1fa5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q94211$1F64289D-C225-4082-81E9-682F50D11CF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000017701096493"
+          },
+          "hash": "9e7b346db54eb31b47a34cdda71afdb5e9695931",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q94211",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Muhammad son of Muslim"
+    }
+  },
+  "lastrevid": 17508999,
+  "modified": "2025-09-17T00:06:56Z",
+  "ns": 860,
+  "pageid": 109768,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q94211",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q94211"
+    }
+  },
+  "title": "Item:Q94211",
+  "type": "item"
+}

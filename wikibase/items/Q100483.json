@@ -1,0 +1,620 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gonzalo Fernández de Lara"
+      },
+      {
+        "language": "en",
+        "value": "Gonzalo Fernández de Castilla"
+      },
+      {
+        "language": "en",
+        "value": "Gonzalo Fernández of Castile"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q100483$7886E1D2-BD2D-4CD0-B6AA-D010D44510A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "662007"
+          },
+          "hash": "16128c1bb9f92318652ef316d6bbda5ae71c8ca7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q100483$64A59112-5E90-426D-8819-0615618761A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00120962"
+          },
+          "hash": "773cd32dd0d6b12393583dd9bb685c9b335118fb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q100483$9502CE7C-8DBF-45F9-A773-6AEE93051F30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100421",
+              "numeric-id": 100421
+            }
+          },
+          "hash": "1316d659248fe50855ed524a778f88cfbb4a9a04",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100483$7956AF86-799D-4799-8E31-EBC534F684E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101033",
+              "numeric-id": 101033
+            }
+          },
+          "hash": "80850a9e3f3c95d042d5e0d62003ae3956c42162",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100483$DA35130B-5281-41E8-998F-BBE66EEB9D69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109784",
+              "numeric-id": 109784
+            }
+          },
+          "hash": "d52a8a2943816f4fe53a8bcaa0684a8e8c60d3e2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q100483$D45BCEF2-52A8-4D7D-AE49-7D5B5448DE6C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Fernandez-1447"
+          },
+          "hash": "e10f92077499e57485a87f2a58158d5b155d35fa",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q100483$000D44EA-321E-4A36-BA92-DB8D570C7265",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100483$4BD77DF3-5FB6-4053-810D-1FF24EB86888",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q100483$E2CEFEF2-B2BA-4842-8003-D44FDF395E17",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Gonzalo_Fernández_of_Castile_(1)"
+          },
+          "hash": "b5dd40fbba1f5ecebe56edaef1bb32ffb8489ecf",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q100483$C264C1B9-CE1C-468F-BC8D-0B1CE084DB9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101031",
+              "numeric-id": 101031
+            }
+          },
+          "hash": "9fd6bfc1018ee9212bd466ac01ea0a6e67581a45",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100483$1848CAEA-1A46-497E-9BE3-B7AD7F596772",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q101035",
+              "numeric-id": 101035
+            }
+          },
+          "hash": "8853a194da22a889d71f165f7a6404320d9137f3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100483$83DD73AF-DA6B-48E1-A241-765FC9C34362",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110100",
+              "numeric-id": 110100
+            }
+          },
+          "hash": "f01b951ce84016bb91ef67d8fe5a5d91ac532314",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q100483$E48A15DF-04BE-4A9B-A724-00CF09A69D39",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15315.htm#i153150"
+          },
+          "hash": "7d5489470b3df46b246b4a60be433281b4d53825",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q100483$ED757BFE-1BF4-4DC9-85F2-E8E8F692356C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100481",
+              "numeric-id": 100481
+            }
+          },
+          "hash": "0a49e86c4942bc707c8ab34124413acd09e44250",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100483$FD9F30B9-631D-4B60-944A-74A2EB8AE829",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110520",
+              "numeric-id": 110520
+            }
+          },
+          "hash": "25a0221750d367b010089e6da1d0210472034938",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q100483$01F37BEC-A7A8-4D6C-823D-DEE11767485F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100120",
+              "numeric-id": 100120
+            }
+          },
+          "hash": "52e8b5cbf0ae1001b9c7da8fb887042a7d397d5a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q100483$254084DB-76E8-4316-9C6D-C8A93D41281F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110522",
+              "numeric-id": 110522
+            }
+          },
+          "hash": "09f4ab8a16c3856054607bcf5c92a5cc5d3c70ec",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q100483$A37E7D89-A44B-4C72-B658-01252D5E81D1",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "conde de Burgos"
+          },
+          "hash": "c776734ada0b1bd3677b6b2c9851125dc63cfcca",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q100483$D17604FB-B538-48B0-926C-4788ECA23A55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q100483$DB9A37F3-3C6A-468D-871D-89DBE0ABFC94",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22704ee4efe0ee654eac343970919d68633e5816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q100483$E90FF2CD-B767-4FAA-841D-470B1B8ABA34",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0915-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "91a01725b6cc5f5593700dba83b45db8340a2dbd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q100483$8A16C07B-EBD4-4B00-96FA-31B7F7AA3137",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q653617"
+          },
+          "hash": "2cefdaf1b74512be1eb2522eb264c88281b38a5d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q100483$351C896E-3996-4682-9DBE-B0FB20AD16F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000014013164881"
+          },
+          "hash": "c057f8446bf6b7f90c2f3341b9263f3d955030bc",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q100483$CDDB8B47-0E3F-4EFF-A750-DDB6BD7477AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=gonzalo fernandez;n=de castilla"
+          },
+          "hash": "1e7f740f8b178148f5fc455c903b312e0439c7d8",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q100483$C80EAC99-7097-46E1-BFF3-77039DD62B0E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gonzalo Fernández of Castile Arms.svg"
+          },
+          "hash": "151de8ee481e30aa7eef5a0852e9c838a3461a5f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Graf von Burgos und Kastilien"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόμης του Μπούργος και της Καστίλης"
+    },
+    "en": {
+      "language": "en",
+      "value": "885-915"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Burgos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Кастилии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande greve av Kastilien"
+    }
+  },
+  "id": "Q100483",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جونزالو فرنانديز ملك قشتاله"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гансала Фернандэс"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gonzalo Fernández de Castilla"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gonzalo Fernández Kastilský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gonzalo Fernández de Burgos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκονθάλο Φερνάντεθ της Καστίλης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gonzalo Fernández of Castile"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gonzalo Fernández de Burgos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gonzalo Fernández de Burgos"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gonzalo Fernández"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gonzalo Fernández"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゴンサロ・フェルナンデス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gundisalvus Ferdinandi filius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ferdinand Aznárez"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gonçalo Fernandez"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gonçalo Fernandez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гонсало Фернандес"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gonzalo Fernandez of Castile"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gonzalo Fernández av Kastilien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гонсало Фернандес"
+    }
+  },
+  "lastrevid": 17405825,
+  "modified": "2025-09-15T22:14:11Z",
+  "ns": 860,
+  "pageid": 118189,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q100483",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q100483"
+    }
+  },
+  "title": "Item:Q100483",
+  "type": "item"
+}

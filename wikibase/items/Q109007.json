@@ -1,0 +1,213 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q109007$AEB34CFB-E61D-4B3A-B0FF-82CA798FD10E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q109007$F7A178EE-C6EF-4C7C-ACE4-A7968B63A64B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q109007$467C18D5-7BE9-4ED4-9999-6B117E1C211B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q108882",
+              "numeric-id": 108882
+            }
+          },
+          "hash": "502959da5d43efb8cc639825b24eb42de9656204",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q109007$0F5F824B-FEC4-4CF8-A105-3058FFBCCE18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q109007$EAA44DAC-A9B9-4022-AE9C-37D685CE1D87",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16202340"
+          },
+          "hash": "5ba864122890903d83785bbee5484d2b07ed910f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q109007$37D351A4-21F8-42BD-9AC3-5DAD485BE4F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Niketas the Persian Arms.svg"
+          },
+          "hash": "eb0e1c2073a3918991c3b7600ec482df7afa2d1f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Byzantine officer"
+    },
+    "es": {
+      "language": "es",
+      "value": "oficial bizantino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Officier byzantin du VIIeme siècle"
+    }
+  },
+  "id": "Q109007",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "نيكتاس الفارسي"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nicetes el Persa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νικήτας της Περσίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Niketas the Persian"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nicetas el Persa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نیکتاس ایرانی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nicétas le Perse"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Niketas an Peirseach"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペルシア人ニケタス"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Nicetas"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Nicetas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Никет Персидский"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Niketas the Persian"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Никита Персијанац"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Никетоси Эронӣ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Нікет Перський"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尼克塔斯"
+    }
+  },
+  "lastrevid": 17520855,
+  "modified": "2025-09-17T03:11:10Z",
+  "ns": 860,
+  "pageid": 129659,
+  "sitelinks": {},
+  "title": "Item:Q109007",
+  "type": "item"
+}

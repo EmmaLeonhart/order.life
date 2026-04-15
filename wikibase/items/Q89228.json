@@ -1,0 +1,482 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Erwig"
+      },
+      {
+        "language": "en",
+        "value": "Erwig  King of the Visigoths"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q75432$5968EF7E-EC8A-4BDD-901B-0B2D3B7C4F06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75486",
+              "numeric-id": 75486
+            }
+          },
+          "hash": "7867245e187f60c443b926d418493e540fb969fd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75432$D03759AF-4FE1-1715-5FD1-627A36B90A9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99815",
+              "numeric-id": 99815
+            }
+          },
+          "hash": "6ab95335953378d851b33004943527bb03c2c198",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q75432$9DBB3CAB-57E0-4A4D-8C3D-84A81E8806CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q75432$553305E8-8576-4303-8BDC-6CD39A13114B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q75432$BD66F8F1-5CEF-4F7A-9BEA-FAF0DDD6C5FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75435",
+              "numeric-id": 75435
+            }
+          },
+          "hash": "07913c5cc0dab57ad339abe49932564f56203f5d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q75432$63103E16-40F0-49D2-B1CB-0ACB080EBE40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q75420",
+              "numeric-id": 75420
+            }
+          },
+          "hash": "763bb935723bf4bf412bc075ec99a2c788ef3234",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q75432$B289C987-6AAF-4B39-93C9-3F8E85EA2DFE",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Erwig /King of the Visigoths/"
+            }
+          },
+          "hash": "4eaa9241205d6080b788240ca34ea3f9d8f315f2",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q75432$C1DE1D4C-AB98-4DBA-84A4-8CF384268D56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q75432$219C5083-48AF-FE1A-2DDF-7ECB63BD24E0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0643-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a1bf9f65a49f41426c7818c6f242bc0613d37afa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q75432$86C655F1-4329-5731-AF20-18E528C63EB9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0687-11-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dbba986ff4f7bc3d3d16d8843a85467336e52701",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q75432$047A73F1-4B47-1418-116E-35B290A5134F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q318645"
+          },
+          "hash": "3e9f483d9a92b8386d3a96544fdfe9e601aeba6f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q75432$A2E19375-670F-4AE5-AFFB-D2510685DC34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012137915513"
+          },
+          "hash": "a5aeede2711411aa8925d75fe5adb28b679b51d9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q75432$12A23103-C6C8-4E33-9A17-82E5B38DF2FD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Erwig Arms.svg"
+          },
+          "hash": "3b89830e1e341f75585425351f678b426222fd3e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "кароль вэстготаў"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Rei visigot d'Hispània"
+    },
+    "de": {
+      "language": "de",
+      "value": "König der Westgoten"
+    },
+    "en": {
+      "language": "en",
+      "value": "Visigoth king"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de los visigodos"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "nyugati gót király"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano visigoto"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король вестготов"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung i västgotiska riket"
+    }
+  },
+  "id": "Q75432",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Erwichio"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارويج"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Эрвіг"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ервиг"
+    },
+    "br": {
+      "language": "br",
+      "value": "Ervigio"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ervigi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Erwig"
+    },
+    "el": {
+      "language": "el",
+      "value": "Έρβιγ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Erwig"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ervigio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ervigio"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ervigio"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Erwig"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Erwig"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ervixio"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ervig"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Erwig nyugati gót király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Erwigius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ervige"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ervigius"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Ервиг"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Erwig"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Erwig"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Ervigi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Erwig"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ervígio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ervígio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эрвиг"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ervig"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Erwig"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ервиг"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Ервиг"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Ervig"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Erwig"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ервіґ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "赫尔维希"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "赫尔维希"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "赫尔维希"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "赫爾維希"
+    }
+  },
+  "lastrevid": 17488660,
+  "modified": "2025-09-16T19:19:23Z",
+  "ns": 860,
+  "pageid": 90263,
+  "sitelinks": {},
+  "title": "Item:Q75432",
+  "type": "item"
+}

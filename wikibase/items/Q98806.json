@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hind bint  Awf"
+      },
+      {
+        "language": "en",
+        "value": "Hind daughter of  Awf"
+      }
+    ]
+  },
+  "claims": {
+    "P3": [
+      {
+        "id": "Q98806$19CEAE64-FD41-4FC5-ADD9-C0A3D767290F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Hind bint"
+            }
+          },
+          "hash": "c32b272879a6681e947565b7217f07c5bc56252d",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q98806$40357F67-C130-414A-9148-F6E55C174332",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q98806$00FCDB6A-B016-4360-8A2C-94E1FEF57877",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q98806$0FA85858-C00C-4D11-A277-61C9413C6C30",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Awf"
+            }
+          },
+          "hash": "8fec97024ff33e0d22b95430eaba4a1d90e3aea1",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q98806$7B1970ED-3842-4623-A7C3-F3197A387F9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98261",
+              "numeric-id": 98261
+            }
+          },
+          "hash": "aef25e9cff76bf2eb1889a46d023f7558e9931eb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q98806$E537ADD3-13AA-4E2E-A03E-2607A7E2FC96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98804",
+              "numeric-id": 98804
+            }
+          },
+          "hash": "047530abf41025f6bcfa1e30ab74a7cd66262a95",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q98806$0A048AAB-D3B4-427A-92CC-03F58AA86978",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Hind bint /Awf/"
+            }
+          },
+          "hash": "cc76a03b665872fd466709154289f4ae101bbf10",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q98806$0127EB76-E65A-4D4D-8D17-FFC49BB2AC03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q98806$286CFC6B-5399-4F54-8126-36A18653D521",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000039147023374"
+          },
+          "hash": "0ff581f87520ea8a8f818f522e63036ef7ec0cc6",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q98806$5C290E80-0712-4648-AD04-CD469D5AA607",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hind daughter of  Awf Arms.svg"
+          },
+          "hash": "182a57fa1548646490e3ea9f5ce48b56bd831781",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q98806",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hind daughter of  Awf"
+    }
+  },
+  "lastrevid": 17513565,
+  "modified": "2025-09-17T01:12:40Z",
+  "ns": 860,
+  "pageid": 115941,
+  "sitelinks": {},
+  "title": "Item:Q98806",
+  "type": "item"
+}

@@ -1,0 +1,214 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Da'ud ben Ahijah"
+      },
+      {
+        "language": "en",
+        "value": "Da'ud ben Nachum (ben Ahijah)"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q86559$81C47783-9539-470B-8F6A-150131E3925B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86551",
+              "numeric-id": 86551
+            }
+          },
+          "hash": "5cb8bbb848804c69194f055fc874d3b448b21e31",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q86559$88F2A1CF-1A72-447E-B51E-1F2C24FFAF92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86559$328C73B7-E1F8-491A-80C2-EF05A7DED400",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q86559$7A2651FC-15EB-404F-A49F-3931A4CC4D1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86565",
+              "numeric-id": 86565
+            }
+          },
+          "hash": "91565b1ee0315fd6e20a00ca9d6882ae51d0b051",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q86559$E4ABCCB3-F6AF-4500-B387-BAFF131DC722",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86567",
+              "numeric-id": 86567
+            }
+          },
+          "hash": "9162007f21e0299ccb5572b5e359d0713a4d39df",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86559$319B1B82-35D9-467F-86A8-5B5B44B5BFDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q86559$A580DC6D-C879-4705-A31C-A4078A2572CD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q86559$C2921093-14BA-4821-8017-52C19BB4B6AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86559$A46577FC-CF7C-4110-BF81-2FFC27AC7EB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000019083028137"
+          },
+          "hash": "77f43d075c7b3e252f6928c9e00dabe85373e310",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q86559",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Da'ud  ben Nachum (ben Ahijah)"
+    }
+  },
+  "lastrevid": 17501369,
+  "modified": "2025-09-16T22:18:47Z",
+  "ns": 860,
+  "pageid": 101390,
+  "sitelinks": {},
+  "title": "Item:Q86559",
+  "type": "item"
+}

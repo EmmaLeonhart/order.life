@@ -1,0 +1,196 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "María Antonia de Escobar"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q92813$4203EAFC-D5EA-4C3A-B218-479B91B631E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33290",
+              "numeric-id": 33290
+            }
+          },
+          "hash": "1d64a3b2888a7f4544dcfc3c08dca19dcde8217e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q92813$36D19577-92D3-467F-B796-23870DD2B82D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92813$0C33F7D1-D092-454B-B15E-2DF83096D0D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q92813$336B08C7-C2B0-4BFE-AF3B-701A5E1BDB5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31914",
+              "numeric-id": 31914
+            }
+          },
+          "hash": "9916d6ee7d4b23259b052f6c8eab659931661933",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q92813$0013743E-82CA-4579-A658-FC969C7E983F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "María Antonia /de Escobar/"
+            }
+          },
+          "hash": "5c553dbd3b939bd26da86d7245a67ce629713119",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q92813$673999F7-8442-4150-B6F6-59A569D58B6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q92813$194B6CA1-C7A9-427A-938B-3C6F9FFAEECB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q92813$1EC0BE85-8CCC-4C4F-92F8-E5D87C0A5BB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000023685444986"
+          },
+          "hash": "5c5499ad287b18303ebbbc04922723aacaed0d41",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q92813",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maria Antonia  de Escobar"
+    },
+    "es": {
+      "language": "es",
+      "value": "María Antonia  de Escobar"
+    }
+  },
+  "lastrevid": 17507607,
+  "modified": "2025-09-16T23:46:36Z",
+  "ns": 860,
+  "pageid": 108185,
+  "sitelinks": {},
+  "title": "Item:Q92813",
+  "type": "item"
+}

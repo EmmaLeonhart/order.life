@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abraham Joshua Levenshtam"
+      },
+      {
+        "language": "en",
+        "value": "הגאון הקדוש רבי אברהם יהושע העשיל , ר\"מ ואב\"ד לובלין ובק\"ק קראקא("
+      },
+      {
+        "language": "en",
+        "value": "אברהם יהושע העשיל"
+      },
+      {
+        "language": "en",
+        "value": "הגאון הקדוש רבי אברהם יהושע העשיל , ר\"מ ואב\"ד לובלין ובק\"ק קראקא( אב\"ד לובלין ור\"מ בק\"ק קראקא"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q93455$1515CE0C-3B84-4B75-BE8C-AD840AA51038",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93455$F5A8A848-0CD4-4DF7-99BC-59C510E97CBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q93455$79155601-FE91-4376-A311-894431EC9E5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92797",
+              "numeric-id": 92797
+            }
+          },
+          "hash": "3e534a79889bc325137c5bc2163b7208dc7f54a1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q93455$97CF218D-0125-43A2-8C55-AD6D9CB13F10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93453",
+              "numeric-id": 93453
+            }
+          },
+          "hash": "297158384d0b4d6352ab2f1fae624b9d63bbdea2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q93455$ED5FBB21-7615-43D9-A534-F92B450F4A52",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "אב\"ד לובלין ור\"מ בק\"ק קראקא"
+          },
+          "hash": "951b91ff94ec36ced57dd4b86ea1f193d421d6aa",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93455$F44DB448-6A72-48A3-B61E-84C8D5C37926",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q93455$8C86B43C-F782-4242-8C03-C0071CB1261B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q93455$4B551DB7-477A-4606-8468-4522E9920EE0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "7ab81a952e3ff076b69c615d1e4254b2c7f1fa5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93455$EA246645-4600-4535-99B7-018D194BA5A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "3381491"
+          },
+          "hash": "0a127bfab4179a0fa4107e115c280b9162158560",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93455",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "The Holy Gaon Rabbi Avraham Yehoshua Heshil R.M. and AvD. of Lublin and K.K. of Krakow"
+    }
+  },
+  "lastrevid": 17508247,
+  "modified": "2025-09-16T23:55:27Z",
+  "ns": 860,
+  "pageid": 108863,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q93455",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q93455"
+    }
+  },
+  "title": "Item:Q93455",
+  "type": "item"
+}

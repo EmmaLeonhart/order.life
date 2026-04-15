@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nathan HaLevi HaLevi"
+      },
+      {
+        "language": "en",
+        "value": "Nathan HaLevi Wyss"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q89341$23D23510-070B-405A-926E-B4B1161405F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89510",
+              "numeric-id": 89510
+            }
+          },
+          "hash": "35bebf4ab19c5c03ef7173e126aa6a20e2904c95",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q89341$54331BBC-9059-48B4-B35C-96C424CA6C74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89341$31229F01-4ECA-4DBD-826B-9D9C90D6BB5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q89341$F7F80F04-7095-4D1A-97B8-A5D23937A932",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91444",
+              "numeric-id": 91444
+            }
+          },
+          "hash": "95750f8fa1817d88e3b84b3882d7b0cd90825573",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q89341$91D91297-A6B8-483A-A968-35CEE5F15D4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89195",
+              "numeric-id": 89195
+            }
+          },
+          "hash": "7f6d47f62536293e6f1f978e04be254afc27e2fc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q89341$52401A1D-FA8E-4DF2-AD31-03083D533617",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91390",
+              "numeric-id": 91390
+            }
+          },
+          "hash": "6799332dc6637090a0acfeeace387a1932ccf7a7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q89341$31DC0555-BC21-43ED-9409-4D1175CB2593",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Nathan HaLevi /Wyss/"
+            }
+          },
+          "hash": "b6c80ebd6ddfee02554a85b1eb69da5cdc83cebe",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q89341$C4F93D99-842E-4DA5-BF2D-E64311956117",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q89341$4A881488-42BB-40AF-A388-96C801AABC8E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q89341$7EC2B3F8-D0D8-4FB1-8223-8CE94A5E043B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q89341$5EAAD56E-6D2F-4369-8D15-6080A7891AB0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000180106019822"
+          },
+          "hash": "99f7aa295e412474ae165b9138ad2158abe29165",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q89341",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nathan HaLevi  Wyss"
+    }
+  },
+  "lastrevid": 17504149,
+  "modified": "2025-09-16T22:58:17Z",
+  "ns": 860,
+  "pageid": 104172,
+  "sitelinks": {},
+  "title": "Item:Q89341",
+  "type": "item"
+}

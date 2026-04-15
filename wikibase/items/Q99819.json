@@ -1,0 +1,860 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alfonso I 'el Católico'"
+      },
+      {
+        "language": "en",
+        "value": "Alfonso I el Católico, rey de Asturias"
+      },
+      {
+        "language": "en",
+        "value": "Alfonso I of Asturias"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q99819$5D46F9D1-446A-4202-8B91-F5DCCC06BD78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "131122"
+          },
+          "hash": "c27a339b0a341fd3241b1d57a8b30d5bbcf07d34",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q99819$D2DFD7A0-D424-4326-A077-9AC47200F396",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00120400"
+          },
+          "hash": "50accff614c5cb3c8f6595c9d00c798fa9b0c9a8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q99819$43705743-FDAA-4CD7-877A-DFCB0B21F47B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99861",
+              "numeric-id": 99861
+            }
+          },
+          "hash": "72cc1df3cbb26257605d28e62908bb985c264d15",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99819$AE9505C4-71AD-4AD5-8C48-5F714C2E4C30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99863",
+              "numeric-id": 99863
+            }
+          },
+          "hash": "0de6b3809351bbfd38c2dcd5d9c6fb19fd298d1b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99819$894B72BD-7DBA-4CF2-9BD4-4E11EF3AB0EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99865",
+              "numeric-id": 99865
+            }
+          },
+          "hash": "1e0883fabbb67bc0bb27171d449d902408bd2084",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99819$45C8539D-995C-433E-A426-0A4650157354",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99867",
+              "numeric-id": 99867
+            }
+          },
+          "hash": "29bebca0c2d8ec8ef9ff6be46702c65fa3d05a4e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99819$97F9AF6B-8584-4B8A-8DE6-601396C9B371",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99871",
+              "numeric-id": 99871
+            }
+          },
+          "hash": "c7bc9cc015ca6d2ce8bdacad32d71f7ef1188797",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99819$BAB372DB-2D16-41D3-829C-56E141ED781F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111410",
+              "numeric-id": 111410
+            }
+          },
+          "hash": "5d2bf9af2db8004223e7db5db413378f4069b711",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99819$C7794101-2673-4767-82A5-6217B749E2AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110850",
+              "numeric-id": 110850
+            }
+          },
+          "hash": "c97389212f592f81c210444cb883f545726bc7b3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99819$005CA0FA-DA30-48C9-8D0B-2FD0DFF302EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111408",
+              "numeric-id": 111408
+            }
+          },
+          "hash": "915db59a3d95bde3c6ef5a02eacc8f6a3606cac9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q99819$66B16FDC-98DF-4D5E-927C-2011D7D8DBF4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Asturias-10"
+          },
+          "hash": "ba84185f0b73ee594fc55e72cfd725af9857e860",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q99819$42DF5FBE-12DA-40DE-B65F-F2DE45B9972F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Alfonso I of Asturias"
+            }
+          },
+          "hash": "a39c618e452f1920324d6d8119de1eb036d78c08",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q99819$BF2CF229-0C6A-4F3A-B45C-B4B1A1B0717F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99819$30EA44A6-0A2C-48B9-BC21-C1E9B52A9D08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q99819$8228AAD3-8D00-4C37-80D5-CE56609E8285",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Alfonso_I_of_Asturias_(1)"
+          },
+          "hash": "c24fd6c1023e1dcaa42deedbc806777f66175936",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q99819$37AC44FC-F84E-49C4-8AB2-0FF04FC21424",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99859",
+              "numeric-id": 99859
+            }
+          },
+          "hash": "74e313d15dafa7ed4d70b9572f32b8c7a2ada48d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99819$3C8BC93C-175E-4201-A5A1-591C4D26EDD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99869",
+              "numeric-id": 99869
+            }
+          },
+          "hash": "929b88de0e9797c35293a493667e187cd5239e23",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99819$5FB98EBC-3569-4BCE-BEAD-754990AACEB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111406",
+              "numeric-id": 111406
+            }
+          },
+          "hash": "6af3996135441960b3fcfb605eb4976e33884a60",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q99819$7D082FA8-990C-4BF6-9488-98707BE17115",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112216",
+              "numeric-id": 112216
+            }
+          },
+          "hash": "14eba0e830a9a905bd9e149f1c32ca92b134ba6c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q99819$5C331C38-43FD-4EB3-9C32-960E837E8BB0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15271.htm#i152708"
+          },
+          "hash": "875b8cd6e204eb769de999a50ee867e1cd0564b5",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q99819$3A5D6D6F-6BE8-4EAE-8590-828540C7591F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99815",
+              "numeric-id": 99815
+            }
+          },
+          "hash": "5a326fbcd9a6882ef0c4d7fdd11b8364fb0decc7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q99819$DCB30A4E-8493-426E-A319-3A471B361CB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99817",
+              "numeric-id": 99817
+            }
+          },
+          "hash": "2f36374b49399ddd0c078e7ffbd08f08b0ff2ffe",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q99819$92612BB8-3663-48C4-AE53-372E27C1C0FA",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Alfonso I of Asturias //"
+            }
+          },
+          "hash": "144ca34397f2aee09e8427dce8c100f5955c11cb",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q99819$57BFD9D5-B582-41D0-8AD1-398BFE9BDF0F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "rey de Asturias"
+          },
+          "hash": "6d85b98f5a4d8732ceaac262913fa788c93066cb",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q99819$D226946F-D5FF-48B3-A9BA-BE7BC0FF188A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q99819$BAB4D29D-0F97-4334-A590-C007A59E6D0C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0705-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0d8b7b32d5c1720c41190ba5976f5ff8f3dc6f4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q99819$E7A16A32-A5C0-4BFE-A66D-3E665ADDB1C3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0757-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1c3e2f1233c74ced42ddb272de824100c70c7002",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q99819$8B614E6D-E639-4B7C-A1A6-D092AF0A3DE3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q333609"
+          },
+          "hash": "12c35f4ef64d2be356290d9a2a93b7ac48383a89",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q99819$BC7CFAA8-C557-4D22-BA49-19A6BEBB79AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000004045821353"
+          },
+          "hash": "7a34a85949936a3aa7611107b46113d4aeaa82fd",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q99819$558E325A-0CD5-42BF-82A1-7BE5571B0C07",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=alfonso;n=de asturias;oc=1"
+          },
+          "hash": "187488b669017afa553d650e099ad5586b73292d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q99819$543B6CC6-5217-42D1-9A52-6BD6EF987C30",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alfonso I of Asturias Arms.svg"
+          },
+          "hash": "b958a5312d442d85088bfc55c5495a0f265837c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ثالث ملوك أشتوريش"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "rei d'Asturies ente 739 y 757"
+    },
+    "be": {
+      "language": "be",
+      "value": "кароль Астурыі (739—757)"
+    },
+    "br": {
+      "language": "br",
+      "value": "roue Asturiez"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Duc de Cantàbria i Rei d'Astúries"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "asturský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Asturien"
+    },
+    "en": {
+      "language": "en",
+      "value": "duke of Cantabria and king of Asturias"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Asturias (739-757)"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Kantabriako dukea eta Asturietako erregea"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi des Asturies de 739 à 757"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Duque de Cantabria e Rei de Asturias"
+    },
+    "he": {
+      "language": "he",
+      "value": "המלך השלישי של ממלכת אסטוריאס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Asztúria királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re delle Asturie (r. 739-757)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Spaans militair (693-757)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Asturii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Астурии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Asturien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "король Астурії"
+    }
+  },
+  "id": "Q99819",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ألفونسو الأول ملك أشتوريش"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الفونسو الاول ملك استورياس"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Alfonso I"
+    },
+    "be": {
+      "language": "be",
+      "value": "Альфонса I Каталік"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Альфонса I Каталік"
+    },
+    "br": {
+      "language": "br",
+      "value": "Alfonso Iañ Asturiez"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alfons I d'Astúries"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alfons I. Asturský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Alfonso I, brenin Asturias"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alfons I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλφόνσος Α΄ των Αστουριών"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alfonso I of Asturias"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alfonso I de Asturias"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Alfontso I.a Asturietakoa"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Alfonso I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alphonse Ier"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Alfonso I na Gailíse"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Afonso I o Católico"
+    },
+    "he": {
+      "language": "he",
+      "value": "אלפונסו הראשון, מלך אסטוריאס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Alfons I. Asturijski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. (Katolikus) Alfonz asztúriai király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ալֆոնսո I Կաթոլիկ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Alfonsu I"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alfonso I delle Asturie"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルフォンソ1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ალფონსო I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alfons I van Asturië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Alfons I Katolicki"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Afonso I das Astúrias"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Afonso I das Astúrias"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Альфонсо I Католик"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Alfonso I od Asturije"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Alfonz I."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Alfonso I of Asturias"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alfonso I av Asturien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Альфонсо I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿方索一世 (阿斯圖里亞斯)"
+    }
+  },
+  "lastrevid": 17514407,
+  "modified": "2025-09-17T01:24:10Z",
+  "ns": 860,
+  "pageid": 117299,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q99819",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q99819"
+    }
+  },
+  "title": "Item:Q99819",
+  "type": "item"
+}

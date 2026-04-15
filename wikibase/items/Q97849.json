@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Muhammad al-Mahdi bin Hasan al-Askari"
+      },
+      {
+        "language": "en",
+        "value": "Muhammad al-Mahdi son of Hasan al-Askari"
+      },
+      {
+        "language": "en",
+        "value": "Muhammad al-Mahdi Al-Husayni"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q97849$451AB8F9-7D7E-4633-A26A-DB0866DE4E3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q98449",
+              "numeric-id": 98449
+            }
+          },
+          "hash": "b58d74b52ad294405a16816e19c8d7af13471df1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q97849$880AD75F-9A17-47FF-B7D2-6DA7ACCE6A3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q97849$5CC1DB30-E88C-464D-8450-A4BAAD517903",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q97849$CAAC2486-4269-400A-9A7B-495B5C556D11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97145",
+              "numeric-id": 97145
+            }
+          },
+          "hash": "725b1242e702d811eff737454cc8194e57724ea8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q97849$6BFF7967-A3E9-4EC4-B49A-16EE4CB2B0D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97847",
+              "numeric-id": 97847
+            }
+          },
+          "hash": "53bae17203022c890a733ceefa904ecc64103852",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q97849$899727A2-82DD-4A06-BF22-56FE1524FAC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q97849$BA744826-BE1D-48B7-8B43-77CAC4A3DA16",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q97849$089D4ECF-F26F-41A5-A70E-2E5BF69A0CEC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "7ab81a952e3ff076b69c615d1e4254b2c7f1fa5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q97849$15AFDB67-428F-4770-9D95-8D55971E8138",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000010641649981"
+          },
+          "hash": "f5d4daeb58ad0c34132aefbbfdd15d9c01b39b2e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q97849",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Muhammad al-Mahdi son of Hasan al-Askari"
+    }
+  },
+  "lastrevid": 17512617,
+  "modified": "2025-09-17T00:59:23Z",
+  "ns": 860,
+  "pageid": 114654,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q97849",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q97849"
+    }
+  },
+  "title": "Item:Q97849",
+  "type": "item"
+}

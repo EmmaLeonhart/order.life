@@ -1,0 +1,187 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marda bint Shabib"
+      },
+      {
+        "language": "en",
+        "value": "Marda daughter of Shabib"
+      },
+      {
+        "language": "en",
+        "value": "Marda bint Al-Turkia"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q97562$A9E51D16-37C9-4648-A799-BD9607703681",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q97564",
+              "numeric-id": 97564
+            }
+          },
+          "hash": "f9dfbb9195ea0a802c7123082eba7c1fe833694a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q97562$BD625A94-9ECB-4C3A-9F3E-BE0B2E2A89C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q97562$9360A1F7-371F-4BC9-9F43-4477478EB9A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q97562$BB3008F7-A66A-4EE2-8C6B-94812030121B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q96886",
+              "numeric-id": 96886
+            }
+          },
+          "hash": "b88d9e13ae6ddf030f0e61606e00b253aa429952",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q97562$EE664183-34F5-464A-A8FD-5E753DEECF27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q97562$712772E8-8937-4B54-9062-28532E1BB296",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q97562$3FFBF1DD-40E6-4DA2-ADF7-EE0888A7C0EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4620606520680038153"
+          },
+          "hash": "b374accc5a647ee30e88555726d8516049e2566c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q97562",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Marda daughter of Shabib"
+    }
+  },
+  "lastrevid": 17512333,
+  "modified": "2025-09-17T00:55:02Z",
+  "ns": 860,
+  "pageid": 114269,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q97562",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q97562"
+    }
+  },
+  "title": "Item:Q97562",
+  "type": "item"
+}

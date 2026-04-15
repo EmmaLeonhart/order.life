@@ -1,0 +1,175 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hasan al-Hajjam bin  Muhammad"
+      },
+      {
+        "language": "en",
+        "value": "Hasan al-Hajjam son of  Muhammad"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q96352$3AEA5B49-820F-4607-B748-A3E7D4F0BC97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q96352$E775CC5E-69F0-4392-A5C8-10631E84AB0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q96352$5F372871-7FFE-4D1F-9511-A8FAA2F3A76B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95784",
+              "numeric-id": 95784
+            }
+          },
+          "hash": "60eea30eed1d31445171a5cd999ab748270bfb7c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q96352$21629EE1-07C3-4149-814E-8A2AE0FBD668",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Hasan al-Hajjam bin /Muhammad/"
+            }
+          },
+          "hash": "f2703baf439d8187711c5e78876801f5fe27262d",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q96352$10CA446F-86EB-4E02-B829-C4E3B2D083E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q96352$EFB11734-A523-414E-AFF0-54BEF3FB2D6A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q96352$9A2E5E88-D4E7-4164-AEA1-7DC07D35C912",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4567878167320068574"
+          },
+          "hash": "1e13f779ab69fc602c51eae274d1e75f2defb4ce",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q96352",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hasan al-Hajjam son of  Muhammad"
+    }
+  },
+  "lastrevid": 17511129,
+  "modified": "2025-09-17T00:37:28Z",
+  "ns": 860,
+  "pageid": 112651,
+  "sitelinks": {},
+  "title": "Item:Q96352",
+  "type": "item"
+}

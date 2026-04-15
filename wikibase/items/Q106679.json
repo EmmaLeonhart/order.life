@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Muhammad Al-Isma'ili"
+      },
+      {
+        "language": "en",
+        "value": "Muhammad bin Isma'il"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q95017$E1E2FAC4-5964-4388-BB1D-CF04C26848D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95542",
+              "numeric-id": 95542
+            }
+          },
+          "hash": "08a3a28c37c07a4c65d0050606803fa965dcc925",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q95017$12DC8F50-F5A4-4BF6-AE14-D45EDB201D98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q95017$A6E00A66-EDDB-4AF7-B5C4-03679C2742B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q95017$05708C85-0BDD-41F3-8957-7F5CD8819C8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94629",
+              "numeric-id": 94629
+            }
+          },
+          "hash": "e16d8653092d54807677eaa731b7ca198afdcb6e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q95017$C5414F22-1355-4AA7-9B63-6E0F47AB7FCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q95017$0845B4B2-233B-46AF-AC1D-A37E29FFD04C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q95017$D70A0BD6-3DCC-4E5A-8D45-0B992A603864",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000026066263419"
+          },
+          "hash": "48d9f8a72aaf489aa2604cf9d9b551fd9769cdef",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q95017",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Muhammad bin Isma'il"
+    }
+  },
+  "lastrevid": 17509793,
+  "modified": "2025-09-17T00:18:12Z",
+  "ns": 860,
+  "pageid": 110858,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q95017",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q95017"
+    }
+  },
+  "title": "Item:Q95017",
+  "type": "item"
+}

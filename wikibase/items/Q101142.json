@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nathan ben Dionillo Nunes Ximenes"
+      },
+      {
+        "language": "en",
+        "value": "ben Dionillo Kaztin Rhuaidhri"
+      },
+      {
+        "language": "en",
+        "value": "Nathan ben Dionillo Katzin Rhuaidhri"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q89463$1F521246-3C24-4346-BBAA-1E9649F11F9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89689",
+              "numeric-id": 89689
+            }
+          },
+          "hash": "4748e7b1a78dbc2d203380f317b326c08e9ba33c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q89463$E1578495-5CBF-42A1-A9B5-1C22EA10406A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89463$4421721E-259F-47BF-8C38-B3F2742F579E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q89463$8E522689-0897-461F-A9EC-4F5CB02CBBFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89293",
+              "numeric-id": 89293
+            }
+          },
+          "hash": "9092578911d7c41136e28293c31e6190f4e62302",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q89463$527EBC7B-1880-4A57-B536-3B19664E4027",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Nathan ben Dionillo /Katzin Rhuaidhri/"
+            }
+          },
+          "hash": "c03f476bf80a5fdd6df7cf45884da4029954132a",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q89463$5EBC6119-A111-495A-AC55-5D1139F9863A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q89463$F1C17BDC-9E26-4F89-8AEA-C508D8ADAA52",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q89463$6D1BBD6F-FD88-4BBF-8018-9548E3EC80DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000028958072481"
+          },
+          "hash": "86644a5e1dfd013bd4aedfb51b4a9434a41634c8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q89463",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nathan ben Dionillo  Katzin Rhuaidhri"
+    }
+  },
+  "lastrevid": 17504271,
+  "modified": "2025-09-16T22:59:57Z",
+  "ns": 860,
+  "pageid": 104294,
+  "sitelinks": {},
+  "title": "Item:Q89463",
+  "type": "item"
+}

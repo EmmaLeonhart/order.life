@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Diego Alonso de Burgos"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91596$7D6112C2-E155-424C-A522-E145D4BA3108",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89777",
+              "numeric-id": 89777
+            }
+          },
+          "hash": "18c634ca6828ff69209c7af334c49a245dbf5927",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91596$1FE60727-8F31-41FB-93C4-000B53B82A12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89779",
+              "numeric-id": 89779
+            }
+          },
+          "hash": "a3c6b35d9d8ddeac281ccbc40405a9750a76e227",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91596$9AC3E0C9-D89F-4F9E-A5DB-C5E419A425FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89781",
+              "numeric-id": 89781
+            }
+          },
+          "hash": "8f6d59f2693b3027781faae9ae38d8d14b2718fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91596$39DF6F87-5D90-4BCF-9187-C73E73BB6941",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91596$A8540260-E971-445D-A252-48D3A952E045",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91596$55101E53-8D99-4950-82F6-8E88AE807A42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91464",
+              "numeric-id": 91464
+            }
+          },
+          "hash": "b9c3ab259b7355f6592dfacc32d8132d10a46c4c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q91596$940F1468-4573-45B1-997B-DB952CFC7F6C",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Diego /Alonso de Burgos/"
+            }
+          },
+          "hash": "cdd42607b12ca84e1ac7cd20aff774e3dd487cd7",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91596$296D8536-E423-4FF3-AF08-2A03E1D7D604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q91596$32B2CF19-B8A8-4EB6-B434-0BE439DEEB78",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91596$E2A13AE2-7836-4646-BF41-33C7A69DC770",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000061610396498"
+          },
+          "hash": "9232dd1291a81a15b33faf65dbb6ef44018148a5",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91596",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Diego  Alonso de Burgos"
+    }
+  },
+  "lastrevid": 17506399,
+  "modified": "2025-09-16T23:30:15Z",
+  "ns": 860,
+  "pageid": 106827,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q91596",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q91596"
+    }
+  },
+  "title": "Item:Q91596",
+  "type": "item"
+}

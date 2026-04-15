@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Khizkiyahu  bar Khasadya"
+      },
+      {
+        "language": "en",
+        "value": "Khizkiyahu  son of Khasadya"
+      },
+      {
+        "language": "en",
+        "value": "Khizkiyahu ."
+      },
+      {
+        "language": "en",
+        "value": "חזקיה"
+      },
+      {
+        "language": "en",
+        "value": "Khizkiyahu bar Khasadya"
+      },
+      {
+        "language": "en",
+        "value": "Khizkiyahu  bar Khasadya 9th Exilarch"
+      },
+      {
+        "language": "en",
+        "value": "Khizkiyahu  son of Khasadya 9th Exilarch"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q93754$B60669D0-7D65-4830-AFFB-B9B5B2D6C58B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93754$09479EA7-18F8-4A93-AD09-0ADCA353AFE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q93754$CD943051-CF56-4993-A3FD-6C2F2A96CE5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86748",
+              "numeric-id": 86748
+            }
+          },
+          "hash": "5496b0fe55cce2df7a0445b9cb9d97c09f628912",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q93754$85C75DA5-C1BD-4447-AE35-E62BBE683139",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Khizkiyahu /bar Khasadya/"
+            }
+          },
+          "hash": "d493494ce15fe76efad045fd00d4d9095af72388",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q93754$9F4A01A4-15C9-4887-A2F4-6301DFEDF8E5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "9th Exilarch"
+          },
+          "hash": "315b6761321019346bd65c936c2ef71a0106de6a",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93754$5372FB5F-6842-4193-A1D4-19359ECD00F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q93754$B76209BA-8601-4680-9FEC-6050B93B1842",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93754$72454213-9D29-42CA-96DA-D2DCF17C0500",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000024710665957"
+          },
+          "hash": "8a5eb389fa50e73a7757ed44ded13bb90bd652ec",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93754",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Khizkiyahu  son of Khasadya"
+    }
+  },
+  "lastrevid": 17508547,
+  "modified": "2025-09-16T23:59:37Z",
+  "ns": 860,
+  "pageid": 109192,
+  "sitelinks": {},
+  "title": "Item:Q93754",
+  "type": "item"
+}

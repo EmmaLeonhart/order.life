@@ -1,0 +1,200 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91518$5F88F0D2-92F9-438D-A096-16ABAE1F5DA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89616",
+              "numeric-id": 89616
+            }
+          },
+          "hash": "17863173d7237336c8623a16fe19047a00ab8eab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91518$EC0679A5-A3BB-4721-ACB7-28BBB73174D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89618",
+              "numeric-id": 89618
+            }
+          },
+          "hash": "b22b2a2dcee1f497f90f0fa97615977005f11b18",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91518$6E761837-9373-45FD-A8C6-12267279ACF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91518$7845E5AE-AE65-4D36-93F8-62C9258D8156",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91518$6C899FEA-7061-4CF3-9B7D-4174F57B451E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91414",
+              "numeric-id": 91414
+            }
+          },
+          "hash": "0fca5791f38d9b81d2c08f7f9be78a908db6b4de",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q91518$A5E34E6D-C8D0-4691-8659-365982ED3AB1",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Pedro /Fernández/"
+            }
+          },
+          "hash": "96039078135edd13632314cb089e311dba3396d3",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q91518$9206BC8F-1B0E-4FFC-94D1-E4B8189B74D9",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "alcaide de Ixar"
+          },
+          "hash": "cefe80da9fb112f6ccef34ec50c097630b50f847",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91518$307E9843-79D2-4CF4-8AED-650EEF4131C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91518$9414DD99-8C19-441B-986D-46715B1FC639",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000029181362914"
+          },
+          "hash": "ee23ba031fdff0f1726edd2f8188861fdaf52437",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91518",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pedro  Fernandez"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pedro  Fernández"
+    }
+  },
+  "lastrevid": 17506323,
+  "modified": "2025-09-16T23:29:14Z",
+  "ns": 860,
+  "pageid": 106722,
+  "sitelinks": {},
+  "title": "Item:Q91518",
+  "type": "item"
+}

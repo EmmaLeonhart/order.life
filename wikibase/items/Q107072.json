@@ -1,0 +1,130 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Regemund de Fedenzac"
+      },
+      {
+        "language": "en",
+        "value": "Raymond de Fézensac"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q118725$513B4B98-3173-403B-A878-0C8C338DBA97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q118725$C0333B5A-E05F-4FAB-8B0A-86635EFF832C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q118725$CD1FEE4E-8F5B-48B5-BAAD-36E0C2933E86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q118725$1476391C-0D96-4DE3-BF75-90ACC569F770",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000019641751600"
+          },
+          "hash": "a9f8cd885688e83303286c80bb87f987fa60b63c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q118725$9E466445-7B6C-4F04-82B6-8E60EF81F0A7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Raymond de Fezensac Arms.svg"
+          },
+          "hash": "f4cc71a13ef9014317412c4849531a527b0f8a11",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q118725",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Raymond de Fezensac"
+    },
+    "es": {
+      "language": "es",
+      "value": "Raymond de Fézensac"
+    }
+  },
+  "lastrevid": 17531708,
+  "modified": "2025-09-17T05:52:25Z",
+  "ns": 860,
+  "pageid": 142694,
+  "sitelinks": {},
+  "title": "Item:Q118725",
+  "type": "item"
+}

@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pedro Vélez de Guevara y Manrique"
+      },
+      {
+        "language": "en",
+        "value": "Pedro Vélez de Guevara"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91781$69350A1B-01A1-4842-AA07-33A85FEED197",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90017",
+              "numeric-id": 90017
+            }
+          },
+          "hash": "97d2f929060d263ec35a1516a75e6368d653b36e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91781$C5935B4D-665D-47F2-8EB0-A6623916A682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91781$85F64D03-F940-4B54-A631-BA0AE33AE9D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91781$62161674-C2F5-4E6E-9738-297F6EBBB12E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89765",
+              "numeric-id": 89765
+            }
+          },
+          "hash": "840e0ae91d98026e15f81e53d3479757813f9a91",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q91781$F5C8345B-6B84-465A-94C9-1EA94AAEDBE9",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Pedro /Vélez de Guevara/"
+            }
+          },
+          "hash": "ad39e7ea726a0012563d853ea0d81c31e33f4048",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q91781$0465781F-3853-4BD9-91CB-AB22EEA2955C",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "II conde de Oñate"
+          },
+          "hash": "38c87144073ff7ec41189421f60a62d7e5b615cb",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91781$AA80AC94-0233-421E-A7BC-12F6C57F3A30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q91781$619FB6AD-45D4-4D35-B282-221FD360CB8E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q91781$A88B6A96-0CCC-4622-9A98-28D36282237C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91781$00587606-4169-4325-99E7-8DB77333FFAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000037604695858"
+          },
+          "hash": "7e6920b4f42c9f601e9f574716ec9f286c9e0e5b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91781",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pedro  Velez de Guevara"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pedro  Vélez de Guevara"
+    }
+  },
+  "lastrevid": 17506583,
+  "modified": "2025-09-16T23:32:44Z",
+  "ns": 860,
+  "pageid": 107072,
+  "sitelinks": {},
+  "title": "Item:Q91781",
+  "type": "item"
+}

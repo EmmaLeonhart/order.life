@@ -1,0 +1,189 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Remón 'o Fratricida' el Fratricida"
+      },
+      {
+        "language": "en",
+        "value": "Remón de Navarra, señor de Murillo de Río Leza"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q104521$799A08C9-34D1-4BB6-BAF9-A9C5AD8F3198",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104521$C35FBFAC-6396-4E0C-9DAF-D3DA086D230B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q104521$947C09E6-323E-4198-86D4-0402F1A743C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q102897",
+              "numeric-id": 102897
+            }
+          },
+          "hash": "b1a61c6d17f302a02c25fc860ac0145ba3cc4a15",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q104521$A6A7373C-1425-42C0-842D-FB468D6B10D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104513",
+              "numeric-id": 104513
+            }
+          },
+          "hash": "46c625545fccd2f55364f5f89ed3e91e48398057",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q104521$EEC9B3C4-8876-4D97-B085-95022C01EE90",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "señor de Murillo de Río Leza"
+          },
+          "hash": "7fdc63edb0596f745820bb4d3578e83d00bcf81f",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q104521$1F88C635-33B3-49A6-ACAF-C4E7AFC4FF67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q104521$E3F0A807-2AC4-488F-9957-518CAA81054A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011107161441"
+          },
+          "hash": "254bd857a46beb8056174e20e20c473e3eb9714a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q104521$FA922728-F32A-42C4-9A72-70C756E190AF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Remon de Navarra, senor de Murillo de Rio Leza Arms.svg"
+          },
+          "hash": "af882fe218bf125ab35951b4000d018e1c7c28e2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q104521",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Remon de Navarra, senor de Murillo de Rio Leza"
+    },
+    "es": {
+      "language": "es",
+      "value": "Remón de Navarra, señor de Murillo de Río Leza"
+    }
+  },
+  "lastrevid": 17517238,
+  "modified": "2025-09-17T02:13:04Z",
+  "ns": 860,
+  "pageid": 123622,
+  "sitelinks": {},
+  "title": "Item:Q104521",
+  "type": "item"
+}

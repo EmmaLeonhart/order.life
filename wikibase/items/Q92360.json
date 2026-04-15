@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Juana Cervantes de Segura"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q92360$2C65053A-01DD-46FF-A5C7-F91C3EEAC59A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92870",
+              "numeric-id": 92870
+            }
+          },
+          "hash": "7976e0dea99682e739a69351b72718ca1af458cb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q92360$846D17A9-DF62-4090-B1F2-D324D31C1DEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92360$5FB8E4EB-ECF9-4CB3-A900-1578E44D90A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q92360$BDFA8372-A858-4722-9FAC-EA4ED7B479D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92868",
+              "numeric-id": 92868
+            }
+          },
+          "hash": "750a74616fd5a157285000b9c28fa23245f70aec",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q92360$12A52632-676E-4BF0-A137-A09AF457590C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92016",
+              "numeric-id": 92016
+            }
+          },
+          "hash": "189ba8fcea830440c34053e6cf1542046d6eab49",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q92360$F53C3CC2-8DB1-4541-BBD7-32A05E20CF4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92358",
+              "numeric-id": 92358
+            }
+          },
+          "hash": "49633a203953fbbb785e1be7ee85ae765dda27fc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q92360$9940894F-4673-48A4-948C-570984D1921B",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Juana /Cervantes de Segura/"
+            }
+          },
+          "hash": "6cd12c8c42a47f21335b3d97a1d6aff87ba49196",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q92360$30848A91-89C9-4559-AEEB-8ABD48FEF79E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q92360$DF20147E-9E59-4FD4-82AB-90CA1FEC900F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q92360$58E024AD-773D-4452-A3DC-6766D971E6D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000211064536827"
+          },
+          "hash": "15942437927fc43f08127a1667d664e708161895",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q92360",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Juana  Cervantes de Segura"
+    }
+  },
+  "lastrevid": 17507159,
+  "modified": "2025-09-16T23:40:32Z",
+  "ns": 860,
+  "pageid": 107731,
+  "sitelinks": {},
+  "title": "Item:Q92360",
+  "type": "item"
+}

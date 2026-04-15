@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Miguel de Salamanca Polanco"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q93080$9831A7F2-632B-4F39-8F9D-66EBA115F814",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93082",
+              "numeric-id": 93082
+            }
+          },
+          "hash": "9f662bfed4777709db92dde53307f823d5e56725",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93080$57CEBEB4-A6CD-4069-AB55-45B85DF47B8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92531",
+              "numeric-id": 92531
+            }
+          },
+          "hash": "b3311889813d84ec943707c8bcfcd48389c4d8ef",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q93080$36B4D8D3-93BE-49E3-9D7D-EE14ED6C7758",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93080$C6F013EA-EA64-45A9-B078-146873699B02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q93080$3EA96649-6AC5-401A-8FDE-1B7836374ED3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92507",
+              "numeric-id": 92507
+            }
+          },
+          "hash": "6ce597c89093da6ea30ba8537dd27b480c4e2850",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q93080$E59BC70E-A26C-442A-AFAC-4DBE88DA3D55",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Miguel /de Salamanca Polanco/"
+            }
+          },
+          "hash": "d196774ee80a535f451efba9f44aa0282aac5726",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q93080$5590F4B2-ACFA-44B3-8144-A853E8211927",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "alcalde de Burgos"
+          },
+          "hash": "236dc165d6bb8d3f4a225d8e05561f73cd409f52",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93080$3B5ADC4E-FB79-40A0-8EE8-0BF6DB035C0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q93080$595E85CE-1802-4C97-8E8B-361FDF02B5CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93080$4F297D07-3B6F-4903-B3A5-848CAE6D5E91",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000049537079998"
+          },
+          "hash": "96f8726d8dbfdec507077240b88db73f2a7bd59b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93080",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Miguel  de Salamanca Polanco"
+    }
+  },
+  "lastrevid": 17507873,
+  "modified": "2025-09-16T23:50:26Z",
+  "ns": 860,
+  "pageid": 108452,
+  "sitelinks": {},
+  "title": "Item:Q93080",
+  "type": "item"
+}

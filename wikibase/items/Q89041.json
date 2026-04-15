@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rabbi Aharon HaLevi, Ra'aH"
+      },
+      {
+        "language": "en",
+        "value": "אהרון הלוי"
+      },
+      {
+        "language": "en",
+        "value": "רבנו אהרון הלוי הרא\"ה"
+      },
+      {
+        "language": "en",
+        "value": "רבנו אהרון הלוי הרא\"ה הרא\"ה מברצלונה"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q89041$BDDF4108-4033-4FA0-B3E6-BCE2E64036F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q89041$C9CDF358-F563-49D8-9613-BA8297B1B23D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q89041$DCB6B7BB-34D7-4AC8-9F6D-EA6D5647EE82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88918",
+              "numeric-id": 88918
+            }
+          },
+          "hash": "3d519ca46bfc7ce6bcb0a9ccfc22d7da2a4e2fc2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q89041$B9E68798-3A48-44EC-B4B3-AA1A8EB3A20F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q91314",
+              "numeric-id": 91314
+            }
+          },
+          "hash": "5cfd1a632d6eb729ddd1693ff2d73cae95d1c6c5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q89041$54BFD419-8E54-46E6-9AB1-C6EA5DFA42AD",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "הרא\"ה מברצלונה"
+          },
+          "hash": "3d48845edd885652af35bf8e5e4c43b8f4cc967e",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q89041$5BB1B849-A5CE-4160-853B-3952B0D3EAF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q89041$056D6EE4-2F55-48DD-A841-7C44AA716D2F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q89041$059EBE9D-BBEC-48B8-9D47-2C540E89805B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q89041$22642358-D85A-4BA8-9F35-5F597B6D53C4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4085346784660032814"
+          },
+          "hash": "9f7db71c417ed8c20ebd2a73f0db5123a88f9cbe",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q89041",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rabbeinu Aharon Halevi the Seer"
+    }
+  },
+  "lastrevid": 17503849,
+  "modified": "2025-09-16T22:53:58Z",
+  "ns": 860,
+  "pageid": 103872,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q89041",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q89041"
+    }
+  },
+  "title": "Item:Q89041",
+  "type": "item"
+}

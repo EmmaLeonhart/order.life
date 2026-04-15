@@ -1,0 +1,207 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q110536$38B459B8-1FEC-4175-96A1-864874F5E3E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111033",
+              "numeric-id": 111033
+            }
+          },
+          "hash": "12bfbfc3a4ca6486af5f2def2bdb1e30bb23f9b5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q110536$656C5F24-ED33-4C11-8142-A16CF5D27E9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q110536$4DAA9000-6A19-4549-8399-997022BA2F03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q110536$054CE4C8-7898-45EF-BAC6-854AF82AB792",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110422",
+              "numeric-id": 110422
+            }
+          },
+          "hash": "f4fe67eb6979487245b6b37df8727e3556e5b90a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q110536$338A829E-630D-4A40-9B9E-B5F98306FAE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110530",
+              "numeric-id": 110530
+            }
+          },
+          "hash": "78ef1033056df84343bc0f2a514ea754aa591ca5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q110536$A2B08FE2-D6F2-43AF-80B5-264B427D3492",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q110536$6AD5A390-7FD8-4824-88BB-C3B65D118D40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4203738"
+          },
+          "hash": "13be99f0799190861d6325d0c0a8641003776c44",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q110536$4C9F4EF8-CA20-4F52-BC62-11CD0F521695",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isarn, Count of Ribagorza Arms.svg"
+          },
+          "hash": "969df370fba47f86bde86d4aecfec19c8eb3707e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Comte de Ribagorça s. X"
+    }
+  },
+  "id": "Q110536",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Isern de Ribagorça"
+    },
+    "en": {
+      "language": "en",
+      "value": "Isarn, Count of Ribagorza"
+    },
+    "es": {
+      "language": "es",
+      "value": "Isarno de Ribagorza"
+    },
+    "it": {
+      "language": "it",
+      "value": "Isarno di Ribagorza"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Isarn, Count of Ribagorza"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Исарн I (граф Рибагорсы)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Isarn, Count of Ribagorza"
+    }
+  },
+  "lastrevid": 17522311,
+  "modified": "2025-09-17T03:31:11Z",
+  "ns": 860,
+  "pageid": 131711,
+  "sitelinks": {},
+  "title": "Item:Q110536",
+  "type": "item"
+}

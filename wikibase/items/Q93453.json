@@ -1,0 +1,243 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Deborah Wahl Katzenellenbogen"
+      },
+      {
+        "language": "en",
+        "value": "דבורה וואהל - קצנלנבוגן"
+      },
+      {
+        "language": "en",
+        "value": "דבורה  וואהל - קצנלנבוגן"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q93453$2EBF3E7C-7B4C-4F83-BFF0-49AA34A6D681",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93455",
+              "numeric-id": 93455
+            }
+          },
+          "hash": "ea7b9d7fd72128d86128510e4872085e57ac66af",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93453$314BB61A-A70D-4BF8-AF3D-CA47952C8BAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93457",
+              "numeric-id": 93457
+            }
+          },
+          "hash": "60bb3af29ccc9f9cff5df60d3de1fb45cd5049d1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q93453$1A60CB37-2ECB-4171-851E-2E44D183AC1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q93453$57AFB422-F2EA-4260-8479-54062C2EC131",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q93453$7C8D7EB2-3F61-4502-85EC-1E00B49C78C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92797",
+              "numeric-id": 92797
+            }
+          },
+          "hash": "2e12eb4b28684451ec5dbc3196ae11975738386f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q93453$BEBEB455-85FB-4B32-BF91-ACC7E1E5A66F",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "דבורה /וואהל - קצנלנבוגן/"
+            }
+          },
+          "hash": "81bd276bad700c4a99309770af8928fda99b88ac",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q93453$517132EC-6347-41C1-8C9C-DB8E8A94AA4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q93453$EEAB29AB-DB89-4ED2-A2E2-0B2F5F1E4070",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q93453$55D87D65-F67E-4547-BB49-7EE14123C895",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q93453$9ACE119D-0CD4-4FAD-B5C1-A4F2D2264717",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5363883374310034514"
+          },
+          "hash": "1d3ee85d81da880b24c7b68666fdbc5061dd39df",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q93453",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Deborah Wahl - Katzenlenbogen"
+    }
+  },
+  "lastrevid": 17508245,
+  "modified": "2025-09-16T23:55:26Z",
+  "ns": 860,
+  "pageid": 108861,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q93453",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q93453"
+    }
+  },
+  "title": "Item:Q93453",
+  "type": "item"
+}

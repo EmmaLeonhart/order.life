@@ -1,0 +1,335 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Garcia Mendes II de Sousa"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q124267$35901EE6-A0D5-4378-A38F-2BC8631EADA8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00515029"
+          },
+          "hash": "bb5f17c1ef690b38214ecb0cb4aa457d5679b29f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q124267$3148CBCD-1666-4059-8701-8097F684D87A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q124267$7CD2EB7F-1F3B-4156-810C-5C0AA52E066E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q124267$9D00CBCD-56EF-407F-BA60-8DF084A53EC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124239",
+              "numeric-id": 124239
+            }
+          },
+          "hash": "e9de006844028b7c1ecac070c0bb3b047dd33c0e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q124267$A5810385-BDE5-4AF0-8428-D4223645C2B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q119197",
+              "numeric-id": 119197
+            }
+          },
+          "hash": "420a302db0a2d33db8eb8a2c81ade24dd3847620",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q124267$AF6C5CA9-A846-466E-8392-5AC09599C4D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q124257",
+              "numeric-id": 124257
+            }
+          },
+          "hash": "089ac92200c898db309de14bde502d0350147ccb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q124267$73C1041F-0EE3-4BE0-96BB-012946104433",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q124267$284C27B7-FBB2-4C46-996A-8E163863EAE4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1175-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f854d067f23c870259856c53c03c09eac8a13f0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q124267$76B035E7-4E44-47FE-B704-33FDF7249DFE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1239-02-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "035cffe21c2e9cc09524b2e3d5d32428939a3031",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q124267$79664EEF-A0EA-4F53-97D6-A1E3E394B354",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3758191"
+          },
+          "hash": "c21edfe4df7befe581fa9da1408b758ec0740ad2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q124267$01B0F9DE-FF0F-435D-8CD0-2A5575DECA9A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Garcia Mendes II de Sousa Arms.svg"
+          },
+          "hash": "e106d8d93297aba0e9742c1e24ceb7ff62bd71f0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "trovador portugués (1175–1239)"
+    },
+    "de": {
+      "language": "de",
+      "value": "portugiesischer Trobador"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lord of Eixo, troubadour"
+    },
+    "es": {
+      "language": "es",
+      "value": "Señor de Eixo, trobador"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "seigneur d'Eixo, troubadour"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "trobador portugués"
+    },
+    "it": {
+      "language": "it",
+      "value": "trovatore portoghese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Portugees troubadour (1175-1239)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Senhor de Eixo, trovador"
+    }
+  },
+  "id": "Q124267",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Garcia Mendes II de Sousa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Garcia Mendiz de Eixo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Garcia Mendes II de Sousa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Garcia Mendiz de Eixo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Garcia Mendiz de Eixo"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Garcia Mendes II de Sousa"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Garcia Mendiz de Eixo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Garcia Mendiz de Eixo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Garcia Mendiz de Eixo"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Garcia Mendes II de Sousa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Garcia Mendes II de Sousa"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Garcia Mendes II de Sousa"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Garcia Mendes II de Sousa"
+    }
+  },
+  "lastrevid": 17537418,
+  "modified": "2025-09-17T07:10:15Z",
+  "ns": 860,
+  "pageid": 150115,
+  "sitelinks": {},
+  "title": "Item:Q124267",
+  "type": "item"
+}

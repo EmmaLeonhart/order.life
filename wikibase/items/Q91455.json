@@ -1,0 +1,588 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thassi"
+      },
+      {
+        "language": "en",
+        "value": "שמעון התרסי החשמונאי"
+      },
+      {
+        "language": "en",
+        "value": "שמעון התרסי  החשמונאי"
+      },
+      {
+        "language": "en",
+        "value": "Simon of Tarsus Hasmonean"
+      },
+      {
+        "language": "en",
+        "value": "Simon the Thassi Hasmonean"
+      },
+      {
+        "language": "en",
+        "value": "שמעון התרסי  החשמונאי Prince and High Priest of Judea"
+      },
+      {
+        "language": "en",
+        "value": "Simon Thassi"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q78776$A6F8D09F-1652-4C74-A8B4-7E912A6E2392",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736489"
+          },
+          "hash": "5e7ae627be12ee92732b61d3e4ccef32d29c46d5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q78776$D4548F7F-BD92-4B88-BA21-B4B724D556FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78704",
+              "numeric-id": 78704
+            }
+          },
+          "hash": "cb7fd67b3c03d65530ce6c8e2705ddc50c5c77db",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78776$63C2532C-926F-44DA-99E9-19E3CEE3E76D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q151287",
+              "numeric-id": 151287
+            }
+          },
+          "hash": "1a04120383962e86736c6cad13c4bd0696799716",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78776$0CC0729A-DA42-43BE-8C75-765791DF1374",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78776$DAFFF76B-4C78-4EFB-9587-65ACB72EB526",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78776$6B5829C4-E52F-4801-BDD1-BD3BBFD2C368",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q85148",
+              "numeric-id": 85148
+            }
+          },
+          "hash": "79f6ece575b76b58e50f608bcaef91310b45df2e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78776$77F176DC-021F-47A1-BA08-100D2CA05BDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78836",
+              "numeric-id": 78836
+            }
+          },
+          "hash": "cf614adebe31a5325d4c9c02f2dac172f5242b05",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q78776$3FA6BBAB-5A58-47EA-A2D7-F8987A695BDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78833",
+              "numeric-id": 78833
+            }
+          },
+          "hash": "b595e39ec0cbb125e73b24e3375521bcbcf2114f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q78776$45071B9D-DC6D-466F-8E0B-074AE73679AD",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "שמעון התרסי /החשמונאי/"
+            }
+          },
+          "hash": "f18f1e13996a04563fe7a0c74b85d5f2f4c80c38",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q78776$79026B92-FB3C-425C-848E-7BDD10EDB749",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince and High Priest of Judea"
+          },
+          "hash": "7b5c4c2966af53aff98cc35d24a5e7b6b7c882ba",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78776$6B7A14CF-E8DE-4935-A8A7-A7F97627C096",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78776$0FA97908-7718-4549-B3B2-74AFE67AC09B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78776$D9B396DC-E40B-4580-8E92-7F8954A7FC55",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0135-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3256c0246da5ff264c8bd27a19e855287a04e49b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78776$FA025176-BC19-4356-B770-B8E98DB14308",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q359711"
+          },
+          "hash": "fd6b14d02ebbaccd003de3819e457b13990b3b99",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78776$61EC0888-6A09-40C0-8E42-7761FA4388B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012127005536"
+          },
+          "hash": "b3ccfbff6d098f45da54bae21e8e9f486bd3e51b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78776$B124A824-48EE-4901-9B7A-8DF954CF3284",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Simon Thassi Arms.svg"
+          },
+          "hash": "dbb1dd88a2109540cbedd1f7dc10e028af52b59c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Summe sacerdot d'Israel"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "vládce Judeje"
+    },
+    "de": {
+      "language": "de",
+      "value": "jüdischer Widerstandskämpfer, Ethnarch und Hoherpriester von Judäa, Stratege des Seleukidenreiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "High priest of Israel"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sumo sacerdote de Israel"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Mattathias, dirigeant juif du IIe siècle av. J.-C"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך חשמונאי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "jeruzsálemi főpap"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico, figlio di Mattatia, sommo sacerdote dal 143 al 135 a. C."
+    },
+    "ru": {
+      "language": "ru",
+      "value": "первосвященник и этнарх евреев с 153 года до н. э."
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kung av Judeen"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hanedan üyesi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "засновник династії Хасмонеїв, етнарх Юдеї"
+    }
+  },
+  "id": "Q78776",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سمعان المكابي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سمعان المكابى"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Simó Macabeu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Šimon Makabejský"
+    },
+    "da": {
+      "language": "da",
+      "value": "Simon Makkabæer"
+    },
+    "de": {
+      "language": "de",
+      "value": "Simon"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Simon (Hasmonäer)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σίμων ο Θασσί"
+    },
+    "en": {
+      "language": "en",
+      "value": "Simon Thassi"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Simon Thassi"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Simon Thassi"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Simono Makabeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Simón Macabeo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Simon Makabearra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شمعون حسمونی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Simon"
+    },
+    "he": {
+      "language": "he",
+      "value": "שמעון התרסי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Simon Makkabeus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Simon Tasi"
+    },
+    "it": {
+      "language": "it",
+      "value": "Simone Maccabeo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "シモン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "시몬 마카베오"
+    },
+    "la": {
+      "language": "la",
+      "value": "Symon"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Simona Makabeo"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Симон Макавејски"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Simon Thassi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Simon Makkabeüs"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Szymon Machabeusz"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "سمعان مکابی"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Simão Macabeu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Simão Macabeu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Симон Хасмоней"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Simon Makabejac"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Simon Thassi"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Симон Таси"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Simon Thassi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Şimon HaTarsi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Симон Хасмоней"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سمعان مکابی"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "שמעון התרסי"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西門馬卡比"
+    }
+  },
+  "lastrevid": 17492770,
+  "modified": "2025-09-16T20:18:05Z",
+  "ns": 860,
+  "pageid": 93607,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q78776",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q78776"
+    }
+  },
+  "title": "Item:Q78776",
+  "type": "item"
+}

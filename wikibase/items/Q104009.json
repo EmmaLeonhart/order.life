@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elvira de Castilla y León"
+      },
+      {
+        "language": "en",
+        "value": "Elvira, reina titular de Toro"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q104009$3A170EF1-7C08-4DB7-9354-CD2B8C675FE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106591",
+              "numeric-id": 106591
+            }
+          },
+          "hash": "c90369637301e9bcc89d04b896f487300cfbd736",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q104009$7BD199AE-B582-4E56-AC79-4461F81E3249",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104009$42E44D9B-398C-43CC-83C5-6E4EDEE65D82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q104009$CCDE2030-7432-4F7E-810B-144DBD283E5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106589",
+              "numeric-id": 106589
+            }
+          },
+          "hash": "77b20275709a6aafbae1e90af14243a0fa5c7c4d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q104009$2682EC1A-E79A-4924-B028-5E435A36202F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q102901",
+              "numeric-id": 102901
+            }
+          },
+          "hash": "507f3309215a3682f9b531578fbe2d590331c3f4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q104009$DD40254C-2B50-410A-B33C-2563095702ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123443",
+              "numeric-id": 123443
+            }
+          },
+          "hash": "f983e13f13c49b65d197effc0857cb5fdd2a0aa6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q104009$56471DF2-31D1-4854-ACAD-F1F462C041C6",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "reina titular de Toro"
+          },
+          "hash": "254554d288b3bef4122e8e18a97f2107fc9090e8",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q104009$AFC91E7D-7E07-4923-BAAE-7DEB25872C7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q104009$7A8FF3D6-919A-423D-B20C-ED39279B9DEC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003574049805"
+          },
+          "hash": "162750b8d52f83774d7b0b58ddaa7771501839f6",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q104009$5F6AED73-73A3-42F6-9761-2CFC833BE368",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elvira, reina titular de Toro Arms.svg"
+          },
+          "hash": "59b1028253323be413ffb4f668eb6a10c46707bf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q104009",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Elvira, reina titular de Toro"
+    }
+  },
+  "lastrevid": 17516771,
+  "modified": "2025-09-17T02:06:46Z",
+  "ns": 860,
+  "pageid": 122932,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q104009",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q104009"
+    }
+  },
+  "title": "Item:Q104009",
+  "type": "item"
+}

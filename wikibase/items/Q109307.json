@@ -1,0 +1,221 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q109307$1D55F8C8-59E5-4AAA-AF88-ED2D9A39A2E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q109307$18FA892A-21DA-4D40-8B2D-04DDA2BA697A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q109307$E87695E5-BF93-4121-98E8-A1F712BC7AFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q109257",
+              "numeric-id": 109257
+            }
+          },
+          "hash": "4a24a8132367a1cf7925fea61c9c00bc6c603d84",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q109307$01E3050A-5529-4D6F-9413-70875BCAC765",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q109307$B3BB2B06-D338-4179-98B9-D0F51E9F305C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3622185"
+          },
+          "hash": "8634ce2c9fc377fa21f404815c137936cd4d2a50",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q109307$8FD351C0-19E0-46CB-9950-6B55B6C79695",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Areobindus Arms.svg"
+          },
+          "hash": "2240c0b737e937db37193e572fc28125fcc8752b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Roman general"
+    },
+    "es": {
+      "language": "es",
+      "value": "senador y general bizantino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général byzantin actif durant le règne de Justinien au VIe siècle"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale bizantino"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "officier uit Byzantijnse Rijk (?-546)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bizanslı general"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "візантійський полководець"
+    }
+  },
+  "id": "Q109307",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Ареобинд (генерал)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Areobind"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρεόβινδος (απεβ. 546)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Areobindus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Areobindo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aréobindus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Areobindo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アレオビンドゥス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Areobindo"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Areobindo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Areobindo"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ареобинд (умро 546. године)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Areobindus (I. Justinianus'un generali)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ареобінд (магістр армії)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿雷奥宾杜斯"
+    }
+  },
+  "lastrevid": 17521105,
+  "modified": "2025-09-17T03:14:35Z",
+  "ns": 860,
+  "pageid": 130062,
+  "sitelinks": {},
+  "title": "Item:Q109307",
+  "type": "item"
+}

@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pedaya ibn Khatush"
+      },
+      {
+        "language": "en",
+        "value": "Pedaya ibn Avihud (ibn Khatush)"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q86764$9E9EAFCD-8AC4-4B06-AFCC-71483C8EFF85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86762",
+              "numeric-id": 86762
+            }
+          },
+          "hash": "6fc73f9c7ec7c7988d19879f738cab1a22fe1c7f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q86764$79E85E84-2701-482F-A175-7B4B6B2C676F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q86764$868DEC86-9958-49FE-A33D-3FFF4E9E98DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q86764$5AA1F69B-FFB3-4AE4-904A-EFAD091DFAF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q86766",
+              "numeric-id": 86766
+            }
+          },
+          "hash": "64409945e2e930b0a512785bfb32a7a2ca19d132",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q86764$E9BDCCD8-A566-412B-A3A1-6AED671ACB8D",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Pedaya /ibn Avihud (ibn Khatush)/"
+            }
+          },
+          "hash": "669932316dd1d0c54083ddae9ef53d0c91324f92",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q86764$03ADE3DB-48DF-4054-B104-8CCBA6CE67A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q86764$EEB1704D-905F-4599-AD10-1664F0BB4CA7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q86764$CDE749C4-FF65-40DE-90DA-54397078D305",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000019082024385"
+          },
+          "hash": "6f3693f402e290be2aa5585c35aba0cd018af47b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q86764",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pedaya  ibn Avihud (ibn Khatush)"
+    }
+  },
+  "lastrevid": 17501573,
+  "modified": "2025-09-16T22:21:43Z",
+  "ns": 860,
+  "pageid": 101595,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q86764",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q86764"
+    }
+  },
+  "title": "Item:Q86764",
+  "type": "item"
+}

@@ -1,0 +1,159 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sultan Yahya II bin Yahya"
+      },
+      {
+        "language": "en",
+        "value": "Sultan Yahya II son of Yahya"
+      },
+      {
+        "language": "en",
+        "value": "Yahya Al-Idrisi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q96381$608BDC6E-93EB-4631-BF2E-315299FF3ED8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q96381$80284DB6-E2EF-434C-81F2-AAD90E155444",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q96381$42895767-4755-4B6A-B9C3-D06D0B298B9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q95818",
+              "numeric-id": 95818
+            }
+          },
+          "hash": "a28024c76755f0e939474d688083debcf668bc5e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q96381$A2F722F5-1A0E-45E5-B426-2F04CF96BE65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q96381$CC715AB8-545D-4D6E-BA6F-80796A52419A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q96381$76D87CA4-8381-4A47-B6FE-D2D34D61BD00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000078783362993"
+          },
+          "hash": "a8a7271a242e082917db75e599995429b2465056",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q96381",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sultan Yahya II son of Yahya"
+    }
+  },
+  "lastrevid": 17511157,
+  "modified": "2025-09-17T00:37:53Z",
+  "ns": 860,
+  "pageid": 112690,
+  "sitelinks": {},
+  "title": "Item:Q96381",
+  "type": "item"
+}

@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Juan Ramírez de Arellano y González de la Pla"
+      },
+      {
+        "language": "en",
+        "value": "Juan Ramírez de Arellano y González de la Plazuela"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q92384$A81E0B1D-8B5F-41F5-9190-8E3458AD3A72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32146",
+              "numeric-id": 32146
+            }
+          },
+          "hash": "3dc61bc799b8703f27c485e8bbe82fd1ba257772",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92384$3C6BB530-1D96-46F0-9948-86C720BE0F20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92386",
+              "numeric-id": 92386
+            }
+          },
+          "hash": "18cc33077dc4b6c0ada62fffabf403e9d83bc93c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q92384$30AA65E4-C378-4F42-9D8E-61385F1ED5EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q92384$4771E272-23DA-4E42-B289-9491ABDD0DDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q92384$13C2031A-1B04-4E04-B9DA-56AD8FB8282C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31110",
+              "numeric-id": 31110
+            }
+          },
+          "hash": "240c887356e098b33f2dec8605a7e07ee0ecf133",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q92384$F77FD9B4-8A46-4533-88EE-67BA81C67834",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Juan /Ramírez de Arellano y González de la Plazuela/"
+            }
+          },
+          "hash": "2e451cfe5ffd42f35e2dd745d68702a7b8a1d3ea",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q92384$97F345BA-9619-4E0A-A326-85641F697A64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q92384$327D110F-AAEB-45C9-A316-542B430D4466",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "65b8c2e32fd78e8df7fb175da8cc86c560ebec2f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q92384$1F427CC1-CD98-435C-A112-985D7504CBB7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "7ab81a952e3ff076b69c615d1e4254b2c7f1fa5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q92384$86D6B73C-6ADA-48BC-B704-1C411A0A7FCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011059478998"
+          },
+          "hash": "87ec17f7c3509f638a08da18bab6232ee8a8f388",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q92384",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Juan  Ramirez de Arellano y Gonzalez de la Plazuela"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan  Ramírez de Arellano y González de la Plazuela"
+    }
+  },
+  "lastrevid": 17507183,
+  "modified": "2025-09-16T23:40:51Z",
+  "ns": 860,
+  "pageid": 107755,
+  "sitelinks": {},
+  "title": "Item:Q92384",
+  "type": "item"
+}

@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nathan  bar Mar Isaac"
+      },
+      {
+        "language": "en",
+        "value": "Nathan  son of Mar Isaac"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q88672$DE1288B3-5D1A-47E4-9CC7-6BFE438F9BAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88763",
+              "numeric-id": 88763
+            }
+          },
+          "hash": "bc101d5dde0e33be64a5fd72b131e04a831b8768",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q88672$FE651EE2-7CE8-43F1-89C7-A491A737E4AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88765",
+              "numeric-id": 88765
+            }
+          },
+          "hash": "6322336ed57248170dc9d22c8ab3bea8aa71429b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q88672$6AA3CD77-D29B-4901-BC9B-C43FE3570265",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q88672$FEE24636-526E-4E5A-AE8B-469DC7ABDA84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q88672$69C0CD5D-4611-41CC-A350-BB5FDABF90C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q88590",
+              "numeric-id": 88590
+            }
+          },
+          "hash": "2b885bfb922c020b22a25d6d0d39094391318ff1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q88672$05450074-E9A1-4978-881A-1C1AED69DA40",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Nathan /bar Mar Isaac/"
+            }
+          },
+          "hash": "495944e27bf02119eb4ff0a7e11cd1fed9c123e9",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q88672$F52418CE-1676-4EE1-A0FB-404C2D22ED19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q88672$4E8E4BC1-D359-4BE4-A5F2-FBC6DB9547C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q88672$E8C9698A-26A9-493B-96DA-2F2B5276DDE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000015844042894"
+          },
+          "hash": "3eca8a4594a166dbf41e233e194c9ce416faeef5",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q88672",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nathan  son of Mar Isaac"
+    }
+  },
+  "lastrevid": 17503479,
+  "modified": "2025-09-16T22:48:45Z",
+  "ns": 860,
+  "pageid": 103503,
+  "sitelinks": {},
+  "title": "Item:Q88672",
+  "type": "item"
+}

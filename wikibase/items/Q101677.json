@@ -1,0 +1,221 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q101677$9198E5D3-977F-48A5-A47D-C95898AC9AF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101677$11254A0F-9A09-47DA-920F-79E46158A2E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q101677$87EF7C5E-2D5A-4612-A120-E33EFEB8B5E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100914",
+              "numeric-id": 100914
+            }
+          },
+          "hash": "3da9af28a7f17c251e0ae5535d60920af3450524",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q101677$A3F72552-E046-42EE-A60D-585B7ED3C8F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100936",
+              "numeric-id": 100936
+            }
+          },
+          "hash": "95c28d2bacab973c03cb58fe95f6e3494d261371",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q101677$04AD372E-267A-4B21-8756-15CD775B39A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q101677$620D5056-AEA3-44E6-9B3E-6687F100F5E9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0998-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bd13ed53e03b35089f7292dcb67f0119b38ccbe4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q101677$48BC8235-19AC-4731-99D5-AA00507A3C21",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1029-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "79e0c24a9865b8d1753f6a7a9616805c486b7a96",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q101677$CBF72E81-BDB1-4C33-B0DC-88908E125FAF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tigridia  Sanchez de Castilla Arms.svg"
+          },
+          "hash": "a6be43be3f37150457becc24b81f0c52c2df2447",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "extension of the Gregorian calendar before its introduction"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グレゴリオ暦の暦法をその施行前にも適用したもの"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "將格里曆回推至最早採用的時間點以前而成的曆法"
+    }
+  },
+  "id": "Q101677",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "التقويم الغريغوري"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tigridia  Sanchez de Castilla"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tigridia  Sánchez de Castilla"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "先発グレゴリオ暦"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "역산 그레고리력"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "外推格里曆"
+    }
+  },
+  "lastrevid": 17515293,
+  "modified": "2025-09-17T01:37:11Z",
+  "ns": 860,
+  "pageid": 119796,
+  "sitelinks": {},
+  "title": "Item:Q101677",
+  "type": "item"
+}

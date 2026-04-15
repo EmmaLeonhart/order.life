@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Luitgarde de Rouergue"
+      },
+      {
+        "language": "en",
+        "value": "Letgarda, comtessa consort de Barcelona"
+      },
+      {
+        "language": "en",
+        "value": "Liutgarde (Liutgarda o Letgarda) de Toulouse"
+      },
+      {
+        "language": "en",
+        "value": "Lieutgarde de Rouergue"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q107084$3CE410C4-5C43-41DC-BF82-CB04E5C087F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q107084$B87B3526-6C59-4A8B-82CD-1933F1EA2F8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q107084$C6FD0446-1DAB-4BAC-9B36-39229E4947AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118733",
+              "numeric-id": 118733
+            }
+          },
+          "hash": "1f12f015b14fd43d5389af29f8e58f21d08d6f2c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q107084$24D77693-C1C5-471D-A4F6-1B7EB4CD7754",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104319",
+              "numeric-id": 104319
+            }
+          },
+          "hash": "d44f56ea91e26038d6ee58621cd8cda454539776",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q107084$51B64E06-A360-43D8-8577-41DE2565BF7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q107084$38803605-516C-49CF-BD05-7D50323BA4F3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q107084$799E16FE-D44B-40F8-97B1-793FA21BEFF8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0980-04-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f5ac4955c3913458e6fc4d71d46d636317076523",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q107084$41E59467-A40C-47C3-837A-E049C23D2A18",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lieutgarde  de Rouergue Arms.svg"
+          },
+          "hash": "a0f4acacb8e2bcef7b8e06e963b808e46fdbd0c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q107084",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Lieutgarde  de Rouergue"
+    }
+  },
+  "lastrevid": 17519245,
+  "modified": "2025-09-17T02:46:56Z",
+  "ns": 860,
+  "pageid": 127071,
+  "sitelinks": {},
+  "title": "Item:Q107084",
+  "type": "item"
+}

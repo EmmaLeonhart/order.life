@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "הכהן רפא"
+      },
+      {
+        "language": "en",
+        "value": "The priest Rapha"
+      },
+      {
+        "language": "en",
+        "value": "Natronai bar Hilay HaKohen"
+      },
+      {
+        "language": "en",
+        "value": "הכהן רפא Gaon of Sura"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q94271$0DDD07EF-0AF8-4FB0-BB19-FD6D0CA00A70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q94271$886352A8-921D-4D56-885D-3F562737BAFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q94271$6DC48589-3C0D-45CD-A76A-C00E1E63DBAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q94054",
+              "numeric-id": 94054
+            }
+          },
+          "hash": "fb7706d30fd9382c513620fa382887b2da5cbc4c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q94271$59874B75-D775-4304-BB2B-0271F574ABCB",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "/הכהן רפא/"
+            }
+          },
+          "hash": "aa5571c2db22b57ff943c22c8eff90ffbb809ff3",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q94271$F85DE9B2-FC73-4824-83FE-A5F06B70A18B",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaon of Sura"
+          },
+          "hash": "40b27570c8bb174bfb5373f5f227b52fcf139092",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q94271$B97FD62F-3BFB-4CE4-BAFC-440C5841BF81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q94271$7A7D6ECB-68E9-43F9-8B8F-55DA407C394F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "string",
+            "value": ""
+          },
+          "hash": "8aa265063b2c22b35da9ac5771ead241d05a0a47",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q94271$D9B6337D-E371-44CE-A293-EA6429ADA841",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "error": "$timestamp must resemble ISO 8601, given None",
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "None",
+              "timezone": 0
+            }
+          },
+          "hash": "c20119be8a7079f158ea999b978ae465e7a86606",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q94271$85F7F060-9672-46F8-8650-90D1D2F9ABF9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000169607237821"
+          },
+          "hash": "0a2bd78784e83783e726c8916c224391eb81b42c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q94271",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Natronai bar Hilay HaKohen"
+    }
+  },
+  "lastrevid": 17509057,
+  "modified": "2025-09-17T00:07:45Z",
+  "ns": 860,
+  "pageid": 109849,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q94271",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q94271"
+    }
+  },
+  "title": "Item:Q94271",
+  "type": "item"
+}

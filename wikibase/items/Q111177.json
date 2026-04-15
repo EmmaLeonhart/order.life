@@ -1,0 +1,262 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q111177$EA53FC7D-F830-4DE4-BDDE-E5EBDFD9E7CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110670",
+              "numeric-id": 110670
+            }
+          },
+          "hash": "a46b956b79b82b70aa512a596b2093c6a42c27a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q111177$47331582-06D2-4162-AFB2-1D99502C8002",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q111177$CB6C4EBE-6153-4B1E-BB8A-5E30BF6F27CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q111177$67469A31-AE88-4278-BD34-6D4C670F104A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q110734",
+              "numeric-id": 110734
+            }
+          },
+          "hash": "78d52255c3f1a748b6562ef652bf553697c1f149",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q111177$E7A266BD-CA15-4166-8895-DAB7A61B8F5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q111177$9603032C-49B8-48A5-3B01-CEBC72A8205E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 7,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b4fd210c65408236c87d3fd549e92d0ceb385897",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q111177$899E020D-4A1E-A62A-BED7-B6E16040A7B9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0610-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1428c23e59b7498ed7f6b49c5bb008ae06962c28",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q111177$AD2E122F-015A-4F4C-9267-3A69EB49AF6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2903035"
+          },
+          "hash": "48d0b609f85267fb82ee56bf4c6c04447c7d0760",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q111177$B92F7A58-A587-4F1B-8105-676E285BCB85",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bilichildis Arms.svg"
+          },
+          "hash": "4755d7de81cb77dc9b0fbcd49f5e0667ac081f88",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "franská královna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gattin Theudeberts II."
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Theodebert II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse de Théodebert II"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשת תיאודברט השני"
+    }
+  },
+  "id": "Q111177",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Билихилда"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bilichildis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bilichild"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bilichildis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bilichildis"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Blichilde"
+    },
+    "he": {
+      "language": "he",
+      "value": "ביליכילדיס"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bilichildis"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Билихильда"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Bilichildis"
+    }
+  },
+  "lastrevid": 17522925,
+  "modified": "2025-09-17T03:40:12Z",
+  "ns": 860,
+  "pageid": 132573,
+  "sitelinks": {},
+  "title": "Item:Q111177",
+  "type": "item"
+}

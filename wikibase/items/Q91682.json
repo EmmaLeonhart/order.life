@@ -1,0 +1,200 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q91682$26C702A2-7E78-47D5-8EDB-6C274E194DD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89853",
+              "numeric-id": 89853
+            }
+          },
+          "hash": "3989e80925ce16bbc5f3abe7647dabb0c6f29f74",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91682$9FED3BB2-D560-49AA-BFBE-2EF8DD5421F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89855",
+              "numeric-id": 89855
+            }
+          },
+          "hash": "6f7df8ccc4f0a2091f794ec025532edd4ba543b4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q91682$D85DE602-7694-47B6-BDDF-95CF87D36A68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q91682$4EE41390-0A43-495D-9466-4606B4C9AD82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q91682$4F08D334-EAD4-4601-A9CC-3304B16DA9D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q89614",
+              "numeric-id": 89614
+            }
+          },
+          "hash": "57f411e723457ef5413e5d19bee719286480257c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q91682$16F1E17E-23EA-445B-987F-BB7883FA9FA7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Lorenzo /de la Cavallería/"
+            }
+          },
+          "hash": "3aa974f23d22cf6afe2acdddf914df6920f84a21",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q91682$1DE9DF6C-B8DB-463A-8685-3E0AA9277456",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "tesorero del duque de Luna"
+          },
+          "hash": "b0d95aee996911d530bf59abfd5e7059f002cd8f",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q91682$A9F090CA-F4A0-4FE8-9DEA-57D8A4469633",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q91682$E2D7C2B2-1411-40C1-BBC2-3A263FAD46BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000029180873904"
+          },
+          "hash": "29e2132271a2b6d6839a625897b860d1387f1565",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q91682",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Lorenzo  de la Cavalleria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lorenzo  de la Cavallería"
+    }
+  },
+  "lastrevid": 17506485,
+  "modified": "2025-09-16T23:31:25Z",
+  "ns": 860,
+  "pageid": 106941,
+  "sitelinks": {},
+  "title": "Item:Q91682",
+  "type": "item"
+}

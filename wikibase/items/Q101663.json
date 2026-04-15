@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mawiyah  bint al-Hakam"
+      },
+      {
+        "language": "en",
+        "value": "Mawiyah  daughter of al-Hakam"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q101663$393AF4CA-CD44-4569-A537-BDBF7C1B9C83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q101663$2D736B68-ED7B-4467-BEF7-12DE20840F16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q101663$DAC87464-4268-4772-9DBA-76D52D0DB9E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q100902",
+              "numeric-id": 100902
+            }
+          },
+          "hash": "f94640a81c940046bbdee93b00f1013270ed86cf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q101663$EF56882B-4298-4F5A-9E23-E7F90821F2EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q101663$BC6C0417-16FB-46B7-9138-4E7E67516A47",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eaff9c9e0b76fa2bd16332318e39b3f75a036b4a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q101663$943D5DDC-B801-4330-BFDF-D79856DE898E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mawiyah  daughter of al-Hakam Arms.svg"
+          },
+          "hash": "ee8d0825dc30f57c5db04ff56f5835b32cf151be",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "extension of the Gregorian calendar before its introduction"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グレゴリオ暦の暦法をその施行前にも適用したもの"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "將格里曆回推至最早採用的時間點以前而成的曆法"
+    }
+  },
+  "id": "Q101663",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "التقويم الغريغوري"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mawiyah  daughter of al-Hakam"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "先発グレゴリオ暦"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "역산 그레고리력"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "外推格里曆"
+    }
+  },
+  "lastrevid": 17515291,
+  "modified": "2025-09-17T01:37:01Z",
+  "ns": 860,
+  "pageid": 119777,
+  "sitelinks": {},
+  "title": "Item:Q101663",
+  "type": "item"
+}
