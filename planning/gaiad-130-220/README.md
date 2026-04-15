@@ -15,6 +15,11 @@ desk.
   architecture, tiering of late-mythic cycles.
 - [`chronology.md`](chronology.md) — flat undifferentiated timeline
   of events in the gap.
+- [`asia-arc.md`](asia-arc.md) — shape of the Asia arc: Aryan entry →
+  Hinduism → Buddhism → Mahayana → China → Japan, with China/India
+  covered but not at equal intensity; Southeast Asia low-intensity.
+- [`japan-emphasis.md`](japan-emphasis.md) — weighting rationale:
+  Japanese = sacred language, Gaiad = Kojiki of humanity.
 
 ## Opening & structural pivots
 
@@ -83,11 +88,21 @@ desk.
 - [`founder-followership-displacement.md`](founder-followership-displacement.md) —
   Jesus and Buddha both have primary followership in different ethnic
   groups and locations than where they came from.
+- [`founder-retention-exception.md`](founder-retention-exception.md) —
+  counter-pattern: Muhammad and Confucius as cases where the founder's
+  own ethnic group kept practicing.
 - [`charlemagne.md`](charlemagne.md) — European bridge.
 - [`bustanai.md`](bustanai.md) — Jewish / Persian / Islamic triple
   bridge via the Exilarch × Sasanian princess marriage.
 - [`heo-hwang-ok.md`](heo-hwang-ok.md) — the one named Asian-to-Asian
   bridge, Ayodhya → Korea → Japan ~48 CE.
+
+## Biblical arc
+
+- [`bible.md`](bible.md) — Bible as compiled object; deliberate
+  omission of Judges.
+- [`torah.md`](torah.md) — Torah as a narrative-doctrinal unit.
+- [`david.md`](david.md) — David the person; at least one chapter.
 
 ## Religious founders
 

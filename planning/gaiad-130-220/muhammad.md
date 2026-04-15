@@ -21,6 +21,16 @@ structural move that incorporates him into the West Eurasian
 super-network rather than leaving Islam as an external break. He
 becomes a node in the same graph as Charlemagne and Bustanai.
 
+## Retention — the Arabian heartland kept practicing
+
+Unlike Jesus and Buddha (see `founder-followership-displacement.md`),
+Muhammad's own ethnic group and heartland retained continuous
+practice. Islam diffused enormously, but Arabia stayed Muslim, Arabic
+stayed liturgical, and the Sayyid / Sharifian descent lines remain
+culturally load-bearing. This is unusual among the major world
+religions and should be named rather than treated as default — see
+`founder-retention-exception.md`.
+
 ## Connecting threads
 
 - **Elagabalus → Iamblichus → Emesa-stone-to-Mecca (Kaaba connection).**
