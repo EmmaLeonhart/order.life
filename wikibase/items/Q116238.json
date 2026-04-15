@@ -1,0 +1,209 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q116238$7544C72A-48DE-4AE0-AC85-748C325B562B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q116238$F75CFAA4-54DC-4A6A-8726-4FBD80876EA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q116238$E052A1FB-D676-4325-BEE0-2586F32F97F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114352",
+              "numeric-id": 114352
+            }
+          },
+          "hash": "da1d5812c96e2cfebbbf6c392044be235e0bf890",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q116238$E1117DDC-BE5A-45FF-9818-79EB132E53D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q103228",
+              "numeric-id": 103228
+            }
+          },
+          "hash": "26d518f91964a9367b428ccb181ce838b2468a58",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q116238$F4BB6918-BAA9-4754-ABA6-B8942841212E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q116238$8CDDD4F5-A356-4040-B378-4866C6DCF6B6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1105-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d9c355e3f2b551413d8096b4e8bf93a59d78e85a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q116238$4762E2DE-D99F-45F0-8578-73F2F4BF0451",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1191-02-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d7ed28de2ed45e8ad2405e215251ae8956f62fc2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q116238$DA9C49A4-DA2F-43F1-9E24-4CCA2ABB92A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000193074000836"
+          },
+          "hash": "9551cb70236aa1e710cd0d442d248c33ee057ea8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q116238$694998D6-8780-4050-8788-956ECB4C5EC9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Froila Rodriguez  de Trastamara Arms.svg"
+          },
+          "hash": "b5f5ac00941a518db83995d80b2b0577e64cdb48",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q116238",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Froila Rodriguez  de Trastamara"
+    },
+    "es": {
+      "language": "es",
+      "value": "Froila Rodriguez  de Trastámara"
+    }
+  },
+  "lastrevid": 17528687,
+  "modified": "2025-09-17T05:11:20Z",
+  "ns": 860,
+  "pageid": 139359,
+  "sitelinks": {},
+  "title": "Item:Q116238",
+  "type": "item"
+}

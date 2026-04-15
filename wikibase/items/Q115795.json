@@ -1,0 +1,940 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Henri de Bourgogne"
+      },
+      {
+        "language": "en",
+        "value": "Henrique de Borgonha, conde de Portugal"
+      },
+      {
+        "language": "en",
+        "value": "Enrique de Borgoña"
+      },
+      {
+        "language": "en",
+        "value": "Henrique de Borgonha"
+      },
+      {
+        "language": "en",
+        "value": "Henry of Burgundy"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q104137$A46EB3D3-1449-4A7C-88FD-E3D3D7EC33BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "12212"
+          },
+          "hash": "1c8f9a9fc1ebae147650accc50c96e66012cd56c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q104137$752A3BF1-D94E-4C76-8D68-D69168849BD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020554"
+          },
+          "hash": "c29275b7658bd5a5e35eea7f5974130a2e26d893",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q104137$1F0CA3E3-AD92-47D1-8F9D-151EA4F4338F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q102397",
+              "numeric-id": 102397
+            }
+          },
+          "hash": "a0dbf7cd71c644079a671011af76f88bcd7ff891",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$09204BAD-9307-4C3C-AB0E-429284EC903D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113784",
+              "numeric-id": 113784
+            }
+          },
+          "hash": "515ea08f59a69349e1838eea3cf54d2dbf6c5abb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$059DAA46-A08F-4209-91AB-9BFEEBEE1465",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104139",
+              "numeric-id": 104139
+            }
+          },
+          "hash": "ad1c7e30e514b28baf3cc037e8d5ec5af31af629",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$D6BFAF7C-7831-4D19-BDDE-3C66595FC9F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113782",
+              "numeric-id": 113782
+            }
+          },
+          "hash": "8ddbaaae8308932ecb8d433206eb464c1728703d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$19D3EB45-985E-4A10-95BF-46E261E60AA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104141",
+              "numeric-id": 104141
+            }
+          },
+          "hash": "0924171137ffb8b57eb1fe86926f37c9aa0a7cea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$B405854B-7E03-4791-BECC-A96FACB0E0C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104143",
+              "numeric-id": 104143
+            }
+          },
+          "hash": "8a91e6bd3c02e582643531eff8f610f29c9ce3ad",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$5008253F-1E2E-41C1-90AD-EFD6B2D56046",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113786",
+              "numeric-id": 113786
+            }
+          },
+          "hash": "55097e668e67527b2c2db083ec9b25ba66d1291a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$7AA7097E-37DF-40CA-882D-612F411B96E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104145",
+              "numeric-id": 104145
+            }
+          },
+          "hash": "6d3eb0365c969d7bcd197200884225e03163bcf7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$B9EE04EF-BBC3-440C-B1ED-A37E27CD2298",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104129",
+              "numeric-id": 104129
+            }
+          },
+          "hash": "9c51e1b95729074efe5249b3edfb481c86d5f59c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$52DF7666-1A72-43BB-827D-2261203BC66F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104147",
+              "numeric-id": 104147
+            }
+          },
+          "hash": "7bc57fb0a04c9cd310e73dd2dd1ec80c6072a6f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$0D863BCD-AE6F-45A3-9CFB-E2E3DC6FDDD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118427",
+              "numeric-id": 118427
+            }
+          },
+          "hash": "580db5110288c71e080fda7088b5877d8445c3df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$897FF25C-1E3F-43DA-85DE-0B491FE25DE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q116036",
+              "numeric-id": 116036
+            }
+          },
+          "hash": "69b8d3ed4216a7300a103ce7328df6250f8a8c74",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q104137$E5F27A1A-76BF-4372-819A-2E26A285F6D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Portugal-80"
+          },
+          "hash": "5e841420644541d0355c1ed94b6f26e169d82e7f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q104137$B4CB945F-EC01-4B46-B336-3542F4DCB58A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$1F6FE020-FCA6-4E4A-BB1D-5EF192C28480",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q104137$C063A1F0-E879-4F02-9488-DDFEFE6E5C80",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry,_Count_of_Portugal_(1)"
+          },
+          "hash": "bcb327073fc8281b12c0f5b73c4b4786b570f3b7",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q104137$E0E65C23-1896-4B60-BF79-A89B7F77B921",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q104135",
+              "numeric-id": 104135
+            }
+          },
+          "hash": "314d262c61c755bb0a3a3738b8474597e6988513",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$02E0655B-77E9-4256-B29D-ABB5AFED4AB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118425",
+              "numeric-id": 118425
+            }
+          },
+          "hash": "dc69dac522c4b5dec3d67261746c79304cb5ccc7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q104137$5AE173E7-854F-405F-81B1-319511620C32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11406.htm#i114056"
+          },
+          "hash": "d33ebc61f5cc45d35e2845577eefb9a67d5e4b74",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q104137$43E2053F-4BB4-4FDF-970D-A7A61062ABDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106776",
+              "numeric-id": 106776
+            }
+          },
+          "hash": "6995d253ea605c4f6b68c77baae64cc9847832e0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$023E9B56-249B-43F2-BFAC-2BDE41A138CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q118429",
+              "numeric-id": 118429
+            }
+          },
+          "hash": "3a50363ebb2d21eef2e8ec8184ea5624acca2cb4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q104137$32DD1175-A161-4AFC-AE7B-7C2ADB013E4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q106778",
+              "numeric-id": 106778
+            }
+          },
+          "hash": "0115f221a90674aebb4ad1edfb8c9c4127672c2d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q104137$60AF7F1D-1B79-42F4-B6B1-5306BDD7F3D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111733",
+              "numeric-id": 111733
+            }
+          },
+          "hash": "01e509549fff3abfb52ade611a3c420d01f02b2e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P54": [
+      {
+        "id": "Q104137$AD8D1B3A-A596-4856-9107-2203970C53B8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "comte de Portugal"
+          },
+          "hash": "4e410362b84ace492f73dfc684db7e7781478682",
+          "property": "P54",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q104137$9EDFEBD7-A6AD-48F8-B0C7-F95B43666576",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q104137$25C843F0-674F-4FD7-8865-405B46048E6B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1066-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a318427db49612002e04e18ad4e68d0eddfac0c6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q104137$E0FEFBE6-94E4-4F70-B802-21271D2CCF48",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1112-11-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f437cad4b6ffcf8ae349aebbcf571e60b0674212",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q104137$89911491-E79B-4AC2-91DA-FC2E707797D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q319625"
+          },
+          "hash": "97910a86e942ce717f5ffe701a9081a92e4c3515",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q104137$8D1B87B4-96CD-4232-94A9-8B2D161BE27E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000717877042"
+          },
+          "hash": "c927da6cc90593f8d3969f68b5a2c68a1bdb15c5",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q104137$D97B8B9F-96E8-4AE4-8D93-D94CC7EB24A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=henri;n=de bourgogne;oc=1"
+          },
+          "hash": "26880a91369eefb36cdfaaaae25b290203d1d20d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q104137$74A0E5B9-E372-408A-A703-392D672D41A7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Henry of Burgundy Arms.svg"
+          },
+          "hash": "15f19e691b122f933244e37535a70ef4a4ab77ee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "граф Партугаліі (1096—1112)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític portuguès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "portugalský hrabě"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "gwleidydd (1066-1112)"
+    },
+    "da": {
+      "language": "da",
+      "value": "Greve af Portugal"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Portugal und Stammvater des Hauses Burgund"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόμης της Πορτογαλίας (1066-1112)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Portucale (1066–1112)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Conde de Portucale"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Portugal"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Conde de Portugal"
+    },
+    "he": {
+      "language": "he",
+      "value": "אציל פורטוגזי"
+    },
+    "it": {
+      "language": "it",
+      "value": "conte di Portogallo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "graaf van Portugal (1066-1112)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko portuges"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "hrabia Portugalii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Conde de Portucale (1066–1112)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Португалии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Greve av Portugal 1096-1112"
+    }
+  },
+  "id": "Q104137",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هنري كونت البرتغال"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "هنرى كونت البرتجال"
+    },
+    "az": {
+      "language": "az",
+      "value": "Burqundiyalı Henri (Portuqaliya qrafı)"
+    },
+    "be": {
+      "language": "be",
+      "value": "Генрых Бургундскі"
+    },
+    "br": {
+      "language": "br",
+      "value": "Henrique de Borgonha"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Enric de Borgonya"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jindřich Burgundský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Harri o Fwrgwyn"
+    },
+    "da": {
+      "language": "da",
+      "value": "Henrik af Burgund"
+    },
+    "de": {
+      "language": "de",
+      "value": "Heinrich von Burgund"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερρίκος της Βουργουνδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Henry of Burgundy"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Henriko de Burgonjo, Grafo de Portukalio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Enrique de Borgoña"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Henrik"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Henri de Bourgogne"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Henrique de Borgoña"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנריקה, רוזן פורטוגל"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Henrik, portugalski grof"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Henrik portugál gróf"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հենրիխ Բուրգունդցի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Henrique dari Portugal"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enrico di Borgogna, conte del Portogallo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エンリケ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ენრიკე ბურგუნდიელი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "보르고냐의 엔히크"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Henrik av Burgund"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hendrik van Bourgondië"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Enrique de Borgoña"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Henryk Burgundzki"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Henrique de Borgonha"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Henrique de Borgonha"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Генрих Бургундский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Henrique od Burgundije"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Henrich Burgundský"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hendrik van Bourgondië"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Henrik av Burgund"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Henrique (Portekiz kontu)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Генріх, граф Португалії"
+    },
+    "war": {
+      "language": "war",
+      "value": "Henry, Konde han Portugal"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "勃艮第的亨利"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "勃艮第的亨利"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "勃艮第的亨利"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "勃艮第的亨利"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "勃艮第的亨利"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "勃艮第的亨利"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "勃艮第的亨利"
+    }
+  },
+  "lastrevid": 17516885,
+  "modified": "2025-09-17T02:08:18Z",
+  "ns": 860,
+  "pageid": 123105,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q104137",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q104137"
+    }
+  },
+  "title": "Item:Q104137",
+  "type": "item"
+}

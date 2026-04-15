@@ -1,0 +1,178 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vermudo Vélaz"
+      },
+      {
+        "language": "en",
+        "value": "Bermudo Vélaz"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q113531$53D7A25B-F446-47F2-9BE3-6C485D96D674",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q113531$148646F6-0266-4D0C-8422-FB94AD4B7063",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q113531$E66A1595-EA90-4B5F-A403-0CCBB6150074",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q113531$B63AC1E6-F108-4822-81F5-32FD7795D7D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0916-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "61191851f01b2691682c87736d5fd62916ab2d2c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q113531$771A5835-7B85-44D5-8E10-FD9A3E362934",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0978-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a64b3d80274799f62bed2ffdaad8822165176057",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q113531$08614F98-37C9-44BA-BB37-FDE39422D7C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013432863961"
+          },
+          "hash": "d41974c3cde6a825e2e71f0d09bf1c0ef618abcb",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q113531$E162FE70-4723-4933-8A0E-1C11FADACA5F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bermudo  Velaz Arms.svg"
+          },
+          "hash": "f035ad6d6cdffb5ad99de95347dac6ffb368dd79",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q113531",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Bermudo  Velaz"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bermudo  Vélaz"
+    }
+  },
+  "lastrevid": 17525395,
+  "modified": "2025-09-17T04:18:02Z",
+  "ns": 860,
+  "pageid": 135733,
+  "sitelinks": {},
+  "title": "Item:Q113531",
+  "type": "item"
+}

@@ -1,0 +1,206 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elisabeth von Osterreich"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q114355$97E2A57D-BC8E-4CA0-8A30-B2ECA1B4D0CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q114355$BA16D6BC-B3FE-4DA4-908A-52694997DEB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q114355$31ED13E3-CBE7-49D0-B6DF-C653F3EB27E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117313",
+              "numeric-id": 117313
+            }
+          },
+          "hash": "98bfe12fdc0a3aa1d8da25b18d2a09f8fd9e4616",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q114355$C82F0748-E4E9-4175-B840-32361585F311",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114321",
+              "numeric-id": 114321
+            }
+          },
+          "hash": "10138c858e51cda5104e966dba3d36e267fa8906",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q114355$6C2A4EC2-27C5-43DF-87A0-D31E64363B5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112648",
+              "numeric-id": 112648
+            }
+          },
+          "hash": "73ecf5c20b6923bd7c79363fce6d1cae14ba0176",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q114355$27B18D05-5BE1-4A93-A0F0-020318A1C51B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q114355$38B94C9A-E98A-4983-A1E4-99A0DC2B193D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q118193183"
+          },
+          "hash": "aff6867517f3f30448ca1a599684e168f24b354f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q114355$3503DB23-2B1F-4231-A6AF-E44130D09B47",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elisabeth von Österreich Arms.svg"
+          },
+          "hash": "c1d31dab681a348570b20beb6068458b84984869",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Babenbergerin, Gräfin von Winzenburg, \"Landgräfin von Sachsen\", gest. um / nach 1143"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Babenbergerin, Gräfin von Winzenburg, \"Landgräfin von Sachsen\", gest. um / nach 1143"
+    },
+    "en": {
+      "language": "en",
+      "value": "Countess of Winzenburg, died 1143 or after 1143"
+    }
+  },
+  "id": "Q114355",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Elisabeth von Österreich"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Elisabeth von Österreich"
+    },
+    "en": {
+      "language": "en",
+      "value": "Elisabeth von Österreich"
+    }
+  },
+  "lastrevid": 17526822,
+  "modified": "2025-09-17T04:44:14Z",
+  "ns": 860,
+  "pageid": 136837,
+  "sitelinks": {},
+  "title": "Item:Q114355",
+  "type": "item"
+}

@@ -1,0 +1,172 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "N"
+      },
+      {
+        "language": "en",
+        "value": "Mãe Incógnita"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q103924$287A47EB-5656-41EE-B3EE-ADD942695599",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q103926",
+              "numeric-id": 103926
+            }
+          },
+          "hash": "979bb4583df2fdd6849b117b64be38302c548a8a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q103924$C63A6065-9AB2-4018-AB42-EEC5C504A78B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q103924$502D8C56-1FCA-4DFB-A2FB-2371C8DE6E3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q103924$D9D26A51-6350-4BA4-8515-97A4964F65C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113893",
+              "numeric-id": 113893
+            }
+          },
+          "hash": "ab8db7352d093a44ad733d54c199a8703a853318",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q103924$5C0F3DE0-8BA3-4FFC-8666-043531F65188",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q103924$FD442CBE-2E2D-4A1D-A7DE-5EFFBC77DF36",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006591877138"
+          },
+          "hash": "2c352c5846868abb8ad7ad7b498c1f66c8d2345f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q103924$ECC3ADB0-BF6D-4A52-AFDD-ADAA8050C4EB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "N.N. Arms.svg"
+          },
+          "hash": "d57c32942ab82d0bb4ed10d51d33629312f408b9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q103924",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "N.N."
+    },
+    "es": {
+      "language": "es",
+      "value": "Mãe Incógnita"
+    }
+  },
+  "lastrevid": 17516695,
+  "modified": "2025-09-17T02:05:43Z",
+  "ns": 860,
+  "pageid": 122817,
+  "sitelinks": {},
+  "title": "Item:Q103924",
+  "type": "item"
+}

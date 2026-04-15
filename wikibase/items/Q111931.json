@@ -1,0 +1,274 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q111931$C0D4EC55-9097-4215-9E1F-98C777AA1927",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q111931$97B3DDBC-5E61-4156-BB6E-C97887F1A76F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q111931$AA7E9DB9-13F3-4FCF-863D-F7410311E604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111165",
+              "numeric-id": 111165
+            }
+          },
+          "hash": "f01b0ffe0867fa50d679b8f21b27fd4f7be3c0f0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q111931$596C92A7-F496-4F14-84C8-5DBF986CFE84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q99627",
+              "numeric-id": 99627
+            }
+          },
+          "hash": "e4aa14cdc8b2f71917a07f9fb5c580c509e6737e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q111931$8BEE3737-4CDF-4277-8D6B-D77327B188A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q111931$A8180FDA-8CCB-47B6-995C-C05344DE523D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q882691"
+          },
+          "hash": "03b2fcbb10e5a99d05b0df35bc1d91e2f6126c25",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q111931$9EE7BB6E-7CE0-4443-BBE0-37613A3D6C9F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Palladius Arms.svg"
+          },
+          "hash": "ddfd956c285e7acd434c997c70f9c6fc66d341fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "fill de l'emperador romà Petroni Màxim"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des römischen Kaisers Petronius Maximus"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Ρωμαίου αυτοκράτορα Πετρώνιου Μαξίμου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman emperor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Pétrone Maxime"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio dell'imperatore romano d'Occidente Petronio Massimo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский император"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римський імператор"
+    }
+  },
+  "id": "Q111931",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Паладый"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Паладий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pal·ladi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Palladius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Παλλάδιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Palladius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Palladius"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Paladio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Palladius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Palladio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "パラディウス (カエサル)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Palladius"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Palladius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Palladius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Palladius"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Palladius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Palladius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Палладий"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Palladius"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Паладије (Цезар)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Палладій"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Palladius"
+    }
+  },
+  "lastrevid": 17523653,
+  "modified": "2025-09-17T03:50:25Z",
+  "ns": 860,
+  "pageid": 133585,
+  "sitelinks": {},
+  "title": "Item:Q111931",
+  "type": "item"
+}
