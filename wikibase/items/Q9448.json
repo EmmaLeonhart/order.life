@@ -1,0 +1,306 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Kaneko Kaishi"
+      },
+      {
+        "language": "en",
+        "value": "Fujiwara no Kaneko/Kaishi"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q9448$AFD6E3FA-F82D-465E-858E-43B357D2C516",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719945"
+          },
+          "hash": "984420a638cfee52936f3ac9e74a02b8ff3691ed",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q9448$7468C687-D4F1-478D-B14E-E73D258B6303",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9701",
+              "numeric-id": 9701
+            }
+          },
+          "hash": "07776e84c728d033d62c64f8d6d626b94e638180",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9448$B576FCA7-3F90-4C85-8F1D-59C6CAC294E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9448$8D81B855-B9C8-43CC-A077-B6F3F9FEEB76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q9448$B0075754-FA3C-486D-90F2-60CB616B5954",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9274",
+              "numeric-id": 9274
+            }
+          },
+          "hash": "559924853b4a8eedf8e5e442f70f1643dd97c492",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9448$1AE4C8CF-5E81-463C-94C2-1330373C1CE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9337",
+              "numeric-id": 9337
+            }
+          },
+          "hash": "85aa7b3a453407900ccc3810408739a212f4e466",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q9448$3DACFFF4-545C-454F-95C3-79BEFDADAF85",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Fujiwara no Kaneko/Kaishi"
+            }
+          },
+          "hash": "7170dda750d30cce7a53a5e9b0666e212e09d94a",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9448$4734E15F-7A2A-4A8D-8571-CB7D761EA96C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9448$689C308B-99D3-4A97-A653-59E4929BC90B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0945-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "659a7d7247b284671f0651a7cbb4e794584c2a95",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9448$00F841F5-37E2-4B87-8035-4621BA42E724",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0975-05-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bde4dbf0b283682074e689946e64b2effcf19f58",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9448$4C83507C-DECF-4BE6-9286-FDB56337B85C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623274"
+          },
+          "hash": "57993edc6398e5f143529a26c82260fd7fbb5d7e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "eldest daughter of Fujiwara no Koretada"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "старшая дочь Фудзивара-но Корэтады"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระราชมารดาในจักรพรรดิคะซัง"
+    }
+  },
+  "id": "Q9448",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Kaneko/Kaishi"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kaneko Fudžiwara"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Kaneko/Kaishi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Kaneko/Kaishi"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سونشینای شینو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Kaneko/Kaishi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原懐子"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Кайси"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟุจิวะระ โนะ ไคชิ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原懷子"
+    }
+  },
+  "lastrevid": 17410960,
+  "modified": "2025-09-15T23:19:38Z",
+  "ns": 860,
+  "pageid": 31901,
+  "sitelinks": {},
+  "title": "Item:Q9448",
+  "type": "item"
+}

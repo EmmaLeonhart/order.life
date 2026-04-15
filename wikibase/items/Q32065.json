@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hŭn Kim //"
+      },
+      {
+        "language": "en",
+        "value": "Hŭn Kim"
+      },
+      {
+        "language": "en",
+        "value": "Hun Kim"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q32065$6C54123E-E517-4F2A-A20C-737D8A4A976C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31282",
+              "numeric-id": 31282
+            }
+          },
+          "hash": "dd47cfa12632c00b7d77dd8a10fdb1d73bfe9be3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q32065$1A279312-29D3-4385-A846-EA8BBE9C0DD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32065$9E05EC8D-2DB9-44EF-888B-DE78D66024D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32065$44707FE5-B47F-41FF-86C5-F00094E41857",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32065$F50AEA6B-B27F-455F-8006-9A346B987FAC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1448-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aad8d1869e5782c6d27c7ad546d44e56940b4b0e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32065$3C39D362-3A7F-4D96-B52F-52043E0DD98F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1492-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14cbb451556daf1a13c086ed2a2e3cd74febf8e8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32065$F80DCA32-F947-4F99-A8E3-44D15B2A10AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q59298769"
+          },
+          "hash": "4c4f9e75e890415bc2a3acc7f339001145c9fad9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32065$0228DA75-40A3-40D5-B224-D482B79674E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hŭn Kim Arms.svg"
+          },
+          "hash": "e2aa5b36c4aca87efad86043c5e548f8fd1867bb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Joseon official (1448 - 1492)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선의 문신"
+    }
+  },
+  "id": "Q32065",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hŭn Kim"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hŭn Kim"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "김흔"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hŭn Kim"
+    }
+  },
+  "lastrevid": 17432218,
+  "modified": "2025-09-16T05:36:13Z",
+  "ns": 860,
+  "pageid": 51761,
+  "sitelinks": {},
+  "title": "Item:Q32065",
+  "type": "item"
+}

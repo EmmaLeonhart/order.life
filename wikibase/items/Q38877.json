@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hedaan //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q38877$10887306-C429-4509-9593-C3ECB2A88A8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q38877$CB8E7577-82A8-4A49-A2BD-72BF7D6082B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q38877$FB2AA736-EA76-4E03-90A4-F0CFE5025E16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37401",
+              "numeric-id": 37401
+            }
+          },
+          "hash": "926cc02f77db665aa229a6e3ad568730e82bae67",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q38877$F93025A1-8B87-4786-8AA3-44A68F4515E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40734",
+              "numeric-id": 40734
+            }
+          },
+          "hash": "b9207b279e080b1e155cc892db58f8270572145e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q38877$6530D121-1B04-4A67-8758-FC62E48A8CD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q38877$EBF743CE-9BD1-45AC-A982-8808A9E834E1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q38877$4BCBF609-ACF9-4EAE-BB0E-A736F4F18CE2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7067167"
+          },
+          "hash": "e5f51058a7d1c0381c91cbe101eade1ffeefb4fe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q38877$22F19E90-1977-4700-A02D-75F45040EFAB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hedaan Arms.svg"
+          },
+          "hash": "cdfa3ba214c8e9f8d80ea557f5bd696c548dcc96",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "one of Genghis Khan's concubines"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "наложница Чингисхана"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "gift med Djingis khan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "phối ngẫu của Thành Cát Tư Hãn"
+    }
+  },
+  "id": "Q38877",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Хедаан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hedaan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hedán"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hedaan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hedaan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hedaan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hedaan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hedaan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Hedaan"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Хадаан"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хадаан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hadaan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hợp Đáp An"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "合答安"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "合答安"
+    }
+  },
+  "lastrevid": 17441606,
+  "modified": "2025-09-16T07:52:39Z",
+  "ns": 860,
+  "pageid": 56852,
+  "sitelinks": {},
+  "title": "Item:Q38877",
+  "type": "item"
+}

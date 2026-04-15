@@ -1,0 +1,311 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Helena Megale Komnene //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55899$6D9C6DDC-8FE8-465C-A148-C409B0FA7F38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00763568"
+          },
+          "hash": "04eedafe66440be121094cdd8ce7305f653f39e4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q55899$EC1A785C-066A-4E8C-896B-9D472F1B0C25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55903",
+              "numeric-id": 55903
+            }
+          },
+          "hash": "c566c5523af599b55c08021995c8089ee5bc0227",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55899$A29DCDE7-488B-4A6F-BEF8-9CD817F61642",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55899$78436360-0E51-4A66-B929-50289A8C4D9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q55899$6BE0C07A-6D31-41E5-B4F0-74A9180FEE8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50291",
+              "numeric-id": 50291
+            }
+          },
+          "hash": "0c0fe5ed88ec8d9be415a8a9d25d0eeed8886632",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55899$27BFD293-3FC0-4FA4-9A33-E54F93612D46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46199",
+              "numeric-id": 46199
+            }
+          },
+          "hash": "54f4834591173a1ecbc918de09e0d6480431e074",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55899$6C8567FE-4777-48CE-8414-C38673C02D5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55899$238D3274-2482-45FF-803B-6B30A6CB950E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1301-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b9a555d22dd75f2fdb86edc5d5823b0c243c3569",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55899$87272A2C-7712-44D7-95EC-580A4BE8637C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1366-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5630af10bb2f3c639603e992b4cb387944224187",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55899$664B6706-2288-46FC-92BE-78F79B3F188B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5703662"
+          },
+          "hash": "1f0ae507dcf80f7d086568ed4a4af24edddcd129",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55899$07A8AB2A-E696-4C2D-98C3-90FFC06506F8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Helena Megale Komnene Arms.svg"
+          },
+          "hash": "2bd0b1b8ec6ec10ac3fa02539d8d81c20a1e5416",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "name given for the first wife of King Bagrat V of Georgia"
+    }
+  },
+  "id": "Q55899",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Helena Megale Komnene"
+    },
+    "de": {
+      "language": "de",
+      "value": "Helena Megale Komnene"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ελένη Μεγάλη Κομνηνή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Helena Megale Komnene"
+    },
+    "es": {
+      "language": "es",
+      "value": "Helena Gran Comnena"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hélène Mégalè Comnène"
+    },
+    "he": {
+      "language": "he",
+      "value": "הלנה מגל קומננה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Helena Megala Komnena"
+    },
+    "it": {
+      "language": "it",
+      "value": "Elena Mega Comnena"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エレナ・メガリ・コムニニ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ელენე"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Helena Megale Komnene"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Елена Мегале Комнина (царица Грузии)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хелена Велика Комнин"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Helena Megale Komnene"
+    }
+  },
+  "lastrevid": 17464124,
+  "modified": "2025-09-16T13:20:51Z",
+  "ns": 860,
+  "pageid": 70730,
+  "sitelinks": {},
+  "title": "Item:Q55899",
+  "type": "item"
+}

@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sugi Motonobu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20294$AB28B953-591F-48B0-957B-A87E2BC5E439",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20294$3387AC56-6933-4BC1-9BF9-02DB28D0E0F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q20294$95DBDA10-729A-4332-8B8D-B452252EB8C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30332",
+              "numeric-id": 30332
+            }
+          },
+          "hash": "f1ebeb6b2c9dddd40bd4cc8bc00978fb2686aece",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20294$6AE839A5-9494-4AFB-8B9A-924AB29F5AFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22252",
+              "numeric-id": 22252
+            }
+          },
+          "hash": "80a96eea5e355ebf4da82001847032fc236decf7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20294$2E7038BA-9F43-4057-8A8E-47F2D37E54D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20294$430F55D0-B223-45B2-99D5-BB92C827504E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1589-04-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7810a335bcee74038c62c4c6953ff906e3b0a551",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20294$A74451C5-CAD1-4057-8C20-6878A9A5BA5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11521726"
+          },
+          "hash": "673a57805634834b3112597c28086d7bfed7e33c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20294$61230008-BF27-4955-A1FA-9C54B7234645",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sugi Motonobu Arms.svg"
+          },
+          "hash": "9070fa659bfae50f9ae8a746cf7f7c5384099456",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q20294",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sugi Motonobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "杉元宣"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мотонобу Суги"
+    }
+  },
+  "lastrevid": 17419420,
+  "modified": "2025-09-16T01:55:19Z",
+  "ns": 860,
+  "pageid": 42380,
+  "sitelinks": {},
+  "title": "Item:Q20294",
+  "type": "item"
+}

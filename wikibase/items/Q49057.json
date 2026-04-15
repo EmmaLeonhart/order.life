@@ -1,0 +1,309 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sasibuqa //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q49057$7E47EAC4-6866-4E05-8285-9E687195E75D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "445111"
+          },
+          "hash": "b932961d2b2d65c13d84b3ad253412be7ed47b72",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q49057$E8A195AA-657C-45C1-A39B-404FF5FB13E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53672",
+              "numeric-id": 53672
+            }
+          },
+          "hash": "8679f538e8e3ffe15d161358ca14d173cbc5c387",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49057$C2C8281D-9E22-4EAA-9BAA-E2BE4A5AAFD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53676",
+              "numeric-id": 53676
+            }
+          },
+          "hash": "fbb6a0fda86a65ccf63de99de3bedd7b40354c67",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49057$CE946C09-48B5-4211-9470-C1BFACB7F361",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49057$C889EEFE-E910-4D59-B9D3-97606295F4AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49057$BE5CF143-5869-4725-B81D-8C7C04643C10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45736",
+              "numeric-id": 45736
+            }
+          },
+          "hash": "418fbf02ea7a681947ac2747a6a8d1cca38ad6c0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49057$951873AC-C25D-4BDE-8113-E7E207D3C68B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49057$7B6A82E9-8E01-4D61-B8AD-0009E2B2CFD4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49057$92E6212E-F9F3-43F2-880F-D54CB1569E54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1320-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8c5b85b607050ed65ced331ffea6c88d258f7442",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49057$8971DCD3-7BE2-41EB-B8F0-7AE4CDCA6B8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3818324"
+          },
+          "hash": "02f7f023b1f04083ee63e26130ec3be6d98e9e18",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49057$332D0973-C221-4AE4-9EF0-B13567B6F511",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sasibuqa Arms.svg"
+          },
+          "hash": "2061fff4abe3f871b84fd7762b781223e9739fd0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Mongol Khan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "khan mongol"
+    }
+  },
+  "id": "Q49057",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ساسيبوقا"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sasibugha"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sasibuqa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sasibuqa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Satiboukha"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サシ・ブカ"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Сатибуха"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sasibuqa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сасы-Бука"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Саси-Бука"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薩昔不花"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萨昔不花"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薩昔不花"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "薩昔不花"
+    }
+  },
+  "lastrevid": 17454730,
+  "modified": "2025-09-16T11:02:00Z",
+  "ns": 860,
+  "pageid": 64463,
+  "sitelinks": {},
+  "title": "Item:Q49057",
+  "type": "item"
+}

@@ -1,0 +1,302 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Köchü //"
+      },
+      {
+        "language": "en",
+        "value": "Kochu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q43043$534D4AB1-79B4-40F7-A5A4-5069AABA2E76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "445105"
+          },
+          "hash": "f49efba15b336b13bc68751979831166a2512f78",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q43043$CCEDC7C6-E951-4967-90BF-1437D5220378",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45736",
+              "numeric-id": 45736
+            }
+          },
+          "hash": "2979c57d4819ddc5fdc0c29aff87b1d7c59a0629",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43043$352F399F-A926-4368-AB5D-78A8ADCAE73D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43043$CABC1433-0C79-4EFD-9224-45E872EB9687",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43043$0B37E6A5-64AC-49F2-8313-71AAC0F34D91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40808",
+              "numeric-id": 40808
+            }
+          },
+          "hash": "b8f6462f9412b82c9c4948c702a2dca3dd02312e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43043$F297E361-8B90-43C9-9DA0-FB199F0E53F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43043$1392BB22-F997-41B7-A8D6-DCC34FA9E84B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1298-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e30ceea589bd7468e604badab3e6abd8357ff913",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43043$E2683307-CD82-41BF-8C06-445FB752FF6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3816090"
+          },
+          "hash": "c26d83fe15fb910d7470c15cecd66c89a2f979e1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43043$DBDA4AB3-3B88-4AEA-BDD2-0B7DAFDB5387",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Köchü Arms.svg"
+          },
+          "hash": "11892916a56c139a22468d1e27cbc9a94e305c7f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كوندوتييرو منغولي"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Condottiere mongol (1280–1302)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mongolian khan (1280-1302)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Khan mongol de 1280 à 1302"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero mongolo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Condottiero uit Mongolië"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "வெள்ளை நாடோடிக் கூட்டத்தின் கான்"
+    }
+  },
+  "id": "Q43043",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Kubinji"
+    },
+    "en": {
+      "language": "en",
+      "value": "Köchü"
+    },
+    "es": {
+      "language": "es",
+      "value": "Köchü"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Khüinchi"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Köchü"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kochu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "コニチ"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Қоныша хан"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Хүйнчи"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Köchü"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Коничи"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கோச்சு"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Конши-хан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "科齊"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "科齐"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "科齊"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "科齊"
+    }
+  },
+  "lastrevid": 17447016,
+  "modified": "2025-09-16T09:09:05Z",
+  "ns": 860,
+  "pageid": 59971,
+  "sitelinks": {},
+  "title": "Item:Q43043",
+  "type": "item"
+}

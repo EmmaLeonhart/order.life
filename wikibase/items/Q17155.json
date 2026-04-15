@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Song Ping Mo Ji"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q27344$4B39CEC7-4B0A-43B5-9913-A44C14CE58A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27344$1A9A99E6-B6B2-4003-B7D7-F4F59F8DE929",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q27344$4704E003-FDAD-49E8-ACFC-DE9C02A53E22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17158",
+              "numeric-id": 17158
+            }
+          },
+          "hash": "e8fc4c94f95144e4d9e47f6c9d6554dd6ba621e5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q27344$CCE661DD-5E9F-4016-9FCB-3729748AB086",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27338",
+              "numeric-id": 27338
+            }
+          },
+          "hash": "029a4d25809b650327bb1fc948fea0198d89dea2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q27344$2127CD50-CDE3-4DC1-B215-CCAFF3EA8CC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q27344$35DA8851-349D-4F50-9561-CB18A408CDFE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1634-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f9879c1171bf2da971fe1244085ecfb474d27c7c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q27344$56460B88-C99C-4E2C-A7F3-30B7E05D1231",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1707-09-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3cff66a6e57659c8dfaed9a19ef6d5c870234556",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q27344$525187DC-3621-4471-AD7A-407F9DC36A96",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109923884"
+          },
+          "hash": "d70ff76932d426af4328775614dffb71026c7de2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "松平綱隆の正室"
+    }
+  },
+  "id": "Q27344",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "松平万姫"
+    }
+  },
+  "lastrevid": 17426550,
+  "modified": "2025-09-16T04:14:26Z",
+  "ns": 860,
+  "pageid": 48324,
+  "sitelinks": {},
+  "title": "Item:Q27344",
+  "type": "item"
+}

@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gang Seok-gi //"
+      },
+      {
+        "language": "en",
+        "value": "Gang Seok-gi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q33475$1C7E2627-7D97-4508-BA60-1A0CDA897779",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33176",
+              "numeric-id": 33176
+            }
+          },
+          "hash": "c879dc19f22c1b675dae699ef48ab11bf9bf4607",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q33475$036B48C2-576B-4C32-AF1D-8379D5C0975C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33475$DBE6A887-D0EF-41C7-A0EE-03AC7B9E8118",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33475$2D27B3A4-1B50-4F5E-9FB8-1AD7CC340120",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33475$0712BCB8-BE5C-40FF-A962-0619B8C2EB24",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1580-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b7134d9e75ac2a1153e190daf26ef6f5898e0ab2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q33475$D9C88524-FA07-4BF6-BFAE-7EFCF9144BB8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1643-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5d774c345368127cffde67a5e09a4eeac3db3286",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33475$10D1CE95-B5C4-4148-AC9C-C69DA95C0F3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12582917"
+          },
+          "hash": "a19128743baa10683d1072e10753104a619c15e5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q33475$6C9AF478-FA6D-4058-82CF-58F008510FE5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gang Seok-gi Arms.svg"
+          },
+          "hash": "1a283f1a5e0df14ed2ba31e54fd1d3171182b519",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "조선 중기의 문신"
+    }
+  },
+  "id": "Q33475",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gang Seok-gi"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "강석기"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "姜碩期"
+    }
+  },
+  "lastrevid": 17434210,
+  "modified": "2025-09-16T06:04:54Z",
+  "ns": 860,
+  "pageid": 52817,
+  "sitelinks": {},
+  "title": "Item:Q33475",
+  "type": "item"
+}

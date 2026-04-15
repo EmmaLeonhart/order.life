@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wada Kenshū"
+      },
+      {
+        "language": "en",
+        "value": "Wada Kenshu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q28450$F5B5A899-F88B-4D47-89C2-5D1C12179165",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28450$8E2885C6-3834-4A82-BB5E-377D0F2E75E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q28450$2D0BF934-54B7-44C5-A31A-7C6199F10DFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16517",
+              "numeric-id": 16517
+            }
+          },
+          "hash": "82c0e9085670fc9d5060801848989e88f88b7d76",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q28450$111B0C74-97F0-459D-841E-05271FAB1ACD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q28450$A770103E-0C3B-4920-B17A-BD475345ACBF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q28450$E43EA841-7A17-432A-8FC7-0E8EB24B32CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1348-02-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2d862b9a90e08d5a5d25c31bd7b7de6d821a00d8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q28450$4EC80F39-9AFE-47CB-9987-67F48CF94810",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11418139"
+          },
+          "hash": "292e3228b1b3af27e9bfc6d7ccd8fb69d5cf185f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q28450$B0BA5049-6039-491A-97DA-16E5929D55F1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wada Kenshū Arms.svg"
+          },
+          "hash": "a88da2e27b9b4208fc455a900be6e78c7465c6f2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Nanboku period commander (bushō)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南北朝時代の武将"
+    }
+  },
+  "id": "Q28450",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wada Kenshū"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wada Kenshū"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "和田賢秀"
+    }
+  },
+  "lastrevid": 17427740,
+  "modified": "2025-09-16T04:31:44Z",
+  "ns": 860,
+  "pageid": 49066,
+  "sitelinks": {},
+  "title": "Item:Q28450",
+  "type": "item"
+}

@@ -1,0 +1,544 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "King Wu of Zhou"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q6647$89730F89-058A-43D3-8243-794DF73CB3D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "593860|1443295"
+          },
+          "hash": "482945d797798085b06fa6c3968510f77d71f93a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q6647$207DBF86-75A9-4B3C-A3C2-CDD2A47A1619",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25400",
+              "numeric-id": 25400
+            }
+          },
+          "hash": "30da58aa088a3493bab2c882c58c4dcb10aa4e19",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6647$99EB1B56-85D2-48CC-B208-5763F3306F30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25401",
+              "numeric-id": 25401
+            }
+          },
+          "hash": "1e54dc36f59926294c4c3142b1ece3e0613788e5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q6647$37060C20-F401-4E57-B779-5EA2FA4BC400",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6647$8D6E7FDA-E702-4591-8BEA-78EBE1BC4F64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q6647$21306D67-F9DE-4947-A806-E8CE659034FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25399",
+              "numeric-id": 25399
+            }
+          },
+          "hash": "f543b411bc67532ae6658fbdff1ad8f54578994b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q6647$75E01A3D-4DDB-430B-88F3-810922C4BE30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6629",
+              "numeric-id": 6629
+            }
+          },
+          "hash": "6c1a5a4dd350e1d3f5a6b76c557d5d1299c45f1e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q6647$21095251-47D5-4FF3-A990-92C05BA9EA0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6645",
+              "numeric-id": 6645
+            }
+          },
+          "hash": "74ce7eaab8c628e9a7d50c6c4bf9928e992468da",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q6647$83D79B28-2F2E-4CEA-A3D3-A08B7550A507",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q6647$C59D442A-7C11-46DC-9626-4298C85DE137",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b53d43ce8f158650ff74305c0a3607b07e5d6336",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q6647$1FCDA5F3-00C5-4526-9D84-A176653A7469",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-1043-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "10357d432f3d095abe6c1f7251a8e8d61d0ad6d0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q6647$A9D3E066-7120-45BA-B239-B44C4B68F00C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "King Wu of Zhou.jpg"
+          },
+          "hash": "7b0dc03879f2913d725ee17f6eed427de3953cd2",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q6647$51757DC2-0CCD-478A-8C39-94105A8DBF19",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1061289"
+          },
+          "hash": "02b1405310896c275475234b1517122caf60f414",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q6647$BB23058B-6E50-4824-8B6A-06EFE108618A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "King Wu of Zhou Arms.svg"
+          },
+          "hash": "a0b10f13748f290e4178e068e1e0097cacc6858e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König der westlichen Zhou-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "founder of China's Zhou dynasty"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pendiri Dinasti Zhou"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano cinese della dinastia Zhou"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "周の初代王。文王の次子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "주나라의 제1대 천자"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "kinesisk keiser"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "fundador e primeiro rei da dinastia Zhou"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "ustanovitelj kitajske dinastije Džou"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "vua sáng lập nhà Chu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周朝君主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "西周創建者, 實行封建制度, 控制諸侯國"
+    }
+  },
+  "id": "Q6647",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "У-ван"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཀྲོའུ་ཝུའུ་ཝང་།"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Kralj Wu od Zhoua"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Rei Wu de Zhou"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Ciŭ Ū-uòng"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "پاشا ووی ئیمپراتۆریەتی ژۆو"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wu"
+    },
+    "en": {
+      "language": "en",
+      "value": "King Wu of Zhou"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey Wu de Zhou"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "وو ژو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wu Wang"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Թագավոր Ու-Վան"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja Wu dari Zhou"
+    },
+    "it": {
+      "language": "it",
+      "value": "Zhou Wuwang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "武王"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "უ ვანი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "서주 무왕"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Uvangas"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "周武王"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᠵᡝᠣ ᡤᡠᡵᡠᠨ ᡳ ᡠ ᠸᠠᠩ"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chiu Bú-ông"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kong Wu av Zhou"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "King Wu of Zhou"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Wu av Zhou"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wuwang"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "مو"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei Wu de Zhou"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rei Wu de Zhou"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "У-ван"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kralj Wu od Zhoua"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Vu Vang"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "King Wu of Zhou"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Zhou Wu"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าโจวอู่"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Wu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "У-ван"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Chu Vũ Vương"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "周武王"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "姬發"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周武王"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "周武王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "周武王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "周武王"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "周武王"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "周武王"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "周武王"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "周武王"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "周武王"
+    }
+  },
+  "lastrevid": 17406481,
+  "modified": "2025-09-15T22:22:40Z",
+  "ns": 860,
+  "pageid": 29142,
+  "sitelinks": {},
+  "title": "Item:Q6647",
+  "type": "item"
+}

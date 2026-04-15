@@ -1,0 +1,113 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "赵稷"
+      },
+      {
+        "language": "en",
+        "value": "Q16907302"
+      },
+      {
+        "language": "en",
+        "value": "Q16907302 //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q28774$BFA8444F-550B-4976-903C-C83D22D40AAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28774$7524E298-7E3B-44FC-9BC8-57B377B59CEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q28774$9FE0A983-FB63-449A-83F9-24A5E3505049",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q28774$BF5D31B9-6BF8-4E06-98DA-5B60247206DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16907302"
+          },
+          "hash": "f349e71d4b60fcf76561001d266c3ebff6b0c6be",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q28774",
+  "labels": {
+    "zh": {
+      "language": "zh",
+      "value": "赵稷"
+    }
+  },
+  "lastrevid": 17428098,
+  "modified": "2025-09-16T04:36:39Z",
+  "ns": 860,
+  "pageid": 49301,
+  "sitelinks": {},
+  "title": "Item:Q28774",
+  "type": "item"
+}

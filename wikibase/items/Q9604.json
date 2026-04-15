@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Akimoto Minamoto"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q9604$1F57E214-51FD-44CD-9003-B0059B3CD123",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10024",
+              "numeric-id": 10024
+            }
+          },
+          "hash": "33be1874f0ba1ac3009eed7d8fa74e1a17251074",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9604$0D2FE7C8-7850-43E0-B9A3-7F2D233F20B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9604$BED7E033-92D7-4048-AD2B-49E7648231A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q9604$1FF8C9C6-640B-474E-A716-4D66E45920CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9774",
+              "numeric-id": 9774
+            }
+          },
+          "hash": "8412e73eb3d2bc57614039867a9f50bf7c15a860",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9604$F37AF605-B7C4-43EC-ADF4-57E894BE8E2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9166",
+              "numeric-id": 9166
+            }
+          },
+          "hash": "25e23a24d070cae0a1b985ca3d32522ecfeda797",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9604$9297D895-904E-47FF-AAC4-E469D311450B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9604$F87D9616-FC18-465E-BC73-D144543526D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d00449fdebd71ddad4b63533443610d4fb2761b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9604$F484EE70-B1B5-453F-9AFB-FC51B8BD77EB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1047-09-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "33c06bdd5df4cb0fd9292967b07926dedecc31f6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9604$973B078A-09BC-48CC-BD10-E7296103F5E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17213994"
+          },
+          "hash": "85045bb68f260217baf02aacfe0248c73c27ab0c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q9604$CF5AE869-44C6-430F-AF34-6AD97488A145",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Akimoto Minamoto Arms.svg"
+          },
+          "hash": "0585cc04e03d2cd9bf6d63c06d0ca254c3c737b5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "1000-1047, 平安時代中期の公卿。源俊賢の子。官位は従三位・権中納言。法名は円照、号は横川。勅撰集『後拾遺和歌集』以下に4首入集"
+    }
+  },
+  "id": "Q9604",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Akimoto Minamoto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源顕基"
+    }
+  },
+  "lastrevid": 17411250,
+  "modified": "2025-09-15T23:23:46Z",
+  "ns": 860,
+  "pageid": 32047,
+  "sitelinks": {},
+  "title": "Item:Q9604",
+  "type": "item"
+}

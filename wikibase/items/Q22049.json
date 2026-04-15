@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "品川高如"
+      },
+      {
+        "language": "en",
+        "value": "Pin Chuan Gao Ru"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q37964$F072BDBF-8ABA-4C65-97D7-7418A79E1769",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37964$C081C326-5997-45B7-A27D-8827409FAD3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q37964$A8F9B6CA-E150-4A9A-92E2-6B0E96257AB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33806",
+              "numeric-id": 33806
+            }
+          },
+          "hash": "ea4f7f09239888a58c4b401be81ac5bf470f6ff3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37964$1DD3275C-03D0-4034-9C0A-DCB3377B1F0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33992",
+              "numeric-id": 33992
+            }
+          },
+          "hash": "d21c4decd261336e71a70b962d93455b6b065e3f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37964$969AF4DD-404E-4CA5-846E-B056989044AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37964$8D973A5F-B9C1-4FB5-8DB7-6454303490E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1612-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1469e198cc50699ba8c234448a7843120b3cec39",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37964$721334AC-6FDF-4D3C-B598-1AB41A12BFDF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1671-05-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b83f55b7951e0a630828bb62a8adc873e859c25b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37964$E957A329-B637-41B7-972E-54E3DF7A0E67",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11418433"
+          },
+          "hash": "f4dfac5444c080cee2528ed6eef54400f175084d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の武士。江戸幕府旗本品川高久（今川氏真長男）長男で、高家旗本品川氏2代当主。従四位上侍従・式部大輔"
+    }
+  },
+  "id": "Q37964",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "品川高如"
+    }
+  },
+  "lastrevid": 17440582,
+  "modified": "2025-09-16T07:38:05Z",
+  "ns": 860,
+  "pageid": 56169,
+  "sitelinks": {},
+  "title": "Item:Q37964",
+  "type": "item"
+}

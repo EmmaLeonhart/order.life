@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yelü Diela //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q49161$1EAD4726-7AA2-4A83-B19C-9F1172645A42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49161$7E412E87-9BD9-45BB-87CB-10A11133EC11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49161$FF49D905-9B6A-48D7-8735-F967C9068214",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49149",
+              "numeric-id": 49149
+            }
+          },
+          "hash": "8c365637ee0f907e50b8e1d21d6907b9224f2b35",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49161$10B0C9D2-72F8-4A03-BB7E-E44DCE007CB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49161$4080F7B2-BB9A-4ADE-A5E4-EA29F46F0A22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0926-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2038b35802a6eaeae01e567dfe41f35f39b21f88",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49161$6FDC20D9-894F-4C0C-93D6-EFE1F808203A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5956233"
+          },
+          "hash": "12905d734f0115671e62fad67114e97c2f52a4a0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q49161$D76DC965-D753-4473-B251-D086F0A5A8FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074792262844"
+          },
+          "hash": "6dd616d0ab0d6a50edd1a6e285cfe420a6939411",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49161$908AA21B-A2A3-4778-B7AA-5F15C27CCAD8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yelü Diela Arms.svg"
+          },
+          "hash": "62abe6cacf4694b80261f51a19976c37c3cf33fe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Inventor of the Khitan small script (c.925)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "거란 소자 창제자"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "izumitelj kitanske male pisave (ok. 925)"
+    }
+  },
+  "id": "Q49161",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yelü Diela"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Yelü Diela"
+    },
+    "de": {
+      "language": "de",
+      "value": "Yelü Diela"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yelü Diela"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yelü Diela"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yelü Diela"
+    },
+    "it": {
+      "language": "it",
+      "value": "Yelü Diela"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "耶律迭剌"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "야율질라"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "耶律迭剌"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Yelü Diela"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yelü Diela"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Yelü Diela"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Yelü Diela"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Yelü Diela"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Yelü Diela"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "耶律迭剌"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "耶律迭剌"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "耶律迭剌"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "耶律迭剌"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "耶律迭剌"
+    }
+  },
+  "lastrevid": 17454858,
+  "modified": "2025-09-16T11:03:49Z",
+  "ns": 860,
+  "pageid": 64540,
+  "sitelinks": {},
+  "title": "Item:Q49161",
+  "type": "item"
+}

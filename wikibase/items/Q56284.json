@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Koyanagawa Morimune"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q56284$BF4E9097-40F5-464E-9754-0A5E173365A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47562",
+              "numeric-id": 47562
+            }
+          },
+          "hash": "470eba4f19663b2d3871c5105c6e0289e3893c88",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q56284$1F0A8457-A6D3-4454-BA3E-5A2D5B9DEC62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56284$59956DB1-0BD1-451C-82DA-03EED9CBAFC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56284$EB0A9624-9F6B-41A2-B7E5-CD8BBD82B44F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56284$1901BD1C-22B4-4DAF-B48B-E247AF056872",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1440-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6734652513696baafad946bb7d4c65ae3cd5f8e4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56284$2E86669D-6CEB-423A-A1D0-6CD7F06C014B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1500-11-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7194dd987eb14ecdf774b2e16dce4741fc310afe",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56284$EB0765D3-9061-4ADD-AE6D-721E51B3A086",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108302254"
+          },
+          "hash": "98c647f641287b7a213dde743d18abdc5e3384a3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56284$56869434-7CCB-474D-83CA-45A55EABE141",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Koyanagawa Morimune Arms.svg"
+          },
+          "hash": "32c0650e7c3b5e7cc303e8fef85ec3941e6003f4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代の人物。陸奥小梁川氏の祖。中務大輔。"
+    }
+  },
+  "id": "Q56284",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Koyanagawa Morimune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小梁川盛宗"
+    }
+  },
+  "lastrevid": 17464676,
+  "modified": "2025-09-16T13:29:15Z",
+  "ns": 860,
+  "pageid": 71115,
+  "sitelinks": {},
+  "title": "Item:Q56284",
+  "type": "item"
+}

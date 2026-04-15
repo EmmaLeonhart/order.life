@@ -1,0 +1,138 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ookura no Taneki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q9768$BA177208-BCFE-4AAB-80BD-67F1BB685EB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9768$CF2820EC-8F2D-4A27-963A-2D5E017CB95B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9768$EBCB36C5-1E50-4DCD-B282-4662A2ECF044",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9768$0C6D23A7-CD7A-4D4A-9585-5D971254831A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d252c22f48df22886dfd50da624c1facf05ebc56",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9768$0315ED06-97E4-46AD-A4F9-96443BED000B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q29410786"
+          },
+          "hash": "f95fcd06521a7595746ceb7e7d34d86228830e33",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代中期の貴族・武人。従五位下・壱岐守、贈従四位。子に大蔵光弘、大蔵満高、娘"
+    }
+  },
+  "id": "Q9768",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ookura no Taneki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "大蔵種材"
+    }
+  },
+  "lastrevid": 17411566,
+  "modified": "2025-09-15T23:28:09Z",
+  "ns": 860,
+  "pageid": 32206,
+  "sitelinks": {},
+  "title": "Item:Q9768",
+  "type": "item"
+}

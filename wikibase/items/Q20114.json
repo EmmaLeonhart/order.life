@@ -1,0 +1,286 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakakibara Teruhisa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q20114$75BBC1CB-93BA-4D5F-91B0-727A28A6203F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30029",
+              "numeric-id": 30029
+            }
+          },
+          "hash": "08bd1b7aea9f5bb084d27ea9ff8eb741abf1971c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20114$5C03ED09-9D88-4CCC-BAA5-89E859165B98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37919",
+              "numeric-id": 37919
+            }
+          },
+          "hash": "da118b927605cc99cdcbc0c09f3ec0c067b4ed04",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20114$0FD04A8F-163F-4158-97A7-6979690196B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37923",
+              "numeric-id": 37923
+            }
+          },
+          "hash": "7114460b30534137062faf21c8cc009013ef8ae6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20114$F517A6E9-37B0-44B2-8750-904142DDD126",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37928",
+              "numeric-id": 37928
+            }
+          },
+          "hash": "2e6f8842f811a1760dc1dc81c3faa4405a31a5f0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20114$0F01709B-25F6-466C-BFCB-56EA22A727DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20114$FC1594B9-6032-44D2-825C-65A43BA09FC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20114$FA49B16F-4A85-4538-8170-10A5610552B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21980",
+              "numeric-id": 21980
+            }
+          },
+          "hash": "6387d00d0366727e517544cea9d4eef1d7c1b15b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20114$119462C7-D57C-4267-A605-9579F7F44CFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20114$4D85B4BE-D052-4FE3-AECA-8A0B34DDBE4D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1584-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1feb607ac39ae275f81edc896a6b71754f2be459",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20114$DF211C5B-F376-4C16-8AFA-C0C105283608",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1647-09-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "805c8e9669e77ba5f0c4f87576945556d1e02a02",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20114$AC3A06B7-F542-41EF-A81B-A0AA82A642E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11541720"
+          },
+          "hash": "e95b53067fbf61da5e88b1cd3097c6ef48808524",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20114$94BE47A5-F223-4CBB-917B-B96A2FE0F170",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakakibara Teruhisa Arms.svg"
+          },
+          "hash": "88cca0d0f6b90757bb396c67c289d191479f3fef",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の武将、神職。榊原清政の三男。大内記、従二位。交代寄合。子に久重（旗本300俵、書院番、無嗣断絶）"
+    }
+  },
+  "id": "Q20114",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sakakibara Teruhisa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "榊原照久"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тэрухиса Сакакибара"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "榊原照久"
+    }
+  },
+  "lastrevid": 17419248,
+  "modified": "2025-09-16T01:51:35Z",
+  "ns": 860,
+  "pageid": 42210,
+  "sitelinks": {},
+  "title": "Item:Q20114",
+  "type": "item"
+}

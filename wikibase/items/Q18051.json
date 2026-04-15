@@ -1,0 +1,260 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Suetsugu Yotsutsuji"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q18051$45E8DA04-12FE-4B21-A941-A621F2F92E90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32697",
+              "numeric-id": 32697
+            }
+          },
+          "hash": "7fee93ac09f222160149bb9b9cd69bcd9e3a1a9a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18051$3C54658C-DF02-4D1A-A367-964FF5FABAE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18543",
+              "numeric-id": 18543
+            }
+          },
+          "hash": "bce918368b7197124a1eedf65545921e82b2cc6c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18051$A1820606-EA77-45E5-A2CF-82EC810EF215",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18051$2D8BF7AB-E8D0-4B1C-9FB4-17E58DFB0970",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18051$1BFAF947-6166-4042-8A3B-371DB58798E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29081",
+              "numeric-id": 29081
+            }
+          },
+          "hash": "05ed1a8a94d77dc5a9278f2a70cac903a3b7167a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18051$F64E68D7-4F6D-4012-9C6A-4A2256AF2580",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18051$74D4C67F-F547-4A58-83B4-49EB34CF62F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1581-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "679380fc9100ef6f3021e11c92a75163f2f344f0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18051$58F711A2-034C-4FF0-8F6F-CFAC5BCEE7A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1639-06-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "237d175c1629d2ec1a5fb21e3fa744845092f71b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18051$966E0329-D3EC-48F0-B522-C4B3C1DB60B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11420151"
+          },
+          "hash": "9bbc0985ac10e617198f3ed38319b42a9d426463",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18051$3C207C2C-4AF9-474C-A947-77FB1DEFAEC0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Suetsugu Yotsutsuji Arms.svg"
+          },
+          "hash": "ecc6e8a3563fe0ba4f977ffcaadc98a74f2368f5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代前期の公卿。四辻公遠の次男。正二位・権大納言。山科家（絶家）を相続、のち四辻家（室町家）14代。子に本誓寺宣継（本誓寺宣英の養子。常称院。知足）"
+    }
+  },
+  "id": "Q18051",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Suetsugu Yotsutsuji"
+    },
+    "en": {
+      "language": "en",
+      "value": "Suetsugu Yotsutsuji"
+    },
+    "es": {
+      "language": "es",
+      "value": "Suetsugu Yotsutsuji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "四辻季継"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Suetsugu Yotsutsuji"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "四辻季繼"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "四辻季繼"
+    }
+  },
+  "lastrevid": 17417474,
+  "modified": "2025-09-16T01:06:51Z",
+  "ns": 860,
+  "pageid": 40256,
+  "sitelinks": {},
+  "title": "Item:Q18051",
+  "type": "item"
+}

@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yun Sa-bun //"
+      },
+      {
+        "language": "en",
+        "value": "Yun Sa-bun"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q29712$E7F8A77A-9571-4B71-BDC7-5CC02785A796",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29712$D9AFF072-7AE4-4BC3-BDA6-4E37D1A79319",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q29712$72D4CE31-C5D9-45EB-9AB8-8B0EFF6201C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29708",
+              "numeric-id": 29708
+            }
+          },
+          "hash": "6aa80f5f12c4a1fa52302e0a50bf5c4c688c3c47",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29712$797696DC-BA6A-41CC-870D-947E95A84E16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29712$F2501638-659B-45B7-87B9-5349A2A6BF9F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1401-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cc22e56c717a9358960ebf5c4c2bba8c42f78e21",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q29712$9E03317F-3413-4139-AC86-5CEE41E4EC84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1471-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "932f3539251ea190c74787517a24fd872319d031",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29712$DFAC1B22-F0A5-4D42-A323-85E06ACC1427",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12610263"
+          },
+          "hash": "7b53be9928d19217895a609c8e0cc383109b7eb9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29712$4143AD39-AFF5-40FF-9A78-86B63D55789C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yun Sa-bun Arms.svg"
+          },
+          "hash": "667f3e35a9a0ab5d71abaa5cf43348a9a7c3f6f7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "조선 초기의 외척"
+    }
+  },
+  "id": "Q29712",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yun Sa-bun"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "윤사분"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尹士昐"
+    }
+  },
+  "lastrevid": 17429170,
+  "modified": "2025-09-16T04:52:17Z",
+  "ns": 860,
+  "pageid": 50002,
+  "sitelinks": {},
+  "title": "Item:Q29712",
+  "type": "item"
+}

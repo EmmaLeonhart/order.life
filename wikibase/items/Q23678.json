@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Deyuan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23678$A06D57B6-0B5D-4ADB-BEBB-67D599074A9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21373",
+              "numeric-id": 21373
+            }
+          },
+          "hash": "2e2b21004a4ecec46ab087f637a2ee86f1cb7c52",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23678$FA20C74F-9439-4D2B-904D-F770EA46F2D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47102",
+              "numeric-id": 47102
+            }
+          },
+          "hash": "c29bf9b208f2b9e42c90c9dfc23c173a6f3e1c99",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23678$4CD0A387-9BDD-4188-897B-F018496FC984",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23678$2E9B3108-6C4B-44CC-A39C-6538A6E27857",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23678$9A8DFCF5-DB88-46F5-B52A-C872DCD535B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47098",
+              "numeric-id": 47098
+            }
+          },
+          "hash": "bdc1ae11345ffdba55a624cd79fdaaa257ea39d6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23678$18ACFF12-9AEF-4181-A565-93E24BD10654",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23678$94FE04D1-7FDA-46A4-AD55-D46722E41450",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0627-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "40f7d23641cf78830826d3decb015c2aa55cd6d8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23678$32591647-C80D-46C7-BDCE-74946D92CA63",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45642200"
+          },
+          "hash": "4e9e912813ab661edd4765d51422c4f5e7b491d1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23678$B3E31890-5CE7-4F6E-B0F4-2E5BF3D1A544",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Deyuan Arms.svg"
+          },
+          "hash": "45b8fae48905ffdee72133d0986147d1a18fabfe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 180521"
+    }
+  },
+  "id": "Q23678",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Deyuan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Deyuan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Deyuan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛德元"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Deyuan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛德元"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛德元"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛德元"
+    }
+  },
+  "lastrevid": 17422706,
+  "modified": "2025-09-16T03:07:28Z",
+  "ns": 860,
+  "pageid": 45518,
+  "sitelinks": {},
+  "title": "Item:Q23678",
+  "type": "item"
+}

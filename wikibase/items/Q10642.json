@@ -1,0 +1,197 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sahara Moritsura"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q10642$C7EECEC4-9EF0-4468-BF3E-0B9EB49F9EBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11311",
+              "numeric-id": 11311
+            }
+          },
+          "hash": "7aeb54185d433db29102499788c353f0e6c90028",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q10642$3EE0803D-CE2B-49CE-96C4-5A7D7AEAD72D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10642$69D816A6-7455-4551-901C-2A5AC417AAAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q10642$D8CF3023-CB1C-44ED-B982-043A36B2B5FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10627",
+              "numeric-id": 10627
+            }
+          },
+          "hash": "2cdc0eb48d86e195ed9263d6ca8e3d8f7f16d937",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10642$048616D7-EC03-4802-8026-E896D3FD178B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10642$036B8EEE-9307-43E4-9574-D61D3583D2D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1233-07-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0bfa0ae60cfa7f5aacbf8e2c70bdbd7e0912f8a2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10642$9E444E15-F741-4BE6-ADC1-5357758EEFAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q76970419"
+          },
+          "hash": "beef1eb5344f9f958526ee37a0681517be182946",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10642$5733AB70-9C44-4698-8CE6-6677220F2CED",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sahara Moritsura Arms.svg"
+          },
+          "hash": "c9cd949a2496ed418e6f25d58a9293a8ca0ae691",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代中期の武将。三浦氏佐原流、会津蘆名氏2代。佐原義連の次男。従五位下"
+    }
+  },
+  "id": "Q10642",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sahara Moritsura"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "佐原盛連"
+    }
+  },
+  "lastrevid": 17412420,
+  "modified": "2025-09-15T23:40:43Z",
+  "ns": 860,
+  "pageid": 33042,
+  "sitelinks": {},
+  "title": "Item:Q10642",
+  "type": "item"
+}

@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Juan Vázquez de Coronado y Estrada"
+      },
+      {
+        "language": "en",
+        "value": "Juan Vázquez de Coronado"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q31745$F308A075-94D6-457C-9174-334A1A69156D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33125",
+              "numeric-id": 33125
+            }
+          },
+          "hash": "c7626e243156e19b395b86f43bca00914b25aef3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q31745$45545977-A772-4397-9B58-214A4E9552C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31745$FB77EF88-7D18-44C8-8DDD-3A31D3F34DBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q31745$8BED58D9-36EB-4AFD-B7D5-B791ECCE43F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92760",
+              "numeric-id": 92760
+            }
+          },
+          "hash": "918d88cbb27a749340e3241562fae5a05a48a94a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q31745$3521C656-A9B2-45CA-AD58-F1358092C9AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92292",
+              "numeric-id": 92292
+            }
+          },
+          "hash": "4152f6c071ad53ad965e10890184c68ea392d715",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q31745$FA649BAA-BB6B-4657-A2AB-A47402E9333A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90211",
+              "numeric-id": 90211
+            }
+          },
+          "hash": "1c09705d2d73de66b4a1e56e3473be7f2baeca30",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q31745$346BE4B9-90CA-43D4-9387-E929055DED93",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Juan /Vázquez de Coronado/"
+            }
+          },
+          "hash": "a1ad69301282057c56cdfc72b84af0521680a51d",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q31745$A408E3B8-5CF4-4325-BD7F-C37E6EA22C71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q31745$FBF3D9BD-0EC7-4309-86D3-C76E059E2144",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1540-05-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "754cdc34bb3845a8a0d1d82672e71910c70fc73f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q31745$A2EA495C-8710-4AE2-B893-70E87C515B62",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0d37b2ea6263f043f46edfc1b27242291b455e2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q31745$387C113B-ADF0-40BB-AEDF-8599589DC02B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001500803649"
+          },
+          "hash": "7eb8e473db9bd212a04894bc4a2fd81b3f103333",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q31745$23B9DE74-34BC-4592-9A27-CF1BA85FD955",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Juan  Vazquez de Coronado Arms.svg"
+          },
+          "hash": "435169f3c47c388f5341db621fa9def9060020d2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q31745",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Juan  Vazquez de Coronado"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan  Vázquez de Coronado"
+    }
+  },
+  "lastrevid": 17431780,
+  "modified": "2025-09-16T05:29:41Z",
+  "ns": 860,
+  "pageid": 51520,
+  "sitelinks": {},
+  "title": "Item:Q31745",
+  "type": "item"
+}

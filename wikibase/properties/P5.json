@@ -1,0 +1,35 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Full name"
+      },
+      {
+        "language": "en",
+        "value": "gedcom Full Name"
+      }
+    ]
+  },
+  "claims": {},
+  "datatype": "monolingualtext",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "The full name of an individual as it gets translated into the gedcom format. Put surname in /slashes/. If the name is identical to label in the language aside from slashes then it becomes primary name, otherwise secondary formatted name for search"
+    }
+  },
+  "id": "P5",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Gedcom Full Name"
+    }
+  },
+  "lastrevid": 17404883,
+  "modified": "2025-09-15T21:48:24Z",
+  "ns": 862,
+  "pageid": 17351,
+  "title": "Property:P5",
+  "type": "property"
+}

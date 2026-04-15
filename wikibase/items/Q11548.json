@@ -1,0 +1,397 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Taira no Tokuko"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q11548$13A1DC71-5539-44F5-9932-11F48DADD7ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719930"
+          },
+          "hash": "3a8cbb7d728ef613eddd7e74c026e9b889532b49",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11548$09BB6725-F8F3-4B35-8516-F327A2102227",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11802",
+              "numeric-id": 11802
+            }
+          },
+          "hash": "6bb7776fa9019aa02737ae8ede49f64e38b5ce9d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11548$4C06E30D-6FD2-47FE-8B45-EE7C94417972",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11548$7EEB2EA9-0E80-4EF4-86F7-49B6F2EFB279",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q11548$713AA6E4-E76B-4E45-B735-0040A2F48519",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11781",
+              "numeric-id": 11781
+            }
+          },
+          "hash": "42e0c2630d138c8ec7fae03897febe29e97e5767",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11548$94DE76BE-80F7-460D-A251-9E851FC18781",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10882",
+              "numeric-id": 10882
+            }
+          },
+          "hash": "019e261ec93e415eb40cb124b91971494a147d19",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q11548$FE10729F-CEA6-4023-A31A-8C63E7102905",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11545",
+              "numeric-id": 11545
+            }
+          },
+          "hash": "d6b848db9646db27a8a9beb7ec8f799353374c79",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11548$F49AD8D3-C794-456F-80CD-7495C8E4DB77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11548$2D20C4D7-C945-4E2E-8918-4662C548B2EC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1155-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1b9370af71f69694b4f3d5a08f80002fbcf4f98f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11548$EE6169AB-27B2-40F3-AFCE-A849743B2577",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1214-01-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0bab3802dba0459473e90bd9e620f7109ed69e5d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11548$9B356A00-2636-47C0-9E57-4EB22EF12B71",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jakkoin by Mizuno Toshikata.jpg"
+          },
+          "hash": "177aaa69f7c29f78c4161acd13e6a148d053044c",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11548$DF9B35AE-700B-4777-8DBA-978A5D553250",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3315855"
+          },
+          "hash": "829f35df18d14bda67f7dba36e30f6db2d9d80f6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11548$58EE2020-B079-4C72-B413-A2EB13B71393",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Taira no Tokuko Arms.svg"
+          },
+          "hash": "2427550dc7027df0488feefe8e5d626a0d2726cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanische Adelige"
+    },
+    "en": {
+      "language": "en",
+      "value": "empress consort of Japanese emperor Takakura"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の平安時代の女性、第80代天皇・高倉天皇の皇后"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Bhikkhuni (1155-1214)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японская императрица"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk kejsarinna"
+    }
+  },
+  "id": "Q11548",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Taira no Tokuko"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Taira no Tokuko"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tokuko Taira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Taira no Tokuko"
+    },
+    "en": {
+      "language": "en",
+      "value": "Taira no Tokuko"
+    },
+    "es": {
+      "language": "es",
+      "value": "Taira no Tokuko"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تایرا نو توکوکو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Taira no Tokuko"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Taira no Tokuko"
+    },
+    "id": {
+      "language": "id",
+      "value": "Taira no Tokuko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平徳子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "다이라노 도쿠시"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Taira no Tokuko"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тайра-но Токуко"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Taira no Tokuko"
+    },
+    "th": {
+      "language": "th",
+      "value": "ไทระ โนะ โทะกุโกะ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тайра но Токуко"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Taira no Tokuko"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "平德子"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "平德子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "平德子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "平德子"
+    }
+  },
+  "lastrevid": 17413014,
+  "modified": "2025-09-15T23:49:43Z",
+  "ns": 860,
+  "pageid": 33915,
+  "sitelinks": {},
+  "title": "Item:Q11548",
+  "type": "item"
+}

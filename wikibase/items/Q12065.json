@@ -1,0 +1,453 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saionji Saneuji"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q12065$27BCA4FD-1562-4506-84FE-D18D37E4C6CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "808531"
+          },
+          "hash": "f464f4349b740d8007deb25f4e458fb3c2d8ea12",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q12065$1C01EAC5-9865-4CCD-9FA0-3A1F815DAF8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12838",
+              "numeric-id": 12838
+            }
+          },
+          "hash": "d00ff2f2f3ed1d7ecf027dff76df10fffc9cc683",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12065$27B4EE80-E993-40B6-BDAF-4C5D4843FAA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12529",
+              "numeric-id": 12529
+            }
+          },
+          "hash": "cf16ef8e048f5a48d94bad7e7e96b174ec924994",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12065$D5114DB6-422C-4C44-85C5-B16342728A57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12836",
+              "numeric-id": 12836
+            }
+          },
+          "hash": "15910e54f0b312b7cc340f38a27ec5df59bb8ab5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12065$EC869647-61DB-403A-8DF9-11106B9BB9E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12065$39CF89E5-B21C-491E-A922-09C8CB86AB4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12065$BB807451-D16F-49B7-95C8-BB3D06C36DD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11618",
+              "numeric-id": 11618
+            }
+          },
+          "hash": "d041a1e57d7dae8711c859e269d3bb17f6cb521b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12065$4946FCDC-A625-4E61-9523-74CFDE183632",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12065$A66CE7D7-D4CD-4ABB-AF28-80DB15B11F6A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1194-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a7fbffcd5d5af98babd676900f45988792663200",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12065$E26220DD-5729-4C97-9BC7-3C04D349885D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1269-07-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "693e0f2ab0b1b4956480833ccc500e1ce2ccde97",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q12065$6A0BD817-16C7-4045-BAE9-CD0AE3ACEDBC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "西園寺実氏.jpg"
+          },
+          "hash": "80382898972ed5d7d70d08799600126b30563990",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12065$FD271653-6191-420B-8B62-437AB3DF8780",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3464638"
+          },
+          "hash": "1c0d5255999de22982532c0a69cce0f82adf0bfc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12065$77B299F0-6C22-486A-BBA4-5B9F66C562D0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saionji Saneuji Arms.svg"
+          },
+          "hash": "4e4f69abc8a3901c896f1cb80499afa413bfa88f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعر ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "poeta xaponés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি কবি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "poeta japonès"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Daijō Daijin, Dichter und Dichter"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese poet"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese poet"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese poet"
+    },
+    "es": {
+      "language": "es",
+      "value": "poeta japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani luuletaja"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "poeta japoniarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاعر ژاپنی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poète japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "file Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poeta xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "משורר יפני"
+    },
+    "it": {
+      "language": "it",
+      "value": "poeta giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の公卿"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichter (-1269)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poeta japonês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "poet japonez"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "poet japonez"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon şair (1194 – 1269)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський поет"
+    }
+  },
+  "id": "Q12065",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Saionji Saneuji"
+    },
+    "de": {
+      "language": "de",
+      "value": "Saionji Saneuji"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saionji Saneuji"
+    },
+    "es": {
+      "language": "es",
+      "value": "Saionji Saneuji"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سایئونجی سانهاوجی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Saionji Saneuji"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Saionji Saneuji"
+    },
+    "it": {
+      "language": "it",
+      "value": "Saionji Saneuji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "西園寺実氏"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Saionji Saneuji"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Saionji Saneuji"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Saionji Saneuji"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Saionji Saneuji"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Санэудзи Сайондзи"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Saionji Saneuji"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Saionji Saneuji"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Saionji Saneuji"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сайондзі Санеудзі"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西園寺實氏"
+    }
+  },
+  "lastrevid": 17413310,
+  "modified": "2025-09-15T23:53:49Z",
+  "ns": 860,
+  "pageid": 34413,
+  "sitelinks": {},
+  "title": "Item:Q12065",
+  "type": "item"
+}

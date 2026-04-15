@@ -1,0 +1,342 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kitsuno"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q17087$5B5CEB91-0F38-46C9-A4C5-91FA0AC7DCAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16711",
+              "numeric-id": 16711
+            }
+          },
+          "hash": "8729f369b1eee97067a016e3fe25ab176cba5621",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17087$C4829864-5D29-40E6-BB97-F04C3A5FD3FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17090",
+              "numeric-id": 17090
+            }
+          },
+          "hash": "e2138b71f8afd9872445c9b82c582c28488cb3b9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q17087$17D0BF9F-00C1-4344-A979-3BCBC1278476",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "生駒-2"
+          },
+          "hash": "1769e2434af2b457d2a7b17335adfe8be13a5242",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q17087$8FAB71CB-D20B-47B9-827C-0B06E21BE896",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17087$7F47C74F-D8D1-4A39-BCAE-D70C0B4B4A23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q17087$8F4C9DEC-1C30-401C-9128-EC7FFC2F2CA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16794",
+              "numeric-id": 16794
+            }
+          },
+          "hash": "3dbf301aa6c3f5c8a881302eada93f0c8434b6d2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17087$1DD5D4D0-41A4-447D-B5FD-220049E0C1DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30089",
+              "numeric-id": 30089
+            }
+          },
+          "hash": "b14fd8b1d9dd9b68c0e67ed6a623a83307b359f7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17087$07D0F815-8616-4922-AE43-1DCC3CD080C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17087$7F458B0A-1F80-4CC1-A478-429DF3213BBD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1528-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "45a7bd07a32dba3aa128a7913d83d1284a9888c7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17087$B6D0E157-F71D-4C11-ADA2-88FC52064A61",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1566-05-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bc5e48cffc2e1502551ed428cb328df1b91e0ccf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17087$535BAADB-D87E-4836-B0CC-6A81346A0410",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4327464"
+          },
+          "hash": "ea6fad6fea86233b49bfbc98eff26b403599081d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17087$86596EAF-0880-4498-90DC-D085957F5D9B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kitsuno Arms.svg"
+          },
+          "hash": "a52b1afe02aa0330b9ec14819d0afdaca4a1fef2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "concubine of Japanese daimyo Oda Nobunaga"
+    },
+    "es": {
+      "language": "es",
+      "value": "concubina del daimio Oda Nobunaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の女性。生駒家宗の長女。土田弥平次の妻、のち織田信長の正室?側室?"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "наложница Оды Нобунаги"
+    }
+  },
+  "id": "Q17087",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kitsuno"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kicuno"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kitsuno"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Kitsuno"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Kitsuno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kitsuno"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ایکوما کیستونو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kitsuno"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "生駒吉乃"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kitsuno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кицуно"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кіцуно"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Kitsuno"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "生駒吉乃"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "生駒吉乃"
+    }
+  },
+  "lastrevid": 17416620,
+  "modified": "2025-09-16T00:46:20Z",
+  "ns": 860,
+  "pageid": 39332,
+  "sitelinks": {},
+  "title": "Item:Q17087",
+  "type": "item"
+}

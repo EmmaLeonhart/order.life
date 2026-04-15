@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "橘忠望"
+      },
+      {
+        "language": "en",
+        "value": "Ju Zhong Wang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q9475$834A7E9C-364F-43B5-AE2B-DC075D224B96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9475$E70D80B6-9B18-454F-8665-D994706106A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q9475$8C91F292-D402-43E4-BAEF-48CF83F6EEA5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ju Zhong Wang Arms.svg"
+          },
+          "hash": "297522ca74936e0368449011421f74c3557ed779",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q9475",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ju Zhong Wang"
+    }
+  },
+  "lastrevid": 17411010,
+  "modified": "2025-09-15T23:20:20Z",
+  "ns": 860,
+  "pageid": 31926,
+  "sitelinks": {},
+  "title": "Item:Q9475",
+  "type": "item"
+}

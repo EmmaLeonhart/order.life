@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sen Sōshitsu IV"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q50775$5BDD70FC-8666-4E94-8FF0-B9D7E58243DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50775$2952B064-D338-480B-9077-62C405762F63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50775$29667124-D794-4AC3-BF81-5782D12064F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43571",
+              "numeric-id": 43571
+            }
+          },
+          "hash": "c9f03a7da578e1f85ae7943be02d484ca8e21271",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50775$33B6504C-76F7-4814-9898-FF571A80EC79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50775$9C30BFF3-4916-4FD0-BF5A-3FD668AE6D9E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1622-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7613929aec9713c942076f055bbc019bec0f1cf1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50775$E799174A-E8F6-4D9A-8C54-B3F7E2CD5DB2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1697-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "998a20762f90602925babc3975a68e2f48952db0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50775$1977A69D-D478-4C15-8ECF-F93595DB54AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7451164"
+          },
+          "hash": "4de2f6fb7fd31a93dc03c368f7af4ff99e2cdefa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50775$DBE5FE34-8661-4C69-9675-FBED54335A79",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sen Sōshitsu IV Arms.svg"
+          },
+          "hash": "89d0792ed01d42d72f31c9d97a56ee4e4005b8f6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese tea master (1622-1697)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の茶人(1622-1697)、茶道裏千家4代"
+    }
+  },
+  "id": "Q50775",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sensō Sōshitsu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sensō Sōshitsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sen Sōshitsu IV"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sensō Sōshitsu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sensō Sōshitsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "千宗室"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sensō Sōshitsu"
+    }
+  },
+  "lastrevid": 17457066,
+  "modified": "2025-09-16T11:36:11Z",
+  "ns": 860,
+  "pageid": 65746,
+  "sitelinks": {},
+  "title": "Item:Q50775",
+  "type": "item"
+}

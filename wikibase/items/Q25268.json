@@ -1,0 +1,351 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Jing of Northern Zhou"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q25268$2E850DEC-BD8B-44A0-A2F0-AF2D147F3CD9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1443265"
+          },
+          "hash": "2516982337f09b33423d2374de06bcac3df04390",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25268$EBEB0272-1D79-43AD-A844-57E9F8605688",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25268$DE69AEC4-46BE-48BC-BF71-F6A72A215F77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q25268$221B057A-B50F-49EE-A6FB-9059112C80BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52207",
+              "numeric-id": 52207
+            }
+          },
+          "hash": "b6286019a9068760b50a1aa7f9fb3471fcfb814b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q25268$C3DDC8B8-0A19-4D7E-B651-8BB75721F71A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23147",
+              "numeric-id": 23147
+            }
+          },
+          "hash": "0410d6b748b2c8edf4a39f4244cc79f063d27e3c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q25268$87657D8B-ECE0-44EE-B9A0-5FA711A152D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25264",
+              "numeric-id": 25264
+            }
+          },
+          "hash": "1d512fd0057a4ef386986b57233e6a417589db09",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25268$47782296-28AF-46F1-B687-E456EB8CC803",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q25268$EAD5BA17-2F32-4A12-B590-5ECBAC5A7CC8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0573-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2d9eb82fe1737c3e480a211ec77fcd9746801a59",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25268$3AC1267E-E0F7-4EBF-8C1F-A0655988AF4F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0581-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "15d09d28e82d9218bd317799359fca72caa75fe1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25268$79BF646C-F61B-4E9E-9F0B-2E6192221540",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1149124"
+          },
+          "hash": "2abbcf929010a6bab08c65e20151450576ccbd3f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25268$ED02C609-C223-4A0F-BA36-C53679B8653A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Jing of Northern Zhou Arms.svg"
+          },
+          "hash": "ed8595f6db3d0d5b85d1e815d667f452a1acf224",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Emperor of Northern Zhou"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Empereur de la Dynasie Zhou du Nord"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Останній імператор Північної Чжоу"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "北周末代皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "北周末代皇帝"
+    }
+  },
+  "id": "Q25268",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yuwen Yan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Jing of Northern Zhou"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperor Jing of Northern Zhou"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Zhou JIngdi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "静帝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "북주 정제"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "周靜皇帝"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chiu Chēng-tè"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Emperor Jing of Northern Zhou"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Цзин-ди"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Jing od Sjevernog Zhoua"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Emperor Jing of Northern Zhou"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิโจวจิ้ง"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юйвень Янь"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Bắc Chu Tĩnh Đế"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "周静帝"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "宇文闡"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周静帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "宇文衍"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "宇文衍"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "宇文衍"
+    }
+  },
+  "lastrevid": 17424118,
+  "modified": "2025-09-16T03:40:11Z",
+  "ns": 860,
+  "pageid": 47003,
+  "sitelinks": {},
+  "title": "Item:Q25268",
+  "type": "item"
+}

@@ -1,0 +1,455 @@
+{
+  "aliases": {
+    "bg": [
+      {
+        "language": "bg",
+        "value": "Йоан I Аксух"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "John I of Trebizond //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q50042$BDBE8C66-A4C4-48F4-943A-593DA9153DE4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00764356"
+          },
+          "hash": "84ecf9e23ec8933b07b023236e721d7b566f0e84",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q50042$F528FB70-D1CE-4DF3-8D37-53F0337B6743",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55567",
+              "numeric-id": 55567
+            }
+          },
+          "hash": "3b7f5983898342763634a04c60703b279c8af193",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50042$DA941ED1-FC2C-4F20-8E1D-A7B1DAD0574E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50042$0A9A47F6-C070-4320-A60D-5FED55929F5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q50042$0F5288F1-F7D7-4C7C-B4B1-3BBD76553B52",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "John_I_of_Trebizond_(1)"
+          },
+          "hash": "57da0b7a4ea4d46d9ede0d09dbe06d594a04a332",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q50042$F9E73594-3AAB-461C-83C4-BBC6411E2A2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21911.htm#i219106"
+          },
+          "hash": "3dff9a661ef5b560fca23701cfb340e84db89736",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50042$FE802783-6C16-4264-9998-3F4DF0652CA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50033",
+              "numeric-id": 50033
+            }
+          },
+          "hash": "2c2887b5140603c33ad4509222ad22dddfa2f5b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q50042$56A8678F-9EDF-4CF3-A1B1-C3EF13B21F7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50038",
+              "numeric-id": 50038
+            }
+          },
+          "hash": "f639511f56d18663259299fb7be9d33deb80d316",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50042$356E9EE8-9B09-42AC-8586-4A82C1655951",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50042$9A1CE944-38D0-4328-8290-2F312C2B657D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1238-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da3a08c245cad81a582e4aedf1cbc8b7a94ac0ea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50042$BEB82952-98DB-4249-B43C-8BF882C87806",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q303302"
+          },
+          "hash": "c762b34a13a3470f6adc76addda304cbe0a728f3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50042$8339360B-8827-4C17-954F-04739E7DFF4F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John I of Trebizond Arms.svg"
+          },
+          "hash": "7256c7866599b6d61cdaf39dc21da6770e859f4a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "трапезундскі імператар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "император на Трапезунд"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Trapezunt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Trebizond"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "imperiestro de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador de Trebisonda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur de Trébizonde (1235-1238)."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "trapezunti császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore trapezuntino"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "第3代トレビゾンド皇帝"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit keizerrijk Trebizonde (-1238)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Трапезундский император в 13-м веке"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma İmparator ve Otokratı"
+    }
+  },
+  "id": "Q50042",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "يوحنا الأول من طرابزون"
+    },
+    "az": {
+      "language": "az",
+      "value": "I İohann (Trabzon imperatoru)"
+    },
+    "be": {
+      "language": "be",
+      "value": "Іаан I Аксух Вялікі Камнін"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йоан I Комнин Аксух"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Ivan I Trapezuntski"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan I Axuc"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan I. Trapezuntský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johannes I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Α΄ Αξούχος"
+    },
+    "en": {
+      "language": "en",
+      "value": "John I of Trebizond"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Johano la 1-a de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan I de Trebisonda"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Joan I.a Trebizondakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean Ier de Trébizonde"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xoán I de Trebisonda"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ivan I. Trapezuntski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Jóannész trapezunti császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ioannes I dari Trebizond"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni I di Trebisonda"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨハネス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იოანე I"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ioannes I"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Jonas I Megas Komninas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Johannes I Axouchos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Johannes I Megas Komnenos Axouchos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan I Wielki Komnen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João I da Trebizonda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João I da Trebizonda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн I Аксух Великий Комнин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John I of Trebizond"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован I Велики Комнин"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Johannes I Komnenos Axouch"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Trabzonlu I. Yuhannes Komnenos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іоанн I (імператор Трапезунда)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约翰一世"
+    }
+  },
+  "lastrevid": 17456086,
+  "modified": "2025-09-16T11:21:28Z",
+  "ns": 860,
+  "pageid": 65198,
+  "sitelinks": {},
+  "title": "Item:Q50042",
+  "type": "item"
+}

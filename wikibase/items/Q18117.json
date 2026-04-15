@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sannomarudono"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q18117$60C45D8D-5501-41B6-94CA-F3F32C064F33",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-51"
+          },
+          "hash": "30a191a91e08f8569e93af5f1dbf00cb62545118",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18117$88AF1DF8-3A3A-4A23-AFEF-1D55C3995432",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18117$59CF9336-BBAB-409E-85C6-17088B10B124",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q18117$4DE52B21-2A0B-4843-9B0A-6FD1A4E78D76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15008",
+              "numeric-id": 15008
+            }
+          },
+          "hash": "ae28e14afc535574ada2ffef43e9fd6a75917567",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18117$A0ADC03A-0BBD-4149-B27A-B54F27134A7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32336",
+              "numeric-id": 32336
+            }
+          },
+          "hash": "bbfb843ee1af19aee0d90ed1ceba9763af525d87",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18117$BAAD4D13-F0D3-4EA1-8E8E-76CD5A10FD53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16794",
+              "numeric-id": 16794
+            }
+          },
+          "hash": "79a3cfd4549355ee2f072049cb28cea44ac145d0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18117$86B582C1-B2F8-4936-8234-306C2F5F1791",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18117$61E86C7A-20F9-4F11-8AE7-FCC9360CCF9E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18117$16FC7C70-A1FE-43EE-B60D-710BDDE91376",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1603-03-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b916c2c52b724d54acb2eca271072db0d582a146",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18117$23A967DF-E99A-487D-A537-8C5EAB0B57B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9379175"
+          },
+          "hash": "d0616af8a7174fc6ae0695a0709ea8642214143a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18117$B2805C3C-439B-43DA-B8FC-4C76C9FF295B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sannomarudono Arms.svg"
+          },
+          "hash": "64842c6718f8586be3bea71e95caad9ba7b0c6a6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "17 Mar 1603"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代の女性"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "日本歷史人物"
+    }
+  },
+  "id": "Q18117",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Sanno-marudonno"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sannomarudono"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sannomarudono"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سان نو مارو دونو"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "三の丸殿"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "산노마루도노"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sannomarudono"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "San'no Marudono"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "三之丸殿"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "三之丸殿"
+    }
+  },
+  "lastrevid": 17417526,
+  "modified": "2025-09-16T01:08:12Z",
+  "ns": 860,
+  "pageid": 40317,
+  "sitelinks": {},
+  "title": "Item:Q18117",
+  "type": "item"
+}

@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Akiyama Masanari"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18434$86919ACB-A802-4DA8-8BEF-6B1B35FC58F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18434$C8DB0DCB-E47B-4AB5-987B-BF0F20E0105B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18434$F492E7A7-D9FB-4032-AA19-48404D83E938",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27189",
+              "numeric-id": 27189
+            }
+          },
+          "hash": "1fca748cf29bc0f4f56b97bc751490eb123f54c4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18434$5F30FEC5-102E-44D8-A673-2AED11AB1D98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18434$E98110BA-853D-46AC-8EB8-AB0C074C275E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18434$C6140CF9-A1AF-430D-8E14-2B4A669B48B5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1582-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d7d35fd54a9ec1cdf3a25f0318b33804ad6bfff8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18434$BAA38402-9D31-49B0-AB83-147F7A2ADED1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11594995"
+          },
+          "hash": "d00d97e96ff943aedca5700ca45a61f34f9c6cc5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18434$1B744DE1-7C74-463C-9318-86627B8D9B0E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Akiyama Masanari Arms.svg"
+          },
+          "hash": "1e40416279991d1653ff2d747853bc1aec6a5782",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "榊原重政の養子"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q18434",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Akiyama Masanari"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "秋山昌成"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масанари Акияма"
+    }
+  },
+  "lastrevid": 17417796,
+  "modified": "2025-09-16T01:15:21Z",
+  "ns": 860,
+  "pageid": 40623,
+  "sitelinks": {},
+  "title": "Item:Q18434",
+  "type": "item"
+}

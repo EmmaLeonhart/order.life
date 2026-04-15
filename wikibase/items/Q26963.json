@@ -1,0 +1,466 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhu Quan //"
+      },
+      {
+        "language": "en",
+        "value": "Zhu Quan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q26963$AAD69CFF-9103-43EA-A19B-61E5A964118C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "843462"
+          },
+          "hash": "1ee34077cc9b4ccce6faf4fb2170cb368351162f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q26963$0217864C-E97F-4B80-915F-7161E8AFE660",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27454",
+              "numeric-id": 27454
+            }
+          },
+          "hash": "64dfe98b32cc3cc8af285166d94ad244e24a77fa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q26963$EC53DB0E-B172-4787-8094-683F605C4F85",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27451",
+              "numeric-id": 27451
+            }
+          },
+          "hash": "9e18b0d74218c9e9765fe440d736f9ffdb9e9955",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q26963$0CA61103-5693-4383-882E-7176524A192B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q26963$5EAF6FBB-F7C8-49EA-92ED-25817824FCBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q26963$1D9BC3FB-6760-4B11-BD85-3825F1ABFEE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26845",
+              "numeric-id": 26845
+            }
+          },
+          "hash": "ef5d52e1984ad4cbc9b367c1a45dab506f7c3363",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q26963$79009EEB-ABC3-4220-ADFA-78840C7C9B29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27448",
+              "numeric-id": 27448
+            }
+          },
+          "hash": "dc0099e747c91a288d62df627f38475594df895a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q26963$8EEA1025-9F4E-4E2F-90D0-E7C666FA616D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q26963$CE6B08A8-67D2-4F00-A5FC-89A42C666884",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1378-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd869902e9497234c19304f85b0d39050781fe26",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q26963$82C73BCF-8EAE-44C7-9840-9246EB7E0AC1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1448-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2ad883898ed8e474af393f1272174855a74a2dee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q26963$A40B6EB1-E418-438E-9489-22C5E869E895",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q985448"
+          },
+          "hash": "ad6d0d68b2f15ec452106e41137d4f2d8f4ff22c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q26963$FB96BB7D-758D-4A86-A558-5072131D71B7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhu Quan Arms.svg"
+          },
+          "hash": "9145fac8501215c1dc7344d389ec42e61c221e02",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أمير سلالة مينغ (1378-1448)"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "persona de la dinastía Ming"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "čínský vojevůdce"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Ming dynasty nabiya (1378-1448)"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ming dynasty prince (1378-1448)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince de Ning"
+    },
+    "gpe": {
+      "language": "gpe",
+      "value": "China ein prince dem bon (1378-1448)"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Daular Ming (1378-1448)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "寧献王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "명나라 왕자 (1378-1448)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "schrijver uit China (1378-1448)"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Ming ahemman mu ɔheneba (1378-1448)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "hoàng tử nhà Minh, con trai Minh Thái Tổ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "明朝宗室藩王"
+    }
+  },
+  "id": "Q26963",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جو تشيوان"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "تشو تشوان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Zhu Quan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ču Čchüan"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Zhu Quan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Zhu Quan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Zhu Quan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zhu Quan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zhu Quan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Zhu Quan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Zhu Quan"
+    },
+    "gan": {
+      "language": "gan",
+      "value": "朱權"
+    },
+    "gan-hans": {
+      "language": "gan-hans",
+      "value": "朱权"
+    },
+    "gan-hant": {
+      "language": "gan-hant",
+      "value": "朱權"
+    },
+    "gpe": {
+      "language": "gpe",
+      "value": "Zhu Quan"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Zhu Quan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "朱権"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "주권"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "朱權"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Zhu Quan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zhu Quan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Zhu Quan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Zhu Quan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чжу Цюань"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Zhu Quan"
+    },
+    "tw": {
+      "language": "tw",
+      "value": "Zhu Quan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Chu Quyền"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "朱權"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "朱權"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "朱权"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "朱权"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "朱權"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "朱權"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "朱權"
+    }
+  },
+  "lastrevid": 17426052,
+  "modified": "2025-09-16T04:06:50Z",
+  "ns": 860,
+  "pageid": 48071,
+  "sitelinks": {},
+  "title": "Item:Q26963",
+  "type": "item"
+}

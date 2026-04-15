@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "宜子女王"
+      },
+      {
+        "language": "en",
+        "value": "Yi Zi Nu Wang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8014$13595D45-C21A-4EB1-8519-4B92610E3FF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8014$51F568F1-3DBA-40BC-8E35-CDB161235845",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q8014$395DDAE6-5F43-4266-9EED-067595F4DFAF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yi Zi Nu Wang Arms.svg"
+          },
+          "hash": "fec987ba09130c0ce128d83d48a47054676642c6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8014",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yi Zi Nu Wang"
+    }
+  },
+  "lastrevid": 17407932,
+  "modified": "2025-09-15T22:41:10Z",
+  "ns": 860,
+  "pageid": 30505,
+  "sitelinks": {},
+  "title": "Item:Q8014",
+  "type": "item"
+}

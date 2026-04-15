@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Fang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q54543$681527E2-9DAD-48FC-BC0F-8E7A24D05CBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61139",
+              "numeric-id": 61139
+            }
+          },
+          "hash": "f642b452aad0340184de7166bda22ab1e8dd2612",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54543$5845415B-3A2A-4CEA-B533-C845E89B6B37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61142",
+              "numeric-id": 61142
+            }
+          },
+          "hash": "b0204e8f5073253e0479c091693b92bad98f09ac",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54543$3BAE3AF6-A539-4CEB-9D51-4B7F0F83D0D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54543$30EDD47E-160E-417D-AD52-3C3375D75898",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54543$7DAABEFB-66F0-49DD-9FD3-9A867DF47E78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45911",
+              "numeric-id": 45911
+            }
+          },
+          "hash": "179d003737feb8ad71b1064c05bc9ddf8f4263b8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54543$52915602-A52B-4151-BC92-3557F1C66F5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54543$FA69EF48-4843-4EAB-B6BF-12D437EA3700",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0848-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f8a61b4d5fc75543ab2087fc8c458170e51475e9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54543$18265A3D-5359-45D0-A333-EBE272F6F2EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45603478"
+          },
+          "hash": "9b5b5e4f8c6cde4bef14e191f0360d8f222cdc4b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q54543$25E8FEDB-F294-4747-8A49-757DC5285C07",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074739317997"
+          },
+          "hash": "04b80d7356e06cc7519ac591e53cc67f895f422d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54543$8A8750C8-EF0F-45F7-A13C-54F08F3A6674",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Fang Arms.svg"
+          },
+          "hash": "2c5d26186fba02a512e411e93af1e79c5afd10da",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 174448"
+    }
+  },
+  "id": "Q54543",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Fang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Fang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Fang"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李防"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Fang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李防"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李防"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李防"
+    }
+  },
+  "lastrevid": 17462096,
+  "modified": "2025-09-16T12:50:26Z",
+  "ns": 860,
+  "pageid": 69374,
+  "sitelinks": {},
+  "title": "Item:Q54543",
+  "type": "item"
+}

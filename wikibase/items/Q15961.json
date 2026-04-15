@@ -1,0 +1,243 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Haruyoshi Ogasawara"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15961$560D0B78-5478-4022-8721-E617275EE502",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16758",
+              "numeric-id": 16758
+            }
+          },
+          "hash": "990e32cf57ab545741ddd8085bbb2de7db561e3a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15961$F43D3B56-D1E6-4F9B-A259-1127E94F95EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26799",
+              "numeric-id": 26799
+            }
+          },
+          "hash": "ae1d0aac63a268c78c088b280c623f334011cf23",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15961$CCE838C1-8050-4662-A5A6-E12E5D3D8BB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26802",
+              "numeric-id": 26802
+            }
+          },
+          "hash": "8b03d6aad5eb1473a1471b9d298d1f7fbe6a86cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15961$54586150-45BF-4074-A38A-C35D35A829D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15961$93CB72A6-F7D0-48E3-A2A3-9941B32E9E9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15961$3B022BFA-5BCA-4483-AF88-C0EA9F160C36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26796",
+              "numeric-id": 26796
+            }
+          },
+          "hash": "beeb4c61125f93c6f765d0f4d0a93d67e83b97bf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15961$51DBCC17-27FD-46DC-8A17-A1E9B6F133A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15961$C33FD55F-EE89-4CF6-8D08-57BD7FF27D8D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1572-06-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18e68d8f79148ddce255b4cdc7177da711b229e7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15961$57F90F4C-15E2-4934-8A94-68718948F4B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20039169"
+          },
+          "hash": "a4342b463d84721b68cc75bffcc486ea192dff9d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15961$567AF9DE-D216-44BD-8A02-A783A39C41D4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haruyoshi Ogasawara Arms.svg"
+          },
+          "hash": "8f38aa4bd747e59dfe8e1782bec06a26a947db3f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将。左京太夫。子に福島綱氏（福島基綱の養子）。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q15961",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haruyoshi Ogasawara"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小笠原春義"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Haruyoshi Ogasawara"
+    }
+  },
+  "lastrevid": 17415590,
+  "modified": "2025-09-16T00:25:26Z",
+  "ns": 860,
+  "pageid": 38235,
+  "sitelinks": {},
+  "title": "Item:Q15961",
+  "type": "item"
+}

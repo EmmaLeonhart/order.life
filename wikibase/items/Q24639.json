@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wakebe Nobuaki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24639$4319C449-467C-4C79-8648-E63B7EA74ECA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24639$DF2239DF-5BF4-4D4D-93A7-26A673D7FCD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24639$33B82809-BB1E-4316-ADA8-473D1BDCCC5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22404",
+              "numeric-id": 22404
+            }
+          },
+          "hash": "6c7a90a19681ac345e629ac5149d07e18d3e3fea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24639$B3756CE9-5E03-4EE0-BC13-65A6CFCCC42F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24639$7F977D8F-AF1D-4F85-B407-4A3DD516B6CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1675-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "83821e6e8f0f58ba6c52f8b6cfb2232fd07e6cc8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24639$6411D6C2-4ABB-44F8-A595-6FDDF9795F9D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1696-10-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "80195c0722cacf4080cd80ccfe1210a8d361004b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24639$8CC0DF84-0FD1-4A7D-9885-B30BC286965F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11396146"
+          },
+          "hash": "51105e06ad29ffd995c05da976c18137a7a0c95d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24639$7913E3BA-47B7-4762-90FA-D19229103B4A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wakebe Nobuaki Arms.svg"
+          },
+          "hash": "8048a7727d29f7f4daed8e48e5d18fb09f4896ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期～中期の武士"
+    }
+  },
+  "id": "Q24639",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wakebe Nobuaki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "分部信秋"
+    }
+  },
+  "lastrevid": 17423578,
+  "modified": "2025-09-16T03:28:03Z",
+  "ns": 860,
+  "pageid": 46424,
+  "sitelinks": {},
+  "title": "Item:Q24639",
+  "type": "item"
+}

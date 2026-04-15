@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Changsun Yuanshi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q45341$DFC872D1-AAD4-4B89-A484-9DE2E7F06F5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53850",
+              "numeric-id": 53850
+            }
+          },
+          "hash": "210b2f35ea1b0f17f9e3fec1d37b617e90ea2103",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45341$2CCE39AA-B0C9-488C-9A65-430A54FE1B3B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53854",
+              "numeric-id": 53854
+            }
+          },
+          "hash": "4795322368de07227f8b303c712afaccb4bd4a17",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45341$59302C34-CF9E-4BCE-A944-9DC0EA545AF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45341$6E7FCBE9-7227-44BF-B7F2-E16A05E36444",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45341$5EC9808F-E630-4D13-A9C7-3847A6757EC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40604",
+              "numeric-id": 40604
+            }
+          },
+          "hash": "ec8d6f1117fda9bb01eb979361f8abd32081fb5e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45341$11BED99D-09FF-47C1-BF08-C0CAA83137DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45341$45471ED7-5640-417D-9535-91CAB3A48247",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0757-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1c3e2f1233c74ced42ddb272de824100c70c7002",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45341$846E990F-C59D-4BF6-AAC3-85D13682F26A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45673551"
+          },
+          "hash": "bd892b6bf6cb262469a9e449324b3c834b3cc376",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45341$256BF1CE-E377-44B5-BF51-844022B7285F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Changsun Yuanshi Arms.svg"
+          },
+          "hash": "c4199c964462f0e0ab54500dd6dfc1bb93fec6c5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 191871"
+    }
+  },
+  "id": "Q45341",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Changsun Yuanshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Changsun Yuanshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Changsun Yuanshi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "長孫元適"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Changsun Yuanshi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "長孫元適"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "长孙元适"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "長孫元適"
+    }
+  },
+  "lastrevid": 17449784,
+  "modified": "2025-09-16T09:50:49Z",
+  "ns": 860,
+  "pageid": 61688,
+  "sitelinks": {},
+  "title": "Item:Q45341",
+  "type": "item"
+}

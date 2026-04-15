@@ -1,0 +1,503 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Hanazono"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q13797$44265288-B23F-46FF-B661-476E3EEEB76C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719914"
+          },
+          "hash": "d9e0798a52c6e2afe4b1587d167b36f2871589f2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q13797$86BB788E-8443-4D09-87C5-346118578CAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14344",
+              "numeric-id": 14344
+            }
+          },
+          "hash": "ab83959577206fd9a6e1c0cf46e44d402f7c763f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13797$76C47192-6464-4332-856A-062172AC2431",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14345",
+              "numeric-id": 14345
+            }
+          },
+          "hash": "7ed14491aaa065ec6d6fdb101c37c545c4e28cf5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q13797$80709EA5-37A5-45C6-B9C4-FB1BC69FB511",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Hanazono-tennō_花園天皇-1"
+          },
+          "hash": "40c653b1c5e97bdacfc954f738ac3cc03c5745f9",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q13797$967ACFD1-02A7-4EF7-B9F3-D4F63F058209",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13797$8B63CC38-8804-4766-8EAE-765CF4D3F25B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13797$2FF70ABF-9BA2-4F96-9572-89BDD1A147A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13785",
+              "numeric-id": 13785
+            }
+          },
+          "hash": "6e6445aa747213d31cff19d39181e879cb13ae89",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13797$D0B2B13D-3DB7-4AF8-B0C2-DE3303283CEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13797$3AB2CC4C-08B8-4B9C-9E25-FBB3FF8396E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1297-08-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3ba249b03f3adbba63d5aa79feaac6f3ec563ce8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13797$EF590C7B-D72E-4D43-B0B2-84BC88F779CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1348-12-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bf10dbf2a36b7dac210b6fc785b753e8a34195c6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q13797$051818DB-6436-4F21-8A31-B9FFBCF632FF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Hanazono detail.jpg"
+          },
+          "hash": "08d4656a7813a24de663b58ce4254fa0ca47434e",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13797$2F86EE53-D374-4083-B11F-94DFCF802E43",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q440503"
+          },
+          "hash": "6dbd1e3faccb6d709f5c25d837a50e64f174aa60",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13797$62DB89EA-AC5D-4D6C-913E-2A73B5DAD1C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Hanazono Arms.svg"
+          },
+          "hash": "8ae7c42ae2809c8d714242514de351051b25732a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu xaponés (1297–1348)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "(1297-1348) 95è Emperador del Japó (1308-18)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "95. Tennō von Japan"
+    },
+    "en": {
+      "language": "en",
+      "value": "95th emperor of Japan (r. 1308–1318)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Jepang ke-95"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第95代天皇、伏見天皇の第四皇子"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński suweren"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "95-й японский император"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "95. cesar Japonske (vl. 1308–1318)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare av Japan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japonya'nın geleneksel veraset düzenine göre 95. imparatoru (1297 - 1348)"
+    }
+  },
+  "id": "Q13797",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور هانازونو"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "هانازونو (ایمپیراتور)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Hanazono"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hanazono"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر ھەنازۆنۆ"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hanazono"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hanazono"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Hanazono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Hanazono"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور هانازونو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hanazono"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hanazono"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Hanazono"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hanazono"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "花園天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하나조노 천황"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Hanazono Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hanazono"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hanazono"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Hanazono"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Hanazono"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Ханадзоно"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hanazono"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hanazono-tennō"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Hanazono wa Japani"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิฮะนะโซะโนะ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Hanazono"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Emperor Hanazono"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Ханадзоно"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Hanazono"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Hanazono"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "花園天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "花園天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "花园天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "花园天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "花園天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "花園天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "花园天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "花園天皇"
+    }
+  },
+  "lastrevid": 17414124,
+  "modified": "2025-09-16T00:05:16Z",
+  "ns": 860,
+  "pageid": 36112,
+  "sitelinks": {},
+  "title": "Item:Q13797",
+  "type": "item"
+}

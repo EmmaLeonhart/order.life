@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ruogan Hui"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q52997$392F05D4-F579-4208-9C22-DE44E893B4F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53001",
+              "numeric-id": 53001
+            }
+          },
+          "hash": "6ade4c7909a580e182f5ca850bb17c526adc6c77",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52997$0B516614-6A1C-4974-99F3-BAF67F1BE855",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44841",
+              "numeric-id": 44841
+            }
+          },
+          "hash": "b75c143916857b4e81d550a19eab14a4339a7890",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q52997$FB3B14B8-C363-4747-B080-F56C300F1312",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52997$C9D012F4-0125-4FE9-9FA2-47FC16EEBF90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q52997$052EF8CB-DDA3-4F47-9429-2A4FEC914DC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q52997$C95980DD-9D80-4A3D-A091-6B9CD5E3B467",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0547-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "39bcba77af50da59ebe490f2a4d32f2a7a0e2ed6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q52997$B002367A-05FD-4448-9F75-5AC7DD378869",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11616318"
+          },
+          "hash": "8c5a1da62ff3d8da087fd68b41d4283881ba3c21",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q52997$4C96B138-D982-4CD5-A33D-850798FAEA1C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ruogan Hui Arms.svg"
+          },
+          "hash": "eb3ac07dbb6b557fb14284ef16151addc40c8581",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Northern Wei noble"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "長樂武烈公"
+    }
+  },
+  "id": "Q52997",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ruogan Hui"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "若干恵"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "若干惠"
+    }
+  },
+  "lastrevid": 17459416,
+  "modified": "2025-09-16T12:11:12Z",
+  "ns": 860,
+  "pageid": 67828,
+  "sitelinks": {},
+  "title": "Item:Q52997",
+  "type": "item"
+}

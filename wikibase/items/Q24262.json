@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ogasawara Sadayori"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q24262$4E778B0B-8FD2-4B88-B79B-F4D36B253DB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "小笠原-50"
+          },
+          "hash": "4444d28742a159337232a0059d60823bbf944139",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24262$7A3CBD3E-507D-4C2A-AF55-7FE5F184182B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24262$E624DF68-ED55-426D-857A-C7B6BB3D4FE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24262$15666A21-AEA3-4306-8127-C69DFBFB03A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37996",
+              "numeric-id": 37996
+            }
+          },
+          "hash": "9498c745752f1ec122abb84461635005ebfcf181",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24262$2AE6F286-216D-4394-BC01-7B7DE800AECA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24262$CE6BF7A5-A5D9-4608-AC44-757C59E582A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1625-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4870b3c191105ec66a7fff4e1c4e31ebe5fd24e4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24262$CCD370FB-C7A5-4E61-9C6B-07452D780C69",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10856570"
+          },
+          "hash": "7765e32b766bcb8ac89f3b1e84afa223dd0c3d3b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24262$6C726BBC-FF2D-4C29-90F1-8A7554727F45",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ogasawara Sadayori Arms.svg"
+          },
+          "hash": "1de0e170272f932b4ced82c9905a743c61919c3f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese nobleman (d. 1625), sometimes mistakenly credited as the discoverer of the Bonins"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の武将 (-1625)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "japonski plemič (u. 1625); včasih ga zmotno štejejo za odkritelja otokov Bonin"
+    }
+  },
+  "id": "Q24262",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ogasawara Sadayori"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sadayori Ogasawara"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ogasawara Sadayori"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ogasawara Sadayori"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ogasawara Sadayori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小笠原貞頼"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ogasavara Sadajori"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ogasawara Sadayori"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ogasawara Sadayori"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "小笠原貞賴"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "小笠原貞賴"
+    }
+  },
+  "lastrevid": 17423246,
+  "modified": "2025-09-16T03:20:27Z",
+  "ns": 860,
+  "pageid": 46062,
+  "sitelinks": {},
+  "title": "Item:Q24262",
+  "type": "item"
+}

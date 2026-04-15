@@ -1,0 +1,322 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Esen Buqa I //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q49113$BD5F11AC-4EA0-4598-97F1-E8A05860839D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00361818"
+          },
+          "hash": "abe80952dbab4d98b70f64739d035d74f94ca91f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q49113$5C627644-D49F-44EE-AD25-D8DC79BE551A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53736",
+              "numeric-id": 53736
+            }
+          },
+          "hash": "8551c1da17b51dffe51dd0f6117d93235d55c2d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49113$B5147A46-C575-4133-978E-977AEB0CED29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49113$903E5BD7-A89B-427C-9602-8C74A6A3393B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49113$07E5E4F4-F263-4F08-A367-A76D02D76005",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45760",
+              "numeric-id": 45760
+            }
+          },
+          "hash": "db46689de2326264ccfe49b14047e17f90d646b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49113$3D14AC4E-2ADC-483C-8E35-22E42C1942A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49113$49B48F02-57BA-4ED1-A631-F71FEBD209FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49113$29328002-3B51-4CF0-999D-8180E46DEA09",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1318-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f77e013274570a736150724b6d34b110cd723477",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49113$5A6E9172-8CD4-46B8-83F9-103575B783E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1150746"
+          },
+          "hash": "2c976e11949631f40a8b217220e3262c3e310316",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49113$7055F46E-7570-4D64-BCAC-1114C16428F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Esen Buqa I Arms.svg"
+          },
+          "hash": "0436a9393fabec1168b59652e032bd475109b89f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Khan of the Chagatai Khanate from 1310 to 1318"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Çağatay hanı (1310-1318)"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Chigʻatoy ulusi xonlaridan biri"
+    }
+  },
+  "id": "Q49113",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yexianbuhua"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Esen Buka I"
+    },
+    "en": {
+      "language": "en",
+      "value": "Esen Buqa I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Esen Buqa I"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اسن بوقای اول"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Esen Buqa Ier"
+    },
+    "it": {
+      "language": "it",
+      "value": "Esen Buka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エセン・ブカ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "에센부카 칸"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "也先不花"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Эсэнбөх"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Esen Buqa I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Esen Buka"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эсен-Бука"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Esen Buğra"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Есен-Бука"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Esanbuqa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "也先不花"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "也先不花"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "也先不花"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "也先不花"
+    }
+  },
+  "lastrevid": 17454792,
+  "modified": "2025-09-16T11:02:52Z",
+  "ns": 860,
+  "pageid": 64504,
+  "sitelinks": {},
+  "title": "Item:Q49113",
+  "type": "item"
+}

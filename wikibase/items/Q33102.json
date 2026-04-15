@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Muneyasu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q33102$B6B8A3EE-6104-4260-B451-326290FD5E17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33102$C7CDF726-A408-4308-8F7A-BBB61B53A82D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q33102$87C58CD2-3A55-4189-9986-D393F5D843F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29478",
+              "numeric-id": 29478
+            }
+          },
+          "hash": "219cb7d183a44ef0ae54cc5d5a976a4255fe7c85",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33102$DA9EA382-AC54-494F-9824-2BA4DE56A6BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33102$6E87E3C6-AFA9-4713-9EAE-F085A72CDA69",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1673-05-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16474577906d25fa350d787656a6ccce2cb8ce73",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q33102$22E260DC-C76A-4966-9491-A26E7B39C475",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1693-10-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0d0a4daf17565091c8dbd4e3a8bea9b889236778",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33102$59B94A39-B696-41F6-A543-4C95B4DBEF1E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11380701"
+          },
+          "hash": "647d2ecc06a8e8c03d96d4710b7b79c5109017d2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q33102$3DBC8E99-FB09-42FA-AC52-742EA07E07BE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Muneyasu Arms.svg"
+          },
+          "hash": "8d76c01f735549c5dd7503785c5932e976626822",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q33102",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Muneyasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達宗保"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мунэясу Датэ"
+    }
+  },
+  "lastrevid": 17433702,
+  "modified": "2025-09-16T05:57:46Z",
+  "ns": 860,
+  "pageid": 52538,
+  "sitelinks": {},
+  "title": "Item:Q33102",
+  "type": "item"
+}

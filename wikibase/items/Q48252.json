@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Nobuyasu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q48252$2FAEFADE-90A8-45E6-A8EB-AE5D4EFC25CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41859",
+              "numeric-id": 41859
+            }
+          },
+          "hash": "b07ec7765540527df776ea3c3e65ad5b15230420",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48252$857656C6-D748-4888-9711-8DAA1308EF3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56658",
+              "numeric-id": 56658
+            }
+          },
+          "hash": "f4c03880a23ad349211f1002187031728d5710a9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48252$815FE630-645E-4546-9C4A-DD2897100FDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56655",
+              "numeric-id": 56655
+            }
+          },
+          "hash": "5ef7a69f8510e2c2d19009c8028c2301143e432b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q48252$E2020DED-BD8C-49FE-8E64-FA6BD97479F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-69"
+          },
+          "hash": "7f20e5a96d58a71d0af953a047e76f27428e4efb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q48252$6FC0663C-8AB6-4304-B37B-4EB363DE3CFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48252$53300FEC-0240-42F4-AA42-4AB901CF5313",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q48252$14ECC66B-E791-4EA8-B1E4-CEAF648A8EC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56652",
+              "numeric-id": 56652
+            }
+          },
+          "hash": "41f9d9d054b31b1f63481179e330f7bd27807103",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48252$6E25620F-7562-4B80-977A-174443A0F753",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48252$A21BE756-4DE2-47E9-A7F7-DBB358A7640C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1678-10-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "102aab0a8648430354518890f0222c1432a7d0d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48252$62D4C352-9D36-49BC-9B89-DFD9C9F59CE6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1723-01-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2fd8a4a3488468c794f6d69fec9eaa7788279236",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48252$546077CB-DF8F-4460-AFB6-3B7FFB3BC482",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608261"
+          },
+          "hash": "65205a618da825fe6a495b5174950cd9c0346daf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48252$DA6192C2-FA8C-4790-B6DF-2BD3A099B318",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Nobuyasu Arms.svg"
+          },
+          "hash": "078ed557b82be16a443b09a00017f84f4845379f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "2 Oct 1678 - 5 Jan 1723"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期～中期の大名。大和宇陀松山藩4代藩主織田信武長男で、宇陀松山藩5代藩主→丹波柏原藩初代藩主（高長流織田氏4代当主）。従五位下壱岐守・山城守・近江守"
+    }
+  },
+  "id": "Q48252",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Oda Nobuyasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田信休"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오다 노부야스"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нобуясу Ода"
+    }
+  },
+  "lastrevid": 17453624,
+  "modified": "2025-09-16T10:46:09Z",
+  "ns": 860,
+  "pageid": 63861,
+  "sitelinks": {},
+  "title": "Item:Q48252",
+  "type": "item"
+}

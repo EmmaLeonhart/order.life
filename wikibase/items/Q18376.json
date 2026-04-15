@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Koide Fusayasu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18376$CD1BB20C-6697-4761-9A4E-029A3DF52A31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18376$F608E577-6A9D-4583-8554-F60CABFAE29A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18376$1F76A0DA-DCBA-497A-8235-C9FABB5DEDAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17011",
+              "numeric-id": 17011
+            }
+          },
+          "hash": "bc8aa907c467dc4af090497acc0402ca282864de",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18376$2B6FB758-7091-4307-8C6C-C93CE3F2C463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18376$016B5DA2-7D43-43C4-A00A-6E3E55216074",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1637-06-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c9e73d0644c1b9dafff450044b8c299cc93aa94",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18376$459494B8-EFC0-4D89-AF5B-44DE01FADC85",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1692-02-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5ef4c9c3b8ab3e1b26f4936160179512de8acf63",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18376$0539C465-9634-4E0B-AF7F-18636C7670CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11459129"
+          },
+          "hash": "c8a4984878f2faf16945378ef7ba81882669c41e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18376$05BBEB6A-D568-459D-B56F-08ED7A106F55",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Koide Fusayasu Arms.svg"
+          },
+          "hash": "8e9fc9af8f12235f01f93e6b648518d4f9f90eb6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q18376",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Koide Fusayasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小出英安"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фусаясу Коидэ"
+    }
+  },
+  "lastrevid": 17417744,
+  "modified": "2025-09-16T01:14:13Z",
+  "ns": 860,
+  "pageid": 40569,
+  "sitelinks": {},
+  "title": "Item:Q18376",
+  "type": "item"
+}

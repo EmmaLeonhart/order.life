@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Synadenos //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q49386$4FF66333-392D-4A00-91B5-5C04FB5C3C1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49386$E15C3491-7B8A-4687-B1ED-68F4310648C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49386$5E420402-DD42-40A0-AEBD-C4DE5A563156",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49378",
+              "numeric-id": 49378
+            }
+          },
+          "hash": "2c10940ecd1bd2794969f96b583defdac4c2c773",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q49386$4F5850DE-3904-43D4-BC1E-B2F1EE346307",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45929",
+              "numeric-id": 45929
+            }
+          },
+          "hash": "d3df25b9566318296c64d7e5f401cf1e100c0d31",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49386$EC81744F-FC6D-43C3-96B3-CD2E97EE4BA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49386$32CC63E8-16CF-4F80-BBE0-2C5D817723D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49386$2A4A94E0-3A10-458A-96C3-2E8E7ADDC3A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1400-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f4ce5a0f7bb9a8772ba33839c686f7dc8fd7052e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49386$89A41E5F-DDBB-47DF-86BE-56F0E89634B4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q862406"
+          },
+          "hash": "71139a1cf2cf2f00baa0cccde8e6997da09255e5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49386$21FA6FBE-398A-4765-9635-EF8A2CEA6371",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Synadenos Arms.svg"
+          },
+          "hash": "80dfa47af2f7df11064c2e0cc0d696e5d379cbfb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of the above, Byzantine nobleman and general"
+    },
+    "it": {
+      "language": "it",
+      "value": "Generale e nobile bizantino"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair leider uit Byzantijnse Rijk (-)"
+    }
+  },
+  "id": "Q49386",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Комнин Дука Палеолог Синадин"
+    },
+    "de": {
+      "language": "de",
+      "value": "John Synadenos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Κομνηνός Δούκας Παλαιολόγος Συναδηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Synadenos"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "John Synadenos"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "John Synadenos"
+    },
+    "es": {
+      "language": "es",
+      "value": "John Synadenos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni Sinadeno"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Synadenos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João Sinadeno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João Sinadeno"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John Synadenos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Комнин Дука Палеолог Синадин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іван Синадин"
+    }
+  },
+  "lastrevid": 17455156,
+  "modified": "2025-09-16T11:08:04Z",
+  "ns": 860,
+  "pageid": 64708,
+  "sitelinks": {},
+  "title": "Item:Q49386",
+  "type": "item"
+}

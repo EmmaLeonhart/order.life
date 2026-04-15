@@ -1,0 +1,175 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Q24836655"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q19410$F756C64E-DE34-4F7C-9AE4-1E75FF05B2A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19410$6F3D4B00-9F76-48C8-B587-7F184922EB8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19410$09930D68-4B05-4D82-B56C-C8C9E6AC359B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19408",
+              "numeric-id": 19408
+            }
+          },
+          "hash": "e3b6963e9539e75cf5069df6a3527d23c950fec2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19410$CB3F4096-428A-417A-B69F-102B670400AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19410$B0313EF7-2DC4-4137-AF9B-495D3957AE7B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19410$A208B424-24E3-420E-87E1-3173511C0D44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24836655"
+          },
+          "hash": "2ffab48312edcecb877f855f3a0bf018acb63b0e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19410$D84AA422-12C8-4F7A-AF66-640442416D44",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Doan Xac Arms.svg"
+          },
+          "hash": "df3b8c7e6160389e5d44647db6e39e7063f179fb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q19410",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Doan Xac"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Đoạn Xác"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "段确"
+    }
+  },
+  "lastrevid": 17418694,
+  "modified": "2025-09-16T01:35:28Z",
+  "ns": 860,
+  "pageid": 41541,
+  "sitelinks": {},
+  "title": "Item:Q19410",
+  "type": "item"
+}

@@ -1,0 +1,531 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ghazan //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q40996$16F88322-D6C0-4B24-96E8-495B6AF0AE72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "279686"
+          },
+          "hash": "09cab077c4a18dc33eea60b011e41a7ea7ae5a7d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q40996$30B4636D-ACD7-4002-A58C-FCD391A1CB36",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00299616"
+          },
+          "hash": "14302942c5139050c49e70063e05e8c0029bf0a9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q40996$ADA41856-06F0-4743-A6D0-E8C299744B3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40996$A926D679-D623-4570-994C-EA3C767D3071",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q40996$39D59566-16E6-4F7B-BC34-F89047E0509B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43338",
+              "numeric-id": 43338
+            }
+          },
+          "hash": "56bb680b333d23715a16b615c76230b288047f9a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q40996$33ED5347-09BC-4485-8E3E-B0B5EB47393E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39114",
+              "numeric-id": 39114
+            }
+          },
+          "hash": "61caf13c50ff111480ef811a387477ff31cfca5e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q40996$C749195B-E5A0-40E0-983B-46A4DCD8D2E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q40996$A8DC5C2A-488B-43F2-B273-4078E0209227",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1271-11-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9fde83693b2166e135365b13271ff9f3255a4348",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q40996$1835554A-B025-4A90-88AB-A93D2292C5EB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1304-05-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "89ca782f17bdc9ac4741530966c901399af18252",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q40996$0315F56C-8273-4C7B-A617-B0431553745B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q334496"
+          },
+          "hash": "7ec23ed5b019fc643ba068a146bf54d352629615",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q40996$85C0C162-4371-49A9-84BC-F288EBB354C5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ghazan Arms.svg"
+          },
+          "hash": "e88dd3e0e5e661a91b548f16de12533f2390aad0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "حاكم الالخانية المغولية من 1295 إلى 1304"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "soberanu mongol (1271–1304)"
+    },
+    "de": {
+      "language": "de",
+      "value": "mongolischer Ilchan von Persien"
+    },
+    "en": {
+      "language": "en",
+      "value": "the seventh Ilkhan of Mongol Ilkhanate (1295–1304)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هفتمین ایلخان ایلخانان مغول (۱۲۹۵–۱۳۰۴)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "ilkhan mongol de la Perse, fin XIIIe - début du XIVe siècle"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "rialtóir Mongólach"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मंगोल साम्राज्य के इल्खानेट डिवीजन के सातवें शासक"
+    },
+    "it": {
+      "language": "it",
+      "value": "ilkhan mongolo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "イルハン朝の第7代君主 (1271-1304)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Mongolië (1271-1304)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "1295-1304 yılları arasında Moğol İlhanlı'nın hükümdarı"
+    }
+  },
+  "id": "Q40996",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "محمود غازان"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "محمود غازان"
+    },
+    "az": {
+      "language": "az",
+      "value": "Sultan Mahmud Qazan xan"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "غازان خان"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "মাহমুদ গাজান"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mahmud Ghazan"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "غەزان خان"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ghazan Ilchan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ghazan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ghazan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ghazan"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "غازان خان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mahmoud Ghazan Khan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ghazan"
+    },
+    "he": {
+      "language": "he",
+      "value": "מחמוד ע'אזאן"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "महमूद गाज़ान"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Gazan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gázán ilhán"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ghazan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ghazan Khan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ガザン・ハン"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ყაზან-ყაენი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Газан хан"
+    },
+    "kk-arab": {
+      "language": "kk-arab",
+      "value": "گازان حان"
+    },
+    "kk-cn": {
+      "language": "kk-cn",
+      "value": "گازان حان"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Газан хан"
+    },
+    "kk-kz": {
+      "language": "kk-kz",
+      "value": "Газан хан"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Gazan xan"
+    },
+    "kk-tr": {
+      "language": "kk-tr",
+      "value": "Gazan xan"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "가잔 칸"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Газан-хан Махмуд"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Machmudas Gazanas"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "合贊"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Газан"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Ghazan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ghazan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mahmud Ghazan"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "غازان خان"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mahmud Ghazan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mahmud Ghazan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Газан-хан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gazan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gazan"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Газан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mahmud Ghazan"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கசன் (மன்னன்)"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ғозонхон"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Ghazan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mahmud Gazan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Газан-хан"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "غازان خان"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Gʻozonxon"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hợp Tán"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "合贊"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "合赞"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "合赞"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "合贊"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "合贊"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "合赞"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "合贊"
+    }
+  },
+  "lastrevid": 17444382,
+  "modified": "2025-09-16T08:31:49Z",
+  "ns": 860,
+  "pageid": 58435,
+  "sitelinks": {},
+  "title": "Item:Q40996",
+  "type": "item"
+}

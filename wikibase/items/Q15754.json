@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Uesugi Norimoto"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15754$7291273D-5776-461F-8F11-B453D41D4296",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15754$76B61980-C2DB-49B8-9AA2-80A8C5164197",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15754$5FBBC2CD-8AA1-4A64-A352-D416497E434C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15285",
+              "numeric-id": 15285
+            }
+          },
+          "hash": "b461d444b4ff6111358015455ff1d4affa04ef64",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15754$F258ABA7-0363-4B6D-992E-DEB063D927A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15754$59486FFA-26D7-41E7-8666-36BC39543631",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1392-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "628bf1f4f2e27ef2f57d6dc39884a5dc1c101500",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15754$CD002BD6-FEA2-4EFF-A4EE-EA645EA5041E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1418-02-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0aa6216b5705bd145327fefd740d06fd7be2c16d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15754$8860E6BB-CB25-413D-9173-427DFC56E76E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11359169"
+          },
+          "hash": "ac7899f22786f06c973a5a7099a8eb76bb925d93",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15754$B70A439E-36D3-42FC-B76C-5CFF83FE8BE8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Uesugi Norimoto Arms.svg"
+          },
+          "hash": "7b8ecdeb55204591ad6975b229aae6e0311f9c5a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代中期の武士・守護大名。室町幕府 関東管領、上野・伊豆守護。山内上杉家7代。安房守、右京亮"
+    }
+  },
+  "id": "Q15754",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Uesugi Norimoto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "上杉憲基"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Норимото Уэсуги"
+    }
+  },
+  "lastrevid": 17415428,
+  "modified": "2025-09-16T00:23:11Z",
+  "ns": 860,
+  "pageid": 38036,
+  "sitelinks": {},
+  "title": "Item:Q15754",
+  "type": "item"
+}

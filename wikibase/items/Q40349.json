@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xu Yanjing //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q40349$8580F84E-C4C7-49A6-82FD-E227B99EAC48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40349$9C76FFFB-2C78-4D03-BB35-D43AA20DAB4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q40349$EDACA766-F672-4230-A464-B2BCBB130BD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38512",
+              "numeric-id": 38512
+            }
+          },
+          "hash": "a3300923e153c3f63bbaa70bf86435cac9a9f018",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q40349$CD2B69DB-4AD0-4273-AAE3-4598990417E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q40349$9B1E645C-CB0B-476B-9E8F-0E1BDDCB9C6E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1805-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bf0c9645ff00512d46e37e72349914c92bd025c6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q40349$71C0EBD7-CD4B-443A-8469-C816534EE65F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1834-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "545506d17a448a460148237185767d131671ad88",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q40349$E368DCB7-171A-4806-B278-A7CA74BEDE25",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45416509"
+          },
+          "hash": "b0219fdc72803e7674cb59287fd6fc030d46640c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q40349$702300DE-7D81-4398-BDE8-E103320CB9BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074792937893"
+          },
+          "hash": "cbeb45f5bf08e50c6a1b95435480b61c3893d47d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q40349$22BC75AA-B443-460C-B494-CF96C1B2B871",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xu Yanjing Arms.svg"
+          },
+          "hash": "a232a572de3ea64f1b4fad0581d5274016b4d2f3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Qing dynasty person CBDB = 29725"
+    }
+  },
+  "id": "Q40349",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xu Yanjing"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xu Yanjing"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xu Yanjing"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "許延敬"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xu Yanjing"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "許延敬"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "许延敬"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "許延敬"
+    }
+  },
+  "lastrevid": 17443428,
+  "modified": "2025-09-16T08:18:25Z",
+  "ns": 860,
+  "pageid": 57952,
+  "sitelinks": {},
+  "title": "Item:Q40349",
+  "type": "item"
+}

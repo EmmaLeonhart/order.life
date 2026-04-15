@@ -1,0 +1,195 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ni Zi Xin An"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q29338$B56485DD-82CC-415B-87D2-7E3C38E64457",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16822",
+              "numeric-id": 16822
+            }
+          },
+          "hash": "3ffc12cac6e0b4373e3a09fdbb8dc56c1e317e69",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29338$E3B11959-4932-4E94-9D87-88CD6F2F58AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32934",
+              "numeric-id": 32934
+            }
+          },
+          "hash": "3544999e213fa21014b773074671501cd484656f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q29338$7BE54834-70C1-4C85-AEEF-9E4ADED48DE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29338$36108995-CD6C-40BB-BD91-F693DA003E70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q29338$FB6AADD7-1146-41A4-B3CE-7634D7379425",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18148",
+              "numeric-id": 18148
+            }
+          },
+          "hash": "45f0bc6b8255422a9b69ee28c8e0f37050362bf1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29338$EBF4D380-BAA9-495F-A564-A3E84CF1F688",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29338$07DB464A-6559-4B89-A189-2B0A884CB28B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5517e7fa629916f09c9b2d2aa43301814f6098a0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29338$90C48B3E-4126-4653-A445-C9C465685205",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109776058"
+          },
+          "hash": "6632b8011bc6f5d8605e612ea8877aa0604ab5f0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "浅井亮政の側室"
+    }
+  },
+  "id": "Q29338",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "尼子馨庵"
+    }
+  },
+  "lastrevid": 17428728,
+  "modified": "2025-09-16T04:45:40Z",
+  "ns": 860,
+  "pageid": 49722,
+  "sitelinks": {},
+  "title": "Item:Q29338",
+  "type": "item"
+}

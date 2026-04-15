@@ -1,0 +1,427 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince Kusakabe"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7301$05197F3A-1D95-4E0D-8D2B-599EC12E7FD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719961"
+          },
+          "hash": "02b5dd006641227bbaa7159c5604f517f0572b06",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7301$DA7AB0B4-2243-480F-B63F-450D97949036",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7370",
+              "numeric-id": 7370
+            }
+          },
+          "hash": "c48a4227e5a1ece3b64ff3fa933f31440500c167",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7301$27ADFEE8-FD30-4834-B9CD-CD5D194AFB84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7301$E4D4BAAA-A8BA-45FC-9CD4-93FA5B72BA54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7301$30250E97-F03D-427E-8672-3411D557459E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7283",
+              "numeric-id": 7283
+            }
+          },
+          "hash": "fee77b40396ca225819e73f5b2392044091e093b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7301$4FC3365D-DFB4-41A0-8AEE-5A09CEC1D8E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7231",
+              "numeric-id": 7231
+            }
+          },
+          "hash": "46b1f6cd479bcbcee3ebd6ae8d67e9221a5d1cb1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7301$15045CA1-F758-4010-8C70-31F016FBCD74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7301$847BCC5E-6F3F-476C-AA50-F8360ED2F069",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0662-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f653686b27ba047e60ca0c8322614fc567e6142",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7301$1E20054B-23C7-4AC6-9DDC-B00FE1E08433",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0689-05-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c6027c442d5001107055f1222309614de023acb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7301$EC112248-103D-4153-82B9-02B69873AD6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1046438"
+          },
+          "hash": "412a8acab1de9287817834a0a75ea59399c5a5f0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7301$F6CBC6C1-E766-4B2B-9227-CD308A823CC0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince Kusakabe Arms.svg"
+          },
+          "hash": "cc8ea359c02d604afbb57032e937c8142946ef00",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "poeta xaponés (662–689)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "príncep japonès"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Dichter"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese prince"
+    },
+    "es": {
+      "language": "es",
+      "value": "poeta japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "jaapani luuletaja"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "poeta japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poète japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "prionsa Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poeta xaponés"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "japán császári herceg"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の皇族"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 황족"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichter (662-689)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "poeta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poeta japonês"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระราชโอรสในจักรพรรดิเท็มมุ"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hoàng tử Kusakabe"
+    }
+  },
+  "id": "Q7301",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Príncep Kusakabe"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Y tywysog Kusakabe"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince Kusakabe"
+    },
+    "es": {
+      "language": "es",
+      "value": "Prince Kusakabe"
+    },
+    "et": {
+      "language": "et",
+      "value": "prints Kusakabe"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهزاده کوساکابه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kusakabe"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Prince Kusakabe"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kuszakabe"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pangeran Kusakabe"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kusakabe"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "草壁皇子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "구사카베 황자"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kusakabe"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Kusakabe"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кусакабэ-но-мико"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Princ Kusakabe"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Prince Kusakabe"
+    },
+    "th": {
+      "language": "th",
+      "value": "เจ้าชายคุซะกะเบะ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Prens Kusakabe"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Kusakabe"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "草壁皇子"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "草壁皇子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "草壁皇子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "草壁皇子"
+    }
+  },
+  "lastrevid": 17407267,
+  "modified": "2025-09-15T22:32:50Z",
+  "ns": 860,
+  "pageid": 29795,
+  "sitelinks": {},
+  "title": "Item:Q7301",
+  "type": "item"
+}

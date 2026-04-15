@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Katusteru Yamauchi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21946$4308BD0D-4F37-4B05-AE73-A2C109475DA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21946$29D60359-6861-4018-BEF4-6D05599ED434",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21946$6166EB75-495E-42CB-BC62-5EECCDB1D51F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20010",
+              "numeric-id": 20010
+            }
+          },
+          "hash": "6ea605935b9d5b0de81e81f3e3dbf888ad5a85a1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21946$DE88433F-9B7D-4D9B-BE52-4C7E0E211E09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21946$C45E4C9C-3763-4E63-AD90-98E96EFC0853",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1638-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "66838ff5c11ca7f0c0a40d7848823f1eb64cfcc9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21946$4971C456-85D0-4754-91FB-8E6538CEEF52",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1664-11-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e0bbbf6cefc1899cacf5d4957be18a7335ad62dd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21946$E2F7888F-3B9C-4CCB-9E0C-C6C1167B519C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11466349"
+          },
+          "hash": "64595afa0aa6564deaa519842242848941d64a7c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21946$648060AF-059D-4687-A8F7-1439B8D34F16",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Katusteru Yamauchi Arms.svg"
+          },
+          "hash": "161a1bf81f3b255a530b739f886773359209ed19",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の武士"
+    }
+  },
+  "id": "Q21946",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Katusteru Yamauchi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "山内一輝"
+    }
+  },
+  "lastrevid": 17420924,
+  "modified": "2025-09-16T02:31:44Z",
+  "ns": 860,
+  "pageid": 43957,
+  "sitelinks": {},
+  "title": "Item:Q21946",
+  "type": "item"
+}

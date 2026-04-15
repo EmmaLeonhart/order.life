@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sasaki Moritsuna"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q12206$3402B519-9CB4-4B8E-BB79-CEC5ED1B5943",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12206$14EE440F-B06C-48EF-8F7B-E06AF70A65FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12206$89AC7777-8180-435B-B27B-1B859DE62EA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11372",
+              "numeric-id": 11372
+            }
+          },
+          "hash": "b8bb825ea61080549b74722723a8a8768f109577",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12206$07096E32-6758-411A-A7F7-75E073A36B63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12206$2451B612-F90F-4A1B-876B-B464193D77F3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1151-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "732eaa8a1272a0df1c5961d0757e8aebf14be0a7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q12206$5E5AD3DE-D825-40FD-A4CB-DE11BA68A19D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sasakimoritsuna.jpg"
+          },
+          "hash": "86ce1798f3a798abe88b2695d96ce3fc32907dc6",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12206$0C7E0E89-10D9-4282-B861-DD55198336A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11382335"
+          },
+          "hash": "886103c8c354ca4fece6e9d8b9e55e0469f1e1ea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12206$99AEF0F8-052D-41F1-A29D-95D9FB06BA6C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sasaki Moritsuna Arms.svg"
+          },
+          "hash": "5cbcde2b9127752b25d5367eadaa22074a68b9d1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Commander during the Genpei Wars"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期から鎌倉時代初期の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q12206",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sasaki Moritsuna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sasaki Moritsuna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sasaki Moritsuna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sasaki Moritsuna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "佐々木盛綱"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sasaki Moritsuna"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sasaki Moritsuna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Морицуна Сасаки"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sasaki Moritsuna"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sasaki Moritsuna"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "佐佐木盛綱"
+    }
+  },
+  "lastrevid": 17413384,
+  "modified": "2025-09-15T23:54:52Z",
+  "ns": 860,
+  "pageid": 34551,
+  "sitelinks": {},
+  "title": "Item:Q12206",
+  "type": "item"
+}

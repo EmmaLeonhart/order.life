@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Sadao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q8227$E059970D-4F97-420C-B257-EA340335563E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8502",
+              "numeric-id": 8502
+            }
+          },
+          "hash": "a803a093d2f0c419ff8c7b616b3e5de00b386d70",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8227$FB3DCA18-33B3-436F-AD58-79DF4FDD601D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8227$BE032337-CCA8-46D4-85B1-89F79959E48D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q8227$0C32E526-666B-4FC7-AE0F-0CE6E5A9BF6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8451",
+              "numeric-id": 8451
+            }
+          },
+          "hash": "5ccf7fd60dc11e846a5ecb065245438623821256",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8227$0321592B-3CCC-4C79-B50F-5841706A3996",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7923",
+              "numeric-id": 7923
+            }
+          },
+          "hash": "1ac7b082f024b86c08879e4a56f8d792bc0b926f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8227$32F54970-F30E-4007-BFCC-ED3173142A9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8227$1E16706C-B6B1-423C-8A54-FE7DDACE32EB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a369388e76afd2a6ed34fd33d6f4a6fd120c3e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8227$8AE56CF6-9D49-486A-84CC-60C75E6B0B5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623565"
+          },
+          "hash": "ee7496cd049de2c0567616e5320c2dbea24cbbe7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese aristocrat from the early Heian period"
+    }
+  },
+  "id": "Q8227",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Sadao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原貞雄"
+    }
+  },
+  "lastrevid": 17408386,
+  "modified": "2025-09-15T22:46:46Z",
+  "ns": 860,
+  "pageid": 30716,
+  "sitelinks": {},
+  "title": "Item:Q8227",
+  "type": "item"
+}

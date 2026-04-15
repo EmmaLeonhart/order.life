@@ -1,0 +1,147 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Okamoto Bokusai"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q50805$319945C9-568E-4F98-A686-EA77D8BA9D0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43591",
+              "numeric-id": 43591
+            }
+          },
+          "hash": "123da38fc6278fecde8e287e0b1f667f4fccfbb6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50805$019E1E76-113C-4D8A-AE0B-8A21C967FB4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50805$EFF29230-A53F-4462-916A-5D29D40BD762",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50805$272B14AF-9E6F-493B-A395-938363209893",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50805$69586C4A-D577-42F0-BF19-06869FE0498C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q119380334"
+          },
+          "hash": "734de2845d52696a04414f6e7c67391f6f5d2075",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50805$5B091E2A-85AE-4FD5-A661-47A656BE02BD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Okamoto Bokusai Arms.svg"
+          },
+          "hash": "80b2c89a4b0e6e2c3afcfee3e65662122dd1aa14",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q50805",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Okamoto Bokusai"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "岡本牧西"
+    }
+  },
+  "lastrevid": 17457090,
+  "modified": "2025-09-16T11:36:31Z",
+  "ns": 860,
+  "pageid": 65770,
+  "sitelinks": {},
+  "title": "Item:Q50805",
+  "type": "item"
+}

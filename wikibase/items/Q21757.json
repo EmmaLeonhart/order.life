@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shibata Katsutoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21757$B1C79C2D-EE79-40C1-8A89-3EB067D2B787",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21757$4A6FB5AF-584F-4F62-BB74-A92EF5D84E55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q21757$189EB3E0-0D60-450B-B5D0-34BA094A2665",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33022",
+              "numeric-id": 33022
+            }
+          },
+          "hash": "4e39001f32a153edd12c166bd56a9fdf28c7e912",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21757$9F2A521B-1051-43C6-BB80-9B6B8A4B8E52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21757$BB85224C-FBF8-44DB-A23B-40C7554C0DA0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1568-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bb692735e566a632b388fece4e6c5c08177e521c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21757$896027A3-B6F4-487E-929B-A5A5EB89C526",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1583-07-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4e16ad2106210aed5e00d0769417d93678f6b289",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21757$EA74E085-2C0D-4488-98DF-B423216999DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11534761"
+          },
+          "hash": "7652c27be5389683b0fbbdb3844687bcf649725d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21757$BAA014F5-4883-452F-94BB-DF1096DCD15C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shibata Katsutoshi Arms.svg"
+          },
+          "hash": "226104afccbd1000a1c2da8d0a1359ce4f4b1a7e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q21757",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shibata Katsutoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "柴田勝敏"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кацутоси Сибата"
+    }
+  },
+  "lastrevid": 17420796,
+  "modified": "2025-09-16T02:27:30Z",
+  "ns": 860,
+  "pageid": 43770,
+  "sitelinks": {},
+  "title": "Item:Q21757",
+  "type": "item"
+}

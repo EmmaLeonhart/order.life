@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ваньянь Хунъюй"
+      },
+      {
+        "language": "en",
+        "value": "Q15934445"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q48976$56CD6A31-7939-4CA8-9A31-20968A5F021E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48976$7114A43A-EB9E-466A-BDE1-1888DE307149",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48976$CDC23235-FD31-4015-ABE1-AD7E5679FBD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45684",
+              "numeric-id": 45684
+            }
+          },
+          "hash": "6ead5d1837e36c4b00810673de0b974f2cb0df84",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q48976$C1097095-A7AC-4632-9B83-3D5F5C0D7C11",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48972",
+              "numeric-id": 48972
+            }
+          },
+          "hash": "01c0652ee901507e26ab7a7d5bb22b9b67533155",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48976$A5B8AF26-9E5A-4758-8802-75F40E15DC20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48976$60F0AC80-FF01-4227-A842-FADF3EF8FB23",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1186-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14612464d828c20e5b038a880c490edb2bf26a93",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48976$A593931A-AAD8-412D-AAFC-1569B5F43C2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15934445"
+          },
+          "hash": "de2038b20c6aa520c088d9e49ea038d5ab23d23a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48976$412D1035-8446-4BAC-A670-11BE20935F0F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vanyan Khunyuy Arms.svg"
+          },
+          "hash": "988b8762b66f9543332dfeca216319f1b71d3809",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q48976",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Vanyan Khunyuy"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ваньянь Хунъюй"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "完顏洪裕"
+    }
+  },
+  "lastrevid": 17454636,
+  "modified": "2025-09-16T11:00:40Z",
+  "ns": 860,
+  "pageid": 64402,
+  "sitelinks": {},
+  "title": "Item:Q48976",
+  "type": "item"
+}

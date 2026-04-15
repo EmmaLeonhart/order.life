@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Yuanman"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q21130$B7976945-00C1-4FA8-8C00-81D4599F7CF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23179",
+              "numeric-id": 23179
+            }
+          },
+          "hash": "d1784288ccaa65ebbc9e1ae4b44b58af5cfa7d69",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21130$BF369D86-E11D-452A-AC76-CFB2F5F1DBAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23180",
+              "numeric-id": 23180
+            }
+          },
+          "hash": "11bb40c99ccb161f057c5e971081b3b4b284d914",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21130$D4D2D26A-3BF8-4740-9C01-893333B0D65B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21130$BD01F674-DA76-428D-8EC4-D2D21145F99A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21130$4641D74A-7790-447C-8530-953D7B5DFFB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19274",
+              "numeric-id": 19274
+            }
+          },
+          "hash": "5c072df83db8a6566bc35e83612f16ced99ba788",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21130$653DDE48-9477-4CD5-9EFC-2793D7D52C81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21130$E29F0C9E-D891-4D91-A110-0451B3ED7F0B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0679-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "497cc7b4ddeebb029b238b0aeeb868d6f6e8c093",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21130$858A284F-2B88-4075-8F82-F81788303D27",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45469441"
+          },
+          "hash": "9c658d12abc9b95990b8cf430985ddc7b5df2162",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21130$7E028D42-E407-429C-AF60-B1233591E05A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Yuanman Arms.svg"
+          },
+          "hash": "c2fbb3d14646e1d73479997a8c0c47ed1c68e7df",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB=187901"
+    }
+  },
+  "id": "Q21130",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Yuanman"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Yuanman"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李圓滿"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Yuanman"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李圓滿"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李圆满"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李圓滿"
+    }
+  },
+  "lastrevid": 17420026,
+  "modified": "2025-09-16T02:12:08Z",
+  "ns": 860,
+  "pageid": 43192,
+  "sitelinks": {},
+  "title": "Item:Q21130",
+  "type": "item"
+}

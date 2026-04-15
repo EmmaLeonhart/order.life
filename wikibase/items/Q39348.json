@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tran Nhat Duat //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q39348$4908A476-5B28-45A7-84AA-7F54BBAFA42F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39348$2E5FCFD5-8528-48F7-837B-B1394EEE6F08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39348$CDD73FA9-794B-45A0-B919-19CBE26BB49F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37709",
+              "numeric-id": 37709
+            }
+          },
+          "hash": "e5ed801f6aea3461f31d3837d3c0737f0724bd44",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39348$799D9DBF-8209-4E05-A50F-EC0FC9056E9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39348$20F32AD3-D20D-4E01-B5C8-FFA76423979F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1255-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8ac710836bf009dead3e951da33869fbb0633c09",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39348$75CF1F15-9C24-4DC5-8AED-B64602FC6E3C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1330-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1cc02d199f63938fd2013a876e0b34e556c188b8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39348$86E2C440-E0B6-467F-BD73-C2A1F0CCA166",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7833312"
+          },
+          "hash": "d85068fddcfef5d20d431f0a82c4b127ed4f9dbf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q39348$EFCFF989-65B1-4E43-94B0-52688CBECDAA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tran Nhat Duat Arms.svg"
+          },
+          "hash": "e8b1d28aa931b8fbbc48a370769c6e6ba8f79938",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Vietnamese prince"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "prionsa Vítneamach"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "chính trị gia, tướng lĩnh, nhà ngoại giao, quân sự, văn hóa, giáo dục người Việt Nam"
+    }
+  },
+  "id": "Q39348",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tran Nhat Duat"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tran Nhat Duat"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tran Nhat Duat"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tran Nhat Duat"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Tran Nhat Duat"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "陳日イツ"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tran Nhat Duat"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Trần Nhật Duật"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "陳日燏"
+    }
+  },
+  "lastrevid": 17442210,
+  "modified": "2025-09-16T08:01:06Z",
+  "ns": 860,
+  "pageid": 57204,
+  "sitelinks": {},
+  "title": "Item:Q39348",
+  "type": "item"
+}

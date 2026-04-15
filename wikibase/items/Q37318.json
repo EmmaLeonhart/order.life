@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "田村村顕"
+      },
+      {
+        "language": "en",
+        "value": "Tamura Muraaki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q37318$4153AAC0-8940-42E0-A4D4-E651CC635EB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37318$2159B565-067D-4625-AFC5-79BEDE816D19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37318$6351C816-1F41-4E83-9079-1015CD16F6C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33118",
+              "numeric-id": 33118
+            }
+          },
+          "hash": "8196f452e715d68160deeb24431fc25c8884ebb4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37318$A8367A02-8DF0-4258-8875-8CC109B502A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37318$27899BF0-B70B-4C31-8C7F-C335327C06A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1707-06-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0592b8817b3e6834c4c44cc2306d1fda74502523",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37318$D3065ABC-8F4B-4D3A-AF7A-FB9AEE598F67",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1755-09-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd0d5dd194b147620220a0a39f0c11c6f87253fb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37318$91679085-DE31-41CF-A31C-F9C112440998",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8514097"
+          },
+          "hash": "1b257fcee75ed91c1fd6ce7de82a3e928a580d23",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37318$312B71A0-1E9A-4DE0-B5F7-65EF8E7CEF9E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tamura Muraaki Arms.svg"
+          },
+          "hash": "45ebeaab4c1159308d9fbe51f83626070aef91c4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代の大名"
+    }
+  },
+  "id": "Q37318",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tamura Muraaki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "田村村顕"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "다무라 무라아키"
+    }
+  },
+  "lastrevid": 17439682,
+  "modified": "2025-09-16T07:24:56Z",
+  "ns": 860,
+  "pageid": 55687,
+  "sitelinks": {},
+  "title": "Item:Q37318",
+  "type": "item"
+}

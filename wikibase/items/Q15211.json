@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "池尻殿"
+      },
+      {
+        "language": "en",
+        "value": "Chi Kao Dian"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15211$C1306E08-873C-4662-BE7A-7E558207FE32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15211$927EE1E4-9EA4-485A-8BD6-141FF893E624",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15211$4D38B772-F233-43BC-9CD8-21A9C941C10B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Chi Kao Dian Arms.svg"
+          },
+          "hash": "9047481ecc5f47674d961523e869a31e5f4b537b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q15211",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Chi Kao Dian"
+    }
+  },
+  "lastrevid": 17414996,
+  "modified": "2025-09-16T00:17:14Z",
+  "ns": 860,
+  "pageid": 37501,
+  "sitelinks": {},
+  "title": "Item:Q15211",
+  "type": "item"
+}

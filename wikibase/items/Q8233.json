@@ -1,0 +1,182 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ariwara no Yoshifuchi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q8233$1DEB4905-19B1-43EE-BAA4-B42C453E2802",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8508",
+              "numeric-id": 8508
+            }
+          },
+          "hash": "eff2dc998158ce6cf8ec2131766fb6065d79cf9c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8233$32614DE6-42D5-47FA-A653-2DAB5E243375",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8233$3CE44746-C95D-46B4-B916-68ADAD13F497",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8233$2F9226B7-BC67-4C35-9B2C-7E6F84547F74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8233$EBC8D422-F7C7-4363-9F79-2BE676F07762",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0816-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a784eb15799b653cc77324ff00d1bbee513ad76",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8233$2071AB23-A95F-4C61-BE6E-FC76812B2B3F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0875-03-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2604c1dcce535d8c7b8f6ca1f0fe7f2802b8f10d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8233$BB539A1A-9ED8-4BCA-9EE4-4344497A93AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18700497"
+          },
+          "hash": "9d9917f1559a655a0a8c170f355e9f4cd331d14c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8233",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Jošifuči Ariwara"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ariwara no Yoshifuchi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "在原善淵"
+    }
+  },
+  "lastrevid": 17408400,
+  "modified": "2025-09-15T22:46:56Z",
+  "ns": 860,
+  "pageid": 30722,
+  "sitelinks": {},
+  "title": "Item:Q8233",
+  "type": "item"
+}

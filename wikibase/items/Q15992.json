@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sugihara Sadatoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15992$F860FFF7-F1A3-4143-B845-6600B87E2ABB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15426",
+              "numeric-id": 15426
+            }
+          },
+          "hash": "7a04e5b7742be588d40af4e2d59baf22abccfca2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15992$E91FD184-42BF-46D3-91C8-8EF2F26E1445",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15995",
+              "numeric-id": 15995
+            }
+          },
+          "hash": "6225c9fdb81ce05daf2cc67e6be68d82e43c30db",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q15992$02395454-6D5E-4D0E-8C08-0709F71F4750",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "杉原-5"
+          },
+          "hash": "745cbe32fe04ef041406474f822f1973b5682ead",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15992$DBBC1E6A-B009-41E4-87A8-86151377F3A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15992$C8C86821-0AA4-4245-AEA4-26611FDD4F02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15992$37922D2C-D1BB-46C7-9230-3CAC5C0C7CAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15993",
+              "numeric-id": 15993
+            }
+          },
+          "hash": "bc09da12fa6eff753a60d9b11b10b753371bd005",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15992$6AD648DA-DBE0-4E08-8A37-20F2C2F318CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15992$62F5DBA0-CCCD-4F9A-A36A-911C86AA1177",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1593-03-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d7e3ffae73a92a3f48416f89b5f7bef1fa338c69",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15992$CD765A42-6557-4D15-BA49-6A16BA5E959B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11253422"
+          },
+          "hash": "ae4bfc28a4eba5368d9eb2c1a1600f7c97dd4533",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15992$E44AF8A3-63CE-4507-A1BA-01EDC333DFAE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sugihara Sadatoshi Arms.svg"
+          },
+          "hash": "5dcd7c1ff343d830d766ada22c8e0e5f5564ba31",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "-1593"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将。子に佐渡守（加藤清正の家臣）"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q15992",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sugihara Sadatoshi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sugihara Sadatoshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sugihara Sadatoshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sugihara Sadatoshi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sugihara Sadatoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "杉原定利"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스기하라 사다토시"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sugihara Sadatoshi"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Sugihara Sadatoshi"
+    }
+  },
+  "lastrevid": 17415622,
+  "modified": "2025-09-16T00:25:52Z",
+  "ns": 860,
+  "pageid": 38266,
+  "sitelinks": {},
+  "title": "Item:Q15992",
+  "type": "item"
+}

@@ -1,0 +1,271 @@
+{
+  "aliases": {},
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16438$D93602C9-01D1-47B2-960C-CE5DD79C4C7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16440",
+              "numeric-id": 16440
+            }
+          },
+          "hash": "31168a6290fb947a79412795c804a537a1610a22",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16438$7DDE8BC6-675F-43E3-9700-C3F12A902095",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16438$C2A8C2C4-ABA4-4BC5-A854-E17B8000DC67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16438$B16BE81A-D7E8-4ED4-A2E9-52795B289798",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15701",
+              "numeric-id": 15701
+            }
+          },
+          "hash": "423d8506713e08e099c93752088d4e7283922465",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16438$D349AA00-9415-4AB5-8E53-C5D1BC420C06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16438$8F25F99C-0F5D-4F93-84E5-A7888CD8D255",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1717-08-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c2edc307f81f90bd4533b2bfe47c5b350008c979",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16438$ED9C968B-2F01-402E-8386-C81A6EADDA1B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1789-11-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "87377b8e57d15ab53a777b3f5270e5232e8063e7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16438$B9B3F0A4-BFCE-4099-818A-1D336491E287",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10943125"
+          },
+          "hash": "1700e3c13738351fe183f577fa5cb488b9c945bb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q16438$5B5BE39F-83B3-43AE-BF92-DCE76C56ECF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012597044700"
+          },
+          "hash": "a4f165f7cc24debedcc36c903e52e21f2976caf9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16438$1215E050-DD3F-4069-AF3B-675B935A4D65",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Empress Dowager Kaimei Arms.svg"
+          },
+          "hash": "fa58aac4cad2ff087fe9b575a4f0479886416e06",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "lady-in-waiting Sadako"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "фрейлина, мать императора Момодзоно"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระราชมารดาในจักรพรรดิโมะโมะโซะโนะ"
+    }
+  },
+  "id": "Q16438",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Kaimei"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dowager Kaimei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress Dowager Kaimei"
+    },
+    "es": {
+      "language": "es",
+      "value": "Empress Dowager Kaimei"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kaimei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "姉小路定子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아네가코지 사다코"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Анэгакодзи Садако"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดินีไคเม พระราชชนนี"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "姉小路定子"
+    }
+  },
+  "lastrevid": 17415980,
+  "modified": "2025-09-16T00:31:22Z",
+  "ns": 860,
+  "pageid": 38696,
+  "sitelinks": {},
+  "title": "Item:Q16438",
+  "type": "item"
+}

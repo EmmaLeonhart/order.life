@@ -1,0 +1,195 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ishikawa no Kakimori"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q7823$9639D86E-60EA-45C1-881D-60534B1FF2B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7885",
+              "numeric-id": 7885
+            }
+          },
+          "hash": "751d0f4373c4a934a1d18bf6b8c2616cf2853016",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7823$F43E9AC2-6706-47B2-B0BB-11AFA64AF6A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7823$37E24D40-B38B-4027-8660-0AB2FCA09D82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7823$84ECABBA-0B12-4C39-BD16-A0A51603E8C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7823$CB8456CD-D46D-43A0-BDCB-A615983C1198",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a369388e76afd2a6ed34fd33d6f4a6fd120c3e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7823$A910CE19-256C-4434-809F-9B89A35253B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0786-06-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cae475bd0ef27e65b7c383ac06a26bf3925988c7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7823$DA1E669C-6132-4773-ADD1-4D0171705D21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11585745"
+          },
+          "hash": "0a917f6c8b76060967c4909db80253b8f1096fa7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7823$6D47D5F5-B171-40FD-880A-B7E9B26469E5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ishikawa no Kakimori Arms.svg"
+          },
+          "hash": "a72d93d3b6230eae8c9c953dcfcca859865c1dfb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q7823",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ishikawa no Kakimori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "石川垣守"
+    }
+  },
+  "lastrevid": 17407736,
+  "modified": "2025-09-15T22:38:41Z",
+  "ns": 860,
+  "pageid": 30315,
+  "sitelinks": {},
+  "title": "Item:Q7823",
+  "type": "item"
+}

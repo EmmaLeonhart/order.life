@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lady Cha //"
+      },
+      {
+        "language": "en",
+        "value": "Lady Cha"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q30535$7BC418A4-7B6B-4BC3-B074-5E5C0423DD74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30535$2671F3F9-F27A-439C-ADD4-E8269E388DA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q30535$C6353467-85D9-4DC3-8132-1536B7BB95AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29608",
+              "numeric-id": 29608
+            }
+          },
+          "hash": "1ff68165abc62f6f8146312d7fb367763f620e90",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q30535$F53D1135-AE68-46BC-B8D7-087FA18CAD73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q30535$2271F952-33B9-4FD4-8EFF-7482016A6482",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1444-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d3c1f582e8fa9efa3c8ed809c5989b6dda61d413",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q30535$321C2C91-813A-4563-8755-1E074277E817",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12599608"
+          },
+          "hash": "876a165279d38c315ea115852cfeb557ce7fe60b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q30535$B90DDE07-D2C0-4E33-B936-CD1EE1CB8665",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lady Cha Arms.svg"
+          },
+          "hash": "5be8affb8884dcd48ad6429f2cd765d1186c09ee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "concubine of Sejong the Great"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선 세종의 후궁"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Наложница короля"
+    }
+  },
+  "id": "Q30535",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Τσα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lady Cha"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "司記車氏"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사기 차씨"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Госпожа Ча"
+    }
+  },
+  "lastrevid": 17430108,
+  "modified": "2025-09-16T05:05:51Z",
+  "ns": 860,
+  "pageid": 50616,
+  "sitelinks": {},
+  "title": "Item:Q30535",
+  "type": "item"
+}

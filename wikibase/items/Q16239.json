@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nihonmatsu Masakuni"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16239$99513943-8321-407A-AAC1-B4BF63CBC2FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17349",
+              "numeric-id": 17349
+            }
+          },
+          "hash": "c99c6807fd398136460d3c8729706de6f41bdaba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16239$4FA0F167-3016-45BD-B6F6-892A69A2EFF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16239$08948542-1BA8-4016-A9D2-A5A2D8096F59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16239$4F6E3FF4-1873-447E-A0F8-19D8A92A6D19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15537",
+              "numeric-id": 15537
+            }
+          },
+          "hash": "636ec0cbd780c35aa38e40184a88dfac0ce3ac18",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16239$C50E1866-5A57-44D0-BA13-7A674DBE0BEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16239$9A064F0F-99BC-422E-BC87-500CCB28706D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1494-02-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a177bde28a8197b98f037fd22651c4331052ca6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16239$D67A2DF1-B003-4A05-B17A-9BAF9834E285",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11371629"
+          },
+          "hash": "3585ccb9638f32554b0215181f87b5d33f2e774f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16239$F3D78ED8-0CEE-4D5C-B2D6-D28A6F4F64E5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nihonmatsu Masakuni Arms.svg"
+          },
+          "hash": "96bcb35e6b41754c09346e1b7da6f4a5bbeaa92e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese military commander"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の武将 (-1494)"
+    }
+  },
+  "id": "Q16239",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Nihonmatsu Masakuni"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nihonmatsu Masakuni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "二本松政国"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масакуни Нихоммацу"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Nihonmatsu Masakuni"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nihonmatsu Masakuni"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "二本松政國"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "二本松政國"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "二本松政國"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "二本鬆政國"
+    }
+  },
+  "lastrevid": 17415880,
+  "modified": "2025-09-16T00:29:54Z",
+  "ns": 860,
+  "pageid": 38501,
+  "sitelinks": {},
+  "title": "Item:Q16239",
+  "type": "item"
+}

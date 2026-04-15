@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "西洞院時義"
+      },
+      {
+        "language": "en",
+        "value": "Xi Dong Yuan Shi Yi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q50936$50C7224D-BDB8-425F-B8C1-E75D3D5553DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50936$AB4390C0-1D65-4564-9932-8B6063488A00",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50936$0564EF92-6946-4C8A-B413-9FA5490EAE64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43780",
+              "numeric-id": 43780
+            }
+          },
+          "hash": "ac862467e47cc920b2db8b7a62ce9be02b31c82d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q50936$D2EC950F-320A-4F36-8710-CADB5040B68C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50931",
+              "numeric-id": 50931
+            }
+          },
+          "hash": "a6fe656b226a6ede061ff34f2c9a8e9f10d317c0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50936$C88D72AB-B1FC-4415-8AB1-31C7EFA981A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50936$50F301E5-0939-47C7-A0B0-5CEB3D608AC9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1756-07-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d1d9d1b118273e6093bd4eb04e0a7414909c6349",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50936$88081D9A-093D-453A-B707-942C549542F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1767-12-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "56dbeb113a7e70af9559961ed7d71235b02fbd9e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50936$FD4EA3F2-6BFD-41CB-99BF-9F9F8B409F98",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110955575"
+          },
+          "hash": "723caff4544c4945d7e4ccdebccd0623c9f9aefa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "正五位下、少納言、侍従"
+    }
+  },
+  "id": "Q50936",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "西洞院時義"
+    }
+  },
+  "lastrevid": 17457184,
+  "modified": "2025-09-16T11:37:54Z",
+  "ns": 860,
+  "pageid": 65874,
+  "sitelinks": {},
+  "title": "Item:Q50936",
+  "type": "item"
+}

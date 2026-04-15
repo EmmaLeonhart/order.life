@@ -1,0 +1,488 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hattori Hanzō"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q29920$CC6C6166-2AC0-42FA-890B-EAD6A2CD9AAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18409",
+              "numeric-id": 18409
+            }
+          },
+          "hash": "4bed7d6d2292078b0d98ff1b6a172cb7c1209912",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29920$2A9EA232-BD1D-4345-8512-80CE8D7A0D94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17028",
+              "numeric-id": 17028
+            }
+          },
+          "hash": "5bdbfc59e53661e22dda97f28b2e97fa7070dae0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29920$355EF65E-4867-45CD-96F6-9D36626C24DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20054",
+              "numeric-id": 20054
+            }
+          },
+          "hash": "9afa9b3ca7caa97d41e16db1a23e78c2b7cef69d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q29920$55209505-E5DF-4B1D-989D-BB2103DBBB2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "服部-18"
+          },
+          "hash": "9a1daa377c2d4651cf56a9b0d3ac976cf5070f40",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q29920$492FC983-FA18-4460-A906-7DB3B2F0AAC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29920$3259FB5E-E5D2-4633-AFC1-92D09C575581",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q29920$15E99AD7-3DBF-4355-A8E0-065D69D58B46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29924",
+              "numeric-id": 29924
+            }
+          },
+          "hash": "ef2473df8630dbfcd0c8c93f880876663e3dde88",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29920$3EEDEE57-6B6B-415D-8207-D29FC35AFEB0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29920$9FAE8659-9ADA-4B70-BB61-A973C3A5E912",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1542-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e04452e161488a28000a9e8e6d3817be5c5fc27f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q29920$61CD3EE5-14DE-4F62-91DA-E7022EC6C2F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1597-01-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c1d3800ca7317ab50823b2f112722864a037ea24",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29920$A6EC5D85-D0F9-4D0F-8BF1-BA0B6069B376",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q316952"
+          },
+          "hash": "bb8ca0e0bd4791992ef56e104ebbd1a028e90d7a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29920$A58372E8-1430-4CA8-A09B-4D57A1E4EB7F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hattori Hanzō Arms.svg"
+          },
+          "hash": "f8a797971ec71bf1c88998d89af95477519a3728",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "ninja xaponés (1542–1597)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Ninja"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιάπωνας σαμουράι"
+    },
+    "en": {
+      "language": "en",
+      "value": "samurai of the Sengoku era; famous as ninja master"
+    },
+    "es": {
+      "language": "es",
+      "value": "ninja japonés"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Samouraï et ninja japonais de l'époque Azuchi Momoyama"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Szengoku korszak szamurája; híres nindzsa mester"
+    },
+    "id": {
+      "language": "id",
+      "value": "samurai di era Sengoku; terkenal sebagai master ninja"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国～安土桃山時代の武将、通称・服部半蔵"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans ninja (1542-1596)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "самурай и полководец эпохи Сэнгоку"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sengoku döneminin ünlü samuray ve ninja ustası(1542 - 1596)"
+    }
+  },
+  "id": "Q29920",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هانزو هاتوري"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Hattori Hanzō"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хатори Ханзо"
+    },
+    "br": {
+      "language": "br",
+      "value": "Hattori Hanzō"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Hattori Hanzō"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hattori Hanzō"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hanzó Hattori"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hattori Hanzō"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Hattori Hanzō"
+    },
+    "el": {
+      "language": "el",
+      "value": "Χατόρι Χάνζο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hattori Hanzō"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Hattori Hanzō"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Hattori Hanzō"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hattori Hanzō"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هاتوری هانزو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hattori Hanzō"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hattori Hanzó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Hattori Hanzō"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hattori Hanzō"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "服部正成"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჰატორი ჰანზო"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "핫토리 마사나리"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хатори Ханзо"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Hattori Hanzo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hattori Hanzō"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hanzō Hattori"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hattori Hanzō"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hattori Hanzō"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хаттори Хандзо"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Hattori Hanzó"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฮัตโตริ ฮันโซ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hattori Hanzō"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Хатторі Хандзо"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ہاتوری ہانزؤ"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Hattori Hanzō"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hattori Hanzō"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "服部半藏"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "服部半藏"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "服部半藏"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "服部半藏"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "服部半藏"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "服部半藏"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "服部半藏"
+    }
+  },
+  "lastrevid": 17429436,
+  "modified": "2025-09-16T04:56:10Z",
+  "ns": 860,
+  "pageid": 50157,
+  "sitelinks": {},
+  "title": "Item:Q29920",
+  "type": "item"
+}

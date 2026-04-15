@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honda Inuchiyo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q22048$BD5A755C-26C4-4B99-9D0F-B35D44473DAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22048$1B21B0C7-FFAE-4817-AFDC-A36E8058F00F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22048$3154DFA3-ADEB-4E7F-82AC-C1171DD3E23B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20127",
+              "numeric-id": 20127
+            }
+          },
+          "hash": "b216bba9c8ea047196f1633b4bcaa5ee2092a206",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22048$637C14CE-3866-4080-9766-6854DAE25A0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22048$439E977E-9913-4DBF-B396-650825AACD77",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1636-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "34cd0e54f0b47bf7a1850ca41d1c49361a27fc12",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22048$0CB8D4AA-0581-4C24-8E74-DC85ED64BD20",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1640-07-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "164e62236005b75e170bf444e2e0d90ae93dd835",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22048$CC4BE2F0-0DF9-42B2-AC4F-CCC9454EF6AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10517777"
+          },
+          "hash": "d5b819b8271a2a23c01259e56652765651ad4d24",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22048$F0D84C1B-2C37-4576-B010-C2A6CD39BE13",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honda Inuchiyo Arms.svg"
+          },
+          "hash": "32646186d55f3695229f5b80aae9305331fd2e6a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo of Enomoto domain"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の大名。下野榎本藩2代藩主本多政遂長男で、榎本藩3代藩主"
+    }
+  },
+  "id": "Q22048",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Honda Inuchiyo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Honda Inuchiyo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Honda Inuchiyo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Honda Inuchiyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本多犬千代"
+    }
+  },
+  "lastrevid": 17421004,
+  "modified": "2025-09-16T02:34:17Z",
+  "ns": 860,
+  "pageid": 44057,
+  "sitelinks": {},
+  "title": "Item:Q22048",
+  "type": "item"
+}

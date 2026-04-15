@@ -1,0 +1,295 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saionji Kinmune"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q14250$AC758D48-3CF5-4ED4-9181-1624061D5660",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "808526"
+          },
+          "hash": "46659df745bddd66abc230707fc2a9cd966a5607",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q14250$7AF77A40-7EE2-4AD6-96D1-17DC07ABE740",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14713",
+              "numeric-id": 14713
+            }
+          },
+          "hash": "88a87273be515290d3d8ce95db2db2d22266318b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14250$80DA2FE5-4EF5-4E68-A2AC-1C73756BD1A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14250$6DA03A21-6CD7-44CE-AD42-6D11A995D35C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q14250$90C362BF-C106-4B27-83DD-FF5804D2B6CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14712",
+              "numeric-id": 14712
+            }
+          },
+          "hash": "7aa7539ce3fb3132acc13f7df05a5b82e3a508b2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14250$ACE83ADE-380F-4221-9381-67E099A1EC15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13891",
+              "numeric-id": 13891
+            }
+          },
+          "hash": "f609018cd4d15b4aff925fce10f105d3fd799c28",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14250$13A6A7B8-A7B2-4E67-9248-BDD2EA91627A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14250$BFE86306-FB42-42FE-9816-06E39D69C73D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1310-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a320fe7bbe5887d0bd724fbaef13ecb2ac53bab1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14250$426E2B4E-A681-40A5-A1BA-4C4D5C11B72D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1335-08-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0401bb10b18a727bab7bb0a8ef858e50f205cea6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14250$44B210DF-F2AC-46C6-B1C1-AB8B88889AD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7223159"
+          },
+          "hash": "8e80b0704f696ceeb6eda7c5e45043c233ddd3f6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14250$8342515A-4AEA-4C2C-AEE0-4E4D5595C8B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saionji Kinmune Arms.svg"
+          },
+          "hash": "c13e3a639c8fef629f371ae6af9c391f0b26d9bd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期から南北朝時代の公卿。西園寺実衡の長男。正二位・権大納言。"
+    }
+  },
+  "id": "Q14250",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Saionji Kinmune"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kinmune Saiondži"
+    },
+    "de": {
+      "language": "de",
+      "value": "Saionji Kinmune"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saionji Kinmune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Saionji Kinmune"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سایئونجی کینمونه"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "西園寺公宗"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Saionji Kinmune"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Saionji Kinmune"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Киммунэ Сайондзи"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西园寺公宗"
+    }
+  },
+  "lastrevid": 17414390,
+  "modified": "2025-09-16T00:08:47Z",
+  "ns": 860,
+  "pageid": 36556,
+  "sitelinks": {},
+  "title": "Item:Q14250",
+  "type": "item"
+}

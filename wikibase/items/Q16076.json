@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jomyo-in"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q16076$D78D1EF1-29F8-4390-B948-9471B2C8347B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16076$454B67DE-2157-497C-AB09-E6DC46BB66AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16076$7636FF02-5638-4F1D-97E8-D41948AAE2ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17026",
+              "numeric-id": 17026
+            }
+          },
+          "hash": "d3deed82c6203905f9c0eb306a82cc6fa6b5f2c5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16076$4FC8FDC5-5504-4238-82B6-301BFEC34B22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26859",
+              "numeric-id": 26859
+            }
+          },
+          "hash": "9520d95cea19864f22fa93ca9a2a1ae21160dd7d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16076$42D57447-5A20-4D43-A739-C1CCCD0E75C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15446",
+              "numeric-id": 15446
+            }
+          },
+          "hash": "0d74b97d85be7845847e1344bb4a3165d7df937d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16076$982E81E8-DEC4-4343-B2DD-761004FA7030",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16076$5A3BF41A-286F-4C8C-AD41-CA8BB04C3BCC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1653-06-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "74079d877281730e62bfa4ad107f71b49a5dae1b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16076$2FA4726A-BC54-4F88-A752-46D147BEA2CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108491242"
+          },
+          "hash": "dc91ddd6abdf1df0ca5621c419526be2831aad6b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16076$4E69FA10-80B2-487B-BE42-0427A47D3F82",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jomyo-in Arms.svg"
+          },
+          "hash": "0ad2146da1df7861872ccaa8f6f1287e7c8815ff",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "中村一忠の正室。のち毛利秀元の継室"
+    }
+  },
+  "id": "Q16076",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Džomjoin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jomyo-in"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "浄明院"
+    }
+  },
+  "lastrevid": 17415732,
+  "modified": "2025-09-16T00:27:48Z",
+  "ns": 860,
+  "pageid": 38345,
+  "sitelinks": {},
+  "title": "Item:Q16076",
+  "type": "item"
+}

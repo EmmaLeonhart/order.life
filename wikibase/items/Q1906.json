@@ -1,0 +1,541 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kunti (Preetha)"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q1906$A8420C5C-9EDB-4E4D-B9F7-2079058D605F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "637060"
+          },
+          "hash": "cfaa07cce16a3db9a5b921c1e2e4e9aa23ad37d7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q1906$DEACA9B6-60F1-4805-AADA-CEE0DEE4D57F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49428",
+              "numeric-id": 49428
+            }
+          },
+          "hash": "bbe511dc20583ef6afef93ce80786b7f7921ff2a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1906$6A5B104C-083D-45D1-BD97-8AB0B603D475",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1888",
+              "numeric-id": 1888
+            }
+          },
+          "hash": "5d6e24eba9aa65846a960cb8e5838a8bf14f5b41",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q1906$93D74C6E-C25A-4DD4-A402-C282DCFABF64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1906$58C71688-E796-4EE7-92EE-3C2FC3679CEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q1906$7B6BD041-DC5A-4602-92C5-044C44773C02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153367",
+              "numeric-id": 153367
+            }
+          },
+          "hash": "9c6504e6b55ac733cbdeb6612074e0dcc963f9fd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q1906$C37EB77C-22D1-4E42-999C-4DE666F7A453",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153368",
+              "numeric-id": 153368
+            }
+          },
+          "hash": "1534fa0e9058e4d26354ce222af7be933750f564",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q1906$6F9B0CF7-932B-42A3-B5F6-F3E8CB397508",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153359",
+              "numeric-id": 153359
+            }
+          },
+          "hash": "abc8fd1823512d1f158b33f720745dfd0781b180",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q1906$FC65D7E4-AC49-48CE-9183-CCD1515BE619",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49440",
+              "numeric-id": 49440
+            }
+          },
+          "hash": "a56053f718d9b850f7db70e8869f23a0496cecad",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q1906$89688989-DA8A-4078-9742-2F5FEA137EF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6": [
+      {
+        "id": "Q1906$46A34DA5-6690-42B3-9A22-1BD802476916",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Kunti (Preetha) //"
+            }
+          },
+          "hash": "8d5d8663ee83a55c2668026cfa0575852055b22d",
+          "property": "P6",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q1906$0B8D8BA1-442F-C9AD-7295-E53CB4202385",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q844424"
+          },
+          "hash": "b296c25a8a5f7d2dd7832dfb7a81e67f58123f3c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q1906$A6BE6340-C08E-4668-AE8D-2930A4A11005",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kunti Arms.svg"
+          },
+          "hash": "d8180bce54e0530a6fc48df32e1d3fcecd338f52",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bn": {
+      "language": "bn",
+      "value": "হিন্দু মহাকাব্য মহাভারতের একটি প্রধান চরিত্র"
+    },
+    "de": {
+      "language": "de",
+      "value": "Figur der indischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "character from Indian epic Mahabharata"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de Mahabrarata"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמם של רוב הפנדווה במיתולוגיה ההינדואית"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "महाकाव्य महाभारत के पात्र"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "indijska kraljica"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ibu para Pandawa dalam wiracarita Hindu, Mahabharata"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa leggendaria del poema epico indiano Mahabharata"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "叙事詩『マハーバーラタ』の登場人物"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "lik iz indijskega epa Mahabharata"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "mor till de tre äldsta Pandavasbröderna"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இந்திய இதிகாசம் மகாபாரதத்தில் ஒரு பாத்திரப்படைப்பு"
+    },
+    "te": {
+      "language": "te",
+      "value": "మహాభారతంలో పాత్ర, పాండురాజు భార్య, పాండవుల తల్లి"
+    },
+    "th": {
+      "language": "th",
+      "value": "ตัวละครในเรื่องมหากาพย์มหาภารตะ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sanskritçe destan Mahābhārata'da adı geçen efsanevi kişi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "印度古代史詩《摩訶婆羅多》人物"
+    }
+  },
+  "id": "Q1906",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كونتي"
+    },
+    "as": {
+      "language": "as",
+      "value": "কুন্তী"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Kunti"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "কুন্তী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Kunti"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kuntí"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kunti"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kunti"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kunti"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Kunti"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kuntí"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کنتی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kunti"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "કુંતી"
+    },
+    "he": {
+      "language": "he",
+      "value": "קונטי"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "कुन्ती"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kunti"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kunti"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kunti"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クンティー"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Kunthi"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಕುಂತಿ"
+    },
+    "mai": {
+      "language": "mai",
+      "value": "कुन्ती"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "കുന്തി"
+    },
+    "mni": {
+      "language": "mni",
+      "value": "ꯀꯨꯟꯇꯤ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "कुंति"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "कुन्ती"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kunti"
+    },
+    "or": {
+      "language": "or",
+      "value": "କୁନ୍ତୀ"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਕੁੰਤੀ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kunti"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "کنتی"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "کنتي"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Kunti"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кунти"
+    },
+    "sa": {
+      "language": "sa",
+      "value": "कुन्ती"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kunti"
+    },
+    "su": {
+      "language": "su",
+      "value": "Kunti"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kunti"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "குந்தி"
+    },
+    "tcy": {
+      "language": "tcy",
+      "value": "ಕುಂತಿ"
+    },
+    "te": {
+      "language": "te",
+      "value": "కుంతీదేవి"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระนางกุนตี"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kunti"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кунті"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "کنتی"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "貢蒂"
+    }
+  },
+  "lastrevid": 17404362,
+  "modified": "2025-09-15T21:36:11Z",
+  "ns": 860,
+  "pageid": 20158,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q1906",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q1906"
+    }
+  },
+  "title": "Item:Q1906",
+  "type": "item"
+}

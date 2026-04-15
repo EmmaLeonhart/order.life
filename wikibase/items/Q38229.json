@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abe Masayoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q38229$3F47D07E-3498-4A5E-A590-DF45D1C7C77D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20246",
+              "numeric-id": 20246
+            }
+          },
+          "hash": "64b24b5be395381f1da39a7d96f19f5052cadc2d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q38229$46ADF0F5-6694-4D9B-80A0-750F99A8A923",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q38229$B7EADD8C-A78B-4EC6-BEF6-FFE1AF792DFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q38229$810A131B-7120-4A3D-9E0B-BDD10B63EA82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42552",
+              "numeric-id": 42552
+            }
+          },
+          "hash": "d8d7f856bbbee0ca662443e91973d4a4e8a7454a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q38229$5C65DEFF-7053-4332-B173-1A9357E6A8D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q38229$0DB493F8-2969-4BB1-9D5B-2139AC954DF5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1627-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bdad5077dd912646974149d4a3a1602402fad435",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q38229$7CDAFBFF-0585-44D5-A1BC-773EFF94C83F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1685-05-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db9aa8926dede9192889cb4f7052a256d6ed2bd1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q38229$A3A77476-E430-492B-8A62-118AD148A764",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10565452"
+          },
+          "hash": "3502389df776f8cc50fec160b0eea077691a1f95",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q38229$6EAB5183-E7A0-48A0-83B2-644D71C244B7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Abe Masayoshi Arms.svg"
+          },
+          "hash": "48a93851660ad1cd53ffe1700ce549086f9fc4c8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q38229",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Abe Masayoshi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Abe Masayoshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abe Masayoshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Abe Masayoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "阿部正能"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아베 마사요시"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масаёси Абэ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿部正能"
+    }
+  },
+  "lastrevid": 17440850,
+  "modified": "2025-09-16T07:41:53Z",
+  "ns": 860,
+  "pageid": 56367,
+  "sitelinks": {},
+  "title": "Item:Q38229",
+  "type": "item"
+}

@@ -1,0 +1,385 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anna Palaiologina //"
+      },
+      {
+        "language": "en",
+        "value": "Anna Palaiologina"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q46259$59037D69-09B7-423E-8C3D-34E74E66D3CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00571557"
+          },
+          "hash": "dbff51f11de814411a1edfa9906141107358d385",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q46259$8B13DBF3-CC4F-413D-AE74-E1E9CEA8E52B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50179",
+              "numeric-id": 50179
+            }
+          },
+          "hash": "828bfacfdaa69ee99c4de59e88681f73a0e373db",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46259$99F7BAC3-F68A-422D-8CF0-F4EA69AD849B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50175",
+              "numeric-id": 50175
+            }
+          },
+          "hash": "ff1fac0bd2b0c11799fce861af5c415e953bbae7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46259$C15DECA4-840F-40C0-BF21-F681F415239D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50183",
+              "numeric-id": 50183
+            }
+          },
+          "hash": "852c9de23f79674c926d53b1b6e60b8319dd0e15",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46259$8596B9F1-18F0-4A88-9F03-4980E5B30EF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46259$038CBEA5-7451-40A6-B0A4-6DB33221FE9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q46259$B2163DB5-F4E4-484F-B8DD-11A64127BB1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50167",
+              "numeric-id": 50167
+            }
+          },
+          "hash": "4d7aed276bd19d8d556cbf410cf0948ee2411db8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46259$30FC26DB-7145-43D3-A044-7A99AAAF7015",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50171",
+              "numeric-id": 50171
+            }
+          },
+          "hash": "92dee62da34dfc5a58a04d0c93392cd909b6d14f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46259$4DAB561F-8539-4694-980C-C5D05DE4A6B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43314",
+              "numeric-id": 43314
+            }
+          },
+          "hash": "676bc8043bb620d355a2aa0f166be60b06e0087b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q46259$18DF36B9-884A-4071-955A-77DAE76319A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50163",
+              "numeric-id": 50163
+            }
+          },
+          "hash": "02c9a812e56e4ec62424f6f6f7b9215c9189de1f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46259$39AA85DF-85DD-4704-A63A-D5CBF493E1E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q46259$D262D173-C656-419D-AB6A-394CC86D1B47",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e7df256e389e91afb4bf544e4fd35740c5bb3f3d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46259$F11B4EBA-5EC4-418C-AA4A-DF2EECF78954",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20499108"
+          },
+          "hash": "a8b2aebc65834d56bec3e1310cf5f57108390fe6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46259$F90C6E8D-32BF-4344-9965-4E7039896A56",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anna Palaiologina Arms.svg"
+          },
+          "hash": "37e03c5fcce0f7d543f30ac1e1191613ba209937",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "κόρη του Ανδρόνικου Άγγελου Παλαιολόγου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine Empire politician"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "femme politique"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa bizantina e regina consorte d'Epiro ( - 1355)"
+    }
+  },
+  "id": "Q46259",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Anna Paleoloq"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Анна Палеологина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Anna Paleòloga"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άννα Παλαιολογίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anna Palaiologina"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Anna Palaiologina"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Anna Palaiologina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ana Paleólogo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Anne Paléologue"
+    },
+    "it": {
+      "language": "it",
+      "value": "Anna Paleologa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Anna Palaiologina"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Anna Paleologini"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Анна Палеолог"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ана Палеолог (кћерка Андроника Анђела Палеолога)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Anna Palaiologina"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安娜·巴列奥略娜"
+    }
+  },
+  "lastrevid": 17451154,
+  "modified": "2025-09-16T10:10:24Z",
+  "ns": 860,
+  "pageid": 62374,
+  "sitelinks": {},
+  "title": "Item:Q46259",
+  "type": "item"
+}

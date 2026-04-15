@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Junbu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q44881$B7E0DE6A-5D89-47B7-B703-C3A33F03236F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53134",
+              "numeric-id": 53134
+            }
+          },
+          "hash": "1075086c7d034254435a1e8466e1edc9a9fbfeda",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q44881$8EF8E3E9-77B1-4914-8148-76C336F26944",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53138",
+              "numeric-id": 53138
+            }
+          },
+          "hash": "be327e66d75e33f84848bfb630248265d2f73c91",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q44881$FD20B20E-8F78-46E7-A6FC-AB623F405B2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q44881$63E92D53-3446-45C5-B57E-CF871466BF75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q44881$37CCDD57-3CA4-40D2-8BC4-31CF1FB26A0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23237",
+              "numeric-id": 23237
+            }
+          },
+          "hash": "24924d4c3dec78e34621964d1ff9cd9eed1680f1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q44881$1F52A25A-4E71-445D-AB14-CE361B726A42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q44881$F1EDCAD9-2A91-4AD5-9DAF-286D68A4A716",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0686-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "55de1c3d4808e7c8031599f4d72e11dc4fc2f62b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q44881$2399804B-1917-452D-924A-2F89054BBA0F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45456847"
+          },
+          "hash": "878fc79ffaf939a6ce3788cae752c9f6d1e1a6e8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q44881$1D7C293E-4226-4EC4-963C-882DD6DC23BD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Junbu Arms.svg"
+          },
+          "hash": "f3f7476927b0678c7cd642b65223a35335e06595",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171836"
+    }
+  },
+  "id": "Q44881",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Junbu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Junbu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dou Junbu"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇君布"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Junbu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇君布"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦君布"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇君布"
+    }
+  },
+  "lastrevid": 17449202,
+  "modified": "2025-09-16T09:41:24Z",
+  "ns": 860,
+  "pageid": 61344,
+  "sitelinks": {},
+  "title": "Item:Q44881",
+  "type": "item"
+}

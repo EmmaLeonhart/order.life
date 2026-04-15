@@ -1,0 +1,270 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q16429$3CBF875B-F685-4ADE-8092-96BE18489FA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16429$77AE68B6-2B4A-411E-851E-6D849001BC30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16429$5AD3BDDF-CFE4-47D4-BD4A-F8E13D530351",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16426",
+              "numeric-id": 16426
+            }
+          },
+          "hash": "760c500edcef8787c1910ec4965f05ea3f9e46a9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16429$39B53E74-4521-4338-AA95-B54F357044A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50977",
+              "numeric-id": 50977
+            }
+          },
+          "hash": "d687966028a149e80e13a263337876fca2540179",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16429$5958162A-2942-4DAB-8B38-6EBC1A8A2850",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16429$C47FFFB4-439A-40E2-B082-585E6D61BFC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1710-09-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c4674875c32e8889d303ddde77389b75cb50b15",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16429$5B409907-4E82-45AE-AB34-F942EDFF3782",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1730-06-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5c6edc9c034d165de298b0c51a712a047ba7ffc8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16429$80DC69C9-EEF5-46EB-A976-98FCCAD0FE0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3514219"
+          },
+          "hash": "223b60bca3827bc33fd3ee07b25a08f822e090ab",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16429$C488FD34-06B4-4F23-9A7E-75AD26E5081E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takatsukasa Fusahiro Arms.svg"
+          },
+          "hash": "8af4e97e5bfbcb1a5f2776dde700ff397c462c8c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "japonský dvořan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese court noble"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代中期の公卿。従二位・内大臣。鷹司家18代。近衛家熙の次男"
+    }
+  },
+  "id": "Q16429",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Takatsukasa Fusahiro"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Takacukasa Fusahiro"
+    },
+    "de": {
+      "language": "de",
+      "value": "Takatsukasa Fusahiro"
+    },
+    "en": {
+      "language": "en",
+      "value": "Takatsukasa Fusahiro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Takatsukasa Fusahiro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Takatsukasa Fusahiro"
+    },
+    "it": {
+      "language": "it",
+      "value": "Takatsukasa Fusahiro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鷹司房熙"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Takatsukasa Fusahiro"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Takatsukasa Fusahiro"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "鷹司房熙"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "鹰司房熙"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "鷹司房熙"
+    }
+  },
+  "lastrevid": 17415972,
+  "modified": "2025-09-16T00:31:15Z",
+  "ns": 860,
+  "pageid": 38687,
+  "sitelinks": {},
+  "title": "Item:Q16429",
+  "type": "item"
+}

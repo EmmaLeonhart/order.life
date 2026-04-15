@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "忠貞王"
+      },
+      {
+        "language": "en",
+        "value": "Zhong Zhen Wang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7993$E2B15E98-760A-4C0B-B7E9-E920D933DAB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7993$1B8A4047-C871-413B-AFFC-B8CF25E71665",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7993$BA01C475-5CAF-4CEC-9712-5375A9850A27",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhong Zhen Wang Arms.svg"
+          },
+          "hash": "9577ad7245c56579aa3beca92319d27e52400af2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q7993",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Zhong Zhen Wang"
+    }
+  },
+  "lastrevid": 17407886,
+  "modified": "2025-09-15T22:40:35Z",
+  "ns": 860,
+  "pageid": 30484,
+  "sitelinks": {},
+  "title": "Item:Q7993",
+  "type": "item"
+}

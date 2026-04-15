@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Narita Ujinaga"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16009$3CED4EA4-2C0C-4B68-B745-878DC587A7CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26944",
+              "numeric-id": 26944
+            }
+          },
+          "hash": "1b6ded09600c94c67812510001e30483967bd42a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16009$01AC9B12-CF55-4228-B296-DFF1B391B2EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15429",
+              "numeric-id": 15429
+            }
+          },
+          "hash": "e352c018b1970f61bddd01a1f1ca6095b37735c9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q16009$EC4B83BD-4D36-4382-AE8F-F14C03F1F1AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "成田-1"
+          },
+          "hash": "9e626ffc74f0fb434411edd0c7848e94bffbf28d",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16009$8472DD09-4796-4DCF-A73B-D361DDE87CA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16009$28C3AF8C-0A87-410C-96CD-6DED5FC7321B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16009$F809E7E9-B7EC-4BFB-87A2-802822BE19C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16856",
+              "numeric-id": 16856
+            }
+          },
+          "hash": "cdb8b06cf6463ebbf1a1913ee4a5f23f347bb4c5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16009$EDE82521-1608-4330-A07F-C14B2C014F0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16009$51172A7F-A67D-426F-BBFD-35FBA1AF7223",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1542-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c675aa02910012200f9cc6f5c92c985f6d015ee4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16009$EBEB48A0-5068-439D-910E-36FACEE5AE94",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1596-01-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cc40e777f93df30bc6b6d3ca49f4cd61cf6ef95d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16009$5119E529-A082-498F-A359-4955204EBA18",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11495692"
+          },
+          "hash": "365fab9709d7883d11051151004ce5dd87fe2de3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16009$825C1E28-AD21-4CED-BAD9-9B1416FBCCEA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Narita Ujinaga Arms.svg"
+          },
+          "hash": "a4e7f4900bc710f9bbe13e3b608cc46bf3a7a367",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1542-1596)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から安土桃山時代ての武将・大名。下野烏山藩主。子に成田氏範。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1542-1596)"
+    }
+  },
+  "id": "Q16009",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Narita Ujinaga"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Udžinaga Narita"
+    },
+    "en": {
+      "language": "en",
+      "value": "Narita Ujinaga"
+    },
+    "es": {
+      "language": "es",
+      "value": "Narita Ujinaga"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ناریتا اوجیناگا"
+    },
+    "it": {
+      "language": "it",
+      "value": "Narita Ujinaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "成田氏長"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нарита Удзинага"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Narita Ujinaga"
+    }
+  },
+  "lastrevid": 17415640,
+  "modified": "2025-09-16T00:26:14Z",
+  "ns": 860,
+  "pageid": 38283,
+  "sitelinks": {},
+  "title": "Item:Q16009",
+  "type": "item"
+}

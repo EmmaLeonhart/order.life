@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Motomune"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q14572$A8714652-310C-4996-A359-A2A6A5C76C65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14965",
+              "numeric-id": 14965
+            }
+          },
+          "hash": "256e06e48032ed22e9b31f992fc7ff1db6998aa4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14572$FF3E34EC-5DC1-463C-B558-0EFC581B4C73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14572$10FC1BF9-CDAF-4BCB-A29F-9AFAE40543D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14572$2BC31073-1204-4240-B2EC-744E1A17792D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14572$2A2494B0-FC28-4149-B06C-5D7F96D9135F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1335-08-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "552cf9920560cfce3ea89b3957aa5ca7797be225",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14572$BF614FB8-10C9-4A8D-A789-D13284556AE4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11380700"
+          },
+          "hash": "e7d849e6e936b415e216fde7bb5e8e21555bb771",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14572$2F2EA052-49CA-4650-9DED-E6762FCB2BBA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Motomune Arms.svg"
+          },
+          "hash": "a5139b70793a3390d617d9df61a33fd89f5c08f9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期の武士。従五位下・宮内少輔。伊達氏6代当主。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q14572",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Motomune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達基宗"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мотомунэ Датэ"
+    }
+  },
+  "lastrevid": 17414622,
+  "modified": "2025-09-16T00:11:54Z",
+  "ns": 860,
+  "pageid": 36872,
+  "sitelinks": {},
+  "title": "Item:Q14572",
+  "type": "item"
+}

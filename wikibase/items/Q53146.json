@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Chengyan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q53146$03AAC9C1-35AB-4B8F-996B-C9368897CAA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59937",
+              "numeric-id": 59937
+            }
+          },
+          "hash": "e163f9d43018f95ee6e60399688e9795a5dcd775",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53146$539EC2E7-3D2F-45CF-8743-BD0140E0BFAE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q59940",
+              "numeric-id": 59940
+            }
+          },
+          "hash": "4f5e4a4fa5419937ed468639a4bff7a962b90aca",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53146$EE15C78B-B85F-4124-994F-7513ABBA42F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53146$D5F9F759-E72D-41A3-842C-A11CF2398F24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53146$B37B210C-70A4-4ED9-8B6D-FDF1F193483E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44889",
+              "numeric-id": 44889
+            }
+          },
+          "hash": "f846d7b882566943d6636f2338d4e6bf6492d242",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53146$A3F95432-74E0-41E1-B191-748D9566C69D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53146$CFCF9516-AA82-4915-856A-7C419BF8F26D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0730-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c3697bdc167ec6998202950e4486728c880616e7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53146$F7D398BB-41F2-4A34-9213-24AC1EA0B0F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45458434"
+          },
+          "hash": "e00d2b4c431ca7706fdc0ecad08a7b36bb3c3697",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53146$541E16F6-1EAD-41FB-8252-CC83295B2BD4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Chengyan Arms.svg"
+          },
+          "hash": "78face2db4d97bf65bdb14807187fe7432252183",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171861"
+    }
+  },
+  "id": "Q53146",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Chengyan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Chengyan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dou Chengyan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇誠言"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Chengyan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "竇誠言"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦诚言"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇誠言"
+    }
+  },
+  "lastrevid": 17459696,
+  "modified": "2025-09-16T12:15:19Z",
+  "ns": 860,
+  "pageid": 67977,
+  "sitelinks": {},
+  "title": "Item:Q53146",
+  "type": "item"
+}

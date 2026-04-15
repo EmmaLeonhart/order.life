@@ -1,0 +1,486 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Go-Reizei"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q9837$2DEA6FA6-B4F9-4DD0-A45E-9B2642700CD6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719938"
+          },
+          "hash": "8dfcd2c148aa00a89d858afe6b08e2c1ca3d57c3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q9837$483B2218-E79E-4362-A6CF-82A2DF3B353C",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Go-Reizei"
+            }
+          },
+          "hash": "4466c0b84176f2fce1c9290c5ea64d906434695e",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9837$E39B1691-4B75-433E-85CE-60514C5D68A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9837$F18817A5-F83A-4936-B285-FB684D8880B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q9837$06B2257A-2866-4E96-A416-8D9011F00D7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9820",
+              "numeric-id": 9820
+            }
+          },
+          "hash": "face49b25bcdd6520a708d88846c478707613683",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9837$9738C9B9-D2D1-4CDA-9A51-E4966F166557",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9813",
+              "numeric-id": 9813
+            }
+          },
+          "hash": "98518dcc33eee9a3038502c769b489ef2f822e7b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q9837$B5FCE4B4-E39C-486E-854B-3152534B9133",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Go-Reizei"
+            }
+          },
+          "hash": "70ec3db0fa9dc044a0cc9bca5eab27cf63d109f5",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9837$5F67D050-0C2A-45E7-9119-A0D3439BAA84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9837$C8040A48-2F8A-4C76-BC88-7A170AA2A970",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1025-08-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5d3838a86e1105edb374a3acfeafcd85169fd6fb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9837$0C5B99FB-437A-455E-8D00-E1A510FAEBED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1068-05-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ded7ac4c0ddfe58832e7cabed1f8ca2ed8b7c90e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q9837$9C263451-6C8C-4A51-B014-C8F4F18D2419",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Go-Reizei.jpg"
+          },
+          "hash": "2b7eb31b14e4548456493192ccf3f10037258bf8",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9837$510C62CE-F2F4-4DE8-9D49-EA1AF7CF8CE3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q356060"
+          },
+          "hash": "81e59cf2748370d83c723587993b94e01943d8ae",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (1025–1068)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "70. Tennō von Japan (1045–1068)"
+    },
+    "en": {
+      "language": "en",
+      "value": "70th emperor of Japan"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani keiser"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の天皇"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans heerser (1025-1068)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński władca"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "70-й император Японии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "thiên hoàng thứ 70 của Nhật Bản"
+    }
+  },
+  "id": "Q9837",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "قو-ریزی (ایمپیراتور)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Go-Reizei"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Go-Reizei"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر گۆ-ڕێیزێی"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Go-Reizei"
+    },
+    "de": {
+      "language": "de",
+      "value": "Go-Reizei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Go-Reizei"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Go-Reizei"
+    },
+    "et": {
+      "language": "et",
+      "value": "Go-Reizei"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور گو-ریزی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Go-Reizei"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Go-Reizei"
+    },
+    "it": {
+      "language": "it",
+      "value": "Go-Reizei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "後冷泉天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고레이제이 천황"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "गो-राइझाइ"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Go-Reizei Thian-hông"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Go-Reizei"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Go-Reizei"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Go-Reizei"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Go-Reizei"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Go-Reizei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Го-Рэйдзэй"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Go-Reizei"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Go-Reizei"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Go-Reizei"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Go-Reizei wa Japani"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิโกะ-เรเซ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Go-Reizei"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Go-Reizei"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Ґо-Рейдзей"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Hậu Lãnh Tuyền"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Go-Reizei"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "後冷泉天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "后冷泉天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "后冷泉天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "後冷泉天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "後冷泉天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "后冷泉天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "後冷泉天皇"
+    }
+  },
+  "lastrevid": 17411692,
+  "modified": "2025-09-15T23:30:15Z",
+  "ns": 860,
+  "pageid": 32270,
+  "sitelinks": {},
+  "title": "Item:Q9837",
+  "type": "item"
+}

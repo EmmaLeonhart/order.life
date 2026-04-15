@@ -1,0 +1,182 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "宇文神挙"
+      },
+      {
+        "language": "en",
+        "value": "Yu Wen Shen Ju"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q52239$08C13584-FC3D-4FF1-9FEF-96DA107856A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52239$FC0EE9CA-BC05-471C-B7AC-543506BE085B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q52239$75444BB1-F4F4-46A5-9D1B-572CA9FF235A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52235",
+              "numeric-id": 52235
+            }
+          },
+          "hash": "a7bc3d05ebde0365fd615a3f9a8cd12dde620d54",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q52239$2C40E4B7-1067-44AC-82D9-2E25D55F2938",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q52239$9071ABE1-708B-4D17-A7E0-F9C059ED2822",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0532-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c9d4689f5319acc77871b76518cdb6604487d4a4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q52239$550E3793-8599-4992-8C97-E481D523A022",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0579-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "96b90201843808b578f6658d69f42ed7d00c12d3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q52239$85B56C28-2551-4B95-A7D3-B04A92C876E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11449427"
+          },
+          "hash": "904eae84c020e5aa7ed75fa3aeb8deb507ce26f7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q52239",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "宇文神挙"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "宇文神举"
+    }
+  },
+  "lastrevid": 17458176,
+  "modified": "2025-09-16T11:52:48Z",
+  "ns": 860,
+  "pageid": 67070,
+  "sitelinks": {},
+  "title": "Item:Q52239",
+  "type": "item"
+}

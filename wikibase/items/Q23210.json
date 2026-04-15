@@ -1,0 +1,195 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuwen Zan, Prince Han"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23210$146D48DE-FD49-4990-8DCB-F8C58805467C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23210$8597339D-79ED-4797-A724-1183A3C588F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23210$5B973FCC-2D82-4792-AEEA-59552EBD5BBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21152",
+              "numeric-id": 21152
+            }
+          },
+          "hash": "a0bee13d14d152f1571efc112d78f8ad87801d0b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23210$8DE03BA3-0D1D-489E-83CB-731D4D69FBF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23210$E5154B63-FDE1-493D-B067-086F11E702FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0565-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "827b47eeab14ade27289ed198dea2e7050237790",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23210$5486DBBD-FCA4-47DA-BC6B-0EC87EC93AFF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0581-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8515e56ac02eb98d70fc6b900c2e0b6e60c855ea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23210$ADD7DA3A-70F8-4E89-BC6D-DC9FCCD1E920",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10946216"
+          },
+          "hash": "394c24f2ba691961162f7a8c952eba16ed098eee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23210$A516434C-CFF0-44D4-B70D-93EA388663D0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuwen Zan, Prince Han Arms.svg"
+          },
+          "hash": "5ebe5c420830ea55d8cb6e0919bf16272eec0bec",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q23210",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yuwen Zan, Prince Han"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "宇文赞"
+    }
+  },
+  "lastrevid": 17422016,
+  "modified": "2025-09-16T02:57:53Z",
+  "ns": 860,
+  "pageid": 45165,
+  "sitelinks": {},
+  "title": "Item:Q23210",
+  "type": "item"
+}

@@ -1,0 +1,202 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kawagoe Shigeyori"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q11357$A6E15C3E-F21C-435B-A183-5C09551EEA5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11276",
+              "numeric-id": 11276
+            }
+          },
+          "hash": "7200fbf22cb96a2e9d4ce35162055254de0bf624",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11357$8FB8F2DB-8508-4070-9D73-C7319FC9E4B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12185",
+              "numeric-id": 12185
+            }
+          },
+          "hash": "4cf27ea39710544e6a6c4ef23d0f74596ad734b7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11357$424CE4E5-3738-47F7-8244-6305932E4DC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11357$8A2FBA00-B70B-4E39-BC4D-E191FC8972EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11357$1E86BE62-B114-4CCD-BA47-6F614162A58D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11357$77C93316-EF9E-4BB3-8708-8B04AD943250",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1185-12-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "04ed52c7cb004a2ecfaaaaba944487ce7f396be9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11357$D5AABC22-7EDA-45EA-819D-E7E596298883",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11554112"
+          },
+          "hash": "0e45d77102598f27e324e76c8ccf2d42d89ec9d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11357$947747AB-B626-4FB5-BEE8-1E9F9FF7FA12",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kawagoe Shigeyori Arms.svg"
+          },
+          "hash": "12a00522aba6988bbf1a2569da83ba4e9f6dbc02",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q11357",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kawagoe Shigeyori"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کاواگوئه شیگهیوری"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "河越重頼"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигэёри Кавагоэ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "河越重賴"
+    }
+  },
+  "lastrevid": 17412900,
+  "modified": "2025-09-15T23:47:59Z",
+  "ns": 860,
+  "pageid": 33731,
+  "sitelinks": {},
+  "title": "Item:Q11357",
+  "type": "item"
+}

@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Azai Naomasa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q21722$21DC0080-C46F-4E1C-90AA-FBFE9C784444",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24017",
+              "numeric-id": 24017
+            }
+          },
+          "hash": "4795ffa4e4c5d7df34f6aeb7194cbf82dd9d090c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21722$C764E3B5-FC14-4826-9925-33DE2175CCC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19772",
+              "numeric-id": 19772
+            }
+          },
+          "hash": "82ad554d1547d1ac64fd8e356afd49bcf38f3a8e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21722$6D701D87-6F7E-46AC-BB08-ADDB7D091800",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21722$00C257D7-09F6-4182-BB34-771C52FCB5FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21722$4EECC471-72AA-45A0-8877-3925473BC747",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35398",
+              "numeric-id": 35398
+            }
+          },
+          "hash": "ef05b5a4fcce85a39a8529d80c8d45e161004768",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21722$F77E9CBC-58B1-4DF5-9E4B-BE4F6E96AFB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21722$31CEF10D-FDFC-46A9-BB1B-68E1841ECA3A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1540-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b4251ed12942f209cc0e07a7760ead1553e3354",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21722$7743FC0A-9D16-488A-AA43-72F9AACFCB5E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11556974"
+          },
+          "hash": "097479b08e4aea3b73eaa075d39bcbd023534fe6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21722$7C5E5555-F5E1-4773-A528-84121820CE6C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Azai Naomasa Arms.svg"
+          },
+          "hash": "815562c6a02ad3cec5459bb703706beaa3767fc2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q21722",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Azai Naomasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "浅井直政"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Наомаса Адзаи"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "淺井直政"
+    }
+  },
+  "lastrevid": 17420774,
+  "modified": "2025-09-16T02:26:40Z",
+  "ns": 860,
+  "pageid": 43735,
+  "sitelinks": {},
+  "title": "Item:Q21722",
+  "type": "item"
+}

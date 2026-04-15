@@ -1,0 +1,357 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shireki //"
+      },
+      {
+        "language": "en",
+        "value": "Shireki"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q36599$CE47B79C-2C87-42BB-AAD3-FDB5BD01F395",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00301548"
+          },
+          "hash": "0de67eb28ff00decae61e78ae8fc29fe525d4a4b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q36599$D802A7AF-ABBF-425D-B2CD-211F12935407",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37621",
+              "numeric-id": 37621
+            }
+          },
+          "hash": "99342d87d4a46392abd548f95c1b415436f1f0c6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36599$22CCA7CB-E42A-4499-A0A8-877F71F1D6B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37629",
+              "numeric-id": 37629
+            }
+          },
+          "hash": "48857378266bba8636dffae2d0cd875e7bb91571",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36599$FACB3287-2ABA-4C84-B99B-5294333694ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37625",
+              "numeric-id": 37625
+            }
+          },
+          "hash": "7a560a43b0a00fd40ad24987f3d6604b1320f42f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q36599$1C49332A-FD9F-4622-AE09-5866E5224B97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36599$075DB614-8595-49C6-9F24-D22A78D4620F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36599$DFE7D9D7-CE4E-40AA-BE30-8962A4D74E19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36514",
+              "numeric-id": 36514
+            }
+          },
+          "hash": "7a2a826179a885e91d88dfa861722dac528b4d26",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36599$F2E66B3D-E1CA-4891-BF1C-FCEC4D2896D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q36599$ED75AE54-16C8-4941-B266-5C668632E937",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36599$C2E67223-42B4-4B1C-B520-7C0D584CE8B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7070839"
+          },
+          "hash": "6780010c27a4aae1f67c96534537143ff9b25fa4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q36599$14319E30-A72C-476C-BFE5-B0FC57868D21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074791576068"
+          },
+          "hash": "1b050673bddf8e35c4da638991d67c4bf43d132c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q36599$AD90225A-B338-4BCA-9590-B8535E0BE129",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shireki Arms.svg"
+          },
+          "hash": "e052c3f39ac629ce848e225e8ea50a046f3631a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Mongke Khan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Möngke mongol nagykán gyermeke"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Мунке"
+    }
+  },
+  "id": "Q36599",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Shireki"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Shireki"
+    },
+    "da": {
+      "language": "da",
+      "value": "Xiliji"
+    },
+    "de": {
+      "language": "de",
+      "value": "Shireki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shireki"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shireki"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Shireki"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Shireki"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Sireki"
+    },
+    "it": {
+      "language": "it",
+      "value": "Shireki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "シリギ"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "昔里吉"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Ширэги"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Shireki"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Shireki"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Shireki"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Shireki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ширеки"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "昔里吉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "昔里吉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "昔里吉"
+    }
+  },
+  "lastrevid": 17438730,
+  "modified": "2025-09-16T07:11:12Z",
+  "ns": 860,
+  "pageid": 55150,
+  "sitelinks": {},
+  "title": "Item:Q36599",
+  "type": "item"
+}

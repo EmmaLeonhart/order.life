@@ -1,0 +1,593 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Juntoku"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q11811$3181F1FE-25E4-4312-96A2-9D78AC646670",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719926"
+          },
+          "hash": "46dd3cb47396c8425dec4a14a8f19a3ddf6833f8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11811$477AB4CE-2441-4F89-A7AA-FD95CD7CB50B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11820",
+              "numeric-id": 11820
+            }
+          },
+          "hash": "c21540f6f259ec5da9a17549544336532fd3100f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11811$C1278D2D-54B2-43EB-8725-3F7B4EBE3530",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12644",
+              "numeric-id": 12644
+            }
+          },
+          "hash": "54c8af4f9ca5d1626cb17fe84d6cbcab32085742",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11811$0CECF3DF-E65A-490E-A670-A58D0F5B815E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12648",
+              "numeric-id": 12648
+            }
+          },
+          "hash": "0d5e461b00c1a8111aa0535c47ab0398cabe6a40",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11811$9AE24C67-25EB-4BEE-9FDC-1E1AD95CCB34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11811$94724BFA-ED1D-4F12-BFC0-9A475EC1D19F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q11811$16264401-75E8-4101-A50F-7A488E6C4D12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11741",
+              "numeric-id": 11741
+            }
+          },
+          "hash": "c842636e144ee658333cc9bdf3547575d4a9cc6a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11811$9A9F9822-5C53-4612-9AB2-4AD58C56EDD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12063",
+              "numeric-id": 12063
+            }
+          },
+          "hash": "2d0dbe2a0d792a60e7865eea884d1d8265c04bf8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11811$B5DD71BD-65C7-4916-B4C3-982AA7772D5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11056",
+              "numeric-id": 11056
+            }
+          },
+          "hash": "25ccf9c1647401f302c584ddbab18f01b7996efb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11811$4177EBAE-E495-44B3-BED8-64861F530A67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11811$10533926-6DC1-4EAF-8DED-61BA8280DCCD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1197-10-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c90d7980e4a49dc5b6f70f58163dfd2925e9cfd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11811$7439415A-336D-4D15-86CE-B3091D2D72F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1242-10-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ff81cc285bc83254b6855c42fbfbc4e37f52dbdc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11811$B3B6376A-D3E3-43A1-9F07-5A1536206B22",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Juntoku large.jpg"
+          },
+          "hash": "f5f343d8346b09b2bd56255f4608835beeaf28d3",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11811$C8A6CAB5-BF45-4BDD-899C-206FE164CB7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q357249"
+          },
+          "hash": "9dba9cf57f2fbb8f58d90d62ece17ad60812bf98",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11811$45D9C42F-4F8B-4CFE-A316-9D9370A817CA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Juntoku Arms.svg"
+          },
+          "hash": "5d4c45672264af3168a570c38574a27c92616501",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعر ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "poeta xaponés (1197–1242)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "poeta japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař"
+    },
+    "da": {
+      "language": "da",
+      "value": "japansk poet"
+    },
+    "de": {
+      "language": "de",
+      "value": "84. Tennō von Japan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "es": {
+      "language": "es",
+      "value": "poeta japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani keiser ja luuletaja"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "poeta japoniarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاعر ژاپنی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Impire na Seapáine"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poeta xaponés"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の天皇"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "japansk poet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichter (1197-1242)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "japansk poet"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński poeta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poeta japonês"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "84-й правитель в истории Японии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk poet"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Nhật Bản"
+    }
+  },
+  "id": "Q11811",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "جونتوکو (ایمپیراتور)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Juntoku"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Juntoku"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپڕاتۆر جونتۆکو"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Džuntoku"
+    },
+    "de": {
+      "language": "de",
+      "value": "Juntoku"
+    },
+    "en": {
+      "language": "en",
+      "value": "Juntoku"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Juntoku"
+    },
+    "et": {
+      "language": "et",
+      "value": "Juntoku"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور جونتوکو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Juntoku"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Juntoku"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Dzsuntoku"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Juntoku"
+    },
+    "it": {
+      "language": "it",
+      "value": "Juntoku"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "順徳天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "준토쿠 천황"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "जुंतोकू"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Zyûntoku Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Juntoku"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Juntoku"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Juntoku"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Juntoku"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Juntoku"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Дзюнтоку"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Juntoku"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Juntoku"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Juntoku"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Juntoku wa Japani"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิจุนโตะกุ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Juntoku"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Juntoku"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Дзюнтоку"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Juntoku"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Juntoku"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "順德天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "顺德天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "顺德天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "順德天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "順德天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "顺德天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "順德天皇"
+    }
+  },
+  "lastrevid": 17413170,
+  "modified": "2025-09-15T23:51:53Z",
+  "ns": 860,
+  "pageid": 34167,
+  "sitelinks": {},
+  "title": "Item:Q11811",
+  "type": "item"
+}

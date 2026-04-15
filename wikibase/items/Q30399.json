@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "KeonAhn //"
+      },
+      {
+        "language": "en",
+        "value": "KeonAhn"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q30399$EE5FCBE7-2489-4C30-9B64-3B5552658958",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30399$7E268569-A7FB-4C71-AD8A-77B2BB2A52D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q30399$D80BAD8D-B645-4493-99BF-FA66072EB1AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30383",
+              "numeric-id": 30383
+            }
+          },
+          "hash": "bd5f36d231c578e78e01870bb16c8afde6b86aad",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q30399$67A3272D-EE5D-420B-8603-F7002109C906",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30387",
+              "numeric-id": 30387
+            }
+          },
+          "hash": "d468b821c713a7fff132a6e88d3a71a54768604d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q30399$BA5D46CA-A9B8-4998-A168-61618005713C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q30399$0CB313F7-F95D-4C8A-A2C6-F4A36C614C9B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1393-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2fd765f06a0a00e8a8725cdf59f9c6564a646f92",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q30399$E7C80F85-9149-4A0A-B88D-661A95BF3DF9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1415-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2762d13bc3b702320e7d1f96578032463f84a4d7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q30399$8ED59F7F-23FF-4C36-BAFB-486B36CC74A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12583779"
+          },
+          "hash": "382a2ecea0f0b9f5fab4e631095eea154d924057",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q30399$78A90A29-DDB7-4DD1-94EA-213DC3DF0F8D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "KeonAhn Arms.svg"
+          },
+          "hash": "8f34b13c29d7631bdefca1aeee8efa077a0140fb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "noblewoman"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선 태종과 원경왕후의 자녀"
+    }
+  },
+  "id": "Q30399",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "KeonAhn"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "경안공주"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кёнъан-конджу"
+    }
+  },
+  "lastrevid": 17429954,
+  "modified": "2025-09-16T05:03:44Z",
+  "ns": 860,
+  "pageid": 50514,
+  "sitelinks": {},
+  "title": "Item:Q30399",
+  "type": "item"
+}

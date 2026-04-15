@@ -1,0 +1,227 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Enen"
+      }
+    ]
+  },
+  "claims": {
+    "P3": [
+      {
+        "id": "Q9905$2BD3FCA8-C0DD-47D5-A68F-EC68D3A57C8E",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Enen"
+            }
+          },
+          "hash": "df98d705b78a7cc9c09e737d2694c49bc9b07a32",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9905$EAA0819A-5BCC-44C2-8990-722B61BF7969",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9905$E23C4C47-7CCE-4547-9271-6E8A2CD726AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9905$C300AA20-A6B7-40F3-B18C-E48E30DC0678",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9447",
+              "numeric-id": 9447
+            }
+          },
+          "hash": "6f26da21656edcee8b0caba482ce992b2be69cfe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q9905$E7F489F2-E966-4CEE-9D2D-758DE8A69161",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Enen"
+            }
+          },
+          "hash": "ad3a252e866d1a1a49eb24493e5129b17631b5ac",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9905$9CF6371C-6DA1-42CE-8FC9-3C8893C58F33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9905$A5911CB8-8FD9-490C-8C1B-151CF70FAD57",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0950-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d252c22f48df22886dfd50da624c1facf05ebc56",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9905$4433E908-6C38-4299-81C7-642D9815CB1C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1040-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9fe668ac82a3217a82301e7543a8bba9d3ed67ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9905$5647BF5B-E7AC-40DF-841C-DF2CA4A13A4D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11486477"
+          },
+          "hash": "f7526fa5764e1621f1388d85bb11885fe1cb3ebf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Monk and painter of the mid-Heian period"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "kunstschilder"
+    }
+  },
+  "id": "Q9905",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Enen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "延円"
+    }
+  },
+  "lastrevid": 17411818,
+  "modified": "2025-09-15T23:32:05Z",
+  "ns": 860,
+  "pageid": 32333,
+  "sitelinks": {},
+  "title": "Item:Q9905",
+  "type": "item"
+}

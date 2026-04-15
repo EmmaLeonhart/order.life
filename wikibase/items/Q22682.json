@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hosokawa Ujitsuna"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q22682$AA028637-3EC3-4E19-B455-730B80A63EF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "細川-14"
+          },
+          "hash": "3bf493c8fa759c897b457e708e69ef044a2997fd",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22682$C781F773-170E-44C4-BD7D-074C214EA74B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22682$4707B533-27AF-4DF1-A2A7-D92F795FF8AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22682$10FF6B94-F810-460D-B7BE-B51E03097CDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35386",
+              "numeric-id": 35386
+            }
+          },
+          "hash": "9309e575452bb73eca18411d0de6d804e28975a9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22682$EE411E42-100A-4382-A37A-9C045962ECD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22682$0D6E4D23-61F9-462E-8492-C385E77B588E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1514-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1dc7fbced83f47dc64e9a71788565c40c8b72e6a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22682$34DAC82A-9931-4B3F-9D50-EE58E1B8B26C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1564-01-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "af4106a1e67e3a13de1fad190968215af041bc07",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22682$51B77FE3-38F3-4266-AADD-D5D004542406",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4366949"
+          },
+          "hash": "2e695dba9131bebec407a4d802e1e736f0f957ee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22682$8908B802-54D2-4271-929F-1159B1B80DB7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hosokawa Ujitsuna Arms.svg"
+          },
+          "hash": "d87cdb4c1baa3b5c1eca39a4aa585e8ddb7ac585",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1514–1564)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese military commander and Deputy Shogun of the Hosokawa clan in the end of the Muromachi period and Sengoku period of the 16th century"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "samouraï"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将。室町幕府35代管領（最後）。細川京兆家18代"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1514-1564)"
+    }
+  },
+  "id": "Q22682",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hosokawa Ujitsuna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hosokawa Ujitsuna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hosokawa Ujitsuna"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Hosokawa Ujitsuna"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Hosokawa Ujitsuna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hosokawa Ujitsuna"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هوسوکاوا اوجیتسونا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hosokawa Ujitsuna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "細川氏綱"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hosokawa Ujitsuna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Удзицуна Хосокава"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hosokawa Ujitsuna"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hosokawa Ujitsuna"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "細川氏綱"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "細川氏綱"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "細川氏綱"
+    }
+  },
+  "lastrevid": 17421504,
+  "modified": "2025-09-16T02:47:51Z",
+  "ns": 860,
+  "pageid": 44661,
+  "sitelinks": {},
+  "title": "Item:Q22682",
+  "type": "item"
+}

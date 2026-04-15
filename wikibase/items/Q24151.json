@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jikken"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24151$0B903C95-ED02-47F8-9AF3-90D22F8DB7DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24151$7222CCEA-FB2B-4CA5-89E6-88D07A929671",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24151$C8F0D6A0-D87D-4CCA-B1DA-EFA930F0E867",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22602",
+              "numeric-id": 22602
+            }
+          },
+          "hash": "9e11348b064efe66bb2884a151315ee9ebbf9c7b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24151$A8607B65-A688-4238-A573-025CEC0E0F0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24151$A441C9D2-6157-4780-ABF6-C01BAC460044",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1490-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3dc84d2c6ec9e286ebaaf08a3d561e956861983b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24151$CBF00FE3-1A39-4A93-8421-BB621844FF75",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1523-09-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0fe39fecdfed46bdc5b327508f3de9cf8f53bad0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24151$C9329CD4-BA39-43B5-B01A-BBD6C4C98057",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15838950"
+          },
+          "hash": "6b51e1397727671f0f53384700290542a877dc44",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24151$4B409F20-0346-49A3-894D-12428CAA485F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jikken Arms.svg"
+          },
+          "hash": "f1c1505e8f39b855a4810991680a327700b5177a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese monk of the Sengoku period. son of Rennyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の僧"
+    }
+  },
+  "id": "Q24151",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Jikken"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jikken"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jikken"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jikken"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jikken"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "実賢"
+    }
+  },
+  "lastrevid": 17423140,
+  "modified": "2025-09-16T03:17:59Z",
+  "ns": 860,
+  "pageid": 45956,
+  "sitelinks": {},
+  "title": "Item:Q24151",
+  "type": "item"
+}

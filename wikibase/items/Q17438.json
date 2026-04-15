@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ichijō Kanefuyu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q27842$79DAC2CF-01ED-4EE1-A56A-A243D63AE066",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "804805"
+          },
+          "hash": "43577c2a5b3801f29c4caf111c635fb66751673f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q27842$C383E519-D23D-4A1A-A040-903AAF10BCAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27842$898555B6-BFEA-49E0-B833-0E46105E8790",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q27842$4CECE594-F850-4F9E-B825-364673B14F37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18968",
+              "numeric-id": 18968
+            }
+          },
+          "hash": "6ee8786a5fdb7dfcb39f3e7620f2e633f5210f48",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q27842$12C411FE-72F4-403D-A9EF-1B064D41A2DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q27842$1686151A-D1AD-4482-8E2F-84323476184C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1529-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ce46997754ddf885911a2a228ab5270c6c406336",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q27842$14BF4C71-359E-493F-8396-37C2595CB3BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1554-03-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "81befee2dc67579530833f64bb8a0e423deb9332",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q27842$1DCCBFEA-5C67-4F56-B983-FC5275EF216D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2877648"
+          },
+          "hash": "87855e0af04934fd4a6f8ce60275112054901a38",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q27842$01B308CA-3A28-40C4-8AE0-A48F78C2598F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ichijō Kanefuyu Arms.svg"
+          },
+          "hash": "37cfbb50b17eeda5b816ae0c9805c151d3c2bef5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Court noble"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の公卿。一条家12代。従一位・関白、左大臣。藤氏長者"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Kanpaku"
+    }
+  },
+  "id": "Q27842",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ichijō Kanefuyu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ichijō Kanefuyu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ichijō Kanefuyu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ichijō Kanefuyu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ichijō Kanefuyu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "一条兼冬"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ichijō Kanefuyu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ichijō Kanefuyu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ichijō Kanefuyu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ichijō Kanefuyu"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "一條兼冬"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "一条兼冬"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "一條兼冬"
+    }
+  },
+  "lastrevid": 17427154,
+  "modified": "2025-09-16T04:23:09Z",
+  "ns": 860,
+  "pageid": 48649,
+  "sitelinks": {},
+  "title": "Item:Q27842",
+  "type": "item"
+}

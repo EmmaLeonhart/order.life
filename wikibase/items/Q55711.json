@@ -1,0 +1,362 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Isabelle de Sabran //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q55711$0CBCD642-75A6-4210-A535-8F6CFBCDE77E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "821701"
+          },
+          "hash": "e789c4f2a9434dec537592daa51c784191789f35",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q55711$3998CAC9-AFC5-4849-9201-24CD0913D14B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00161640"
+          },
+          "hash": "54d29be6224ea4d699c8dad3e9d06e950e840823",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q55711$F26F24DF-AE54-427F-BEDF-A349B5A24733",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55324",
+              "numeric-id": 55324
+            }
+          },
+          "hash": "726b80d90a8b1f76e01c4c9c667bdc58ef23b7d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55711$E92BB27A-63C6-4B08-A305-8000189FC524",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55711$D60E60A4-3507-4524-840D-7D1A1E01BC08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55711$8D0F5161-ABE1-4745-B613-30C706F1E4AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55703",
+              "numeric-id": 55703
+            }
+          },
+          "hash": "1a6ce4b1edaef1247fa73a4c4f22626a3af4b84e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55711$970184FF-5B7A-4073-A0FB-CDAB4CF36550",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50135",
+              "numeric-id": 50135
+            }
+          },
+          "hash": "c1d4a17d95fc8638db74997cb6e02cfe16a1c547",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55711$690461BC-A895-46EF-A93E-1CE613A601CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55711$C6AB8FF8-3760-4530-B327-D3B9066C7D96",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1297-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "73e829099023760b2f8ab777a61d5ba3a72bcf44",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55711$59FFD999-741F-4601-842E-6BAC58B2CE55",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1315-05-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "61c32d4fde97a71d682f43996d12d73ae02d552c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55711$C9145C61-35E8-47DA-8928-E9BD80D0CEB6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2289061"
+          },
+          "hash": "51bf82fbbad287d66db6c423165587509268667d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55711$F0191EC6-4938-4B6D-9E32-D89B7FE1ED18",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006405101196"
+          },
+          "hash": "48ae420e0d73ae79b738966541227908a1b90049",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q55711$314021BA-7C71-44E8-9EDD-B04E4196F7A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=isabella;n=de sabran"
+          },
+          "hash": "249045e6c9cac3ee608a6a581b3ebb08a4b6ac0c",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55711$B4928CBE-9891-41B2-8D91-935E739C93B1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isabelle de Sabran Arms.svg"
+          },
+          "hash": "9cb8f3669339895fbc3bc6c3eab5a25726a8ca74",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "infanta de Mallorca"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "španělská princezna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Spanish princess"
+    }
+  },
+  "id": "Q55711",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Isabel de Sabran"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Isabela ze Sabranu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Isabelle de Sabran"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ισαβέλλα ντε Σαμπράν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Isabelle de Sabran"
+    },
+    "es": {
+      "language": "es",
+      "value": "Isabel de Sabran"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Isabelle de Sabran"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Izabela od Sabrana"
+    },
+    "la": {
+      "language": "la",
+      "value": "Isabella Sabranensis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Isabella van Sabran"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Isabel de Sabran"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Isabel de Sabran"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Изабелла де Сабран"
+    }
+  },
+  "lastrevid": 17463838,
+  "modified": "2025-09-16T13:16:42Z",
+  "ns": 860,
+  "pageid": 70542,
+  "sitelinks": {},
+  "title": "Item:Q55711",
+  "type": "item"
+}

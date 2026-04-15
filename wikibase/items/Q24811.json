@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kume Yoshihiro"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q24811$F6CFE7FC-10D1-4B23-A117-E3370099F8CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41309",
+              "numeric-id": 41309
+            }
+          },
+          "hash": "bfaef0e72ed033c59c7819c2d43e72f5b9184e7f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24811$BF35B637-BBB8-41CB-A682-8ED5677AC9FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50726",
+              "numeric-id": 50726
+            }
+          },
+          "hash": "a102003c6357065bf380e3abfcff9f0739cd3804",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24811$02538952-3BB8-4413-8A7C-A068DB109A1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24811$582665BF-E42A-46A3-92CD-A776ACE8AD40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q24811$3172FA84-A59E-467D-8183-E585FBD7286F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39278",
+              "numeric-id": 39278
+            }
+          },
+          "hash": "3a333f85b5a00701acf10e7e4f44092bb6fa4bfe",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24811$FE6C4581-967F-45E2-8A5C-F92A223CA826",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24811$9C861651-FB88-4CF0-BD50-0E6A8E4C61BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1553-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b79b2a904e277acc717c3d4e318f5cacf52f8cb4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24811$7E68D330-7184-4E33-A28D-ECF136A0DA03",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11369634"
+          },
+          "hash": "a4b77c26bb25230964e5b8735f965d6e16695fb4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24811$3C7049E8-5086-4D56-B8EC-48B60FD2F64F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kume Yoshihiro Arms.svg"
+          },
+          "hash": "49bed8842f3f09634e0b0ac170cad173089023ee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将。細川氏の家臣。阿波芝原城主。三百貫。安芸守。子に久米義昌。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q24811",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kume Yoshihiro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "久米義広"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёсихиро Кумэ"
+    }
+  },
+  "lastrevid": 17423708,
+  "modified": "2025-09-16T03:32:12Z",
+  "ns": 860,
+  "pageid": 46587,
+  "sitelinks": {},
+  "title": "Item:Q24811",
+  "type": "item"
+}

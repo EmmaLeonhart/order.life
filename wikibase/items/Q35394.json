@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ting Tian Ya Xing"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q35394$E8884617-A683-4F01-9853-4A6D56FDC2AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39487",
+              "numeric-id": 39487
+            }
+          },
+          "hash": "f18c7f1117d8912fee3bd025ee69a7c10e0a5279",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q35394$6125CB09-22D9-4748-B775-4BB3C937FD22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q35394$AF8026BA-3F1A-442E-984A-8AE878236261",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q35394$BEF4899E-70DA-44AB-8771-43423CFC3114",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31276",
+              "numeric-id": 31276
+            }
+          },
+          "hash": "591f3c09c343717c1bef883b01d44e7f2c07dd98",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q35394$C1378367-207D-4849-846D-7182F93523B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q35394$36AD67E1-F5C7-4300-BB9B-2A6D9CB1D469",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1434-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fce0bc7365d4875151e43c9b21c40d10f44eb4f4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q35394$7BA20184-989C-4BA5-BF34-98740562D039",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1495-03-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "382ae7669ae435de0201ace91f15cee6ca550dd2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q35394$1148E030-96D3-4F2F-A8EF-2178CD9DDD4A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108840944"
+          },
+          "hash": "71961d9a26f5a7ade65a3179882a72b8356f7f20",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "従一位・権大納言。按察使。子に日讙（妙蓮寺、日護）"
+    }
+  },
+  "id": "Q35394",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "庭田雅行"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "庭田雅行"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "庭田雅行"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "庭田雅行"
+    }
+  },
+  "lastrevid": 17436978,
+  "modified": "2025-09-16T06:46:13Z",
+  "ns": 860,
+  "pageid": 54250,
+  "sitelinks": {},
+  "title": "Item:Q35394",
+  "type": "item"
+}

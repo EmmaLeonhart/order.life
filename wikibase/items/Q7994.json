@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "利基王"
+      },
+      {
+        "language": "en",
+        "value": "Li Ji Wang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7994$E049429D-3C95-41E8-8BE2-6C6D3A1529D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7994$107FE5AC-3165-4FAA-9208-F88E12FA0D81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7994$A6EC0D90-C588-4924-8340-2334E72C84E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Ji Wang Arms.svg"
+          },
+          "hash": "76bd89eb8d70042310f1d3c4072851490e710172",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q7994",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Li Ji Wang"
+    }
+  },
+  "lastrevid": 17407888,
+  "modified": "2025-09-15T22:40:37Z",
+  "ns": 860,
+  "pageid": 30485,
+  "sitelinks": {},
+  "title": "Item:Q7994",
+  "type": "item"
+}

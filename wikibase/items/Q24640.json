@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "分部光忠"
+      },
+      {
+        "language": "en",
+        "value": "Fen Bu Guang Zhong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q43098$7AEC8DBB-9BD6-4E68-8303-C6E800E98BC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50206",
+              "numeric-id": 50206
+            }
+          },
+          "hash": "68e59dc172a74158925719b0fa7ea02fb3d14f97",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43098$5682CFA9-84CD-4A8F-B864-5104D2B7E912",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43098$633684A6-530B-4DE0-B27E-F69C66F13657",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43098$2BF0C58D-8419-433A-93AB-ACAEC46096BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22404",
+              "numeric-id": 22404
+            }
+          },
+          "hash": "6c7a90a19681ac345e629ac5149d07e18d3e3fea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43098$4179D3F4-E3D3-4DF1-AE80-F62D78DB6358",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43098$EC8663F7-8AA6-4B54-8EFB-B2EFFBE0DC81",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1698-08-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "17e66cf71fc403b8b15432cb93e47a036bb1c9a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43098$C3FF18C7-8315-4768-A76C-77C05FB20310",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1731-04-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "082b9287775655d92edbb66cc025b208f8b286a4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43098$8E30362B-9048-4EBD-A569-F0B407C83534",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11396154"
+          },
+          "hash": "31ac3e80fed3d42cb8f94e7cc5c49c14f2703fb6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代中期の大名"
+    }
+  },
+  "id": "Q43098",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "分部光忠"
+    }
+  },
+  "lastrevid": 17447088,
+  "modified": "2025-09-16T09:10:07Z",
+  "ns": 860,
+  "pageid": 60012,
+  "sitelinks": {},
+  "title": "Item:Q43098",
+  "type": "item"
+}

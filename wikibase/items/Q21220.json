@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yan Rong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q21220$460B5706-E970-4F7E-815D-47DCC2D9C3C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19303",
+              "numeric-id": 19303
+            }
+          },
+          "hash": "f9376c6eb31acfc1a73a372c3785125bfd30599b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21220$1FF45D7D-76C7-4BC8-94EF-F9CF7227CBB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23364",
+              "numeric-id": 23364
+            }
+          },
+          "hash": "ea3b7e7f50753993ade4cefc33366420fb3a04fe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21220$32982E91-6064-44D5-B09E-398C5D7736E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21220$6BF10F95-7976-46EE-BF46-576E758E6637",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21220$AEFA416F-FBC9-43A7-903A-3323FDC9367F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23363",
+              "numeric-id": 23363
+            }
+          },
+          "hash": "202e765377da5232a4a738cad5db9fe78566dd41",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21220$DB1EB072-A205-45E4-A3F1-94849AC13251",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21220$2F17FC50-8F4F-4AE7-8AC6-A4A11D38D686",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21220$86FC3712-D2AC-44DD-8346-955627DBDD4C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45489341"
+          },
+          "hash": "baa60b00e519334b380af7d690eece8127de013c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21220$769A64A2-E6C9-4A6C-A4EE-2BF88FCEAE32",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yan Rong Arms.svg"
+          },
+          "hash": "f535cacc5bd76e5b98518d00fd4fca2d3c8687c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 151344"
+    }
+  },
+  "id": "Q21220",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yan Rong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yan Rong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yan Rong"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "燕榮"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yan Rong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "燕榮"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "燕荣"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "燕榮"
+    }
+  },
+  "lastrevid": 17420182,
+  "modified": "2025-09-16T02:14:27Z",
+  "ns": 860,
+  "pageid": 43276,
+  "sitelinks": {},
+  "title": "Item:Q21220",
+  "type": "item"
+}

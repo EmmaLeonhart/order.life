@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Hidenori"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q18020$E354C1EC-6904-4873-9E9C-562B33604AAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-59"
+          },
+          "hash": "17ebdb4a06053dda64c818e9b29dade89b491921",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18020$2F83CF75-7A82-45AA-BF89-51C5672B21D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18020$A23B81B6-A5ED-42BB-AAF7-435649388D5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18020$B919BB62-4525-44C7-9413-77203515F3EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16711",
+              "numeric-id": 16711
+            }
+          },
+          "hash": "7f690b27a267cfdf3020b4f7bc31a1eb40d6225f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18020$4838BCA7-43E1-4334-94BA-ECC53E6076F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18020$63C6D7F4-E020-4914-B326-581C893A0270",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1581-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "679380fc9100ef6f3021e11c92a75163f2f344f0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18020$0410108E-F59C-4E46-A6FD-02F54CC60BD7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1625-11-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7da23029d10a7732394eb34af45d4984b0023e2b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18020$EAD280E0-16ED-4DB8-B09E-36BF01DA7AAD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608403"
+          },
+          "hash": "283c65e34f05018254c73939e2be1c8429393bc7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18020$FE355FD9-601A-4290-8F34-2E5619CB863F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Hidenori Arms.svg"
+          },
+          "hash": "4cd1745d5703158fed1b05ad470b76d62689868d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the Azuchi-Momoyama period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代初期にかけての武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q18020",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Oda Hidenori"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hidenori Oda"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oda Hidenori"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oda Hidenori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田秀則"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Oda Hidenori"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ода Хіденорі"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Oda Hidenori"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "織田秀則"
+    }
+  },
+  "lastrevid": 17417454,
+  "modified": "2025-09-16T01:06:13Z",
+  "ns": 860,
+  "pageid": 40225,
+  "sitelinks": {},
+  "title": "Item:Q18020",
+  "type": "item"
+}

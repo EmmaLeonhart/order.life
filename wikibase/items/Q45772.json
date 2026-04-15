@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Buqa Temür //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q45772$4810B12A-D8B7-408E-98CB-A7B49B20FDCD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00374616"
+          },
+          "hash": "178639b09355bcbcc93051c7f33cca4727dcbd1b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45772$362AD9E9-75F6-4A80-81F8-912CDAD4B0FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45772$2948B84E-8129-4DEA-BA60-FF2D1709EB64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45772$87568591-D472-4486-8DF0-271ED1FAD4E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43079",
+              "numeric-id": 43079
+            }
+          },
+          "hash": "3f56c007e922907e15286e74f8a954dd6e5599ce",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45772$64401600-528B-4B13-8E0B-CD6CFCE9DDBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45772$B64D1DB2-D0F8-4294-BE61-0F2A74E843E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45772$48A5A02B-7DDD-4A8F-82E1-B160E6B91675",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1282-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da8cf2de3988e13a58eace87354874246734c93b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45772$895169AD-E048-408C-BE29-20CF6A4C3912",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12857549"
+          },
+          "hash": "34ff00615cbf76477c8ad86ed810e8eb4c73ce1f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45772$34EB3C78-375C-45DD-8EC0-1301E18D5797",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Buqa Temür Arms.svg"
+          },
+          "hash": "356198bb47e1ac585790fe52954c8a17bf84b904",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chagatai Khan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Khan de Chagatai"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "モンゴル帝国の皇族。11代チャガタイ・ハン。子にオルク・テムル、オルジェイテイ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хан Чагатайского улуса"
+    }
+  },
+  "id": "Q45772",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "بوكا تيمور"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بوغا تیمور"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Buqa Temür"
+    },
+    "de": {
+      "language": "de",
+      "value": "Buqa Temür"
+    },
+    "en": {
+      "language": "en",
+      "value": "Buqa Temür"
+    },
+    "es": {
+      "language": "es",
+      "value": "Buqa Temür"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بغا تیمور"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Buqa Temür"
+    },
+    "it": {
+      "language": "it",
+      "value": "Buka Temür"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ブカ・テムル"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Бөхтөмөр"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тука-Темюр"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "புகா தெமூர்"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "بۇقا تۆمۇرخان"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Буга-Тимур"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Buga-Temur (Chig`atoy)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "秃里帖木儿"
+    }
+  },
+  "lastrevid": 17450428,
+  "modified": "2025-09-16T10:00:06Z",
+  "ns": 860,
+  "pageid": 62011,
+  "sitelinks": {},
+  "title": "Item:Q45772",
+  "type": "item"
+}

@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Chen Shubiao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q23302$394489E6-4D61-4825-B45A-14D8A88D9B38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45181",
+              "numeric-id": 45181
+            }
+          },
+          "hash": "db25ad3a7d84ff070d8b81129f151738b5c11f90",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q23302$D8EA3D4A-743D-45D9-9E60-183C2F10D87D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23302$ACE2079A-09B1-4586-BF08-EE16E890BF22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23302$23159F16-D8B6-4884-9282-ADA20432D895",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23272",
+              "numeric-id": 23272
+            }
+          },
+          "hash": "174e56ef20be6cc2c5dadd4465772bc54579632e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q23302$023939BB-5891-4CA1-BB96-4F954AC4D389",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45173",
+              "numeric-id": 45173
+            }
+          },
+          "hash": "63095708e4763fece3ee6d9986e7187102cde1a6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23302$8FDB833B-2B6B-4D64-A457-FFE1FF2EDBDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23302$4074800B-1059-4AE9-AD97-26D4CB5B7384",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0654-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "63bb5b108b55d9691658d89080d6e6cf3bf9dfa4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23302$71E8CD58-579E-4521-93A3-3DBCD621F6A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10565470"
+          },
+          "hash": "7f92da8ae1a2fbe658e5e90fb4557a02d8fc8c2b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23302$8C3B9448-F312-41DD-87D9-0391E35463F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074734221999"
+          },
+          "hash": "7ee69694a8c40cca45e453fe75ce5ab22737c457",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23302$6D15972F-7D67-4362-BBA2-2F9758DC936D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Chen Shubiao Arms.svg"
+          },
+          "hash": "ca820635a7d44ae4e070bb7687a37243634f4205",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172322"
+    }
+  },
+  "id": "Q23302",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Chen Shubiao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Chen Shubiao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Chen Shubiao"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "陳叔彪"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chen Shubiao"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "陳叔彪"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "陈叔彪"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "陳叔彪"
+    }
+  },
+  "lastrevid": 17422188,
+  "modified": "2025-09-16T03:00:19Z",
+  "ns": 860,
+  "pageid": 45256,
+  "sitelinks": {},
+  "title": "Item:Q23302",
+  "type": "item"
+}

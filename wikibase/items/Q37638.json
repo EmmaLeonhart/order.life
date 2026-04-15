@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhi Jiang Jing Ming"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q37638$B2E8EFB9-7CA3-4027-BF29-AAAA30F66634",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37638$7CF71152-226C-48AD-947B-25D95B3D6D72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q37638$AC2276B4-59BE-4C10-8A2B-8A64E3B9F51C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33465",
+              "numeric-id": 33465
+            }
+          },
+          "hash": "c2bb748340a6e4fe2dde5f01fdfbbe2479ea8c96",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37638$9C81FA51-0DAC-463C-AEFA-290C58B6E290",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22046",
+              "numeric-id": 22046
+            }
+          },
+          "hash": "5669ef94b9a9bb9a1246d7fdd4dc724176b415d1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37638$7231BC71-AE09-4099-9A8E-85F24E211B62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37638$F3DFF270-02DF-4546-BC20-41CB9A5398B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1594-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2e839511d0e4e8a1005026e6cd1129df3ebbdc48",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37638$DC6E896D-2A95-4F54-B5D5-5EBC545660AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1615-09-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ccf7f17ab2f214da26b6c0e3d62a9829719f4ffc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37638$CC9F7B5B-E220-4F16-9E40-C261C92CC4A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11581800"
+          },
+          "hash": "24a6dd15250e2d0c766f2cc6fe37a61359284f54",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q37638",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "直江景明"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "直江景明"
+    }
+  },
+  "lastrevid": 17440150,
+  "modified": "2025-09-16T07:31:49Z",
+  "ns": 860,
+  "pageid": 55926,
+  "sitelinks": {},
+  "title": "Item:Q37638",
+  "type": "item"
+}

@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince NakSon //"
+      },
+      {
+        "language": "en",
+        "value": "Prince NakSon"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32719$53C5C649-3C55-4CFD-A41D-4FD1892400D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32719$8366A78A-F11C-40E0-9586-576D4D57DCE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32719$DCA0457E-BB5F-4007-90F2-010877682B9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32121",
+              "numeric-id": 32121
+            }
+          },
+          "hash": "da2b1b2e6fb41d2090aae3adfa30530c25256ab4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32719$FF329B2C-6EA8-4D2A-88E7-1DB4CBDEDC36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32719$B3AF1F2B-00C3-4BD1-A383-A571174C4B28",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1641-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d7ce8d73a91e37859167235ac64ecc417bfd80d8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32719$A0A965A9-1E2D-47D8-9321-0DD8ECCD324B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1695-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "06062a2861688a5d3a265df5baaff6f849927f34",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32719$59874DAF-AF31-4E63-BD03-54B55C771C3D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12589712"
+          },
+          "hash": "79bcbb6e52019def2dab855293b904d5f3dd56c8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32719$B4A9C1EF-E032-4461-BB4D-2960A1BC93AE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince NakSon Arms.svg"
+          },
+          "hash": "e2ab5a9e51713d46fa9c41653b1c41e38bec3964",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Korean prince (1641 - 1695)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선의 왕족"
+    }
+  },
+  "id": "Q32719",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Prince NakSon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "楽善君"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "낙선군"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "낙선군"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "樂善君"
+    }
+  },
+  "lastrevid": 17433148,
+  "modified": "2025-09-16T05:49:52Z",
+  "ns": 860,
+  "pageid": 52250,
+  "sitelinks": {},
+  "title": "Item:Q32719",
+  "type": "item"
+}

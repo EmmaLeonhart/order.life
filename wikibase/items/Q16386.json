@@ -1,0 +1,394 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hino Tomiko"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16386$7031595F-10C7-4869-B38D-1CBBA11CD8A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16389",
+              "numeric-id": 16389
+            }
+          },
+          "hash": "61b83c8db6ef5f3bfd8e94a0a72b0aa4b70293d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16386$D9DF001F-D983-47AF-8DE8-30F5D4D24548",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16386$72BBC46A-92DB-4554-9211-FD2ED7C587E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16386$D8DA8EB7-2E6F-4189-A419-D111D4E76E30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15681",
+              "numeric-id": 15681
+            }
+          },
+          "hash": "9c37c98cf2ce41366d36eb8032cbd85712bd5232",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16386$8E310C7C-3479-4F6F-A1AF-FD046A7486DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17481",
+              "numeric-id": 17481
+            }
+          },
+          "hash": "0af6182bfc2904820ee592acebd3269d94dba836",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16386$57B1ACBE-10E1-480A-8B38-525D64C1D444",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16386$8C5EB0D1-E55D-4D61-A149-35AE695B7AC0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1440-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bee1dfe13da66503c04a0c939cac4fd540b23e1d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16386$2FB381AD-7DC6-4136-9C20-913CAAFC4352",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1496-06-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7b0292303392c0cb42fa8f1573c2e35fd317910a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16386$45505D56-7293-4D78-BF1E-FA7472673131",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5306708"
+          },
+          "hash": "fd7cf922988f9f1d04476dc77dd0120e91b56025",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16386$8DD2E6A4-1ECE-495F-987D-862B4E16B1E5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hino Tomiko Arms.svg"
+          },
+          "hash": "355b777fec12c76d927ad5e386e0604687d46e72",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "política xaponesa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "política japonesa"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ paɣa"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanische Aristokratin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Proeminent figure during the Ōnin war"
+    },
+    "es": {
+      "language": "es",
+      "value": "política japonesa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "femme politique japonaise"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "política xaponesa"
+    },
+    "it": {
+      "language": "it",
+      "value": "politica giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "室町時代後期から戦国時代前期の女性。足利義政の正室。"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "política japonesa"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q16386",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hino Tomiko"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hino Tomiko"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tomiko Hino"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hino Tomiko"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hino Tomiko"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hino Tomiko"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هینو تومیکو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hino Tomiko"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Hino Tomiko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日野富子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "히노 도미코"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hino Tomiko"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Hino Tomiko"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hino Tomiko"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hino Tomiko"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Hino Tomiko"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "日野富子"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日野富子"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "日野富子"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "日野富子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日野富子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "日野富子"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "日野富子"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "日野富子"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "日野富子"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "日野富子"
+    }
+  },
+  "lastrevid": 17415944,
+  "modified": "2025-09-16T00:30:46Z",
+  "ns": 860,
+  "pageid": 38648,
+  "sitelinks": {},
+  "title": "Item:Q16386",
+  "type": "item"
+}

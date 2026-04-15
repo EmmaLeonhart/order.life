@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sim On //"
+      },
+      {
+        "language": "en",
+        "value": "Sim On"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q30539$E6504A42-9FD2-425F-B2A6-2E963B2F1AC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29612",
+              "numeric-id": 29612
+            }
+          },
+          "hash": "a9f32836a8ad5d509c6ec53eb8f192ef21e6a632",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q30539$550986FE-B83C-4315-B75C-07110AB50A0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30539$127ECF4D-614E-4242-8A90-4D81521C3460",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q30539$3AC0E6DC-7F7E-4191-BC3E-EB37B2E562CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q30539$2C78AE87-C84C-4097-8330-CBF3FFEA3B12",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1375-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9c112648496ccb3d31073e416cc1f555a15e0e5a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q30539$7D02A806-CA97-40BD-BB0A-90BF577D477A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1419-01-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "12c77f5a6a8c30394bdfb5ae0304921fc3b37399",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q30539$E951E11D-CD0D-49C1-BA21-D194534DD48B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7517270"
+          },
+          "hash": "a19b7576c11d60664462fa2b2e9411a21d5df44c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q30539$8ED4479F-6782-4E68-A763-DE5180BA4E09",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sim On Arms.svg"
+          },
+          "hash": "9a94765e35af4188f93456c4f56ae62c3101c645",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "prime minister of the Korean Joseon dynasty"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار اهل پادشاهی چوسان در کره"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고려 시대 말기와 조선 시대 초기의 문신"
+    }
+  },
+  "id": "Q30539",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sim On"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sim On"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sim On"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شیم اون"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "沈温"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "심온"
+    },
+    "th": {
+      "language": "th",
+      "value": "ซิม อน"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "沈溫"
+    }
+  },
+  "lastrevid": 17430112,
+  "modified": "2025-09-16T05:05:54Z",
+  "ns": 860,
+  "pageid": 50619,
+  "sitelinks": {},
+  "title": "Item:Q30539",
+  "type": "item"
+}

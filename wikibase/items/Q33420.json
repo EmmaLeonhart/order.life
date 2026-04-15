@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nei Teng Zhong Xiang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q33420$B83D58DB-AEBC-42CF-849D-F5D0517F059A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37610",
+              "numeric-id": 37610
+            }
+          },
+          "hash": "72bb2cf629bee630b3cff4b96488366b78c2abaa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33420$532E6ABD-61D1-413D-9162-1CC64CA97B68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37614",
+              "numeric-id": 37614
+            }
+          },
+          "hash": "241868262211aa047985a6923d2a705772fae3c6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q33420$97B3B873-98A7-4A23-B91D-52A6834EBE4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33420$C80AD430-232A-448E-8B98-2B03C78A1DD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q33420$E5B7966F-D172-416B-BB0F-74FEAAB9A98D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29675",
+              "numeric-id": 29675
+            }
+          },
+          "hash": "57c912ae5c25142bf32d4acc0c5979c36979538a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33420$559C7945-F382-4075-BF48-0AEC5A5B7031",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33420$E505A3E5-3113-457A-B36D-61E1912B25CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1511-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16b0b40ec460ff97207732f538e3b0f13c9454de",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33420$1BD8D5EC-893D-42CA-AFCB-E89D831FAD84",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q58139879"
+          },
+          "hash": "1946328ed3bab6d705ba4553b0fb82b8011f77bc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将。松平氏・徳川氏の家臣。子に内藤忠村"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q33420",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "内藤忠郷"
+    }
+  },
+  "lastrevid": 17434132,
+  "modified": "2025-09-16T06:03:49Z",
+  "ns": 860,
+  "pageid": 52776,
+  "sitelinks": {},
+  "title": "Item:Q33420",
+  "type": "item"
+}

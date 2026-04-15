@@ -1,0 +1,159 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "池田政房"
+      },
+      {
+        "language": "en",
+        "value": "Chi Tian Zheng Fang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q48413$8CEBDE13-BABD-4250-B7B3-25B128F719FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48413$4D77277A-F28C-4564-BE73-E6734E58F079",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48413$1AFEBE88-581A-47C2-B703-447162FAD334",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24126",
+              "numeric-id": 24126
+            }
+          },
+          "hash": "7a81c50e7c73ef4ca065ebea4571ddd4107b151e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48413$F5421CED-82CA-45C9-A240-1368B6073AC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48413$5E853899-71C5-48CA-BDA7-259C6C31F856",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1775-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7a4dbf13d19ae5456c647dcd9cce3169804e8fb0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48413$14B28B13-03C4-4EEB-B40D-E72C13AF980F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q54292097"
+          },
+          "hash": "588ae6a39809d538f3e1ece5adff9c0f70dc6bf2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代中期の大名。備中生坂藩5代藩主（1人目）"
+    }
+  },
+  "id": "Q48413",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "池田政房"
+    }
+  },
+  "lastrevid": 17453816,
+  "modified": "2025-09-16T10:48:56Z",
+  "ns": 860,
+  "pageid": 63981,
+  "sitelinks": {},
+  "title": "Item:Q48413",
+  "type": "item"
+}

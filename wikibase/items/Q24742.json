@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeda Masakatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24742$3595D2C9-1AAC-47EF-8578-55519E4DC94D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24742$603B0801-BBD4-4667-A727-BC6F7ACCD73E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24742$266F1A59-269B-4105-8466-9668BC534B54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22529",
+              "numeric-id": 22529
+            }
+          },
+          "hash": "3e2bea2774617ca79c930e9b82c39339e089b789",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24742$139C2F8C-9E3A-4F1F-8E7D-79A9D3D93BDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24742$3C63BCB1-5BAC-4043-88A4-06CE0E88E38F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1581-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8df987af77cfbe50183ce4e3e32d0d4df19979b2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24742$0327F142-5852-486D-B545-1F1FFC4A4AA7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1613-12-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6cfc9fc906979cf0e64a6dfd0cc54ca2f6f3fffa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24742$2EEECEE3-635D-410F-B044-1D677DACBB35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11397622"
+          },
+          "hash": "6ba58bd4c0785cfdd2384125c9f4fbeb661af579",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24742$3AA6DB93-7B8B-4EF0-8170-5A06A99AC8B0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Masakatsu Arms.svg"
+          },
+          "hash": "0719f5d92abec91a35af0e5eddd98da3c8a37d57",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q24742",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maeda Masakatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田正勝"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Масакацу Маэда"
+    }
+  },
+  "lastrevid": 17423656,
+  "modified": "2025-09-16T03:30:28Z",
+  "ns": 860,
+  "pageid": 46521,
+  "sitelinks": {},
+  "title": "Item:Q24742",
+  "type": "item"
+}

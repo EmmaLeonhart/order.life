@@ -1,0 +1,384 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeda Toshitaka"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q16025$1710DDC0-AA6C-49AA-ADA6-32A04CEB760E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "560019"
+          },
+          "hash": "4defddce3e82ffbed20d5a7cd42a48544e8c5938",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q16025$48A1E38C-0E7A-47ED-B40B-904E5C7DB6D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16920",
+              "numeric-id": 16920
+            }
+          },
+          "hash": "cd1e9c5ef4070d5d9fea4e5c82da03f6678aed7b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16025$A94B0217-5FF0-4E90-8B83-C35828BB8157",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16921",
+              "numeric-id": 16921
+            }
+          },
+          "hash": "c942bfa989d5e4b7d486a4a97fc8a30179893c31",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16025$B5FA14F7-94F0-4CBF-A6B2-EB76ABB6D23B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16922",
+              "numeric-id": 16922
+            }
+          },
+          "hash": "1d68481bd21f1efb7ec802f8116602876fc525ae",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16025$1255B33E-61D0-4D62-AE21-3220011A9088",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16025$90DAA9C1-AF21-4FB5-938A-3F7F7B2A588D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16025$2479E697-B2FD-40E6-8895-D5EAF294ACE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16014",
+              "numeric-id": 16014
+            }
+          },
+          "hash": "80d474c17ca844f3e590ba68ee2512a094020fc6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16025$398134CE-EA49-4F87-A567-95DAD2B8B2C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16025$04B74417-56C6-437A-B600-D73E57AEE73B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1594-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e1034609170bf8ef8ac524a8b71e6dd5986a34d0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16025$55232608-94F7-4A1B-AA02-60C782A4D6CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1637-07-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "098604c945beef2ccf0d8df50d8049ff38ad99ae",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16025$6C9847E9-DDAD-4FC3-B919-D29FC6A1B183",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6729117"
+          },
+          "hash": "efea74ca7a10ab9de30dc5baba5caa3e349ccfaf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16025$11A213F5-248E-4508-859A-BE3C53EEFB99",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Toshitaka Arms.svg"
+          },
+          "hash": "8aa0db37a8daf69b36a76de1c33372c2a8121a08",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1594–1637)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese daimyo of the early Edo period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の安土桃山時代～江戸時代前期の大名。加賀前田宗家初代当主前田利家五男で、上野七日市藩初代藩主。従五位下大和守"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (-1637)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1594 – 1637)"
+    }
+  },
+  "id": "Q16025",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Maeda Toshitaka"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tošitaka Maeda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maeda Toshitaka"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maeda Toshitaka"
+    },
+    "es": {
+      "language": "es",
+      "value": "Maeda Toshitaka"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Maeda Toshitaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田利孝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마에다 도시타카"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maeda Toshitaka"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тоситака Маэда"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Maeda Toshitaka"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Maeda Toshitaka"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "前田利孝"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "前田利孝"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "前田利孝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "前田利孝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "前田利孝"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "前田利孝"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "前田利孝"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "前田利孝"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "前田利孝"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "前田利孝"
+    }
+  },
+  "lastrevid": 17415666,
+  "modified": "2025-09-16T00:26:35Z",
+  "ns": 860,
+  "pageid": 38298,
+  "sitelinks": {},
+  "title": "Item:Q16025",
+  "type": "item"
+}

@@ -1,0 +1,331 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Petraliphas //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q50119$54825118-CD93-458D-A157-2BD6133021E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00106569"
+          },
+          "hash": "1b59e697a0dd7557b87dd04592e48d8b78df08e4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q50119$6B6AB4E6-62F7-4E99-9609-84BC856B54E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46231",
+              "numeric-id": 46231
+            }
+          },
+          "hash": "0945aac78ccb5886d6613c619bc143cbce0c78ba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50119$ECFB0092-BAEE-415D-BED9-1E0CB5F4563D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50119$A55C48F8-2F1E-49E1-9B3F-AD731878F633",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50119$FC46AC2D-2A49-405C-BE12-1B4BABD3BA47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50123",
+              "numeric-id": 50123
+            }
+          },
+          "hash": "83f9698232088245187af60079500cbc908e79f7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50119$5F551249-71F0-4597-9D63-84B6F6CE1396",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55663",
+              "numeric-id": 55663
+            }
+          },
+          "hash": "585a6999bf7bdab4347b7f4555da311ba17b3ea9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50119$7252C01D-F02E-4294-AAE6-F5CFF1F1F2B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50119$0E3D3F7E-77B7-44A1-833C-62D45DBD6E8A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1101-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c36d5616da0c0b2cf4662248a5d88a9c7efc1ab5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50119$558A404A-C9E3-4513-A0FD-FD9FF2D56E22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1227-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c3c16be867a16ee117ebc1341d8a708ece871198",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50119$443CAF60-D872-4AF6-84BD-60B57EACA13A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6252686"
+          },
+          "hash": "1465edb8304ec5211865a550847ac020192e0350",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50119$2904A8D1-73E2-4ED3-A38D-698DE458913A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Petraliphas Arms.svg"
+          },
+          "hash": "df580e3aee66734dcb37ab3b7ff794b62c37125e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски военачалник"
+    },
+    "de": {
+      "language": "de",
+      "value": "byzantinischer Sebastokrator, Vater der Heiligen Theodora von Arta"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine governor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "dignitaire byzantin"
+    },
+    "it": {
+      "language": "it",
+      "value": "sebastocrate della Tessaglia e della Macedonia"
+    }
+  },
+  "id": "Q50119",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Петралифа"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johannes Petraliphas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Πετραλίφας"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Petraliphas"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "John Petraliphas"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "John Petraliphas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan Petralifas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "John Petraliphas"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ioannis Petralifas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni Petralife"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "John Petraliphas"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan Petralifas"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João Petralifa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João Petralifa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн Петралифа"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John Petraliphas"
+    }
+  },
+  "lastrevid": 17456192,
+  "modified": "2025-09-16T11:23:11Z",
+  "ns": 860,
+  "pageid": 65255,
+  "sitelinks": {},
+  "title": "Item:Q50119",
+  "type": "item"
+}

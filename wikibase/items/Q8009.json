@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "当世王"
+      },
+      {
+        "language": "en",
+        "value": "Dang Shi Wang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8009$9FCBF3AC-7EB3-401A-8BA2-1BF8233C4784",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8009$9794892A-454C-457C-9AE8-EB07B27C3FD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q8009$CA7048A0-B91D-49AF-8E72-7F93E70C985B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dang Shi Wang Arms.svg"
+          },
+          "hash": "a1030516f44fe63e18b81fcca5e8a849e6a66251",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8009",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Dang Shi Wang"
+    }
+  },
+  "lastrevid": 17407922,
+  "modified": "2025-09-15T22:41:02Z",
+  "ns": 860,
+  "pageid": 30500,
+  "sitelinks": {},
+  "title": "Item:Q8009",
+  "type": "item"
+}

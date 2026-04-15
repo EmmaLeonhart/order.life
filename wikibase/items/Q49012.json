@@ -1,0 +1,378 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tini Beg //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q49012$080E27EA-1219-40CE-8ADD-50716307DF78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "273968"
+          },
+          "hash": "85c75d25754a4df037fe968a8e402327803ea425",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49012$77B982AC-3554-4EF1-BD14-02B5650E7644",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49012$CC783CC4-869E-4F69-88AE-C9FBA362A633",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49012$531FBFFD-0788-4B0D-A56C-14C096B4B13C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45716",
+              "numeric-id": 45716
+            }
+          },
+          "hash": "1c259c1a48971eb00aeaa1a517639ceb3bd19357",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q49012$9245CEFA-D825-4736-B1D1-EF960CC0C0A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49008",
+              "numeric-id": 49008
+            }
+          },
+          "hash": "c0cc2d36278e414ff4e8489c960449e5043822d6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49012$29F51F14-7D68-4D5A-931F-5EA88F1BED29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49012$2F35F479-88AC-4FFE-809D-62BE85FEDF29",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49012$1E9433FE-0041-4090-BA4E-BE669690AD27",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1342-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a0ed8275d97dd1176e4089ce42373812bd1a2c8a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49012$2D15C778-5C22-448E-A0E4-2549B81BF438",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1333759"
+          },
+          "hash": "938197b1d76e2537724f97020d99e29ba2be7628",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49012$EDA79FCC-C9D6-4833-9CCF-0FC50CFA95A8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tini Beg Arms.svg"
+          },
+          "hash": "7d36a1df878a4a7c4526d1ebe6a745cfccedb1ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Khan of the Golden Horde"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "khan de la Horde d'Or"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "az Arany Horda kánja"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero mongolo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kan uit Gouden Horde (?-)"
+    }
+  },
+  "id": "Q49012",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تيني بك"
+    },
+    "az": {
+      "language": "az",
+      "value": "Tinibəy xan"
+    },
+    "be": {
+      "language": "be",
+      "value": "Тынібек"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "তিনি বেগ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tinibeg Khan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tini Beg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tini Beg"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tinibeg Khan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tinibeg"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tinibég kán"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tini Bek"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティーニー・ベク"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Тыныбек хан"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "티니베크 칸"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Тинибег"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tini Beg"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tini Beg"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Tini Beg"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tyny Beg"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tini Begue"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tini Begue"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тинибек"
+    },
+    "sah": {
+      "language": "sah",
+      "value": "Тинибэк"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Тини Бег"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "டினிபெக்"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Тәнибәк"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тінібек"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "تینی بیگ"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Tinibek (xon)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "迪尼别"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "迪尼别"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "迪尼別"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "迪尼別"
+    }
+  },
+  "lastrevid": 17454682,
+  "modified": "2025-09-16T11:01:20Z",
+  "ns": 860,
+  "pageid": 64429,
+  "sitelinks": {},
+  "title": "Item:Q49012",
+  "type": "item"
+}

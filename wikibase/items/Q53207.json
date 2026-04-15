@@ -1,0 +1,309 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Hezhang //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q53207$D136043A-4868-4A49-AE24-6EA15CA77CFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53207$6640F2DB-7778-4E26-AF69-85E9B1958C48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53207$CADB9EA1-E99C-4FD1-879A-4138E7676277",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53199",
+              "numeric-id": 53199
+            }
+          },
+          "hash": "f5b0d2ed686c4f59dd245027fa365f18c7808265",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53207$C0597727-75A2-498F-8560-FB9503514788",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53207$9DF4D2B8-7903-4281-8283-750C30A401B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1825-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f4ad8a1a82fea06790bda16e5b519d9efcb74025",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53207$0E564C93-BF3D-4BD8-B859-182D9064F7D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1880-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0a8f21f8df6dfc7f325931c146c102f50308a313",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53207$55BA0DC0-F96B-48AC-8FD7-A7B41EA16D62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20859162"
+          },
+          "hash": "f0449911ea0234f254272df09fa10eb522346953",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q53207$73506CC4-E00B-4265-9504-3B2B4ACBE5BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011627563362"
+          },
+          "hash": "703af290dfbe91f27f2a9dc825fb1702e3ecaaf3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53207$CB9DE580-92C8-4CF5-B8BF-52003B471623",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Hezhang Arms.svg"
+          },
+          "hash": "ce9efc59e687f82e338685da1fce68accb4b1182",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "gwleidydd (1825- )"
+    },
+    "en": {
+      "language": "en",
+      "value": "Chinese politician during the Qing Dynasty"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "清朝政治人物"
+    }
+  },
+  "id": "Q53207",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Hezhang"
+    },
+    "br": {
+      "language": "br",
+      "value": "Li Hezhang"
+    },
+    "co": {
+      "language": "co",
+      "value": "Li Hezhang"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Li Hezhang"
+    },
+    "da": {
+      "language": "da",
+      "value": "Li Hezhang"
+    },
+    "de": {
+      "language": "de",
+      "value": "Li Hezhang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Hezhang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Hezhang"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Li Hezhang"
+    },
+    "id": {
+      "language": "id",
+      "value": "Li Hezhang"
+    },
+    "it": {
+      "language": "it",
+      "value": "Li Hezhang"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李鶴章"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Li Hezhang"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Hezhang"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Li Hezhang"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Li Hezhang"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Li Hezhang"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Li Hezhang"
+    },
+    "ty": {
+      "language": "ty",
+      "value": "Li Hezhang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李鶴章"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李鹤章"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李鶴章"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "李鶴章"
+    }
+  },
+  "lastrevid": 17459818,
+  "modified": "2025-09-16T12:17:04Z",
+  "ns": 860,
+  "pageid": 68038,
+  "sitelinks": {},
+  "title": "Item:Q53207",
+  "type": "item"
+}

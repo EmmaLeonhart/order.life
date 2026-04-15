@@ -1,0 +1,508 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antoku"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11802$09AE6871-8FC3-4F3D-86ED-0F593D26A017",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "805370"
+          },
+          "hash": "c82abb90eb9ce6d0bc20ea662cdb57e3baac0de5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q11802$FC09F325-2611-46B1-B5CE-306972494C0E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719929"
+          },
+          "hash": "c11817d5b59bdd95ae249dd06ccfe6a58873b6ef",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11802$FCCEEB76-F592-4F44-BC5F-301F2E8CA9AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11802$13FE4F61-B90B-4855-9CC9-697BDF8AB82D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11802$BF360ECB-A074-4C86-9031-CBEC848B89D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11781",
+              "numeric-id": 11781
+            }
+          },
+          "hash": "631a55601f5b0e9d533f3f066400c692b5cff437",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q11802$A1FD0E7A-F855-4D5E-AA7B-C18E6E3C1677",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11548",
+              "numeric-id": 11548
+            }
+          },
+          "hash": "2fcc787a88c44b3154f4ba23bc92c7fef444bf96",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11802$E0F1E1C8-80E6-42F0-B192-F1D75033856C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11802$6257ECF8-F5DC-4936-8020-DA801E833F5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1178-12-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b08e4a27946195645cd541fc455bb77e32f5b104",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11802$66B34650-1D89-49B5-8A65-E79F2B6FE3D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1185-04-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f6b26779af7dea2a3afa924bdce61624ed97a2f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11802$4103092D-8EC6-423A-AAF0-15048B77A5D3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Antoku.jpg"
+          },
+          "hash": "b7efd1dee78b0c1978c0f4bca9da9f9322a72bd5",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11802$FD8A84E9-A23B-407F-918A-6D07A89FBA51",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q316651"
+          },
+          "hash": "8e20a1805e3748fdd65f9052be7f86f732b9048b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11802$C3910FEC-8EFF-4516-A3A5-FB139C995D6D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antoku Arms.svg"
+          },
+          "hash": "c48bb1a58a57e2a0619986bb4526ca2326e5b268",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (1178–1185)"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "японски император"
+    },
+    "br": {
+      "language": "br",
+      "value": "emperor of Japan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "81è emperador del Japó"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "81. Tennō von Japan (1180–1185)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "imperiestro de Japanio, kiu mortis nur 6-jara"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani keiser"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第81代天皇"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans heerser (1178-1185)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "cesar Japonske"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japonya'nın, geleneksel veraset düzenine göre 81. imparatoru (1178 - 1185)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "імператор Японії"
+    }
+  },
+  "id": "Q11802",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "آنتوکو"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антоку"
+    },
+    "br": {
+      "language": "br",
+      "value": "Antoku"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antoku"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپڕاتۆر ئەنتۆکو"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antoku"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antoku"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antoku"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Antoku"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Antoku"
+    },
+    "et": {
+      "language": "et",
+      "value": "Antoku"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antoku Enperadorea"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور آنتوکو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antoku"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Antoku Thiên-fòng"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Antoku"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antoku"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安徳天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안토쿠 천황"
+    },
+    "min": {
+      "language": "min",
+      "value": "Kaisar Antoku"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "अंतोकु"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Antoku Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antoku"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antoku"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Antoku"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Antoku"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Împăratul Antoku"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Антоку"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Antoku"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Antoku"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antoku"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Antoku wa Japani"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิอันโตะกุ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Antoku"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Antoku"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Антоку"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Antoku"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Antoku"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安德天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安德天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安德天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安德天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安德天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安德天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安德天皇"
+    }
+  },
+  "lastrevid": 17413162,
+  "modified": "2025-09-15T23:51:46Z",
+  "ns": 860,
+  "pageid": 34160,
+  "sitelinks": {},
+  "title": "Item:Q11802",
+  "type": "item"
+}

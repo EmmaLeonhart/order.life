@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Muné Tsenpo"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q54563$C574D3E3-9EC3-4712-AE87-74114DAA1B9E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1206269"
+          },
+          "hash": "c8be33b23de76c1bcfde6054e2cde623e5732632",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54563$94FEEFBA-3B73-4AF4-AB1F-31D86B782768",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54563$ACA522A7-0626-472E-8F70-E9D0B1275CEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54563$5B27598D-DBDB-43A5-9000-33F65D417722",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45943",
+              "numeric-id": 45943
+            }
+          },
+          "hash": "1580b66406efe9460e7dc322d61f4bf389d83bd1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54563$29D983AE-9E0B-4E63-B12B-1552BFABD42A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54563$4282578F-D249-4969-8F4E-5A0E97B6EBE0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0701-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a554c7ff86988519b6b4b59e89ab9bb4e914800",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54563$D12DA6E5-3A2E-4D62-8948-C443D93FB294",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2420583"
+          },
+          "hash": "910fc567f48bef21bfc5b5b720c96c322fd7de77",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54563$7C533885-921A-4FB7-9C43-ABF160CD4464",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Muné Tsenpo Arms.svg"
+          },
+          "hash": "cdb945118438fcef4b72a644ce86f4b31d198f0c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bn": {
+      "language": "bn",
+      "value": "তিব্বত সম্রাট"
+    },
+    "en": {
+      "language": "en",
+      "value": "tsenpo (emperor) of Tibetan Empire"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "tsenpo (empereur) de l'Empire du Tibet"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Tibet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kejsare av Tibet"
+    }
+  },
+  "id": "Q54563",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "মু-নে-ব্ত্সান-পো"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "མུ་ནེ་བཙན་པོ།"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mune Cänpo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Muné Tsenpo"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μουνέ Τσενπό"
+    },
+    "en": {
+      "language": "en",
+      "value": "Muné Tsenpo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Muné Tsenpo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Muné Tsenpo"
+    },
+    "id": {
+      "language": "id",
+      "value": "Muné Tsenpo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Muné Tsenpo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ムネツェンポ"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Muné Tsenpo"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Muné Tsenpo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Muné Tsenpo"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Muné Tsenpo"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Muné Tsenpo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Muné Tsenpo"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Muné Tsenpo"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мунецанбо"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "穆尼贊普"
+    }
+  },
+  "lastrevid": 17462126,
+  "modified": "2025-09-16T12:50:52Z",
+  "ns": 860,
+  "pageid": 69394,
+  "sitelinks": {},
+  "title": "Item:Q54563",
+  "type": "item"
+}

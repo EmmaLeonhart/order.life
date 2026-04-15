@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Suwa Tadahiro"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q22222$DD468160-A06E-4C98-943D-1FAAFDB6137F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22222$DC38BFE5-F48E-412A-9E54-00F30B1C955A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22222$33D36AFB-3FF2-471B-82D6-EA083A91B3A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20266",
+              "numeric-id": 20266
+            }
+          },
+          "hash": "96f86912be51382baa5cda38b48d22be8547f789",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22222$833541DC-87D2-4353-8BC8-7F820112081D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22222$5D96758D-BD81-4ABD-8F71-0DE44BB765AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1695-11-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1fe21b9238a181fe9cf01a35c843d7aba03193e0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22222$AF39B2D3-6578-4ACB-851C-CB771205D15C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1717-06-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18837aee8fe88cc20c4cf406b4016128b75c97da",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22222$5299F85C-2DA4-4762-8281-5167888A58BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11631875"
+          },
+          "hash": "eddb967e9012565b2b38e73444d7d695d52f2c55",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22222$F1C25A6E-1485-4B16-A505-37DD342C5F9F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Suwa Tadahiro Arms.svg"
+          },
+          "hash": "f73b8beb4a902f583455aa799302b31342e97730",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q22222",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Suwa Tadahiro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "諏訪忠尋"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тадахиро Сува"
+    }
+  },
+  "lastrevid": 17421164,
+  "modified": "2025-09-16T02:37:58Z",
+  "ns": 860,
+  "pageid": 44223,
+  "sitelinks": {},
+  "title": "Item:Q22222",
+  "type": "item"
+}

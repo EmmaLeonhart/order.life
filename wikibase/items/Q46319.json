@@ -1,0 +1,280 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Natela Jaqeli //"
+      },
+      {
+        "language": "en",
+        "value": "Natela Jaqeli"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q46319$3740DFE4-62E3-43E4-8974-9D23E33407A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "585732"
+          },
+          "hash": "2e958b4277288f16ef02c2770eff676ac7090a52",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q46319$E4F53807-4C81-484D-882B-DA4B348FD821",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00763500"
+          },
+          "hash": "4bce568805b742846e2de6f1d55d75dafae7ec7b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q46319$CE4643D5-206E-4C7B-A958-6E84F09C29F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43370",
+              "numeric-id": 43370
+            }
+          },
+          "hash": "50dafe68f22660919d19ba8e293ac17c32f0e507",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46319$BB1C675C-DF90-4D8D-AE76-4A105A4E1FC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46319$8C97FD5C-12FF-440B-8681-693A9B585DD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q46319$6056BEA5-1977-40D7-B2D0-ED0F5F00C530",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43358",
+              "numeric-id": 43358
+            }
+          },
+          "hash": "d380fd0f702e017e468c97d357f9f5e276d38999",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46319$5F13D133-D7A1-4D44-8A39-78455DFCB4B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50075",
+              "numeric-id": 50075
+            }
+          },
+          "hash": "5d863531adaf80b1658d68468a0e044681f77439",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46319$7FBA0271-486D-4B12-B3F4-3CC37DA15158",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46319$D7AFD757-7A26-4057-9D7A-8A325D464630",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1289-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44bf8c8210d99d5db610343df10b199e4a02e35f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46319$B524C83B-4DA1-4EDA-A0B8-7C70594710BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q84022073"
+          },
+          "hash": "1d2f1fb94e745879d3f890d5ffec1971febbe733",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46319$B7AF19BB-FD41-430F-A6D0-B270B1E429CD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Natela Jaqeli Arms.svg"
+          },
+          "hash": "369767e137f827765de6b2b51bbb23807426b031",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "queen consort of Georgia, princess of Samtzkhé"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szamchei (meszheti) hercegnő"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბექა ჯაყელის ასული"
+    }
+  },
+  "id": "Q46319",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Natela Jaqeli"
+    },
+    "he": {
+      "language": "he",
+      "value": "נתלה ג'אקלי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Dzsakeli Natela grúz királyné"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ნათელა ჯაყელი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Natela Jaqeli"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Натела Джакели"
+    }
+  },
+  "lastrevid": 17451242,
+  "modified": "2025-09-16T10:11:39Z",
+  "ns": 860,
+  "pageid": 62419,
+  "sitelinks": {},
+  "title": "Item:Q46319",
+  "type": "item"
+}

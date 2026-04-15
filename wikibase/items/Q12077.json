@@ -1,0 +1,329 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ashikaga Yoshiuji"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q12077$AA644D2E-C428-4EC2-9E17-E70185251614",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "993896"
+          },
+          "hash": "5a93b54f7b33947e28177e747e78487b24962b7a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q12077$44B7C6B7-D8E0-40BF-A281-B24F5986E9D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12848",
+              "numeric-id": 12848
+            }
+          },
+          "hash": "9f09aeedc0b14c3048376362b297bed0bf2d6ef8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12077$85C567F8-089E-48D9-9BA9-4B3A183AF40C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12847",
+              "numeric-id": 12847
+            }
+          },
+          "hash": "5817c1f28b5cec6897457f0250987a031942bf88",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12077$63B73991-122C-4B87-8065-919B39C7FF8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12849",
+              "numeric-id": 12849
+            }
+          },
+          "hash": "1c7d157783408b8a06aeac648ff923a0045129dc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12077$EEEDFDD9-9F5C-48FF-B863-EBCF3B50C334",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12077$083C8B59-C1B9-4BF1-845F-D712E3F83D5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12077$3CE54490-3889-447A-A379-49AE826871BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12076",
+              "numeric-id": 12076
+            }
+          },
+          "hash": "5123e0fcb464f88c8f13641cbeead0809edd6e2b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12077$8C152A45-CDCB-4E06-B0B9-7E85920B6EF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12077$A649D6CA-EFB0-488B-898E-5DA65454A433",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1189-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4d954d6561cd49d11a2898224b15752c3464e044",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12077$2A6816B7-F2E9-4C76-BE20-517F8CBC05BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1255-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a06ede2abee6c2bfcffba0392bf70c8f5bd3704f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q12077$B7EBDFF9-7E4A-4B03-99B7-372A98CD1204",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ashikaga Yoshiuji (Kamakura period).jpg"
+          },
+          "hash": "21f10706015e3aa7d3dbd3b9976fa3c9224dbd26",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12077$3C8C1B77-7F11-4FA0-9BFC-F6921FBA2B9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11636814"
+          },
+          "hash": "2f621451ec302ffb642065f41c5443ef87995899",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12077$6281F7A0-729F-4A7D-BE75-50501382E47D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ashikaga Yoshiuji Arms.svg"
+          },
+          "hash": "6d01aff0379b878c7909bdaf1bf7dd25de602240",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the Kamakura period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の鎌倉時代の武士・武将。鎌倉幕府の御家人。足利義兼の三男。足利宗家3代。三河守護、陸奥守、武蔵守、左馬頭、正四位下。"
+    }
+  },
+  "id": "Q12077",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ashikaga Yoshiuji"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jošiudži Ašikaga"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ashikaga Yoshiuji"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ashikaga Yoshiuji"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آشیکاگا یوشیئوجی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ashikaga Yoshiuji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "足利義氏 (足利家3代目当主)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ashikaga Yoshiuji"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Асікаґа Йосіудзі"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "足利義氏 (足利家3代目當主)"
+    }
+  },
+  "lastrevid": 17413322,
+  "modified": "2025-09-15T23:53:59Z",
+  "ns": 860,
+  "pageid": 34425,
+  "sitelinks": {},
+  "title": "Item:Q12077",
+  "type": "item"
+}

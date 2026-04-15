@@ -1,0 +1,887 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Gaozong of Tang"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q17677$228C9C61-B5E7-4200-8EF8-6100384324E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00428301"
+          },
+          "hash": "9748ea0aa2d9a3df1d9c5c08825def3c02deb183",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q17677$5B51CA33-489D-420C-B21C-887A40136BB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19355",
+              "numeric-id": 19355
+            }
+          },
+          "hash": "bff933f6f0cf0fcbcbfee3fc1b3c28c90c483802",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$3BB2BEBA-FC21-4896-8E15-7DD9F58DDC43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19356",
+              "numeric-id": 19356
+            }
+          },
+          "hash": "27ea286ac04f1b796f821b051f405c972eaa16a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$83ED5BA9-1E14-48D6-B71C-3858F120E3C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32043",
+              "numeric-id": 32043
+            }
+          },
+          "hash": "dca10b6e487118992f7652d28ce8112d2f4d1763",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$BBB4BB1B-5805-46CD-9F15-0C15E747E62C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19351",
+              "numeric-id": 19351
+            }
+          },
+          "hash": "bdd36c567d53d31c5de37bc377fb37c73e7093c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$6CA7CC61-607F-4539-8AE3-FE39B1D35919",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19352",
+              "numeric-id": 19352
+            }
+          },
+          "hash": "ca949810a001839dfc122158351321df3768d9f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$3467D4DD-895C-474F-B958-5B9BC9F58398",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19345",
+              "numeric-id": 19345
+            }
+          },
+          "hash": "a6d25e4fb3c54c6ec7c4af4c39e0730cf5c190ea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$74E74E0C-2A94-40DB-BD68-CDE8561A829A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32039",
+              "numeric-id": 32039
+            }
+          },
+          "hash": "7f65f6f212ca25e206cf225461fd10f17d5408a0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$046A1C24-8046-4362-BA89-8B79B42E4297",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19347",
+              "numeric-id": 19347
+            }
+          },
+          "hash": "848c08a250841e59df65494b424721d7a0737e6f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$338805E9-D02E-4238-8E33-31D1899F98D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19353",
+              "numeric-id": 19353
+            }
+          },
+          "hash": "d187438ac6e84470da15cfde6435e2346ed33609",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$D852CA1A-F9AB-4EBC-8867-CE007F4B9AAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19354",
+              "numeric-id": 19354
+            }
+          },
+          "hash": "3b0d9b97d0a84cc7fc0e85b96ec3588d47d8aeb6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$6FBBCC06-6D1B-4619-A9FD-751BDA5D0BD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19348",
+              "numeric-id": 19348
+            }
+          },
+          "hash": "6e557ea7e85af71b82936ba83e88212c57323a54",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$B06B87CD-0082-41CD-B53F-AD7EBB44206D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32047",
+              "numeric-id": 32047
+            }
+          },
+          "hash": "0e35389dfef66e96c95ea34e2efca1e792d60adc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q17677$DAA5E85A-F9D0-49AC-A6B8-7AB3F91F7108",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$6DE95794-6E1B-4149-98A4-0E7C284483FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q17677$23A6C3FC-08AF-44D9-8455-15413CC7C211",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19341",
+              "numeric-id": 19341
+            }
+          },
+          "hash": "8d47752154fbd36c2aca5714ad5d6da49ab5c0cd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$198280FE-672F-41A3-A618-3F236EA655CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19342",
+              "numeric-id": 19342
+            }
+          },
+          "hash": "3c144b95ecd7bdefb59960f2175344b9ece0e5c9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$DC500029-1B22-4B8F-B6BB-7C74DF458B84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19343",
+              "numeric-id": 19343
+            }
+          },
+          "hash": "a2877901a7410cad278a7ff851f60909c2d0e573",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$A670CF0A-E830-4DAB-B7E1-D13AFB25FE93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19344",
+              "numeric-id": 19344
+            }
+          },
+          "hash": "cb6e7a00692289059889f78c567f05599285e957",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17677$750AB2EF-B1B3-40C6-8288-C369B0BF2C8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21263",
+              "numeric-id": 21263
+            }
+          },
+          "hash": "6cb0c6d48d78daf9ec55f46e17ea9e259ce87ce5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17677$851F47C4-DE6B-4984-9B73-620539A33D38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16460",
+              "numeric-id": 16460
+            }
+          },
+          "hash": "e3704de6a0c348ff6dc9aca4688c883128ee9f3f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q17677$5156BC00-7CA6-405C-9834-7E6F773F11BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17660",
+              "numeric-id": 17660
+            }
+          },
+          "hash": "50a7facbd10623ce966f918fc8f0be536b0ccbb7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17677$9525AC30-3E8D-4933-8920-5A2010F6A096",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17677$F3129CDA-1A8A-44D4-9849-B150F1890EBD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0628-07-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da433b4a17859a265c241511143023ec29dca6e3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17677$5C7ADF47-53A2-4269-A44C-32FFB963047B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0683-12-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c54561e9487c7d71cd6c49a2c25e892a102378b4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q17677$C55C8B6F-359C-4ECD-AA35-F33A74FE1343",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaozong of Song.jpg"
+          },
+          "hash": "ba23b27b253830db5d5140a63127b98d7fc6bf98",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17677$FDCB8A62-DE5F-4FDC-BB6A-982A3B58D3EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9703"
+          },
+          "hash": "3a7c14c44f6b346d734bddee1003785209c282e5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q17677$C82A6225-2C46-4689-9FFE-88B5C481DC16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074767088371"
+          },
+          "hash": "fbab9e39bc6fb1d433455a7d7fe7d56c490afb35",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17677$FEE18382-16E7-49D3-9993-72C454998A90",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Gaozong of Tang Arms.svg"
+          },
+          "hash": "9b629b36d4777f9e9d203d2c168a10533d912bb5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "emperador xinès de la dinastia Tang"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "císař Říše Tchang"
+    },
+    "de": {
+      "language": "de",
+      "value": "chinesischer Kaiser der Tang-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of the Tang Dynasty (628-683) (r. 649-683)"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador de la Dinastía china Tang"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور سلسله تانگ و همسر ملکه وو زتیان تنها امپراتور زن چین"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur chinois"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kínai császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore cinese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "唐の3代皇帝。太宗の九子三男"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "당나라의 제3대 황제"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer uit Tang-dynastie (0628-0683)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Cesarz Chin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "китайский император из династии Тан"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tang Hanedanı'nın üçüncü imparatoru"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hoàng đế thứ ba của nhà Đường"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "唐朝第3位皇帝"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "唐代皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "唐代皇帝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "唐朝皇帝"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "唐代皇帝"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "唐代皇帝"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "唐代皇帝"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "唐代皇帝"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "唐代皇帝"
+    }
+  },
+  "id": "Q17677",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور غاوزونغ من تانغ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور جاوزونج من تانج"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཐང་ཀའོ་ཙུང་།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Emperador Gaozong de Tang"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Dòng Gŏ̤-cŭng"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kao-cung z Tchangu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tang Gaozong"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Tang Gaozong"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αυτοκράτειρα Καοτσόνγκ των Τανκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Gaozong of Tang"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Emperor Gaozong of Tang"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Emperor Gaozong of Tang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gao Zong"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گائوزونگ (دودمان تانگ)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tang Gaozong"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Thòng Kô-chûng"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tang Kao-cung"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Tang Gaozong"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gao Zong"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "高宗"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "당 고종"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Emperour Gaozong a Tang"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "唐高宗"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Тан Гаозун"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᡬᠠᠣ ᡯᡠᠩ (ᡨᠠᠩ ᡤᡠᡵᡠᠨ)"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Tông Ko-chong"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Keiser Gaozong av Tang"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tang Gaozong"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tang Gaozong"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Gaozong de Tang"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Gaozong de Tang"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Împăratul Gaozong din Tang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гао-цзун"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Gaozong od Tanga"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tang Gaozong"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิถังเกาจง"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gaozong"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гао-цзун"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Đường Cao Tông"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "唐高宗"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "李治"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "唐高宗"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "唐高宗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "唐高宗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "唐高宗"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "唐高宗"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "唐高宗"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "唐高宗"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "唐高宗"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "唐高宗"
+    }
+  },
+  "lastrevid": 17417112,
+  "modified": "2025-09-16T00:58:12Z",
+  "ns": 860,
+  "pageid": 39904,
+  "sitelinks": {},
+  "title": "Item:Q17677",
+  "type": "item"
+}

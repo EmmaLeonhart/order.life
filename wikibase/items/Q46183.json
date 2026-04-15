@@ -1,0 +1,452 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Theodora of Trebizond //"
+      },
+      {
+        "language": "en",
+        "value": "Theodora of Trebizond"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q46183$5D4D3553-273A-48A3-B879-CEA5F6A608A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00764369"
+          },
+          "hash": "2aa1b277da48c272e72f38e2ee6e264210d6ede4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46183$57FDE188-C4A1-47CA-8C9F-EFC3CC8EC800",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46183$BE6000D9-A233-44E7-9444-E91EC28FBB99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q46183$3FB4695F-55D5-4AAC-AB82-237BD9406B2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodora_of_Trebizond_(1)"
+          },
+          "hash": "ee402732ed1f85998bd4150718e29e2ff9c79b73",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q46183$CA8F866A-BF41-4390-BD9B-F0689DE5BEAD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21912.htm#i219115"
+          },
+          "hash": "32fdf6aec4b55c8f8c95fac4f0c3cb3e346d910a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46183$F2B2EC72-83FA-4252-A369-5ADF3A87A653",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46167",
+              "numeric-id": 46167
+            }
+          },
+          "hash": "1bcbb2350c793d1677c4dcd27072353d96dd448d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q46183$FB5D55E6-757A-42DD-8657-E1E2F5844B67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50054",
+              "numeric-id": 50054
+            }
+          },
+          "hash": "ad62e5c0647f7c9717396782b7ffd31a5f072b73",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46183$E873689D-A684-466C-9A46-4BDA11E9BEE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q46183$C707EDC5-20E4-4A3F-9634-F0E57F19AB31",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1253-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc20fd39bce94f2db472af6403b90a32a594a74e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46183$DF2BCFC1-0404-46A1-9811-9857B841B7EB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1285-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3bab0b334a1d0b458e90d73f99de8aa2d830b7b7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46183$57E1EF3F-C918-43DD-A8E8-565ECBDDCE24",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q257804"
+          },
+          "hash": "ad691d1b8d89c8278ea53ca1ff20d139d316b803",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46183$D22EAC04-0CAC-4FC5-A8A6-0D160528B840",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodora of Trebizond Arms.svg"
+          },
+          "hash": "742389cf35ae7e66dbb5483ecddf164b2b0abde9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "emperadriu de Trebisonda"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "panující císařovna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiserin von Trapezunt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress regnant of Trebizond, nun (1253-1285)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "imperiestro de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperatriz de Trebisonda"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Trapezuntska princeza i carica (uzurpatorica)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "apáca"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatrice trapezuntina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit keizerrijk Trebizonde (1253-1285)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "императорка Трапензунда"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Trabzonlu Teodora Komnini"
+    }
+  },
+  "id": "Q46183",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Teodora (Trabzon imperatriçası)"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Теодора Велика Комнина"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Teodora Trapezuntska"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Teodora Comnena de Trebisonda"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Teodora I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Theodora Komnene"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Theodora Komnene"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεοδώρα Μεγάλη Κομνηνή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theodora of Trebizond"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Theodora of Trebizond"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Theodora of Trebizond"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Teodora de Trebizondo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teodora de Trebisonda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Théodora de Trébizonde"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Teodora de Trebisonda"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Teodora Trapezuntska"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Theodóra trapezunti császárnő"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodora di Trebisonda"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テオドラ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "თეოდორა"
+    },
+    "la": {
+      "language": "la",
+      "value": "Theodora"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Teodora Megalė Komnina"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Theodora Megala Komnena"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Theodora Megale Komnene"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teodora Wielka Komnena"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teodora de Trebizonda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teodora de Trebizonda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Феодора Великая Комнина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Теодора Велика Комнина"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Теодора Велика Комнина"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Teodora Velika Komnina"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Theodora av Trabzon"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Trabzonlu Teodora Komnini"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Теодора"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "狄奥多拉"
+    }
+  },
+  "lastrevid": 17451040,
+  "modified": "2025-09-16T10:08:46Z",
+  "ns": 860,
+  "pageid": 62317,
+  "sitelinks": {},
+  "title": "Item:Q46183",
+  "type": "item"
+}

@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honda Tadatoyo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q22071$EFAB257F-E6E8-4E45-8915-06748F739056",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20147",
+              "numeric-id": 20147
+            }
+          },
+          "hash": "2599da1e9d88404cadb1dc86a96e58728de350a9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22071$3027FCB7-9AF0-4B5F-B77C-A843E7BDC11A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24266",
+              "numeric-id": 24266
+            }
+          },
+          "hash": "48964611c1ec67f83a7712a27394372cdd2f5f8c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22071$A7B54AB5-9AFA-4805-B4C0-8713EFD2C1B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22071$F6034F03-600F-4FD9-AC12-5B186CCA9DBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22071$BFEDD738-79DD-4E26-8F3C-353381298955",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24265",
+              "numeric-id": 24265
+            }
+          },
+          "hash": "57547d4dcbaf9d5402d3c1e2b5cba26eae3db7d4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22071$0F111680-F48E-41A3-8010-754E5CF097FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22071$3BA09A22-3EEF-4CEE-921F-5CFC57762FD3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1545-10-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e26b9662b10f8755bb7e89e9c2558fe672d16bfa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22071$BC938385-D162-4F43-9F1D-440690D7B46B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11520040"
+          },
+          "hash": "980cde5d96a80570f630041f145a5dfceba02e18",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22071$83829543-BE8B-4227-8CA3-2C14F6D01D66",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honda Tadatoyo Arms.svg"
+          },
+          "hash": "789d14fbae59856ef897cb6175b770c60214012d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将。三河国松平氏家臣。7代本多助時-8代本多助豊-忠豊。本多氏9代"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "日本战国时代武将"
+    }
+  },
+  "id": "Q22071",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Honda Tadatoyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本多忠豊"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "本多忠豐"
+    }
+  },
+  "lastrevid": 17421022,
+  "modified": "2025-09-16T02:34:49Z",
+  "ns": 860,
+  "pageid": 44079,
+  "sitelinks": {},
+  "title": "Item:Q22071",
+  "type": "item"
+}

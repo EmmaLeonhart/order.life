@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Do"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q14446$94ABA46C-A1C7-4ADE-B29F-2C8301DD1D3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14446$1CF3471C-05B9-4270-AD4E-307928DFE5A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14446$048769D3-3F04-4592-8F3E-C0E14A1D02D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14848",
+              "numeric-id": 14848
+            }
+          },
+          "hash": "58971021b09cda90c2a28aaf987a297f5b989d14",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q14446$997C0BE0-611E-4ED5-BA05-8F7671C8DDA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13943",
+              "numeric-id": 13943
+            }
+          },
+          "hash": "5ef5a5ba624be9cebea7ebc6b4583a960985d620",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14446$7A245BB7-FAA0-4D53-9872-1248DECF7781",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14446$5554EAEF-4BC4-4217-AEC6-F03B215E7052",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0610-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "21140778cc81f48607501d912db5da0494b0912b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14446$9553915F-DCD2-4F94-9A18-8B3A1EDA9588",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12606231"
+          },
+          "hash": "71f576831224f410c282b62aa2ed0aa2c698f9bc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14446$5EDDCFD9-D05F-40A7-889F-A30B92E86B5B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Do Arms.svg"
+          },
+          "hash": "d6b32bb2d86aca75bc6abb708be6d8bdc9e6c3aa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "新羅の人物、第22代風月主"
+    }
+  },
+  "id": "Q14446",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yang Do"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "良圖公"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "양도공"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "良圖"
+    }
+  },
+  "lastrevid": 17414528,
+  "modified": "2025-09-16T00:10:39Z",
+  "ns": 860,
+  "pageid": 36747,
+  "sitelinks": {},
+  "title": "Item:Q14446",
+  "type": "item"
+}

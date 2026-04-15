@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "四条隆文"
+      },
+      {
+        "language": "en",
+        "value": "Si Tiao Long Wen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q43623$62D66FE3-BE0C-43AB-9330-AA73BF53D404",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43623$57FB0D38-7C24-43A7-BDC5-C2747DBBBFEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43623$E39B09B7-B8C7-4E42-813A-B8F68DC953FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39455",
+              "numeric-id": 39455
+            }
+          },
+          "hash": "79626e5d27f9a53bf289547066e97a3c01c03568",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43623$E33AE77B-4CCA-40B2-B25F-018070A36480",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43623$1DC8D105-A6B3-4C3C-9557-68EB54CF78F3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1689-08-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e81476019c3541f3b52e4d88045b798f44595eb7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43623$99ADCF3B-ACF0-4719-93DD-3605FC5EBA7C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1738-09-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b63cc29aa2d5b5f6a01c74b34121649281bcf0a7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43623$105FCEF8-D715-46FA-A486-3CD452898BBB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108851409"
+          },
+          "hash": "765a7679b32923e1b3f169f5e264864a2df99223",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "四条家19代。正三位・参議"
+    }
+  },
+  "id": "Q43623",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "四条隆文"
+    }
+  },
+  "lastrevid": 17447822,
+  "modified": "2025-09-16T09:21:00Z",
+  "ns": 860,
+  "pageid": 60405,
+  "sitelinks": {},
+  "title": "Item:Q43623",
+  "type": "item"
+}

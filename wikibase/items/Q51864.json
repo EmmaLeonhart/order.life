@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "諫早行孝"
+      },
+      {
+        "language": "en",
+        "value": "Jian Zao Xing Xiao"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q51864$159BF367-D4F0-4D24-8083-5A56F252EF30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q51864$B6665701-09BD-4F8B-9839-F8B94B98F375",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q51864$D6DF6659-8CDD-4AC1-A58F-99DF4820421C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q44362",
+              "numeric-id": 44362
+            }
+          },
+          "hash": "802825417c55dde9248a94e57722b1c7deaf9df5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q51864$07F95CD0-C977-4A25-9BE3-5C55819E8638",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q51864$1DD84956-8D57-4A3F-8737-0F2845B8C2D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1736-03-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2b2df76a9afe661d281b9cc1f60a8df11ead9ca",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q51864$AA283A46-0849-4389-951F-7DCC4B293652",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1753-09-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b00f663f4e0922836fc91f1501af6e7a617a265e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q51864$27BE641A-DD41-4E04-B7F7-B0204B0ADDAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q59551815"
+          },
+          "hash": "99073fbf16c21c3d1ca8b89f0641bc31fe088c93",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q51864$DAF16B59-4BE6-4932-AC58-F7642DC17775",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Isakhaya Yukinori Arms.svg"
+          },
+          "hash": "7bca4633efdde07444750987c9719660aacc5294",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q51864",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Isakhaya Yukinori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "諫早行孝"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Исахая Юкинори"
+    }
+  },
+  "lastrevid": 17457724,
+  "modified": "2025-09-16T11:45:50Z",
+  "ns": 860,
+  "pageid": 66695,
+  "sitelinks": {},
+  "title": "Item:Q51864",
+  "type": "item"
+}

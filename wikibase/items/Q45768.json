@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Taliqu //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q45768$1D61E2B0-4F1F-48EF-8DCB-3A37E5F358A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00374615"
+          },
+          "hash": "ceeb7af47e45af9615c5c3bedb00ed21dcf5b19b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45768$1DE04289-E39F-41A4-8D5F-E6217C316F35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45768$B020C31E-FDC7-4EFB-AEE3-6D5E5F34291D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45768$0C966833-7783-4A70-85DA-2315AF2638BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43079",
+              "numeric-id": 43079
+            }
+          },
+          "hash": "3f56c007e922907e15286e74f8a954dd6e5599ce",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45768$F4393AB2-5D4E-4457-B3DA-BFF5DACC313C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45768$7AAC2E5D-7B03-444A-9380-262D5018FBB8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1309-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "25ee0b686526f02c5c45cf14558f403b3643aab4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45768$A350C2C3-F367-4A3F-8FA8-A81766BB6B1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3056907"
+          },
+          "hash": "e2aaf4fa507540ee727e6ed59b74b10a9d123837",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45768$401A4CFF-EDC8-47AB-9CB1-5C6D966CE659",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Taliqu Arms.svg"
+          },
+          "hash": "0fe4184bb1d6dbc81bb7606ca5c2ffc71a064a37",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Khan of the Changatai Khanate"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Khatun"
+    }
+  },
+  "id": "Q45768",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تالقو"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "তালিকু"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Taliqu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Taliqu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Taliqu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "طالق خان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Taliku"
+    },
+    "it": {
+      "language": "it",
+      "value": "Taliku"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ナリク"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Талику"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Taliqu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хизр Талику-хан"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "தலிகு"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "تالىقۇ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Талігу"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Taliku Xizr"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塔里忽"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "塔里忽"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "塔里忽"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "塔里忽"
+    }
+  },
+  "lastrevid": 17450422,
+  "modified": "2025-09-16T10:00:01Z",
+  "ns": 860,
+  "pageid": 62008,
+  "sitelinks": {},
+  "title": "Item:Q45768",
+  "type": "item"
+}

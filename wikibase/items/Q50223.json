@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Demasq Kaja //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q50223$3842B57B-41B1-4B1E-BD72-E4EB818D2ECF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46291",
+              "numeric-id": 46291
+            }
+          },
+          "hash": "fd73b61f63ac385537c2c14d20745c740017a875",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50223$012E6B6E-4B3A-4A8A-A637-77A8BF17CC46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50223$D94F88E3-3A1A-45E5-B3BE-22587BCD27BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q50223$D72DAC53-C290-4187-A138-5084A61E513D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50227",
+              "numeric-id": 50227
+            }
+          },
+          "hash": "2641a338da6f669b33d3a07ce11ec6744cd77f26",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50223$53495208-B8FC-41E9-8810-BA553AA56C0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50223$D6C33741-65B9-48D4-8DC3-12C974A67013",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1327-08-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a776b2d99a5614576bf9092a5f522201a787d658",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50223$624EED68-8CFE-46DD-BE26-41746D46BAA6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5255100"
+          },
+          "hash": "9260d9fb836f002a25b8860f00938fdcbb0f838b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50223$A5792B1F-AFBE-45C6-BB1B-26F0ACBF1C1C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Demasq Kaja Arms.svg"
+          },
+          "hash": "ed5625f3cfd93f646f122c203354721452df7d4b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أمير جوباني ووزير إلخاني"
+    },
+    "en": {
+      "language": "en",
+      "value": "Chobanid amir"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "émir chobanide"
+    }
+  },
+  "id": "Q50223",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "دمشق خواجة"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dimaskh Khwadja"
+    },
+    "de": {
+      "language": "de",
+      "value": "Demasq Kaja"
+    },
+    "en": {
+      "language": "en",
+      "value": "Demasq Kaja"
+    },
+    "es": {
+      "language": "es",
+      "value": "Demasq Kaja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Demasq Kaja"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ディマシク"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Demasq Kaja"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Димішк-ходжа"
+    }
+  },
+  "lastrevid": 17456342,
+  "modified": "2025-09-16T11:25:32Z",
+  "ns": 860,
+  "pageid": 65333,
+  "sitelinks": {},
+  "title": "Item:Q50223",
+  "type": "item"
+}

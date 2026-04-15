@@ -1,0 +1,162 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Taira no Masayori"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8605$9EB887D3-C182-4315-8983-510BC9572847",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8605$8C475820-02BE-4C04-973C-620256E6839B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8605$1983B122-7E4C-4355-8543-13F7BBCB69ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8305",
+              "numeric-id": 8305
+            }
+          },
+          "hash": "4b237ac22511bcfced687b6aaa41551ea3197f1e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8605$ED3BE328-2DDA-46C4-9702-156F10C74C92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8605$D02040B9-6CED-4D6A-831D-2B02D54F0163",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0940-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a916beb95c07fbe0b59146156045ff7e241e6608",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8605$60F6D51D-E723-4630-BC0A-3008457B1DF3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11482438"
+          },
+          "hash": "95e429374b894af4e63bb58c0448e98f5ac0eebe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8605",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Masajori Taira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Taira no Masayori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平将頼"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "平將賴"
+    }
+  },
+  "lastrevid": 17409194,
+  "modified": "2025-09-15T22:56:55Z",
+  "ns": 860,
+  "pageid": 31090,
+  "sitelinks": {},
+  "title": "Item:Q8605",
+  "type": "item"
+}

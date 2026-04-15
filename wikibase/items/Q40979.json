@@ -1,0 +1,380 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Konstantinos Palaiologos //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q40979$C2B6402A-7855-4AB4-B43D-7742537AA855",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00293013"
+          },
+          "hash": "8bbd9c0a9be048e85d22e5f2d1c5b7dd1d1af8e9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q40979$B6F0B05C-3B8C-4574-9C6B-F348883ED51B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43322",
+              "numeric-id": 43322
+            }
+          },
+          "hash": "47b336d7d261973ca1dc8516913d08b91e8032b7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q40979$55C48EBA-6417-4612-B956-2335DDF48C3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40979$19CC966A-3865-4557-BFEA-FC07C5EDB2D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q40979$135F3946-47AB-4CA9-BE61-5CA4CAAB93F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43318",
+              "numeric-id": 43318
+            }
+          },
+          "hash": "f562978a9cec87d33ecad544c725a262f2b6091e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q40979$8396994C-8D2E-4D7A-8142-7A3F5864AD70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40951",
+              "numeric-id": 40951
+            }
+          },
+          "hash": "bf6de1c9dc9dd0bc5e5010fe2b592a4a0e0d0646",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q40979$D8D32027-A41E-410C-BED9-5639C7559D10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43204",
+              "numeric-id": 43204
+            }
+          },
+          "hash": "423d17ce0158f65ea944c7233e726258845035ed",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q40979$5E487116-2B16-4E7F-9948-E826F513CDCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q40979$50E05D8D-8CB3-490F-BDA9-40A710DF78E0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1261-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a4b35f3362a420d77455d9aeb187986b2b78de9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q40979$7F42242A-6287-4405-9BF4-88B72C72A083",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1306-05-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c2a2c34cff677e4bc28a7d874223bd6c60828917",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q40979$763847CB-EE18-43CF-8D11-233BCF4D77FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16209190"
+          },
+          "hash": "84d052d3db6d734262106921718eaeecb2601e00",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q40979$5C9EB028-71EA-48A8-924D-D6FF42ABE74F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Konstantinos Palaiologos Arms.svg"
+          },
+          "hash": "01d8bd0b5d27d827fac3faff45e0af33d771a6a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски принц, син на император Михаил VIII Палеолог"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "príncep i general romà d'Orient, fill de l'emperador Miquel VIII"
+    },
+    "de": {
+      "language": "de",
+      "value": "byzantinischer Prinz und General, Sohn von Kaiser Michael VIII."
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος Μιχαήλ Η΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine prince"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Bizantski princ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Михаила VIII Палеолога"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Bizans İmparatoru VIII. Mihail'in oğlu"
+    }
+  },
+  "id": "Q40979",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Канстанцін Палеалог"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Константин Палеолог"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Konstantin Paleolog (sin Mihaela VIII)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Constantí Paleòleg"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Konstantin Palaiologos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Constantine Palaiologos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κωνσταντίνος Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Konstantinos Palaiologos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Constantino Paleólogo (hijo de Miguel VIII)"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Konstantin Paleolog"
+    },
+    "it": {
+      "language": "it",
+      "value": "Costantino Paleologo (1261-1306)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "コンスタンチン・パレオロゴス"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Konstantyn Paleolog"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Constantino Paleólogo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Constantino Paleólogo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Константин Палеолог"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Constantine Palaiologos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Константин Палеолог"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Konstantin Paleologos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Костянтин Палеолог (порфірородний)"
+    }
+  },
+  "lastrevid": 17444358,
+  "modified": "2025-09-16T08:31:29Z",
+  "ns": 860,
+  "pageid": 58423,
+  "sitelinks": {},
+  "title": "Item:Q40979",
+  "type": "item"
+}

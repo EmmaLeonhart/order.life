@@ -1,0 +1,302 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rokkaku Ujiyori"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q14529$00D88B01-92F6-4641-B9E5-0FA6F3143F3D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "820351"
+          },
+          "hash": "0f99c3abe01f9cbe269a0dcbfe4451468b51698f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q14529$CA88D340-30DA-4B2E-898E-70C8704FCA6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14936",
+              "numeric-id": 14936
+            }
+          },
+          "hash": "f19676627056c5edea9d651a655415383efe49f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14529$62A0C43A-28FC-48C3-BE7A-CA6CC839E76C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14935",
+              "numeric-id": 14935
+            }
+          },
+          "hash": "8eb92688f28ab17475131f02ab0ee564f36a19f7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14529$D5EFFA85-85DD-4CE7-9586-46BB6E7FC1C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14529$6F7E8300-6C3A-43F3-87E1-853EAE26B151",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14529$9A71FF9E-820C-4EAC-A2D0-2901E5FEC3D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14044",
+              "numeric-id": 14044
+            }
+          },
+          "hash": "b10908fbc358eaf618f1eec87ec160c349642a7c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14529$CA28C53B-BEC6-47C6-9B12-38AB2A419620",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14529$E85A030E-E7F9-456C-ACDB-42869346CB1F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1326-12-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a1336998baa57e8845c2e94b3dc9e7636ae8034",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14529$EC62D8E5-2637-49C1-A7E9-F518ACE37CB8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1370-06-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cc5ec6053c75461a0e2e7a0f5186e9af851fac58",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q14529$B7EB566D-1FDA-4FE0-BDB4-CCABE1536058",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "六角氏頼.jpg"
+          },
+          "hash": "2c5a4ac28b2a4ab707f78fe12c2507616a549d10",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14529$6BA03AE8-CFA4-4E8B-A7D5-58E2BD4DA14C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11392545"
+          },
+          "hash": "d0244b61947f86f06080f9a7424afa622edd0b5c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14529$1864C49B-4830-41EA-B47C-8DFC45257F44",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rokkaku Ujiyori Arms.svg"
+          },
+          "hash": "46d7d1e462e29ea27af3ca54d15d09305c91d588",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "南北朝時代の武将・守護大名"
+    }
+  },
+  "id": "Q14529",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Rokkaku Ujiyori"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rokkaku Ujiyori"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rokkaku Ujiyori"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rokkaku Ujiyori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "六角氏頼"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rokkaku Ujiyori"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rokkaku Ujiyori"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Rokkaku Ujiyori"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "六角氏賴"
+    }
+  },
+  "lastrevid": 17414590,
+  "modified": "2025-09-16T00:11:28Z",
+  "ns": 860,
+  "pageid": 36830,
+  "sitelinks": {},
+  "title": "Item:Q14529",
+  "type": "item"
+}

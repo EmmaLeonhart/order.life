@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kuroda Nagatsune"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24183$21FE1850-9A8C-40E9-85CF-F01A76D5FB76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24183$858CCA01-BDBD-4F76-B358-E6510741C391",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24183$C5333DAC-9AFB-4BE6-A38C-9BE22CFE1C28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21944",
+              "numeric-id": 21944
+            }
+          },
+          "hash": "bca23d3044563809572e1e13b5eede0d33551a11",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24183$AB82EF03-002C-4262-A84B-EE19E98F120D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24183$065CF5D8-BFEC-446A-BE1F-0C3B9645D751",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1742-07-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd1b61e4e4e2069d36d7961abb58ff588b17d94f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24183$806935DE-7327-47BE-AE0E-4D4473D32743",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1763-10-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "66811d93b71b4490742b792b185fc0751527e332",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24183$9455B8F5-BFE5-448B-98F0-93564715A7D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11678706"
+          },
+          "hash": "052406fa68dd495c1013ed03ce99a1b7fb561ff8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24183$36F36475-C6F3-4B06-9A44-95EA061F11FE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kuroda Nagatsune Arms.svg"
+          },
+          "hash": "8b150f26767e929c570c37f751e8bc4b0448be2e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q24183",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kuroda Nagatsune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "黒田長経"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нагацунэ Курода"
+    }
+  },
+  "lastrevid": 17423174,
+  "modified": "2025-09-16T03:18:37Z",
+  "ns": 860,
+  "pageid": 45985,
+  "sitelinks": {},
+  "title": "Item:Q24183",
+  "type": "item"
+}

@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Uesugi Yoshie"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q49453$FE072B82-781E-41FE-BC47-51E48B833251",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49453$AFA5B5B9-FB4C-46F4-B5CD-A313D83DD589",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49453$BB98E95A-BE74-46F3-B7A9-7AE79DD3E518",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49449",
+              "numeric-id": 49449
+            }
+          },
+          "hash": "79b22c16a2b8bbd44986be223a80b61d2b926416",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49453$3352EF03-83B9-46B5-9BD4-C024574115FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49453$FE4454A7-F0E9-45C5-81D3-9EDBE391B880",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1720-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a74231ba812a3024fcc947e871293552fa21dbc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49453$3E7C46DD-B83C-4E1F-B2C6-CFDD9592154E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1742-10-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a066a9af08f36899c259435ff19d03f2eb35a6f6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49453$7604FE97-B5C1-4444-875E-0FEE13F244D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11359232"
+          },
+          "hash": "4f3edb67a0462e315aec895c7c9763a3a44439a9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49453$67F175E4-EB9A-461D-9BF1-CEB537A4FEC8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Uesugi Yoshie Arms.svg"
+          },
+          "hash": "ad01c2279b7788634aeb125bc54553c708206306",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代中期の武士。伊予吉田藩3代藩主伊達村豊三男で、江戸幕府旗本上杉知義婿養子。高家旗本上杉氏8代当主"
+    }
+  },
+  "id": "Q49453",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Uesugi Yoshie"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "上杉義枝"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёсиэ Уэсуги"
+    }
+  },
+  "lastrevid": 17455256,
+  "modified": "2025-09-16T11:09:31Z",
+  "ns": 860,
+  "pageid": 64758,
+  "sitelinks": {},
+  "title": "Item:Q49453",
+  "type": "item"
+}

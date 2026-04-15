@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kyōgoku Takayoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q48220$AC603FBE-E47D-4E71-9DA3-121E7D44162B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48220$A2445AF4-4F20-475E-BF02-18CD7D191883",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48220$235734D4-2361-4777-9C76-0F91F76541D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41852",
+              "numeric-id": 41852
+            }
+          },
+          "hash": "39ade66aa20ab157c19d32e4495e63ec0d958deb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48220$C7E2437F-28E6-4686-994D-2C4AE55B53E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48220$AFEDDE54-4BF0-44E6-ABAF-24ABEC574B83",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1690-08-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2c0f0b7a7f2b83c37939bbc53f3273a52cfb308a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48220$10B171BC-4D89-4A1A-83AC-D27EF377CFE7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1721-07-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e08274a734496a0ed346586fab735b713b6c9392",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48220$6C040B3E-4360-4C1A-9C81-58E0617E0F28",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11374474"
+          },
+          "hash": "fbf875ce479561a219a0bea21d8cc391c18a2217",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48220$9C4CE413-7032-4445-BE6F-7E2211955491",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kyōgoku Takayoshi Arms.svg"
+          },
+          "hash": "a0b20a1c564f2228fea76f463da6cebc6fac5cee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[京極高栄] daimyo of the mid-Edo period; lord of Toyooka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代中期の大名、豊岡藩主"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1690 – 1721)"
+    }
+  },
+  "id": "Q48220",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kyōgoku Takayoshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kyōgoku Takayoshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kyōgoku Takayoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "京極高栄"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kyōgoku Takayoshi"
+    }
+  },
+  "lastrevid": 17453592,
+  "modified": "2025-09-16T10:45:42Z",
+  "ns": 860,
+  "pageid": 63837,
+  "sitelinks": {},
+  "title": "Item:Q48220",
+  "type": "item"
+}

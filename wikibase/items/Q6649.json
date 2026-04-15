@@ -1,0 +1,510 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dan of Zhou"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q6649$CA947CB1-3606-4702-9CF7-8E90509A977F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1443299"
+          },
+          "hash": "0c2b8dc3ffc6dd8495da56b04a47ae7f4dbe1e71",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q6649$EE1CC290-403D-4ADB-A415-5E1713D0B76D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25403",
+              "numeric-id": 25403
+            }
+          },
+          "hash": "0d708f7356f49104b59e157aa60bd140521a7e23",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6649$50696933-3CC2-4C01-8BB0-068BB83AF999",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25404",
+              "numeric-id": 25404
+            }
+          },
+          "hash": "0054da33fc6f63ff4c1e8461ec1d14fdd8864ac6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6649$1D4CEB40-A78D-4C93-80F4-989267315173",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25402",
+              "numeric-id": 25402
+            }
+          },
+          "hash": "33695da52ecfc7ef87bd9d05d7828fe0e102099b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q6649$350DACBE-3E25-4E42-9F39-C93CA28F8DA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6649$AD1A449D-42CC-45CC-B301-6E974B1CF014",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q6649$89AA6314-4F88-4778-8E7F-7CE2EEA4DF24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6629",
+              "numeric-id": 6629
+            }
+          },
+          "hash": "6c1a5a4dd350e1d3f5a6b76c557d5d1299c45f1e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q6649$009C21F1-65BA-4EAD-A4E9-4C0A37AF8175",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6645",
+              "numeric-id": 6645
+            }
+          },
+          "hash": "74ce7eaab8c628e9a7d50c6c4bf9928e992468da",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q6649$B41C4BC3-E684-488E-B988-B3CDCB581EF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q6649$751DBAFF-7C6B-4782-8CDE-A078954DF996",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1100-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93a7fcd289a30eb4b2557ceb4955b2c2ad5085a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q6649$B26A4A54-9AC5-4330-ABB5-0E91DC31C505",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-1032-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecd6b29f230a95a93df33914eea527ef28c6a0e4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q6649$D4DD057C-3A0E-4BC2-9A71-6C55146D22F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhou gong.jpg"
+          },
+          "hash": "7e75bb8dd096603029ccb5c796b03dc6e5f7a3fa",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q6649$A9936895-F6E4-4C79-9577-1175399D2808",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q468747"
+          },
+          "hash": "7e83f345d39f9b534f8d24f5bdf75c78d63fe4d3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q6649$394D8C43-5662-4583-891F-9EDD8DFC5A10",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dan of Zhou Arms.svg"
+          },
+          "hash": "015681f8a0cac69d027e14308f4a2ed640ca4f38",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "chinesischer Staatsmann"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Legendary regional lord, regent, and culture hero of the early Zhou dynasty"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "legenda ĉina kulturheroo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "duc de l'état de Lu, sous la dynastie Zhou"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Un dos doce príncipes e duques (gong) da dinastía Zhou ou Chou"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "周の政治家"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chinees schrijver"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Çin mitolojisinde efsanevi hükümdar"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "один з дванадцяти принців, герцогів династії Чжоу"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Là công thần khai quốc nhà Chu trong lịch sử Trung Quốc. Ông có công giúp Chu Vũ vương Cơ Phát lập ra nhà Chu, giành quyền thống trị Trung Hoa từ tay nhà Thương"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周朝的公爵"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "周文王第四子"
+    }
+  },
+  "id": "Q6649",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Duc de Zhou"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "دووکی ژۆو"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herzog von Zhou"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dan of Zhou"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Dan, Duko de Ĝoŭ"
+    },
+    "es": {
+      "language": "es",
+      "value": "Duque de Zhou"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "حاکم ژو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Duc de Zhou"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Duque de Zhou"
+    },
+    "he": {
+      "language": "he",
+      "value": "הדוכס ג'ואו"
+    },
+    "id": {
+      "language": "id",
+      "value": "Zhou Gong"
+    },
+    "it": {
+      "language": "it",
+      "value": "Zhou Gong"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "周公旦"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "주공"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "周公旦"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Војвода од Џоу"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᠵᡝᠣ ᡤᡠᠩ ᡩᠠᠨ"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chiu-kong Tàn"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Zhou Gongdan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duke of Zhou"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Duque de Zhou"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Duque de Zhou"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чжоу-гун"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Vojvoda od Zhoua"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Dan, Duke of Zhou"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hertigen av Zhou"
+    },
+    "th": {
+      "language": "th",
+      "value": "โจวกงหวัง"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Zhou Dükü"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Дан, герцог Чжоу"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Chu công Đán"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "周公旦"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "周公旦"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周公旦"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "周公旦"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "周公旦"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "周公旦"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "周公旦"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "周公旦"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "周公旦"
+    }
+  },
+  "lastrevid": 17406487,
+  "modified": "2025-09-15T22:22:44Z",
+  "ns": 860,
+  "pageid": 29144,
+  "sitelinks": {},
+  "title": "Item:Q6649",
+  "type": "item"
+}

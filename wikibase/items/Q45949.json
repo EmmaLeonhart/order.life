@@ -1,0 +1,435 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Kantakouzenos //"
+      },
+      {
+        "language": "en",
+        "value": "John Kantakouzenos"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q45949$C095598D-6D1F-43E1-840D-F40549E9724C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00571550"
+          },
+          "hash": "33591d7d97c441006c56242d6d3c9bf481850fc2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q45949$97D810AA-8159-4E59-A5C8-2FEDE33055E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45953",
+              "numeric-id": 45953
+            }
+          },
+          "hash": "fd70681cebf3c6c6618b024b0604b684bac7bac9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45949$3882CF39-1144-4CB6-ABB8-BAB042A4BD2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45961",
+              "numeric-id": 45961
+            }
+          },
+          "hash": "ca1c8289e069d76c5127366fe779caf27f32ab7c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45949$53D6C9C0-8559-4EB1-AF3C-470EB7EF5D39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45965",
+              "numeric-id": 45965
+            }
+          },
+          "hash": "e12e807be37474705b354d3023d5d7a3877d3560",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45949$2A086909-CAFE-4E6A-A52E-1035AAA51716",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45957",
+              "numeric-id": 45957
+            }
+          },
+          "hash": "ca3cb6a040165e892079cab8bf2da1596255c40c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45949$D75A55EF-8235-4B85-AB10-6DB46236682E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45949$01C77849-E27D-4408-BFCA-854BBF774E1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q45949$024B294C-3EC9-4EF7-AA7C-55DC699AE25A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43188",
+              "numeric-id": 43188
+            }
+          },
+          "hash": "1e6b26e9d882e4d9cb525a061d6124bb9b3561ed",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45949$8B199A27-1B80-4AAD-8FE4-6FB7B65358A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45949$AAA1874A-F4C8-42F4-8D09-65DA42A68034",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1190-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "223e14093f43d0d1c0a5bcba16fc47b76fd2fa2c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45949$EAA3992B-548A-457B-BC6C-87E36C7A35D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1257-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc4cc757600461b303a36854e8ef6f137f17710e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45949$9EB80053-772C-4B66-8675-D0058823A0DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10311250"
+          },
+          "hash": "d30afa1f717997b9e051239f6a960ea43aefe030",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45949$8A610D19-ABB3-4A24-AF0E-668ABC5D20A8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Kantakouzenos Arms.svg"
+          },
+          "hash": "8053dff6d2474a41e396a056616f5ad597dd0a21",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийски администратор"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Pinkernes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pinkernes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πιγκέρνης"
+    },
+    "en": {
+      "language": "en",
+      "value": "governor of the Thracesian Theme between 1244 and 1249"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pinkernes"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pinkernes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pinkernes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pinkernes"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Pinkernes"
+    },
+    "it": {
+      "language": "it",
+      "value": "governatore bizantino"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "bizantyński arystokrata"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pinkernes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pinkernes"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pinkernes"
+    }
+  },
+  "id": "Q45949",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "İoann Kantakuzin"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Кантакузин"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Ivan Kantakuzin"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan Cantacuzè"
+    },
+    "de": {
+      "language": "de",
+      "value": "John Kantakouzenos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Καντακουζηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Kantakouzenos"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "John Kantakouzenos"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "John Kantakouzenos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan Cantacueno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean Cantacuzène"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ivan Kantakuzin"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni Cantacuzeno (pinkernes)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "요안니스 칸타쿠지노스"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan Kantakuzen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João Cantacuzeno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João Cantacuzeno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн Кантакузин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Jovan Kantakuzin"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Кантакузин (пинкерн)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Johannes Kantakouzenos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约翰·坎塔库泽努斯"
+    }
+  },
+  "lastrevid": 17450692,
+  "modified": "2025-09-16T10:03:50Z",
+  "ns": 860,
+  "pageid": 62143,
+  "sitelinks": {},
+  "title": "Item:Q45949",
+  "type": "item"
+}

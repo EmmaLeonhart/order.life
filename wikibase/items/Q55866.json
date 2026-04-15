@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cui Shiyuan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q55866$F111E6FD-0F4E-41AB-A597-2F2A5E37F9BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62033",
+              "numeric-id": 62033
+            }
+          },
+          "hash": "5d343056fd7ddaeb012d6de1966007f58dafa295",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55866$7585441A-A464-48C1-816D-ECFD6C93C071",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62036",
+              "numeric-id": 62036
+            }
+          },
+          "hash": "ed9a76bc5eb2cdbe236dbff3b13671b58670233b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55866$6A0BDC21-AFD6-4D14-8A65-D3756DB3362D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55866$9F5096E9-040D-42BC-9E40-A46FB2BDF9F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55866$6ABA2C93-2A9D-4C20-A909-FFD29599C613",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47162",
+              "numeric-id": 47162
+            }
+          },
+          "hash": "c754374f8ce7b70522754a446ecabdb088be8146",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55866$C8DFC1A8-9D64-4979-91EE-15404C96C928",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55866$823C89C2-AEE9-4209-B3E7-2C7530BF745C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0561-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "83c6ad5c10e351375aa44caafd91b9b8cb33422f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55866$9E3003A4-6BB3-4662-9AC7-5D0A805075A8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45492755"
+          },
+          "hash": "cc1347f0908b4b68c49c6123be8eff6bdbc00615",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55866$CEF0579F-CC9E-44A4-9C4D-9DAA68B4DF7B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cui Shiyuan Arms.svg"
+          },
+          "hash": "07a11c5d81298ce469660dc46ccfbdc6961c6495",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 177786"
+    }
+  },
+  "id": "Q55866",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Cui Shiyuan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cui Shiyuan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cui Shiyuan"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "崔士元"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cui Shiyuan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "崔士元"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "崔士元"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "崔士元"
+    }
+  },
+  "lastrevid": 17464076,
+  "modified": "2025-09-16T13:20:10Z",
+  "ns": 860,
+  "pageid": 70697,
+  "sitelinks": {},
+  "title": "Item:Q55866",
+  "type": "item"
+}

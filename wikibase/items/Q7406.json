@@ -1,0 +1,435 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Junnin"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7406$1CEB4FC8-E1FD-4DDD-99E9-020674BFF81C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719956"
+          },
+          "hash": "2b534a8d3c783ec6e1890ee7612881411a80f781",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7406$7DDBC699-ACA4-4595-A45D-9B597A2DF921",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7406$A458AA1E-85E7-4FBC-BA65-8CEDDC6E3769",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7406$7A66549A-4B4E-4B9C-AE6B-C786065E4505",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7567",
+              "numeric-id": 7567
+            }
+          },
+          "hash": "4bb14470ec8f63d3dc2b0564d4521cd26b9847a7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7406$D852E312-82A2-44DF-B26E-D50A66CCC00D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7404",
+              "numeric-id": 7404
+            }
+          },
+          "hash": "05adcd4a1d0230d5f689aafe18cf3b15d01e6d04",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7406$2232CADA-0422-49AA-AEC5-33C59FCE03FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7406$779FDBFC-A6CC-44E5-A9DE-7F9126854FAD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0733-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ef6a4fbafc5c4e7b355efe98a88d17ac5e743d2b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7406$847E15D8-D4C4-41A7-8D1E-74C76437C6DC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0765-11-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1b3d5518b43d42e8994697a284e19290e4885f5d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7406$ACD837B7-2555-4664-971A-8C3D597E343C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Junnin.jpg"
+          },
+          "hash": "81e1bffabf2cb9012a498ed0ae6aca046ab49193",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7406$81D157C8-FB03-4AB4-AC79-F3A63BC408D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q329713"
+          },
+          "hash": "4d7dd0617bfa6aff4b4412ff7118f237faf0dd4e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7406$09A777A5-8F68-4723-9099-D636B6EEBCC9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Junnin Arms.svg"
+          },
+          "hash": "dc07cae4bffd597b98aa2ea678ed30cc51bb7a39",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "de": {
+      "language": "de",
+      "value": "47. Tennō von Japan (758–764)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "japán császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第47代天皇"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Boeddhistische monnik (733-765)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "47-й император Японии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japonya'nın geleneksel veraset düzenine göre 47. imparatoru (733-765)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Junnin"
+    }
+  },
+  "id": "Q7406",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور جونين"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "جوننین (ایمپیراتور)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Junnin"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Džunnin"
+    },
+    "de": {
+      "language": "de",
+      "value": "Junnin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Junnin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Junnin"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Junnin Enperadorea"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور جوننین"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Junnin"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Dzsunnin"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Junnin"
+    },
+    "it": {
+      "language": "it",
+      "value": "Junnin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "淳仁天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "준닌 천황"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Zyunnin Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Junnin"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Junnin"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Junnin"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Junnin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Дзюннин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Junnin"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Cesar Džunnin"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Junnin"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิจุนนิง"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Junnin"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Junnin"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Дзюннін"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Junnin"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Junnin"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "淳仁天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "淳仁天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "淳仁天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "淳仁天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "淳仁天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "淳仁天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "淳仁天皇"
+    }
+  },
+  "lastrevid": 17407379,
+  "modified": "2025-09-15T22:34:14Z",
+  "ns": 860,
+  "pageid": 29899,
+  "sitelinks": {},
+  "title": "Item:Q7406",
+  "type": "item"
+}

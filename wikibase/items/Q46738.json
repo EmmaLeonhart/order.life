@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wen Xi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q46738$09A03285-9714-4F1E-A00A-19FDE344C48E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23590",
+              "numeric-id": 23590
+            }
+          },
+          "hash": "a3267518b938283f9289141b71fef986419dec69",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q46738$497E35EE-31EA-46DC-9E4C-B5F640A65E7C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q46738$3DBCF13D-A36A-4AB8-802D-CD383E5252BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q46738$E2F64F8F-6087-48C4-B918-40F101403D5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21318",
+              "numeric-id": 21318
+            }
+          },
+          "hash": "836f472d4fdb36ac2b7a38f23150c72399f52603",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q46738$943C7D6C-21C4-4D5F-BEAB-F7B0936CF221",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55318",
+              "numeric-id": 55318
+            }
+          },
+          "hash": "7b70766dfd63b476d093c9829bcefe4bc3d53f85",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q46738$14EDB65D-3C6B-46A5-A228-E3E582000C95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q46738$6FE65E60-D1E1-4A60-ADBE-FFBAE92AE7AB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0743-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "48a4c4fc39c4fea8d39369966f90dd6e7929d4ae",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q46738$17202644-E715-4B21-A574-FDBCBBFC83C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45683086"
+          },
+          "hash": "356c1ca5b01432e468ef81a68abb0dddf455250d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q46738$F95F8D50-3043-44EC-A80C-45A30F36800A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wen Xi Arms.svg"
+          },
+          "hash": "8a0dab659d374ebe30b7c3d69b0478d4eacc9b9c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 176055"
+    }
+  },
+  "id": "Q46738",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wen Xi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wen Xi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wen Xi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "温曦"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wen Xi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "温曦"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "温曦"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "温曦"
+    }
+  },
+  "lastrevid": 17451812,
+  "modified": "2025-09-16T10:19:53Z",
+  "ns": 860,
+  "pageid": 62732,
+  "sitelinks": {},
+  "title": "Item:Q46738",
+  "type": "item"
+}

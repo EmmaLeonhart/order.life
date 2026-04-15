@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Song"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q55094$9790BF96-10D1-46BB-A2A2-F81730CB98A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46549",
+              "numeric-id": 46549
+            }
+          },
+          "hash": "999ccd5b9abe4bdaaf09a39bbbe529be909413fa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55094$18A897F0-D334-47BD-8FB5-9AA0F1BC4AC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55098",
+              "numeric-id": 55098
+            }
+          },
+          "hash": "dc50ee5f8a74d33075ceeb1a9c914d0295ab013b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55094$4CBDCF51-0C4E-40CF-AC20-F0CC90257FEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55094$4018F939-DD87-47C3-915A-18F6C46F4905",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55094$A0AF29F9-9E18-40BE-958A-447E9A94374A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53449",
+              "numeric-id": 53449
+            }
+          },
+          "hash": "2215818fbd06284f1769dfff2f3ec9668f10cfea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55094$5F444494-583A-43B6-B64A-4E1242341264",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55094$CAB3BF03-3AF2-449D-8E2C-56DE0C06A20D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0601-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cfaa7e548413f90d6a01cd0bdf6633f40d6933a8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55094$AD523619-79AC-4773-BD45-269B43101004",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0749-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "40222c26683b8b631a1961ed11cd22dd5d1238be",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55094$68438D68-05F1-4357-9F40-E57E91A9E8C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8044230"
+          },
+          "hash": "de6ca3c28b7590fbccd6b95cf7e54805622fed68",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55094$25355BBB-B46C-402A-AF98-1B67F45A845E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000021151273004"
+          },
+          "hash": "046549a5d6a0df7bd0f615670b759daaab37e9ca",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55094$71B396DD-70E6-4DF0-AB81-DAA20E3B6CC2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Song Arms.svg"
+          },
+          "hash": "3b0fb651fa188b8ee555230d5dd9c20247d08d53",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang Dynasty Chancellor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter uit Tang-dynastie (????-0749)"
+    }
+  },
+  "id": "Q55094",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Song"
+    },
+    "de": {
+      "language": "de",
+      "value": "Xiao Song"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Song"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Song"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蕭嵩"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭嵩"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Xiao Song"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Tung"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭嵩"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧嵩"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭嵩"
+    }
+  },
+  "lastrevid": 17462916,
+  "modified": "2025-09-16T13:02:33Z",
+  "ns": 860,
+  "pageid": 69925,
+  "sitelinks": {},
+  "title": "Item:Q55094",
+  "type": "item"
+}

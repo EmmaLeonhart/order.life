@@ -1,0 +1,312 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ichijō Kaneteru"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q30404$0DAAD637-9649-4E77-A647-9CEF65089A66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "837207"
+          },
+          "hash": "708a8a565e4eb05a6a1e089c53a74c5d28f521fb",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q30404$9B1AAF8F-BA86-45CF-A83C-E1B804CDDB1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30404$CCE0DC39-9B3A-40A6-9497-32EC910199AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q30404$C7164EF3-A899-47EB-8DCE-3111E83C61A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27383",
+              "numeric-id": 27383
+            }
+          },
+          "hash": "ebcf56b6c183bd7d1ce18a784a8b0421ade97864",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30404$7098997F-F4CD-4D3A-832B-EB3787A15021",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34246",
+              "numeric-id": 34246
+            }
+          },
+          "hash": "bedbba7dfc585be0f7b29b365356fc4cde0c6df8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30404$F7CAB4EB-703F-450A-96F1-771068A001E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34250",
+              "numeric-id": 34250
+            }
+          },
+          "hash": "d294c1c9d48c3ab549da3220255b27b6c01e34a1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q30404$F0E19A01-42B0-4FF7-AA08-50FF3FE4BE37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33322",
+              "numeric-id": 33322
+            }
+          },
+          "hash": "006acdd50858dd4418afc4661d0d7e84e12ac0b7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q30404$8BB39E2F-CBAF-4AC8-A1F8-14F1E91886CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q30404$54F0D9A1-3AA7-490F-9427-B9A46997B57F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1652-05-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dcfc4b854edb32f2c45edb32a73a53f6b9c3569d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q30404$BDD5F230-AD95-448F-BA70-A94568C59855",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1705-10-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dcd1c07cae94b59c0921ac5ed926dfdfbd5264b8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q30404$0801C633-1DF2-4F5D-8DA3-818DE4DB6094",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3072989"
+          },
+          "hash": "eeb8b0f084b99a465de640a6989c28fa4365bb9b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q30404$D84AD7D2-5BDA-43F3-A9A3-8A038306CFE0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ichijō Kaneteru Arms.svg"
+          },
+          "hash": "68a4eef0cff1b6af4d99607bb4cc6079334ff9df",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Court noble"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代中期の公卿。従一位、摂政、関白、右大臣。藤氏長者。一条家16代"
+    }
+  },
+  "id": "Q30404",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ichijō Kaneteru"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ichijō Kaneteru"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ichijō Kaneteru"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ichijō Kaneteru"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ایچیجو کانهترو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ichijō Kaneteru"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "一条冬経"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ichijō Kaneteru"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ichijō Kaneteru"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "一條冬經"
+    }
+  },
+  "lastrevid": 17429962,
+  "modified": "2025-09-16T05:03:52Z",
+  "ns": 860,
+  "pageid": 50518,
+  "sitelinks": {},
+  "title": "Item:Q30404",
+  "type": "item"
+}

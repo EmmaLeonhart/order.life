@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "基兄王"
+      },
+      {
+        "language": "en",
+        "value": "Ji Xiong Wang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7999$FCBE7CCF-DAB4-4E9D-AFC2-C28F2544D122",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7999$5D121620-B296-485E-8F84-696206CEBBF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7999$183AE899-D9FC-414E-8610-C087D4DBBDAA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ji Xiong Wang Arms.svg"
+          },
+          "hash": "f08b05ca9cebcfd11b892cd81b37a3b2044883ce",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q7999",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ji Xiong Wang"
+    }
+  },
+  "lastrevid": 17407900,
+  "modified": "2025-09-15T22:40:45Z",
+  "ns": 860,
+  "pageid": 30490,
+  "sitelinks": {},
+  "title": "Item:Q7999",
+  "type": "item"
+}

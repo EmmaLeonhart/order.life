@@ -1,0 +1,179 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xi Chuan Yi Zhi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q27770$CB838955-73AD-4B9C-AB5F-B5B06A1E2675",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27770$36BF34EE-A8E4-4DBD-92F6-1C4EACAA1B43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q27770$48C42278-98F9-47CF-8C04-FB3F02A91F48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16291",
+              "numeric-id": 16291
+            }
+          },
+          "hash": "90ec591d1baef818a0ba82e32fb96888919f274e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q27770$8B51A019-647B-4682-A0CF-7F2ECB74C4CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q27770$B6AA4E59-6A23-4AA6-9482-BBFE175441D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1363-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1dab1c65f46f07b966d06091d4b63488e5088f41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q27770$35CF78D3-D87E-43E6-BC2E-07EB24A914C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1422-02-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "304ee9f172d32daa0a5d9eef9a9356417cd74ddd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q27770$EEAD5157-7EAE-4A78-91C2-B5918BDF4068",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17218721"
+          },
+          "hash": "ee4e6a2dd15ef438150c977941ecde455df3baf1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "南北朝時代から室町時代前期の武将・守護大名。阿波国守護。細川阿波守護家(讃州家)2代。"
+    }
+  },
+  "id": "Q27770",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "細川義之"
+    }
+  },
+  "lastrevid": 17427068,
+  "modified": "2025-09-16T04:21:58Z",
+  "ns": 860,
+  "pageid": 48601,
+  "sitelinks": {},
+  "title": "Item:Q27770",
+  "type": "item"
+}

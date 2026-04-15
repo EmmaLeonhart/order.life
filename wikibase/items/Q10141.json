@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kakugen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q10141$D12B28D2-FB56-4787-85A5-F4E4F464F081",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10141$3B3647CD-3823-499D-827B-6AF29CA84D98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10141$B98D2519-9503-4810-863F-F3973A80871E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9701",
+              "numeric-id": 9701
+            }
+          },
+          "hash": "86bd25c1e7ee01a7730ccd211068eb82736a9750",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10141$263C788F-65B1-48AF-BA54-258035576EFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10141$FBFC236F-9D4F-42C7-98F4-E059467C05CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d00449fdebd71ddad4b63533443610d4fb2761b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10141$9B4486DA-D670-436C-9245-E0A61FE4561D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1065-09-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "107c1672b77315bd2661efef5e863774b434401e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10141$C12CFBFF-AEA2-46CD-ABF8-D0327DBBE436",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11630345"
+          },
+          "hash": "54f77ca8425067d0fe4786317fef958097464211",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10141$FAF5D853-8881-431D-B099-96695E6B53EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kakugen Arms.svg"
+          },
+          "hash": "37a05705922689f0785ed51d45b2fcf2bf1ce507",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese monk; son of emperor Kazan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский монах, сын императора Кадзана"
+    }
+  },
+  "id": "Q10141",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kakugen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kakugen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kakugen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kakugen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "覚源"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Какугэн"
+    }
+  },
+  "lastrevid": 17412030,
+  "modified": "2025-09-15T23:35:01Z",
+  "ns": 860,
+  "pageid": 32564,
+  "sitelinks": {},
+  "title": "Item:Q10141",
+  "type": "item"
+}

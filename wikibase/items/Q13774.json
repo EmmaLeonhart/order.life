@@ -1,0 +1,265 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kitabatake Akiyoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13774$AB264D61-B34A-4D9C-9204-3F32469BE1FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13774$C12E7734-C91C-4877-B77D-7421E69FEE98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13774$C5A6D5EF-4806-4E1F-BD48-580082752059",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13776",
+              "numeric-id": 13776
+            }
+          },
+          "hash": "90d610451e5faf825c9ec5a90246548aea597338",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13774$39BDACF6-84A0-4EF7-BA18-4BE5D7A59304",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13774$C85F898E-B866-4B4C-9437-5259229DBDF5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1326-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "702d91d084b0a9088e4cb6dc8665d80080cb8ec2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13774$79FC9797-3FCC-4DD0-B04B-26BD9787E406",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 10,
+              "time": "+1383-07-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "95fa9b2d60206d7176dc810102729f620864d02e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q13774$3D87F03C-2272-4509-9367-858CC07C9CFA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kitabatake Akiyoshi.jpg"
+          },
+          "hash": "59d4e375333782b988ea9a28f10abd971d186633",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13774$7DE74C6E-36CE-402E-A144-FEB87D3CEEFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11403872"
+          },
+          "hash": "3edfcf9b0a111ede526f84915f62875ceedf2cbe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13774$414CB2CC-7D4A-4E90-9E50-395F129152D4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kitabatake Akiyoshi Arms.svg"
+          },
+          "hash": "c21be679d68c9116fc0a716f38530f722c2673cd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Bushi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Busho (Japanese military commander) and Waka poet in the period of the Northern and Southern Courts (Japan)."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bushi japonais"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南北朝時代の公卿・武将、歌人。北畠親房の三男?養子? 伊勢国司。南朝軍事力の支柱。伊勢北畠氏の祖。北畠神社の主祭神。"
+    }
+  },
+  "id": "Q13774",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kitabatake Akiyoshi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kitabatake Akiyoshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kitabatake Akiyoshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kitabatake Akiyoshi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kitabatake Akiyoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "北畠顕能"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Kitabatake Akiyoshi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Акиёси Китабатакэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kitabatake Akiyoshi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitabatake Akiyoshi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "北畠顯能"
+    }
+  },
+  "lastrevid": 17414110,
+  "modified": "2025-09-16T00:05:03Z",
+  "ns": 860,
+  "pageid": 36091,
+  "sitelinks": {},
+  "title": "Item:Q13774",
+  "type": "item"
+}

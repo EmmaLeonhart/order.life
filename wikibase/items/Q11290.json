@@ -1,0 +1,260 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wakasa no tsubone"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q11290$81FF6442-4C58-453C-8252-7739FE2DFA9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11294",
+              "numeric-id": 11294
+            }
+          },
+          "hash": "d4cc1cea072a00b8808875d499d75ef8c95723b5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11290$CFA07049-5763-49A3-BDE1-C1E0B4C1E9C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11293",
+              "numeric-id": 11293
+            }
+          },
+          "hash": "13a742e95fbb76d8980a0bbe2c616245a86cd29a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11290$84753B21-F2AA-4255-BC3E-15AF5856D8FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11290$F2B07430-196C-43F4-B4C3-14638B208386",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11290$1B1F15E0-9941-4F96-91BD-58F4F36DB406",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12098",
+              "numeric-id": 12098
+            }
+          },
+          "hash": "23cb753295b136b28d16cb2f9dfb002d26c83f1e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11290$010AD3FB-0E43-4C21-A654-25690BE1EEC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11290$5BCDADD0-1EFB-4D70-8E48-1198ABB96583",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1203-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "89df18d258b1b3e13a0207792e51b05cc23b6cea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11290$3D59E47C-C827-4841-9D1A-39481701530A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q498616"
+          },
+          "hash": "b53aaf2586aafdd03ddffab50170792a7c6e644e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11290$F0D24BC0-5F70-4E8A-A498-E96650DFCC73",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wakasa no tsubone Arms.svg"
+          },
+          "hash": "9ffe7ac0862114445cc391c07f9c1b86e9c65f89",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of Minamoto no Yoriie; daughter of Hiki Yoshikazu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の歴史上の人物"
+    }
+  },
+  "id": "Q11290",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wakasa no tsubone"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wakasa no tsubone"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wakasa no tsubone"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "واکاسا نو تسوبونه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wakasa no tsubone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "若狭局"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "와카사노츠보네"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wakasa no tsubone"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "若狹局"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "若狭局"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "若狹局"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "若狹局"
+    }
+  },
+  "lastrevid": 17412874,
+  "modified": "2025-09-15T23:47:37Z",
+  "ns": 860,
+  "pageid": 33665,
+  "sitelinks": {},
+  "title": "Item:Q11290",
+  "type": "item"
+}

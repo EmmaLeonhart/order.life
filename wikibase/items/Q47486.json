@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Liu Min"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q47486$39AD5ECE-D7EE-4C12-A323-F945AB340436",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23782",
+              "numeric-id": 23782
+            }
+          },
+          "hash": "7a336133d9c964ab854bd3b02c9ff93d34baa225",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47486$09F46E63-F133-4BC6-A8A3-5CF4057F0132",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56239",
+              "numeric-id": 56239
+            }
+          },
+          "hash": "63ebb4b7015b29d9a7436650ec995a1d321f9b5d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q47486$27ACC3B1-4BBC-4F6F-9B1D-4C18A2208A9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47486$C7E45649-A3C1-45EF-9E03-AF6B0A5EFC59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47486$C794FAEE-9794-4D56-912A-D311A83A2E25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56236",
+              "numeric-id": 56236
+            }
+          },
+          "hash": "7b25a047981f63dbb297a93a71cebacd147f9366",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47486$BE9E860F-13D0-41C5-964B-A29203FE6C80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47486$1894E86F-BA46-46D1-896A-85ECFAF49C55",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0449-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6dabff4e75ad5dc394ad1419f9eb83b509d888ef",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47486$CC0DE8DF-C350-4A2F-8EC4-5DDA5CE9AB88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45420197"
+          },
+          "hash": "be61f271d6529570910f1b86e0b87f47c0bf5c8b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q47486$3D08E3F5-98CD-446C-B379-E2A5AEEE78EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074746843980"
+          },
+          "hash": "59016876910c0604e24c7ffcccfa8de63318da2a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47486$107B81F6-B893-4723-B04F-3D94BC8C95AB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Liu Min Arms.svg"
+          },
+          "hash": "883bff0056903aa9452e0459def697c62b295e64",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Liu Song dynasty person CBDB = 31711"
+    }
+  },
+  "id": "Q47486",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Liu Min"
+    },
+    "en": {
+      "language": "en",
+      "value": "Liu Min"
+    },
+    "es": {
+      "language": "es",
+      "value": "Liu Min"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "劉敏"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Liu Min"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "劉敏"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "刘敏"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "劉敏"
+    }
+  },
+  "lastrevid": 17452628,
+  "modified": "2025-09-16T10:31:52Z",
+  "ns": 860,
+  "pageid": 63290,
+  "sitelinks": {},
+  "title": "Item:Q47486",
+  "type": "item"
+}

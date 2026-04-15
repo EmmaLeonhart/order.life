@@ -1,0 +1,426 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oghul Qaimish //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q40863$40C4C46C-9236-4DEB-8D0A-2F3762A734A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "279138"
+          },
+          "hash": "3367e98ee5a77a3e1d418c21a9ddd13e563d022b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q40863$3AB4A026-E6CD-4C3C-8289-73ACE1CF07F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00298896"
+          },
+          "hash": "351142ce92ad4e1951fed8c27c9ef4ee895941a4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q40863$2E81057F-77C1-4EB4-B53C-42084EF9E691",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40871",
+              "numeric-id": 40871
+            }
+          },
+          "hash": "20aeb9cefe39580c2628fff496ea2e0534eaf714",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40863$101DE848-AD1E-42F0-98B6-5A0E6C626895",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40875",
+              "numeric-id": 40875
+            }
+          },
+          "hash": "a51fef62244ea848b00de101fc09a534ff39b6af",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q40863$1D6A5585-E59C-4199-909E-88A37C74E14B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40863$DB4A023A-F626-46EE-B946-5BD6A087AFA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q40863$DD9F80FF-45B1-40C0-8014-9637DF66FCC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39005",
+              "numeric-id": 39005
+            }
+          },
+          "hash": "32c92730a4b997df137d0531feae8fbd75cf701c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q40863$8DFE75B1-0CCA-41F9-8459-3BAF91806E44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q40863$9C3A914C-BC54-4CAB-B758-04124E70DFF8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q40863$B9473552-DAD0-498A-88BF-E07CEC990611",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1251-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e919b5cdbd7d27b5ebc5803550d42aba8808d2df",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q40863$662CC316-D914-4D8C-A4C6-4B0CF8F1580C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2450507"
+          },
+          "hash": "b256c2cf10ce19802b6ec4e98d5a56b17b6bcfbc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q40863$BA69F5A3-D5CE-4509-AE1C-8DAEA884ECAC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oghul Qaimish Arms.svg"
+          },
+          "hash": "23512f4c1f3621d00f0b3158fa5daade71a3470a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Hauptfrau Güyük Khans und Regentin des Mongolenreichs"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mongol Khagan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "khatun et régente de l'empire mongol"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו של גויוק חאן"
+    },
+    "it": {
+      "language": "it",
+      "value": "reggente dell'impero mongolo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Khatun"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "குயுக் கானின் மனைவி"
+    }
+  },
+  "id": "Q40863",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أوغل قايميش"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Beierzhijin Haimishi"
+    },
+    "be": {
+      "language": "be",
+      "value": "Агул-Гаймыш"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Oghul Qaïmich"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ogul Qaimish"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oghul Qaimish"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oghul Qaimish"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Oghul Qaimish"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اوقتای قامیش"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ogul Qaimiš"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Oghul Qaïmich"
+    },
+    "he": {
+      "language": "he",
+      "value": "אוגול גאימיש"
+    },
+    "id": {
+      "language": "id",
+      "value": "Oghul Qaimish"
+    },
+    "it": {
+      "language": "it",
+      "value": "Oghul Qaimish"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オグルガイミシュ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오굴 카미시 카툰"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "海迷失"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Огул Каймиш"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Oghul Qaimish"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Oghul Ghaymish"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Oguł Kajmysz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ogul Caimis"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ogul Caimis"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Огул-Гаймыш"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ogul Kajmiš"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Oghul Qaimish"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஒகுல் கைமிஸ்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Oğul Kaymış"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Огул-Гаймиш"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "钦淑皇后"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "欽淑皇后"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "钦淑皇后"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "欽淑皇后"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "欽淑皇后"
+    }
+  },
+  "lastrevid": 17444184,
+  "modified": "2025-09-16T08:29:02Z",
+  "ns": 860,
+  "pageid": 58336,
+  "sitelinks": {},
+  "title": "Item:Q40863",
+  "type": "item"
+}

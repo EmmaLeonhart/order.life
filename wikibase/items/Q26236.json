@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Duke Ling of Jin //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q26236$4F808403-B2CF-48BC-B579-386EA152FF3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q26236$AC40C714-D8C5-471D-BBE0-B5CAE5D794FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q26236$B004AA83-AD72-4992-99D4-D8B740AAB45E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26094",
+              "numeric-id": 26094
+            }
+          },
+          "hash": "8424b4e4c5685a47e37416c29f5744f0fe18cda0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q26236$BD059380-B3C3-490C-939E-087A7C9AC83D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q26236$2414988E-3279-4BE5-A6C5-7E689F331996",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0607-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8ea010aa0261bb358172551c5a29841f0a65cd31",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q26236$C9370EB7-2CF5-4B66-A65D-D7AE45B4C008",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1052924"
+          },
+          "hash": "63adc77ba8159fb11da4cc42514957aeb2d10f2b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q26236$DB3E6910-631F-4402-ACE5-CAB3AB5D3578",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Duke Ling of Jin Arms.svg"
+          },
+          "hash": "d97954c07b8e0b79a87eff3be9a293b8db11315e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "ruler of the state of Jin"
+    }
+  },
+  "id": "Q26236",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Duke Ling of Jin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Duke Ling of Jin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "霊公"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "진 영공"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "晉靈公"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chìn Lêng-kong"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Duke Ling of Jin"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tấn Linh công"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "晋灵公"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "晋灵公"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "晋灵公"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "晉靈公"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "晉靈公"
+    }
+  },
+  "lastrevid": 17425152,
+  "modified": "2025-09-16T03:54:12Z",
+  "ns": 860,
+  "pageid": 47581,
+  "sitelinks": {},
+  "title": "Item:Q26236",
+  "type": "item"
+}

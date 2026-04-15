@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "最上義淳"
+      },
+      {
+        "language": "en",
+        "value": "Zui Shang Yi Chun"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q39531$25F11D03-F57A-46FE-9C7F-995FB394EE70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35498",
+              "numeric-id": 35498
+            }
+          },
+          "hash": "255aaca4afcb58730bb94291b6af91729f6b27dc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q39531$0E97D3A4-9733-42CF-A1DE-91DB80A13678",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39531$BB4864D0-2590-45B9-AA80-72D316D9C14A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39531$312ED19C-ACB6-4B4B-A1AF-8F335AD0EED0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24869",
+              "numeric-id": 24869
+            }
+          },
+          "hash": "dc7d7ce908582bddd93a5e31ddce4f3068242dd7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39531$8F9C4640-8E70-46E5-A31B-CBB171661EB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39531$1AE1DFDF-AFBD-4F94-875D-1213C52806C3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b2551d8f909263204fc34fedf5b65ed692fa4eca",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39531$05878350-238E-4C48-BC4A-6C5F1B4E5489",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1504-10-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aef5149405facd87b6d8f807e0c21e33eb71f253",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39531$B1D864BC-64D2-4189-B7A9-C2DA647EC0F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11091680"
+          },
+          "hash": "3eb22a1868b55ce4722da8f0cbff650cab658e39",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q39531",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "最上義淳"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "最上义淳"
+    }
+  },
+  "lastrevid": 17442440,
+  "modified": "2025-09-16T08:04:25Z",
+  "ns": 860,
+  "pageid": 57341,
+  "sitelinks": {},
+  "title": "Item:Q39531",
+  "type": "item"
+}

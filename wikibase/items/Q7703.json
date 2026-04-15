@@ -1,0 +1,231 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Kawako Kashi"
+      },
+      {
+        "language": "en",
+        "value": "Fujiwara no Kawako/Kashi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7703$B3E5A7DD-DEFB-4815-8098-6955F8873D64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7703$594AA9DB-888D-4818-8942-6B6D2802AB71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7703$D25C8927-30B1-45D5-A290-F9BDC68CF1F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7508",
+              "numeric-id": 7508
+            }
+          },
+          "hash": "ba8be9e620837d920927105f25d930a721976625",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q7703$C0900121-65C1-4A1C-9730-B0DAF035FBB7",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Fujiwara no Kawako/Kashi"
+            }
+          },
+          "hash": "1be8bc07520b1e33bd8423bf484dbbf710baba4c",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7703$DAFB593F-097A-4D46-A926-37E158ADCC73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7703$C00DACB8-13B3-4E50-9737-25307A630A59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a369388e76afd2a6ed34fd33d6f4a6fd120c3e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7703$6BDD478B-2193-49E9-BE13-0C414E100823",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0838-02-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "81def5a1fafa821ce03f9e73b3888543683d7781",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7703$D55EDD22-4BA0-4DC9-983F-B57CD13377EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q48765260"
+          },
+          "hash": "8aaa87bb5a255a0e8a55ec91970fcfcb3d51afae",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7703$E3E62B82-519A-4D09-8021-5948AC8CE85A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Kawako/Kashi Arms.svg"
+          },
+          "hash": "eafd754e648131d68ccb63ddf892179b3817092c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q7703",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Kawako/Kashi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原河子"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "藤原河子"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原河子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原河子"
+    }
+  },
+  "lastrevid": 17407633,
+  "modified": "2025-09-15T22:37:25Z",
+  "ns": 860,
+  "pageid": 30196,
+  "sitelinks": {},
+  "title": "Item:Q7703",
+  "type": "item"
+}

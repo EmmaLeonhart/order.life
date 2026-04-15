@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Peter of the Horde //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q40811$D17EEED4-9B27-4EF4-933A-BA0AC8A55171",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "434511"
+          },
+          "hash": "b542c05842700f94d916b8fb97aa9918c410d8dd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q40811$9CADE7A3-8076-4375-8FFF-ACAA0C51187C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40811$C423C1C6-E63B-46F6-BAC1-38F77C63D9C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q40811$DF4F3A27-2BF5-4912-A105-AEBB470B4C28",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38925",
+              "numeric-id": 38925
+            }
+          },
+          "hash": "c24b22413f72e5d63e11c795bd7f6bae99dfb6bc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q40811$9099D0DB-150B-4F19-8F7F-E607B473B5B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q40811$CB08D562-B18A-4E33-B671-7E7C861D6AA7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1290-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f4327ddf9ca0bccd899270a6146cfdc41c05a75d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q40811$9414095D-39B7-4053-8ED8-A20B09DEE4F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12140198"
+          },
+          "hash": "475b00bdc42c0f9465feb3390dc8ec023ccf6084",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q40811$A4728127-DB6F-4798-A3C6-C8DEB2586465",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Peter of the Horde Arms.svg"
+          },
+          "hash": "5d4959f089093586f967e45652a6da4b9614f957",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q40811",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Petr Ordynský"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peter of the Horde"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pierre de Rostov"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пётр Ордынский"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Царевић Петар"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pjotr Ordynskij"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Петро Ординський"
+    }
+  },
+  "lastrevid": 17444106,
+  "modified": "2025-09-16T08:27:55Z",
+  "ns": 860,
+  "pageid": 58297,
+  "sitelinks": {},
+  "title": "Item:Q40811",
+  "type": "item"
+}

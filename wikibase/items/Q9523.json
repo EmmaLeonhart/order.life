@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sugawara no Furuhito"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q9523$D13CB180-DD10-4535-9304-06FAAF8B940B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9125",
+              "numeric-id": 9125
+            }
+          },
+          "hash": "d50fa48498b34d5f9299db59a1d9c7a65d93048e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9523$1902DC30-0ED5-452A-8092-8BB9D046E1CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9523$3D621833-A330-498A-AB39-071B99A1D48C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9523$695ABA80-33C0-4D07-9D59-AFADB41C582F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9944",
+              "numeric-id": 9944
+            }
+          },
+          "hash": "f7f2f03ca4291b333707347fc4e13f6a2c7b254d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9523$674F52EB-3A5F-468C-91A9-7074585551CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9523$4045BCDF-6FD2-428B-B071-C9349DCA0BB0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a369388e76afd2a6ed34fd33d6f4a6fd120c3e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9523$450F6822-26BE-42A6-9794-10DBFE25E5A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0819-02-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ee49aee35cdbfe5033b67a02d557b4977e0ec216",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9523$AE23692D-BDC5-422C-9C09-76386E92CC97",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11619160"
+          },
+          "hash": "f9941c7e8dc7248f3affcdbc12f58f70e3a776fe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "奈良時代から平安時代初期の貴族。土師宿禰のち菅原宿禰。従五位下・遠江介"
+    }
+  },
+  "id": "Q9523",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sugawara no Furuhito"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "菅原古人"
+    }
+  },
+  "lastrevid": 17411104,
+  "modified": "2025-09-15T23:21:40Z",
+  "ns": 860,
+  "pageid": 31973,
+  "sitelinks": {},
+  "title": "Item:Q9523",
+  "type": "item"
+}

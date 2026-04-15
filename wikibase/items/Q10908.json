@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shin'en"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q10908$7B63A262-0AD3-4624-A4EA-D3DDB17BF9F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10908$2F734D82-42EA-4780-926B-E1D1F843B6B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10908$A162B0A7-A535-4DBE-94B3-89047D0F324B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10905",
+              "numeric-id": 10905
+            }
+          },
+          "hash": "b42eccd94b457a5c1a2578a8ea3eb893097d2568",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10908$4625778C-3DFD-4349-B25D-FB7E5C72D139",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10908$D3197FC3-09DE-4E2A-AEBC-43F18D599E93",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1153-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0af96ab0140ae938db7897bbea4a5671a8f1a0bc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10908$AD972068-991C-478B-8168-98B1E24F97C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1224-12-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0d86dba2482ab0c26884581be9f5eda129d21d03",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10908$CF7E3412-37F3-4168-8EDE-2EDFFB650363",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17217053"
+          },
+          "hash": "66109b7a2afa737fc6d552651bccf52c0b3cd132",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10908$148EBFEF-5618-4238-83D3-2F3FD899E2D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shin'en Arms.svg"
+          },
+          "hash": "cb306ce5c531871931d491632c2427ed714a9106",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "興福寺第44代別当"
+    }
+  },
+  "id": "Q10908",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shin'en"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "信円"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "信圓"
+    }
+  },
+  "lastrevid": 17412594,
+  "modified": "2025-09-15T23:43:20Z",
+  "ns": 860,
+  "pageid": 33297,
+  "sitelinks": {},
+  "title": "Item:Q10908",
+  "type": "item"
+}

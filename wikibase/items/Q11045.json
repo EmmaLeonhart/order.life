@@ -1,0 +1,197 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Haji no Nemaro"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q11045$A2BA301A-3BBD-4F97-BDFD-B98554F6920A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10443",
+              "numeric-id": 10443
+            }
+          },
+          "hash": "b76fd366eaa84dacafd8590d03f82ce2cce4cfee",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11045$0E7AD6B2-575E-415F-8FED-1EEEBF6F8CDB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11045$8351020D-EA1B-417D-9282-5D880B9C0857",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11045$5ACAADF8-7B2E-44A5-84BE-6E43FBE6437A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11793",
+              "numeric-id": 11793
+            }
+          },
+          "hash": "4a7c0c42d622957326dafd20b0ab271ea770e7f8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11045$1F5FF250-591D-4A82-B3AD-D0F12D897990",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11045$709A436F-2E41-4F20-87D1-A42B90F6187D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dad1444d1226a8d60f3eee2b90cdaa2e80dd9ab4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11045$B288888A-7AA4-4007-BF29-B7586CBF0E45",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q92924443"
+          },
+          "hash": "a718201d1be90552d2c9697f30b062e0f0c2bf07",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11045$7E6402BA-0A0A-49D8-B2CD-6641AFDEE3B7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Haji no Nemaro Arms.svg"
+          },
+          "hash": "86ff49f82fbf4b476ea3eb2ad051f3b776959e05",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "nobleman during the Asuka period. His surname is Sukune. His official rank is Naohiro Counselor/Judge"
+    }
+  },
+  "id": "Q11045",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Haji no Nemaro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "土師根麻呂"
+    }
+  },
+  "lastrevid": 17412680,
+  "modified": "2025-09-15T23:44:31Z",
+  "ns": 860,
+  "pageid": 33428,
+  "sitelinks": {},
+  "title": "Item:Q11045",
+  "type": "item"
+}

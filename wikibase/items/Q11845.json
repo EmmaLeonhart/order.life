@@ -1,0 +1,378 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Tametomo"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11845$183EF15C-388D-4958-AC92-DFA362402858",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814293"
+          },
+          "hash": "90754863f29013fa155f5584a22b6f0a231d16fa",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11845$7E6014FE-495F-4B6B-BD53-C6327F609BD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12658",
+              "numeric-id": 12658
+            }
+          },
+          "hash": "bebe462b7fd3fae647c79ca426886f4bfc67796e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11845$29CB61EF-0F3B-46AD-813F-33E9930FBC15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12660",
+              "numeric-id": 12660
+            }
+          },
+          "hash": "64c47c75b6bc10e020817c0f17b62e83a9759cee",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11845$3D3E4C8F-355C-4054-A6AA-6B3DC02D25CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11845$96B8A359-2363-4CB6-9AAB-BBE83A546368",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11845$F121CFFE-929C-4C74-A70B-94EC84E4AB3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11072",
+              "numeric-id": 11072
+            }
+          },
+          "hash": "c286d0ac42d73da8a1f2a0170cf75928d43a57cc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11845$0EFB0963-EB8C-49DC-AA64-584AD211307B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11845$116A7F85-FF80-4328-8FA0-3E80DFA875F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1139-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1b32f33ab41536e0f3aa0687b77a40c3d8b1511d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11845$33C3DE22-AF00-4FEE-B756-1BDC8C030AAA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1170-04-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "af36602be5bbb498a97c7b4b99cdf9b5eee94d1e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11845$A3CACFCF-6FCC-4979-9AF1-067CC9E33D15",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto-no-Tametomo-by-Kuniyoshi-Utagawa.png"
+          },
+          "hash": "1d7428f7250eb6b9fc338f8d8493f4805590a429",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11845$9164733F-329E-41FF-9C17-FC1081373359",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1339356"
+          },
+          "hash": "1fee21a38e586a0b98d47618bfeb78d5e1fa07ad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11845$B287BAE7-3666-4DD4-8C3A-4CDDFAB1A300",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Tametomo Arms.svg"
+          },
+          "hash": "544159e2cad9816b415e35413384b4099019ab87",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1139–1170)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mitglied der Minamoto in Japan"
+    },
+    "en": {
+      "language": "en",
+      "value": "samurai who fought in the Hōgen Rebellion of 1156"
+    },
+    "it": {
+      "language": "it",
+      "value": "Samurai che combatté nella ribellione di Hōgen del 1156"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の平安時代の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (-1170)"
+    }
+  },
+  "id": "Q11845",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Minamoto no Tametomo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Minamoto no Tametomo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Tametomo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Minamoto no Tametomo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "میناموتو نو تامهتومو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Minamoto no Tametomo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Minamoto no Tametomo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源為朝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "미나모토노 다메토모"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Minamoto no Tametomo"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Minamoto no Tametomo"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Minamoto no Tametomo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Minamoto no Tametomo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Минамото-но Тамэтомо"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Minamoto no Tametomo"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tametomo"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мінамото-но Таметомо"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Minamoto no Tametomo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "源為朝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "源为朝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "源為朝"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "源為朝"
+    }
+  },
+  "lastrevid": 17413192,
+  "modified": "2025-09-15T23:52:10Z",
+  "ns": 860,
+  "pageid": 34198,
+  "sitelinks": {},
+  "title": "Item:Q11845",
+  "type": "item"
+}

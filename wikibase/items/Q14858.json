@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kim Poomseok"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q14858$6877A95A-E09E-4B0D-98D0-5BBFE12CE39F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14858$3C679614-0AC6-48D1-892A-0D0F97775313",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q14858$16873805-0314-4320-9B5D-6E60416C8106",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14453",
+              "numeric-id": 14453
+            }
+          },
+          "hash": "a9fddc9bb80b9ccbb662965718e69d3426d67ce8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14858$8298DCF8-6A09-4542-B975-0A4D15791E5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14858$11070696-32B0-44A2-80B4-FF22CEF18ECB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0642-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "53d0a9415d135b0364651102854d815cffe92dbe",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14858$A4D92EFB-1FEC-4F27-A9C7-75545EE7754A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12589101"
+          },
+          "hash": "988d1b4584cb9c52fa2c50666b8374dcb744a996",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14858$B657470E-E6DF-43B7-B0B5-B0485AF06B57",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kim Poomseok Arms.svg"
+          },
+          "hash": "e932a217e530d79b756f4450067ae48ea7691aa0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "신라의 관료 (?–642)"
+    }
+  },
+  "id": "Q14858",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kim Poomseok"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "金品釈"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "김품석"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "金品釋"
+    }
+  },
+  "lastrevid": 17414764,
+  "modified": "2025-09-16T00:13:58Z",
+  "ns": 860,
+  "pageid": 37155,
+  "sitelinks": {},
+  "title": "Item:Q14858",
+  "type": "item"
+}

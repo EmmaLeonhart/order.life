@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Hamanushi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q8041$F0EC9C0A-6D18-4E3C-A353-92C40DB9C08B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8356",
+              "numeric-id": 8356
+            }
+          },
+          "hash": "f04f63ff0bba6389905b4798e644f87c5ea8356c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8041$1CF0D4DF-8CC9-490E-B03B-FADC08C0C1CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8041$37E9408C-7CB4-45CF-8517-C6209D9A7167",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8041$7B5F2080-2BBF-45A4-9C21-E3B6F8BFFD88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7757",
+              "numeric-id": 7757
+            }
+          },
+          "hash": "07009215fa99016319995b43e50421154d71a153",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8041$B9C6FE72-D7AD-4C7D-898A-BB0CFCCC18BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8041$A88EE822-0EE5-4466-B3A0-7722D967A1D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0785-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6bc8565e4ee5535e8b612e3a009ed0a5bd81c985",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8041$564AEF78-A80A-4DDB-86DF-B53970189848",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0845-02-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fbb57acbea1f1bac4d55f4fdf96179925fb925db",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8041$D3F4DE10-AFFD-4704-9B35-D566C7C7945B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623372"
+          },
+          "hash": "d868ee105d21181feaed5a2d18d590df7d0ccaab",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8041",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Hamanushi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原浜主"
+    }
+  },
+  "lastrevid": 17407992,
+  "modified": "2025-09-15T22:41:54Z",
+  "ns": 860,
+  "pageid": 30532,
+  "sitelinks": {},
+  "title": "Item:Q8041",
+  "type": "item"
+}

@@ -1,0 +1,286 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hosokawa Okitaka"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q24064$DF8AC693-F5AF-48FF-9D76-2E33EF475E44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38646",
+              "numeric-id": 38646
+            }
+          },
+          "hash": "a883351ddcf5e0d942a5b7eca26e54ebb9c8bf5d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24064$CDF7AA37-EA3C-4BC7-9CBD-CB5DFF8E69D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48192",
+              "numeric-id": 48192
+            }
+          },
+          "hash": "8556f264c70b8718051cb97af4cbfeeafc50c004",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q24064$16051C53-C4A0-4D92-86A5-99C26B9D363D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "細川-20"
+          },
+          "hash": "5626e441b94f6e7ddfbd01c87cbf5a464d879584",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24064$0CF39311-1ECF-4419-AFD9-4CDAFBB51120",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24064$44147647-0DDB-4A55-8020-01CAFAF79181",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q24064$D39AC4DC-39BB-4688-9A04-AE7306190512",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48188",
+              "numeric-id": 48188
+            }
+          },
+          "hash": "07465697b78d0dc1972e0e6f53ebb301d4f97e95",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24064$8699549A-3A42-45C8-8276-520D35B8D15F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48184",
+              "numeric-id": 48184
+            }
+          },
+          "hash": "749427a61e516e4f8fd9a7a76897bb4fa8f183ac",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24064$30328468-17E6-4EEB-B8F2-67576C33C03D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24064$7C28510A-21F8-447A-A734-CE04FAD63B29",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1632-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8fbdbdf547aed3614963550658e15a73bd98ae1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24064$36370EB8-87EF-45B8-8522-3B3E0DC4A1CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1690-03-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "75ee57f8ed87a097b1b8c46f12fbdf2668185275",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24064$C5C14782-141B-4D1D-AF44-C77E36200E70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11605992"
+          },
+          "hash": "b12b75e4a41b9aaea0f1c0b99acc78811cee7663",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24064$54937B41-42A7-41B2-8E33-EBFE46032C44",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hosokawa Okitaka Arms.svg"
+          },
+          "hash": "758f67d18efb29410687f3383936b87af2b272bb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1632 - 1 Mar 1690"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期～中期の大名。常陸谷田部藩2代藩主細川興昌長男で、谷田部藩3代藩主。従五位下豊前守"
+    }
+  },
+  "id": "Q24064",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hosokawa Okitaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "細川興隆"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Окитака Хосокава"
+    }
+  },
+  "lastrevid": 17423074,
+  "modified": "2025-09-16T03:16:06Z",
+  "ns": 860,
+  "pageid": 45871,
+  "sitelinks": {},
+  "title": "Item:Q24064",
+  "type": "item"
+}

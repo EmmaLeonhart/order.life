@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Mou"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q45289$16F2D8E7-D078-4144-B801-2E27D315B776",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53794",
+              "numeric-id": 53794
+            }
+          },
+          "hash": "cb593ab959e8b5844ae1bb28627395a5601c0410",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45289$27991A78-DD7D-4FDB-811E-E03C93EE072B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53798",
+              "numeric-id": 53798
+            }
+          },
+          "hash": "4b0cac741038b7a486b23576ac49cc34fb940341",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45289$C78BED8A-703A-452F-AFA1-9A73744BDE33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53802",
+              "numeric-id": 53802
+            }
+          },
+          "hash": "a6be03c2aeab0964f8ae655e8cc4e5319bc1231a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45289$70D71F2C-DEED-49E1-BD69-D43BC2F54EC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45289$5194640A-97E5-4605-8081-EC6BAE7EF0A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45289$E7209A2E-9D2C-4FA9-A0E9-8FD2817F0724",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40596",
+              "numeric-id": 40596
+            }
+          },
+          "hash": "fb0c6e56632d5b31832b84d060ddadd4bb3558c0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45289$B85D2F16-22A8-4562-B4B2-573AD20EE8A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45289$F389E3F1-30BA-44BB-88DA-4EF559048F34",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0756-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "221c0b0c1c3f1f5967d8fc07deda267949a767ce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45289$0D603FA2-ABAD-4926-91D4-6556EF85EEDA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45627943"
+          },
+          "hash": "54b9296dce32ab34b4a72eb108381942e267e77c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45289$B4D6FC34-FFEA-4007-B953-D930A47D62F0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Mou Arms.svg"
+          },
+          "hash": "87366016ab217e3f6d0b280a1aade254a2a2f3b9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB=180275"
+    }
+  },
+  "id": "Q45289",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Mou"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Mou"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Mou"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛某"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Mou"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛某"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛某"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛某"
+    }
+  },
+  "lastrevid": 17449708,
+  "modified": "2025-09-16T09:49:45Z",
+  "ns": 860,
+  "pageid": 61649,
+  "sitelinks": {},
+  "title": "Item:Q45289",
+  "type": "item"
+}

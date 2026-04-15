@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuan Baoheng //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q42618$7400500C-70A2-4889-85F0-98E0F0A1F022",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42618$D9B776DA-C4D3-41DF-9C31-B545749A2B67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q42618$86BEE748-3B48-4432-82BF-B793CD14CE8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40277",
+              "numeric-id": 40277
+            }
+          },
+          "hash": "ce11429368e892ff58902516e3a4611741099b9c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q42618$ADD2E498-6487-4376-BAEC-52F3AB17A726",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q42618$DD290776-445C-45F1-91D9-AEED374D672C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1827-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "154ee15588e596773193c995a609277a8194c991",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q42618$912E94BB-6E32-4BED-8F6E-84F6A98CC603",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1878-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bf93a6e77f12bb706ae6f7094a74dca08e964682",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q42618$BE7812A2-A3FE-4637-AB6C-0F0C4879E3DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11626496"
+          },
+          "hash": "aaa3be8d9e60451a0d2761618d983911113c81c7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q42618$04A523CC-FBD9-4A24-B280-FD5BAFF17BB8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000013104237105"
+          },
+          "hash": "1557f78fd2440be48bdcade7445f3039e27ba1cb",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q42618$FB59897F-1F24-49FC-A4FF-4909428B2300",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuan Baoheng Arms.svg"
+          },
+          "hash": "09dbdd29adff65a1414fa1bcbd2ff4eee7f62e25",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Qing dynasty person CBDB = 359653"
+    }
+  },
+  "id": "Q42618",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yuan Baoheng"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yuan Baoheng"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yuan Baoheng"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "袁保恒"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "袁保恒"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yuan Baoheng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "袁保恒"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "袁保恒"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "袁保恒"
+    }
+  },
+  "lastrevid": 17446410,
+  "modified": "2025-09-16T09:00:41Z",
+  "ns": 860,
+  "pageid": 59653,
+  "sitelinks": {},
+  "title": "Item:Q42618",
+  "type": "item"
+}

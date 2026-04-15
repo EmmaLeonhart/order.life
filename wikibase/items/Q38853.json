@@ -1,0 +1,419 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Khulan //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q38853$734C2972-A1A4-4CCA-8FF1-1899589DB9AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "279074"
+          },
+          "hash": "c80121fba58dda18ddf430d79f840a4fa30c346c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q38853$5DAC4EEE-2876-497F-AB9C-E9548BFBB4F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37445",
+              "numeric-id": 37445
+            }
+          },
+          "hash": "c2b73590750b0f3852b9efca412a0f15645b2569",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q38853$E89B4082-505D-4E76-B2BD-229962DB4C8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q38853$572F19C8-FBD3-4581-AB42-DA8FAF0E0E3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q38853$1FD5FC8C-1A02-4994-9BAC-1AE8C1652E29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37401",
+              "numeric-id": 37401
+            }
+          },
+          "hash": "926cc02f77db665aa229a6e3ad568730e82bae67",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q38853$DF7ADB4A-2D3B-4A33-BD23-060D4F06F670",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40694",
+              "numeric-id": 40694
+            }
+          },
+          "hash": "254e20ec64854b026d47929270b4b65e72c3fda2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q38853$582B143B-585D-4620-B5CD-F0EDEF204750",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q38853$8BD729AE-6C68-4ED7-BBB8-3DAA55693BDE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1164-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f028e1c0bc8ef593714a0b27b2d5e5ed45069a23",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q38853$67F731C4-793B-416E-872B-859DA78F4308",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1215-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2216b7a86cd8589873e5bccbbf07051456a86761",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q38853$7F410058-5230-462B-A366-0DB85A174521",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4502265"
+          },
+          "hash": "f38ef2fe451b54b97c3b076ad862b81d8a239e78",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q38853$6152C3FB-2C93-4F2B-90B5-54D7B2CF083E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Khulan Arms.svg"
+          },
+          "hash": "1d0d10f6588a1c0fe6367bc2ae5552f5d441d223",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "empress of Genghis Khan and head of the second Court of Genghis Khan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse de Ghengis Khan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вторая супруга Чингисхана"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "en av Djingis khans hustrur"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "செங்கிஸ்கானின் மனைவி மற்றும் அவரது இரண்டாவது அவையின் தலைவி"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "成吉思汗妻妾之一"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "成吉思汗妻妾之一"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "成吉思汗妻妾之一"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "成吉思汗妻妾之一"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "成吉思汗妻妾之一"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "成吉思汗妻妾之一"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "成吉思汗妻妾之一"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "成吉思汗妻妾之一"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "成吉思汗妻妾之一"
+    }
+  },
+  "id": "Q38853",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Khulan"
+    },
+    "be": {
+      "language": "be",
+      "value": "Хулан"
+    },
+    "en": {
+      "language": "en",
+      "value": "Khulan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Khulan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Khulan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Khulan"
+    },
+    "id": {
+      "language": "id",
+      "value": "Khulan Khatun"
+    },
+    "it": {
+      "language": "it",
+      "value": "Khulan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クラン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "쿨란 카툰"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Хулан"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Khulan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Khulan"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Kulan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хулан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Khulan khatun"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "குலான் கதுன்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hulan Hatun"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "قۇلان"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hốt Lan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "忽蘭"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "忽兰"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "忽兰"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "忽蘭"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "忽蘭"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "忽蘭"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "忽兰"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "忽兰"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "忽蘭"
+    }
+  },
+  "lastrevid": 17441578,
+  "modified": "2025-09-16T07:52:14Z",
+  "ns": 860,
+  "pageid": 56834,
+  "sitelinks": {},
+  "title": "Item:Q38853",
+  "type": "item"
+}

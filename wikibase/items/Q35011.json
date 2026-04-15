@@ -1,0 +1,159 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Qian Ye Jing Ding"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q35011$5C5FCD46-51F3-4769-A82A-CA12D4E83293",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q35011$37413D14-2BB0-46A6-9B05-3F668CBB16D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q35011$EDD0AA63-2A13-4F6F-BDA5-4C857B5E76AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30910",
+              "numeric-id": 30910
+            }
+          },
+          "hash": "a44ad882cee57dfab24b0eaa4ceaa4460041f956",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q35011$0FF5878C-07AC-4903-8E70-42AA1CCD868C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q35011$37D190EC-9AE0-449D-BF28-F086B5FF2C5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1595-09-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "20269ed3e32ce2a94c281521f99da744549ef520",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q35011$4825E5F3-1C44-43C0-A12D-C3B06B76F818",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11397843"
+          },
+          "hash": "9a24a9108b6a626517f68392bdf5cb5e374a4e50",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代の武将。豊臣氏の家臣。出雲守"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q35011",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "前野景定"
+    }
+  },
+  "lastrevid": 17436416,
+  "modified": "2025-09-16T06:37:57Z",
+  "ns": 860,
+  "pageid": 53964,
+  "sitelinks": {},
+  "title": "Item:Q35011",
+  "type": "item"
+}

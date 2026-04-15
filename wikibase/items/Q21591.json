@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "San Shi Hu Zi Shun"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q36837$09A7A79C-FA4A-48DC-ABB1-B0EC5E089B9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36837$8C886D19-BEB0-44C1-96B8-E41A8520D9BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q36837$32D38BAA-A53B-4A93-B635-F391597B3DF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41493",
+              "numeric-id": 41493
+            }
+          },
+          "hash": "3e1c5346129b711a1c9de37a5a72f204a5485cae",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36837$E966B865-DD4C-4946-B63F-7820BE6690B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36833",
+              "numeric-id": 36833
+            }
+          },
+          "hash": "a37414109771e9f75045ec8544c6c71941cf1642",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q36837$1A30770D-FEDA-4047-9B8F-70405A8FD638",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32545",
+              "numeric-id": 32545
+            }
+          },
+          "hash": "60134e5b6230ba02377f39653467a15c4c6bd170",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36837$EBB3D088-65B9-4C84-9EE9-049579017236",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q36837$4F05B51E-A398-4A36-A2C5-9519276213D0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1671-09-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4d72c2c1420a33392fdb646907d11d8323d714f5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q36837$E084D3E2-1F44-4D0D-9F7E-6BAAFB717E09",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1718-08-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "259125cea6a48a8b17c498d380cd3e82d15bf191",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36837$DA8C7099-1892-48C2-B234-066931472679",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110086926"
+          },
+          "hash": "a7c59fad8c8c78061fbd8f0e70daebe5b15e0555",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "三室戸家2代。正三位・非参議、中務大輔"
+    }
+  },
+  "id": "Q36837",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "三室戸資順"
+    }
+  },
+  "lastrevid": 17439034,
+  "modified": "2025-09-16T07:15:48Z",
+  "ns": 860,
+  "pageid": 55328,
+  "sitelinks": {},
+  "title": "Item:Q36837",
+  "type": "item"
+}

@@ -1,0 +1,244 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saimura Masahiro"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21604$F56699EF-2814-418A-BCB5-0BD1138BFB6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21604$FC3A9F98-A340-4F31-BADF-A41970248988",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21604$1CCCB164-7F0F-4A39-80B7-037C5F783DC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19631",
+              "numeric-id": 19631
+            }
+          },
+          "hash": "fd1fc9ae67492e55051fd4d59fab0031e21cb4df",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21604$F2DFE3BD-9FB7-4B0C-BA73-9FF5B5E6B544",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21604$9B00DFF4-A79F-424F-914F-658F0F4C3A73",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1562-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ac2021670884c8ec1c397f21ec03950fa4b084db",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21604$73A81C23-722E-4CF2-9FE3-2E925D9FFD1A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1600-12-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d55a0c59a8607f8f5124c98fbf5e1a04f1bde8b8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21604$86768376-6517-458D-B757-DD2663262629",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11248558"
+          },
+          "hash": "ac551affd701311365d7340a456b0bc1b3aa8a8d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21604$2FAD5272-C634-44E6-85F1-41982F1E0468",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saimura Masahiro Arms.svg"
+          },
+          "hash": "1a006a71cf34578d64d4f3a74a3bfadefcf938a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "武将、大名"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q21604",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Saimura Masahiro"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Masahiro Saimura"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saimura Masahiro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Saimura Masahiro"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سایمورا ماساهیرو"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "斎村政広"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사이무라 마사히로"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Saimura Masahiro"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "齋村政廣"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "赤松廣秀"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "赤松廣秀"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "赤鬆廣秀"
+    }
+  },
+  "lastrevid": 17420670,
+  "modified": "2025-09-16T02:23:38Z",
+  "ns": 860,
+  "pageid": 43620,
+  "sitelinks": {},
+  "title": "Item:Q21604",
+  "type": "item"
+}

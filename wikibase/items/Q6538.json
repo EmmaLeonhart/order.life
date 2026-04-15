@@ -1,0 +1,595 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Itoku"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q6538$5B9E8458-9457-4CEA-8A81-F4855D78D693",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "485806"
+          },
+          "hash": "fc037b75d495cd83974d68087f781518cbb792c7",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q6538$4F4875C2-4440-C00D-ABB5-B53B8B0E7317",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153775",
+              "numeric-id": 153775
+            }
+          },
+          "hash": "135f9aeea4324072c19eff95a655724ae9c23509",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q6538$0F68AD46-E1C2-48F5-96BD-18478A12B4B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6538$D5DB449D-E32D-499F-B49C-4053D065ED33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q6538$758951EB-9B62-4634-8694-18C7902FECF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6691",
+              "numeric-id": 6691
+            }
+          },
+          "hash": "3dccbaebe8588122a75a497f60799bdb143c1807",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6538$62C396B3-A18C-49FA-A057-A526492EDF2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6692",
+              "numeric-id": 6692
+            }
+          },
+          "hash": "919334667c45d6dfe2af66123d9209f6f28e79e5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6538$B80391BE-04F1-432C-8D0C-A6E950F8C9D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6693",
+              "numeric-id": 6693
+            }
+          },
+          "hash": "095bafa9d769859e263dab146fd6b8ae9a4f7c19",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q6538$13A92CB0-E3CC-4ADB-99DC-DDEC2F97E26A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6481",
+              "numeric-id": 6481
+            }
+          },
+          "hash": "0b2903eaff66e796e6b7b9ed36c23da6a56ff1ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q6538$200112B8-7C29-492A-B0D6-C0ED935A3B75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6524",
+              "numeric-id": 6524
+            }
+          },
+          "hash": "c8cdf4f4a58daed65c4f64afbd04a37ce113f78a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q6538$92E74553-DCAC-46F5-A549-47A6E52502AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q6538$FC267AD2-2779-487C-BB7A-70CC4BB3CE9F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-0553-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a3f5f2aee3b450f86799c5e4f2b7b8460e73c0fc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q6538$5D1C3CC2-872D-4C6F-867E-874CE36D4088",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "-0477-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "31545a827164b2d120da62219203b609a1b9b378",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q6538$BEFB821B-99FB-42C4-8D48-F75BB5531216",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tennō Itoku thumb.jpg"
+          },
+          "hash": "8eba4c47f63d9d9808964205187fa43743684aab",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q6538$4FC1D023-4F0A-4619-A473-392EF022DCDC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q271536"
+          },
+          "hash": "c29713e97fb6f137509f0fec820846a5a4d6a09c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q6538$B40B3732-6333-4DF7-AC2B-2FCB27AF27B9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Itoku Arms.svg"
+          },
+          "hash": "ff13c2ac22e16f7f9aa9cc2e64c7d6755646841e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu xaponés (-553–-477)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Kaiser"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of Japan"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador del Japón"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور ژاپن"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "japán császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の伝説上の天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 제4대 천황"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans soeverein (553v Chr-477v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "4. cesarz Japonii"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "enligt legenden Japans fjärde kejsare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japonya İmparatoru"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "thiên hoàng thứ 4 của nhật bản"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本第4代天皇"
+    }
+  },
+  "id": "Q6538",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور إيتوكو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور ايتوكو"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایتوکو"
+    },
+    "br": {
+      "language": "br",
+      "value": "Itoku"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Itoku"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر ئیتۆکو"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Itoku"
+    },
+    "de": {
+      "language": "de",
+      "value": "Itoku"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αυτοκράτορας Ιτόκου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Itoku"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Itoku"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Itoku"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور ایتوکو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Itoku"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Itoku"
+    },
+    "he": {
+      "language": "he",
+      "value": "איטוקו, קיסר יפן"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Itoku"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Itoku"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Itoku"
+    },
+    "it": {
+      "language": "it",
+      "value": "Itoku"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "懿徳天皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იტოკუ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이토쿠 천황"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "懿德天皇"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Maharaja Itoku"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Itoku Thian-hông"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Itoku"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Itoku"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Itoku"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Itoku"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Itoku"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Итоку"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Itoku"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Itoku"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Итоку"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Itoku"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิอิโตะกุ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Itoku"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Emperor Itoku"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Ітоку"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Imperator Itoku"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Itoku"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "懿德天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "懿德天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "懿德天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "懿德天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "懿德天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "懿德天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "懿德天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "懿德天皇"
+    }
+  },
+  "lastrevid": 17406272,
+  "modified": "2025-09-15T22:20:03Z",
+  "ns": 860,
+  "pageid": 29033,
+  "sitelinks": {},
+  "title": "Item:Q6538",
+  "type": "item"
+}

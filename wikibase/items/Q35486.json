@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sang Zhe Zong Zhen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q35486$B6F3494D-6801-48E0-BB74-78B3ACB152DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q35486$ECE0E00C-E88E-4AF4-B47B-67782A8A065A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q35486$70256798-C711-4BD5-B580-AC6BA0F7AAEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19029",
+              "numeric-id": 19029
+            }
+          },
+          "hash": "71cb25224bb7d3d44b013bfbd71d0a7ec6b5c585",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q35486$7D1C170E-5482-4593-98F7-4FCD569EC3B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35458",
+              "numeric-id": 35458
+            }
+          },
+          "hash": "5ef122c20df93da0af932b3ce4d1b8b356e5f937",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q35486$259F864A-BA99-4F37-82C6-BF9F83CFCB16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q35486$A61081E5-A984-4D1D-9B06-E887CA77FFF7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1527-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d30023f8db301c4336cd8302ebc1be79b612d262",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q35486$241186F9-74CA-4E0A-BE80-981646D9BEF2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1543-10-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7fa5a6bf3f40c91e745f3b6663189bebf1267255",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q35486$5E1F0069-A4CC-45A1-B80D-0BA7E15C0507",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108335791"
+          },
+          "hash": "c892d034be6dac8b61a95623099eb8adb70c3bf6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "伊達稙宗の六男。17歳で死去。"
+    }
+  },
+  "id": "Q35486",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "桑折宗貞"
+    }
+  },
+  "lastrevid": 17437116,
+  "modified": "2025-09-16T06:48:12Z",
+  "ns": 860,
+  "pageid": 54319,
+  "sitelinks": {},
+  "title": "Item:Q35486",
+  "type": "item"
+}

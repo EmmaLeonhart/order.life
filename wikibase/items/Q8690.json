@@ -1,0 +1,503 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ki no Tsurayuki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8690$39C916D1-51A0-4160-92A5-FF486C9215B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8690$6EE6F9C6-24F8-45A7-B29F-362D538A2340",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8690$451FA78C-1C5F-4123-86A3-63D380E5FF3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8690$99553917-EF85-467B-BA7A-AE3056019ED9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0866-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d326efb7bce9d742297a362cad317769036a0224",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8690$2921D448-BAA6-41C2-BA47-3C4AF693A2B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0945-06-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3dad91df07571f4e401bbb8d6f92f98649122d12",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q8690$5170D9A9-9B64-40DD-8ED4-B78B1161E340",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sanjūrokkasen-gaku - 2 - Kanō Tan’yū - Ki no Tsurayuki.jpg"
+          },
+          "hash": "0ddae138f6f1442f6b888dd4f68f8c6d0f372775",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8690$E13C9CDF-5BDE-47CB-88E8-FDA253BFE101",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q468288"
+          },
+          "hash": "e3a3911be89139cb82f985e89c73df6101b889f0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "كاتب ومؤلف ياباني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "شاعر من اليابان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "escritor xaponés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি লেখক"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "escriptor japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský spisovatel"
+    },
+    "da": {
+      "language": "da",
+      "value": "japansk skribent og poet"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Schriftsteller Dichter und Höfling (872-945)"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese writer"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese writer"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese writer"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "japana utaisto de la 9a kaj 10a jarcentoj"
+    },
+    "es": {
+      "language": "es",
+      "value": "escritor japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani kirjanik"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "idazle japoniarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاعر و نویسنده ژاپنی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "écrivain japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "scríbhneoir Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "escritor xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "סופר יפני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "japanski pisac"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "japán író"
+    },
+    "it": {
+      "language": "it",
+      "value": "poeta e scrittore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の歌人"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본 헤이안 시대의 시인"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "japansk skribent og poet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichter (866-945)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "japansk skribent og poet"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński poeta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "escritor japonês"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "escritor japonês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "scriitor japonez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский поэт, прозаик и филолог IX—X веков"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "shkrimtar japonez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk författare och poet"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon yazar (872 – 945)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський письменник"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本的平安時代前期的歌人"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "日本的平安时代前期的歌人"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "日本的平安時代前期的歌人"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "日本嘅平安時代前期嘅歌人"
+    }
+  },
+  "id": "Q8690",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كي نو تسورايوكي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كى نو تسورايوكى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Ki no Tsurayuki"
+    },
+    "az": {
+      "language": "az",
+      "value": "Ki-no Tsurayuki"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ki no Tsurayuki"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Curajuki Ki"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ki no Tsurayuki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ki no Tsurayuki"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ki no Curajuki"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ki no Tsurayuki"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ki no Tsurayuki"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کی نو تسورایوکی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ki no Tsurayuki"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ki no Tsurayuki"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ki no Curajuki"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կի Նո Ցուրայուկի"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ki no Tsurayuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "紀貫之"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Ки но Сурайуки"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "기노 쓰라유키"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ki no Tsurayuki"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Ki no Tsurayuki"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ki no Tsurayuki"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ki no Tsurayuki"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ki no Tsurayuki"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ki no Tsurayuki"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кино Цураюки"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ki no Tsurayuki"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ki no Tsurayuki"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ki no Tsurayuki"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ки-но Тсураюки"
+    },
+    "tg-latn": {
+      "language": "tg-latn",
+      "value": "Ki-no Tsurajuki"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ki no Tsurayuki"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кі но Цураюкі"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "紀貫之"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "纪贯之"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "纪贯之"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "紀貫之"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "紀貫之"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "纪贯之"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "紀貫之"
+    }
+  },
+  "lastrevid": 17409383,
+  "modified": "2025-09-15T22:59:18Z",
+  "ns": 860,
+  "pageid": 31175,
+  "sitelinks": {},
+  "title": "Item:Q8690",
+  "type": "item"
+}

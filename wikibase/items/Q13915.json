@@ -1,0 +1,343 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jeonji"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q13915$F36D5636-9080-487A-BEE6-AF273FAEE4A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13329",
+              "numeric-id": 13329
+            }
+          },
+          "hash": "8e5a4ca6ca5943d8f6b384605eb5673997ca9cbd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q13915$A2866206-1908-4F84-842C-4CAF6C10629B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13915$E9AD83C2-D453-4EA1-8BEB-CA93F7C64204",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q13915$000E9A2B-646E-4BDA-BB47-7EB056265170",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13916",
+              "numeric-id": 13916
+            }
+          },
+          "hash": "b3fb5ecde74d80f9ac23612668185ee2a86706fd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13915$0C2A2647-B766-4043-BB8E-8E628600AA51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14410",
+              "numeric-id": 14410
+            }
+          },
+          "hash": "d11a5354e075d2dd1d9ede94b75157e2b8a44ac9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13915$7C826DB7-B1EB-4055-9F91-DC26A1071835",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13915$F5B42ED1-3BDF-4D0E-82BC-02C87870E604",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0390-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c45d532ea79eb17192316e29c15ea4969693ae8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13915$91B2F709-FD64-4E1C-8336-C7AB2A276109",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0420-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "13ba9e27be51fc1df3314fec01f3edc68f19c2fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13915$D93C2F26-1797-4985-AD60-2582558C2233",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q497705"
+          },
+          "hash": "a521774b479a63474bc94acdea2e17120bbcc12c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q13915$F1556D7B-A20C-4263-91D0-944ACA5E518D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012926191787"
+          },
+          "hash": "49d4486547f2871416fe35a23233135a7153a661",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13915$8C84EFD3-3480-4F40-B0C4-6200A02A5CE3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jeonji Arms.svg"
+          },
+          "hash": "82c5445de24ad43c03fbb8b318b2eb72b4faf8d9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the king of the Baekje dynasty of Korea"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "百済 の王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "백제의 제18대 국왕 (?–?)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ван Пекче"
+    }
+  },
+  "id": "Q13915",
+  "labels": {
+    "ckb": {
+      "language": "ckb",
+      "value": "جیۆنجیی بایکجی"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jeonji"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jeonji of Baekje"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه جانجی"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Jeonji"
+    },
+    "id": {
+      "language": "id",
+      "value": "Jeonji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "腆支王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "전지왕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "腆支王"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jeonji"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jeonji"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "جانجي"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чонджи"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Jeonji"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าจอนจี"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Чонджи"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiển Chi Vương"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "腆支王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "腆支王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "腆支王"
+    }
+  },
+  "lastrevid": 17414174,
+  "modified": "2025-09-16T00:05:59Z",
+  "ns": 860,
+  "pageid": 36225,
+  "sitelinks": {},
+  "title": "Item:Q13915",
+  "type": "item"
+}

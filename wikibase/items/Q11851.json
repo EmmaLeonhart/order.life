@@ -1,0 +1,296 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Kiyomitsu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11851$A3C7388B-233E-4D41-9F24-DB94D9BB1622",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "952978"
+          },
+          "hash": "bd59b64302343ef55f1a92eded3868bb2550c736",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11851$23BC9E12-9AB9-4B7C-B492-3EA5519AE94A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12666",
+              "numeric-id": 12666
+            }
+          },
+          "hash": "2156a4970be623a8dc3f980b13df037c9c1ab573",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11851$72AC667C-95B1-49C8-98BF-8D2C9C9B1379",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12667",
+              "numeric-id": 12667
+            }
+          },
+          "hash": "7d6ba9f5aa6f32648865af30077450b080483536",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11851$F12DE4A6-ABB9-49B9-8E1A-79AD04991B0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12118",
+              "numeric-id": 12118
+            }
+          },
+          "hash": "44421c07b7ca4e0573811e35c34fa37b68271acd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11851$918BFAC7-125C-4958-8AD4-32F8347EE3DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11851$577C6276-77DC-4256-B463-3B11006EEFF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11851$72BF817D-69AA-4AE6-BEB3-D7D3719CB904",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11083",
+              "numeric-id": 11083
+            }
+          },
+          "hash": "f66183e258a6401f0f4a8d1e4cdeb7d504e18110",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11851$EC767508-D553-4219-B576-92AB211518D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11851$6E6AE198-2FE8-4DD3-BDF4-ED4008610868",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1110-06-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f011ac5bf9a70b50b9318270d583a574b4ed5dc8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11851$C78E0B37-BFBA-471D-99EC-9ADCEE07BCDA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1168-08-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "194c075f96e602f456c680226c1b557b1fd68e44",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11851$A9589B2A-9882-4E1A-B93B-C51DB4C02952",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564205"
+          },
+          "hash": "f9b5b46b651487606028408c22c64f932cab78e1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11851$083DBAE2-9629-48C8-B129-5EC8FCF58450",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Kiyomitsu Arms.svg"
+          },
+          "hash": "87ce17c6ab1546c542c896bbe591604f4a84a80e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期の武将。甲斐源氏の祖。母は源兼宗の娘。子に二宮清隆（安井・東条、平井）、河内義長、曾禰厳尊（玄尊、曽禰厳尊）、奈胡義行（奈古、米倉）、八代信清（余一）、利見義氏、利見義氏（余一、与一）-遠信、河内長義（長光、田井小太郎）、源道光（修理亮）、源光賢"
+    }
+  },
+  "id": "Q11851",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Minamoto no Kijomicu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Kiyomitsu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "میناموتو نو کیومیتسو"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源清光"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Минамото-но Киёмицу"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "源清光"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "源清光"
+    }
+  },
+  "lastrevid": 17413200,
+  "modified": "2025-09-15T23:52:18Z",
+  "ns": 860,
+  "pageid": 34204,
+  "sitelinks": {},
+  "title": "Item:Q11851",
+  "type": "item"
+}

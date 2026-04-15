@@ -1,0 +1,305 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Chengyi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q21312$7EBCEE41-E167-4F94-987F-96E2E068161E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40881",
+              "numeric-id": 40881
+            }
+          },
+          "hash": "79a0963678202bd67db5aa90c9d59464c8f82d3f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21312$D7826BA7-194E-4A9B-B612-D4857D601F8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40885",
+              "numeric-id": 40885
+            }
+          },
+          "hash": "f91c55eb3d6fbd14f989ba3f3560ddf301c14094",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21312$C06327C1-371C-4F17-9970-DB81084EA8F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21312$94AEE3EB-F440-4C7A-971F-75E79B81DA86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21312$F8BE0B7F-8851-41F6-90C0-84DFFE0A7391",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19352",
+              "numeric-id": 19352
+            }
+          },
+          "hash": "944127702063018bb60e31a520e19f499eb1405e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q21312$13551FB8-226D-4414-B861-1B54C1405C70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23575",
+              "numeric-id": 23575
+            }
+          },
+          "hash": "6dd8391fb15bfe7c8e159376dbb1c5b416d55db4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21312$719E47E8-F1BF-4097-A16B-7BE185A147FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21312$0A7460D1-87B6-4CA1-98A0-A97A2D90B5D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0748-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "035351efb0b7c6e0c678fb8f86e4a4f517c1ef05",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21312$9BB5BB37-75F4-4EE1-B737-1F79F613086B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11096605"
+          },
+          "hash": "c1f172ed6311f09d325fa69c37a3497f470487b6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21312$09A60E80-1A59-4E3C-83BF-8A1B83C43A93",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Chengyi Arms.svg"
+          },
+          "hash": "51de33dbb11b609b94c9163605dcd35e548caca1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Emperor Ruizong of Tang"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tang Zsuj-cung császár fia"
+    }
+  },
+  "id": "Q21312",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Chengyi"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λι Τσενγκί"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Chengyi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Chengyi"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Li Cseng-ji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "李撝"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李撝"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Wei"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "李成義"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李成義"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "李成义"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李成义"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李成義"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "李成義"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "李成義"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "李成义"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "李成义"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "李成義"
+    }
+  },
+  "lastrevid": 17420334,
+  "modified": "2025-09-16T02:16:33Z",
+  "ns": 860,
+  "pageid": 43353,
+  "sitelinks": {},
+  "title": "Item:Q21312",
+  "type": "item"
+}

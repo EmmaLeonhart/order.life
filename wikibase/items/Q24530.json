@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yamanouchi Naomichi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q24530$AF4296D6-90D8-4046-B891-ECBCF70BF82A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43455",
+              "numeric-id": 43455
+            }
+          },
+          "hash": "680485626a171457541fd23580fa99d79a7fbd42",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24530$B500A8FD-6183-408C-B7B1-9E117FA28503",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38526",
+              "numeric-id": 38526
+            }
+          },
+          "hash": "b765757408906e4d6143843e907933e086d4094c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24530$DE4BAD8B-6216-4767-85EB-F32B39239955",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49737",
+              "numeric-id": 49737
+            }
+          },
+          "hash": "2493a6d1852ff4ebacf823b35f8b687d9f10d361",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24530$E57DA70A-0D9E-416A-996A-3CACDB483F23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42649",
+              "numeric-id": 42649
+            }
+          },
+          "hash": "97e4488b7e4d9938886101f6adca73ad1dc9b576",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24530$D7EF3F5E-5BCE-4A22-A0EA-9213A2B8A023",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24530$79AE88FF-1F7F-4C66-B340-95F58611D69B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24530$A4660F12-5E6D-4E0C-AFF1-701791748C07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24530$4F5CDABD-5B8D-4071-8CC6-E4ADBB0984B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b2551d8f909263204fc34fedf5b65ed692fa4eca",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24530$72863A60-922F-4E8A-8A27-38697BB78318",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11466449"
+          },
+          "hash": "e34d7ab5f648fc41866815f4e33e931f6bedd001",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24530$C90842E1-7353-4B6B-938F-B7AE149DDB62",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yamanouchi Naomichi Arms.svg"
+          },
+          "hash": "7c86e6d155daf3668fadd0bfd949a2c12f067783",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q24530",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yamanouchi Naomichi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "山内直通"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Наомити Яманоти"
+    }
+  },
+  "lastrevid": 17423498,
+  "modified": "2025-09-16T03:25:50Z",
+  "ns": 860,
+  "pageid": 46321,
+  "sitelinks": {},
+  "title": "Item:Q24530",
+  "type": "item"
+}

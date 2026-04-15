@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Tomokata"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q11882$340D35D3-010F-4A73-86CE-EDC1ED5B3FAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11882$7AF3D860-86AB-4FAE-B2DF-3DD5AAB350E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11882$9F19D807-F1E3-4B1B-8C44-A6E6E084C1B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11119",
+              "numeric-id": 11119
+            }
+          },
+          "hash": "5b6e018e7bb7540bb509b9168f5be2d740718c4e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11882$6E8CC675-F625-4E73-9012-88C4E8DE49D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11882$BCFD51C4-DB83-4189-817A-2BACD5C298A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1135-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea06860e8741ea11a1c4ba6a7028cde629d6ca26",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11882$72430683-95E0-4635-A25D-89A04548E6C6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1201-03-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "adc1b74497f19ca44fc8473304f0fc55db5934ab",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11882$704D4B44-E45F-4FE0-886E-9ED8E59B3285",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623343"
+          },
+          "hash": "7f9629c2458119461197ee8035ce4f746dcbfcdf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11882$C83F16AB-D362-489C-9894-0B6F935E7AD1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Tomokata Arms.svg"
+          },
+          "hash": "2c7115bc978cd32a8d3db06017aa97dfc6460eac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "kalligraaf"
+    }
+  },
+  "id": "Q11882",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Tomokata"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原朝方"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "藤原朝方"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原朝方"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原朝方"
+    }
+  },
+  "lastrevid": 17413224,
+  "modified": "2025-09-15T23:52:37Z",
+  "ns": 860,
+  "pageid": 34235,
+  "sitelinks": {},
+  "title": "Item:Q11882",
+  "type": "item"
+}

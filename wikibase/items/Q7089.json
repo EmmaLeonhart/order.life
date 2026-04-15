@@ -1,0 +1,284 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Hiro Hime"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7089$1B1D116C-BE0A-4204-9364-74FFCCFE2AC0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00524439"
+          },
+          "hash": "9a8529d5526f6fe05bf483a87288faa91d88e568",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7089$08614D81-5520-4D47-B4E3-7249925F8BD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7123",
+              "numeric-id": 7123
+            }
+          },
+          "hash": "8dd293212ae87c76b965e344046f1a7e27147baa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7089$57FC2042-6A83-4778-B03A-B1DA1F78F852",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7089$31421AD1-8C88-45EA-B4F3-AA05280CC86A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7089$1F378CDE-ED47-4289-819A-0F190B38664D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7121",
+              "numeric-id": 7121
+            }
+          },
+          "hash": "1040b6d66455de3834cb0ca3800a99b428a51cac",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7089$0E0ACA24-130A-4CE0-B592-3CE7FE1DDD2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7051",
+              "numeric-id": 7051
+            }
+          },
+          "hash": "7ea0d44b10d1fc5f39983f788d13cf5a4d831349",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7089$6911D015-FE25-4D85-BA0D-B80FDF9D945D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7089$E31CFC30-09E8-45BA-BFE3-00AF9B9F03B4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 10,
+              "time": "+0575-11-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dcf9440055811dc7c35f90fab55d3d55709d0eb8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7089$9E724F5A-7B9E-4CB6-B0B4-52A564612D24",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11064567"
+          },
+          "hash": "3a401d2bac4f827d9a0f70958a018b2ca5097292",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q7089$20B85652-D7AB-4A3E-9987-AF26F81ED922",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Hiro Hime"
+          },
+          "hash": "18edea718ae6a77cb1fcaf9ba104ee0a6b3a6d1d",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7089$479AE277-45BF-4E02-A4F6-CB1FBD10E3A0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Hiro Hime Arms.svg"
+          },
+          "hash": "093a9036c14344afb7a2e62a99708598359981a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "empress consort of Japan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk kejsarinna"
+    }
+  },
+  "id": "Q7089",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Princess Hiro Hime"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Hiro Hime"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هیروهیمه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hiro Hime"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "広姫"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Princess Hiro Hime"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хиро-химэ"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hirohime"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "廣姬"
+    }
+  },
+  "lastrevid": 17406957,
+  "modified": "2025-09-15T22:28:55Z",
+  "ns": 860,
+  "pageid": 29584,
+  "sitelinks": {},
+  "title": "Item:Q7089",
+  "type": "item"
+}

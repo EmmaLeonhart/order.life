@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuan Shan Jing Ren"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q37167$0910173C-B760-4973-AABD-163EEB6BAD2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37167$FD77DA31-8B23-4E1E-8421-BADE4481BCDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q37167$8AC519B9-CBE2-40D4-85E2-819FFCB7AFD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19779",
+              "numeric-id": 19779
+            }
+          },
+          "hash": "49ecf2c688c627d97e5707e0ea3708033358263d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37167$1AA3A52C-543E-4263-B185-D5374C69F3BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37167$72F66C56-E0CA-4D6E-8D5D-D9BA990E93B9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1537-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "af1ac70de9ce872626240f5e6d88aba91a9a90ba",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37167$29A34747-2AF0-4392-8BB8-4C4FD3ED1D61",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1572-09-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "98d79cac6ae5cbec17e38f789d291f8c4c8cd341",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37167$60FBA814-B1A5-4A80-8C44-405C89EBC59D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11642033"
+          },
+          "hash": "a17de36c3e4167910576d1bab74e8c534460c21b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37167$14DC8997-75FE-4B04-B478-FBEB06B25C9C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Toyama Kageto Arms.svg"
+          },
+          "hash": "7502a3e8954aa56a6b03a29cd85c9bda6fad4502",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将・大名。岩村遠山氏当主。美濃恵那郡岩村城主。大和守"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q37167",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Toyama Kageto"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "توئویاما کاگهتو"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "遠山景任"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "遠山景任"
+    }
+  },
+  "lastrevid": 17439464,
+  "modified": "2025-09-16T07:21:50Z",
+  "ns": 860,
+  "pageid": 55574,
+  "sitelinks": {},
+  "title": "Item:Q37167",
+  "type": "item"
+}

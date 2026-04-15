@@ -1,0 +1,376 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John, marquess of Randazzo //"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q54609$99D91657-B4F3-4EAE-A39A-BFAF301A9C04",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Sicilia-30"
+          },
+          "hash": "998d6b5efce9d25cfce0986cfe8e9aedb4393ca3",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54609$A7C3DA00-9068-4658-96DB-4699BC212ACC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54609$938D707C-FEDF-4736-A038-39D52E2260EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q54609$9674B585-9991-4B73-96B2-D545EC4ABC9F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Giovanni_Sicily_(1)"
+          },
+          "hash": "f820c796d5b744fcac3d190869c9aabc4b5ca581",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54609$46A02128-93B1-4BF4-8768-D4D9BBBD06BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54585",
+              "numeric-id": 54585
+            }
+          },
+          "hash": "6232e01e52775d9ce8cd8289c9436dba9c28a033",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q54609$6B6E6ED2-62D6-4A04-A8A8-474ED96B58DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49608",
+              "numeric-id": 49608
+            }
+          },
+          "hash": "701371679b8f339d42d28b837056c90ba5e1a098",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54609$32EEF378-98D3-4310-A9C0-791EA88DAE2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54609$BAF38396-C4DA-4880-B084-EEDA9E970210",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1317-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db37adbd252d8f82344b742f1f949a574d0b2b79",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54609$E5930DF3-9A00-49A3-9859-A648480750F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1348-04-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "329fbb20b3b0654f21b2eae00df5ae0b618e2436",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54609$B421669B-2322-4609-A00B-EE19F17395F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q557092"
+          },
+          "hash": "4c85007ad9bccafe3b71bd45a39ab0af1734da28",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q54609$E85FA315-49B9-4263-B882-21F8D65CEDDD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000004002612584"
+          },
+          "hash": "ed45fcede567a9720923012c68b08c841958d74f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54609$726ECDBD-2FB7-4457-A4AF-3BC3026F0586",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John, marquess of Randazzo Arms.svg"
+          },
+          "hash": "55d95a12b9b181145c3fa317a5a7ed33af5378f2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Regent de Sicília"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "regent Sicilského království"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herzog von Athen und Neopatria"
+    },
+    "en": {
+      "language": "en",
+      "value": "Duke of Athens, regent of the kingdom of Sicily"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "infant d'Aragon et duc d'Athènes"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "athéni herceg"
+    },
+    "it": {
+      "language": "it",
+      "value": "duca di Atene e Neopatria e marchese di Randazzo"
+    }
+  },
+  "id": "Q54609",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جون دوق راندازو"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan de Sicília"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan Sicilský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johann II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης του Ραντάτσο"
+    },
+    "en": {
+      "language": "en",
+      "value": "John, marquess of Randazzo"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "John, Duke of Randazzo"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "John, marquess of Randazzo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan de Randazzo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Joan Siziliakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean d'Aragon"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Xoán de Sicilia"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. János athéni herceg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni d'Aragona"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jan van Athene"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan II Aragoński"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João II de Aragão, marquês de Randazzo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João II de Aragão, marquês de Randazzo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джованни Рандаццо"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Johannes av Sicilien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Хуан де Рандаццо"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西西里的喬凡尼"
+    }
+  },
+  "lastrevid": 17462192,
+  "modified": "2025-09-16T12:51:51Z",
+  "ns": 860,
+  "pageid": 69440,
+  "sitelinks": {},
+  "title": "Item:Q54609",
+  "type": "item"
+}

@@ -1,0 +1,636 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Mototsune"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q8455$B5E50DED-34CF-45BF-9F46-3A841518EB8A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "974281|810155"
+          },
+          "hash": "46c2841701778952aed465caa65d75269ae39400",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q8455$C18EE008-FE65-4E25-81C9-775EAF66CE09",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523644"
+          },
+          "hash": "1f5e8aed8fa809a475c78049c97efb9b3bf9016b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q8455$406B60CE-A6D1-4656-814F-155145306B5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8747",
+              "numeric-id": 8747
+            }
+          },
+          "hash": "30ef4d7c030a478ffbba76c7581a4fcf406ec160",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8455$2099B10F-5D0F-4389-84AF-A441552A295E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8748",
+              "numeric-id": 8748
+            }
+          },
+          "hash": "0a57c441daf9439e6f0d7b9fb374583dfbdd0b0a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8455$B557988E-C2B8-40FC-9C9D-0761E5A11166",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8537",
+              "numeric-id": 8537
+            }
+          },
+          "hash": "3b40c1d8345c2204cf3b96204472863799a5336c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8455$FD3ACBB5-73FE-4068-80C4-3ED6BAE34A2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8750",
+              "numeric-id": 8750
+            }
+          },
+          "hash": "19c5c12b8e7cbf7af91e02d238efcea6f96422b3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8455$DDAABFD3-3237-441A-AB0C-E5A3CA6D862D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8591",
+              "numeric-id": 8591
+            }
+          },
+          "hash": "1488b433f361941ee92a3f6dda242ff302ba1325",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8455$74C7CFC8-4306-47D0-836B-6E4D68157106",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8592",
+              "numeric-id": 8592
+            }
+          },
+          "hash": "e56cfbf7e194dc490fea483dc85e4d0ca30ba732",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8455$C9AF57D7-D3E4-4D46-88EF-5AB3BD640897",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8745",
+              "numeric-id": 8745
+            }
+          },
+          "hash": "c7112129a70ab68bd7d81df9766ca08656cf817b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8455$9B1580B7-0A45-4FE3-A9BF-646CE980F741",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8743",
+              "numeric-id": 8743
+            }
+          },
+          "hash": "aac59614fea283079a8252d54e20182673fc17e0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8455$7ADDFF2F-2B1F-4F4D-83B8-AD393F355D43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8744",
+              "numeric-id": 8744
+            }
+          },
+          "hash": "5bfeacaf944b69f6ab27a4f8cb98c4bf612b6d7f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8455$1378C37E-B214-484E-8337-6D97B0550958",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8455$EEE3692A-5932-453F-AF47-28DE1E651148",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8455$65D9E753-5E14-47C6-98A8-AB6CF2B8A61A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8168",
+              "numeric-id": 8168
+            }
+          },
+          "hash": "7dcd3226f47d4a274b17f0eafb40d6972fe32452",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q8455$1E0F77F7-C7EF-46C3-A309-2B88DEFE741C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8350",
+              "numeric-id": 8350
+            }
+          },
+          "hash": "9c7f8adc22b30756f70663858148b60d18dc5c92",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8455$55302C66-FD8C-4330-8BEB-6B7EB0F7D4F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8455$10A2A341-2D06-4E5C-B350-59950EE7AA6A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0836-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3b78d4974b0d7a91fa8c5767c47863724c3ae12c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8455$AEDF4F3D-D384-4900-AD40-D71F2297DE98",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0891-02-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "51a0d95729d79d725bc5779888cbf9bbc769f75f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q8455$1A604BF7-97FC-405C-9197-BEA36EC92EAF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Mototsune.jpg"
+          },
+          "hash": "4af322d35b4b979ba5532cff66a049fce5af186f",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8455$9D0FD147-2797-437C-B103-BC04036435AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1397196"
+          },
+          "hash": "b034032a20349fbe35c23ae231d1dfc4792db387",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي ياباني"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský politik"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Hofadeliger, Regent für den minderjährigen Kaiser"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese politician (836-891)"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese politician"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani poliitik"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "japanilainen sijaishallitsija"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnalité politique japonaise"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "polaiteoir Seapánach (836-891)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי יפני"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の公卿"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본 헤이안 시대의 공경, 최초의 관백"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (-891)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "politician japonez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский государственный деятель периода Хэйан"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan japonez"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon siyasetçi (836 – 891)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський політик"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q8455",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Mototsune"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fujiwara no Mototsune"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fudžiwara no Motocune"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Mototsune"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Mototsune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Mototsune"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فوجیوارا نو موتوتسونه"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Fujiwara no Mototsune"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Mototsune"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Fujiwara no Mototsune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原基経"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "후지와라노 모토쓰네"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "藤原基經"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Mototsune"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Fujiwara no Mototsune"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fujiwara no Mototsune"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fujiwara no Mototsune"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Мотоцунэ"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Fujiwara no Mototsune"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "AFujiwara no Mototsune"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fujiwara no Mototsune"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟุจิวะระ โนะ โมะโตะสึเนะ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фудзівара но Мотоцуне"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Fujiwara no Mototsune"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Fujiwara no Mototsune"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原基經"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "藤原基经"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "藤原基經"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原基經"
+    }
+  },
+  "lastrevid": 17408876,
+  "modified": "2025-09-15T22:52:57Z",
+  "ns": 860,
+  "pageid": 30942,
+  "sitelinks": {},
+  "title": "Item:Q8455",
+  "type": "item"
+}

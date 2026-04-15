@@ -1,0 +1,196 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mariyatsu Zenhō"
+      },
+      {
+        "language": "en",
+        "value": "Mariyatsu Zenho"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32440$5AF1E983-5F22-4326-A491-BF0D1ADFFED6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32440$A46A9628-F2B1-4928-A70C-5158BD70AD34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32440$6F8262CB-ABEA-4AB0-ACE1-29AE60B160AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17942",
+              "numeric-id": 17942
+            }
+          },
+          "hash": "afc8992ad9044b783528006bd3ab92d492a91f28",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32440$2B97C4CE-23A3-4DE8-9600-93E3F1870B6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32440$E3587F88-4E17-49BD-8CEB-9CC763908199",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1549-03-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2fe0be763009db28a0d2af80af9d6a4eb6b65ea",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32440$B80B1141-20A4-46AE-8164-1C334C78F480",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11583551"
+          },
+          "hash": "bcd259707a4e31d16dd584783830f2db1219baa4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32440$77A4E3AD-6794-423F-B0C4-84F692EC4F70",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mariyatsu Zenhō Arms.svg"
+          },
+          "hash": "1fc987408f73d4b70da45ccae6c87db3543b2241",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person from the Sengoku period. The Mariyatsu clan (Kazusa Takeda clan)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の人物。真里谷氏（上総武田氏）の一族"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q32440",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mariyatsu Zenhō"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mariyatsu Zenhō"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "真里谷全方"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "真里谷全方"
+    }
+  },
+  "lastrevid": 17432756,
+  "modified": "2025-09-16T05:43:58Z",
+  "ns": 860,
+  "pageid": 52042,
+  "sitelinks": {},
+  "title": "Item:Q32440",
+  "type": "item"
+}

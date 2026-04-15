@@ -1,0 +1,342 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Kitsushi"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q12836$7CE1FFC4-2251-4626-8C0F-A26AB1C5153D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523694"
+          },
+          "hash": "084dc46fb06e314c30ad0f8f34a10f57d02985f5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q12836$1B9495FC-BE28-48F3-A18A-C30EE4D813FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13196",
+              "numeric-id": 13196
+            }
+          },
+          "hash": "3ebde3393acd47f83cc97aab2a60e3b0fe6e8547",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12836$81445ECD-062D-4ABB-8E3C-B1CDFC84C3F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13212",
+              "numeric-id": 13212
+            }
+          },
+          "hash": "9b14f393674eebf542a1db8250f35c16faae7e41",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12836$E0D3F2B6-8251-4173-BF1F-7C5B4C770716",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12836$823AB2A0-DAA8-4992-978B-5E1581959DD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q12836$F372DC18-9469-4B83-9999-19FC7F29F29A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12481",
+              "numeric-id": 12481
+            }
+          },
+          "hash": "926fac33ceb624312a8d9b6c3bb78f7d6a3f37fe",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12836$1D52955A-DDE3-442F-96D4-E91F56388182",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12065",
+              "numeric-id": 12065
+            }
+          },
+          "hash": "19a45d441b3409ec5ac7693e8a5d5295aa69d447",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12836$D34DD92C-4704-48AE-87ED-8A7AF7776366",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12836$9591B19C-90EA-4001-96A1-B92BD5F43AF3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1225-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "10458974ec50a4da34983a4952c6e2bfc0fa8c04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12836$0AA6F2A1-C84D-40CE-8013-DA6D94B253EC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1292-10-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dc0eb45503f41ee65543772f281fd29cd02696e4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12836$4D9EB610-B42A-4630-BBC8-8AC1FFDF6B5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5507526"
+          },
+          "hash": "62e9e5f1a7a17ebf6578ea3f7f5e44d34f1f4ac6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12836$C9DB9A40-E88A-41A5-BFB7-C1EC0776C0C5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Kitsushi Arms.svg"
+          },
+          "hash": "55c76ec5700d3aec0caf793e6a8edf351b9315c6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قرينه امبراطور من اليابان"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "японска императрица"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress consort of Japan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の皇族。西園寺実氏の長女。後嵯峨天皇の中宮・皇太后。子に雅尊親王（1254.7.14-1256.10.14）、貞良親王（1256.5.6-1260.4.18）、娘（1260.4.11-）、恒尊親王（無品）"
+    }
+  },
+  "id": "Q12836",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فوجيوارا نو كيتسوشى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Kitsushi"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фудживара но Кицуши"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kicuši Saiondži"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Kitsushi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Kitsushi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Kitsushi"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سایئونجی کیتسوشی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Kitsushi"
+    },
+    "id": {
+      "language": "id",
+      "value": "Fujiwara no Kitsushi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "西園寺姞子"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Кицуси"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fujiwara no Kitsushi"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟุจิวะระ โนะ คิสึชิ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西園寺姞子"
+    }
+  },
+  "lastrevid": 17413710,
+  "modified": "2025-09-15T23:59:25Z",
+  "ns": 860,
+  "pageid": 35164,
+  "sitelinks": {},
+  "title": "Item:Q12836",
+  "type": "item"
+}

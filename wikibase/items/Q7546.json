@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Hamanari"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q7546$39FE62FE-44BF-4B2B-AA96-6E182BA384CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "812487"
+          },
+          "hash": "cd9b811fa6fc09dc1df10726869543e7c0e7b352",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7546$3361EA1C-2271-48D4-9C1E-7A24A6414845",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7546$57E0DACA-4837-462E-B74A-81B24BA9F393",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7546$18530308-9373-4FEB-BF40-8B63B4DD2812",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7393",
+              "numeric-id": 7393
+            }
+          },
+          "hash": "b44898853dde044cc1df09e88204efc3f2ac154e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7546$CA0B5CA6-76F2-476E-9F76-C44866B1DAF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7546$6308A042-1273-46A8-A30E-C6502E6729A3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0724-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c74bf3ebe60ff2956e34380527e48b29cdaf0c2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7546$72C1CE04-1515-4EBD-AD70-3377BDEE00E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0790-03-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19b19bbde25a502ed30c5864a80c3a5097089740",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7546$7128841B-5D11-46B4-AB3A-B2B65D50E5C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3090622"
+          },
+          "hash": "fe73e9ff15650faf93aba4095089d2f3a1306542",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7546$DE3159FC-C100-4BD9-8C17-63A0E61599A8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Hamanari Arms.svg"
+          },
+          "hash": "497fe5e8a1a36358b3d09aa1171b4971909b5ea9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Tanka-Dichter und Dichter"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese noble"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "uasal Seapánach"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の詩人、歌人 (724-790)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichter (-790)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon soylu (724 – 790)"
+    }
+  },
+  "id": "Q7546",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Hamanari"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Hamanari"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Hamanari"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Hamanari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Hamanari"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Fujiwara no Hamanari"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原浜成"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Hamanari"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Fujiwara no Hamanari"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fujiwara no Hamanari"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fujiwara no Hamanari"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Fujiwara no Hamanari"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "藤原濱成"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原濱成"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原濱成"
+    }
+  },
+  "lastrevid": 17407507,
+  "modified": "2025-09-15T22:35:51Z",
+  "ns": 860,
+  "pageid": 30039,
+  "sitelinks": {},
+  "title": "Item:Q7546",
+  "type": "item"
+}

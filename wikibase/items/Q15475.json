@@ -1,0 +1,417 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tokugawa Yoshinao"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q15475$4E37EA28-6E5F-4353-A77F-AB7BF2DA1752",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523402"
+          },
+          "hash": "1b31280d8f3333aa18122d575f487fa503906365",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q15475$E5AD3878-61AE-4694-9DDE-E8CABE8693C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16143",
+              "numeric-id": 16143
+            }
+          },
+          "hash": "e25cda6251a33a9294a5765a0e6cf8eeb47b5047",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q15475$CDF1E469-5089-4EB9-937D-2D42FEC09543",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "徳川-12"
+          },
+          "hash": "2a6aa70374e281dced36c14051a7345c061cf21c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15475$87DC1D58-36ED-43FA-858C-2E7BA701F859",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15475$666AF478-BFF3-454E-841C-8C9FCC28C985",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15475$E47AFD36-25B2-4F34-83E7-6F8FB88BBF43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15010",
+              "numeric-id": 15010
+            }
+          },
+          "hash": "089ba1da763f7f139ebf040efcb6385f1e349758",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q15475$D0D2C308-0FC5-47FC-9FC7-557AB3F7FF5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15456",
+              "numeric-id": 15456
+            }
+          },
+          "hash": "a55c2fa08ce5d962e13bf9b094152d2b19a9735a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15475$273A1B57-AB76-40C0-A02D-8E8A97AEBBF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15475$E49FB242-EA3F-4B9E-84CC-C1D452183BD0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1601-01-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8f3e394f8c2f93226e6499e8919cf74a4e5fe75",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15475$E71CF9D1-044F-4BA9-B7AA-E34BFF2C0516",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1650-06-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "80235a64b28dfd237bd0b62fca36b6afac7ec43d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15475$A8F5AB25-BBCD-47EA-8B94-DB6D629C9F66",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tokugawa Yoshinao.jpg"
+          },
+          "hash": "0114013692f1c5076ec4aef3a49e02dbb5fabd32",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15475$3DDB8D0A-9DE5-4779-A850-6B89057EED86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1136186"
+          },
+          "hash": "4dc62111d071f31b8dbdfae0b1063c767bf056eb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15475$64A188B1-B5B3-4026-B23E-E5943789D153",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tokugawa Yoshinao Arms.svg"
+          },
+          "hash": "2f2dcf857cc54b43946e72e8f883359f997b0778",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1601–1650)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代初期の大名。甲斐甲府藩主、尾張清洲藩主、尾張藩初代藩主。尾張徳川家の祖。従四位下、右兵衛督、従三位、参議、右中将、権中納言、従二位、権大納言、贈正二位。徳川家康の子。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Samoerai uit Tokugawa-shogunaat (1601-1650)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1601 – 1650)"
+    }
+  },
+  "id": "Q15475",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tokugawa Yoshinao"
+    },
+    "be": {
+      "language": "be",
+      "value": "Такугава Ёсінаа"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jošinao Tokugawa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tokugawa Yoshinao"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τοκουγκάβα Γιοσινάο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tokugawa Yoshinao"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Tokugawa Yoshinao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tokugawa Yoshinao"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "توکوگاوا یوشینائو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tokugawa Yoshinao"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tokugava Josinao"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tokugawa Yoshinao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "徳川義直"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Токугава Есинао"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "도쿠가와 요시나오"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tokugawa Yoshinao"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tokugawa Yoshinao"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Токугава Ёсинао"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Tokugawa Yoshinao"
+    },
+    "th": {
+      "language": "th",
+      "value": "โทะกุงะวะ โยะชินะโอะ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tokugawa Yoshinao"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Токугава Йосінао"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "德川義直"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "德川义直"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "德川義直"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "德川義直"
+    }
+  },
+  "lastrevid": 17415230,
+  "modified": "2025-09-16T00:20:25Z",
+  "ns": 860,
+  "pageid": 37762,
+  "sitelinks": {},
+  "title": "Item:Q15475",
+  "type": "item"
+}

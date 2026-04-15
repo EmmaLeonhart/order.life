@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kim Heum-sun"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q14436$44921883-1CE5-43E4-91D7-88F091EE9008",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14852",
+              "numeric-id": 14852
+            }
+          },
+          "hash": "46ea86ac2fcba71f226fdeb2299f962c78aec482",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14436$314A2E24-5A2E-4CF4-80FA-52D40E982112",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14436$8227BD71-05F6-45D5-8353-1846BBF9038F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14436$BE201370-1DA8-43FA-9790-6BEDC6AB2D42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14429",
+              "numeric-id": 14429
+            }
+          },
+          "hash": "67401e7c799efc8042feb520a0e37cfbffc482fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q14436$A43B38EA-5804-4FDC-9545-743E7B3C255C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13938",
+              "numeric-id": 13938
+            }
+          },
+          "hash": "b1eadfc910eb13e0699ba8c1ebfbf1d9d6bd42c6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14436$CC8E370C-5C06-42EA-80A1-064F257C7A36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14436$EB262660-236E-4100-8C0D-EAD2BA86D439",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0599-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "216c0e90b28169c33ab0e9ef84eb867092afaf5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14436$B1D9FD16-B754-43B2-9FE1-F565A7903864",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6678734"
+          },
+          "hash": "a6bb1c0a5bb61595c0935a8f606c946e51585586",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14436$0EF31776-C9D8-4D64-878D-3822C4974856",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kim Heum-sun Arms.svg"
+          },
+          "hash": "77f28dc53388bd8a911e51490e8a151da0f24131",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Korean general"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "가야 출신의 신라 장수"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    }
+  },
+  "id": "Q14436",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kim Heum-sun"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kim Heum-sun"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kim Heum-sun"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kim Heum-sun"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "金欽純"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "김흠순"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kim Heum-sun"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кім Джеонг Хаі"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "金欽純"
+    }
+  },
+  "lastrevid": 17414508,
+  "modified": "2025-09-16T00:10:24Z",
+  "ns": 860,
+  "pageid": 36737,
+  "sitelinks": {},
+  "title": "Item:Q14436",
+  "type": "item"
+}

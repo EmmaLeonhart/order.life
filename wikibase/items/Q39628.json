@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "西洞院時国"
+      },
+      {
+        "language": "en",
+        "value": "Xi Dong Yuan Shi Guo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q39628$9C815FE7-5720-4FAD-A10A-1C0C4C19EF4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39628$5DBB7ECB-D472-47DA-A0D2-8CBB6B1EADDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39628$7C641BD9-64A3-4A4E-8353-86DB7F830DD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35602",
+              "numeric-id": 35602
+            }
+          },
+          "hash": "5604b60039ae748c9413005bd5b02c4cacbdcccb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39628$AB1EBD16-9B49-4257-87EF-36724129962E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39628$D1169B14-6753-4FFF-8CCB-7962C13F4CF3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1671-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a9601aa1d4f0c5f3d93525c0ff59bbb86b37ef8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39628$C7D5BB08-417E-4B6A-8AA8-56E6A69FB029",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1684-05-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2e5ba7d97147bc73aa5502a4f04a806cc8ca38c7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39628$1838CBE3-6590-4665-8865-4F7409417102",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110168039"
+          },
+          "hash": "599db29c8ee930e6ef63cdbf0bfc8ad3eeecea26",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "侍従、従五位上"
+    }
+  },
+  "id": "Q39628",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "西洞院時国"
+    }
+  },
+  "lastrevid": 17442534,
+  "modified": "2025-09-16T08:05:44Z",
+  "ns": 860,
+  "pageid": 57413,
+  "sitelinks": {},
+  "title": "Item:Q39628",
+  "type": "item"
+}

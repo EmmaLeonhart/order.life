@@ -1,0 +1,504 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Teika"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q10962$DE360112-C7AC-4818-A2B1-587109A988BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814077"
+          },
+          "hash": "d1d00fe43a8ed55924d1ebf596ef1539483d9161",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q10962$9AA1A3B7-B15E-4369-AB4B-E9992439E84F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11657",
+              "numeric-id": 11657
+            }
+          },
+          "hash": "c1b060b7bd51d2c359b3502d6434a6325c6f26d4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q10962$83539427-F1E9-4FE2-83AF-F2E10237E8FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10962$8FDC4F7D-2C9D-467F-8CAD-D228CE947EDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10962$E16EB02E-8FD1-438A-8C1F-E9C19B470983",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10379",
+              "numeric-id": 10379
+            }
+          },
+          "hash": "4bc5ca8a2026f93267e69cab661589696f44ba64",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q10962$E34D1F2D-24D9-48F0-B50A-924C2B60E214",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10960",
+              "numeric-id": 10960
+            }
+          },
+          "hash": "140f302663a27ec8598d8ddcfefafbfc04b1a792",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10962$37500423-7B34-451E-8E78-05B38BEDE2CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10962$1999B97D-C864-447C-966F-FA4866B6D4C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1162-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c4ab050d35f8d1862a54a6c562dbc793693bd2a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10962$D12E3B89-E0C0-48A5-A649-CD91D8414E05",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1241-09-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "08aaebc11b30c8bc573ece61ae0acde6bd892757",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q10962$F66E8B77-3BFD-4C13-9524-D78AFCDB8E0B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Teika.jpg"
+          },
+          "hash": "036fa5c14ddd5430ac80dfddc1241c82798d877e",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10962$5F5BE53D-248F-4B14-9DF0-7DD368851AA6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q378425"
+          },
+          "hash": "e09629d96cf2338941775c6f3c38ff565aefa30f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10962$60F2471E-6F40-4291-B393-E24140C2286F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Teika Arms.svg"
+          },
+          "hash": "8302be78a8cad63eb493e82deea61a740fb47fe7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "لغوى من اليابان"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Poeta i noble japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský básník"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Dichter"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "poet and court noble (1162–1241)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "japana poeto kaj nobelo (1162–1241)"
+    },
+    "et": {
+      "language": "et",
+      "value": "jaapani luuletaja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poète japonais"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poeta e cortesán xaponés (1162-1241)"
+    },
+    "it": {
+      "language": "it",
+      "value": "poeta giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の平安～鎌倉時代の公家、歌人"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans auteur"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "poeta japoński"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "poeta e nobre japonês"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский поэт и филолог"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "japonski pesnik in dvorni plemič (1162–1241)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon şair (1162–1241)"
+    }
+  },
+  "id": "Q10962",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فوجي وارا نو تيكا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فوجيوارا نو تيكا"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fujiwara no Teika"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Teika Fudžiwara"
+    },
+    "da": {
+      "language": "da",
+      "value": "Fujiwara no Teika"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Sadaie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Teika"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Fuĵiŭara no Teika"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Teika"
+    },
+    "et": {
+      "language": "et",
+      "value": "Fujiwara no Teika"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Fujiwara no Teika"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فوجیوارا نو تیکا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Teika"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Fujiwara no Teika"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Fujiwara no Teika"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Fudzsivara no Teika"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ֆուջիվարա նո Տեիկա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Fujiwara no Teika"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fujiwara no Teika"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原定家"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "후지와라노 사다이에"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "藤原定家"
+    },
+    "mwl": {
+      "language": "mwl",
+      "value": "Fujiwara no Teika"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Teika"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Fujiwara no Teika"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teika Fujiwara"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fujiwara no Teika"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fujiwara no Teika"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Fujiwara no Teika"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара Тэйка"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Fudživara no Teika"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Fujiwara no Sadaie"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fujiwara no Teika"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fujiwara no Teika"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фудзівара но Садаїе"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原定家"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "藤原定家"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "藤原定家"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "藤原定家"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原定家"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "藤原定家"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "藤原定家"
+    }
+  },
+  "lastrevid": 17412618,
+  "modified": "2025-09-15T23:43:40Z",
+  "ns": 860,
+  "pageid": 33350,
+  "sitelinks": {},
+  "title": "Item:Q10962",
+  "type": "item"
+}

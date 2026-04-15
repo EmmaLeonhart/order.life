@@ -1,0 +1,443 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Baidar //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q38973$58608ABF-29CB-40AA-854C-0A9F0A57EAFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "279078"
+          },
+          "hash": "e39e632dcd3e34fa46b87cbc928a5d74379768ee",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q38973$5048B9ED-09F7-4EB0-8BA6-2A56D3845EBB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00374621"
+          },
+          "hash": "52009d69edcc5de382d72cf3ec533d1c4207cf08",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q38973$166C8B4B-A45A-42F7-B118-61BA931B7328",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40760",
+              "numeric-id": 40760
+            }
+          },
+          "hash": "4ec5e11f6173400f9c74f2e45c4d128d581d0b2f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q38973$660CF7DA-986B-4B7C-B2CD-DE60C9094856",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q38973$12B76702-3EC8-41FD-B0A2-88FB3FF321A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q38973$9BF9DBC9-62AA-48BA-851A-A435754D0BF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37436",
+              "numeric-id": 37436
+            }
+          },
+          "hash": "2ba48ecd81dad1eb69fbc6a0db295e6c03cd5fe6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q38973$65DCDFD9-4836-4CF5-ACBA-12384C7E3685",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q38973$B482A874-39AD-46A8-8BA0-BA9D09340008",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1201-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44ba8602f685cbd68acb321f4ca16da5b03d339c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q38973$4056355A-88F5-47E3-804B-4B548413674A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1299-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ef6d0d465bb7cea7205b8a29b0d99164747edf48",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q38973$40EABF38-BE31-4306-A181-79F3C9618D77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2305341"
+          },
+          "hash": "5cf67e7c111a72c59d1a985df0e670b63e981f72",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q38973$4119DF96-EFDF-4AF8-9CE2-B1B8192499C4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Baidar Arms.svg"
+          },
+          "hash": "2eaa2b422ee4c72baedba70f9b4067fc3b653304",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "Condottiere mongol"
+    },
+    "de": {
+      "language": "de",
+      "value": "Khan der Goldenen Horde"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mongol condottiero"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "13. századi mongol hadvezér"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero mongolo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Condottiero uit Mongolië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wódz mongolski"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Moğol askeri lider"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "察合台之子"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "察合台之子"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "察合台之子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "察合台之子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "察合台之子"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "察合台之子"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "察合台之子"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "察合台之子"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "察合台之子"
+    }
+  },
+  "id": "Q38973",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بايدار"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Baidar"
+    },
+    "az": {
+      "language": "az",
+      "value": "Baydar"
+    },
+    "be": {
+      "language": "be",
+      "value": "Байдар"
+    },
+    "de": {
+      "language": "de",
+      "value": "Baidar Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Baidar"
+    },
+    "es": {
+      "language": "es",
+      "value": "Baidar"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بایدارخان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Baidar"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Baidar"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Bajdár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Baidar"
+    },
+    "it": {
+      "language": "it",
+      "value": "Baidar"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "バイダル"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Bajdars"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Байдар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Baidar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Bajdar"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Байдар"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Bajdar"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Baidar"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பைதர்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Baydar"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Байдар (син Чагатая)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "拜答儿"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "拜答儿"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "拜答儿"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "拜答兒"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "拜答兒"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "拜答兒"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "拜答儿"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "拜答儿"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "拜答兒"
+    }
+  },
+  "lastrevid": 17441716,
+  "modified": "2025-09-16T07:54:12Z",
+  "ns": 860,
+  "pageid": 56924,
+  "sitelinks": {},
+  "title": "Item:Q38973",
+  "type": "item"
+}

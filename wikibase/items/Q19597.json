@@ -1,0 +1,219 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuan Ji Ji"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q32509$32DEC9A5-6A8A-4F8E-808B-C5D8BEF781D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28900",
+              "numeric-id": 28900
+            }
+          },
+          "hash": "34ab8ac9aba3d6d70d50b238fcd77e331d317ce9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32509$186949F8-92C0-4B5E-9C5B-BEDE3CE15692",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19812",
+              "numeric-id": 19812
+            }
+          },
+          "hash": "5c9aaa4403170a06d2725cf17995fc255a3876cc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q32509$07EAE16D-2594-461E-9E32-D425EACC06FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32509$06B2D555-BCA3-4FDF-8AEE-ABE6E8F83CA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32509$9181D030-EA7F-4C18-99D7-A789FD8DF8B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31051",
+              "numeric-id": 31051
+            }
+          },
+          "hash": "1985a05214326c4a9350592453020f818634011e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32509$04BC581D-7489-41DF-A063-92D291451CDD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32509$69B90A19-0704-45F8-AB5C-33139600CC2F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1526-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fee0428f3edfa2db9c55bc3ee59b65d0d5aa03a5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32509$007A5392-44E1-4E1A-A772-74F0AA230571",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1602-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94c2eec273a328ef1437666df4027e75f5a22d8b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32509$595D4C7C-ACFF-43BF-9F0B-CA358869FEA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110085093"
+          },
+          "hash": "09fbc87f3881212fec76f14eb73e958f7b1e4305",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "園家11代。左近衛中将、正四位上、蔵人頭"
+    }
+  },
+  "id": "Q32509",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "園基継"
+    }
+  },
+  "lastrevid": 17432856,
+  "modified": "2025-09-16T05:45:24Z",
+  "ns": 860,
+  "pageid": 52093,
+  "sitelinks": {},
+  "title": "Item:Q32509",
+  "type": "item"
+}

@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Mitsuo"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q48516$A3E89A0A-8A15-435A-ADA6-9A7B34C2315C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-205"
+          },
+          "hash": "187d1f13713905c9bb3712e7d3aff816d7d333f0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q48516$EE157948-31DA-4E8E-862E-F4A41FD3987A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48516$A60B9218-5C1E-4C2F-89FA-47B35CD28339",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48516$E282D900-A8F8-416A-B710-B6B09EDFB3F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24163",
+              "numeric-id": 24163
+            }
+          },
+          "hash": "6561fa10f61c924c57f4391e2c3ee2d781a5a135",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48516$B1DB4D82-43D7-4B4F-BB16-79F4224A2B2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48516$5D312D8A-4FDA-4D96-9E9A-929F3BBC913B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1716-10-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f9c3e5fc1c3d009651d356838922517979589f71",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48516$90683E8E-3067-40EB-B517-F48E073E11A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1756-11-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ba47fc538c2a97e562894ad209a9c10c7e4d6084",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48516$D6CB9F36-03C8-4C15-BE32-53B3416EDA7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6832273"
+          },
+          "hash": "6f287b07c6958504f7054b7ed980ca46e51662ce",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48516$87B4B389-C3BD-4EAF-AF0D-480967D60A5C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Mitsuo Arms.svg"
+          },
+          "hash": "43e54bf4d1230be283ba4f16653c00299eda979d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo of the middle Edo period; lord of Matsumoto (1716-1756)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "信濃松本藩2代藩主。戸田松平家7代。松平光煕の五男。従五位下、丹波守"
+    }
+  },
+  "id": "Q48516",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Mitsuo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Mitsuo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Mitsuo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Mitsuo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平光雄"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мицуо Мацудаира"
+    }
+  },
+  "lastrevid": 17453964,
+  "modified": "2025-09-16T10:51:03Z",
+  "ns": 860,
+  "pageid": 64058,
+  "sitelinks": {},
+  "title": "Item:Q48516",
+  "type": "item"
+}

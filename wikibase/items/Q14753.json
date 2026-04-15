@@ -1,0 +1,303 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kakimon-in"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q14753$C290E1D1-F326-4300-8C37-17BAA1C5F144",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719910"
+          },
+          "hash": "9424e2a3587fd0fc690bb64fb295e820c5c39306",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q14753$8AFA76AA-DD1F-42F1-9335-E6486E00991E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14755",
+              "numeric-id": 14755
+            }
+          },
+          "hash": "b27b0855a679d16e07ed137f21eafb373d5ce9f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14753$B8945920-4C4F-4F29-AA13-492B43B20C16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14753$7A518457-AF9C-4BF4-BA45-30002619C6DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q14753$11F7ED28-D803-4C14-868C-6E5A7D5B4BC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14313",
+              "numeric-id": 14313
+            }
+          },
+          "hash": "e8c3c9d4998026eb3bf4c8f4f6e574135dbfd361",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14753$601FB829-4CC1-43EC-B3BE-3FDCA06C9E3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14400",
+              "numeric-id": 14400
+            }
+          },
+          "hash": "c71233695fd0304bc92345a4d41d564462882fd6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14753$63CFEB55-3149-4E2B-A6CD-CC10F5003ADA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14753$5FA2C81D-318E-4B26-A969-7224FE7637CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c8a4293a484263d2ef8b022dff6edb9204445eb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14753$2A1E049E-B3D0-41E6-91FA-4AB93745CB52",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1301-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "819d1364daec76001c8bdca621b5f541583dd3bb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14753$9B590C7E-B9DD-4263-A878-DF3ABD4AC662",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7141661"
+          },
+          "hash": "01498324fb97b0170923dcbef62e2e4817d1d030",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14753$4ED1D1AD-1D9C-4AD8-95CE-863CE52AB5AC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kakimon-in Arms.svg"
+          },
+          "hash": "8662111e560d5d17ff6698790bd769d23d446bfe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "court lady of Japanese emperor Go-Murakami"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南朝後村上天皇の女御"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระสนมในจักรพรรดิโกะ-มุระกะมิพระราชมารดาของจักรพรรดิโชเกและจักรพรรดิโกะ-คะเมะยะมะ"
+    }
+  },
+  "id": "Q14753",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Kakimonin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kakimon-in"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kakimon-in"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kakimon'in"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "嘉喜門院"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Какимонъин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kakimon-in"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kakimon-in"
+    },
+    "th": {
+      "language": "th",
+      "value": "คะกิมง-อิง"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "嘉喜門院"
+    }
+  },
+  "lastrevid": 17414672,
+  "modified": "2025-09-16T00:12:36Z",
+  "ns": 860,
+  "pageid": 37051,
+  "sitelinks": {},
+  "title": "Item:Q14753",
+  "type": "item"
+}

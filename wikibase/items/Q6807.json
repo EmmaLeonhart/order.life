@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince Kamukushi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q6807$D37C6CC0-09C7-4E5A-96C3-2FB9ED1019A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6807$24A152AB-D65B-4993-A7AC-6906A7CEE7DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q6807$989AFE82-F3CF-4E43-9ADC-9952B7BCC3DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6874",
+              "numeric-id": 6874
+            }
+          },
+          "hash": "26bab0cb0ad9735fba35f3bc9f2b01d4ea675dd5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q6807$9360861E-FC19-48A3-A3AF-5C57397D03A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q6807$6260BD5F-E9F0-47EA-95ED-3FCA3B5E3F58",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0074-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cbc85f2477cdb6aaa0782dc43ccbe5b511aa3369",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q6807$600412F2-5885-4066-8F06-5D03BC92B546",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11590432"
+          },
+          "hash": "8dd8739163ff0be07c4784086ac64809110d998a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q6807$702EF4CA-C6E1-457C-A7A9-0F3928C5D792",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince Kamukushi Arms.svg"
+          },
+          "hash": "b48c757f7bf487d680f8c9d33a8b4f642fd92301",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "syn císaře Keikóa"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of emperor Keiko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "古代日本の皇族。讃岐公（讃岐国造）・酒部公の祖。"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын императора Кэйко"
+    }
+  },
+  "id": "Q6807",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Kamukuši"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince Kamukushi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Prince Kamukushi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kamukushi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "神櫛王"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "принц Камикуси"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "神櫛皇子"
+    }
+  },
+  "lastrevid": 17406679,
+  "modified": "2025-09-15T22:25:25Z",
+  "ns": 860,
+  "pageid": 29302,
+  "sitelinks": {},
+  "title": "Item:Q6807",
+  "type": "item"
+}

@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Toshiharu Maeda"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q16915$55FE1CD9-72D6-454B-8088-CFD0EAB22F6E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "560159"
+          },
+          "hash": "77ef7546f1cfd69938a3eca0604dafce1b8251cc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16915$2B6810F6-610B-4341-AAEC-378237E1E44D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16915$7E0060AB-8333-42EA-BD3A-8D73F4B775AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16915$AD91B92D-D0F2-4892-A5CB-95F22584D145",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29097",
+              "numeric-id": 29097
+            }
+          },
+          "hash": "5e0348d39aef81bfa28e00a6df08edf29624a589",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16915$594CE3AD-FA5B-421A-AD2C-1AEA6CAB7AFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16024",
+              "numeric-id": 16024
+            }
+          },
+          "hash": "48845195cc9b623c041f86def2b5f6b3e95cab14",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16915$375B0C4E-441D-465D-B4FF-88FE6A0676DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16122",
+              "numeric-id": 16122
+            }
+          },
+          "hash": "5f13378435d2d7a28a86872d3b597782a3cedb47",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16915$BE0A4953-8A2B-482C-85CF-B7C27C3ED73C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16915$8FD07071-BBF2-4064-B777-694B06340293",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1618-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f0a3053a163638c18cc25a333a4c9ede0d925350",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16915$6F80560A-F63D-4EBE-914F-7B75866519C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1660-05-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0317e086f551937786980e4ece6d3b84434a2563",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16915$3A0F66B1-5A25-4CB3-A26F-A21FCA4E521B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11397442"
+          },
+          "hash": "dff3ffe1dd233a2227f723f2cc255eb64f6f3004",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q16915$05D408FD-989F-49D3-A8AE-62714A47E56D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Toshiharu"
+          },
+          "hash": "857ef33d125f2dc396f1968bf3787c0ab9e77c11",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16915$5FC84D9B-51B9-40AA-A162-4F35F276AF31",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Toshiharu Maeda Arms.svg"
+          },
+          "hash": "920278f11226740af1425197039b2b24c2dcea1b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の大名。加賀大聖寺藩初代藩主。茶人。前田利常の三男。正四位下、飛騨守、侍従"
+    }
+  },
+  "id": "Q16915",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Tošiharu Maeda"
+    },
+    "en": {
+      "language": "en",
+      "value": "Toshiharu Maeda"
+    },
+    "es": {
+      "language": "es",
+      "value": "Toshiharu Maeda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Maeda Toshiharu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田利治"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마에다 도시하루"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Maeda Toshiharu"
+    }
+  },
+  "lastrevid": 17416466,
+  "modified": "2025-09-16T00:42:15Z",
+  "ns": 860,
+  "pageid": 39163,
+  "sitelinks": {},
+  "title": "Item:Q16915",
+  "type": "item"
+}

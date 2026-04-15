@@ -1,0 +1,427 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ashikaga Yoshikazu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q15686$90F1556E-E2E5-4D97-AD77-1A9B4A1706E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "994330"
+          },
+          "hash": "47ce7aa688a74197a6ab173ab7140da60d43095b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15686$3DD43427-0A7C-4B07-8396-5F2E13A9967A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15686$87EB5DA4-8FE2-4C3B-9E7A-EE7132C453EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15686$9E9A615B-79D1-4957-8A4A-D9784761A586",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15218",
+              "numeric-id": 15218
+            }
+          },
+          "hash": "a5f2b63f3261c4ea88fc4155e806c2c0282db94c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q15686$8313E4FD-C626-4E35-8D49-6573DA0505AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15685",
+              "numeric-id": 15685
+            }
+          },
+          "hash": "654f1a99503ca013706ee44f902e1e920e2cc864",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15686$AB6C982C-7926-4DFD-BBA8-5F9AA6ADAF81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15686$CC564725-3EB5-4A6E-9E69-0FDCA1EA21B4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1407-08-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5dc2c9981fa0184fa06de9dcf3e91397ae5caa66",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15686$39C5CD3F-D886-4FDF-86EB-058EBDAF5B84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1425-03-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "792893c0106285553869770602110822454cfbca",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15686$12E17C46-B9B6-459A-91A5-082090B54FCC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ashikaga Yoshikazu.JPG"
+          },
+          "hash": "2e383b278cef620abf5e66b1dffd8e3ed1f4d5f7",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15686$64A91CAC-A762-4053-9524-C66F1694F2AE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q465901"
+          },
+          "hash": "bea59ecc7de9d71a5a0b7ac2162d1b850a3f7c9c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15686$29D894CC-321F-45BE-89ED-56291C0E2D72",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ashikaga Yoshikazu Arms.svg"
+          },
+          "hash": "8192886683dd7826cad368caa470c2b8e9412efe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ساموراى من اليابان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1407–1425)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "5. ašikagský šógun"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Shogun"
+    },
+    "en": {
+      "language": "en",
+      "value": "fifth shōgun of the Ashikaga shogunate of Japan (1407–1425)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire japonais"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "室町幕府の第5代将軍"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1407-1425)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński samuraj"
+    }
+  },
+  "id": "Q15686",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اشيكاجا يوشيكازو"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jošikazu Ašikaga"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aŝikaga Joŝikazu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آشیکاگا یوشیکازو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yoshikazu Ashikaga"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "足利義量"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아시카가 요시카즈"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "足利義量"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Asikaga Yosikazu"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Yoshikazu Ashikaga"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Асикага Ёсикадзу"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "th": {
+      "language": "th",
+      "value": "อาชิกางะ โยชิคาซุ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Асікаґа Йосікадзу"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ashikaga Yoshikazu"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "足利义量"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "足利義量"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "足利义量"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "足利义量"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "足利义量"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "足利義量"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "足利義量"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "足利义量"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "足利義量"
+    }
+  },
+  "lastrevid": 17415348,
+  "modified": "2025-09-16T00:22:04Z",
+  "ns": 860,
+  "pageid": 37970,
+  "sitelinks": {},
+  "title": "Item:Q15686",
+  "type": "item"
+}

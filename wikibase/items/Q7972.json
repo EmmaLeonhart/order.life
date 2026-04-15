@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Masaru"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7972$C3632EFC-9A64-40A0-A231-24884B3F245D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7972$49076C69-1D84-4252-9580-5628A6C1651A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7972$36D38EE4-51E5-412D-9D0D-256DC14C7E44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7713",
+              "numeric-id": 7713
+            }
+          },
+          "hash": "73d04bea68f3f20945e00bbd66aab3ae46f2a86c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7972$C85C0F01-2170-4646-A285-F021D1C11822",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7972$852CD172-2100-489E-8D27-E5A1C14BD75D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea8803e48538dde79fc706112390b90cae736a34",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7972$D971203E-BE23-4BFF-8BA8-BD92FBCF1161",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0886-08-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1be27ad4a606101304fee5a14dd1b923d906f4fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7972$68C74C07-3164-43E8-8061-8CB3776513F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17214243"
+          },
+          "hash": "29f619d727edd29df80a6ce9a42b111935d36763",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7972$03D17E49-F431-45D9-910F-F26B62166663",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Masaru Arms.svg"
+          },
+          "hash": "a0cc64bf2c03f55d8d2538643057bce91ddcff0c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代前期の貴族・僧侶。従四位上。母は惟良氏（宮人）あるいは大原氏。子に源良-源穏（従五位下）"
+    }
+  },
+  "id": "Q7972",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Masaru"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源勝"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Минамото-но Масару"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Minamoto no Masaru"
+    }
+  },
+  "lastrevid": 17407870,
+  "modified": "2025-09-15T22:40:24Z",
+  "ns": 860,
+  "pageid": 30463,
+  "sitelinks": {},
+  "title": "Item:Q7972",
+  "type": "item"
+}

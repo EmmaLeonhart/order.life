@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wang Huizhi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q54615$A8777669-DF4F-4DF0-9071-B4F91C8B5200",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61206",
+              "numeric-id": 61206
+            }
+          },
+          "hash": "8e7fcaa7adf0abe54327267dae02973bffc60cc1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54615$831506AA-F626-4398-B8E7-01513798DE65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45999",
+              "numeric-id": 45999
+            }
+          },
+          "hash": "b184620b53f19279baa1a5f134aeb0901ffa8d1f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54615$265E5C49-BC3D-4A37-9872-46C74362331B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54615$9300BBC1-19E3-4696-83B2-70F4A5A30DA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54615$9CFBDE22-6366-47AA-A2CC-23DEFC14CD52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61203",
+              "numeric-id": 61203
+            }
+          },
+          "hash": "c1f9c369ce942577553271f0c48cf103533d02a0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54615$F61384B5-B14A-4B3F-97D4-34DFA867D445",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54615$7B3A21FD-ED14-4B0A-A598-B64DCDAE2308",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0654-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "63bb5b108b55d9691658d89080d6e6cf3bf9dfa4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54615$7BCAAE28-64DF-4CB9-B2FC-930955A438A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45558309"
+          },
+          "hash": "e083602b6f1d9c3b21456104b5e6d8f3010bc9b9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54615$720B4BC5-88AF-406A-9428-FE11C6E964AC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wang Huizhi Arms.svg"
+          },
+          "hash": "46558f837f11c30c56e07779a1bae7c0f926bc62",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 194934"
+    }
+  },
+  "id": "Q54615",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wang Huizhi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wang Huizhi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wang Huizhi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "王誨之"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wang Huizhi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "王誨之"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "王诲之"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "王誨之"
+    }
+  },
+  "lastrevid": 17462202,
+  "modified": "2025-09-16T12:52:00Z",
+  "ns": 860,
+  "pageid": 69446,
+  "sitelinks": {},
+  "title": "Item:Q54615",
+  "type": "item"
+}

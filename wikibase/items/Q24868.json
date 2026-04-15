@@ -1,0 +1,213 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nikaidō Haruyuki"
+      },
+      {
+        "language": "en",
+        "value": "Nikaido Haruyuki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q43703$D5D6CC0B-4D0B-4F6F-A152-15D6A29F3268",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39515",
+              "numeric-id": 39515
+            }
+          },
+          "hash": "beeea87ea645a81a2da30d587007d46543212628",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43703$49233C96-5765-44C7-8ECE-C9C12B6CC8B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43703$D63A9374-D2C6-469B-BC47-B3E17A915894",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43703$1E588F4E-EA94-44C9-A669-5776009DF0FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50891",
+              "numeric-id": 50891
+            }
+          },
+          "hash": "eee6f7a03372db156e76d658a050cfd623f47a3f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43703$36DDEA30-F3C0-444E-8445-2A440F0A82CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43703$FF55A76E-8C64-4879-841D-BE379E568ADB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1542-07-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5b0d5428a1c6d6112953240b365263118ea14500",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43703$E1335632-7C52-49B9-B2E6-39577F520FC7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11371887"
+          },
+          "hash": "9b4a870ec7cb99984ef938dcad04131666a0d01e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43703$BE03E766-0FA9-4012-AA50-E300E182E1DA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nikaidō Haruyuki Arms.svg"
+          },
+          "hash": "8b49d0d22fa6cbe161ee4ef69c1fc735f6da7201",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将・陸奥国の戦国大名"
+    }
+  },
+  "id": "Q43703",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nikaidō Haruyuki"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nikaidō Haruyuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "二階堂晴行"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Харуюки Никаидо"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nikaidō Haruyuki"
+    }
+  },
+  "lastrevid": 17447904,
+  "modified": "2025-09-16T09:22:11Z",
+  "ns": 860,
+  "pageid": 60465,
+  "sitelinks": {},
+  "title": "Item:Q43703",
+  "type": "item"
+}

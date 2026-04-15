@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Andō Shigenobu"
+      },
+      {
+        "language": "en",
+        "value": "Ando Shigenobu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q56728$A42989C5-A11A-4094-8768-B4954C69B4DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48389",
+              "numeric-id": 48389
+            }
+          },
+          "hash": "06493a5cc8709aa617d819649af3d97e1bc6941d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q56728$0260F962-EBC9-40FD-82B1-B033017820F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56728$374650E4-3C11-468F-9051-CC8DB8C9B648",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56728$B6A27F90-CA55-4A14-984F-5FB3AA62EAA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62604",
+              "numeric-id": 62604
+            }
+          },
+          "hash": "9de82c21bcd2835dd469cc58083409f2769bed7b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56728$FCBF59C2-18EE-4AAE-8392-F2B7E9411F68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56728$86792054-AF9E-4894-91DA-B7A90755EE08",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1557-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f14b34623e47f23eaee4a308e3ed88449187e4e7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56728$197F7B21-E8C2-44B9-8664-90F1FC33C247",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1621-08-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "932c2ca96ead2d3f392afb3abbb0cfb4f27329b5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56728$EB0E7106-9FD1-4928-ABB1-00E60797BB85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6527758"
+          },
+          "hash": "1fa760564a71dc3bfbeac0364081fbc1c0bfb71e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56728$53FEACE7-47F5-4CA4-AF18-FB374D9F1A70",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Andō Shigenobu Arms.svg"
+          },
+          "hash": "c0277a3611303a8d0068485da4a2fcf0978053d3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q56728",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Andō Shigenobu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Andō Shigenobu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Andō Shigenobu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Andō Shigenobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安藤重信"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안도 시게노부"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Andō Shigenobu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигэнобу Андо"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ando Shigenobu"
+    }
+  },
+  "lastrevid": 17465234,
+  "modified": "2025-09-16T13:37:27Z",
+  "ns": 860,
+  "pageid": 71559,
+  "sitelinks": {},
+  "title": "Item:Q56728",
+  "type": "item"
+}

@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "基世王"
+      },
+      {
+        "language": "en",
+        "value": "Ji Shi Wang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8010$7CD318E1-FEB9-4591-8A24-D61D503E508E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8010$40E56045-9276-4F56-864D-94A71F02DB37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q8010$C6A40CFB-911B-4BAA-8454-6AF77F6147EA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ji Shi Wang Arms.svg"
+          },
+          "hash": "d2aa7a9b9b0a9af8fa3345142196e4257016e3fb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8010",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ji Shi Wang"
+    }
+  },
+  "lastrevid": 17407924,
+  "modified": "2025-09-15T22:41:04Z",
+  "ns": 860,
+  "pageid": 30501,
+  "sitelinks": {},
+  "title": "Item:Q8010",
+  "type": "item"
+}

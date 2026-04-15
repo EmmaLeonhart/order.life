@@ -1,0 +1,386 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Manuel II of Trebizond //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q50103$18071FCC-1F23-4FB2-96B5-467EA01C3D6E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00764361"
+          },
+          "hash": "ff3546d9927c5dfb277dda6192aca5137254dafb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50103$F3FE0429-52B0-4663-964F-404D83F400C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50103$5DA489E3-664D-4BDD-A557-7A9F7FBD2D16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q50103$1334E864-4A52-4972-93CE-1E383E6737B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p21912.htm#i219119"
+          },
+          "hash": "65b0e8e98dd19c02dff21a9ed84b42b145e9bc33",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50103$41DCF1A4-2459-488C-8852-73F9294ECF1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46203",
+              "numeric-id": 46203
+            }
+          },
+          "hash": "f84768b4104c6df00ee4c3e34f3638e9796abbc8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50103$019D9EAA-DEAB-4A34-AAC4-33E72A9B0A94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50103$9388F54F-4984-4A2A-BA51-1A7947A2BB79",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1324-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "670762e91ef8a01ee1ce9c9128408579cdabdf9f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50103$F53DC904-3356-4E5B-BC4C-09EEA47E1D66",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1333-02-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "018956e8cde77bf611f027de19bf16222908d921",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50103$60F8CCDE-A71A-4161-9B3A-0E9C72BB7FC1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q433712"
+          },
+          "hash": "77c91334f759073ef6bbe8725b6b7bf348c30c98",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50103$5858053D-3B64-4874-A352-04646B902FC1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Manuel II of Trebizond Arms.svg"
+          },
+          "hash": "acd517521d4576996bf8e9078288c3c98cc24b60",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Emperador de Trebizonda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Trapezunt"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Trebizond"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador de Trebisonda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur de Trébizonde (1332)."
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore trapezuntino"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit keizerrijk Trebizonde (1324-1333)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "император Трапезунда"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Trabzon imparatoru"
+    }
+  },
+  "id": "Q50103",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مانويل الثاني الطربزوني"
+    },
+    "az": {
+      "language": "az",
+      "value": "II Manuel (Trabzon imperatoru)"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی مانوئل ترابوزان"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Manel II Comnè"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Manuel II. Trapezuntský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Manuel II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Μανουήλ Β' Μέγας Κομνηνός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Manuel II of Trebizond"
+    },
+    "es": {
+      "language": "es",
+      "value": "Manuel II de Trebisonda"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مانوئل دوم ترابوزان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Manuel II de Trébizonde"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Manuel II de Trebisonda"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Manuel II. Trapezuntski"
+    },
+    "it": {
+      "language": "it",
+      "value": "Manuele II di Trebisonda"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მანუელ II"
+    },
+    "la": {
+      "language": "la",
+      "value": "Manuel II"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Manuelis II Megas Komninas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Manuel II Megas Komnenos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Manuel II Megas Komnenos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Manuel II Wielki Komnen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Manuel II da Trebizonda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Manuel II da Trebizonda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мануил II Великий Комнин"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Manuel II of Trebizond"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Манојло II Велики Комнин"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Манојло II Велики Комнин"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Manojlo II Veliki Komnin"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Manuel II av Trapezunt"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Manuil"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мануїл II"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Trebizondlik Manyel II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "曼努埃尔二世"
+    }
+  },
+  "lastrevid": 17456168,
+  "modified": "2025-09-16T11:22:51Z",
+  "ns": 860,
+  "pageid": 65243,
+  "sitelinks": {},
+  "title": "Item:Q50103",
+  "type": "item"
+}

@@ -1,0 +1,627 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Go-Shirakawa"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11480$923258F9-348C-44C8-ADD8-ABF29494A514",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "485580"
+          },
+          "hash": "4a2a07256f60f2e031e587799feb32d78fe0a347",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q11480$F4836001-0C52-44B7-849A-AF6C0661D452",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523748"
+          },
+          "hash": "45ba80b0aa811e917305fc7607ed933d42afa3af",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11480$B4FB1E83-E9B4-446F-A662-8931B6EC16A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11649",
+              "numeric-id": 11649
+            }
+          },
+          "hash": "1cbcc6c75a62b697607dd778d85e30c51c1cacdc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11480$0FDE5524-7BCF-42F7-AC33-3B2E9D7F6CC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11781",
+              "numeric-id": 11781
+            }
+          },
+          "hash": "6bdf6fbed886a7cf949057dcf2876f2f28d6aa08",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11480$A8FD2E61-4D35-430F-84EB-8A353E28B97B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12310",
+              "numeric-id": 12310
+            }
+          },
+          "hash": "87cfad7fe8b94f83b914ad78654acd42bc16600a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11480$C87BA739-1522-4469-A43F-3702F80DBA78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11480$6F5FD935-622F-4162-A6FC-B11E4D332FD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q11480$BD8253B5-9E99-4A45-ADB8-8C991EEB9F34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10972",
+              "numeric-id": 10972
+            }
+          },
+          "hash": "38a17244cc9987e857c5491829fc4b25fb003247",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11480$D60BFAD1-D0CA-4441-8F45-04B13BBC293D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11228",
+              "numeric-id": 11228
+            }
+          },
+          "hash": "e8c67d243f515a8482ca29ff3b637d5a7587d1c7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11480$97AD407E-1966-4218-97C4-AFDC3DBCEEA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11716",
+              "numeric-id": 11716
+            }
+          },
+          "hash": "5eaa7eb3a86f79421ff1e68191cfb7753a532761",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11480$44269A82-9E29-4020-AD2F-ED2466E6B1BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10816",
+              "numeric-id": 10816
+            }
+          },
+          "hash": "73410dcd2ad32259ee80f8e333f6eb7058611d09",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q11480$D4888D15-0612-43A0-A556-5501BA6C5C40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10874",
+              "numeric-id": 10874
+            }
+          },
+          "hash": "7c6620acdd7b38dc2917370adb4de6bc476dfa05",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11480$29BD0501-A3AF-422A-9E16-994B1972850F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11480$02A56107-8005-456F-8875-34DFB9250112",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1127-10-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f50a0e7535d4b8f7cb1646c9f0636941ed60a47a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11480$3C6A585E-C0D8-42D7-9275-3BBDD70CA714",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1192-04-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b68fb7bb99764230b0d44096a95051c6fa58af35",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11480$0C346CB0-3469-4256-872A-893DEAEDB7CA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Goshirakawa.jpg"
+          },
+          "hash": "a3ac13fad4f19bb09338985acd9b5b4c801a4314",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11480$4F6EB831-EDE8-4964-B520-EAE8A962F841",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q317984"
+          },
+          "hash": "3977536e03d0e6a6afdf997c0f6c055af270a67e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q11480$80A5D1BF-59A0-47E8-82B2-F9E484F8B9D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011626980739"
+          },
+          "hash": "15bd21b074140da67839c208998c96b668177232",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11480$33FE4224-9BCA-4CB9-AB57-1F3EB00E1DF3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Go-Shirakawa Arms.svg"
+          },
+          "hash": "ae613c60fec1f04308f0603f7038d884c8bc8331",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "emperador xaponés (1127–1192)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "(1127-92) 77è Emperador del Japó (1155-58)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "77. Tennō von Japan (1155–1158)"
+    },
+    "en": {
+      "language": "en",
+      "value": "77th emperor of Japan (1155–58)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador de Japón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第77代天皇"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans keizer (1127-1192)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "77. cesarz Japonii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "77-й император Японии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    }
+  },
+  "id": "Q11480",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "قو شیراکاوا (ایمپیراتور)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Go-Shirakawa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Go-Shirakawa"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر گۆ-شیریکاوا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Go-Širakawa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Go-Shirakawa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αυτοκράτορας Γκο-Σιρακάβα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Go-Shirakawa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Go-Shirakawa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور گو شیراکاوا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Go-Shirakawa"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Go-Shirakawa Thiên-fòng"
+    },
+    "he": {
+      "language": "he",
+      "value": "גו-שירקאווה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Gosirakava"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Go-Shirakawa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Go-Shirakawa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "後白河天皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "გო-სირაკავა"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고시라카와 천황"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "गो-शिराकावा"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Go-Sirakawa Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Go-Shirakawa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Go-Shirakawa"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Go-Shirakawa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Go-Shirakawa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Го-Сиракава"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Go-Shirakawa"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Go-Shirakawa"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Go-Shirakawa wa Japani"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิโกะ-ชิระกะวะ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Go-Shirakawa"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Go-Shirakawa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Ґо-Сіракава"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Go-Shirakawa"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "后白河天皇"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Go-Shirakawa"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "後白河天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "後白河天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "后白河天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "后白河天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "後白河天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "後白河天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "后白河天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "後白河天皇"
+    }
+  },
+  "lastrevid": 17412974,
+  "modified": "2025-09-15T23:49:00Z",
+  "ns": 860,
+  "pageid": 33852,
+  "sitelinks": {},
+  "title": "Item:Q11480",
+  "type": "item"
+}

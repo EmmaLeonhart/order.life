@@ -1,0 +1,223 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "庭田雅純"
+      },
+      {
+        "language": "en",
+        "value": "Ting Tian Ya Chun"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q39535$69872A61-D6D0-4B6C-B38D-5FC84108E65C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43712",
+              "numeric-id": 43712
+            }
+          },
+          "hash": "b0c80ba5f0e0799eb578cf02e3fd382070d9efdd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39535$8C998CA2-FA30-4ED9-A995-AFCC97043EE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43716",
+              "numeric-id": 43716
+            }
+          },
+          "hash": "3b36045a33ef582f834e610aaebc3609a92f676f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q39535$76A141C3-718E-4CD0-B185-DEF4632FF607",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39535$8A902225-AA81-4E49-86FD-1A87632BBD7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39535$49333199-E359-446B-B6DB-B94AF95669BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35506",
+              "numeric-id": 35506
+            }
+          },
+          "hash": "d203334ad57f06b0c6dc694aa8f8b519d4b434af",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39535$AFB2904E-B4A8-476F-88F8-28DE120D1E80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39535$9A2129C3-8AFB-42A1-9023-A9BE917527D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1627-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b89ac73a3930fa801af01e76487802005245199e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39535$907BECBB-198C-456B-BB8E-589ADB926289",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1663-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e10a9443e6eae07ba168761a6ca05d030647c7be",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39535$7B58EC5E-A2CC-48AA-A323-2C77CC2C923F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110094094"
+          },
+          "hash": "ad310d7547c8d442a8e276dd81e798a940989244",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "正四位下、右近衛中将"
+    }
+  },
+  "id": "Q39535",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "庭田雅純"
+    }
+  },
+  "lastrevid": 17442444,
+  "modified": "2025-09-16T08:04:28Z",
+  "ns": 860,
+  "pageid": 57344,
+  "sitelinks": {},
+  "title": "Item:Q39535",
+  "type": "item"
+}

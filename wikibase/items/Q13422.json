@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nyoshin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13422$0E7359D8-EE30-4032-A3B9-9B27B4031379",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13422$595D506F-9BBD-470E-9449-C04339F6F4E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13422$9E9163C3-5229-4E30-B461-5E780FF6CB43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12713",
+              "numeric-id": 12713
+            }
+          },
+          "hash": "72da5f9a61ae601d2e00625b49b6e24ef5092757",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13422$216FA5D2-60D3-4322-AE1F-03604AAD5700",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13422$212C50EE-DA51-4AEB-86B1-A685FF8E4CCC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1235-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d63dc02ab8f5810f5200ff96a4ae64576894870",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13422$FE0F23A5-9727-4E31-B2EF-D75317DCB402",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1300-01-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "86bc94cbce59ecd691f1bd0e8923e4bc77a86637",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13422$517A844C-E394-45A9-95CD-BD99EA62192D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6607651"
+          },
+          "hash": "0148fbdd2f2f1155ec82676a2539a7acddad69dc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13422$824C4325-33AE-45A9-8DA4-660B32DBFD4C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nyoshin Arms.svg"
+          },
+          "hash": "f44909a3846c26aa817d34606244e83e1d22366e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "japonský buddhistický mnich"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese Buddhist monk"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代中期から後期にかけての浄土真宗の僧"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon Budist keşiş (1235 – 1300)"
+    }
+  },
+  "id": "Q13422",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Nyoshin"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Njošin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nyoshin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nyoshin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "如信"
+    }
+  },
+  "lastrevid": 17413990,
+  "modified": "2025-09-16T00:03:23Z",
+  "ns": 860,
+  "pageid": 35741,
+  "sitelinks": {},
+  "title": "Item:Q13422",
+  "type": "item"
+}

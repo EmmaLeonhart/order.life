@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "富小路永貞"
+      },
+      {
+        "language": "en",
+        "value": "Fu Xiao Lu Yong Zhen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q39551$289E50BF-0976-4BC2-86CF-8E8CAA2C8DC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39551$438E6D29-BED6-4007-86C8-348B772360EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39551$41F58828-3589-4CCB-B879-9A0E49DA9FBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35514",
+              "numeric-id": 35514
+            }
+          },
+          "hash": "288297004a7f3df2241efd9695f900eb764caeb5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q39551$831E1653-6447-4324-BB07-29B6EF4861FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39547",
+              "numeric-id": 39547
+            }
+          },
+          "hash": "c8f4e89a8ebd8a42435c90de2f7bfddea2b7819c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39551$01005B7B-AF30-4866-A6A3-2B4E6EBBAF38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39551$7D926A15-1726-4668-961C-6B73C89259E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1640-08-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a747ac34df43c3796fb01fb87b4546f053b19f81",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39551$22722115-4C27-4220-B180-FA0D31546B93",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1713-01-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1f2c630bac08a6db7a0d338810744b06e9b6aac4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39551$5BCA6919-EB54-4E7B-A206-8B921A1CCE8F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110139188"
+          },
+          "hash": "5befccebe3b7d2c2b1acb02696dd47e3309db111",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "富小路家13代。正三位・非参議"
+    }
+  },
+  "id": "Q39551",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "富小路永貞"
+    }
+  },
+  "lastrevid": 17442460,
+  "modified": "2025-09-16T08:04:42Z",
+  "ns": 860,
+  "pageid": 57356,
+  "sitelinks": {},
+  "title": "Item:Q39551",
+  "type": "item"
+}

@@ -1,0 +1,176 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Nobumasa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q43679$8E5BC5F4-13E7-4AFB-95AE-5E675B0CA7D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39475",
+              "numeric-id": 39475
+            }
+          },
+          "hash": "8d8ad49389d654e3a8e50d5441252f5164fbf0bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43679$779444CB-B76B-4A66-9757-67FC93F80B60",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43679$917D4860-C95E-472D-8593-C96C7D6C4A5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43679$DFB76B11-A3B5-4AD0-BBBE-5FF75774BC76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43679$05CC641D-63CB-4653-AB69-1FDD88B27698",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1316-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6609b61e0eeb9adf5be9a915d37c8c7920ca75b6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43679$054C168F-914D-4B3E-8DAB-7F97CC46B661",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q38277718"
+          },
+          "hash": "c0d9ed4f89a04f7918e77ed62e4b43a08b54dbdf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43679$A2B033C7-3DDE-48CB-90DC-97A31AADE442",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Nobumasa Arms.svg"
+          },
+          "hash": "2fc13a1055d3c6eb840e1f13c36e4a7a67ec6455",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代の武士。管領・斯波氏の被官。織田氏の祖。"
+    }
+  },
+  "id": "Q43679",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Nobumasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原信昌"
+    }
+  },
+  "lastrevid": 17447878,
+  "modified": "2025-09-16T09:21:48Z",
+  "ns": 860,
+  "pageid": 60447,
+  "sitelinks": {},
+  "title": "Item:Q43679",
+  "type": "item"
+}

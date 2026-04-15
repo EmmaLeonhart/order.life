@@ -1,0 +1,193 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nobumoto Taira"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q12364$E22269C2-E39A-4D7F-8A21-A966CE2EF039",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12364$E85E4994-38B9-49A5-BF1C-6A99039ECEAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12364$C19E2ED6-93A4-4423-B4A0-48DF9702BC58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11947",
+              "numeric-id": 11947
+            }
+          },
+          "hash": "e34af09548f5cd3be908f93e203e2666d6411e4c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12364$53E2C5A9-17BC-454D-BC8E-0451B8A18A65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12364$C73E438E-1CA2-4BB0-8D40-9547EA3026DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1137-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2229a26c9dd7c99039ba9209ebc0dd5aab36ea9a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q12364$011CD5E9-10BA-4172-88A0-74FB2BADE993",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Taira no nobumoto.jpg"
+          },
+          "hash": "9d9490f6724d20e47d52aa63841abec415a383b5",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12364$A36BF413-E76D-4146-B2F4-76348EB44A92",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11482082"
+          },
+          "hash": "9d725f3f30d0b5e4198eda511bb4de486e7a47f0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12364$7B8632B1-9C23-4E12-9BC0-1B535CF9621A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nobumoto Taira Arms.svg"
+          },
+          "hash": "1376c9b499df32accdbc8b6ab42fa37bf770653b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期の廷臣・貴族。平信範の長男。正四位下・内蔵頭。"
+    }
+  },
+  "id": "Q12364",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nobumoto Taira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平信基"
+    }
+  },
+  "lastrevid": 17413444,
+  "modified": "2025-09-15T23:55:42Z",
+  "ns": 860,
+  "pageid": 34700,
+  "sitelinks": {},
+  "title": "Item:Q12364",
+  "type": "item"
+}

@@ -1,0 +1,402 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takatsukasa Mototada"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q13472$AA5CA26B-0D5B-4724-AD66-22742E658126",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "804570"
+          },
+          "hash": "455daa6d7fab7ab70853fcc59b93164f35fba23b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q13472$2184318D-B866-494C-AE6D-667FA3571BE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14037",
+              "numeric-id": 14037
+            }
+          },
+          "hash": "83d40c43656fc8a44c1c0c9b1effe705adbf54f6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13472$59581D92-6EDC-49AC-9428-4D79AF676682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13887",
+              "numeric-id": 13887
+            }
+          },
+          "hash": "fa950e2dadd7553cd64d5e002a92250afa7c1a8d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q13472$93CF080E-8F40-40DF-A1B4-E905ED3AFF75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13472$E8D71598-4FA0-463B-B286-0009AC19D038",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13472$2449FF07-A5CE-476F-A3AB-7B3A4C77CB1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13141",
+              "numeric-id": 13141
+            }
+          },
+          "hash": "da69965198e98ee9ca4cf8168caa26f8a53844e2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13472$DCC01A62-FB5D-48A2-8800-ECBE89E5867E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13472$09D8E86B-3607-43ED-A6EE-56C882FFEFE2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1247-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7da1e5bedbded75bd6fd404d4d582daeb3548bae",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13472$D4E12DF6-471C-450D-9594-E6C855750A99",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1313-07-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2cd2880e6dc574a264a804d2bec415862f362a97",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q13472$F41AEF26-789F-4E87-AB8F-73040C443B12",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "鷹司基忠.jpg"
+          },
+          "hash": "9ec527352caa374c40b41ba9e0f100d3ea0cfc29",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13472$075C1E33-F514-4552-B33F-724A25758821",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q955290"
+          },
+          "hash": "57a1a93f38777c482da9aeccfbc997c56d876976",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13472$D85852CF-68F2-4171-A51D-14F4FD7424B8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takatsukasa Mototada Arms.svg"
+          },
+          "hash": "c97c6ed84089b8e74f73b950b667dbd810144d0f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés (1247–1313)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský dvořan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "court noble of the Kamakura period (1247-1313)"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique japonais"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代中期から後期の公卿・歌人。鷹司兼平の長男。従一位・関白、太政大臣。鷹司家2代。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans politicus (1247-1313)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński polityk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q13472",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Takatsukasa Mototada"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mototada Takacukasa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Takatsukasa Mototada"
+    },
+    "en": {
+      "language": "en",
+      "value": "Takatsukasa Mototada"
+    },
+    "es": {
+      "language": "es",
+      "value": "Takatsukasa Mototada"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Takatsukasa Mototada"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Takatsukasa Mototada"
+    },
+    "it": {
+      "language": "it",
+      "value": "Takatsukasa Mototada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鷹司基忠"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Takatsukasa Mototada"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Takatsukasa Mototada"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Takatsukasa Mototada"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Takatsukasa Mototada"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мототада Такацукаса"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "ATakatsukasa Mototada"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Takatsukasa Mototada"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Takatsukasa Mototada"
+    }
+  },
+  "lastrevid": 17414008,
+  "modified": "2025-09-16T00:03:38Z",
+  "ns": 860,
+  "pageid": 35790,
+  "sitelinks": {},
+  "title": "Item:Q13472",
+  "type": "item"
+}

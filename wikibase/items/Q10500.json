@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kanjo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q10500$D8F53E64-608B-4FAB-9355-D68947B60A70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10500$4A92B8D5-42B2-493E-ABFE-19F2E77B5A4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10500$53C769BC-27D9-433F-99B7-14DD32BF51A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10002",
+              "numeric-id": 10002
+            }
+          },
+          "hash": "ba0fbdd18b91ff91b2a99f61e451626957e3b1ad",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10500$F2475B16-85D7-4048-A896-8639C22D4E7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10500$8601396E-C5AA-4A9D-A5E7-47892E1C95D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1057-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8b1b6fda866bb34ea3fcd377f5dfd0acba25a27",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10500$209C0034-2B7E-4EE3-BFED-A8DFDD9D187E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1125-02-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9301ded2a28515e0ebc93847f0b1e928fc87fa6a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10500$5D01C66A-CA0E-4DD9-9B46-0472A850615C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11457465"
+          },
+          "hash": "6a6c13156ecb54b3b4409ab2ac21367f4a4b79c9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10500$52089EAF-8113-4E2B-89C8-AE4EE5D8C29D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kanjo Arms.svg"
+          },
+          "hash": "89a38686b95716a326651bc974a0a19578da6ca9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Buddhist monk from the late Heian period"
+    }
+  },
+  "id": "Q10500",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kanjo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "寛助"
+    }
+  },
+  "lastrevid": 17412320,
+  "modified": "2025-09-15T23:39:11Z",
+  "ns": 860,
+  "pageid": 32903,
+  "sitelinks": {},
+  "title": "Item:Q10500",
+  "type": "item"
+}

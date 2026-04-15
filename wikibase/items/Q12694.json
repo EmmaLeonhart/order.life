@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Toki Mitsuhira"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q12694$9DC0D504-C71F-4356-A043-CA207DD7397F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814511"
+          },
+          "hash": "cf53e73031e7f11d154129737e1f4ba6dee80be9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q12694$8739CA10-5543-4835-847C-636A2AB0572C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12137",
+              "numeric-id": 12137
+            }
+          },
+          "hash": "8cdfbec0c89bec79e27d4113de7f262ae851f382",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12694$1E828067-A3EE-4995-914B-3E4D2A12837A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12694$B92E68D3-4CF3-4AED-B3FA-43E06D7464E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12694$BB06DA57-5A12-492D-A765-DD96C8B3AA8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11880",
+              "numeric-id": 11880
+            }
+          },
+          "hash": "937379170f19033b0717929c5c1b64637fc7386b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12694$3B4286F9-9AD4-49FA-9B9E-E8EF2B645DEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12694$098C3F76-75EF-43FD-84DC-CD523390FA6A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1159-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "844af7067c6e7f1e02b99ceba9f1c951b0ee8888",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12694$18D8DB14-CEE8-43EA-8538-A613E2F45F6A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1206-05-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0337bce74bc3af665549f3095d3ae1fe33fe9657",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12694$6342280C-3096-4779-BE1E-291936ED17E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11423363"
+          },
+          "hash": "399da15f6b7d134fb56cd264ec4d9116adc1f412",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12694$3107A15F-446B-4D77-9160-FA7112886563",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Toki Mitsuhira Arms.svg"
+          },
+          "hash": "a10a7331316563e7854ee38c29ccb3745d6bb012",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "土岐氏初代"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q12694",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Micuhira Toki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Toki Mitsuhira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "土岐光衡"
+    }
+  },
+  "lastrevid": 17413650,
+  "modified": "2025-09-15T23:58:35Z",
+  "ns": 860,
+  "pageid": 35025,
+  "sitelinks": {},
+  "title": "Item:Q12694",
+  "type": "item"
+}

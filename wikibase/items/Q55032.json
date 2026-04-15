@@ -1,0 +1,347 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agnes of Savoy //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55032$1F939CD2-DB7D-493A-8A68-628813A30080",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00012452"
+          },
+          "hash": "d1517b22507a4c28b4c98b4349aa21c49633660f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q55032$EFD28552-D586-41E5-9D7D-6DA32661084E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "De_Savoie-59"
+          },
+          "hash": "eabbff568274b758988e0f9e792513c78a3d55af",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55032$2E0C8BE4-4CAE-4ABD-956E-5298A1B2DA06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55032$00441F42-4B13-4402-B3B4-CB2104766C19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55032$38388188-EAC5-4668-9250-550D50DD9A87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55020",
+              "numeric-id": 55020
+            }
+          },
+          "hash": "e1664b49a3d206957fa1668bc51123856f3189b0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55032$ACF52734-7999-4A5A-8ADE-1AB3DF2419E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55024",
+              "numeric-id": 55024
+            }
+          },
+          "hash": "6312a94ce627576309f3c2f6173bdf108bd289a0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55032$DFA3E5D4-DDCA-440E-8D08-F09D488550A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55032$93A3373A-7400-43C7-B203-14FD72E2ECED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1286-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bbcc2bca8d6fbe5bd570fcfaaf0ccb247149b678",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55032$30737567-DB45-4B4D-BA12-8A62750D8589",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1322-11-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f435848caca1398e8f0118749214503454cab085",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55032$0A272E5A-E1DA-47E3-B346-65852A5A1350",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2827034"
+          },
+          "hash": "6a4be9faaa75075dc187e6af292fcd73105ffdc3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55032$38B988E7-C716-4B40-AC08-E80A296F19B5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agnes of Savoy Arms.svg"
+          },
+          "hash": "a8b0e2a2e543ef2108f7124ece71640983e3555f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "aristócrata francesa (1286–1322)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "comtessa de Ginebra"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1286-1322)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "(1286-1322), comtesse de Genève"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Frans aristocrate (1286-1322)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "графиня Женевы"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1286-1322)"
+    }
+  },
+  "id": "Q55032",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Agnès de Savoia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Anežka Savojská"
+    },
+    "da": {
+      "language": "da",
+      "value": "Agnes af Savoyen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Agnès de Savoie"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγνή της Σαβοΐας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agnes of Savoy"
+    },
+    "es": {
+      "language": "es",
+      "value": "Inés de Savoya"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agnès de Savoie"
+    },
+    "he": {
+      "language": "he",
+      "value": "אגנזה מסבויה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Agnès de Savoie"
+    },
+    "it": {
+      "language": "it",
+      "value": "Agnes of Savoy"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agnes of Savoy"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Agnieszka Sabaudzka"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Inês de Saboia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Inês de Saboia"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Agnes of Savoy"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агнесса Савойская"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Agnès de Savoie"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Agnes of Savoy"
+    }
+  },
+  "lastrevid": 17462824,
+  "modified": "2025-09-16T13:01:16Z",
+  "ns": 860,
+  "pageid": 69863,
+  "sitelinks": {},
+  "title": "Item:Q55032",
+  "type": "item"
+}

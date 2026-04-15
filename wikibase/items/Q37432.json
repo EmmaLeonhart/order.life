@@ -1,0 +1,915 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jochi //"
+      },
+      {
+        "language": "en",
+        "value": "Jochi"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q37432$CF72C40C-83F2-496A-894C-7D9C201DE365",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "94919"
+          },
+          "hash": "10c5064c45efbd9725c2dac2234ba29658d4dd1f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q37432$653D71A4-A8B3-410F-9F0F-441656F738BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00293060"
+          },
+          "hash": "4310edba71436cab87c183249a9e228cdacfccb9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q37432$FA812BF3-0875-4478-A77D-1312F976B90E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38961",
+              "numeric-id": 38961
+            }
+          },
+          "hash": "8b13cbbc5b10eb3a62c0bd7a424c1e4f48bd3b76",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37432$1B934E5C-2F2F-4681-B044-A750CF95776F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38929",
+              "numeric-id": 38929
+            }
+          },
+          "hash": "cece8a281f49d85dbcde587c24422d465701f755",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37432$BC29F0CE-8BE3-493D-949A-9569CF3EB1FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38945",
+              "numeric-id": 38945
+            }
+          },
+          "hash": "fa9d0491bd187e2ef6186fc719b28fc07838c2f2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37432$4F3C5878-019E-4CB8-BF30-6924B737310C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38949",
+              "numeric-id": 38949
+            }
+          },
+          "hash": "b3755298ba23e4709403854e988cf4c452a4f1c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37432$8EB48FE3-9892-4857-A3C6-DA01CADCB335",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38941",
+              "numeric-id": 38941
+            }
+          },
+          "hash": "f4687d3f9bd81ffb32254db8c5a7108a8cbcd6da",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37432$332E1C18-6631-4D9C-A5C5-A3F6CA5E88A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38933",
+              "numeric-id": 38933
+            }
+          },
+          "hash": "0d6a703526d77eceeee13f215b9088654be715a8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37432$6F8DE8CF-272A-4BFC-AA5C-6E761BDF96EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38925",
+              "numeric-id": 38925
+            }
+          },
+          "hash": "f78096d4fe3c3bae9d755a537362276150c748c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37432$7A70261F-50BD-4443-8E31-80B0C55E5147",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38953",
+              "numeric-id": 38953
+            }
+          },
+          "hash": "145ab96fd87fcb5ae6b1234c11f9115f2c3bc685",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37432$C5BB937D-B345-4360-AD75-81A9826F547F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38957",
+              "numeric-id": 38957
+            }
+          },
+          "hash": "e5a56add5ebdff9b586af07dce6db0c1bff1f583",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37432$A2A2C4E6-3104-48EE-A76B-2E02A894AB84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38937",
+              "numeric-id": 38937
+            }
+          },
+          "hash": "2098f887831868d6934aff7fa0a4c3feaea6c0e9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q37432$1E484EA3-99D6-41CD-AF9E-37AE9FF63BCB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Temüjin-4"
+          },
+          "hash": "934d54c87ac378daae5fd45928761d0abf6483b1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37432$24479745-1219-4CF0-B774-74CAE7CB0C90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37432$758E8301-5F0D-42A5-B15B-02C1FDBA9D65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q37432$036D4899-E83B-41AF-BB19-B284D0745F8E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Jochi_of_Genghis_(1)"
+          },
+          "hash": "86918fa271ad1cf3f4c938338fa9290a4a6883e2",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q37432$B54609F1-F5D8-43DE-A473-4C7E11D0AD5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38921",
+              "numeric-id": 38921
+            }
+          },
+          "hash": "26942a838a405834bcd3dfd9d2d21d282fc8161a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37432$56123E90-B631-4994-891C-30FD23624406",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37401",
+              "numeric-id": 37401
+            }
+          },
+          "hash": "5ee0ea5b2bab69987977336bc19d26842ea54a53",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q37432$06FC1267-77CE-483E-91E4-47B2BAAC36F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37405",
+              "numeric-id": 37405
+            }
+          },
+          "hash": "2d7f3024d554281c9ee9a6e888c7f1d3a78f48c3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37432$A9C122CB-7C30-4FC1-AF2F-4354145C097C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37432$5DEB8D51-2AAB-4FD3-9CB4-0114F725D3F4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1182-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e48d8052ba8798a38eadbdf8e199cd989c230ea0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37432$D91A6426-6993-41C7-A43A-4FE110F852E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1227-02-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f378f73c9c0e1835829a4be95020fd981e5a150a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37432$35738C11-1CB0-414E-ACD9-F2338C76B27C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q186581"
+          },
+          "hash": "abd4dfac0eef68723174d3fad5973b8ca32fbab0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q37432$D3D07506-8A9F-4165-8DED-D0A91AB753FF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "375783977160004715"
+          },
+          "hash": "26febbaaf332922bec668b93104bb88228547f30",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37432$36FE2C77-6075-45CC-BB05-80F4BB0F32D0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jochi Arms.svg"
+          },
+          "hash": "d0a8e1a730b900552a865557d91781e135969196",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قائد عسكرى من امبراطوريه مجوليه"
+    },
+    "de": {
+      "language": "de",
+      "value": "ältester Sohn von Dschingis Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "military leader; eldest son of Genghis Khan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "plej aĝa filo de Ĝingis-ĥano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پسر ارشد چنگیزخان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "mongolijohtaja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "dirigeant militaire, fils ainé de Gengis Khan"
+    },
+    "he": {
+      "language": "he",
+      "value": "מצביא מונגולי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "mongol nagykán, Dzsingisz kán fia"
+    },
+    "it": {
+      "language": "it",
+      "value": "primogenito di Gengis Khan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "チンギス・カンの長男。ジョチ・ウルスの始祖。"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Шыңғыс ханның тұңғыш ұлы және әскери қолбасшы"
+    },
+    "la": {
+      "language": "la",
+      "value": "chanus Mongolorum"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "војсководец, најстар сан на Џингис-хан"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair leider uit Yuan-dynastie (1181-1227)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Старший сын Чингисхана и Бортэ, правитель улуса Джучи (Золотая Орда)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "војни командант, најстарији син Џингис Кана"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இராணுவத் தலைவர், செங்கிஸ்கானின் மூத்த மகன்"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Chingizxonning birinchi oʻgʻli, Joʻji ulusining asoschisi"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "con trai trưởng của Thành Cát Tư Hãn (k. 1182 – k. 1225)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "成吉思汗之子"
+    }
+  },
+  "id": "Q37432",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Jotsji"
+    },
+    "an": {
+      "language": "an",
+      "value": "Chochi"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "جوجي خان"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "جوجى خان"
+    },
+    "az": {
+      "language": "az",
+      "value": "Cuçi xan"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "جوجیخان"
+    },
+    "be": {
+      "language": "be",
+      "value": "Джучы"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Джучы"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Джучи"
+    },
+    "bxr": {
+      "language": "bxr",
+      "value": "Зүчи"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jotxi"
+    },
+    "crh": {
+      "language": "crh",
+      "value": "Cuçi"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Džuči"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jochi Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jochi"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ĝoĉi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jochi"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Jotxi"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "جوجی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jotši-kaani"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Djötchi"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Jochi"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Jochi"
+    },
+    "he": {
+      "language": "he",
+      "value": "צ'יוצ'י"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "जोची ख़ान"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Dzsocsi"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ջոչի խան"
+    },
+    "id": {
+      "language": "id",
+      "value": "Jochi"
+    },
+    "it": {
+      "language": "it",
+      "value": "Joci"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ジョチ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჯუჩი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Жошы хан"
+    },
+    "kk-arab": {
+      "language": "kk-arab",
+      "value": "جوشى حان"
+    },
+    "kk-cn": {
+      "language": "kk-cn",
+      "value": "جوشى حان"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Жошы хан"
+    },
+    "kk-kz": {
+      "language": "kk-kz",
+      "value": "Жошы хан"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Joşı xan"
+    },
+    "kk-tr": {
+      "language": "kk-tr",
+      "value": "Joşı xan"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "주치"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Жучу Хан"
+    },
+    "la": {
+      "language": "la",
+      "value": "Dschudschius"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Džuči"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "朮赤"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Џучи"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Зүчи"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "जोची"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Jochi"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "جوچی خون"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jochi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jochi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Dżoczi"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "جوجی خان"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jochi"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Jochi"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Jochi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Джучи"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Jochi"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Džoči"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jochi"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Жучи"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jochi"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "சோசி"
+    },
+    "tk": {
+      "language": "tk",
+      "value": "Juçi"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Jochi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Cuci"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Җучи"
+    },
+    "ug": {
+      "language": "ug",
+      "value": "جۇچى"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Джучі"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "جوجی خان"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Joʻjixon"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Truật Xích"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "术赤"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "朮赤"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "朮赤"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "朮赤"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "术赤"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "朮赤"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "朮赤"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "朮赤"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "朮赤"
+    }
+  },
+  "lastrevid": 17439848,
+  "modified": "2025-09-16T07:27:25Z",
+  "ns": 860,
+  "pageid": 55772,
+  "sitelinks": {},
+  "title": "Item:Q37432",
+  "type": "item"
+}

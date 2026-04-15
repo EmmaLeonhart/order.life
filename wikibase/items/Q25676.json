@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhuang Bo of Quwo //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q25676$0D213B20-F0CA-4F33-99BB-986A66EB432F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25794",
+              "numeric-id": 25794
+            }
+          },
+          "hash": "0acee3f1e353e6e1076fed852dacf5dc6adc6eea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25676$E11CD7DE-B0FC-42D3-8655-942478CF91F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25676$AAA78866-EE55-4C11-B60D-9993943FDB3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q25676$95574788-BED6-4A73-B304-D4BC15595057",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25594",
+              "numeric-id": 25594
+            }
+          },
+          "hash": "4bc04baccb6afedd5fb41544174c78b37719a694",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25676$CAC38C39-E6B0-4C16-8EAA-6F1C7E8A9124",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25676$538C3484-0076-4CA2-95A7-E7C5B6E6A59A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0716-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c94510cf6a22034e09ec114bb273244c0f52b250",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25676$47AD1D94-024A-4C70-93B6-C3277B3BD152",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2428339"
+          },
+          "hash": "f941f31bd272fef8007055f4ce5193f2444a6b21",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25676$3C1DFEA2-D462-4ADE-860A-67B27109496B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhuang Bo of Quwo Arms.svg"
+          },
+          "hash": "0a72c8d79fe10021d41de0126b1e7ba1143db58e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "8th-century BC ruler of the state of Quwo"
+    }
+  },
+  "id": "Q25676",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Zhuang Bo of Quwo"
+    },
+    "id": {
+      "language": "id",
+      "value": "Quwo Zhuang Bo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "荘伯"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "曲沃莊伯"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zhuang Bo of Quwo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чжуан-бо"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Khúc Ốc Trang Bá"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "曲沃莊伯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "曲沃庄伯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "曲沃莊伯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "曲沃莊伯"
+    }
+  },
+  "lastrevid": 17424558,
+  "modified": "2025-09-16T03:46:10Z",
+  "ns": 860,
+  "pageid": 47240,
+  "sitelinks": {},
+  "title": "Item:Q25676",
+  "type": "item"
+}

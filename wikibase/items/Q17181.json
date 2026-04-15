@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Yorikatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q17181$852D66ED-7E6D-4E39-9F51-8F4E169182F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-210"
+          },
+          "hash": "98ebdc432df2ca5e2d065be9c00cb69daf1c222b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q17181$9CACD5E2-6375-4CA2-9882-0060FEC44617",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17181$A0ED8022-394E-4C18-8401-46CECDFAB848",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17181$44ED68E0-92CF-4AC7-BAED-3726FB87C253",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16149",
+              "numeric-id": 16149
+            }
+          },
+          "hash": "aa71403ef3a20767c4a60eb76b485ca432aad127",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17181$B46BEC1A-DE78-42CA-816F-9E85F291961B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17181$2CCDB1A8-E662-4748-945F-1C00C9C81FF5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1668-05-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9d2b40a11e4a1c3f41b3454f6d00b020934b607d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17181$2B4FE1BC-134D-4EE5-A56F-ADAE34A6FE43",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1718-06-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8f47cedcef4af8c0cbcc0c3fda464f3b2ec3ca77",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17181$C403DF14-41D1-41C7-9BF5-6FF7A86F0FD0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11530664"
+          },
+          "hash": "261ba7e80715778ade1adc4e8282f62ad7c98de5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17181$38AF954E-E6B8-4D9C-8CA7-71DDD15A1F85",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Yorikatsu Arms.svg"
+          },
+          "hash": "11da239982f09b1e5197ce9839f95b3b20001b3c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the middle Edo period; son of the lord of Saijo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期～中期の武士"
+    }
+  },
+  "id": "Q17181",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Yorikatsu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Yorikatsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Yorikatsu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Yorikatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平頼雄"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "松平賴雄"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "松平賴雄 (西條藩嫡子)"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "松平賴雄"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "鬆平賴雄 (西條藩嫡子)"
+    }
+  },
+  "lastrevid": 17416724,
+  "modified": "2025-09-16T00:48:38Z",
+  "ns": 860,
+  "pageid": 39418,
+  "sitelinks": {},
+  "title": "Item:Q17181",
+  "type": "item"
+}

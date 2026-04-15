@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Umedo Takazane"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q17833$1FECAB8F-8905-4A9E-8144-B485345FC7A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17833$E7994F04-3354-4C14-8250-8D10ED2DE090",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17833$7D20FD17-5898-4CBB-BAFF-AC177066DEB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16557",
+              "numeric-id": 16557
+            }
+          },
+          "hash": "5e3a5dd3c37e49b7cd76182a631b7449b023dd59",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17833$DF9934A6-AC84-4780-83C0-A8DA2B0F7C99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17833$ED0A791B-1F20-4438-ACD7-8A271B7D245E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1502-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8ea8166fe41a5f377d3afbdef59ac875e4f904aa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17833$ED4B0A6D-E60D-4002-9526-C1DB76136734",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1561-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d82d1a268a130448e2a7390a5cb268e7f0a77214",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17833$DD1454E5-723C-46E1-AE76-D14E8C359654",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11538478"
+          },
+          "hash": "ce5717f07d7c62e436e67db186de34b066466edb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17833$5B1AAC61-D8C9-48A9-8412-7CFE7A2F23A4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Umedo Takazane Arms.svg"
+          },
+          "hash": "26b34636e5d1e7d0e01577ad51a7988d03a93d2d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q17833",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Umedo Takazane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "梅戸高実"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Такадзанэ Умэдо"
+    }
+  },
+  "lastrevid": 17417322,
+  "modified": "2025-09-16T01:01:49Z",
+  "ns": 860,
+  "pageid": 40042,
+  "sitelinks": {},
+  "title": "Item:Q17833",
+  "type": "item"
+}

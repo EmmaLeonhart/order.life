@@ -1,0 +1,417 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Nakahira"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q8744$3944623B-9F45-42B6-9782-A717775440BB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "810160"
+          },
+          "hash": "73613b69c9b6abd3b21532ce35bf36290861693d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q8744$17A44E04-11AB-4991-A76E-6882039BE41C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9068",
+              "numeric-id": 9068
+            }
+          },
+          "hash": "01194cbd358ed97e0d2ff9ec55218279653311fb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8744$46E9E127-7508-431C-8009-AB3FEDB64679",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8744$F0543C22-F60D-47DA-B55A-4C2F73E1B1E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8744$ABBCFF6D-61FF-4BC2-A2DB-F886B217A2C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8455",
+              "numeric-id": 8455
+            }
+          },
+          "hash": "bd3a30b4ae1ae2fd91ed9bad0a9ddc6ec233d840",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8744$41F6836E-5672-40A9-965C-1061D48C429E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8744$4680A516-1A2F-45AA-84ED-7EF25E9002DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0875-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a97143ea4426eb8e75800882000e34c801ba05b8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8744$97BCEBC3-4ABF-4C06-9BBA-C69237F2CE5F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0945-10-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7668a7199ac5e164ea2a8777869c7e6ca9e0d5aa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8744$C78B4560-09C6-4C0E-A4DE-EA1AD077F242",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3090646"
+          },
+          "hash": "556850d4a7d578276d5ae9ba23861866fee69ad1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský politik"
+    },
+    "da": {
+      "language": "da",
+      "value": "japansk politiker"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Politiker und Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese politician"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese politician"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani poliitik"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnalité politique japonaise"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "polaiteoir Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "פוליטיקאי יפני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "japanski političar"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "ճապոնացի քաղաքական գործիչ"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "875-945, 平安時代前期～中期の公卿、歌人。藤原基経の二男。官位は正二位・左大臣。枇杷左大臣と呼ばれる。勅撰集『古今和歌集』以下に9首入集"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (-945)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "japansk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński polityk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "politician japonez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский политик"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan japonez"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk politiker"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon siyasetçi (875 – 945)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський політик"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "chính trị gia Nhật Bản"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本政治人物"
+    }
+  },
+  "id": "Q8744",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Nakahira"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fudžiwara no Nakahira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Nakahira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Nakahira"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Nakahira"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Nakahira"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Fujiwara no Nakahira"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fujiwara no Nakahira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原仲平"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Nakahira"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Fujiwara no Nakahira"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fujiwara no Nakahira"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fujiwara no Nakahira"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Накахира"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "AFujiwara no Nakahira"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Fujiwara no Nakahira"
+    }
+  },
+  "lastrevid": 17409512,
+  "modified": "2025-09-15T23:00:50Z",
+  "ns": 860,
+  "pageid": 31229,
+  "sitelinks": {},
+  "title": "Item:Q8744",
+  "type": "item"
+}

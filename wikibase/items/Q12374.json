@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Taira no Arimori"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q12374$BD4CD227-A280-4250-937C-B6C3780BAA48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12374$F3C07EDC-4631-4610-BDCB-6047AD61B284",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q12374$A82E66B7-CC4C-4C0D-B923-DFC0E7E8F89C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12268",
+              "numeric-id": 12268
+            }
+          },
+          "hash": "2e9cc1dea174b62e403eeeeb61166d3ddc9314b7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12374$A32F4E33-4635-461F-80D6-56FE5A5C887D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12374$537C00BE-0136-4086-9D66-EAEC10C8F532",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1164-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ae348bf49ef735e03522cc4aa7b36e87fa2a1180",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12374$8A394EB7-CC2B-41EF-8363-5E555F2F5EE4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1185-04-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f6b26779af7dea2a3afa924bdce61624ed97a2f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12374$06C481F6-8997-4C3A-842A-F3005B473E49",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11483029"
+          },
+          "hash": "7c7ad986ba433e26d0dfa7067d260edaf23fe48d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12374$A18435CB-E696-48CF-8133-EA35B6A09F37",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Taira no Arimori Arms.svg"
+          },
+          "hash": "19d88650790aca5112ef8c56891dce003db3a4b3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q12374",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Taira no Arimori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平有盛"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "平有盛"
+    }
+  },
+  "lastrevid": 17413450,
+  "modified": "2025-09-15T23:55:46Z",
+  "ns": 860,
+  "pageid": 34710,
+  "sitelinks": {},
+  "title": "Item:Q12374",
+  "type": "item"
+}

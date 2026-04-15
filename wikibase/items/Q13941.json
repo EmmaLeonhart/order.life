@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lord Horim"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13941$41F3B9FA-BFDE-428F-928D-AC518572494A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13941$08AB30A3-B02D-45A5-8A43-403FA4B375FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13941$3DA2E011-FA46-4052-9E34-8297D7A1666E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13928",
+              "numeric-id": 13928
+            }
+          },
+          "hash": "b4f1053f69f0ff38cf720d631e59cc240e17f0c1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q13941$783083CC-8231-4D11-83B8-C91F5090C1CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13342",
+              "numeric-id": 13342
+            }
+          },
+          "hash": "bf3be6008d1c38ba6ac0bbb03e7dee0b4e9c89d0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13941$1615690B-5215-401C-BBFF-2F6C6A81BFE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13941$19CC023B-E3FA-4C82-AFBF-4AEB778865D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0579-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1d8196235afe6c0306162eca0ddcc0f566f5c6ab",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13941$10F975EF-ADAF-4BB3-8891-92B9468822E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12625234"
+          },
+          "hash": "a71d9b9583887c2c3dc0eb0a7e68274348f8691b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13941$1D39F6FC-ECC8-4A31-AD14-8CCBE8A861CB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lord Horim Arms.svg"
+          },
+          "hash": "367dec0d2f53cb229b6ab2c4c433efab198633b3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "新羅の人物、第14代風月主"
+    }
+  },
+  "id": "Q13941",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Lord Horim"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "虎林公"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "호림"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "虎林"
+    }
+  },
+  "lastrevid": 17414224,
+  "modified": "2025-09-16T00:06:37Z",
+  "ns": 860,
+  "pageid": 36251,
+  "sitelinks": {},
+  "title": "Item:Q13941",
+  "type": "item"
+}

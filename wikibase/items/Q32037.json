@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yi Deung //"
+      },
+      {
+        "language": "en",
+        "value": "Yi Deung"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32037$55BA382F-66C1-4290-8D94-798630DE4D06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32037$6B4930D4-AADC-4333-BD68-C6C983569032",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q32037$F61D1BCB-7ECE-4B69-9D4C-07370DC40516",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31153",
+              "numeric-id": 31153
+            }
+          },
+          "hash": "c6996329931f608037f5b1c797d5902e4877e3a1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32037$2CDFD51D-FD59-43A8-AD0A-75BE5955566B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32037$419FBC29-8336-4536-AE8D-40572D810D66",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1379-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2fe1ccfcbc267a1457775f1dda9eded3d3804df9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32037$E53DF8B8-6465-4373-AA42-ACBDF1B1BDAD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1457-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f2d85d43e50a7987bd12b673580c88dfe2f5dbc6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32037$8DA4C623-C5F8-4C30-9E3E-C0AF6ABA4AE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18684956"
+          },
+          "hash": "1c2a00977aa1d532bf7eaf7a108ed7bd34883320",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32037$D369AAE5-0C10-4E90-88EB-714AC4D06A54",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yi Deung Arms.svg"
+          },
+          "hash": "7d19a10477827aca54fe01de74359837d41db6b6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Joseon royalty (1379 - 1457)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선의 관리"
+    }
+  },
+  "id": "Q32037",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yi Deung"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이등"
+    }
+  },
+  "lastrevid": 17432176,
+  "modified": "2025-09-16T05:35:36Z",
+  "ns": 860,
+  "pageid": 51740,
+  "sitelinks": {},
+  "title": "Item:Q32037",
+  "type": "item"
+}

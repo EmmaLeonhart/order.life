@@ -1,0 +1,207 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Gui Sheng  //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q31936$C6875150-5EE5-4E8A-9D2B-B8B4B34D70F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31936$5C6F2686-ECED-457C-AF6C-0DCD635E193E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q31936$CC980185-998F-44F4-914C-996C4C07E14B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31125",
+              "numeric-id": 31125
+            }
+          },
+          "hash": "a7f9facf835db4810dfd08b6a0d69014c9af01c4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q31936$FFB343E8-C00F-42FF-B51A-2E4F4132B8FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q31936$55D06B7B-890C-4E19-B112-BF3573919C12",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1393-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6c1a6c6e488728444dd38af11e67c47c1524ea18",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q31936$94AF9AD4-ECBD-40F7-9DD1-56589272D862",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1451-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "298338ecdbaa243333628f0b0c170dc6b3123b3e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q31936$12BCB321-84F8-4E30-8B19-B0513848EAAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16184707"
+          },
+          "hash": "1823c8c50824908cfac7910663d9fec1f1a28cef",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q31936$CA8D626D-9BC1-4169-B784-7A17F54F1D5B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "jongyigun Arms.svg"
+          },
+          "hash": "baace3f902e4888182ddb898c0f1de8e6de0573c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q31936",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "jongyigun"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "李貴生"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "종의군"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "종의군"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "從義君"
+    }
+  },
+  "lastrevid": 17432058,
+  "modified": "2025-09-16T05:33:49Z",
+  "ns": 860,
+  "pageid": 51665,
+  "sitelinks": {},
+  "title": "Item:Q31936",
+  "type": "item"
+}

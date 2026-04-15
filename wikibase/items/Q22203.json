@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rokkaku Hirotoyo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q22203$298C17D3-1E88-4F4F-B679-668F637C0F8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22203$0615D276-2EF6-40BE-9CE7-CEE71DA7D7EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22203$DC53358C-9CF9-4C53-BAB3-1DD09A6F5F2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20255",
+              "numeric-id": 20255
+            }
+          },
+          "hash": "618f0910d064ec416a0560a843a0259f1563c113",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22203$20788ADD-0558-4E5E-A670-FC3489D9BE71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22203$D9F5A8F4-F9FB-4A80-B0D5-7DA9DE3AFE6F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1682-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3e435df61dd2a80584da24a6e8e264dd3b7860b2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22203$A9781D14-3499-402A-85B4-538272B29859",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1748-04-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "706a2ebe161221548e71fc235a6673e6697b722b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22203$9FCA7C37-AD6B-4AAB-A883-D4C7BBC346DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11392533"
+          },
+          "hash": "4a4209edc372ac9a0b71b078fec2c2e79200647d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22203$22D33AF8-5982-4574-9561-8F3D353DF204",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rokkaku Hirotoyo Arms.svg"
+          },
+          "hash": "3eb0dc8236364e7d90cbe48b315611b4afccd0ac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代中期の武士。江戸幕府旗本六角広治長男で、高家旗本六角氏3代当主"
+    }
+  },
+  "id": "Q22203",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rokkaku Hirotoyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "六角広豊"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хиротоё Роккаку"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Rokkaku Hirotoyo"
+    }
+  },
+  "lastrevid": 17421148,
+  "modified": "2025-09-16T02:37:27Z",
+  "ns": 860,
+  "pageid": 44204,
+  "sitelinks": {},
+  "title": "Item:Q22203",
+  "type": "item"
+}

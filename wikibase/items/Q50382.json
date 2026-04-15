@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ogasawara Tadaakira"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q50382$E9E332AC-29B3-43C3-9652-89357115A380",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57851",
+              "numeric-id": 57851
+            }
+          },
+          "hash": "46189507cd00ca323a690465c6809ce9ee631472",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q50382$1A562DD5-15B4-418F-991B-88228DD2718A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "小笠原-97"
+          },
+          "hash": "cf970ce58d0e8f2fbca7effb22e23213fbb94d1f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50382$2226D47A-6DF1-42E3-9012-113F8A9FCA2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50382$9AC3EA84-D53C-448C-8CA3-B5C181057BF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50382$427A3731-9CC9-41D6-A146-3FCBEE44EEBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24706",
+              "numeric-id": 24706
+            }
+          },
+          "hash": "abb3fa5f291a853e39fed13cf5d025cb73b7940d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50382$2493869F-092D-4E9A-ADF2-AED35AA33075",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50382$09BD8AE0-9542-43BC-9787-DE459C7858E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1808-11-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "15050d7d2b137939ca02842fe649d44ea4945595",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50382$CB5CA21D-30DC-4D0C-8196-2041E34CC42C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1856-06-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a254919a7635458324193533a62586dfc7ec7d4e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50382$96652C33-FD6E-499A-BC96-B9340FDE6D6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10856538"
+          },
+          "hash": "8070e70bd9cdfb3a098548623db881a508a87d71",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50382$A59C4AC2-E112-4FAD-BE69-02FEDF5CF710",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ogasawara Tadaakira Arms.svg"
+          },
+          "hash": "9fcdbeab8913ba593d2e5af5999493bc9f0a069e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "29 Nov 1808 - 14 Jun 1856"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代後期の大名。豊前小倉藩7代藩主。従四位下・左京大夫、侍従。府中小笠原氏26代。小笠原家宗家8代。小笠原忠固の次男。"
+    }
+  },
+  "id": "Q50382",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ogasawara Tadaakira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ogasawara Tadaakira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ogasawara Tadaakira"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ogasawara Tadaakira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小笠原忠徴"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тадаакира Огасавара"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小笠原忠徵"
+    }
+  },
+  "lastrevid": 17456574,
+  "modified": "2025-09-16T11:28:54Z",
+  "ns": 860,
+  "pageid": 65452,
+  "sitelinks": {},
+  "title": "Item:Q50382",
+  "type": "item"
+}

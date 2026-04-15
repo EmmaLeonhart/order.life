@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Taira no Tomomune"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q12383$00751986-ABED-4485-892F-7F2E8B82EF42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12383$BB5243EB-D6B3-4D6A-88EC-4C6E8B907AF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12383$AFA523E3-1631-446A-9F40-1E72E24AC804",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11551",
+              "numeric-id": 11551
+            }
+          },
+          "hash": "1705e07d8093adbc7b20768b2bd08fac32dc59ef",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12383$1A6E9753-29BF-4088-A8C6-D215DA63B8AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12383$4624E9E0-E5EF-4A1E-AC14-96C51BCF4809",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1184-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2d8902f6d5ea4590c5b1f9083023f39251dad945",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12383$ABC3B9B6-8E3F-4AEC-B1D8-C0FBA0D725F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1255-08-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "900d4a84e3f8e5570e73964928da64cbdf8215d8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12383$9FDA21AC-9808-405C-A982-E1B0FC04E296",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11483434"
+          },
+          "hash": "512d84291bcbd47f339064075547b80756fd96a3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12383$3AE555A3-F60F-42BC-94CD-6C04500D885D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Taira no Tomomune Arms.svg"
+          },
+          "hash": "b175db51b0f63cbece430712e65ad500c67c4a6d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    }
+  },
+  "id": "Q12383",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Tomomune Taira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Taira no Tomomune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平知宗"
+    }
+  },
+  "lastrevid": 17413458,
+  "modified": "2025-09-15T23:55:53Z",
+  "ns": 860,
+  "pageid": 34719,
+  "sitelinks": {},
+  "title": "Item:Q12383",
+  "type": "item"
+}

@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Narifusa"
+      }
+    ]
+  },
+  "claims": {
+    "P3": [
+      {
+        "id": "Q9906$301A66D6-EFD6-4F2A-BA44-EA8002E9DFE8",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Fujiwara no Narifusa"
+            }
+          },
+          "hash": "417ccfb669fe6f3a0232bfeeb6bc408812ba1a22",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9906$D5056F06-3D4C-4F72-A5A0-7C34175BAA09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9906$83672E6A-FF2B-4173-8A96-8808138BF4CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9906$47B3F6F9-A4B5-443D-A67B-626BF6A57DBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9447",
+              "numeric-id": 9447
+            }
+          },
+          "hash": "6f26da21656edcee8b0caba482ce992b2be69cfe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q9906$B02AD51A-6ACD-4556-8EB3-2209734B5FA9",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Fujiwara no Narifusa"
+            }
+          },
+          "hash": "5e53e6bca86d40941ff774bbc85c12355cc268b0",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9906$13579EFC-A1F5-42B9-9F76-8AF7E3BE3794",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9906$C1967FC0-C603-47A9-B8C1-B82056A44A72",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0982-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "52780aea1406267da904c4384309828117f9cee4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9906$4FD2A9BA-E060-42E2-AB25-33C1F77D7D1E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22127455"
+          },
+          "hash": "985fee04707b54143de5f448d7f408f8bbe81d2b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese aristocrat of the mid-Heian period"
+    }
+  },
+  "id": "Q9906",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Narifusa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原成房"
+    }
+  },
+  "lastrevid": 17411820,
+  "modified": "2025-09-15T23:32:07Z",
+  "ns": 860,
+  "pageid": 32334,
+  "sitelinks": {},
+  "title": "Item:Q9906",
+  "type": "item"
+}

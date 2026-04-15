@@ -1,0 +1,303 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Niwata Asako"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q18926$4714341F-3273-4B6C-8EC7-43CCECD09637",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523426"
+          },
+          "hash": "fc18ce2f7fe3aa07de212dd7520cc0017c8c45ac",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q18926$52C295B3-47CA-43F5-85C7-BCD425A7E291",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18928",
+              "numeric-id": 18928
+            }
+          },
+          "hash": "44150b9e90e7ee63777ab4e490991d8bd954b3a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18926$768B304B-BEBB-4C96-817E-9915F9006AA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18926$9E0DA589-27DB-4419-8749-E1929112B0F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q18926$52EFC27B-84EC-48C3-BA62-F00C8EA372DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17387",
+              "numeric-id": 17387
+            }
+          },
+          "hash": "3b3ea00c5082b9fe11a30ce95e0cc1e7543f404f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18926$E0F86154-A7B2-47AD-A5D5-DC6AAF610A31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31276",
+              "numeric-id": 31276
+            }
+          },
+          "hash": "591f3c09c343717c1bef883b01d44e7f2c07dd98",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18926$149CEADB-3595-4EAA-ADD5-40C38A03E60E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18926$FE86C96B-BEA0-42F9-9460-CA0414D4CCB4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1437-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dad3638da7fae29cb4f949dc9e1b0f30f0ccd9bc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18926$0D47C195-78F9-410A-9A45-55B73861FF52",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1492-08-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cee3ddb1fbb267f10ae3ad001d7f235724e208c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18926$E042BA7C-246F-4EE3-8ABF-CB26EC459B0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11486210"
+          },
+          "hash": "31a841ed920a734cae6613e1927619537ab8677d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18926$24E88EB1-36D2-4D02-93C3-7639788546C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Niwata Asako Arms.svg"
+          },
+          "hash": "1ff2ba1baa9bde11051b79bb0e2a3461baec757b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "court lady of Japanese emperor Go-Tsuchimikado and mother of Emperor Go-Kashibawara"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "後土御門天皇の大典侍、准三宮、贈皇太后宮。子に尊伝入道親王（1472-1504.2.12、次男、尊敦親王、青蓮院、不遠院、早世、尊伝法親王）、真智（1475、即日没）"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "фрейлина императора Го-Цутимикадо"
+    },
+    "th": {
+      "language": "th",
+      "value": "นางกำนัลและพระสนมในจักรพรรดิโกะ-สึชิมิกะโดะและพระราชมารดาในจักรพรรดิโกะ-คะชิวะบะระ"
+    }
+  },
+  "id": "Q18926",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Νιβάτα Ασάκο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Niwata Asako"
+    },
+    "es": {
+      "language": "es",
+      "value": "Niwata Asako"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Niwata (Fujiwara) Asako"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "庭田朝子"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нивата Асако"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Niwata Asako"
+    },
+    "th": {
+      "language": "th",
+      "value": "นิวะตะ อะซะโกะ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Niwata Asako"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "庭田朝子"
+    }
+  },
+  "lastrevid": 17418248,
+  "modified": "2025-09-16T01:26:18Z",
+  "ns": 860,
+  "pageid": 41092,
+  "sitelinks": {},
+  "title": "Item:Q18926",
+  "type": "item"
+}

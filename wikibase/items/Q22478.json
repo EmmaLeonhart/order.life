@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Makino Narisada"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q22478$C01B68FC-B4EA-4C6A-81CE-AA243F6DB631",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20521",
+              "numeric-id": 20521
+            }
+          },
+          "hash": "ace26f0c98e770eddb34ca93d4d2ae1d5fbbc084",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22478$68872903-5895-4E2C-A498-0CF868F5C188",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22478$EF307981-B3BD-49F4-85A2-F987B5B82A6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22478$90889601-CF3F-4F63-BCC0-A932195F45F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22478$0C952349-4226-4EE2-ACFF-3CB7392047EB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1525-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "575728987eb2957c78ca14e67d1527f565f54af4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22478$FAEB49BC-A495-4093-AC46-FEF5ED7D718A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1566-12-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6dedf3eb5708b5d5cb0b8f58260c56866183291f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22478$D46F61BC-8E95-4A75-89B6-C5623C4AFFA6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10860112"
+          },
+          "hash": "ad3f9371a29ed6c00bb8f059b8b6c08ca0aad258",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22478$C67BB5F2-E18A-4D39-BB10-299A76CBD08C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Makino Narisada Arms.svg"
+          },
+          "hash": "96f19db87488c5bb8f106a96fd282aba41b2d0ba",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将 (1525-1566)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q22478",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Makino Narisada"
+    },
+    "de": {
+      "language": "de",
+      "value": "Makino Narisada"
+    },
+    "en": {
+      "language": "en",
+      "value": "Makino Narisada"
+    },
+    "es": {
+      "language": "es",
+      "value": "Makino Narisada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "牧野成定"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Makino Narisada"
+    }
+  },
+  "lastrevid": 17421370,
+  "modified": "2025-09-16T02:43:17Z",
+  "ns": 860,
+  "pageid": 44464,
+  "sitelinks": {},
+  "title": "Item:Q22478",
+  "type": "item"
+}

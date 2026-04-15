@@ -1,0 +1,88 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "斉慶"
+      },
+      {
+        "language": "en",
+        "value": "Qi Qing"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q9587$CC095350-6FF1-45FB-B94C-7BCF5BFC010B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9587$558BB14D-B84A-41C5-91D3-0EA6212D099D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q9587$B0397C80-FA25-4D94-81EA-8096DD2476CA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Qi Qing Arms.svg"
+          },
+          "hash": "48d3ef02ed8a03f4e55e8392537b4068b99777fd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q9587",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Qi Qing"
+    }
+  },
+  "lastrevid": 17411222,
+  "modified": "2025-09-15T23:23:20Z",
+  "ns": 860,
+  "pageid": 32032,
+  "sitelinks": {},
+  "title": "Item:Q9587",
+  "type": "item"
+}

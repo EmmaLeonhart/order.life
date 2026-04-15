@@ -1,0 +1,634 @@
+{
+  "aliases": {
+    "azb": [
+      {
+        "language": "azb",
+        "value": "هیقاشی‌یاما"
+      }
+    ],
+    "fa": [
+      {
+        "language": "fa",
+        "value": "امپراتور هیگاشی‌یاما"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15691$B1555E23-6235-4394-855D-35984FDD9C68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15237",
+              "numeric-id": 15237
+            }
+          },
+          "hash": "a5f107559f4c7de49daebab4294bc310d008db14",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15691$D16443FB-7767-4F84-99AA-3DCDC4F432B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41273",
+              "numeric-id": 41273
+            }
+          },
+          "hash": "ce5047248c4afc3dfe0c4e7db3dd7d5093ba5a30",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15691$B7976F26-4F91-48ED-92FA-8496C6C565CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41336",
+              "numeric-id": 41336
+            }
+          },
+          "hash": "34c01def081dc38439b07ca5f83683746bae859a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15691$CE7E328D-F282-49C0-BBE8-5F228E59EF69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46672",
+              "numeric-id": 46672
+            }
+          },
+          "hash": "f9235f7e3601c5a4c35e6b3fcf0bbe4fcb008a60",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15691$3BA0996C-8C65-4574-A6E2-24123FB6E76B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15691$41C5A812-BBAD-4147-8A96-7744BD1AAA48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15691$93A443DF-BAC3-439A-B325-A6B1F771A5CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43622",
+              "numeric-id": 43622
+            }
+          },
+          "hash": "d408130fe4898ef7ea0e62d504e794675c715268",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15691$0283F5BB-C2F4-4090-A694-710E5019B163",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43739",
+              "numeric-id": 43739
+            }
+          },
+          "hash": "20bb441ceee27d1575f73b0ca6de5021defb7bf5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15691$B5A18F3E-A24C-4C8F-AFA1-5CC997EC7B72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46668",
+              "numeric-id": 46668
+            }
+          },
+          "hash": "9acd35eefeb4f7c8dd1588b45f788c5519aa6daa",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15691$5FBE814D-E7F5-41A3-A9CF-1D4A7525ED66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16401",
+              "numeric-id": 16401
+            }
+          },
+          "hash": "5b941cdae715a1d96eb52fe4e45d8333d0c26679",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q15691$58ED008A-2D36-4B96-878E-083BF040EFEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46636",
+              "numeric-id": 46636
+            }
+          },
+          "hash": "64500067e77bf56522a367fa41decb83dfa5fc7c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15691$A5C91B30-4DFF-4CD7-A591-E9E38AE1F3D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15691$9D2C652C-6A50-4E82-8CF3-FC4D2D764376",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1675-10-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ad5384931ccf5831735236fad1384f23ca16351",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15691$58E55F69-DBF8-479B-9B63-5663FE8DD52D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1710-01-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "23a2e523ac89b98036d89f8625dcc0a7e730a245",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15691$72CCBB68-D0EF-42CA-9D18-A18634E9E3DA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Higashiyama.jpg"
+          },
+          "hash": "e7ce30b57b7cd14ce00ff82fdb0bd0a736337877",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15691$C565A8FC-BFEA-4143-B581-A923DDF2A96B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313801"
+          },
+          "hash": "b3cf6ce68772a17158674936418864af2532918d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q15691$A2FD2180-4D52-4D0B-85F7-B1ACB830C099",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011627101338"
+          },
+          "hash": "cc1a1e7341f2001a3f4f03f49b7788c4a9bd3891",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15691$C11B50CA-31AC-4969-BACE-B9B8E706F143",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Higashiyama Arms.svg"
+          },
+          "hash": "64388a5f30231d40dfd401bb2ea5608c4d7ea733",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu xaponés (1675–1710)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "113è emperador del Japó, segons l'ordre tradicional de successió"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "113. Tennō von Japan"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιάπωνας αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of Japan (1675-1710)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Japanin keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon de 1687 à 1709"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の113代天皇。霊元天皇の四男"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Tokugawa-shogunaat (1675-1710)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "113. cesar Japonske (1675–1710)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本第113代天皇"
+    }
+  },
+  "id": "Q15691",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور هيغاشي-ياما"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور هيجاشي ياما"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "هیقاشییاما"
+    },
+    "be": {
+      "language": "be",
+      "value": "Імператар Хігасіяма"
+    },
+    "br": {
+      "language": "br",
+      "value": "Higashiyama"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Higashiyama Tennō"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر ھیگاشیاما"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Higašijama"
+    },
+    "de": {
+      "language": "de",
+      "value": "Higashiyama"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αυτοκράτορας Χιγκασιγιάμα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Higashiyama"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Higashiyama"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور هیگاشییاما"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Higashiyama"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Higashiyama"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "हिगाशियामा"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Higashiyama"
+    },
+    "it": {
+      "language": "it",
+      "value": "Higashiyama"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "東山天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "히가시야마 천황"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Imperatorius Higašijama"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "हिगाशीयामा"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Higasiyama Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Higashiyama"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Higashiyama"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Higashiyama"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Higashiyama"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Împăratul Higashiyama"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Хигасияма"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Higašijama"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Higashiyama"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Higashiyama"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิฮิงะชิยะมะ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Higashiyama"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Higashiyama"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Хіґасіяма"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Higashiyama"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Higashiyama"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "東山天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "東山天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "东山天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "东山天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "東山天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "東山天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "东山天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "東山天皇"
+    }
+  },
+  "lastrevid": 17415352,
+  "modified": "2025-09-16T00:22:07Z",
+  "ns": 860,
+  "pageid": 37975,
+  "sitelinks": {},
+  "title": "Item:Q15691",
+  "type": "item"
+}

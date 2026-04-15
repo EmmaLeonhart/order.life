@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Queen Jiang //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q25600$942D6830-EBD2-42B8-BAA8-3550EF6894A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25602",
+              "numeric-id": 25602
+            }
+          },
+          "hash": "88ee8e875ff677d0a0678cb8fbee6f990eb4e380",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25600$640760B9-7A29-45A9-BF59-F6CD8414F7FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25600$02A72443-A4C8-4E14-A001-CDDC31BFF180",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q25600$1F37EAFB-54FC-42C0-BA0C-31E9F28F7ACD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25548",
+              "numeric-id": 25548
+            }
+          },
+          "hash": "695ffc17c48e96c96563b06289b47c5248452719",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25600$FE74B935-226A-4401-97C4-851FD2754556",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q25600$01F7C8AA-0168-4329-B7CF-DE7C6E697E25",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22704ee4efe0ee654eac343970919d68633e5816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25600$2DE53044-C4C8-40A0-8B31-AB7AD49E5242",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10089045"
+          },
+          "hash": "443376b8c732b4a963642b1aa25025dd4c78082b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25600$BB68CFFB-B951-4206-98BB-AEEEF1D63A2F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Queen Jiang Arms.svg"
+          },
+          "hash": "0f19a8c3b485c2cfdaa63903c46fca7f59bbf49a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "reina de Xina de la dinastia Zhou, esposa de Xuan de Zhou"
+    },
+    "en": {
+      "language": "en",
+      "value": "spouse of King Xuan of Zhou"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周宣王的王后"
+    }
+  },
+  "id": "Q25600",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Jiang"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "شاژن جیانگ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen Jiang"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina Jiang"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine Jiang"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Qi Jiang (drottning)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "姜后"
+    }
+  },
+  "lastrevid": 17424476,
+  "modified": "2025-09-16T03:45:04Z",
+  "ns": 860,
+  "pageid": 47199,
+  "sitelinks": {},
+  "title": "Item:Q25600",
+  "type": "item"
+}

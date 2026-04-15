@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yamana Ujiyuki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q14900$3A4471B4-40B7-468F-9806-9A6DB16F6CC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15297",
+              "numeric-id": 15297
+            }
+          },
+          "hash": "052d3a78aed046d58059608d6f6177e6042e793c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14900$2A810508-6106-4C38-81E8-FD65B77ABA9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14900$588E2811-533C-4619-97A5-AAF4F52304E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14900$B2234110-DD06-4FAD-BF9C-5FF673D8E061",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14497",
+              "numeric-id": 14497
+            }
+          },
+          "hash": "2e92a2f29ff39a9641e98531d507f4eb3c47c026",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14900$8B075887-5E23-41A8-B055-567996997800",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14900$920A6B2F-6A2C-4040-B969-146EFAE79A24",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c8a4293a484263d2ef8b022dff6edb9204445eb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14900$A8C59EBC-D748-4DE0-A627-98ADC3C7930D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11467596"
+          },
+          "hash": "3c25da91a6dbc8504446b1b81fd1f2aaf0776e53",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14900$27FA60BA-87C2-4F1E-B8CD-01850BE29D7D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yamana Ujiyuki Arms.svg"
+          },
+          "hash": "37e2443d19f381ba553cfaf9e746508654076611",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "南北朝時代から室町時代の武将、守護大名。伯耆守護。"
+    }
+  },
+  "id": "Q14900",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Udžijuki Jamana"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yamana Ujiyuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "山名氏之"
+    }
+  },
+  "lastrevid": 17414792,
+  "modified": "2025-09-16T00:14:19Z",
+  "ns": 860,
+  "pageid": 37195,
+  "sitelinks": {},
+  "title": "Item:Q14900",
+  "type": "item"
+}

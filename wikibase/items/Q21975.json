@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "多久茂矩"
+      },
+      {
+        "language": "en",
+        "value": "Duo Jiu Mao Ju"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q37771$B28290D7-73C3-41EC-B228-7FB67228C053",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37771$B13B3E9E-EC63-4477-AD35-099176B37C74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37771$2114AABA-A85C-43B9-BDC9-CBD384170CEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37767",
+              "numeric-id": 37767
+            }
+          },
+          "hash": "79fd8f2eaf266f12d1144565b7c911601abd95a9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q37771$EA1A8FAE-5B33-4238-9E7E-B5D55C985B5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33569",
+              "numeric-id": 33569
+            }
+          },
+          "hash": "154f7c4d79b619fbd4caa4c78d742b76ccdf1d61",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37771$B844FF2B-488C-413E-AF62-5475B32A4EE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37771$5CBED262-E766-420F-BFF8-6B713323F648",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a4993a8d02f5e2402e4e00dfd0ac872af9ca2b33",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37771$E493E874-A532-41A4-A443-42C2446831EE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1690-01-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c3e61375c71e34fc8a375c70b6edb3396947a5e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37771$A46D94B3-5BD0-4E3B-8610-730B5AEEDB54",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11430610"
+          },
+          "hash": "e10e04c2f03b78a41cd33b850bd10fcee97b40b4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37771$84AC603C-F648-4D50-BCEE-FED797184CF6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Taku Sigenori Arms.svg"
+          },
+          "hash": "10d99fa0288072ef7a90c5984f7d091184a7bab4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q37771",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Taku Sigenori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "多久茂矩"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Таку Сигэнори"
+    }
+  },
+  "lastrevid": 17440348,
+  "modified": "2025-09-16T07:34:37Z",
+  "ns": 860,
+  "pageid": 56025,
+  "sitelinks": {},
+  "title": "Item:Q37771",
+  "type": "item"
+}

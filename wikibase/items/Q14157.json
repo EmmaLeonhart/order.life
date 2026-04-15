@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hatakeyama Iekuni"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q14157$BEEACC8E-D14F-438B-A9CB-2A2F8EC148C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14641",
+              "numeric-id": 14641
+            }
+          },
+          "hash": "7e02ab252e02946e30a5d4cefd5ee2a2a5bddfa1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14157$D2B7AF79-CFD5-45ED-A305-96742E34F119",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14157$34A4F859-1339-401B-AD06-6D1475B24336",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14157$989905F9-1B71-47C4-B67B-2BF184EB4A79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13602",
+              "numeric-id": 13602
+            }
+          },
+          "hash": "545cbfa78be5ed389bea42a6dae8d9695ee575fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14157$06465E95-4AF3-4E99-A66F-8F85C1117FB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14157$56BB2CF6-C157-46C0-A522-104C3734F940",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1335-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1500edda4eff7cb6d983b518d04631312719aeff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14157$124F6FB1-5554-4904-B997-DB73986003B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11578630"
+          },
+          "hash": "455c0d1f81957082a3f24e192cf186ef2a4041f2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14157$1C9162DC-9DBD-4398-8B2A-4CC7C2C9351D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hatakeyama Iekuni Arms.svg"
+          },
+          "hash": "ab98dc79d8b5e990c24102e836674f671d5d215c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期の武士"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q14157",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hatakeyama Iekuni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "畠山家国"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иэкуни Хатакэяма"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "畠山家國"
+    }
+  },
+  "lastrevid": 17414356,
+  "modified": "2025-09-16T00:08:21Z",
+  "ns": 860,
+  "pageid": 36463,
+  "sitelinks": {},
+  "title": "Item:Q14157",
+  "type": "item"
+}

@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amenohazuchi"
+      },
+      {
+        "language": "en",
+        "value": "Takehazuchi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q6785$0B2C66F6-50CA-4735-82CA-20F790093E05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6785$B34352CB-13CC-475A-BFE1-3D46BBB72C8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q6785$DB7D98CC-C890-40F5-829D-0C9A65F58466",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6725",
+              "numeric-id": 6725
+            }
+          },
+          "hash": "0834f08d32f1e834c2ad42d06264109091a7c3dd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6785$54E59A67-F274-4C84-9F1D-171F7F0D111F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6650",
+              "numeric-id": 6650
+            }
+          },
+          "hash": "1383af1bb9e7b6f3f561d8079517f04e134ea7e9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q6785$E1186219-7784-4D16-AC45-AF5F1BF78701",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q6785$0AA80793-9283-4EFB-BE03-4D1DB707CDBE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10940642"
+          },
+          "hash": "7e63bb22bf7c22a26fc196ae83f51be26d10ed15",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q6785$A9CE41A3-2EAF-4E9B-89E3-D9A57EF0803D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Takehazuchi"
+          },
+          "hash": "56963d8457fe2cd552d3d0c010bc244cf71bac08",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q6785$BB57625D-828F-49C4-AF4A-DED5A78231C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takehazuchi Arms.svg"
+          },
+          "hash": "812c199e005b3bab5696a72ccec04730773fdad4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "divinity (kami) in Japanese Shinto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本神話の神"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japanse god (kami)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon mitolojisinde tanrı"
+    }
+  },
+  "id": "Q6785",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Takehazuchi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Takehazuchi"
+    },
+    "id": {
+      "language": "id",
+      "value": "Takehazuchi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "天羽槌雄神"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Takehazuchi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Amenohazuchi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "天羽槌雄神"
+    }
+  },
+  "lastrevid": 17406645,
+  "modified": "2025-09-15T22:24:59Z",
+  "ns": 860,
+  "pageid": 29280,
+  "sitelinks": {},
+  "title": "Item:Q6785",
+  "type": "item"
+}

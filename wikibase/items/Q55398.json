@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Zongyi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q55398$AAEDF360-48E7-4A70-AB86-967D834A452D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61824",
+              "numeric-id": 61824
+            }
+          },
+          "hash": "1b49415953399740385d2e33ab62d1255d67d229",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55398$1975DB2E-6B90-4DBF-8F96-FFE00140CEE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61827",
+              "numeric-id": 61827
+            }
+          },
+          "hash": "e24a753f3a7cf2029caa4edb516571a2206be18b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55398$63920BF7-1EB7-480E-9A4D-F74B27731067",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55398$BED27860-0811-4507-905D-9F468335778F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55398$55F6CE8A-DCF7-478B-AE02-723D642C5F4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46798",
+              "numeric-id": 46798
+            }
+          },
+          "hash": "7ebb4ad6c6b1273ad0a2d49de8e4797ea4644dc7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55398$C96B826C-B42A-4C50-9838-54FF2BCEEB2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55398$CC06A04A-906B-489B-9719-57C0C84E11A7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0820-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b3d22aae1923ea18684c76d6c1cc8a500d5888be",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55398$FFD75AD8-4BF8-49F6-B5B6-16B19C64F183",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45493667"
+          },
+          "hash": "1cf2876e86d94ecc91314885ad618d02db12e2e7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55398$5D2D5284-D24F-44E0-AE3E-4F5DDEB433F6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Zongyi Arms.svg"
+          },
+          "hash": "9c2a3128d0187ebe39f06faa2a6ece70684af545",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 188310"
+    }
+  },
+  "id": "Q55398",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Zongyi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Zongyi"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李宗儀"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Zongyi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李宗儀"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李宗仪"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李宗儀"
+    }
+  },
+  "lastrevid": 17463370,
+  "modified": "2025-09-16T13:09:12Z",
+  "ns": 860,
+  "pageid": 70229,
+  "sitelinks": {},
+  "title": "Item:Q55398",
+  "type": "item"
+}

@@ -1,0 +1,298 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vainius //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55983$9937A77C-1EB5-42A9-B071-524036446358",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00333333"
+          },
+          "hash": "e990d62020670ba231f09a30dcdd465528d89114",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55983$06EA9FB6-02AB-4B24-A8F9-3325A92DC79D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55983$2AF5DD2B-0BF7-4B12-87F1-C2DEC34DB61F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55983$C8801823-E1EE-4937-BCC4-966DFA2B0B51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55971",
+              "numeric-id": 55971
+            }
+          },
+          "hash": "1537d60ee0f21b5c87006965ca38bb99fe20520f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55983$F98D93A3-B666-4914-9AD2-D5DA31CE6BFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55983$FF9EB8F5-BA4F-4F1C-B8A7-595C3111E097",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55983$D7EAC39F-C77F-40A4-B804-9674A8EF9B5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1334-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a97158cf41350df9535ed37c2a0b266e019bb92",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55983$10AB54F4-2144-41DB-BA37-49555E363B27",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2659844"
+          },
+          "hash": "ffd97ee143947f1a69b8e27133361626cf856a7b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q55983$A90D99CD-38D5-437F-B2C8-B2B1ABDDF78B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1973"
+          },
+          "hash": "decbcc1bc7ef475b1c7a340c34ba2b5594bba649",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55983$47D42109-6A20-4DCB-8A73-59D49A2285F2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vainius Arms.svg"
+          },
+          "hash": "8b8ce4d9677e657bd0b3e5cf62fcc6931444fb5d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "(XIV ст.) князь полацкі, брат Гедзіміна"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "(XIV ст.) князь полацкі"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fürst von Polazk"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince of Polatsk"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "князь полоцкий"
+    }
+  },
+  "id": "Q55983",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Воін"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Воін"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vojen Polocký"
+    },
+    "de": {
+      "language": "de",
+      "value": "Vainius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βαΐνιους"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vainius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Voin"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vainius"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴァイニウス"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Vainius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vainius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wojn"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Воин"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Воїн"
+    }
+  },
+  "lastrevid": 17464254,
+  "modified": "2025-09-16T13:22:43Z",
+  "ns": 860,
+  "pageid": 70814,
+  "sitelinks": {},
+  "title": "Item:Q55983",
+  "type": "item"
+}

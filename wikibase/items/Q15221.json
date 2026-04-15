@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ashikaga Yoshitsugu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15221$59E33DA1-4437-4296-B1DB-54E39953D311",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15221$545254BF-3E9F-4388-AB82-C908C8CF9BA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15221$C18EB0F9-FBCE-49CF-A6FC-E84694F6DFA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14820",
+              "numeric-id": 14820
+            }
+          },
+          "hash": "ad3923b2cec4b510feb73e752582ec8eea553763",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15221$CE5AF77C-BA9B-4575-9F1B-17676EB76824",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15221$BBCD4B26-BA5C-491B-ABCB-4FE982CD1390",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1394-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "172d6e6421ad4937205b758b35c8e7a46751ac8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15221$0ACD1EB4-9865-42CB-971A-27FE4A737BC2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1418-03-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "db66041cbbb262fea43e5c93409e6ad5422d5372",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15221$EA515EFF-D829-4D24-A4BB-7949853FFF02",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asikaga yoshitsugu.jpg"
+          },
+          "hash": "8bd7db54958e3551fce12f830947d6ab834b2fcd",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15221$7A34886E-0740-4E65-8591-587753506180",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11636805"
+          },
+          "hash": "85828821d335d99bde57d5c868b650e7176c5ca2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15221$52708A63-A6F9-4CDD-9014-CCBBBC98CD9C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ashikaga Yoshitsugu Arms.svg"
+          },
+          "hash": "02e13f07be9018761c4b207934940058879e4739",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代前期～中期の武将、公卿。足利義満の次男。正二位・権大納言、贈従一位。勅撰集『新続古今和歌集』に1首入集"
+    }
+  },
+  "id": "Q15221",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ashikaga Yoshitsugu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ashikaga Yoshitsugu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ashikaga Yoshitsugu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "足利義嗣"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёсицугу Асикага"
+    }
+  },
+  "lastrevid": 17415004,
+  "modified": "2025-09-16T00:17:20Z",
+  "ns": 860,
+  "pageid": 37511,
+  "sitelinks": {},
+  "title": "Item:Q15221",
+  "type": "item"
+}

@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hatakeyama Shigeyasu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11344$2E3724DD-6727-4FD3-AB0B-BFA0D5E388ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "994346"
+          },
+          "hash": "389a67a4f94b3c22143b678040bc2dbd1e06a8fb",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11344$C36815EA-F77E-4A1A-B8A4-F865D1D954DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11344$2E05A7A7-635D-4268-BB96-EBAFC3AE0CC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11344$78C65A2D-FB6C-4487-9E28-C21BF0AEB1B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10650",
+              "numeric-id": 10650
+            }
+          },
+          "hash": "9607729a1924bb37378ca54473e9324b20729f7f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11344$C9F092B4-E4C6-4B1C-94F7-685571D9FB83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11344$56460150-499C-41F2-9946-B3C51D86FBF1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1205-07-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "519bdd87d561919456f827043104912ab884f224",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11344$3E533599-B723-48ED-9E76-99737A2934A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3128270"
+          },
+          "hash": "6f23831f8b53e4f266d5c13176763a3328cbf7ba",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11344$02C1D212-F80F-40DB-9355-6933F064C3F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hatakeyama Shigeyasu Arms.svg"
+          },
+          "hash": "730b5cf37c5bf99c948fa98cd18bf586dc33dbe3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Bushi und Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese warrior"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "samouraï"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代初期の武将。伊地知氏、武蔵藤田氏の祖"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (?-1205)"
+    }
+  },
+  "id": "Q11344",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Hatakeyama Shigeyasu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hatakeyama Shigeyasu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hatakeyama Shigeyasu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hatakeyama Shigeyasu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هاتاکهیاما شیگهیاسو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hatakeyama Shigeyasu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hatakeyama Shigeyasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "畠山重保"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "하타케야마 시게야스"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hatakeyama Shigeyasu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hatakeyama Shigeyasu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hatakeyama Shigeyasu"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hatakeyama Shigeyasu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hatakeyama Shigeyasu"
+    }
+  },
+  "lastrevid": 17412896,
+  "modified": "2025-09-15T23:47:55Z",
+  "ns": 860,
+  "pageid": 33718,
+  "sitelinks": {},
+  "title": "Item:Q11344",
+  "type": "item"
+}

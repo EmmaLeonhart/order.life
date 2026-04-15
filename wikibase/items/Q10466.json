@@ -1,0 +1,350 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Yoshitsuna"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q10466$835F5C9A-3A33-4555-A677-122D7173ACAE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814217"
+          },
+          "hash": "9fe2966753580cb75bce049709f3f7e350eb0ace",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q10466$C0632261-3CC0-43A7-BFA0-0F704D5B2B17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10466$712DE931-FE73-410D-AF19-87BC4378A330",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q10466$C109AD14-9F18-40EB-AC5E-2553DF9C51FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11073",
+              "numeric-id": 11073
+            }
+          },
+          "hash": "0e99e89483de0f9187e4044a309d44027f8de3be",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10466$A05E7217-8A1C-4637-8CD9-03774725323A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11048",
+              "numeric-id": 11048
+            }
+          },
+          "hash": "77056ccf381f2b2355a12fa15c639754c1faae5e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10466$3056657B-EB6F-47EC-86C2-0B3E0525D145",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9976",
+              "numeric-id": 9976
+            }
+          },
+          "hash": "14491e095427298c34cf4424c81bdefabc7928c1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q10466$076CBC7E-01A0-465E-B7FF-D0506F413447",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10059",
+              "numeric-id": 10059
+            }
+          },
+          "hash": "562656dd4f9a6f9c4696093340f3ad2cac191ac1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10466$FF2D0589-0950-47CB-ABB3-4C754EB36C83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10466$32191862-45EF-4F3E-9852-552C72CE3FE1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1042-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "270c2f1710e2d97b18421420e455bc98e1fe7e38",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10466$F5D117DE-32C2-412A-8546-AB6D887D0A0F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1132-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8ba9dc50ae52a6a5ac0041b06b08db77a6ac7854",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10466$EE15B94E-7080-4B51-AE3F-393BB1877573",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564276"
+          },
+          "hash": "e8334ef0de245f5240c21bd6a3362f16f2e73d8e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10466$897B6587-E81E-4812-9D09-BD52A978FA75",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Yoshitsuna Arms.svg"
+          },
+          "hash": "55b19c3eb5b459da52a881462e1bf323ba2fc889",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1042–1134)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "en": {
+      "language": "en",
+      "value": "Samurai of the Minamoto clan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代後期の武将。源頼義の次男。上野常陸等介、陸奥守、伊勢美濃甲斐信濃守、左衛門尉、従四位上、検非違使"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1042-1134)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon samuray (1042 – 1132)"
+    }
+  },
+  "id": "Q10466",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Minamoto no Yoshitsuna"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jošicuna Minamoto"
+    },
+    "de": {
+      "language": "de",
+      "value": "Minamoto no Yoshitsuna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Yoshitsuna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Minamoto no Yoshitsuna"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یاماموتو نو یوشیتسونا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Minamoto no Yoshitsuna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源義綱"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Minamoto no Yoshitsuna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Minamoto no Yoshitsuna"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Minamoto no Yoshitsuna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Минамото-но Ёсицуна"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Minamoto no Yoshitsuna"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "源義綱"
+    }
+  },
+  "lastrevid": 17412284,
+  "modified": "2025-09-15T23:38:39Z",
+  "ns": 860,
+  "pageid": 32870,
+  "sitelinks": {},
+  "title": "Item:Q10466",
+  "type": "item"
+}

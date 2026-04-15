@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "堀田万"
+      },
+      {
+        "language": "en",
+        "value": "Ku Tian Mo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q42440$86F03C5B-AB85-477C-857B-0F097C023B4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42440$FA8A8041-7413-41FA-BF17-4F9C3B23DB47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q42440$04761DD3-E3D0-4581-B804-6C314C9BBF0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49309",
+              "numeric-id": 49309
+            }
+          },
+          "hash": "12e5f2ed099fe8f61a17e9752e636f1887952183",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q42440$8B1446B2-AEF2-4AFB-AE00-0008AC512962",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22155",
+              "numeric-id": 22155
+            }
+          },
+          "hash": "af55c9e9e8d1a8bf6357cb5a1d1ec335208b01aa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q42440$F1CCF2BE-E421-4C98-B2E7-3D1569CF0FAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q42440$16AD67AE-05A1-4BB3-B8FD-128F2923144B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1831-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "23f1aced45e0299f08ce6680c767bfa42eb4b277",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q42440$755CD504-1FED-46FA-9CF7-7F65D7831DE0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1888-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aa739c339b1e3c4e13f82f414a0fe4447c0fbb92",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q42440$9D5A681D-4B76-4806-8078-CBD51C389BDB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111132467"
+          },
+          "hash": "7a0cb22d931a4de6caa05a30d1677dab9118e780",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "松平輝聴の正室"
+    }
+  },
+  "id": "Q42440",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "堀田万"
+    }
+  },
+  "lastrevid": 17446164,
+  "modified": "2025-09-16T08:57:23Z",
+  "ns": 860,
+  "pageid": 59520,
+  "sitelinks": {},
+  "title": "Item:Q42440",
+  "type": "item"
+}

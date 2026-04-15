@@ -1,0 +1,668 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Vytautas //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q56035$279AA597-2A85-4605-9CBE-11E3989C3920",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "116571"
+          },
+          "hash": "80fbbf3e8eba80c06032390ad8de161bca67c211",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q56035$265F54A8-9830-4E2B-A599-AE4A6DB59A99",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00218911"
+          },
+          "hash": "336dd87a76982dc2de9553326e3b0904827ec010",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q56035$DB47ED34-D33F-4ABF-8261-A0E7C730771F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56035$F1A1741C-0E3D-40B7-B93F-923118D97776",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q56035$44945C56-E30C-4D49-93AD-33E267C8D0F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Vytautas_the_Great_(1)"
+          },
+          "hash": "d059ba91c9889a8c2b627174212334996bd4d5ef",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q56035$42267D1D-4B15-4C57-A01C-CF620419D9B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p22136.htm#i221351"
+          },
+          "hash": "b979fe3eb927c5e610c5a23c14d2c4d9394443b0",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56035$AAC64C9A-F0D2-4932-8E22-DC008DC0A9DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50361",
+              "numeric-id": 50361
+            }
+          },
+          "hash": "0e4c8e968b7677477c661bea561922dabf1b2148",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q56035$124741E7-E660-49C4-8DE5-2CA4BBDF0028",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56031",
+              "numeric-id": 56031
+            }
+          },
+          "hash": "d4d98eadce0d0cf8a510174b23619f2e2fbf55f3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56035$2A91A83E-211A-4866-B5D6-13F50182DE57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56035$865D5D76-55A2-4ED4-B611-1EABF7E777CC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1352-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1671a0dd1828de2b1ac42aaab1759ef9ea60ee4c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56035$5C1BE68A-FCB5-4A83-B791-BE66AF8707FF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1430-10-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5b77b002359257386f2262d04d0d5dc0756ddb3e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56035$2D8B2AAF-395B-479E-B8FA-F7369C4FFFF0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q218186"
+          },
+          "hash": "edbdfa1aa6688dd262d89c0495e49d38320192a0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q56035$E927A7B2-4D2D-4FBE-90F8-298C933E83AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002240806863"
+          },
+          "hash": "5b89b7b8154dc8b8ca94cac39d540ed395eabcee",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q56035$800A64E6-AF3F-4767-B34F-A56C9CBD0C93",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=vytautas;n=de lithuanie"
+          },
+          "hash": "f147a0302678d5f2b686def8b3fbafc9254ab40a",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q56035$005893D7-4D71-4EBD-B807-DD0AF4778E7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "7.753.20"
+          },
+          "hash": "79a424fa244e82a7b04b932e3c3e16e7f4ac690d",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56035$43F083EC-1B8C-4930-B1D3-8275F25BAF06",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Vytautas Arms.svg"
+          },
+          "hash": "0fde432b08a5b10d98f9b0689df6b987a5d3d4e0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "вялікі князь літоўскі (1392—1430)"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "вялікі князь літоўскі, князь гарадзенскі і троцкі"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "litevský velkokníže"
+    },
+    "de": {
+      "language": "de",
+      "value": "Großfürst von Litauen"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μέγας Δούκας της Λιθουανίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Grand Duke of Lithuania"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "grandprinco de Litovio (ĉ. 1350-1430)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey de Lituania"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه لیتوانی از ۱۳۹۲ تا ۱۴۳۰"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Liettuan suuriruhtinas (1392–1430)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain lituanien, de 1392 à 1430"
+    },
+    "he": {
+      "language": "he",
+      "value": "דוכס גדול של ליטא"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Litvánia királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "granduca di Lituania (r. 1401-1430)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "リトアニアの君主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grootvorst van Litouwen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "wielki książę litewski"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Grão-Duque da Lituânia (c. 1350 – 1430)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Grão-Duque da Lituânia (c. 1350 – 1430)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "великий князь литовский (1392–1430)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "samregerande storfurste av Litauen 1392-1430"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Великий князь Литовський"
+    }
+  },
+  "id": "Q56035",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فيتاوتاس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Vitovt"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ویتائوتاس"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Витовт"
+    },
+    "be": {
+      "language": "be",
+      "value": "Вітаўт"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Вітаўт"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Витовт"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Vytautas"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vytautas"
+    },
+    "da": {
+      "language": "da",
+      "value": "Vytautas den Store af Litauen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Vytautas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βυτάουτας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Vytautas"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Vytautas"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Vytautas"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Vytautas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Vitautas"
+    },
+    "et": {
+      "language": "et",
+      "value": "Vytautas"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Vitautas"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ویتائوتاس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Vytautas Suuri"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Vytautas le Grand"
+    },
+    "he": {
+      "language": "he",
+      "value": "ויטאוטאס הגדול"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Vitold"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Vitold litván nagyfejedelem"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Վիտովտ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Vytautas yang Agung"
+    },
+    "it": {
+      "language": "it",
+      "value": "Vitoldo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴィータウタス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ვიტოვტი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Витовт"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "비타우타스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Alexander Vitoldus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Vytautas Didysis"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Vītauts Dižais"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Витавт"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Vytautas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Vytautas den store av Litauen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Vytautas"
+    },
+    "os": {
+      "language": "os",
+      "value": "Витовт"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Witold Kiejstutowicz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Vytautas, o Grande"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Vytautas, o Grande"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Витовт"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Vytautas"
+    },
+    "sgs": {
+      "language": "sgs",
+      "value": "Vītauts Dėdlīsės"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Vitold"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Vytautas"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Vitold Veliki"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Витолд"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Vytautas"
+    },
+    "tk": {
+      "language": "tk",
+      "value": "Beýik Witautas"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Vytautas"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Vitawtas"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Вітовт"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Vitovt"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "维陶塔斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "维陶塔斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "维陶塔斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "維陶塔斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "維陶塔斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "维陶塔斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "維陶塔斯"
+    }
+  },
+  "lastrevid": 17464330,
+  "modified": "2025-09-16T13:23:48Z",
+  "ns": 860,
+  "pageid": 70866,
+  "sitelinks": {},
+  "title": "Item:Q56035",
+  "type": "item"
+}

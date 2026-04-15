@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sueyoshi Magozaemon"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q24858$08867EB7-C1FC-4525-80E8-AF566B388E39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24858$1930A4B2-6072-4317-A9C6-F9B5E0B5C4A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q24858$F683A188-8A36-459A-B23B-0579A0FDCA4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39471",
+              "numeric-id": 39471
+            }
+          },
+          "hash": "31b1886399a129501f856896330892459d2d036a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24858$BACA1298-6C72-4002-8264-3EB080F5E6C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24858$92A53C6D-602F-4A68-BDD3-F324C0E52901",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1570-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "12f7ba0769e76a0cf679251b78e9eefb3a47a55d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24858$B01B0736-D5FE-4264-9F37-4712B61CE801",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1617-05-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3ae4c0967b4fac4b14a8645c535589faeebdd01a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24858$855097DF-4E0B-49BC-BEA4-2F6B11C573E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11519652"
+          },
+          "hash": "e85556992b2ea9e2e220a4fd17b7565c12e17829",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24858$EAB71BA9-5C7D-4B8D-A8FB-F5A4CA6C76D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sueyoshi Magozaemon Arms.svg"
+          },
+          "hash": "a31f8bc023bbbd4ee14f175ee99eeb23610f0966",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Überseehändler"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fonctionnaire et commerçant japonais"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代初期に朱印船貿易で活躍した大坂の豪商"
+    }
+  },
+  "id": "Q24858",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sueyoshi Magozaemon"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sueyoshi Magozaemon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sueyoshi Magozaemon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "末吉孫左衛門"
+    }
+  },
+  "lastrevid": 17423722,
+  "modified": "2025-09-16T03:33:08Z",
+  "ns": 860,
+  "pageid": 46632,
+  "sitelinks": {},
+  "title": "Item:Q24858",
+  "type": "item"
+}

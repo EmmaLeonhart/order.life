@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakai Tadahiro"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q24572$B3FDC608-DA2B-4CC5-9B81-DA52D8533705",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "酒井-17"
+          },
+          "hash": "44a1e1876e8c597122223d7ec09b1ab219dfa85a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24572$595F7BCA-E740-45C1-AEF5-F14B13AA1AA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24572$A9231DA8-5492-4563-A27C-6C8D474CBDBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24572$24256509-1C81-46D2-AF7F-54C56229CC59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22337",
+              "numeric-id": 22337
+            }
+          },
+          "hash": "7c0024414e6101d9798c83e06200581ebe4afbf1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24572$8C01CA6E-AA49-4659-92AB-15BA157F740F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24572$A296A2E2-10F2-4574-B7DA-FE81CC219CC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1777-10-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "508189f5032dec6cf3d09be074dc642191a0c184",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24572$7B0D413D-D091-4A5A-BF10-1AD08F4121DD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1837-08-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e79d04003b685847c23b477fb231296e02a600ba",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24572$32320ACD-4BA7-4F52-9CD1-67AEA2E169FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11644179"
+          },
+          "hash": "abc4439171a60c037ece649ffb5a40024656113d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24572$8C612EAE-D6C9-4895-B7AA-9023B0948816",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakai Tadahiro Arms.svg"
+          },
+          "hash": "d822211583e39af92e36d12cf21ca2fb4de14623",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "10 Oct 1777 - 23 Aug 1837"
+    }
+  },
+  "id": "Q24572",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sakai Tadahiro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "酒井忠道"
+    }
+  },
+  "lastrevid": 17423520,
+  "modified": "2025-09-16T03:26:33Z",
+  "ns": 860,
+  "pageid": 46362,
+  "sitelinks": {},
+  "title": "Item:Q24572",
+  "type": "item"
+}

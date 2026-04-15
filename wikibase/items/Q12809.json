@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sasaki Yasutsuna"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q12809$56E6111E-2C5B-4150-B032-96F45C14DD08",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "820345"
+          },
+          "hash": "83d914bbc3a60edd9cc49a03fc8fc2021fd050f9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q12809$663992CE-6F8E-4E1C-BFA3-E9848970EFBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13478",
+              "numeric-id": 13478
+            }
+          },
+          "hash": "90a6df6fc0f5c31e1db9f9ac585fca2db0b50d8f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12809$44CEB72C-ED7A-45FE-9D1D-C27688154EB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13480",
+              "numeric-id": 13480
+            }
+          },
+          "hash": "ec8bec0364c2b8eb596efe6ac042f3260d8bdede",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12809$62BFD805-74B4-498D-A2F7-D11013037203",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12809$A06C8A3A-85FB-48D6-88BE-A841C88F2DFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12809$D59FE720-AD45-4C51-98D3-AFA88E5B3DFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12808",
+              "numeric-id": 12808
+            }
+          },
+          "hash": "59478824a53bbb5892536a8ca4587130797a22f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12809$AD3FBAE9-BE03-49AF-855E-1779DCE7902B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12809$394FE601-0FDB-4644-80DF-295D5EFF7F8A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1213-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ebead26a469c5adfaf3d8fe2ede39ebd8c4ddf7f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12809$6702A01D-C138-46A7-8B63-7A04BCE8CD00",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1276-06-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb10c0e676127bcd61b1599174e9d0e721ef9c8a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12809$E34E8FBC-D277-459C-937C-83D22E09DE34",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11382306"
+          },
+          "hash": "5ef9b955be3d5e4a1d42da7e470677858c9a391d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12809$97EDCFB6-4EFE-4D3D-AB06-12E62DF9FBF9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sasaki Yasutsuna Arms.svg"
+          },
+          "hash": "4031a957f272cf91fdfb49bd708ea0831a16486c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代中期の武将・御家人。近江国守護。六角氏の祖。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q12809",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sasaki Yasutsuna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sasaki Yasutsuna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sasaki Yasutsuna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sasaki Yasutsuna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "佐々木泰綱"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sasaki Yasutsuna"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sasaki Yasutsuna"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sasaki Yasutsuna"
+    }
+  },
+  "lastrevid": 17413700,
+  "modified": "2025-09-15T23:59:17Z",
+  "ns": 860,
+  "pageid": 35137,
+  "sitelinks": {},
+  "title": "Item:Q12809",
+  "type": "item"
+}

@@ -1,0 +1,462 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Luchino Visconti //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55244$73736DFA-463F-468F-A5DE-146DB09F9BB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00417842"
+          },
+          "hash": "ce35e96f74a54c89d8958bca19265053829abbfe",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q55244$7BFC9483-0349-499C-8DBA-BE80FB19FE4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Visconti-31"
+          },
+          "hash": "049a8ce3b24453a2317a9432220037e81b9ad9ef",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55244$E9EB75D2-3F67-4E68-8C98-BB26BECD5E7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55244$9C65031C-D217-4DA1-BD34-DB11EB326D7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q55244$7FAFEB1F-BE60-4844-8769-1FEA2E87535E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49829",
+              "numeric-id": 49829
+            }
+          },
+          "hash": "88696dbc00de87e603fd50f082664625affaf769",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q55244$4F1E0213-43B0-425E-8B70-467300D8576E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p348.htm#i3478"
+          },
+          "hash": "5adc28bacdb4a3557ae9ad89632561738e66186d",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55244$54560FFB-678B-4636-A7F1-31730DB62CB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55244$0FF0EE8B-D9D4-4421-8455-F439B091C3CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1287-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "53daf0cc3f36c43af4ad7b4b2edc2cf91d7dc05f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55244$0414D673-6D10-4BED-8227-808A2027F23C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1349-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f73845ba64107f824521ca2dc52f88d0b6c828d2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55244$28AA056D-ACFC-4AA2-97E0-7174E47FD237",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q195825"
+          },
+          "hash": "40ea1d36f4beeb238c3bc442d459a1ecb4ef8a9c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55244$A0CF989E-0286-45B5-96FD-651702CD51BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002188005814"
+          },
+          "hash": "567114d67fd502424ebcfa3248439f42614bd633",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q55244$5147BEE1-6071-405D-A2C1-892626A36269",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Luchino Visconti (1287-1349)"
+          },
+          "hash": "eb894c58020dce67eeb6bda0fa312fcd7fc0a740",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q55244$A07FCC40-60CE-4B70-93A9-817F7CBE9062",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=luchino;n=visconti"
+          },
+          "hash": "c6559d3adf34770d2d0ea64f499c226439a00e2b",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55244$6304474B-C014-4967-8544-20FDB15B5C11",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Luchino Visconti Arms.svg"
+          },
+          "hash": "83cb8512cf41a40722921a5a73b88f2426294b67",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "كوندوتييرو من دوقيه ميلانو"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "съгосподар на Милано от 14 век"
+    },
+    "de": {
+      "language": "de",
+      "value": "Regent von Mailand"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lord of Milan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Señor de Milán"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "condottiere italien"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "itáliai zsoldos, 1287/92-1349"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile e condottiero italiano, signore di Milano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Italiaans Condottiero (1287-1349)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "italijanski plemič in kondotjer, regent Milana"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İtalyan condottiere (1287-1349)"
+    }
+  },
+  "id": "Q55244",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "لوكينو ڤيسكونتي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "لوكينو ڤيسكونتی"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лукино Висконти"
+    },
+    "br": {
+      "language": "br",
+      "value": "Luchino Visconti"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lluc Visconti"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Luchino Visconti"
+    },
+    "da": {
+      "language": "da",
+      "value": "Luchino Visconti"
+    },
+    "de": {
+      "language": "de",
+      "value": "Luchino Visconti"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λουκίνο Βισκόντι"
+    },
+    "en": {
+      "language": "en",
+      "value": "Luchino Visconti"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Luchino Visconti"
+    },
+    "es": {
+      "language": "es",
+      "value": "Luchino Visconti"
+    },
+    "et": {
+      "language": "et",
+      "value": "Lucchino Visconti"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Luchino Visconti"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Luchino Visconti"
+    },
+    "it": {
+      "language": "it",
+      "value": "Luchino Visconti"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ルキーノ・ヴィスコンティ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "루키노 비스콘티"
+    },
+    "la": {
+      "language": "la",
+      "value": "Luchinus Vicecomes"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Luchin Viscont"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Luchino Visconti (1287-1349)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Luchino Visconti"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Luciano Visconti"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Luchino Visconti"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Luchino Visconti"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лукино Висконти"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Luchino Visconti"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Luchino Visconti"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lucchino Visconti"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Luchino Visconti"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лукіно I Вісконті"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "魯吉諾·維斯孔蒂"
+    }
+  },
+  "lastrevid": 17463140,
+  "modified": "2025-09-16T13:05:51Z",
+  "ns": 860,
+  "pageid": 70075,
+  "sitelinks": {},
+  "title": "Item:Q55244",
+  "type": "item"
+}

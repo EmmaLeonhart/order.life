@@ -1,0 +1,512 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Momozono //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16440$6FB9A729-F34C-4851-9766-624026AA5F51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17626",
+              "numeric-id": 17626
+            }
+          },
+          "hash": "791742b787d97b3e532dedef0f04d8d1759abde5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16440$97A3EF65-6C29-462A-A30E-343F98CCE46A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16440$FCDD955C-33FB-4C5B-8C1B-AE64331453E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16440$7718366F-FCE5-42C1-B805-D71AA7DEDB67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15701",
+              "numeric-id": 15701
+            }
+          },
+          "hash": "96dfdcf195503eb318f7fd4a4ba7f22d9462843f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16440$C16EC437-72D4-47EC-951A-8176B04BA26E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16438",
+              "numeric-id": 16438
+            }
+          },
+          "hash": "a363b3dc49548af6b82be79436d028fcf01eacaa",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16440$4AFAF698-4116-4301-9F74-C29FF210E1B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16440$7FFCAFE8-A19C-467B-881C-553B29AE82A5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1741-04-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f5c59f64c301a05e8795d458a28e2159ff85cf4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16440$2781BB5A-D9C4-42BA-83F9-E1290B0EE190",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1762-08-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ce264f33fe9e89dd55d1891045fa68719b8b2871",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q16440$6207098B-6D9B-4DBB-AE4B-B9B5FD0FEEBF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Momozono.jpg"
+          },
+          "hash": "fca5a17d1a0f17b6a03af8af9bb2dbf60b1f0ac8",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16440$D08710BE-05E1-4BE2-9118-C45D3C5C5CE1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313864"
+          },
+          "hash": "1f1027aaa3d4dd39f7ba39181bdfa9d17855af04",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q16440$AF63D88B-2050-41A7-965E-BA54DA1A5F0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011626555953"
+          },
+          "hash": "5b7ede393e6c70f4caf0f8b075ae206b8bf26873",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16440$7A5D729A-9378-4C21-A10B-3B307E99189E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Momozono Arms.svg"
+          },
+          "hash": "bedc922b8b1840fa9de589ca8dea20490bc12277",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu xaponés (1741–1762)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "116. Tennō von Japan"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of Japan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "la 116a tennoo de Japanio (r. 1747–1762)"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador de Japón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon de 1747 à 1762"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "जापान के सम्राट (शासनकाल:1747 से 1762 तक)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "japán uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の116代天皇"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Tokugawa-shogunaat (1741-1762)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "116-й правитель Японии"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本第116代天皇"
+    }
+  },
+  "id": "Q16440",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور موموزونو"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور موموزونو"
+    },
+    "az": {
+      "language": "az",
+      "value": "Momozono"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "موموزونو"
+    },
+    "br": {
+      "language": "br",
+      "value": "Momozono"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر مۆمۆزۆنۆ"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Momozono"
+    },
+    "de": {
+      "language": "de",
+      "value": "Momozono"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αυτοκράτορας Μομοζόνο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Momozono"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Momozono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Momozono"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور موموزونو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Momozono"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मोमोजोनो"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Momozono japán császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Momozono"
+    },
+    "it": {
+      "language": "it",
+      "value": "Momozono"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "桃園天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "모모조노 천황"
+    },
+    "la": {
+      "language": "la",
+      "value": "Imperator Momozono"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Imperatorius Momozono"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "मोमोझोनो"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Momozono Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Momozono"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Momozono"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Momozono"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Momozono"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Împăratul Momozono"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Момодзоно"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Momozono"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Momozono"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิโมะโมะโซะโนะ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Momozono"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Momozono"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Момодзоно"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Momozono"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Momozono"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "桃園天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "桃園天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "桃园天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "桃园天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "桃園天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "桃園天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "桃园天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "桃園天皇"
+    }
+  },
+  "lastrevid": 17415984,
+  "modified": "2025-09-16T00:31:25Z",
+  "ns": 860,
+  "pageid": 38698,
+  "sitelinks": {},
+  "title": "Item:Q16440",
+  "type": "item"
+}

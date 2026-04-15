@@ -1,0 +1,335 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Riccardo Orsini //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55707$49233D43-87F0-46C5-BC35-07389270F38E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00197435"
+          },
+          "hash": "80403c9662049eb5b83adc4c4a8a807fa954fd4a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q55707$D6391473-771D-4F2C-BFDE-E72F2F7CAFCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54199",
+              "numeric-id": 54199
+            }
+          },
+          "hash": "6ab972cc79c626c9127def4e1abe7c99afc896f0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55707$D2FBDF9C-DA0A-430F-A4C2-FFD62142B6AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55707$FC07A259-AB4E-4F81-87A2-B9ABAB27F290",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q55707$1FD4FA73-46A0-46B7-9390-A54D79CB1C6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50135",
+              "numeric-id": 50135
+            }
+          },
+          "hash": "7b51da796ec9cd01300d3e5f456f13a505e70911",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55707$1CC78B26-F8B6-43DF-9CE4-CE92AD5D9824",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55707$CC9135F8-7813-4E50-B461-F01CDB31D0FE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1230-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "587e5f5edae80040bca618b28147d06b9d51406e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55707$1208C1F4-CF21-4784-A583-D92E6B5A2615",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1303-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "77db7abf7d22506bfb2ecd7e7eeba2d54fa5772e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55707$DF273D40-2025-4A67-AFDB-B7F7593223B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1400153"
+          },
+          "hash": "c3a9ef7decd350ce068f244e8c8aeece78817b60",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q55707$87C6F11C-6CA7-4ED7-8A86-AF7BE639F1C8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=riccardo;n=orsini"
+          },
+          "hash": "b938e96430b03f2936429dba3cfd128902e553e8",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55707$D7B078AB-A88E-4FC8-8653-5FFBEF334431",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Riccardo Orsini Arms.svg"
+          },
+          "hash": "f553ae793cd3241f59fd6a2f7f43fdb09cf6db92",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Pfalzgraf von Kefalonia und Zakynthos, Graf von Gravina"
+    },
+    "en": {
+      "language": "en",
+      "value": "sicilian ruler (died 1303/4)"
+    },
+    "it": {
+      "language": "it",
+      "value": "conte di Cefalonia, conte di Gravina, capitano generale di Corfù e balì di Morea"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "hrabia Kefalenii"
+    }
+  },
+  "id": "Q55707",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ريكاردو اورسينى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Riccardo II Orsini"
+    },
+    "be": {
+      "language": "be",
+      "value": "Рычард I Арсіні"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ricard I Orsini"
+    },
+    "de": {
+      "language": "de",
+      "value": "Riccardo Orsini"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ριχάρδος Α΄ Ορσίνι"
+    },
+    "en": {
+      "language": "en",
+      "value": "Riccardo Orsini"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ricardo I Orsini"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Riccardo Orsini"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ricardo I Orsini"
+    },
+    "it": {
+      "language": "it",
+      "value": "Riccardo II Orsini"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "リカルド・オルシーニ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Riccardo Orsini"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ryszard Orsini"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ricardo Orsini"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ricardo Orsini"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ричард I Орсини"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Riccardo Orsini"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ріккардо Орсіні"
+    }
+  },
+  "lastrevid": 17463832,
+  "modified": "2025-09-16T13:16:37Z",
+  "ns": 860,
+  "pageid": 70538,
+  "sitelinks": {},
+  "title": "Item:Q55707",
+  "type": "item"
+}

@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Awata no Morone"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7567$3D091CC5-2324-4583-BE73-B1CDEF162138",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7567$EE9F8B9D-6E99-45CE-BC8D-0445408DAF99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7567$DAEAD13D-5971-4771-95BD-13A3EC773952",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7406",
+              "numeric-id": 7406
+            }
+          },
+          "hash": "e941911623ba03e6a85538ff1d1b31aaee5cff74",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7567$40129763-BD4E-45BF-8E09-1359A92244F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7598",
+              "numeric-id": 7598
+            }
+          },
+          "hash": "1912d0b7d515871d960af68a248975d9e31394e7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7567$5C366715-D39D-430D-A93F-B7FE52DB7D43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7567$7460658E-8DF9-46C2-AAE5-736F4A8794A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a369388e76afd2a6ed34fd33d6f4a6fd120c3e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7567$1D2D9FAF-DB7D-4520-80FB-2FA1C2125034",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28415262"
+          },
+          "hash": "1737d62ae85a2080e33308df32c8a519eeecac20",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7567$5C4D692E-A8D3-46E0-85E2-26A3B7C24F81",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Awata no Morone Arms.svg"
+          },
+          "hash": "a50420150695d5bc8c4e91220e4a3e703a5d599f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Wife of Emperor Junnin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "奈良時代の女性、淳仁天皇の妃"
+    }
+  },
+  "id": "Q7567",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Awata no Morone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "粟田諸姉"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "粟田諸姊"
+    }
+  },
+  "lastrevid": 17407513,
+  "modified": "2025-09-15T22:35:56Z",
+  "ns": 860,
+  "pageid": 30060,
+  "sitelinks": {},
+  "title": "Item:Q7567",
+  "type": "item"
+}

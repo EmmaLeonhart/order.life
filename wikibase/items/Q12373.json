@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Taira no Kiyotsune"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q12373$F11B5030-1C2F-4973-BC79-77800689CA5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12373$4D89BCA1-3F2E-490F-88FC-DB0C0E5109C0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q12373$52447C55-4C89-41EB-96B8-746CECDA7EB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12268",
+              "numeric-id": 12268
+            }
+          },
+          "hash": "2e9cc1dea174b62e403eeeeb61166d3ddc9314b7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12373$3A191A8D-B122-4382-8008-B89241BBB623",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12373$BA33FB13-F123-47BA-874A-1B45A773F36D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1163-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b972ede4a797f1e802a23bfb805d9b410aac1c92",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12373$86BD5DF8-65A4-4B19-B55A-1439A43F39DB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1183-04-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05fdb00cd5e80c5f2f08ab135cdcba59b983e793",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12373$AC077BBA-DAEB-4C2E-AAC8-DA0152BBA8A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11483224"
+          },
+          "hash": "c078eebc874af61022e9a30da7d7801ea341f070",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12373$95B6447B-B1B3-4985-8D3A-C11E7472CDDA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Taira no Kiyotsune Arms.svg"
+          },
+          "hash": "9b3228758967a5b032d4004ec79a1a751199f19a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期の武将"
+    }
+  },
+  "id": "Q12373",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Taira no Kiyotsune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平清経"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "平清经"
+    }
+  },
+  "lastrevid": 17413448,
+  "modified": "2025-09-15T23:55:45Z",
+  "ns": 860,
+  "pageid": 34709,
+  "sitelinks": {},
+  "title": "Item:Q12373",
+  "type": "item"
+}

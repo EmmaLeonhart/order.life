@@ -1,0 +1,316 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shunkeiin"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16019$DA6ED6B2-67A4-49FC-B91C-A4FE8758DC94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16906",
+              "numeric-id": 16906
+            }
+          },
+          "hash": "f08fe6167d09d4a6d95ec3db40b22133ec6c1cfc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q16019$769B8DE2-CAD2-4876-87B0-F74A528C52DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "前田-59"
+          },
+          "hash": "973992550e37fd86160b01432ec2a450a0dae770",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16019$08ECD5DF-69B4-4F1C-9902-8833BF2DE1EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16019$636AB1AD-33CA-4F6F-B139-7D31D1583FD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16019$52FF97D2-B76F-4C4F-8098-D9D9EB77FD04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16905",
+              "numeric-id": 16905
+            }
+          },
+          "hash": "89cf6535a0a36b12f3bf71cce234630ca1f32fbe",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16019$99F3B8AF-B53D-4FF5-9094-F78B908118A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16014",
+              "numeric-id": 16014
+            }
+          },
+          "hash": "80d474c17ca844f3e590ba68ee2512a094020fc6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16019$8206ACE4-D21F-427F-B0F5-4A1BBB1DB5DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16015",
+              "numeric-id": 16015
+            }
+          },
+          "hash": "fdde0ca4ace16a8953c78cdb6d3de20306cd44fc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16019$CBFFE77E-675A-4FB7-87A0-DBECDC870607",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16019$C0736A6D-8F68-467D-9A88-C16A17A1349F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1559-07-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bf92b08b99b5a3fd9d20bf0a44c596e9a37412df",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16019$F640960C-0F23-4B17-8053-2A17D0754DDC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1616-06-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0d067ef9ceb0fce3b242ab1240f6d74652e0b369",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16019$0D95926E-FBA2-42A9-90B1-3B83A61730E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17228448"
+          },
+          "hash": "44f86b26a6b052740d375bb05ade05d3fcdae6d0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16019$2D02B8BD-14CE-4AE1-9CC2-CA433053CCA7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shunkeiin Arms.svg"
+          },
+          "hash": "3cdebf1d915187967f09a4d59dad03fb4e6f81f8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "dcera Tošiieho Maedy"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Maeda Toshiie"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille de Maeda Toshiie"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から江戸時代初期の女性。前田利家の長女"
+    }
+  },
+  "id": "Q16019",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Kóhime"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shunkeiin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shunkeiin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kō-hime"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "春桂院"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "春桂院"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "春桂院"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "春桂院"
+    }
+  },
+  "lastrevid": 17415654,
+  "modified": "2025-09-16T00:26:25Z",
+  "ns": 860,
+  "pageid": 38292,
+  "sitelinks": {},
+  "title": "Item:Q16019",
+  "type": "item"
+}

@@ -1,0 +1,451 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fu Hao //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q25579$7CBCFC86-C4C8-4A11-9900-5979AF0EA512",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "564373"
+          },
+          "hash": "abc84d0fa1db6acc16ce3b362ea87150fd179c16",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q25579$4FE150C1-2FCB-4E16-B340-452DA1FCFE08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25583",
+              "numeric-id": 25583
+            }
+          },
+          "hash": "d0f6ad6960c973e37d0d33b2c36a927773127b8c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25579$65DE1A4E-7756-4E64-8791-33F54D133AD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25579$C07F7950-EA1E-4F6C-8706-ABCE971CB671",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q25579$33680D1E-F581-482A-B800-5433277D1176",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25538",
+              "numeric-id": 25538
+            }
+          },
+          "hash": "dfa6e413c9137d5a53b2c38b3507862846dc7ac8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25579$7367B45C-E1AB-40AA-9C28-35E0A21853BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q25579$14A7A5F0-FFC5-4D99-97E7-2367E6C191B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "891a8fd1e3ea1f5ffde392231c3c7525a14fc1d6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25579$EBE10E6D-62B9-4587-92CE-1F73D1C38704",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18b26d6269d66f0e1ec5fc613fc17f19e7f5bd05",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25579$0B49DE56-C147-4160-AB19-CFAC8808741D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q270018"
+          },
+          "hash": "5c21a9a05613953b153625a6c19bb0d82b26ebb2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q25579$C2247FC0-3B17-4A22-A5AA-0DBBB68B57B6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645919349"
+          },
+          "hash": "b83b7a4a785fcc628cd2851476e6f5bf60859aca",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25579$D85D7667-070A-46C7-AEB2-D9662B5791AE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fu Hao Arms.svg"
+          },
+          "hash": "823e77f1dcf62dbdccb5ab9d36adbd66032a493f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "cap militar de la dinastia Shang"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ehefrau des chinesischen Königs Wu Ding der Shang-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen consort to Shang Dynasty emperor Wu Ding"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Shang dinastiako militar eta apaiz andrea"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "femme politique du XIIIe siècle AEC"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa cinese"
+    },
+    "la": {
+      "language": "la",
+      "value": "politica"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичарка"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "żona Wu Dinga, królowa dynastii Shang"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "política"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "política"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikane"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "商朝國君武丁之妻，最早的女政治家、軍事家。"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "商朝國君武丁之妻、 最早的女政治家、軍事家"
+    }
+  },
+  "id": "Q25579",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فو هاو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Fu Hao"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Fu Hao"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fu Hao"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "فوو ھاوۆ"
+    },
+    "da": {
+      "language": "da",
+      "value": "Fu Hao"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fu Hao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fu Hao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fu Hao"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Fu Hao"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fu Hao"
+    },
+    "id": {
+      "language": "id",
+      "value": "Fu Hao"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fu Hao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "婦好"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "부호"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "婦好"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഫു ഹൗ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Fu Hao"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fu Hao"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Fu Hao"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фу Хао"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Fu Hao"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fu Hao"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Fu Hao"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фу Хао"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Phụ Hảo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "妇好"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "妇好"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "妇好"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "婦好"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "婦好"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "妇好"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "婦好"
+    }
+  },
+  "lastrevid": 17424450,
+  "modified": "2025-09-16T03:44:44Z",
+  "ns": 860,
+  "pageid": 47186,
+  "sitelinks": {},
+  "title": "Item:Q25579",
+  "type": "item"
+}

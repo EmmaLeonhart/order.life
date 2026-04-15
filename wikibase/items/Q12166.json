@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nanbu Sanemitsu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q12166$9A7115BD-5028-4F05-94FC-ECB4EFC6417A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1377655"
+          },
+          "hash": "394fedd1fc81b2136bb4f0d2906f38d83d025709",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12166$21B6F6DD-5264-4559-AD84-F2546146A560",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12166$D681ABAC-7ADE-4084-B090-049B9B85BF6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12166$829AF6BF-73B7-497F-A754-26B4E3BC08DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11337",
+              "numeric-id": 11337
+            }
+          },
+          "hash": "f785dd4534016a06e4b977fec779e31e6be151c7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12166$41DAEC17-76A7-403F-A712-EC1942DD9922",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12166$8E509CD8-BCB0-4A21-9456-487DE344D558",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1181-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c10058ecfd32ef26e4b5cf2fddadedc7e622a9c2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12166$C77938E0-9940-4567-B829-985497A269C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1255-02-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d1978891ec5ded88cfaf18ef60f04136abc71cae",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12166$67835479-47B0-44FB-AE7E-E39E4D8BD300",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11408527"
+          },
+          "hash": "77d5910f671ccc20a9da548c4ef275f24bc46f02",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12166$65FDC5A1-769D-4F1F-8C5F-906F07D0CA3E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nanbu Sanemitsu Arms.svg"
+          },
+          "hash": "444f8caa9cb2597edaa7f290413a7439fb5fe4c3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代中期の御家人"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q12166",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nanbu Sanemitsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "南部実光"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Санэмицу Намбу"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "南部實光"
+    }
+  },
+  "lastrevid": 17413356,
+  "modified": "2025-09-15T23:54:29Z",
+  "ns": 860,
+  "pageid": 34511,
+  "sitelinks": {},
+  "title": "Item:Q12166",
+  "type": "item"
+}

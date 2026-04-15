@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pyeongwon //"
+      },
+      {
+        "language": "en",
+        "value": "Pyeongwon"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q29656$9B913174-35F6-4CC8-803E-7877A7E9ED23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29656$1C3235CF-B214-4518-9992-30704A23BE57",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q29656$EAAD260C-A6C9-408B-AF11-02C41AA86463",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29608",
+              "numeric-id": 29608
+            }
+          },
+          "hash": "2ab8abeae0bee03427aec6f97c59225e792bb859",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29656$FF07C521-50F1-4512-9C53-A4B61D904F07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29656$EE9C08CE-97E0-476A-B95F-D85A4D03D693",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1427-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eb4d59dc47ec772f88f8654cf1f0d98b7b7379fb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29656$C7EAB4DC-DC27-4EB6-BB15-98A6CEE64AFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12621807"
+          },
+          "hash": "b0fc46e0540be9a6edd4471b6682641648c38c3c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29656$A72AA19D-F0EE-41F2-AEE1-8FDF39A24BAE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pyeongwon Arms.svg"
+          },
+          "hash": "dc53e4fda08a76b5f12315c1b18c1ac34e028a03",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "korejský princ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Korean prince"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "李氏朝鮮の王族"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선 세종과 소헌왕후의 아들"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "корейский принц периода династии Чосон"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "朝鮮世宗之子"
+    }
+  },
+  "id": "Q29656",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Pyeongwon"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pchjongwon"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pyeongwon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pyeongwon"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "李琳"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "평원대군"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пхёнъвон-тэгун"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "平原大君"
+    }
+  },
+  "lastrevid": 17429118,
+  "modified": "2025-09-16T04:51:19Z",
+  "ns": 860,
+  "pageid": 49960,
+  "sitelinks": {},
+  "title": "Item:Q29656",
+  "type": "item"
+}

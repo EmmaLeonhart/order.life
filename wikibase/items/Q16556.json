@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shiba Yoshikado"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q16556$27585087-9147-4458-92AE-4C3ACB26E378",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16556$7BD11C6C-3D10-4479-A667-7DD402F8726F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16556$0D00F6EF-F049-4DFA-9D8D-3E9727308DF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28541",
+              "numeric-id": 28541
+            }
+          },
+          "hash": "b4943f4a2651548af512913fbaa1541d7d64f163",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16556$68ABF161-3ECF-4683-B458-096B6C9D81AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26481",
+              "numeric-id": 26481
+            }
+          },
+          "hash": "8e32ac72cfea8398c3b63a8a0dabc688b0e86e90",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q16556$C96BAD17-6E1D-4DE7-968A-4595DCC5EDB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28538",
+              "numeric-id": 28538
+            }
+          },
+          "hash": "bc65ae60ccdec6dc260ee4ea95b99cc0f788c201",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16556$C3810EB2-B71E-4634-9D20-C25CD9C877AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16556$78F87045-D7CF-4023-BD6A-B14CF116508B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1445-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "09ffea21d45d4ba13167b6641fcb0e4c7c372cbb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16556$90D3436D-73BE-4928-9BC0-C049646A9AC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11500865"
+          },
+          "hash": "4908a4704894c9822fafd9d680d8107212eac71f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16556$9A155CD9-95F2-45C6-A2DD-30024626F3BD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shiba Yoshikado Arms.svg"
+          },
+          "hash": "cfaeddf34f43046ef70208584691b15e3b352c54",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q16556",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Jošikado Šiba"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shiba Yoshikado"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شیبا یوشیکادو"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "斯波義廉"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯波义廉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "斯波义廉"
+    }
+  },
+  "lastrevid": 17416150,
+  "modified": "2025-09-16T00:33:58Z",
+  "ns": 860,
+  "pageid": 38814,
+  "sitelinks": {},
+  "title": "Item:Q16556",
+  "type": "item"
+}

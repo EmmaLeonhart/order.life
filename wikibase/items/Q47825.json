@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "藪嗣義"
+      },
+      {
+        "language": "en",
+        "value": "Sou Si Yi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q47825$E4662611-A9E9-4E7F-9DFD-62BEEDED2224",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47825$27AF7748-9557-4505-8971-84A6B7AD047F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47825$2EA2B33D-2DBE-4D44-B046-DA83D34D479E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41565",
+              "numeric-id": 41565
+            }
+          },
+          "hash": "6484c49b6324251f16032b7c95a7544050054f3e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47825$EBE9D294-778C-4741-B2FE-A9C141A91EDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47825$E74408CF-C6D3-4E7A-96FF-A27003971E16",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1686-01-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c33978731cbfd4c969d7602ba46ca84d9f75ba09",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47825$87400736-BCE5-4277-A8A8-C9A8CCC4BC34",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1745-06-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "546da38e0bcd6525c777424f9ec6f8eb44ac3e91",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47825$E48765AE-5A53-414F-9282-66FAB9D7E21B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108857480"
+          },
+          "hash": "cbbad81c383d0682fefbc3520c90f0821935db36",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "母は家女房。正四位下"
+    }
+  },
+  "id": "Q47825",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "藪嗣義"
+    }
+  },
+  "lastrevid": 17453074,
+  "modified": "2025-09-16T10:38:12Z",
+  "ns": 860,
+  "pageid": 63543,
+  "sitelinks": {},
+  "title": "Item:Q47825",
+  "type": "item"
+}

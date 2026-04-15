@@ -1,0 +1,352 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Andrew, Duke of Slavonia //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q49551$7DEAF696-AC15-4778-AE56-487BBF4C4FCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020766"
+          },
+          "hash": "bd91002c3ece5718ecac77010e68682cfed0e6bb",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49551$2512541B-547A-4A3D-882D-C667CBD32FC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49551$D50C5490-DE72-44A6-A5DE-306FE63ABC1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q49551$EFE318A4-7265-4307-A13B-474AAFAF9D01",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p11417.htm#i114163"
+          },
+          "hash": "6138d974c87b1c242c3b25edafc6f480aeef7283",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49551$410615F1-DACD-40F1-8F1F-F4541D82541F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46014",
+              "numeric-id": 46014
+            }
+          },
+          "hash": "e66694ec759578017033744885e0e4f418659235",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q49551$1AD04925-3776-4085-9C16-10DEFAFDF282",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46018",
+              "numeric-id": 46018
+            }
+          },
+          "hash": "0936eec3b748b149e804718aa8f764b88b0dcb4c",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49551$D62000EB-7388-4D21-9653-1EEF0A7CB23A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49551$3E22833E-D00D-473E-A770-4D626A3AE52F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1268-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14774b0ec26a5330b6af8902a1608d544ba35e0a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49551$597EF2D8-6AFB-492B-AAF6-4ACDC0BAB7B6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1278-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71d39e22cd085d389d13e8bccdd04ca87fdd37ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49551$BE3A1456-4F2B-4792-BD4C-22D30C48154A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9154177"
+          },
+          "hash": "0e29d2fb055ecc72db5ed2ab3a8639685e3f573e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q49551$977F9379-BEE0-43F8-BFDE-FD80426531D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1288"
+          },
+          "hash": "002f3509c6e6057174efeb8ab13391b55b4aba71",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49551$3799E3D8-4949-4996-8B0F-C22A49CB19E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Andrew, Duke of Slavonia Arms.svg"
+          },
+          "hash": "e7b96027b85070b4b6e86e21f3a0489d079a9abf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herzog von Slawonien"
+    },
+    "en": {
+      "language": "en",
+      "value": "(1268-1278)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "(1268–1278) V. István fia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Duce de Slavonia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1268-1278)"
+    }
+  },
+  "id": "Q49551",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Андрэй"
+    },
+    "da": {
+      "language": "da",
+      "value": "Andreas, Hertug af Slavonien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Andreas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ανδρέας της Σλαβονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Andrew, Duke of Slavonia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Andrew, Duke of Slavonia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Andrew, Duke of Slavonia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "André, duc de Slavonie"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנדראש , דוכס סלבוניה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Andrija (herceg)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "András szlavón herceg"
+    },
+    "it": {
+      "language": "it",
+      "value": "Andrea di Slavonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンドラーシュ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Andrzej węgierski (1268-1278)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Andrei de Slavonia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Андраш (герцог Славонии)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Андрій (герцог Славонії)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安德烈"
+    }
+  },
+  "lastrevid": 17455396,
+  "modified": "2025-09-16T11:11:30Z",
+  "ns": 860,
+  "pageid": 64831,
+  "sitelinks": {},
+  "title": "Item:Q49551",
+  "type": "item"
+}

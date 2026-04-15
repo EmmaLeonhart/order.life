@@ -1,0 +1,234 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "N Komnene //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q55624$76713E64-3888-4D75-BF04-FDA7E37B13CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55624$702FFA35-4D0E-48DA-A815-011277ED7233",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q55624$79E74F73-B905-4089-B554-BCA5C8426A2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55639",
+              "numeric-id": 55639
+            }
+          },
+          "hash": "bd9215aa0642c3e955da47e9793a27aa974a1db6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55624$73FC4975-E6A5-4786-AC51-BF2875727918",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50087",
+              "numeric-id": 50087
+            }
+          },
+          "hash": "369a042d31b6bc11f68e5cfbe8bc681285003c02",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55624$A224A6F8-7BDF-4A62-BCE4-634BCC9ABBA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55599",
+              "numeric-id": 55599
+            }
+          },
+          "hash": "c5699eef14f6dd713f03fd42217a93db9577f023",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55624$5314E16F-85B8-454D-88FF-F6257E4AAD8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55624$ED9E96B0-773F-49E8-8139-9CF64057349B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f9fdadfd78961cb329c371efa24d332f94c34a2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55624$A41EBEFF-FA00-40E8-8CDC-CE9A9FFC0C7A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q132369728"
+          },
+          "hash": "b2b9fea3400013e47443148590f5d4a88b5eb37d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55624$1E11D558-A860-477F-8EC5-616A087A63E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000169590474850"
+          },
+          "hash": "d2e28079b2c00045864558fe17a56b17402a81eb",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55624$876DFC5F-F959-4B1F-A331-92DFD5675450",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "N Komnene Arms.svg"
+          },
+          "hash": "74c1113c60330f0a7390782cdae17dfa3b142c11",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q55624",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "[?] Comnena"
+    },
+    "en": {
+      "language": "en",
+      "value": "N Komnene"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "N Комнина"
+    }
+  },
+  "lastrevid": 17463706,
+  "modified": "2025-09-16T13:14:32Z",
+  "ns": 860,
+  "pageid": 70455,
+  "sitelinks": {},
+  "title": "Item:Q55624",
+  "type": "item"
+}

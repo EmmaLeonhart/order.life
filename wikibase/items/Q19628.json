@@ -1,0 +1,211 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ōdachi Hisauji"
+      },
+      {
+        "language": "en",
+        "value": "Odachi Hisauji"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q32593$46F1A61F-9EA8-47A4-B1F1-FAA773CAB579",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28936",
+              "numeric-id": 28936
+            }
+          },
+          "hash": "b44f6a208e3125e7ab6ca2af3ec7d5b1b65f4e47",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32593$3B1685DD-544A-4C91-873C-811B5C2B3275",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36873",
+              "numeric-id": 36873
+            }
+          },
+          "hash": "a613e06a4867976f3137252075d40667cc416221",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q32593$AF78F063-3C3B-4071-8621-26B092CE1CE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32593$529EFE44-A575-44E9-BE72-816880C58D82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32593$EF23A684-77EB-4325-932D-7282D62A30B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32593$0EBAAFB9-B45A-47D2-A19D-4B1D496DBC10",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1454-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cb77369e2402ce6478e0ddf84d8d0e0998e6b030",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32593$810DAB00-940D-40B8-AE2E-71BAB738D605",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11438599"
+          },
+          "hash": "bf2073123534e7d3c254b8c6568a85ee5a2326c1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32593$2BBA0E1A-5927-4984-A5DC-694FD20FDE74",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ōdachi Hisauji Arms.svg"
+          },
+          "hash": "de40d72741c8618cdfa1e3985081c5045b27d685",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "military commander from the late Muromachi period (Sengoku period). Junior Fourth Rank Lower, Jibu Shosuke, Hyogo no Kami, Danjo Shosuke, Saemonsa, and Iyo no kami. Muromachi shogunate public servant"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "室町時代後期（戦国時代）の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q32593",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ōdachi Hisauji"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ōdachi Hisauji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "大舘尚氏"
+    }
+  },
+  "lastrevid": 17432980,
+  "modified": "2025-09-16T05:47:15Z",
+  "ns": 860,
+  "pageid": 52156,
+  "sitelinks": {},
+  "title": "Item:Q32593",
+  "type": "item"
+}

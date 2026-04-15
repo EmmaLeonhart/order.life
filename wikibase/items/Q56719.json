@@ -1,0 +1,171 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ishi Tsunemori"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q56719$39322CDA-2B7E-444C-9ADD-347C40BEDF9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56719$9D36CF58-EE9F-4A9D-A9DC-BB668EFDF77A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56719$860CCAEF-1331-4A54-8C99-C6F7F355F255",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48328",
+              "numeric-id": 48328
+            }
+          },
+          "hash": "23f10509805056cb734dbf3161e526c68755aaa1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56719$2BA987ED-72DC-45FB-9652-245B41030682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56719$66D0DFFD-9255-41E5-B21C-74B2C347BBF1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1537-08-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8698998b3224a7bfb72dc4782aadc20f2722ac3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56719$31453C00-ADAE-4211-8E66-B244E9E699FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q128843813"
+          },
+          "hash": "899e09eaee334cea420927a3dd6d37585c47d1eb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56719$9A5E53E0-5B1E-4CE1-A5EB-8AB531AC09D7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ishi Tsunemori Arms.svg"
+          },
+          "hash": "9fb97b2f87cb9c1a499abe4f9487a20728ac745a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q56719",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ishi Tsunemori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "石経守"
+    }
+  },
+  "lastrevid": 17465222,
+  "modified": "2025-09-16T13:37:17Z",
+  "ns": 860,
+  "pageid": 71550,
+  "sitelinks": {},
+  "title": "Item:Q56719",
+  "type": "item"
+}

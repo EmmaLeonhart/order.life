@@ -1,0 +1,263 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Zhiqian"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q54739$48E35B47-C789-4CA6-B1A7-61FE34C5F5A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46087",
+              "numeric-id": 46087
+            }
+          },
+          "hash": "ca81acd0ccd4e7252d46ec97ca2c86cf9b30c479",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54739$2A983746-53CD-434D-AC25-0A2CFD6C8BFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61383",
+              "numeric-id": 61383
+            }
+          },
+          "hash": "b42850cc4ac039efb96e6209276577d77fa24826",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54739$C06159A9-1F0E-4366-8AD9-4C6AB5B6172F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55166",
+              "numeric-id": 55166
+            }
+          },
+          "hash": "4e7cb5045eecc07b2e77268b04e0e6546527459a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54739$A4A44FE0-3884-4FA9-BCCA-61C7A0DF8F6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54739$ACC498F2-3865-43A7-802B-2DEE4630092D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54739$D562EB77-BBAE-4427-9BF5-919C6B2DAD23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61380",
+              "numeric-id": 61380
+            }
+          },
+          "hash": "962448b149cf737e878eeb0ff5f3b242932cf373",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54739$CF046C16-F471-40EC-925C-2EDE9A509630",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54739$3637272C-CD41-46F4-8350-DE63047B5C72",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0695-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "98815d92f704d7407abd0a97d16fb6c43dabbb16",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54739$249E7B31-1EB2-4BF7-8316-2124C16A57E1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45498978"
+          },
+          "hash": "d9a2df8e9e4647e20237f26fe3aedb36fb701f9d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54739$7FA21B8C-DB72-4DD9-9E94-0462DDCC76A1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Zhiqian Arms.svg"
+          },
+          "hash": "1b8aa64ced309417210e82b9380bf413c167539b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172584"
+    }
+  },
+  "id": "Q54739",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Zhiqian"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jang Č'-čchien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Zhiqian"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Zhiqian"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊志謙"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Zhiqian"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "楊志謙"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨志谦"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊志謙"
+    }
+  },
+  "lastrevid": 17462386,
+  "modified": "2025-09-16T12:54:39Z",
+  "ns": 860,
+  "pageid": 69570,
+  "sitelinks": {},
+  "title": "Item:Q54739",
+  "type": "item"
+}

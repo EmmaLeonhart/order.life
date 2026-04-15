@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wu Sip Wei Zhong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q36962$FFDD86C3-3DD2-4DB2-97CE-80B16E8297DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39467",
+              "numeric-id": 39467
+            }
+          },
+          "hash": "4ba0472f5ae94206887d0a30cd015a431094ac4c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q36962$3FAEF336-1CC7-4210-9FB9-BB0754882896",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36962$0840B500-B271-4619-802E-8C80C806225B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36962$D20840E8-F640-4DA7-A8C1-5DC4571FAEB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32713",
+              "numeric-id": 32713
+            }
+          },
+          "hash": "879a4b5fa19e31c37e5e7a703de5c0e5a76cc599",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36962$FC9A1877-5E31-4972-8292-0379F4E8187D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q36962$A04DCDED-ADE0-412C-A335-F6134B97C896",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1530-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cbcff4ddddcfadf2bcc56bcd78de209389d12c06",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q36962$4DF560A8-2FBC-4F1D-8E0A-A9C7B861645E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1585-07-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "28838a04468db7bbd2edb775e2d197414657c22a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36962$54C4C3A2-4E28-4021-AF9C-11EA8B912931",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109946273"
+          },
+          "hash": "945027151dac12962cec891d078a6a028e648a4d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "五辻家19代。滋野井季国の次男。従二位・非参議"
+    }
+  },
+  "id": "Q36962",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "五辻為仲"
+    }
+  },
+  "lastrevid": 17439168,
+  "modified": "2025-09-16T07:17:41Z",
+  "ns": 860,
+  "pageid": 55421,
+  "sitelinks": {},
+  "title": "Item:Q36962",
+  "type": "item"
+}

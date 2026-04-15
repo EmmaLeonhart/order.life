@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kinoshita Utanosuke"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21701$44037261-DE26-4514-896F-586D04580C4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21701$36CA3A45-8476-457D-B84F-9825B8A99DCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21701$DC45C515-6FE9-4EB9-8230-7760ACD20D35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32862",
+              "numeric-id": 32862
+            }
+          },
+          "hash": "24ce61648debf2d225edd8f95b0e415b88a09bcf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21701$13969D18-C854-46EA-94D5-1098E33D6F61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21701$27340A4E-FD70-4B13-AECE-DE3501E08A1D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21701$5D0ED17C-240B-418C-9FB9-4B10300FAEB8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1584-05-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9aaa5171ce394ca3af9318f48abb2843b9c78d82",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21701$D6045459-AE19-4A2E-9F18-957EBB405AEC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11518104"
+          },
+          "hash": "6547bc89c695d0bd5b86aae094cb77991570d046",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21701$9A7084A2-E7AC-4804-8CCB-8417CAC8B1E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kinoshita Utanosuke Arms.svg"
+          },
+          "hash": "5780d650362d102542225511393c0d9c84f5b811",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q21701",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kinoshita Utanosuke"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "木下雅楽助"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Утаносукэ Киносита"
+    }
+  },
+  "lastrevid": 17420760,
+  "modified": "2025-09-16T02:26:10Z",
+  "ns": 860,
+  "pageid": 43715,
+  "sitelinks": {},
+  "title": "Item:Q21701",
+  "type": "item"
+}

@@ -1,0 +1,158 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "光華陳妃"
+      },
+      {
+        "language": "en",
+        "value": "Q130570307"
+      },
+      {
+        "language": "en",
+        "value": "Q130570307 //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q31800$1F5D0EFF-D08B-4A36-959E-138C8C1754A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31800$07D5F932-D6C5-4248-B12B-CF9D6788C8A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q31800$E46D25D5-0E2E-42BC-A7DB-9981796FB610",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31048",
+              "numeric-id": 31048
+            }
+          },
+          "hash": "a2562d59f5276b8a6fe47be5d8d704cebdacf41b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q31800$965397ED-240A-439B-8933-8DF36A3B6A7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q31800$102E015F-B4C8-46FE-9C7C-ECD5ECDCC9CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1646-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0535b25ebf424fbdb901db8d38795fa038567b65",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q31800$E057F23D-AB8A-4B88-8133-2471FE258FC7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q130570307"
+          },
+          "hash": "b60b860aa4b594d18fc506b0f86c1d6f9d150345",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q31800",
+  "labels": {
+    "zh": {
+      "language": "zh",
+      "value": "光華陳妃"
+    }
+  },
+  "lastrevid": 17431860,
+  "modified": "2025-09-16T05:30:51Z",
+  "ns": 860,
+  "pageid": 51562,
+  "sitelinks": {},
+  "title": "Item:Q31800",
+  "type": "item"
+}

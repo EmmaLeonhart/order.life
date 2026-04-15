@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Suicheng"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q52048$D819E517-61D3-4993-B5B9-B65F22B5AE98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58842",
+              "numeric-id": 58842
+            }
+          },
+          "hash": "ffddd9814a726db5ae96c9c4889bf15a86c9fc75",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52048$071BD208-3B51-4BFF-A963-6D085E5BD0E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q58839",
+              "numeric-id": 58839
+            }
+          },
+          "hash": "13a0052441a0791e3a8d8e59c8adcf1dd7480afd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q52048$0D6A672B-F884-44EF-9AFF-E64014F0A30A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q52048$ECFD3582-6ECA-44D4-94CB-3FA66CA291B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q52048$43EEF2EA-410D-4A36-9849-65B2353CA550",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25219",
+              "numeric-id": 25219
+            }
+          },
+          "hash": "805458bd6d33e140a6e4fdb01ad4475d353c43ce",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q52048$75168C0C-6A16-4A3A-A8D8-6DA1D8C872FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q52048$E062B31D-867E-4A85-82F5-6466F9D874D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0728-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "03cd9a84424e6a8b88b9cecfbc4c8d85838e7264",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q52048$295AE41E-72A3-412C-B65F-F89FD10FE0E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45701710"
+          },
+          "hash": "85235e1142f8703ec7ff8b0019fd880471e43cc6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q52048$819D1BA1-C343-4CA9-9D84-A0D8603C5B8F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Suicheng Arms.svg"
+          },
+          "hash": "3780f16b03f69005888e47d888837e3885d8467e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 187337"
+    }
+  },
+  "id": "Q52048",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Suicheng"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Suicheng"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李遂成"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Suicheng"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李遂成"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李遂成"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李遂成"
+    }
+  },
+  "lastrevid": 17457936,
+  "modified": "2025-09-16T11:49:18Z",
+  "ns": 860,
+  "pageid": 66879,
+  "sitelinks": {},
+  "title": "Item:Q52048",
+  "type": "item"
+}

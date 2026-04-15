@@ -1,0 +1,357 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ulaghchi //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q43047$74F9DA82-65C6-4B65-97FF-BBA912A646CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "274018"
+          },
+          "hash": "7f4cc962ccbbfbe6392852797fb93ed03e7f9337",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43047$B0C097F1-8BA0-4297-B831-457BCEB07729",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43047$5EC63685-197C-4384-831E-B4046B6ECAA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43047$B0ADDA12-DEE6-423A-804B-4E6BAC89EF2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40823",
+              "numeric-id": 40823
+            }
+          },
+          "hash": "78c89e080691a97426555a359d83e5b5245233b2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43047$06FE0FF8-AD18-4DE9-919F-FE63498A6424",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43047$E95C9CAC-4DBA-4F30-B864-70A6184A4C8F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1247-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a7e514117dacf435ddd8664ca07409cedd3fb1d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43047$50533C7E-555F-4D7C-9EB8-F44A7F8112C9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1257-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ae3e15dfb0f6c3683714ab81aa01ea04c8e58284",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43047$8A4AC850-079F-44F8-8B1F-A6F204B3FEC9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q982456"
+          },
+          "hash": "87cd4cd588f5cbc989fd75286b6ae50380ad314a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43047$D294DD67-D1C6-4EF8-A8F5-85F97E415F30",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ulaghchi Arms.svg"
+          },
+          "hash": "adb35fca1f3155adf657dc80296131d0ce75123e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Khan der Blauen Horde"
+    },
+    "en": {
+      "language": "en",
+      "value": "Khan of the Golden Horde"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "az Arany Horda és a Kék Horda kánja"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero mongolo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "condottiero"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Nobre mongol do século XIII"
+    }
+  },
+  "id": "Q43047",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Ulaqçi"
+    },
+    "be": {
+      "language": "be",
+      "value": "Улагчы"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ulaghji"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ulaqchi Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ulaghchi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ulaghji"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اولاغچی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ulaqtchi"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ulagcsi kán"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ulakci"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウラクチ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ულაღჩი"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Ұлақшы хан"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "울라크치"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Улагчи"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ulaghchi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ułakczi"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ulagueche"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ulagueche"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Улагчи"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ulagči"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ulaghchi"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Улагчи-кан"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "உலகாச்சி"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ulakçı Han"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Улакчы"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Улаґчі"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Ulagchi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "乌剌黑赤"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "乌剌黑赤"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "烏剌黑赤"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "烏剌黑赤"
+    }
+  },
+  "lastrevid": 17447022,
+  "modified": "2025-09-16T09:09:10Z",
+  "ns": 860,
+  "pageid": 59974,
+  "sitelinks": {},
+  "title": "Item:Q43047",
+  "type": "item"
+}

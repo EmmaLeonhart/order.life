@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kazanin Iemasa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13497$44FE49C0-BA17-48AD-A896-F755E5CA642F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13497$D8161D81-CD8E-4598-A4CA-2ACCE84581EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13497$4259A408-2666-4432-A602-CEF606A344B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12820",
+              "numeric-id": 12820
+            }
+          },
+          "hash": "bc5819a2a70e3872efe78ae8657aff0e45bf0a96",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13497$0691DDCB-84F2-4E6B-A770-816D699F50D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13497$F5122461-AB9C-473B-AEB0-6EC5A4CA1720",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1277-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3f78ca0ee09165d9cb514cff3b06b582539866a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13497$1635D18C-4DFE-4C18-B6F1-830284EF0ABE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1308-08-30T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "685f6efac1805a6dd3553286fd7cb86c3ca75a03",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13497$795BDD8C-3AC8-4B41-B13E-58C717E0F537",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q108855752"
+          },
+          "hash": "3b27c334638485b13c31afda7caf3322af37ef54",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13497$13AEAB24-1E5C-464E-8313-C1F6D8147AD7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kazanin Iemasa Arms.svg"
+          },
+          "hash": "acfc1d7033fd0cfdccb52ea345bcc324e965bfb2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代の公卿"
+    }
+  },
+  "id": "Q13497",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kazanin Iemasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "花山院家雅"
+    }
+  },
+  "lastrevid": 17414022,
+  "modified": "2025-09-16T00:03:50Z",
+  "ns": 860,
+  "pageid": 35815,
+  "sitelinks": {},
+  "title": "Item:Q13497",
+  "type": "item"
+}

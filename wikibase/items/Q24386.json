@@ -1,0 +1,159 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "西洞院行子"
+      },
+      {
+        "language": "en",
+        "value": "Xi Dong Yuan Xing Zi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q42484$81FCBFB8-3055-42E2-85D9-DD573AB04616",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42484$121A8F18-5873-406E-AE80-3EF1F0E5351B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q42484$AFF2AB01-19CA-4CEB-AD83-F4B9F9CC4752",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38172",
+              "numeric-id": 38172
+            }
+          },
+          "hash": "a2df91ba0ff67552d3ceef0c2ef99e5f9997fa40",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q42484$782DA9C9-93EF-4E6E-87A3-A297014F3721",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q42484$438DAAE3-4969-4363-897F-CAD676DD2436",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1678-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5fab368ba8aa6956235d6a638a14a8fc33d3f547",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q42484$6788A83A-F032-4E3E-B8E2-345FB22D6FA1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110090196"
+          },
+          "hash": "a766b5bb2772689b424b0a83d3561b09f272c485",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "東福門院上臈、宣旨局、石井家創設"
+    }
+  },
+  "id": "Q42484",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "西洞院行子"
+    }
+  },
+  "lastrevid": 17446224,
+  "modified": "2025-09-16T08:58:13Z",
+  "ns": 860,
+  "pageid": 59553,
+  "sitelinks": {},
+  "title": "Item:Q42484",
+  "type": "item"
+}

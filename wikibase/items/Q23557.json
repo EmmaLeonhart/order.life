@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Taihua"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23557$FC50C3EE-C78A-4A6C-8611-0B4E012F9EE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23557$70B6976F-E52E-4313-BAB4-3C8E94D119E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23557$5CE9A664-B231-40AD-9A70-75D6AE10517C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21310",
+              "numeric-id": 21310
+            }
+          },
+          "hash": "bcb7a20e89226ee4ff14368fd103ba418f9f4c9e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q23557$144B54E2-B656-44F7-891C-2391B2EE983A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23505",
+              "numeric-id": 23505
+            }
+          },
+          "hash": "22bd3db55120c4a8c26f35c140dc65ecfaaa831e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23557$955126C8-92E5-4587-8AB9-D5D843BFC0D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23557$93128948-53F0-47C3-BF85-2B7CE3DE0ECE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0725-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "621e1c0c767f4510edfada1778a77bd160159e30",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23557$2D7E8E1D-40E7-4254-ABD8-ACF932BFBFBE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10721658"
+          },
+          "hash": "4b4159acafb0f082943818069c520e1635591d5c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23557$4CC66B32-BB43-4CCD-BDD3-C89744F906E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Taihua Arms.svg"
+          },
+          "hash": "d5935fa5a527274c8c4304fc91be24e4c12f3410",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "κόρη του Κινέζικου αυτοκράτορα Σουαν-τζόνγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Chinese emperor Xuanzong of Tang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь императора Сюань-цзуна"
+    }
+  },
+  "id": "Q23557",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Ταϊχούα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Taihua"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Taihua"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Taihua"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тайхуа"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "太華公主"
+    }
+  },
+  "lastrevid": 17422564,
+  "modified": "2025-09-16T03:05:34Z",
+  "ns": 860,
+  "pageid": 45447,
+  "sitelinks": {},
+  "title": "Item:Q23557",
+  "type": "item"
+}

@@ -1,0 +1,229 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakai Tadashige"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q20018$7A481192-984C-400C-9016-4BA9FE89E899",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "酒井-23"
+          },
+          "hash": "35d2c24c3969c57380caf1b5f2df177147bf9ca8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20018$366BA496-2CCC-4E23-92B0-35020CFC2389",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20018$C5146C50-3A3A-4815-A3DD-BC47487B3ADE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20018$FD635ABC-311A-47DB-84AD-6A93FDC7FE07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18385",
+              "numeric-id": 18385
+            }
+          },
+          "hash": "eed7dca00eacd13e2d14a95ab947c01ce983e4ea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20018$2AF86BCA-A078-4B56-8336-C30661468943",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20018$7E30D63C-2D9D-4799-8345-A8603FBC19E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1653-04-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "92fdfa9b9e61cba8ac2b26f1ef31ad0a7be99e4e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20018$D4246A92-D9FC-489C-B0D9-33A670E37B50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1706-07-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0d498806895a12ba0291b68019d00fb08f0debc0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20018$57FEBE99-CE08-4D7D-99DC-D572D68412FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11644149"
+          },
+          "hash": "c61cd9c88ff965aae479b51b0691bc9cdf5920a4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20018$251A3281-905B-4767-A369-3F506A0A59B4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakai Tadashige Arms.svg"
+          },
+          "hash": "55f0962243b6302ad1a112b93a6b196e1884860d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "27 Apr 1653 - 12 Jul 1706"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期～中期の大名。若狭小浜藩2代藩主酒井忠直次男で、越前敦賀藩初代藩主。従五位下右京亮"
+    }
+  },
+  "id": "Q20018",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sakai Tadashige"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "酒井忠稠"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "사카이 다다시게"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тадасигэ Сакаи"
+    }
+  },
+  "lastrevid": 17419174,
+  "modified": "2025-09-16T01:49:15Z",
+  "ns": 860,
+  "pageid": 42117,
+  "sitelinks": {},
+  "title": "Item:Q20018",
+  "type": "item"
+}

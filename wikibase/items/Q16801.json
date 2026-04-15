@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Komahime"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q16801$78E51B83-1775-4C19-8957-73E397734209",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16801$DE68A1B3-193D-4568-AF7E-7FAC448C5761",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16801$57B9158D-F5E0-418D-80D2-A491F0BBE332",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15990",
+              "numeric-id": 15990
+            }
+          },
+          "hash": "9deb24a3f27419bcef27765b186ca5736951c962",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16801$AD936EAE-692C-4472-AAA0-D4FB6A3ADB32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16801$35C8EA31-3026-4956-827B-7B7E1E78DBA6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1581-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "679380fc9100ef6f3021e11c92a75163f2f344f0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16801$41B8415B-7D3A-48F2-8F58-B05E433D7DC6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1595-09-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2897b0d317df08e69e4a438877d790dd7fb43847",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q16801$E9026CE9-D76F-4BA8-A629-5091A00969FC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "駒姫.jpg"
+          },
+          "hash": "56df7a7d2067338af6f09b43198cfd83e5692ce8",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16801$F6DBFC22-3AC8-4AF6-8605-AE7ED6C7289D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11668336"
+          },
+          "hash": "12a38ab14f764a07004b510fc1b1abfa63d448fa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16801$CAC4D4FB-41F1-4A2D-8A66-CF1A123F3E83",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Komahime Arms.svg"
+          },
+          "hash": "3591861a1f942211b576276005286546645661a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese noblewoman of Azuchi-Momoyama period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の安土桃山時代の女性、武将・豊臣秀次の側室候補"
+    }
+  },
+  "id": "Q16801",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Komahime"
+    },
+    "en": {
+      "language": "en",
+      "value": "Komahime"
+    },
+    "es": {
+      "language": "es",
+      "value": "Komahime"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Komahime"
+    },
+    "it": {
+      "language": "it",
+      "value": "Komahime"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "駒姫"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Komahime"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Komahime"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "駒姬"
+    }
+  },
+  "lastrevid": 17416352,
+  "modified": "2025-09-16T00:39:51Z",
+  "ns": 860,
+  "pageid": 39052,
+  "sitelinks": {},
+  "title": "Item:Q16801",
+  "type": "item"
+}

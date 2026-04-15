@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Junson"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q17189$0E43F1CB-E127-4397-9975-92DC3BBFBEF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17189$8794082E-F94A-48B6-BD88-F5F96B5E7255",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q17189$68D44DDD-7602-4FE4-BE85-32989030CDA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27395",
+              "numeric-id": 27395
+            }
+          },
+          "hash": "f7fde554e4b882081c2950c40e34e882448ef3ca",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17189$DBB520FE-1A5E-45E2-BA82-F96F763FC1FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17189$7F81121E-E88F-4D4F-8063-944DCCCE7995",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1585-11-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "832374104813d9c017bb31ec6b1decf940f4a7f8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17189$B3B585F0-B4A2-4903-833F-FAD649AB5FB4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1622-06-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "be9263c6f2e809c53406a2914521316199ce7e63",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17189$333D9884-4811-4560-A011-906B1915665D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6606306"
+          },
+          "hash": "7d39212b133a991a8e86033206299ddcbe73e51c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17189$81634584-B48A-41BE-AD8E-2946B8824DDB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Junson Arms.svg"
+          },
+          "hash": "4b12a0083ab603caf138d2fc8d94449edea8ec43",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の安土桃山時代～江戸時代前期の僧。興正寺17世門主顕尊の子で、興正寺18世門主"
+    }
+  },
+  "id": "Q17189",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Junson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Junson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Junson"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "准尊"
+    }
+  },
+  "lastrevid": 17416740,
+  "modified": "2025-09-16T00:48:52Z",
+  "ns": 860,
+  "pageid": 39426,
+  "sitelinks": {},
+  "title": "Item:Q17189",
+  "type": "item"
+}

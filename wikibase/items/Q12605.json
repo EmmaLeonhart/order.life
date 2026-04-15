@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ashikaga Toshitsuna"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q12605$18A3D616-D9F4-4465-8247-62BE244D767C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13324",
+              "numeric-id": 13324
+            }
+          },
+          "hash": "eb4bd29735e004c7818e7b24dff734261a1e230d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12605$8E9F8D8C-EF51-4026-BB2E-531A381C28E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12605$2E0AB0A0-0B57-484C-A858-23BC75CF27FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12605$567BC6F9-45CA-4348-8997-E8493A67D805",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11776",
+              "numeric-id": 11776
+            }
+          },
+          "hash": "ca7a23f2e14ce2c22f3504429a0bcdb4c152ded5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12605$24E30BB9-55F3-439D-889E-EB9135134419",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12605$9406B558-321B-4020-B787-724E5C7D2A21",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1180-07-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f662a7c2762111b266c8d25ceab2265b74d705fc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12605$178BC5EA-F454-4A28-A0D2-F055767661F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11636752"
+          },
+          "hash": "f860d4525449520254b88458813f6dd7a862bb1c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12605$7E8B45A6-8E28-47EA-9F17-37F62713177D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ashikaga Toshitsuna Arms.svg"
+          },
+          "hash": "d87b258698bd5ad803936b0ca5588cae3df07361",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期の武将。藤姓足利氏4代。"
+    }
+  },
+  "id": "Q12605",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ashikaga Toshitsuna"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ashikaga Toshitsuna"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ashikaga Toshitsuna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "足利俊綱"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тосицуна Асикага"
+    }
+  },
+  "lastrevid": 17413568,
+  "modified": "2025-09-15T23:57:25Z",
+  "ns": 860,
+  "pageid": 34938,
+  "sitelinks": {},
+  "title": "Item:Q12605",
+  "type": "item"
+}

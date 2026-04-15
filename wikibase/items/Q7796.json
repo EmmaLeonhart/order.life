@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Hitokazu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q7796$AC99A031-E03E-4C59-A5AB-770D19D635D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7836",
+              "numeric-id": 7836
+            }
+          },
+          "hash": "f7bea2aa2316703d7ab22658cc4287df92ad719d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7796$6A8FD90E-B850-4076-9DF5-7908EEADE1F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7796$955EFC1D-8D83-4CFC-B514-CCABD151029D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7796$1C49F207-07B5-4F18-9221-98FF16E05FCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7750",
+              "numeric-id": 7750
+            }
+          },
+          "hash": "b6b6b940dbe8757dcd6f88d35624f3a7b2280807",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7796$63133432-F623-4F87-8DFA-F74C8E0D8E7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7538",
+              "numeric-id": 7538
+            }
+          },
+          "hash": "f54a39a3e4144aff4b69152fb89f20e79fff7755",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7796$A9D03DF0-6539-474C-A050-A782453B286D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7796$5471E11A-89A5-4749-85F4-DB90DEA30725",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0809-09-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd8f803007ad26acbea7dc6c9a2ea56225d22169",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7796$D34464E7-433F-4751-A0E6-3070FF3ABEED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q97636286"
+          },
+          "hash": "fead505db974935fd3229ac01353d603b90b8cac",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7796$1D68C59F-222E-4C8D-9C1C-807469D5217C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Hitokazu Arms.svg"
+          },
+          "hash": "967743dec9aadb861746080d092a910249212578",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q7796",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Hitokazu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原人数"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原人數"
+    }
+  },
+  "lastrevid": 17407725,
+  "modified": "2025-09-15T22:38:34Z",
+  "ns": 860,
+  "pageid": 30288,
+  "sitelinks": {},
+  "title": "Item:Q7796",
+  "type": "item"
+}

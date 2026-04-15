@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Munesuke"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21779$BF315412-6467-4E10-84D6-2E80E7B3CAF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21779$C9CEF088-C524-44C9-A93D-6FD0603CCAA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21779$7CD441CC-BFEE-4E0D-8209-24093AE3CC37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33118",
+              "numeric-id": 33118
+            }
+          },
+          "hash": "8196f452e715d68160deeb24431fc25c8884ebb4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21779$69638D45-544B-4A5C-94BE-0F50DE08D2B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21779$FF55A19B-4E60-4284-BE24-86F8CA8286F5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1697-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6e1b70843811c257ea268d13482d9e3cedcc0c80",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21779$EC35A208-23C3-4508-91BB-0133DED2DC04",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1709-02-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b1e7bc5e61d358b5f9a97676b1d8fca51b3caa44",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21779$1B53D38F-209E-4E89-B19D-945D30D611FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11380732"
+          },
+          "hash": "bc15bffc33c9b8dd20cd577a7877751ab07bbdad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21779$3A967881-E8FE-4DD8-ABCC-7536905C9405",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Munesuke Arms.svg"
+          },
+          "hash": "4029f0c63e0a6805ba48e3d81d51dff3aa1e62db",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代の大名"
+    }
+  },
+  "id": "Q21779",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Munesuke"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達宗相"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мунэсукэ Датэ"
+    }
+  },
+  "lastrevid": 17420802,
+  "modified": "2025-09-16T02:28:04Z",
+  "ns": 860,
+  "pageid": 43792,
+  "sitelinks": {},
+  "title": "Item:Q21779",
+  "type": "item"
+}

@@ -1,0 +1,195 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakurajima no Tadanobu"
+      }
+    ]
+  },
+  "claims": {
+    "P3": [
+      {
+        "id": "Q9941$7277E5F0-2AD1-4CAF-A530-8EAEF3E29A7E",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Sakurajima no Tadanobu"
+            }
+          },
+          "hash": "6ffed61275f3335629916f742994997cd966c4d8",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9941$00839EA8-E890-4A46-A6D3-3B5A9A09C4C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9941$6BAA260A-D484-40C0-A790-B2B3E17B23BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q9941$913C595A-F4DC-4B2C-960F-4DD1AE53D598",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Sakurajima no Tadanobu"
+            }
+          },
+          "hash": "2833f029540c53a271af55128430b3e3ed13cd0c",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9941$44F8A2A6-0E84-40E5-AD1F-9CF3EF52A361",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9941$B1D34FDE-DA3C-422D-B9B6-DF08505B4091",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ea8803e48538dde79fc706112390b90cae736a34",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9941$50C72B92-F6D2-45EB-A3D5-02486A06E7E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q64783205"
+          },
+          "hash": "b2a9e59c5def2652397ad442af8d3949866f411b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q9941$2B2252C9-61D6-45AD-8E7D-D4D583039F4C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakurajima no Tadanobu Arms.svg"
+          },
+          "hash": "25c206489385db8654fedbb37497b5e6f7453faf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代中期の官人。外従五位下・大隅守"
+    }
+  },
+  "id": "Q9941",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sakurajima no Tadanobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "桜島忠信"
+    }
+  },
+  "lastrevid": 17411886,
+  "modified": "2025-09-15T23:33:01Z",
+  "ns": 860,
+  "pageid": 32367,
+  "sitelinks": {},
+  "title": "Item:Q9941",
+  "type": "item"
+}

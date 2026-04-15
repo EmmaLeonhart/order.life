@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "船木常平"
+      },
+      {
+        "language": "en",
+        "value": "Chuan Mu Chang Ping"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q41176$527FE0C8-5D89-43C0-8338-03BB2C1F75BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47514",
+              "numeric-id": 47514
+            }
+          },
+          "hash": "09a5a20c861a1a97811c7e0851983de735c85d6e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q41176$7D16D417-79A0-44BC-9AA9-D34D786D692B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q41176$BA2AE7E7-2D64-4CCA-BD4C-21BC5583E57D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q41176$4B7CB93A-245F-499C-98D3-EAC9F01360BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36481",
+              "numeric-id": 36481
+            }
+          },
+          "hash": "0b435ee298a053fd8e9cdcb7244830be4536a307",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q41176$CCB1D19F-0F72-4530-904B-73057763D099",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q41176$DDFBCAE7-1091-47A2-8468-7B3DAF37A8BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1541-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8fc41c6a3e1f1b3bffeadb5678f3318c32e3ce02",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q41176$EF7C4274-BEC6-42A8-A0CF-3325A0C06ED6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17213357"
+          },
+          "hash": "3e541df1de2d7c5c1a35cb438b776f4cfe3c2e98",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武士。安芸三石城主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q41176",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "船木常平"
+    }
+  },
+  "lastrevid": 17444652,
+  "modified": "2025-09-16T08:35:35Z",
+  "ns": 860,
+  "pageid": 58570,
+  "sitelinks": {},
+  "title": "Item:Q41176",
+  "type": "item"
+}

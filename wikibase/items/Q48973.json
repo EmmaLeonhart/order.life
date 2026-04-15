@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Naganoki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q48973$267F2D00-62E7-4D6E-A932-0CB13E73062D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57074",
+              "numeric-id": 57074
+            }
+          },
+          "hash": "438f7d9b5bbd8cab35067ceaeecc1e357d86d992",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48973$F00F712B-DC5E-4F5D-A625-904013772903",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q57071",
+              "numeric-id": 57071
+            }
+          },
+          "hash": "4ce52a35b48cf27732819963c2b402b29d689f83",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q48973$B6DC7D9C-2719-48D8-8651-4764A62247DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "織田-45"
+          },
+          "hash": "ed6b2b4eddf9b4c48e61b7dae405d58b65035c9e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q48973$7E1B9CD8-1A77-4CDE-9279-54022CC57F7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48973$1521CF25-7843-413A-91B7-1EF20A27D3EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48973$23A9E9F2-7FD1-49F3-B258-569113F28FF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42311",
+              "numeric-id": 42311
+            }
+          },
+          "hash": "bb360cea6eff53c28b3a9ec70b5a56e78deda43a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48973$EB06FE88-C30D-44B5-8600-C009E34ED30D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48973$6B4C30B3-0CE2-46A1-ABAB-1838C979EA9B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1767-08-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a053f11b91f3944512e116aa3dfb85a6317ecf8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48973$A655B7AE-A295-4079-B2A4-4D78A394F8C8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1839-07-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "68063c56ec8bf16f20227e1292dc336b228e4998",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48973$CE7F7316-E092-4538-BC82-074FAAD215B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608442"
+          },
+          "hash": "8ba330fc0754d1d5211fd36c730416d3b830d878",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48973$4D74600F-EF95-4D53-8B1A-EB8E6D833142",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Naganoki Arms.svg"
+          },
+          "hash": "5255d9d72c499f95b537b17c36242918ac37b144",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo of late-Edo period; 9th lord of Shibamura (1767-1839)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "大和国芝村藩第9代藩主"
+    }
+  },
+  "id": "Q48973",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Oda Naganoki"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oda Naganoki"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oda Naganoki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田長宇"
+    }
+  },
+  "lastrevid": 17454632,
+  "modified": "2025-09-16T11:00:37Z",
+  "ns": 860,
+  "pageid": 64400,
+  "sitelinks": {},
+  "title": "Item:Q48973",
+  "type": "item"
+}

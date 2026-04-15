@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kim Jwa-geun //"
+      },
+      {
+        "language": "en",
+        "value": "Kim Jwa-geun"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q34651$BA16C644-A8D0-43C0-8197-682DA6FAC05A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q34651$F6096884-EC40-417A-BEC5-08B582F6F314",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q34651$3BFD1E69-4CF6-40FE-B98A-C743F5C87835",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34643",
+              "numeric-id": 34643
+            }
+          },
+          "hash": "fcc1ab1bb881ffb0e85876f704bc4aa13a404f5d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q34651$85A87012-0A4B-4575-85B0-1CB5FF10EEDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q34651$E427EC3F-0927-4B51-B67E-00377DBC6464",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1797-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3cfd4536a4e327ba483d5dc3b8225ada50021d1f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q34651$B6900CA0-835D-400E-B431-F7CC108E9553",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1869-04-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b8bcfa7cb68bd9020d036e3204734a3c36737073",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q34651$1708A8C9-745A-484A-AD8F-827E922805B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12588721"
+          },
+          "hash": "a51ab5cd5cde1b4c66d37c06a2284e2915295dc3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q34651$02E49E61-3E4F-4F33-B2B5-81CA79DE79AA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kim Jwa-geun Arms.svg"
+          },
+          "hash": "30a456703056acd83b01fd70a0032448c753958f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "korean political figure, 1797-1869"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선 후기의 문신, 외척 (1797–1869)"
+    }
+  },
+  "id": "Q34651",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kim Jwa-geun"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "キム・ジャグン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "김좌근"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "金左根"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "金左根"
+    }
+  },
+  "lastrevid": 17435894,
+  "modified": "2025-09-16T06:29:01Z",
+  "ns": 860,
+  "pageid": 53695,
+  "sitelinks": {},
+  "title": "Item:Q34651",
+  "type": "item"
+}

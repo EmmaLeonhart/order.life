@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hwisin gongju //"
+      },
+      {
+        "language": "en",
+        "value": "Hwisin gongju"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q29825$66079A5F-8964-44F4-9C22-8D10A2DDEC9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29825$D288DD4F-8817-405D-BC1D-8839CAE289C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q29825$FB9EF056-1860-40FE-B152-828012D8655D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29066",
+              "numeric-id": 29066
+            }
+          },
+          "hash": "93be49154b782e3d8a2596971d86e20cb981250f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q29825$8DA1F62F-E59D-4BFA-B003-470E6E30B41A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29785",
+              "numeric-id": 29785
+            }
+          },
+          "hash": "607df78b5c44421346587e225c5009e0c5735bde",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29825$667E331E-AA61-415E-9B24-64FFE2668334",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29825$960863F4-2177-457F-AF90-842ED1E8429F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1495-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9e23712f3505f89164b2c8d54c01fb90af199a7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29825$7CADB17C-908F-4011-BD83-A3CDE00133F6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12626130"
+          },
+          "hash": "179584170b7713763c18f1a97315044431225b12",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29825$AAD4C4F1-D130-459B-BA30-84DDE5B7DFE2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hwisin gongju Arms.svg"
+          },
+          "hash": "c93045d9ac0472abb8fbfb52279266f2709a4fc5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "korean Royal Princess"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선 연산군과 폐비 신씨의 자녀"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "корейская принцесса времён династии Чосон"
+    }
+  },
+  "id": "Q29825",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Princess Hwisin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hwisin gongju"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Hwisin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Princess Hwisin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "徽順公主"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "휘신공주"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "휘신공주"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Princess Hwisin"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Princess Hwisin"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Princess Hwisin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хвисин-конджу"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "徽慎公主"
+    }
+  },
+  "lastrevid": 17429314,
+  "modified": "2025-09-16T04:54:24Z",
+  "ns": 860,
+  "pageid": 50086,
+  "sitelinks": {},
+  "title": "Item:Q29825",
+  "type": "item"
+}

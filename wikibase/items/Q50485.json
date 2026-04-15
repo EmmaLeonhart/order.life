@@ -1,0 +1,163 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "권겸"
+      },
+      {
+        "language": "en",
+        "value": "Q16219772"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q50485$DD8DB595-5B12-4ABA-BA22-9493C46D131A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46485",
+              "numeric-id": 46485
+            }
+          },
+          "hash": "2dab58f27bd308e0037982faf7042518e32c42b5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50485$6E79FEC0-3719-4E58-8896-45CBA59C51BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50485$53160FC8-3BC2-42A1-B58C-1A2E3DACD3AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50485$7F71EF2B-67FB-466C-A5FC-88251D321CEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50485$B02FCDA0-13DE-4369-86FC-A22C6A5E31DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1356-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1c17e7f2b3f639434f3c39851daff9145b59edac",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50485$31644AAF-96EF-49EB-B835-128F841C4FE5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16219772"
+          },
+          "hash": "9d63105761be9f1912e188fe8f6d959fe98cb3b9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "고려 후기의 문신"
+    }
+  },
+  "id": "Q50485",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "권겸"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "權謙"
+    }
+  },
+  "lastrevid": 17456724,
+  "modified": "2025-09-16T11:31:06Z",
+  "ns": 860,
+  "pageid": 65529,
+  "sitelinks": {},
+  "title": "Item:Q50485",
+  "type": "item"
+}

@@ -1,0 +1,520 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nahor"
+      },
+      {
+        "language": "en",
+        "value": "Canaan  Genarch of the Canaanites"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q47345$7AF6541A-AC77-46D6-B741-930C00E81D61",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "79264|381144"
+          },
+          "hash": "9d9f55401a7022c1b595b05bdb16bb039f4212d3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q47345$ECCBFC70-8BAE-44EF-ADB0-5EB834214AD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129293",
+              "numeric-id": 129293
+            }
+          },
+          "hash": "399faca23137b53f4ffc8959d1bf01e8554c4be2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47345$39E806D8-5FBB-47ED-86E6-D1A4A1C72C0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129343",
+              "numeric-id": 129343
+            }
+          },
+          "hash": "ffd36459f670f8a495d1cf5b29e72687da240629",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q47345$1348E307-FCD0-44A1-B0CE-D2DBC01966BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47345$E1340F33-55A9-4384-9E8D-CED1A5A8A4CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q47345$DA766E3C-9CBD-4518-9F50-0FAD83595712",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q129329",
+              "numeric-id": 129329
+            }
+          },
+          "hash": "45dce09ca6fafba98e3fd16e5bc80a8102036d89",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47345$31FBB5A6-17DD-4A6A-A678-24EB0D0C2E67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70463",
+              "numeric-id": 70463
+            }
+          },
+          "hash": "85dd1e6fc6f0c87e375ca71ec74a47f833003927",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q47345$E076417D-8C8E-43A3-BC72-0FF6490031A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70499",
+              "numeric-id": 70499
+            }
+          },
+          "hash": "5367504e93c513c8a0a85a94e99a06b06da190b2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q47345$FB9E1CF1-ED38-43AC-B745-03BB601B1062",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Canaan /Genarch of the Canaanites/"
+            }
+          },
+          "hash": "f81015b4ec2811648a247830f595430229213556",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47345$FC0211C0-F953-4E2E-B0F7-B10D615C3CF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47345$E1A82FA5-5DA0-411E-A15A-32EF4939F72D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1912-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "778d955040515d3f360889a534725f3dc9464378",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47345$70329BD1-C8C3-4489-8813-A63F6925478B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1764-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f59785a408195d25792657fc26414778db4ea3d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47345$90B61BDB-AEB2-436E-ACD2-F1006B4A98FA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888890"
+          },
+          "hash": "948dd10953a365a1a7fa6ed561938a155daf23e4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q47345$4C6F1FC2-2D8C-4639-A26D-C56E8B3535DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002560330773"
+          },
+          "hash": "e703e15c03e5f9beb0a4f37c1df0c5db4274c59b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47345$D476B1EF-AAA8-453D-B866-81B2906A8389",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nahor Arms.svg"
+          },
+          "hash": "5dde8cdca401704a60c60b509703020028ce2143",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شخصية توراتية مذكورة في العهد القديم في سفر التكوين، أبو تارح والد النبي إبراهيم حسب العهد القديم"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(1912-1764)"
+    },
+    "de": {
+      "language": "de",
+      "value": "biblische Figur; Sohn des Serug"
+    },
+    "en": {
+      "language": "en",
+      "value": "Biblical character, son of Serug (Book of Genesis)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "viro en la Biblio; filo de Serug"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la Genèse, premier livre de la Bible"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית; בנו של שרוג וסבו של אברהם"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖書の登場人物、セルグの息子"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "zoon van Serug"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж Библии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "biblisk figur"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Yaratılış 11:22)"
+    }
+  },
+  "id": "Q47345",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ناحور بن ساروغ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ناحور بن سروج"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nahor"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Нахьур"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Náchor"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Nahor"
+    },
+    "da": {
+      "language": "da",
+      "value": "Nakor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nahor"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ναχώρ του Σερούχ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nahor"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Nahor, son of Serug"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Nahor, son of Serug"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Naĥor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nahor (hijo de Serug)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ناحور"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nahor"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Náchór"
+    },
+    "he": {
+      "language": "he",
+      "value": "נחור"
+    },
+    "id": {
+      "language": "id",
+      "value": "Nahor bin Serug"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nacor"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ナホル"
+    },
+    "la": {
+      "language": "la",
+      "value": "Nachor"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Nahor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nahor"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Nachor"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "نحور"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Naor"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Naor (filho de Serugue)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нахор"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Нахор"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nahor"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Nachor, anak ni Serug"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Seruk oğlu Nahor"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "نحور بن سروج"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Nahor"
+    }
+  },
+  "lastrevid": 17452454,
+  "modified": "2025-09-16T10:29:25Z",
+  "ns": 860,
+  "pageid": 63185,
+  "sitelinks": {},
+  "title": "Item:Q47345",
+  "type": "item"
+}

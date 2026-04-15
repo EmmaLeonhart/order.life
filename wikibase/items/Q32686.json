@@ -1,0 +1,187 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "lady Jang //"
+      },
+      {
+        "language": "en",
+        "value": "lady Jang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32686$5D78DAA8-C9CD-47F7-8EF3-C6CCD74D287E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32686$4C386DAA-D0FC-4AD5-8FE5-9C295E862F1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q32686$853FC52B-6865-409F-AF96-28547DE6EFC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32121",
+              "numeric-id": 32121
+            }
+          },
+          "hash": "6d9aba6569f3cd94860d0772ca709c516a931b43",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32686$4C8CB36F-A1F2-4B06-AC9E-DBDED309EFCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32686$D76E1B15-4D3B-4462-BC2F-38252E48F66F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1671-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d9f91efff046f6867e731732900ff88aec6c3a2e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32686$AA409D1D-AD9A-4B0F-AB57-9D74E9C022C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16168686"
+          },
+          "hash": "69409c739c1c08d30073b1602eab6229c7ab40bc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32686$A53F6C74-A806-4BA8-B9EC-B2881D6799AF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "lady Jang Arms.svg"
+          },
+          "hash": "bcea5058e4f2a39cc576a7a6549d2ff1b5dfe641",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q32686",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "lady Jang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "貴人張氏"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "귀인 장씨"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "貴人張氏"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "貴人張氏"
+    }
+  },
+  "lastrevid": 17433104,
+  "modified": "2025-09-16T05:49:16Z",
+  "ns": 860,
+  "pageid": 52226,
+  "sitelinks": {},
+  "title": "Item:Q32686",
+  "type": "item"
+}

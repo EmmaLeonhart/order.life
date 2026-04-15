@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Myoun"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q10897$197AD84D-E0FD-44B6-8D32-9FFE2766BC21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10897$8689CC7C-E6C2-4C4D-B2FF-45352F6EDE2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10897$4F3B19B6-EEDD-4E34-A469-AC7BD611FD97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10328",
+              "numeric-id": 10328
+            }
+          },
+          "hash": "808ad4043d4df9388ab6201ffa534687c3115af8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10897$1285F95F-7C82-4836-B9E0-9029F88CA11F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10897$61B9CF61-9C83-4627-A243-6C1AFF118C06",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1115-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d05f20b16de9b2b65d9cdd9130df3057e4e810bc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10897$7536B5E1-CF9C-4128-8A84-ADB1090CC62E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1184-01-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "340898588a150cbe31f3de2f493fa2e39cfc31a0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10897$D416EEA3-32ED-486D-878B-534D5496983A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11088241"
+          },
+          "hash": "91817de4270abfb0227bb8d08a5359db6a09e730",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10897$56A096B4-50B8-499D-8044-842E30F97D79",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Myoun Arms.svg"
+          },
+          "hash": "b8f3b1de80057e0689c5c992a47fd9777fdd8390",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "1115-1183, 平安時代末期の天台僧。久我顕通の子。法印、天台座主、大僧正。勅撰集『千載和歌集』に1首入集"
+    }
+  },
+  "id": "Q10897",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Myoun"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "明雲"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "明雲"
+    }
+  },
+  "lastrevid": 17412584,
+  "modified": "2025-09-15T23:43:12Z",
+  "ns": 860,
+  "pageid": 33286,
+  "sitelinks": {},
+  "title": "Item:Q10897",
+  "type": "item"
+}

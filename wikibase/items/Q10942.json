@@ -1,0 +1,373 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Nariko"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q10942$CF14125A-4CBA-4274-95C3-A3AAADACC7CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719936"
+          },
+          "hash": "74df08a3f1d5c834be715f36a357a8440338958a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q10942$CCF19306-7A1F-463E-8615-B7B7C845923A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11483",
+              "numeric-id": 11483
+            }
+          },
+          "hash": "c91ee3f5db4680b8a259f43e93d4cf929aa286df",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q10942$A1175F87-50E2-484D-95D0-3AF5B01FDABC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10942$5312DC15-7D96-4D07-9EC8-311F57392FF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q10942$917390DA-E64A-4959-A46F-76BB5AE5099F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10816",
+              "numeric-id": 10816
+            }
+          },
+          "hash": "f23c6def6d507a9b7cf0b705edd919676e82d8e4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10942$316A36C6-842A-40AA-96D7-8124642CF13D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10769",
+              "numeric-id": 10769
+            }
+          },
+          "hash": "7c701ecc893c90a6b20f7d479c5400db94121e2e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q10942$F7DE44BE-B4FD-431A-9265-DAEACEE17AB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10367",
+              "numeric-id": 10367
+            }
+          },
+          "hash": "2a76c7024ce77bc283488bc4e63f291b93c24bab",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10942$AA2691B2-72AF-4843-81B4-834547AE064E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10942$6E9ACC7B-21CF-4F6F-B36B-E481DE83EC81",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1117-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6902d92385802e70f171743126fb1ffa4d7ebd09",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10942$EFE6F625-FAAA-4B9C-87E1-02DB188C045B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1160-12-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e4facc55a8e2e2f51ad4f57a6197f805fd8c1fbb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q10942$4DECFB14-F3C2-47FF-819D-78FB2DB510E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bifukumonin.jpg"
+          },
+          "hash": "b76c9ae3a505e4cac058f99f6ed0c8723a0e582d",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10942$CB371404-971C-4E52-B324-D1E6CE4759F9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5507535"
+          },
+          "hash": "f1b0724dd3c9f4382e6bf030394f8f03c4b44e33",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10942$C369272D-7ECE-44FF-BB68-CCE33B506251",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Nariko Arms.svg"
+          },
+          "hash": "af3360dc37afc88039a6f91d2cb7bb907308dc45",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Empress consort of Emperor Toba of Japan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "impératrice japonaise"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の平安時代後期の女性。鳥羽天皇の寵妃・皇后、近衛天皇生母・国母"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "императрица Японии, супруга императора Тобы"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "japansk kejsarinna"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Là một vị chính phối của Thiên hoàng Toba và là mẹ của Thiên hoàng Konoe. Bà là con gái của Trung Nạp ngôn Fujiwara no Nagazane"
+    }
+  },
+  "id": "Q10942",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Nariko"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Nariko Fudžiwara"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Nariko"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Nariko"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Nariko"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فوجیوارا نو نوریکو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Nariko"
+    },
+    "id": {
+      "language": "id",
+      "value": "Fujiwara no Nariko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原得子"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Nariko"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Нарико"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fujiwara no Nariko"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟุจิวะระ โนะ นะริโกะ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фуджівара но Наріко"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Fujiwara no Nariko"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原得子"
+    }
+  },
+  "lastrevid": 17412598,
+  "modified": "2025-09-15T23:43:23Z",
+  "ns": 860,
+  "pageid": 33331,
+  "sitelinks": {},
+  "title": "Item:Q10942",
+  "type": "item"
+}

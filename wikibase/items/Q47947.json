@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kuroda Nobumasa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q47947$DF3DCC5A-A39B-4B9D-AEC6-396B3152054C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47947$DA30D370-1966-4D33-A463-241CCA840E5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q47947$0E6D4B12-5DB5-48AB-B02C-0ADEC982ECB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41648",
+              "numeric-id": 41648
+            }
+          },
+          "hash": "de6c31dc7ebd729cd2c8920d29aa887d416c748a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47947$F95721CE-6B47-4102-B239-5C266E657A03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47947$84AF2FFE-1418-4812-B182-82AA6DCB6568",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1685-06-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "debcbbf5b43ab700972d9cf13985c6fc58bc96c5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47947$2E22C434-3FA1-46A6-9D3B-109059536F11",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1744-09-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7838d9886d661ce429547449500ad92ce120bea7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47947$34D911BF-74C4-496F-A808-43EDB39C0674",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11678591"
+          },
+          "hash": "e92aed684d2c2f73ff73ea6ca18ccb3eb0130f63",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47947$1B49F08A-2164-4C74-971A-C5A2487CFCA0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kuroda Nobumasa Arms.svg"
+          },
+          "hash": "1fbcf32fc2d0eafa1a50dd15f619c41328f97fcb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q47947",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kuroda Nobumasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "黒田宣政"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нобумаса Курода"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "黑田宣政"
+    }
+  },
+  "lastrevid": 17453232,
+  "modified": "2025-09-16T10:40:27Z",
+  "ns": 860,
+  "pageid": 63633,
+  "sitelinks": {},
+  "title": "Item:Q47947",
+  "type": "item"
+}

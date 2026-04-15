@@ -1,0 +1,728 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amadeus V //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q55020$05F0BADD-838D-4FB4-8E22-1043816B5E31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "12835"
+          },
+          "hash": "970d804c0c1bca99888a657a33a7b933812cb636",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q55020$BB0FE513-FA58-488C-BA04-FEEF07038A20",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00012417"
+          },
+          "hash": "19073814c8294bc584715cc13d0a36515b3b1a2a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q55020$BAFB6B00-C329-497F-8C9C-D2C566489C3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55032",
+              "numeric-id": 55032
+            }
+          },
+          "hash": "b97bb5e869009a2116c32b30c66bdf94b4b35101",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55020$8C4602C9-4776-47B2-A4B7-F39F068687CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49724",
+              "numeric-id": 49724
+            }
+          },
+          "hash": "fe52d45ef8260723963da65b6cdb9f45ea237f43",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55020$713BF2AB-3CD8-4287-93BA-6D4A29D3F771",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55036",
+              "numeric-id": 55036
+            }
+          },
+          "hash": "1c30774c4cbb14031927ed264058bed7fd86b642",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55020$5E87069D-8990-4999-AA6C-508A3C9BD717",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55052",
+              "numeric-id": 55052
+            }
+          },
+          "hash": "6579ae93c4c0309afad1c868774d8aa8a1dfcf95",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55020$A1CFEFC7-9806-44CC-BC81-B13C485174FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55040",
+              "numeric-id": 55040
+            }
+          },
+          "hash": "2eab048732c9823114f88ba1f50ded410441124b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55020$39942E10-C5AF-4EE2-946E-D9C778C4AC4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49833",
+              "numeric-id": 49833
+            }
+          },
+          "hash": "2615b68b4ebbb489d2b9077ffbfd762a01836317",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55020$22CCE3FF-C7D8-4D0E-8127-E5CCD549D39B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55028",
+              "numeric-id": 55028
+            }
+          },
+          "hash": "50d2627c60840d52557f2e0af9ba8b7fbd717431",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55020$DF2DF0A5-F42D-4352-8679-1F6C9E364ABD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49796",
+              "numeric-id": 49796
+            }
+          },
+          "hash": "e860b1ad6859b93ec8b0decbff602f0298fce92b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55020$F268FD4F-AD67-434A-ABE8-100083B56061",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55044",
+              "numeric-id": 55044
+            }
+          },
+          "hash": "e3759c34accccff2a21d1c55151b5675f2ebb43c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55020$DE049497-BD16-4A12-AC7F-127036B030D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55048",
+              "numeric-id": 55048
+            }
+          },
+          "hash": "d86f541b68c40b92463ec5d1e587251e60edb074",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2889": [
+      {
+        "id": "Q55020$F621E6DD-A0E7-43B0-A75C-41B8CA17C531",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "GQ17-JV2"
+          },
+          "hash": "24a1e278d8e29a8f0d60c3b774fc0f73e1eb047e",
+          "property": "P2889",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q55020$44B6AB1D-F660-4324-B47C-9308A5A1F957",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Savoie-720"
+          },
+          "hash": "da6a5a10c62c70a37492e5e2cb88e7a7a25aeee8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55020$B76784A2-83AD-4822-B243-8B5EC4B516C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55020$0759979A-6E32-4919-A75C-2FBA6C0CA31F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q55020$6441EEA1-EE9C-4113-9FE3-6C631CB3F0EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Amadeus_V,_Count_of_Savoy_(1)"
+          },
+          "hash": "973cc8f1d82444b21a339650d2d8442818a68f14",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q55020$B3FE921F-D260-496F-8C72-D7D6C4B59329",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55024",
+              "numeric-id": 55024
+            }
+          },
+          "hash": "bebb52e096f8f0f0e1b6b0b08fabe18536c9cd5a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55020$8D151B89-31A9-4FBE-91C4-1FDD5DFD3B7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55200",
+              "numeric-id": 55200
+            }
+          },
+          "hash": "58672d3afb6f0712a14816073da71df127b6dbb8",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q55020$04EFBD46-F751-41A7-AFB2-0D51157B4B55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p17009.htm#i170083"
+          },
+          "hash": "70976209ae3ac93d47faf3c626b7da39fd44e620",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55020$E79267C9-866C-4D12-B18B-8A3C8337917B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55020$0EB2DF92-C77F-4046-A457-D21247D747E0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1249-09-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "25991ff07a6b1f772213788591788af7a08412bb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55020$6EA72640-2448-4285-814B-61C54E3AF93A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1323-10-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "50aab3bde599097f5f7c54285dc45607570800ec",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55020$FFD6F129-10CE-45F4-AA21-F76B09D80C1B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q451989"
+          },
+          "hash": "12f635a96da4260dd839233b89c85dbfcb10cb54",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55020$1E5A59FA-0817-437A-8DE9-F8E60B43BEB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000196887298"
+          },
+          "hash": "766536586c685d72bb531bf82f00479beb5f44c9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q55020$73B2592A-8D45-4372-BB0C-F8B776CD8A78",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=amedee;n=de savoie;oc=5"
+          },
+          "hash": "f065dde97c7cfb547a97f8ac3a6a7baf409203f4",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q55020$FAE687AC-DBF4-49BB-926D-3FC644AEEBED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.2898"
+          },
+          "hash": "e889a6e0a898e4222561dfc25b73049f6bc58688",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55020$BBB3C073-11C1-40EB-9928-3CEADE096ABC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amadeus V Arms.svg"
+          },
+          "hash": "2a6d69dd4d94d4ed989d37bb1dbf4f4838d5105d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "граф Савоі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "граф на Савоя, на Аоста и на Мориен, имперски княз, херцог на Шабле и на Вале д'Аоста, маркграф на Италия, господар на Баже и на Колини"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "savojský hrabě"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "gwleidydd (1285–1323)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Graf von Savoyen"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κόμης της Σαβοΐας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Count of Savoy (1285–1323)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "grafo de Savojo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "comte de Savoie (1285-1323)"
+    },
+    "he": {
+      "language": "he",
+      "value": "רוזן סבויה בשנות 1285–1323"
+    },
+    "it": {
+      "language": "it",
+      "value": "conte di Savoia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Савойи"
+    }
+  },
+  "id": "Q55020",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اماديوس الخامس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Амадэй V"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Амадей V Савойски"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Amadeu V de Savoia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Amadeus V. Savojský"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Amadeus v"
+    },
+    "da": {
+      "language": "da",
+      "value": "Amadeus 5., greve af Savoyen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Amadeus V."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αμεδαίος Ε΄ της Σαβοΐας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Amadeus V"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Amadeo la 5-a de Savojo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Amadeo V de Saboya"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Amédée V"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמדאו החמישי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Amadeo V. Veliki"
+    },
+    "it": {
+      "language": "it",
+      "value": "Amedeo V di Savoia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アメデーオ5世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아메데오 5세 디 사보이아"
+    },
+    "la": {
+      "language": "la",
+      "value": "Amadeus V Sabaudiae"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amadeus V van Savoye"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Amadeusz V Wielki"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Medeo V"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Amadeu V de Saboia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Amadeu V de Saboia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Амадей V Великий"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Амадео V, гроф Савоје"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Amadeus V av Savojen"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Амадей V"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿梅迪奥五世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿梅迪奥五世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿梅迪奥五世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿梅迪奧五世"
+    }
+  },
+  "lastrevid": 17462806,
+  "modified": "2025-09-16T13:01:00Z",
+  "ns": 860,
+  "pageid": 69851,
+  "sitelinks": {},
+  "title": "Item:Q55020",
+  "type": "item"
+}

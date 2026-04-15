@@ -1,0 +1,420 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Simonida //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q43228$AEE458C1-0990-44B6-9831-530062E3CCD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "406517"
+          },
+          "hash": "64ee2cbbc8493c6393441531de04c26f47e2d953",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43228$0612DFE6-B9EF-494F-83EF-B2F0326164C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43228$EE8E6C71-DAE1-4612-B1EA-BC5A3D95519A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q43228$536E09DD-004C-4391-93A5-030AA39FD6D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Simonida_(1)"
+          },
+          "hash": "03a61bf27b2f52611d1b8666cd15fbe6ae4b2059",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q43228$6B01B11B-BE70-4B76-920B-73D8FDA7A78B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46090",
+              "numeric-id": 46090
+            }
+          },
+          "hash": "3645cd1f3282c6d010a1205636df29f6a35f212f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43228$DBF74565-FCB8-42F3-8743-0DA9E6492988",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40959",
+              "numeric-id": 40959
+            }
+          },
+          "hash": "acde5b2c05e94a5bc6d69a0236563b24b5d29aff",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q43228$7C995D2D-9C19-47F2-8364-390D894DBB3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43216",
+              "numeric-id": 43216
+            }
+          },
+          "hash": "be388ac2216504757af1afa1710fadc05c95805a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43228$0DEE57D4-0D67-4CB7-9F3D-75649FA54AF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43228$2D3E4340-BA84-4A48-9853-301AC713FF1E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1294-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8daf19e085009874cfe4bcd932c42f0a47e9dd7f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43228$50CCA584-FE0B-40C5-A613-A7D87BB2EF63",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1340-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "41ed2052a2ce85d9499ba0f689f213730518555e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43228$FCE317A8-DD92-4A7D-92E2-3F4EEA9B9DFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q469013"
+          },
+          "hash": "1d4f87df96d275e5ca31728acc6cee71be4fba4c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43228$56BD5614-15E2-441D-8A70-CBCFCE35F76E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Simonida Arms.svg"
+          },
+          "hash": "5953258950983186c6b3aceeeb3a42d4d66b5611",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "vierte Ehefrau des Königs von Raszien, Stefan Uroš II. Milutin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Serbian queen consort, Byzantine princess"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kraljica supruga Srbije"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szerb királyné"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina consorte serba e principessa bizantina"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "kloosterzuster uit Byzantijnse Rijk (1294-1340)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "византијска принцеза и супруга српског краља Милутина"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "drottning"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "королева-консорт Сербії"
+    }
+  },
+  "id": "Q43228",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سيمونيدا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سيمونيدا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Сімона Палеалагіня"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Симонида Палеологина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Simonida"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Simonida"
+    },
+    "de": {
+      "language": "de",
+      "value": "Simonida"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σιμωνίς Παλαιολογίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Simonida"
+    },
+    "es": {
+      "language": "es",
+      "value": "Simonida"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Simone Paléologue"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Simonida"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szimonida"
+    },
+    "id": {
+      "language": "id",
+      "value": "Simonida"
+    },
+    "it": {
+      "language": "it",
+      "value": "Simonida"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Симонида"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Simonida"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Symonida Paleologina"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Simonida Paleóloga"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Simonida Paleóloga"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Симона Палеолог"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Simonida Nemanjić"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Simonida Nemanjić"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Simonida"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Симонида Немањић"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Симонида Немањић"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Simonida Nemanjić"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Simonida Nemanjić"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Симоніда Палеолог"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西莫妮达"
+    }
+  },
+  "lastrevid": 17447270,
+  "modified": "2025-09-16T09:12:44Z",
+  "ns": 860,
+  "pageid": 60109,
+  "sitelinks": {},
+  "title": "Item:Q43228",
+  "type": "item"
+}

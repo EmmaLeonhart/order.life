@@ -1,0 +1,484 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Yoshifusa"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q8167$943617B8-C393-4CEE-A591-E7061CDB00AB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "812227"
+          },
+          "hash": "5cf1f4c59fce595e93a4f0f3ccf6ed3eba3bd9de",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q8167$62687EF8-401F-470D-BCE0-FE7B0FA08424",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8288",
+              "numeric-id": 8288
+            }
+          },
+          "hash": "4f4be34c15ba8da1255c60904ce3898814cbaab7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8167$8B7E0730-BF86-46E6-ADDA-5AC5E53B84E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8167$A5C1B41A-9402-46A1-BD19-12AD9EBBD99B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q8167$034B138E-094E-442E-A9A3-6C33B8093BEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7967",
+              "numeric-id": 7967
+            }
+          },
+          "hash": "ab4c3b397602b8ecea619249e6065f0c3f191bd3",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8167$1292D5D9-4559-4F8F-AF40-8CC8E9FEB0A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7895",
+              "numeric-id": 7895
+            }
+          },
+          "hash": "e1611e030dd324da04413ded3d94bfaf25004a6b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q8167$A2BBB889-E754-4777-AE65-FCDC8F36BDE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8058",
+              "numeric-id": 8058
+            }
+          },
+          "hash": "e4d20fd67791ba909301065cb2523cb0d227bc35",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8167$3098BC5A-35AD-478F-900D-B5C34C4380DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8167$75C5145C-1DB8-4671-952F-ED01458E3F1B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0804-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "433ec1a13e3817954d30ab69716d40fec48672b5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8167$6BAB74FB-BD8C-4770-866C-8E8C412887BD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0872-10-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aa0cbc458081636216c5321d007b7a3fd9ca6547",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q8167$F70BB13F-A137-4AB2-BB85-55F163DDB178",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Yoshifusa.jpg"
+          },
+          "hash": "89d1dee9a2cf75f29fa6e0c310df2990547a2519",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8167$8A627044-319C-4EEE-97D3-16CB8E19B70C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q960841"
+          },
+          "hash": "a1ab2f8ee203e30c5f9d286f93c90bc0c99bc15e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سياسي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "políticu xaponés (804–872)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "polític japonès"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský regent"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Regent"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese noble (804-872)"
+    },
+    "es": {
+      "language": "es",
+      "value": "político japonés"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "politikari japoniarra"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "japanilainen poliitikko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "uasal Seapánach (804-872)"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "político xaponés"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の公卿"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans politicus (804-872)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "politiko hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński polityk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político japonês"
+    },
+    "ryu": {
+      "language": "ryu",
+      "value": "大和ぬ政治家"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon soylu (804 – 872)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Quan Nhiếp Chính"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Olóṣèlú Ọmọ Orílẹ̀-èdè Japan"
+    }
+  },
+  "id": "Q8167",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jošifusa Fudžiwara"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فوجیوارا نو یوشیفوسا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Fudzsivara no Josifusza"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原良房"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Yoshifusa Fujiwara"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Ёсифуса"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "AFujiwara no Yoshifusa"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟุจิวะระ โนะ โยะชิฟุซะ"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фудзівара но Йошіфуса"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Fujiwara no Yoshifusa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原良房"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "藤原良房"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "藤原良房"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原良房"
+    }
+  },
+  "lastrevid": 17408252,
+  "modified": "2025-09-15T22:45:04Z",
+  "ns": 860,
+  "pageid": 30656,
+  "sitelinks": {},
+  "title": "Item:Q8167",
+  "type": "item"
+}

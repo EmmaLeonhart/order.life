@@ -1,0 +1,420 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "King Kang of Zhou //"
+      },
+      {
+        "language": "en",
+        "value": "King Kang of Zhou"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q25417$9A6E86C5-0255-4F5F-87EA-622453A09570",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "593872"
+          },
+          "hash": "c351ed2e219725d7dcc2db488d317947b7636d13",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q25417$55EB67D9-72AF-490C-BE5C-EF3AB084C338",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25431",
+              "numeric-id": 25431
+            }
+          },
+          "hash": "b4b64d0669a512953ccb478d7d29298ed07e2789",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25417$BE4E9B2F-A0DB-4E4C-B2F6-098AB16FF395",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25417$D4925A26-7E20-43B7-9A1B-87BC6A6F5C86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q25417$5B211469-9EC6-4781-8EE0-5B06213BFE16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25430",
+              "numeric-id": 25430
+            }
+          },
+          "hash": "992063d4b97dc05fe560f3bcb3dd5105fca1ebe5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q25417$8BFC550B-20D9-4173-A035-07BE5ED199A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25401",
+              "numeric-id": 25401
+            }
+          },
+          "hash": "88788f146d5278d023646ccdc24f2ff134ea27d4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q25417$D4678F4E-AE0F-420B-8050-6CAB7349B2FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25416",
+              "numeric-id": 25416
+            }
+          },
+          "hash": "77f8056f3408c5bdadbf80908350658d1b2d5996",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25417$1A72C352-C0B4-41F7-8311-246F0F0796CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q25417$47E5EA28-E23C-4F94-8D91-2666FFD4A679",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fe879724bd33f552ff445fd5ceb6532f56160611",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25417$1B38CFB1-0BCA-4CCD-973E-B018F6AD8450",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0996-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8d4cf143952ad676a304b95395da8c73c586975",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25417$AE29419A-55D0-46AF-9562-3DEB561291D7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q929178"
+          },
+          "hash": "c1296bd2af1dc18e19a069321905fb908888104e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25417$53D5EB9C-3ABA-4D00-A9A8-5E466ADABBBA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "King Kang of Zhou Arms.svg"
+          },
+          "hash": "681feb4c71434890358c017a65ec6440a581dd76",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ckb": {
+      "language": "ckb",
+      "value": "پاشای چین"
+    },
+    "de": {
+      "language": "de",
+      "value": "dritter König der Zhou-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of the Chinese Zhou Dynasty"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey chino"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore della dinastia Zhou"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei chinês"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kinesisk monark"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周朝天子"
+    }
+  },
+  "id": "Q25417",
+  "labels": {
+    "ckb": {
+      "language": "ckb",
+      "value": "پاشا کانگی ژۆو"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kang"
+    },
+    "en": {
+      "language": "en",
+      "value": "King Kang of Zhou"
+    },
+    "es": {
+      "language": "es",
+      "value": "King Kang of Zhou"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه کانگ ژو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Zhou Kangwang"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja Kang dari Zhou"
+    },
+    "it": {
+      "language": "it",
+      "value": "Zhou Kang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "康王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "서주 강왕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "周康王"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᠺᠠᠩ ᠸᠠᠩ (ᠵᡝᠣ ᡤᡠᡵᡠᠨ)"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chiu Khong-ông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "King Kang of Zhou"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kangwang"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Kang de Chou"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Kang de Chou"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кан-ван"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kralj Kang od Zhoua"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kung Kang av Zhou"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าโจวคัง"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kang (Zhou)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кан-ван"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Chu Khang Vương"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "周康王"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "姬釗"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周康王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "周康王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "周康王"
+    }
+  },
+  "lastrevid": 17424200,
+  "modified": "2025-09-16T03:41:20Z",
+  "ns": 860,
+  "pageid": 47061,
+  "sitelinks": {},
+  "title": "Item:Q25417",
+  "type": "item"
+}

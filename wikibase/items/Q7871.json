@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tachibana no Hasemaro"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q7871$19B0A5DB-E0E6-4B0B-8F00-87F489A5BC32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8136",
+              "numeric-id": 8136
+            }
+          },
+          "hash": "0dd512c08cc63e686731c10cf7048c06b8e3b34f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7871$3084E3B2-4B26-4D94-A634-45EF7B8AC9D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8135",
+              "numeric-id": 8135
+            }
+          },
+          "hash": "ae5db02ab0690336ff0afa42290789c90d56ce9a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7871$DA78B6A2-5F9B-47CC-B7C6-3D6D45F8587A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7871$7F9A7C90-E2D1-4D56-B3F7-62159749E331",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7871$5B2A182A-B46F-4CDF-972F-CA8DF7C44E03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7654",
+              "numeric-id": 7654
+            }
+          },
+          "hash": "a9423edac3a11b3b95f26210819a3acde43515b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7871$1F20747C-4BAD-4FF3-BED6-CAC46063E4FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7871$AE123854-1E1F-4244-B1C2-038FAB23DAC2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0779-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "af79ec1db2c38cac16e1148cf6834494552dfe3c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7871$D6BD2923-DD68-4B49-912D-4D5C3D973332",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0824-03-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6aca03e423a2e869124f852bb6b1a9772e13d5cb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7871$D6FB980E-DD10-47DE-99CA-B37327FB261E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11544359"
+          },
+          "hash": "a4d78728d0680aa9ae471273a103a92d9c8f6346",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7871$26A7D31B-AAF6-4962-B7C7-5AEC0B41B969",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tachibana no Hasemaro Arms.svg"
+          },
+          "hash": "d6db53923c07c04aabd7665e6ef77ea2d10e20aa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代初期の貴族。橘島田麻呂の次男。蔵、弁、頭、長者、弾正大弼、右中将、左中将、左中弁、従四位上、左大弁。子に橘伴雄（宮内大輔、雅楽頭、従五位上、子に綱高（越後守））"
+    }
+  },
+  "id": "Q7871",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tachibana no Hasemaro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "橘長谷麻呂"
+    }
+  },
+  "lastrevid": 17407766,
+  "modified": "2025-09-15T22:39:05Z",
+  "ns": 860,
+  "pageid": 30363,
+  "sitelinks": {},
+  "title": "Item:Q7871",
+  "type": "item"
+}

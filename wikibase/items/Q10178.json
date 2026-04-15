@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takashina no Tsunenari"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q10178$491D1D00-AA58-4746-A37B-9A5A651A9903",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10178$EC3B4202-89BB-4185-A654-48200246B558",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10178$19F6093D-0F16-4C92-8117-5B0A4F8348EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9733",
+              "numeric-id": 9733
+            }
+          },
+          "hash": "9099106432678088c04307da164695d0582a2e9f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10178$D23CF73D-300F-46A2-85E1-17F3367CEEEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10178$3ED26426-D10B-4A45-BC12-1B8B955829B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1021-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9154bc082a2cd013e89f7ba163f330a2ebac1cab",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10178$EA49E6CD-D184-414B-9952-0A8A386920FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 10,
+              "time": "+1111-04-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e12788061b770e2f29feb8e39587a13cc45b831d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10178$3BE31616-11F6-4296-B061-F10774EADBD8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109288088"
+          },
+          "hash": "14437ffdfc53e574661bd3fe8f4a37e8b03d88ff",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10178$0C783747-BF38-48A7-951E-4488AFFFDAD1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takashina no Tsunenari Arms.svg"
+          },
+          "hash": "03b1a38abef301504ab97fd3a80d47a7d9791248",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "human, born 1021"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代後期の貴族。正四位下・常陸介"
+    }
+  },
+  "id": "Q10178",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Takashina no Tsunenari"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "高階経成"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "高階經成"
+    }
+  },
+  "lastrevid": 17412056,
+  "modified": "2025-09-15T23:35:23Z",
+  "ns": 860,
+  "pageid": 32600,
+  "sitelinks": {},
+  "title": "Item:Q10178",
+  "type": "item"
+}

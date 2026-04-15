@@ -1,0 +1,232 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Yasutada"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8831$E208E2BA-EDF1-41C7-83B1-34084ADBC444",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8831$58DE9277-94EE-4FD2-B532-01E8287905AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8831$2080124A-19D5-4967-9637-70F039280D27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8743",
+              "numeric-id": 8743
+            }
+          },
+          "hash": "55d13243b1f81333ea889e3cedad7d623f6cb0bc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q8831$D7CD63A8-E35E-4921-A926-96B57ED5A519",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8566",
+              "numeric-id": 8566
+            }
+          },
+          "hash": "157f46dc17efda9433514bb8a54502d58baccf0f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8831$4A2024B2-B862-42DA-AAC2-1E3349CB1A49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8831$BD487C0F-EE5C-4F08-9908-A3E72E667DA8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0890-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "109e8ba8faa92c6a4cce61e756a700f12f75d309",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8831$11A7354B-1079-4125-979A-9F7F8D2C2D5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0936-08-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c381d3ce4aaaa11f00ddcc249669d68c8468e99",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8831$24526D36-DA48-4232-959B-85349F38EADD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15838910"
+          },
+          "hash": "fbe62c07aa9050e8f55703ec454aaed5d7868835",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese noble"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代前期から中期の公卿。藤原時平の長男。正三位・大納言"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский знатный муж"
+    }
+  },
+  "id": "Q8831",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Yasutada"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fujiwara no Yasutada"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Yasutada"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Yasutada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原保忠 (藤原時平の子)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Ясутада"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Fujiwara no Yasutada"
+    }
+  },
+  "lastrevid": 17409702,
+  "modified": "2025-09-15T23:03:10Z",
+  "ns": 860,
+  "pageid": 31313,
+  "sitelinks": {},
+  "title": "Item:Q8831",
+  "type": "item"
+}

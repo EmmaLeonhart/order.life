@@ -1,0 +1,272 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Shanghuang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q47416$CA633081-EDC8-4C15-98BE-CE7AC4A28260",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56182",
+              "numeric-id": 56182
+            }
+          },
+          "hash": "cc1d06e3b5697ea844b6433f90dc2369ac0bcaec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47416$D1568AD9-2C31-4121-90F1-892EE2642F51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56185",
+              "numeric-id": 56185
+            }
+          },
+          "hash": "35da9af27d3ebeb6effbe8362d8cd04d5627e62c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47416$C1E54012-E1BF-4FB6-8E42-7607F66F719A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56188",
+              "numeric-id": 56188
+            }
+          },
+          "hash": "394ebe7f5f5b54843a6f23da877806447fe4039c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q47416$FD6AD317-B418-4DAC-8782-372A29D35EA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47416$5FEEE1A4-B5FA-4EFC-9E6F-3E77FE2315FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47416$A84A3B55-5035-4DD7-A36F-F3D686094110",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23765",
+              "numeric-id": 23765
+            }
+          },
+          "hash": "4b00b68a83e7021c8cdec68049b0ebdf2fd03d21",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47416$FF5B28B1-ACB6-4DEA-A499-832273CAEE49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47416$95D7FC76-2CA3-411F-8A1A-2E3299D4E611",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0787-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "167d5ab7a069075e1db128204d8d493d7e90be21",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47416$3E6E9B90-CB14-4339-B9BE-05D08C9EE31E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45486897"
+          },
+          "hash": "3b09e65053a809eee522f27206cee665fc3a1cca",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q47416$563C920A-AED0-4F56-BE66-EA4EDABD7799",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075060897984"
+          },
+          "hash": "1229dd1c0ba6480bcb4c3580377ab8473222f55b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47416$E2B78AB4-8952-46D5-ADD8-75DE1C9ABCC4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Shanghuang Arms.svg"
+          },
+          "hash": "6590fd5a825b964240da28696f64f32b9bb13ba0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 188198"
+    }
+  },
+  "id": "Q47416",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shanghuang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Shanghuang"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李尚鍠"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Shanghuang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李尚鍠"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李尚锽"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李尚鍠"
+    }
+  },
+  "lastrevid": 17452524,
+  "modified": "2025-09-16T10:30:25Z",
+  "ns": 860,
+  "pageid": 63238,
+  "sitelinks": {},
+  "title": "Item:Q47416",
+  "type": "item"
+}

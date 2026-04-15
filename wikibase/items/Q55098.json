@@ -1,0 +1,297 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Hua"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q55098$2BB6C40E-D525-4F6C-BECA-C5487129F060",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61593",
+              "numeric-id": 61593
+            }
+          },
+          "hash": "0ce8428ddf4847b4eaa87c98bf33dac54e7b4aec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55098$39BE3D4F-1837-459F-ADA3-9AA352CF1D86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61596",
+              "numeric-id": 61596
+            }
+          },
+          "hash": "c7556c3ee5035550372cd6f2b60efa3417fdc52d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55098$34B8F3EE-FBFF-4AC9-972E-77A3BDE28770",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55098$4F986DEE-018C-4491-B4E4-4C52BBEDC38A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55098$39D7F7D4-9F9F-4EB7-8D9C-C4F5DCDCDC86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55094",
+              "numeric-id": 55094
+            }
+          },
+          "hash": "8a06f8a643b63a1bb6ad25d769725d493f499dbc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55098$19FC015F-EB1E-430D-AF01-CF2778896F84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55098$6D551952-525F-4984-BC83-2295046D0CCC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0701-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a554c7ff86988519b6b4b59e89ab9bb4e914800",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55098$EFCFA83E-1FE1-4124-B147-AF3CD8879945",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0760-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7eee55f25d00adc93c516532e803f313f8056900",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55098$BB1C994F-FF9D-4FE8-BA52-63D2A7F88C66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8044214"
+          },
+          "hash": "7e2cec84b52f34b0bf6f1b90ff58f0363e85eeea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55098$7CD486FD-468F-4D28-92F9-DA80F1687CC5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000021150592718"
+          },
+          "hash": "c2ee77e2cafd9b9a941994370db21aacdc38922b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55098$19ADD448-626E-4CDC-AF5E-214D55F874E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Hua Arms.svg"
+          },
+          "hash": "59d20908fd2df2b36f489b4fc16b0174db05e269",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang Dynasty Chancellor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Tang-dynastie"
+    }
+  },
+  "id": "Q55098",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Hua"
+    },
+    "de": {
+      "language": "de",
+      "value": "Xiao Hua"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Hua"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Hua"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蕭華 (唐)"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭華"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Xiao Hua"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Hoa"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭華"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧华"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭華"
+    }
+  },
+  "lastrevid": 17462922,
+  "modified": "2025-09-16T13:02:39Z",
+  "ns": 860,
+  "pageid": 69929,
+  "sitelinks": {},
+  "title": "Item:Q55098",
+  "type": "item"
+}

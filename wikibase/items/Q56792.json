@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Uemura Ienobu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q56792$520C2A08-7947-41BD-8FC3-7B81677A95E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56792$BF5E59E5-8A41-4032-A49E-04E8508AF000",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56792$696EEBA8-6BEE-4618-B7A5-6D3747F337FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48532",
+              "numeric-id": 48532
+            }
+          },
+          "hash": "82b36f105823c5f35d8e8379c6d84d61e1f5a681",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56792$C660BDBA-04AC-44B3-B59F-B91A84B257EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56792$5292FA60-0B97-4779-B098-CACC778873A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1663-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a83ef9fd331731b7cb888dd3c1c124da2589b5fc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56792$867F16E6-714C-4B29-9CDD-0721038BE3BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1696-04-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dfeeb7eb957311c32baefd175b530184a7b5ba52",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56792$54C700E7-B693-47E3-94F5-C8DD87D45CAF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11540565"
+          },
+          "hash": "38646577706f092c7ae2c2078c330a7d67cdbb94",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56792$6BE746DE-042E-40FE-81AB-748281D67175",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Uemura Ienobu Arms.svg"
+          },
+          "hash": "82ebafc547d399a222686a4c9a038ac18d2c8108",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期～中期の大名。大和高取藩2代藩主植村家貞次男で、高取藩3代藩主。従五位下出羽守"
+    }
+  },
+  "id": "Q56792",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Uemura Ienobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "植村家言"
+    }
+  },
+  "lastrevid": 17465314,
+  "modified": "2025-09-16T13:38:37Z",
+  "ns": 860,
+  "pageid": 71623,
+  "sitelinks": {},
+  "title": "Item:Q56792",
+  "type": "item"
+}

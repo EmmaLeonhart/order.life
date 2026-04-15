@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sasaki no Yoshitsune"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q10156$472846C8-DB24-41C9-A002-27105AC046A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "820332"
+          },
+          "hash": "0dec372ae54389faf7fa04a5ea269ff1649dcf73",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q10156$E666E813-BE0F-4946-B966-8B49445C2B80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10712",
+              "numeric-id": 10712
+            }
+          },
+          "hash": "0ec19ad3864e78f2c5d954b6fe96c147daaf32a0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q10156$C07CAF60-971A-48D1-B9A2-4AF4C2D245B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10156$B1027432-2559-48B3-86B0-30466DF87E79",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10156$EA9EED6A-4997-46BF-AC11-E55685386004",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9718",
+              "numeric-id": 9718
+            }
+          },
+          "hash": "6f15b379944552da95866101afce7ceb2d6454a3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10156$644F8197-047B-4D6D-8246-7FAB75961397",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10156$561B68F7-4F87-436A-B2B1-0953962F6B29",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d00449fdebd71ddad4b63533443610d4fb2761b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10156$5DC9D217-D81D-44AE-8A03-29010A8BD1C9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1058-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6de168bb3b8f2ca05a3860aa994a1fddbe014b9a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10156$BD740BD9-503F-42B7-A0E6-A8A3E9C48508",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11382379"
+          },
+          "hash": "6601e8f02803e909f333d20692970c324bbbd812",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10156$D07B7626-75ED-4E07-BB69-0C56C0F0F7CA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sasaki no Yoshitsune Arms.svg"
+          },
+          "hash": "e28cdc20326045a0ca82c3a688dbcf82744180e3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "japanischer Adliger aus der Heian-Zeit"
+    },
+    "en": {
+      "language": "en",
+      "value": "metropolitan area in the Netherlands"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代後期の武将。宇多源氏佐々木氏の祖・2代。従五位下・兵部丞"
+    }
+  },
+  "id": "Q10156",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sasaki no Yoshitsune"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Sasaki no Yoshitsune"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sasaki Yoshitsune"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Sasaki no Yoshitsune"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sasaki no Yoshitsune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sasaki no Yoshitsune"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sasaki no Yoshitsune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "佐々木義経"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sasaki no Yoshitsune"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sasaki no Yoshitsune"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "佐佐木義経"
+    }
+  },
+  "lastrevid": 17412040,
+  "modified": "2025-09-15T23:35:10Z",
+  "ns": 860,
+  "pageid": 32578,
+  "sitelinks": {},
+  "title": "Item:Q10156",
+  "type": "item"
+}

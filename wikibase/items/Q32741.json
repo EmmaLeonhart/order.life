@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ji Tian Jian Ming"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q32741$5B0E4A14-3BE1-47EF-ABFC-DDC87337DE1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18084",
+              "numeric-id": 18084
+            }
+          },
+          "hash": "8f20314db1fc5be9a38861cbf10f6caf984c8eaa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q32741$04564D9C-577D-4629-A6E0-90EAA6430BB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32741$657F20CA-E716-4A02-B4FB-362D2D7E5AFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32741$F28874CE-D5E9-469C-8BB7-4130D68C136A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36990",
+              "numeric-id": 36990
+            }
+          },
+          "hash": "e425268bbbaedce5595cf6203dba75edd73a2d09",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32741$E4E55956-807B-4C2B-A76B-ABF7CE986F81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32741$019ECDF7-ABE3-4DCA-80A5-4115F516329B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1460-12-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "95a726e9cb6f7392dbcf67afb7e2dce5ace9f3fc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32741$2EE424CC-13FC-45EA-8043-F33903913FD4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109321337"
+          },
+          "hash": "0e3f94869af8fc7d3a0f6af5c651134dec469e7f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32741$DC934458-3670-4732-829C-0246A6C3E19D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kaname Yosida Arms.svg"
+          },
+          "hash": "7ae7e00a87a5432e7c9c424c32f5df849b060583",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "従二位・非参議"
+    }
+  },
+  "id": "Q32741",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kaname Yosida"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "吉田兼名"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Канамэ Ёсида"
+    }
+  },
+  "lastrevid": 17433180,
+  "modified": "2025-09-16T05:50:21Z",
+  "ns": 860,
+  "pageid": 52267,
+  "sitelinks": {},
+  "title": "Item:Q32741",
+  "type": "item"
+}

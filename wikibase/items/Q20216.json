@@ -1,0 +1,302 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nakayama Chikako"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q20216$F5245ABE-A945-455D-A1DA-B2BD10667C77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30163",
+              "numeric-id": 30163
+            }
+          },
+          "hash": "bcea34ad9eba4f30c43a844f7964222d9938590f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20216$308AD3C5-C4FE-41A8-9504-52582CAF3858",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33960",
+              "numeric-id": 33960
+            }
+          },
+          "hash": "ae8003700f62e10f745630ca5d41412740f7e387",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q20216$461E3FA4-8764-4F74-99A2-037C55E61AD4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "中山-7"
+          },
+          "hash": "587fa47333c91f3b315b3b88f3815ccbeff2985c",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20216$3425A6B2-DCF1-446A-BDE8-E69AC993C796",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20216$867F0446-182A-4C13-806D-4BA38CF8F549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q20216$B019A5A7-B8BC-453A-865C-1F7657E0A0DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30139",
+              "numeric-id": 30139
+            }
+          },
+          "hash": "c445d66cc3f56c37036b1777c01adc8c7f73a8db",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20216$ED8790EF-2A77-4782-A201-AA50FBC85C20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19655",
+              "numeric-id": 19655
+            }
+          },
+          "hash": "57ea132837b425014cad2c6c20d764144ea22f7e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20216$4CA77CDD-E91D-4DE8-8A23-165656663ACD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20216$9AF6E866-EF28-460C-85BD-9FEFFCAB12D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1576-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e0c3e5d4db6a5a3b9d48cd64ca27253317086fec",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20216$6E815650-CC9E-4F50-97B2-A3AF9B81B9AD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1608-03-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a88fa89cd604900711d494e2ca6cf3a43299c42",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20216$75B464C3-8F4F-4784-A29D-A532D576E889",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q96714487"
+          },
+          "hash": "dc6eb7f3d4f415742bec9288f19ff267b0c80fbf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20216$3D84F065-5748-454B-B137-E61B91CF2BBE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nakayama Chikako Arms.svg"
+          },
+          "hash": "cfa4a8a290ebea36c6574144a2e34bd28bead174",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1576 - 1608"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代初期の女性。後陽成天皇の典侍"
+    }
+  },
+  "id": "Q20216",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nakayama Chikako"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "中山親子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "나카야마 치카코"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nakayama Chikako"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "中山親子"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "中山親子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "中山親子"
+    }
+  },
+  "lastrevid": 17419360,
+  "modified": "2025-09-16T01:53:36Z",
+  "ns": 860,
+  "pageid": 42305,
+  "sitelinks": {},
+  "title": "Item:Q20216",
+  "type": "item"
+}

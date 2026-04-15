@@ -1,0 +1,307 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Theodora Palaiologina Kantakouzene //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q54072$F4181EEC-EB75-4C7B-9061-4DC775A6B7A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00293045"
+          },
+          "hash": "1b70975bf6118ec03a37459a151873b79e4648c3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q54072$0EF6B668-F0DD-4209-9637-A0F1111C79A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50009",
+              "numeric-id": 50009
+            }
+          },
+          "hash": "7b7fb5d6fd6c3997ea188737438ac6a3a85b1f0e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54072$D6F46463-EB56-4D1C-BC00-D33B748F5676",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54072$936DFA5B-BE15-4682-85A4-E00A0DC372BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q54072$7F4EACF8-7C33-4674-9151-9CCB64D2AA61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55543",
+              "numeric-id": 55543
+            }
+          },
+          "hash": "6110e1360232099e34ca48951bf7890e5c33de61",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54072$295C1822-E979-4AD7-86CE-FC17B496FC95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49354",
+              "numeric-id": 49354
+            }
+          },
+          "hash": "a501fd13daee19640efb73c1cb26a44b0d59454b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54072$A7E284D6-255E-44F7-95E3-12226B3C85E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54072$2076D406-C9C0-4375-A088-AB1EBB8E8536",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54072$D777223E-61DF-4349-BB87-FE264A262F92",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1342-01-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cdd4e681714c792b403a417f9689e9d644bfe4cb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54072$9E6EB949-6459-4F52-BBFB-E9F53AD76540",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24953900"
+          },
+          "hash": "afafddb58eeb1fa479bc40a40a3f5f439438f6d0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54072$FC6D8610-311F-4753-A2D9-11F163C113CB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodora Palaiologina Kantakouzene Arms.svg"
+          },
+          "hash": "012d5d861d3c2203e6a9495a85411855de26359c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "майка на византийския император Йоан VI Кантакузин"
+    }
+  },
+  "id": "Q54072",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Teodora Paleologina Kantakuzena"
+    },
+    "be": {
+      "language": "be",
+      "value": "Тэадора Палеалагіня Кантакузіна"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Теодора Палеологина Ангелина Кантакузина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Teodora Paleòloga Cantacuzena"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεοδώρα Παλαιολογίνα Αγγελίνα Καντακουζηνή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theodora Palaiologina Kantakouzene"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teodora Paleólogo Cantacuceno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Théodora Paléologue Cantacuzène"
+    },
+    "he": {
+      "language": "he",
+      "value": "תאודורה פלאולוגינה קנטקוזנה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodora Paleologa Cantacuzena Angela"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Teodora Paleologina Kantakuzena"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teodora Paleologina Kantakuzena"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Феодора Палеологиня Кантакузина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Теодора Палеолог Анђел"
+    }
+  },
+  "lastrevid": 17461294,
+  "modified": "2025-09-16T12:38:43Z",
+  "ns": 860,
+  "pageid": 68903,
+  "sitelinks": {},
+  "title": "Item:Q54072",
+  "type": "item"
+}

@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "WolKwang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q14838$1DDEC2A9-5119-4244-B2D3-9D0C052ACEBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14838$36465214-A195-41E0-B0AE-41A744E4F4EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q14838$B51A26BB-E8A0-4344-B065-CA73BAA612FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14837",
+              "numeric-id": 14837
+            }
+          },
+          "hash": "a8875031233e4d4d9ad4b04763157aa59184e8fa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q14838$CF870B77-4D86-4975-B331-29D493C59BDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14423",
+              "numeric-id": 14423
+            }
+          },
+          "hash": "eb284f04980a458cf8de6937175a64c74b6d922a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14838$69A76C2B-1760-4674-8EE2-AD27E227FE8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14838$A67080C7-91CE-40E2-A16B-EC2159C8A20C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0522-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "116722908116e3548286c9e76c6d24f36b980899",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14838$185E1CFA-59D5-4A0B-88A5-D3BC86DC3807",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4382866"
+          },
+          "hash": "1a8d7d85af911a00872f778d788422f59584302e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14838$1BF1360B-FBEF-48DD-9975-89E2CE6EE919",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "WolKwang Arms.svg"
+          },
+          "hash": "08482d0f2e452029404f2e693f25754aaed4d93e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Prince"
+    }
+  },
+  "id": "Q14838",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "WolKwang"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "月光太子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "월광태자"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "月光太子"
+    }
+  },
+  "lastrevid": 17414730,
+  "modified": "2025-09-16T00:13:29Z",
+  "ns": 860,
+  "pageid": 37136,
+  "sitelinks": {},
+  "title": "Item:Q14838",
+  "type": "item"
+}

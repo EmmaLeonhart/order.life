@@ -1,0 +1,238 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Chen Mou"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q53589$49A3A303-FA34-4001-9A66-4515C29A59AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60409",
+              "numeric-id": 60409
+            }
+          },
+          "hash": "80c13f8bce6070da999b6a2baf45392098bfc4f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53589$D6252495-4565-4628-9335-804CE044C353",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53589$2ACB9B71-5AFA-4320-BF17-09271D45DCEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53589$EE182A8B-6877-4D94-94C2-6B4A299EC79C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45161",
+              "numeric-id": 45161
+            }
+          },
+          "hash": "9c0e62a692fc76729b48426a8948941b80fb8e21",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53589$D41DDD15-A9CE-4F89-82A6-80D5D6F603F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53589$3D813DC5-28F2-4C8C-8344-94A56702DB9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0700-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a6408a64b6cf51982aa1a1adf82da1803ce60b57",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53589$7039F559-AFC2-48D1-A310-61DCF99305B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45486525"
+          },
+          "hash": "5a7ecd91095f0481ae93e40e96413277fc135d75",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q53589$3C461540-9B03-42D3-BCAC-C152CBE7F5AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074734131011"
+          },
+          "hash": "b789b8724a3c520223ce8106fed108bd6556334e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53589$F04CC033-926E-4174-96E1-C60333A8CEC1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Chen Mou Arms.svg"
+          },
+          "hash": "669ecbfa336b580641689ffc2305735240b2f352",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172329"
+    }
+  },
+  "id": "Q53589",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Chen Mou"
+    },
+    "en": {
+      "language": "en",
+      "value": "Chen Mou"
+    },
+    "es": {
+      "language": "es",
+      "value": "Chen Mou"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "陳某"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chen Mou"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "陳某"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "陈某"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "陳某"
+    }
+  },
+  "lastrevid": 17460548,
+  "modified": "2025-09-16T12:27:44Z",
+  "ns": 860,
+  "pageid": 68420,
+  "sitelinks": {},
+  "title": "Item:Q53589",
+  "type": "item"
+}

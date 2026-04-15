@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yamana Yoshitoyo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18238$CF8B8414-B4D4-467D-9832-3E8C1D47D37C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18238$068C4C25-5089-40C6-92C9-01016F96E369",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18238$D6CC023E-5083-4B12-B7B3-46C10D20D585",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26968",
+              "numeric-id": 26968
+            }
+          },
+          "hash": "ec5b5617d92d971889f4986a16d3db63589ae023",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18238$3F857AA8-6201-447E-8150-626C6C567F03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18238$024732C5-065C-4A58-8F77-1B93D2655FBC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1623-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0d8f6af53de9c4da7692cd5293812b1896284667",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18238$C7F6A819-4EE0-406E-9C99-C8811AA582D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1695-01-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8c386555587f6e4585ba0f78b2d047e3de180e7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18238$571AEB62-9E2F-4DF6-AE49-291C24BC9279",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11467622"
+          },
+          "hash": "2f61ef8c40007c56a33b62325f05a1b5d8d64b59",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18238$6C235DD4-BF32-4086-B0BE-A2F74501B731",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yamana Yoshitoyo Arms.svg"
+          },
+          "hash": "7b6caa15aa730c228096b8d5ac4f5efab173095b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の武士・歌人。江戸幕府旗本。交代寄合山名豊政の子。御書院番を勤める。歌人としては本多重世（飛鳥井雅章門下で妹婿）に師事"
+    }
+  },
+  "id": "Q18238",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yamana Yoshitoyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "山名義豊"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёситоё Ямана"
+    }
+  },
+  "lastrevid": 17417632,
+  "modified": "2025-09-16T01:11:08Z",
+  "ns": 860,
+  "pageid": 40435,
+  "sitelinks": {},
+  "title": "Item:Q18238",
+  "type": "item"
+}

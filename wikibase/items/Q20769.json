@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hosokawa Michitada"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20769$60A18C95-0D6E-42D9-B60A-CAFAE91A3665",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20769$763DE880-F824-44B1-97A1-441EB2D535E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20769$4711823A-9D97-43A9-B302-0DD1F3A7FB52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19004",
+              "numeric-id": 19004
+            }
+          },
+          "hash": "988403493e0682883320578939d2e902cd444158",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20769$C26BA1C3-567C-4653-9BA4-4496EF186756",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20769$4029EAF6-5DBF-4C61-A0F9-C2592C062A6C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1535-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9f048e16cfa757fa32735f9dda6d6662dd9aab1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20769$1AFF7BAF-5C4A-4CFF-B33A-CAA4E59C1AA0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1587-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7816e1844a02eac82b5298fffaaf4bd03a24b02d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20769$21057340-7387-477D-B116-0C07DD356DD9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11606010"
+          },
+          "hash": "8ed922b3a8d5957fcca827c9de676b875f7c1db3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20769$237488D9-2D5F-402E-85C1-42CBDAA1EC23",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hosokawa Michitada Arms.svg"
+          },
+          "hash": "f9b5ac9f5dd9bf0618819fc92ef5706b044a5784",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q20769",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hosokawa Michitada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "細川通薫"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мититада Хосокава"
+    }
+  },
+  "lastrevid": 17419742,
+  "modified": "2025-09-16T02:05:18Z",
+  "ns": 860,
+  "pageid": 42839,
+  "sitelinks": {},
+  "title": "Item:Q20769",
+  "type": "item"
+}

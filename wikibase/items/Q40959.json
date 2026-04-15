@@ -1,0 +1,930 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Andronikos II Palaiologos //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q40959$973A03D8-594E-4131-9B2B-B5125E7F9F21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "148631"
+          },
+          "hash": "4a2bda74c7658bff750ac90ceda68a9409e2aa09",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q40959$779CD2F1-6B39-4A99-844A-6F7EA0762619",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00004983"
+          },
+          "hash": "b2fdefbfd17c829f31e3d2c3ed63860c3bee570f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q40959$38F4C6C7-7ACC-4443-941F-E44E25C3A5E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43240",
+              "numeric-id": 43240
+            }
+          },
+          "hash": "4dc75b81d36315f4be055d5513a0dbc28d269c1f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$67506E11-3D48-408B-B4E1-261C761E9A7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43220",
+              "numeric-id": 43220
+            }
+          },
+          "hash": "93b7daabdb8511694e5ce2dc3b7aa76dfba0cc8b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$ABC9BA98-E28E-42C3-A163-F6C0EAA10863",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43256",
+              "numeric-id": 43256
+            }
+          },
+          "hash": "f565aca9ab8c9c0156b23058bd56e046241ed248",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$DB2F43D6-399C-413E-89E9-093232E5D528",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43236",
+              "numeric-id": 43236
+            }
+          },
+          "hash": "7c713dd83b42a7e1e23f6f11ebfc0c0210395a59",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$68C839E5-52E1-4D08-A9CD-D3AFAC46044A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43232",
+              "numeric-id": 43232
+            }
+          },
+          "hash": "9c6a12988791fe078dfa72196026a45739747b57",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$5915BF99-B7C7-45AE-9A60-F5065516C574",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43224",
+              "numeric-id": 43224
+            }
+          },
+          "hash": "afeec59d40c8a78f31f8fc8fc8471a81bc72ee1a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$89CB3061-C4F0-4E9F-A3FF-5FD8566F9D4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43228",
+              "numeric-id": 43228
+            }
+          },
+          "hash": "97ecd130c3e1d9838ebeb8b5e6de92e037807014",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$BA83CD7B-A94D-4B02-9BCB-237EB43B54B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43252",
+              "numeric-id": 43252
+            }
+          },
+          "hash": "b4bc8774ffa4a1bfddbdbe1997073daf39524f04",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$5B648554-C9D5-47DE-9898-0D6386BE19C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43244",
+              "numeric-id": 43244
+            }
+          },
+          "hash": "501c770d844b6e507a51c912df1149db18e2f208",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$97C68BA9-B361-4D06-8D4B-AF68F864735A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43248",
+              "numeric-id": 43248
+            }
+          },
+          "hash": "535eebbeba9c780cda2d428d091bc038b0231cbe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q40959$024DAB0C-E07D-4A19-B55B-AA7D2BF8E247",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Palaiologos-7"
+          },
+          "hash": "6cc0bc31574a0549ef90f39268373e05ddb38195",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q40959$E50997F5-E184-4F05-B1A3-7914755FAEB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$3B335B48-D22A-4449-811D-DE398B1D1C4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q40959$7565BAC8-4FE0-4527-891D-3DDA395AA2C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Andronikos_II_Palaiologos_(1)"
+          },
+          "hash": "5b2e3eb45ae8279d53e8fbbf017b725a97a7f0d9",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q40959$1DCEFD3C-FE1A-4AD4-86FD-1533D52A3E5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43212",
+              "numeric-id": 43212
+            }
+          },
+          "hash": "648ecaf5dca43b1dc9f960ba486c61b6721552ce",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$B280F1E3-D9A8-4CEE-A78A-A1A9CA2A1D2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43216",
+              "numeric-id": 43216
+            }
+          },
+          "hash": "2a256927a792090d039bd58672c656ab5872e222",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40959$23B4BBE0-95FB-4990-B09F-62D97BF240BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46122",
+              "numeric-id": 46122
+            }
+          },
+          "hash": "d1838fb775d20e2007584a76086b09d20941d853",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q40959$64874E91-A36F-4C19-A4B9-3009EFEEEC9B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10313.htm#i103129"
+          },
+          "hash": "8c7ba81eaa97dacc423cde0904a5c112e1499068",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q40959$4540D89B-DDFD-4F56-BE17-D8CAF820F032",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40951",
+              "numeric-id": 40951
+            }
+          },
+          "hash": "bf6de1c9dc9dd0bc5e5010fe2b592a4a0e0d0646",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q40959$0F893513-8740-4BDE-8595-628331768CE6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43204",
+              "numeric-id": 43204
+            }
+          },
+          "hash": "423d17ce0158f65ea944c7233e726258845035ed",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q40959$DE0F36AB-29EA-4C9A-9EA5-E2989F68AFEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q40959$A5C72D31-27A8-4670-BCD7-EC28259D8186",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1259-03-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "25415671db09002d15127fb8d9a12ccfe1d9920a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q40959$3BC5DCF0-E1FC-4486-A5E0-FB3D5711AA7A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1332-02-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6e9c645edb62f3fb8b569f726c85a7dbc9b68e99",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q40959$84CA927E-129C-4A6F-9474-E187E07AC100",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q37067"
+          },
+          "hash": "cb3aeba1073126f3befcc3c5c5145f355522b269",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q40959$6EB1218A-C82F-4FA1-B978-2E9D38EA5910",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002188002311"
+          },
+          "hash": "766622d96f963b4b33607f750d1923b9475e3ef7",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q40959$F19B983B-AED0-4E50-A7B3-B9884BFEAA82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52494"
+          },
+          "hash": "0568118a6a75d1447beb2535ef2bff369b1c0227",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q40959$72824C47-0084-4289-8D44-2B3EEF2B22CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=andronikos;n=palaiologos"
+          },
+          "hash": "4c78bd0f6f464d0326998588b053701be4195106",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q40959$9CA5C976-B85F-4952-B3EB-5A75138CBA6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.9390"
+          },
+          "hash": "8b6c631a70e8d1ef3966dd1668190519ef948ba4",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q40959$8B514616-91BC-4844-9C3A-8D6DBBC2D733",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Andronikos II Palaiologos Arms.svg"
+          },
+          "hash": "f5cdef6eca24cda11a2d7f8f2458b55233110b3a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q40959$EB15C2B4-930A-48F2-98FE-D10D21647676",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/cac40060-8672-4dd3-b29e-9e512ebf1025"
+          },
+          "hash": "716003ceca5ae55d4b83d9b1cd2e14c3378d906d",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور بيزنطي سابق"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "byzantský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Byzanz"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βυζαντινός αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine Emperor from 1282 to 1328"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador bizantino"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Bysantin keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur byzantin de 1282 à 1328"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bizánci császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore bizantino (r. 1282-1328)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "東ローマ帝国の皇帝"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "keizer uit Byzantijnse Rijk (1259-1332)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz wschodniorzymski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "византийский император"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "византијски цар"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "1282 - 1328 yılları arası Bizans İmparatoru"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "بازنطینی شہنشاہ 1282 سے 1328 تک"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "君主"
+    }
+  },
+  "id": "Q40959",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Andronikos II Palaiologos"
+    },
+    "an": {
+      "language": "an",
+      "value": "Andronico II Paleologo"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أندرونيكوس الثاني باليولوج"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اندرونيكوس التانى باليولوج"
+    },
+    "az": {
+      "language": "az",
+      "value": "II Andronik Paleoloq"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی آندرونیکوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Андронік II Палеалог"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Андроник II Палеолог"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Andrònic II Paleòleg"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Andronikos II."
+    },
+    "da": {
+      "language": "da",
+      "value": "Andronikos 2. Palaiologos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Andronikos II."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Andronikos II"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ανδρόνικος Β΄ Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Andronikos II Palaiologos"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Androniko la 2-a Paleologo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Andrónico II Paleólogo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Andronikos II Palaiologos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Androniko II.a Paleologo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آندرونیکوس دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Andronikos II Palaiologos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Andronic II Paléologue"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Andrónico II Paleólogo"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Andronikos II."
+    },
+    "he": {
+      "language": "he",
+      "value": "אנדרוניקוס השני, קיסר האימפריה הביזנטית"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Andronik II. Paleolog"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Andronikosz bizánci császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Անդրոնիկոս II Ավագ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Andronikos II Palaiologos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Andronico II di Bisanzio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンドロニコス2世パレオロゴス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანდრონიკე II პალეოლოგოსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안드로니코스 2세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Andronicus II Palaeologus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Andronikas II Paleologas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Андроник II Палеолог"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "അൻഡ്രോണിക്കസ് II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Andronikos II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Andronikos II Palaiologos"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Andronikos II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Andronik II Paleolog"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Andrónico II Paleólogo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Andrónico II Paleólogo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Andronic al II-lea Paleologul"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Андроник II Палеолог"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Andronik II Paleolog"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Andronik II. Paleolog"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Андроник II Палеолог"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Andronikos II"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิอันโดรนิคอสที่ 2 พาลาโอโลกอส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Andronikos II Palaiologos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Andronikos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Андронік II Палеолог"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "آندرونیکوس دوم پالایولوگوس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Andronikos II Palaiologos"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "Andronikos II Palaiologos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安德洛尼卡二世"
+    }
+  },
+  "lastrevid": 17444328,
+  "modified": "2025-09-16T08:31:03Z",
+  "ns": 860,
+  "pageid": 58408,
+  "sitelinks": {},
+  "title": "Item:Q40959",
+  "type": "item"
+}

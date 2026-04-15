@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dou Zhao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q19283$5A1EF362-1F17-490B-AA21-6618D22361CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21164",
+              "numeric-id": 21164
+            }
+          },
+          "hash": "326d98d31634a248c7c52c024be605af616b94a4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19283$B2AC3DFB-2767-4E96-A093-02D0B29D5F71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19283$2F4FE4CB-2650-4269-B963-3BD110D680F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q19283$C795C56C-E465-4ADA-9404-1F3E564A21C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21163",
+              "numeric-id": 21163
+            }
+          },
+          "hash": "f27bd1b5ad34587869c43cb5147b3960803e6cc9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19283$50D30A59-5173-4DAF-BF2F-1E2AB61892CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19281",
+              "numeric-id": 19281
+            }
+          },
+          "hash": "4db54eeac8f659941319ad14e14d950d887b218b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19283$AFBF077E-4AFD-439A-9CE1-A3AF190A7E0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19283$32FAFFE4-7128-4BD4-B59A-5A91F1A222E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0587-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b4391e1cdb6148255aace842f37ac26d507544ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19283$5454B441-C702-4C17-A3EB-0E0CB9627984",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q26198084"
+          },
+          "hash": "8f611c084d462f79274e17b1690bf09952c13ee0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19283$007F675E-A634-4D8F-9B6B-3CA5B3C87B30",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dou Zhao Arms.svg"
+          },
+          "hash": "378218340a6d50fa5d575e5bb8db5f3c7be7ebfb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 171762"
+    }
+  },
+  "id": "Q19283",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Dou Zhao"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dou Zhao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dou Zhao"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "竇照"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dou Zhao"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Dou Zhao"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "窦照"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "窦照"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "竇照"
+    }
+  },
+  "lastrevid": 17418496,
+  "modified": "2025-09-16T01:32:41Z",
+  "ns": 860,
+  "pageid": 41439,
+  "sitelinks": {},
+  "title": "Item:Q19283",
+  "type": "item"
+}

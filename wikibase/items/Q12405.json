@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ashikaga Yoshinaga"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q12405$FAF55925-85B8-4598-B45C-047D22969505",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814309"
+          },
+          "hash": "35306fe8a5ea94139cd15202c12feea17d182f91",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12405$83B51407-AB1A-4D0F-8092-FFF3900BA23B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12405$A3087CAA-934D-4E11-AE7B-BA0DC6DCC485",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12405$CA101813-7185-4527-B17A-AD1514BDBA01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11574",
+              "numeric-id": 11574
+            }
+          },
+          "hash": "e285a8df908508f12da1a51360dd0bf601568a21",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12405$2FA30E98-034E-4D63-94B2-31783D0A971B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12405$AA5F3F16-C16E-48B3-9B71-79C6DF30AA80",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7d2a2e35f30974c290868c269623b5c60da411cb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12405$99A30B6A-C6AA-41AB-BFEB-3135E0D73308",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1183-11-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6c0635bb574f8c9810f140515660a939f7577c31",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12405$AAE220F5-27B9-421F-B750-294E295FC592",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11636819"
+          },
+          "hash": "5b519b74c71fc485c60014a7859fe333eb2b4065",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12405$B8869F32-CDB3-4AE6-8D58-FF4381BA0597",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ashikaga Yoshinaga Arms.svg"
+          },
+          "hash": "197e9bfcae58638f721d8ced2374737b0c4a02a8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q12405",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ashikaga Yoshinaga"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jošinaga Ašikaga"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ashikaga Yoshinaga"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ashikaga Yoshinaga"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ashikaga Yoshinaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "足利義長"
+    }
+  },
+  "lastrevid": 17413478,
+  "modified": "2025-09-15T23:56:10Z",
+  "ns": 860,
+  "pageid": 34741,
+  "sitelinks": {},
+  "title": "Item:Q12405",
+  "type": "item"
+}

@@ -1,0 +1,604 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jingtai Emperor //"
+      },
+      {
+        "language": "en",
+        "value": "Jingtai Emperor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q27523$C9F0A4F7-2831-4B94-BD17-38917C8F65BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "843443"
+          },
+          "hash": "bf61a91245522de4ad6ae8b3af2289d376d7716f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q27523$7D7BFC8B-2599-47B4-8D37-EEE16A52469F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27997",
+              "numeric-id": 27997
+            }
+          },
+          "hash": "c9ff3dad33eb44dcce62dd0b3c0f23b66e522d23",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27523$E385587F-A9B8-4737-8C37-D2F862E0BA02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28000",
+              "numeric-id": 28000
+            }
+          },
+          "hash": "ed84ccbb3454d26c2e83d41e6d796d035289803c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q27523$614EDE92-08D7-4E4A-8BAE-5C40F52EAE12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27523$5F6592F5-5816-4466-BEF0-046CC743E4DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q27523$3756405A-EBFF-45C7-BE06-087B6FEF0509",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27985",
+              "numeric-id": 27985
+            }
+          },
+          "hash": "b3af732ba07051b4bfe8f3d4423d0ff241e80017",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27523$45579E14-AA38-49CD-A7F4-5854077CF950",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27988",
+              "numeric-id": 27988
+            }
+          },
+          "hash": "1a98c1097f03fec0fb3f8c98cb502017e9fb9e2d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27523$0754CC7F-04C5-4F4C-AEC6-D958F068781A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27991",
+              "numeric-id": 27991
+            }
+          },
+          "hash": "f6c49de5f51859375461bfff3345a3e0e3726c8c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q27523$D3D1C93B-6630-4C58-9EDC-0EA53919FD51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27994",
+              "numeric-id": 27994
+            }
+          },
+          "hash": "7aa02cfbab2294ef8f6c9816887b567f3974e6bf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q27523$DA0A021E-23E6-4B71-AC9C-EE15BBF44BB1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27036",
+              "numeric-id": 27036
+            }
+          },
+          "hash": "9ee714f21d60992b799ef1fd172c236633acde1c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q27523$71B8B5DF-C36A-4543-BC1A-CDA76A08F59D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q27523$248BD9EE-103F-4B95-AC4C-E67703A0FD04",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1428-09-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "865a6809ac32f453f99951c042614f799601d7a8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q27523$7D95ACAC-A677-4818-9763-534574EB4BA0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1457-03-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b90848008547b5ad404232cf9586e32bff6a426f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q27523$FA5CCE15-849E-44CE-B80B-2A5D6C516C4B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q9988"
+          },
+          "hash": "30ddc8dc2b60bc08ae271309d8049794e09e26bb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q27523$412BC167-5E8F-4C2C-A351-36644004A4CF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000012629097379"
+          },
+          "hash": "a11a3de21b0e6546cd310512b71aa452abbc7578",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q27523$3A8EFA0B-2B79-4E27-9B52-073221D0D7CD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jingtai Emperor Arms.svg"
+          },
+          "hash": "d90ae7e5a86ff93d7a6107eb4f59e76d12321f30",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "حاكم من اسره مينج"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "persona de la dinastía Ming"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "čínský císař dynastie Ming"
+    },
+    "de": {
+      "language": "de",
+      "value": "chinesischer Kaiser der Ming-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of the Ming Dynasty"
+    },
+    "es": {
+      "language": "es",
+      "value": "Séptimo Emperador de la Dinastía Ming del Imperio chino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur chinois"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kínai császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore cinese"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "명나라의 7대 황제"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᡩᠠᡳᠮᡳᠩ ᡤᡠᡵᡠᠨ ᡳ ᠨᠠᡩᠠᠴᡳ ᡥᡡᠸᠠᠩᡩᡳ (1428-1457)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chinees keizer (1428-1457)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "китайский император династии Мин"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ming dönemi 7. Çin hükümdarı (1428-1457; imparator 1449-1457)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "明朝第7位皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "明朝第七位皇帝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "明朝第七位皇帝，年號景泰，後遭廢黜"
+    }
+  },
+  "id": "Q27523",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Jingtai"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "امبراطور جينجتاى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Jingtai Emperor"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "جینقتای"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jingtai"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Gīng-tái Huòng-dá̤"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ťing-tchaj"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jingtai"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Jingtai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jingtai Emperor"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Jingtai Emperor"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Jingtai Emperor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jingtai"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Jingtai"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "جینگتای"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jingtai"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ming Daizong"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Jingtai"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ming Csing-taj"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Jingtai"
+    },
+    "it": {
+      "language": "it",
+      "value": "Jingtai"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "景泰帝"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Kaisar Jingtai"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "경태제"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "明代宗"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Жинтай"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᡤᡳᠩ ᡥᡡᠸᠠᠩᡩᡳ (ᡩᠠᡳᠮᡳᠩ ᡤᡠᡵᡠᠨ)"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "चींगथाइ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Maharaja Jingtai"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "جینگتای"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Bêng Tāi-chong"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jingtai-keiseren"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jingtai"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jingtai"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Jingtai"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Jingtai"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чжу Циюй"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Jingtai Emperor"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jingtai Emperor"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jingtai-kejsaren"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิจิ่งไท่"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Jingtai"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Чжу Ціюй"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Minh Đại Tông"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "朱祁鈺"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "朱祁鈺"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "景泰帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "景泰帝"
+    }
+  },
+  "lastrevid": 17426768,
+  "modified": "2025-09-16T04:17:41Z",
+  "ns": 860,
+  "pageid": 48438,
+  "sitelinks": {},
+  "title": "Item:Q27523",
+  "type": "item"
+}

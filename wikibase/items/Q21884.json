@@ -1,0 +1,245 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Chikanori"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q21884$B407F5BD-83F6-4FD5-8FCC-04E338D06CB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-71"
+          },
+          "hash": "235702a8287a0368393998188344037bf444abf8",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21884$A563ABE0-6C29-41E6-ADDE-C9E030705EE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21884$65201236-4D09-4E61-9D7B-90647ACEADA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q21884$BDB241CC-7476-47E9-9A32-5E0E14E80D97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33359",
+              "numeric-id": 33359
+            }
+          },
+          "hash": "afb7580bf99b75be2223b06c1e39ed49bb385e92",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21884$D21353F7-3D9A-41A3-B52F-C1B6B988D346",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21884$55CE1EFF-C66A-4559-B880-DDFD3446A8D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1515-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71ce27def4019b46798e93e281995c65aec97dfe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21884$64EAF0C4-DFC3-4F9C-AC57-4F6246427F90",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1577-10-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f28af238a681b4c28849845e07c10d43297893cf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21884$7FFD7719-4FC5-4395-8ED2-C980EACB0FDD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10729509"
+          },
+          "hash": "71d460412427b736d8ed22778a704b8a1c0fb5be",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21884$DAAF9E71-23E6-4658-9267-B29CEC9D529F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Chikanori Arms.svg"
+          },
+          "hash": "f2e6dfcc7c2c2f305c7e4d231dd569c5a7f08b3e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "[松平親乗] 4th head of Ogyu-Matsudaira clan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "大給松平家第4代当主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q21884",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Matsudaira Chikanori"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Chikanori"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Chikanori"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matsudaira Chikanori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平親乗"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Matsudaira Chikanori"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "松平親乘"
+    }
+  },
+  "lastrevid": 17420874,
+  "modified": "2025-09-16T02:30:13Z",
+  "ns": 860,
+  "pageid": 43896,
+  "sitelinks": {},
+  "title": "Item:Q21884",
+  "type": "item"
+}

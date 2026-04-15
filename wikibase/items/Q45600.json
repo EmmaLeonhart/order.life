@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Büri Böqö"
+      },
+      {
+        "language": "en",
+        "value": "Q81530181"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q45600$08DCEE7D-8D38-4190-AA76-5AECE0AEC797",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1427098"
+          },
+          "hash": "c483701faaa42ce7d384b640c6d7d5bd05216ea2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45600$C77B52F8-2F4B-41AE-A86E-9ACA553D68FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45600$A0DC8B1E-D8C1-4354-B900-D5BE60D8905F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45600$48EB0D80-E12E-4249-91EE-B8EAA16A0E76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42899",
+              "numeric-id": 42899
+            }
+          },
+          "hash": "fd708fca44f17dc7a3f5eaff7a7aa3cdb1abc3c7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45600$D6239773-79B7-4610-A913-3D2AC3005B49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45600$4C1DD0D3-BEE6-4A1F-9F90-ACF6837AB5D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45600$EEE2E28C-D89F-4C75-91D7-B86E8CC9C386",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1197-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "12622958b6d1815c428953ddee86474bf0f1326a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45600$9AC9F019-64E5-48D6-A631-F6BED8DF763E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q81530181"
+          },
+          "hash": "85877e0ecca4a445ee8438c01695cc64f428bdca",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45600$55DCD7C3-E061-48CA-9C9C-896AE0A4514C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Buri Boqo Arms.svg"
+          },
+          "hash": "b30b3b1f96a3d65566f34738831a80dead18aaa3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ru": {
+      "language": "ru",
+      "value": "нойон из рода кият-борджигин"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蒙古貴族"
+    }
+  },
+  "id": "Q45600",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Büri Böqö"
+    },
+    "en": {
+      "language": "en",
+      "value": "Buri Boqo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Büri Böqö"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Бури-Боко"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "不里孛阔"
+    }
+  },
+  "lastrevid": 17450170,
+  "modified": "2025-09-16T09:56:17Z",
+  "ns": 860,
+  "pageid": 61882,
+  "sitelinks": {},
+  "title": "Item:Q45600",
+  "type": "item"
+}

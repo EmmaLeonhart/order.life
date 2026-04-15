@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Suwa Yorikatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q56774$C1737CC1-5527-44FF-A262-144E073B35CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56774$0DA0D8DF-6F75-40D6-9770-3863A8104A02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56774$854BC01A-2CD1-4F75-AA05-667508EC677C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56771",
+              "numeric-id": 56771
+            }
+          },
+          "hash": "c3e629c0df6d193ba8e1e9de0761db6f37b8fd03",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56774$F7CAD15F-4C09-4B37-BAFE-E25D3D4A8646",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56774$CE644BA3-1C44-475E-95ED-34AE48ED3E91",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1631-12-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e7e08d98ad27316401116e8534665eb49dade427",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56774$7CD01921-BBFC-44CA-B1B8-6E376C985AC0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11631968"
+          },
+          "hash": "6bc7fa7fc56ad53dc464b8d3e5a1d7ae473a444e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56774$202F3F87-6CAD-43C5-91E9-39E33296BEC5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Suwa Yorikatsu Arms.svg"
+          },
+          "hash": "cbb9d8fc46c0c1feb47547c1742d2059fca4a8a3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の武士。信濃諏訪大社上社大祝諏訪頼忠四男で、諏訪図書家初代当主。家老を勤める"
+    }
+  },
+  "id": "Q56774",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Suwa Yorikatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "諏訪頼雄"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스와 요리카쓰"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёрикацу Сува"
+    }
+  },
+  "lastrevid": 17465290,
+  "modified": "2025-09-16T13:38:15Z",
+  "ns": 860,
+  "pageid": 71605,
+  "sitelinks": {},
+  "title": "Item:Q56774",
+  "type": "item"
+}

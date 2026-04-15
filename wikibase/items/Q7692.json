@@ -1,0 +1,404 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Otomuro"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7692$A1624C5B-2625-435E-90DF-6E8E083557B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00524425"
+          },
+          "hash": "6963e5dae1b8145d47334cd4ee6a1b61d536ecb3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7692$887CEDB4-35BE-4DF1-9673-91B9FD590CCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7713",
+              "numeric-id": 7713
+            }
+          },
+          "hash": "ff1c133586b57502b770588db27dc3ff75529458",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7692$AD40DBC0-15E1-41D4-B62D-D2937A6C8F68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7712",
+              "numeric-id": 7712
+            }
+          },
+          "hash": "308907bf480484652a4d5e0e9e1ff5fcadf6c96c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7692$15839BF3-8002-45C4-BAF0-3D90A6418A1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7692$C017B558-B654-4BD7-90B4-4DF55E48B847",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7692$848B7F27-3B8F-4401-80A2-579F3E4E91A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7508",
+              "numeric-id": 7508
+            }
+          },
+          "hash": "ba8be9e620837d920927105f25d930a721976625",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7692$6D057110-C563-4E31-8297-3D656D8BB73D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7538",
+              "numeric-id": 7538
+            }
+          },
+          "hash": "f54a39a3e4144aff4b69152fb89f20e79fff7755",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7692$400FEE5F-454C-4915-9D65-EFAE20667BC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7793",
+              "numeric-id": 7793
+            }
+          },
+          "hash": "70461c9100667840ede232b788a8ca09370da65b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7692$5BC72A3A-4132-4210-B9A8-F03E95A1DD8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7692$FDEF638B-7975-44E9-8BEC-C8D8547B344E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0760-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c3ad11ef85fecf3c7bfe1e66532d9ae0bb88b0cd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7692$5821B4C3-BCB2-4DD3-B6E0-0B429A86AB9A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0790-04-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e658a6778277870d4815e06a2ffad0615ecc4fc8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7692$F1457ED5-A136-4C12-BFD4-4F6DD86E0311",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2110461"
+          },
+          "hash": "266c3029c801160903e32189c61240fca8e64b77",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q7692$B4835AD6-FFE5-4ECC-875C-53712600F371",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Otomuro"
+          },
+          "hash": "62dad53e0678a9b70283911a52b205219703ab90",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7692$A3D96044-BFE4-4C7E-9526-77B0173B80EF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Otomuro Arms.svg"
+          },
+          "hash": "87b5a167de681684da5477cecbb4b9356c2bff77",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese noblewoman and Empress consort"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble japonaise et impératrice consorte"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "桓武天皇の皇后"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดินีในจักรพรรดิคัมมุ"
+    }
+  },
+  "id": "Q7692",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Otomuro"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fudžiwara no Otomuro"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Otomuro"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Otomuro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Otomuro"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فوجیوارا نو اوتومورو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Otomuro"
+    },
+    "id": {
+      "language": "id",
+      "value": "Fujiwara no Otomuro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原乙牟漏"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Fujiwara no Otomuro"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Fujiwara no Otomuro"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Otomuro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Отомуро"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fujiwara no Otomuro"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟุจิวะระ โนะ โอะโตะมุโระ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Fujiwara no Otomuro"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Fujiwara no Otomuro"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原乙牟漏"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "藤原乙牟漏"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "藤原乙牟漏"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原乙牟漏"
+    }
+  },
+  "lastrevid": 17407611,
+  "modified": "2025-09-15T22:37:07Z",
+  "ns": 860,
+  "pageid": 30185,
+  "sitelinks": {},
+  "title": "Item:Q7692",
+  "type": "item"
+}

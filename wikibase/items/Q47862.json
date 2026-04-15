@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ishii Shigenari"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q47862$B9796C82-DA23-4235-B080-7549EE95A350",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47862$E7A8B9B3-DDE8-4F3F-AF1E-E9CD12B9B9CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47862$A406D4D4-9BCD-43DA-94B1-F92130DEFC6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23950",
+              "numeric-id": 23950
+            }
+          },
+          "hash": "5f6c336232a454ecb64bbfd596b7c55769e6a13a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47862$7C855299-CDBA-4FF4-A406-DE556A75B119",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47862$FB606DC4-C18A-4162-83C6-71F5ED61B2BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1634-01-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5cbc52057fdfad4a4a748ea1db6c8a435a9c6a7b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47862$EF5C8B69-6061-4A03-9250-43055838A59B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11585087"
+          },
+          "hash": "fee1b5b3accc5f1b2a7102ab099d5044477d1c17",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47862$8C288F4C-A2D8-4069-B42E-AA9953A20497",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ishii Shigenari Arms.svg"
+          },
+          "hash": "3feb34a47c9262a5a11853ba176370402b6eef96",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の安土桃山時代の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q47862",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ishii Shigenari"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "石井茂成"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигэнари Исии"
+    }
+  },
+  "lastrevid": 17453124,
+  "modified": "2025-09-16T10:38:55Z",
+  "ns": 860,
+  "pageid": 63570,
+  "sitelinks": {},
+  "title": "Item:Q47862",
+  "type": "item"
+}

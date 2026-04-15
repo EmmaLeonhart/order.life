@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Taira no Tadafusa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q12376$8DA608D8-0F02-4DC5-93AA-60D18D6A39EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12376$0023E721-5A43-49C7-B8DA-3408614D7186",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q12376$8296C200-1B92-4435-BF26-AF9C015A6FD6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12268",
+              "numeric-id": 12268
+            }
+          },
+          "hash": "2e9cc1dea174b62e403eeeeb61166d3ddc9314b7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12376$F9935850-08E5-4F24-B09C-161CB9B33816",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12376$CE63FBCA-5DC5-4B33-B5F3-969D89948D23",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7d2a2e35f30974c290868c269623b5c60da411cb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12376$103D453F-1BF9-479E-8ABA-D935BC32255C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1186-01-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "068003ad2fdee2ecd9079e74a7758d6b7478e1bc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12376$08FC14DB-4E4B-478D-9540-13E305474A8F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11482779"
+          },
+          "hash": "b26c4ee11cea89fc8c49b409c54056b1037cc9aa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12376$EAA1AFCA-0495-4139-8160-56144DA79F15",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Taira no Tadafusa Arms.svg"
+          },
+          "hash": "28ef9f09915e00e7010beb86faa20bc8499907a9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期の平家一門の武将。平重盛の六男（五男）。従五位下、侍従兼丹後守。"
+    }
+  },
+  "id": "Q12376",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Taira no Tadafusa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平忠房"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "平忠房"
+    }
+  },
+  "lastrevid": 17413454,
+  "modified": "2025-09-15T23:55:50Z",
+  "ns": 860,
+  "pageid": 34712,
+  "sitelinks": {},
+  "title": "Item:Q12376",
+  "type": "item"
+}

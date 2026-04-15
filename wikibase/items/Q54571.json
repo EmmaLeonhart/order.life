@@ -1,0 +1,376 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sadnalegs"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q54571$FAB814B4-99CF-40EF-B163-71737068AEE0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "644451"
+          },
+          "hash": "f53aa1499ac72ad1b4f4b7dbe35ffe7b9ee9d9a4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q54571$2F95E9FF-2BF0-48D8-9502-3D4802BBD2BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61172",
+              "numeric-id": 61172
+            }
+          },
+          "hash": "9beac6f246b66d237050182b5a815c4bc8987e11",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54571$EC62659B-B394-41A5-8749-BB7B377CAC39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61166",
+              "numeric-id": 61166
+            }
+          },
+          "hash": "04f2ba03ed0d903a10802649c1d5494a97939588",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54571$31E537B1-FAEF-4AB9-BC15-02B2BF0FEBFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61169",
+              "numeric-id": 61169
+            }
+          },
+          "hash": "07e6e51fe49dd2c8635ee666ec19e5e128b708bf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54571$9B56A594-9C3F-4B1E-A225-D50D0E9A5898",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54571$E0447804-294D-4A6A-B67D-97A00B26AEB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54571$A5540DEF-4822-4B99-B03A-84131451FA48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45943",
+              "numeric-id": 45943
+            }
+          },
+          "hash": "1580b66406efe9460e7dc322d61f4bf389d83bd1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54571$323F5232-499E-4C3E-81FD-8F62DCF9B5E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54571$FBF54074-0B67-4A76-AAE7-BF8E4A16ABA7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0761-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05060158cae57fb4f9d981743c5a760f633fec79",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54571$7BD85F52-9043-4F20-8014-BD86F2A478D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0815-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8922894429c3edf169dd16859f8811ff4fbd3f66",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54571$41462E74-8CAC-4F67-9E92-C66C926095EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1910177"
+          },
+          "hash": "921909be95f908a2b3756718ba7b999a54ecb0a4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54571$DDD2EBB7-219E-48E1-9C40-464AB95B9B41",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sadnalegs Arms.svg"
+          },
+          "hash": "931fea2533653bc98e5d7f2b0fa98fe076789f86",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "Тибетски крал (761-815)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θιβετιανός αυτοκράτορας (761-815)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tibetan emperor (761-815)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Empereur tibétain (761-815)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "tibetansk keiser (761-815)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Tibetaans rijk (761-815)"
+    }
+  },
+  "id": "Q54571",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Садналег"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "খ্রি-ল্দে-স্রোং-ব্ত্সান"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "མུ་ཏིག་བཙན་པོ།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sadnalegs"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sänaleg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sadnalegs"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σαντναλέγκς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sadnalegs"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sadnalegs"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sadnalegs"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Sadnalegs"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sadnalegs"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティデ・ソンツェン"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Sadnalegs"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sadnalegs"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sadnaleg"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sadnalegs"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sadnalegs"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sadnalegs"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าเสนาเล"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тідесронцан"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "赤德松贊"
+    }
+  },
+  "lastrevid": 17462138,
+  "modified": "2025-09-16T12:51:02Z",
+  "ns": 860,
+  "pageid": 69402,
+  "sitelinks": {},
+  "title": "Item:Q54571",
+  "type": "item"
+}

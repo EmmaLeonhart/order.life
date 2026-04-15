@@ -1,0 +1,326 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Uroš //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55819$FA120ABB-5144-4773-8B32-F6193C55F857",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00571561"
+          },
+          "hash": "d117504952cc39d12f02516cf0a0b0fa7dcdd95e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55819$416BDC4F-3D3A-4082-9161-48CF8BEA8B19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55819$E61F6FC9-1671-43BE-ABA7-A0851B6294B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55819$9F59A6DF-F500-4279-8529-B232BC7248D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50211",
+              "numeric-id": 50211
+            }
+          },
+          "hash": "4a4d3b4056c0ba45a4e87e208bc5d5a34a8edf3c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55819$4DF0A880-F68D-418C-AD50-54576496DC48",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50175",
+              "numeric-id": 50175
+            }
+          },
+          "hash": "9dfce4bbcb3be71ad7cc2f6adf252fc521fa07c4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55819$881C85D6-4D13-4814-A554-9E35BBFC25C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55819$CBBD7280-6136-4822-AAF4-6A3335122E41",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55819$6734C27B-D47F-437F-AA4F-0A864258BDC5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1422-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "297e53fc2d133b13c4d730268633a37704ab2945",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55819$97FE746D-70F0-4AA7-9769-18124ACA06C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888583"
+          },
+          "hash": "ed66a7fe5cd6ffecb7dde20d77e1db1dce69f2ef",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55819$A0DA4547-4ABA-4D82-A1A6-77E58D840B24",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Uroš Arms.svg"
+          },
+          "hash": "1262bf137df55a77705eeb7586a9e6dee27d65dd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Herrscher von Thessalien (1371 – etwa 1381)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέρβος ηγεμόνας και μοναχός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Serbian royal"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monnik uit Byzantijnse Rijk (1350-1422)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "српски средњовековни владар"
+    }
+  },
+  "id": "Q55819",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Іаасаф Метэарыт"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йован Урош"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan Uroš"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jovan Uroš"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Ούρεσης Δούκας Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Uroš"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan Uroš"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ivan Uroš"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Jovan Uroš"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨヴァン・ウロシュ・パレオロゴス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Johannes Uroš"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan Urosz"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоасаф Метеорит"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Jovan Uroš"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "John Uros"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Урош"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Јован Урош"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Jovan Uroš"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Іоасаф Метеорит"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约万·乌罗什"
+    }
+  },
+  "lastrevid": 17464004,
+  "modified": "2025-09-16T13:19:06Z",
+  "ns": 860,
+  "pageid": 70650,
+  "sitelinks": {},
+  "title": "Item:Q55819",
+  "type": "item"
+}

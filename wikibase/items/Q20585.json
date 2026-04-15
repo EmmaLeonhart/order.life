@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marumo Kanetoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20585$142D3BD7-F9AA-47AF-A4DC-1560BEDC1EC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20585$6F6530A0-6127-470E-B2D9-48592969BEC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q20585$76F89F1B-706D-43DE-B459-F1256DE93E52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30814",
+              "numeric-id": 30814
+            }
+          },
+          "hash": "00acea792c59b4a77e8c388e98e71c528ce01c2a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20585$906171BC-113D-4747-901D-0EEB10CE2D25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20585$AFC1E6D4-A7BC-46FC-B188-2497A3755D21",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1647-03-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4debc0085868cffbd5887817464e498679b5744c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20585$55CECF5C-4A55-4670-9BFA-7376B457A421",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11368375"
+          },
+          "hash": "ed2707b6d6fb72f996755655bd60e90f6810ef7b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20585$101D7EA7-3F68-48B5-B3C8-39B972031866",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Marumo Kanetoshi Arms.svg"
+          },
+          "hash": "609b47b76dda80120754d1dcda85bd439e9ba4bf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から江戸時代前期の武将。加賀藩士"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q20585",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Marumo Kanetoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "丸毛兼利"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Канэтоси Марумо"
+    }
+  },
+  "lastrevid": 17419644,
+  "modified": "2025-09-16T02:01:31Z",
+  "ns": 860,
+  "pageid": 42660,
+  "sitelinks": {},
+  "title": "Item:Q20585",
+  "type": "item"
+}

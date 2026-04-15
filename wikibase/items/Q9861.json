@@ -1,0 +1,314 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Reishi"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q9861$6C7E4229-8FCD-4963-B113-F460D900968D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523625"
+          },
+          "hash": "c1cf898f2359b0636d6ece9e33c32141dd7661bc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q9861$EE7BAC18-0040-4E6C-9B9D-55560E7AB524",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10267",
+              "numeric-id": 10267
+            }
+          },
+          "hash": "7ac2440e8bdf69b3c9653cc1963ea35eb3478a59",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q9861$12B35EBE-C2BB-4C9C-BBE9-7F0505A3EFAA",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Minamoto no Reishi"
+            }
+          },
+          "hash": "31fccf207b1dc95af2ccf4f0363ac1cffb580b76",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9861$E15753D7-D1E7-4115-9370-70B436B72520",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9861$C4F325E5-2D25-47F3-97E1-CDD0BDD9AEF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q9861$3A4BCADD-027C-4750-8447-4C73C2AE6BD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9821",
+              "numeric-id": 9821
+            }
+          },
+          "hash": "30b319e02f8b5a8f0405f04549b3e8199225213a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9861$9894CB0D-61DE-478B-8761-5FA5C37050FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9704",
+              "numeric-id": 9704
+            }
+          },
+          "hash": "05fd6a97f94c9af5bbee38789d3e324befbaba78",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q9861$4F27ABE0-C718-46AA-9375-A9D0E7B442B0",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Minamoto no Reishi"
+            }
+          },
+          "hash": "3da2903f0eea115eebbd91d53bfe75e7fd586027",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9861$78BFCBBE-4BCA-4D6B-8F86-7B5D4D3F1CD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9861$C8409B07-9338-497E-A890-D66D4BD80E2B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1040-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "599667cb5ea84886e322a47678ee5b6c784edcbd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9861$4E55EF3B-245A-4616-86A8-F32E82B274B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1114-05-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "43123a93f512e3727eee15baacb50a1d2d2077bc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9861$7132CB45-7277-4BAF-B206-BA1CD1417744",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564375"
+          },
+          "hash": "aa4fbbe36019ab3e7032cbe6e08f32df9d117a7b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "wife of Fujiwara no Morozane"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代の貴族女性。源師房の四女。藤原師実の北政所。従一位。出家"
+    }
+  },
+  "id": "Q9861",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Minamoto no Reishi"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Reiši Minamoto"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Reishi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源麗子"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Минамото-но Рэйси"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "源麗子"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "源丽子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "源麗子"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "源麗子"
+    }
+  },
+  "lastrevid": 17411734,
+  "modified": "2025-09-15T23:30:51Z",
+  "ns": 860,
+  "pageid": 32291,
+  "sitelinks": {},
+  "title": "Item:Q9861",
+  "type": "item"
+}

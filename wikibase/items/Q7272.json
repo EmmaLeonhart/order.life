@@ -1,0 +1,268 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Empress Yamato"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7272$5A5FB7F3-EF12-48AA-BB40-96997AED34C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7272$9E9D2E24-D939-4D25-B438-CBC34C310479",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7272$BAF2FE1C-A697-4E58-931D-753F8460CDB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7229",
+              "numeric-id": 7229
+            }
+          },
+          "hash": "2622efccf6fe0d8aac5c0b47fccece2aef7d1bf5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7272$244EFB23-9199-4115-8314-36BC6FD46DF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7272$7DCF335A-C379-4CA8-A3E1-7ABB0AD11864",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dad1444d1226a8d60f3eee2b90cdaa2e80dd9ab4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7272$B2DD755B-C7D2-440E-81BF-C4389AACAE48",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5374641"
+          },
+          "hash": "58dd8ab154d188716be41ca115d862042e1392d3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7272$010F7E4E-FAA2-4041-B6E3-F4343A019947",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Empress Yamato Arms.svg"
+          },
+          "hash": "3fc3ce575841daf5bd7687608c99552fcca4e472",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعرة يابانية"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese empress"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "banimpire Seapánach"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "飛鳥時代の皇族。古人大兄皇子の娘。万葉一期歌人。勅撰集『続古今和歌集』に1首入集"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichteres"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японская принцесса"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดินีในจักรพรรดิเท็นจิ"
+    }
+  },
+  "id": "Q7272",
+  "labels": {
+    "bcl": {
+      "language": "bcl",
+      "value": "Yamato Hime no Ōkimi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Yamato"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress Yamato"
+    },
+    "es": {
+      "language": "es",
+      "value": "Empress Yamato"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یاماتو هیمه نو اوکیمی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yamato"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Empress Yamato"
+    },
+    "id": {
+      "language": "id",
+      "value": "Permaisuri Yamato"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "倭姫王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "야마토히메노 오오키미"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yamato Hime no Ōkimi"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Yamato"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ямато-химэ-но Окими"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Empress Yamato"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Yamato Hime no Ōkimi"
+    },
+    "th": {
+      "language": "th",
+      "value": "ยามาโตะ ฮิเมะ โนะ โอกิมิ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Empress Yamato"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "倭姬王"
+    }
+  },
+  "lastrevid": 17407215,
+  "modified": "2025-09-15T22:32:11Z",
+  "ns": 860,
+  "pageid": 29766,
+  "sitelinks": {},
+  "title": "Item:Q7272",
+  "type": "item"
+}

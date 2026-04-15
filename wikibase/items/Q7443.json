@@ -1,0 +1,176 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nakatomi no Tsune"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7443$C11B93D1-7906-4FC6-BA45-9799DDB96541",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7443$BFA3714E-EE63-48FF-9A6E-3AD2272B3B0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7443$1EB756B6-73F0-424D-B003-763AF463A590",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7343",
+              "numeric-id": 7343
+            }
+          },
+          "hash": "09c7b910d6d4ae69992cc0e5afcb7b2314a7d3f2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7443$1EFF475C-079B-4C99-8F10-74BDAC44F19D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7443$F89A6365-DB08-4C7C-AC43-9E8DACA6073F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6a369388e76afd2a6ed34fd33d6f4a6fd120c3e1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7443$A1A1F9D6-9EB3-42D8-9785-D4104A278A6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q28689083"
+          },
+          "hash": "bd0fafd49c335c37716a0347e92759889beb5c61",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7443$54FDB1F2-612D-4A28-B5A9-6FC2BE0124F1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nakatomi no Tsune Arms.svg"
+          },
+          "hash": "addf41a650e36af41d9a8a148832a716368a3ba8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "奈良時代の貴族"
+    }
+  },
+  "id": "Q7443",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nakatomi no Tsune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "中臣常"
+    }
+  },
+  "lastrevid": 17407395,
+  "modified": "2025-09-15T22:34:25Z",
+  "ns": 860,
+  "pageid": 29936,
+  "sitelinks": {},
+  "title": "Item:Q7443",
+  "type": "item"
+}

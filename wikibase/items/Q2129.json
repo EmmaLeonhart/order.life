@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "MRIKANDU"
+      }
+    ]
+  },
+  "claims": {
+    "P12": [
+      {
+        "id": "Q2129$9E99F77A-1390-4BDC-8F88-2CBABF47F312",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Rishi"
+            }
+          },
+          "hash": "caae8af0acaf11a7ddc52d5b95f50ee1bd04d3a1",
+          "property": "P12",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q2129$F72AFEB7-D4C7-46CA-9D9E-1E9592A99AF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2111",
+              "numeric-id": 2111
+            }
+          },
+          "hash": "cc9ec96ce8f4ee43ec3acdf7deb64cb36ee0017b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q2129$4DEA0FA5-DD87-45EA-9E1D-64B88EB3436A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q2129$874CB11C-EB45-4662-8B2A-1BA1284002E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q2129$61716C04-6789-46B0-813E-8AE74A0D1BC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50568",
+              "numeric-id": 50568
+            }
+          },
+          "hash": "902bab526581d1cc76861f980058f1ced5533cee",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q2129$51D6BBD5-0E15-438E-85F8-9EA1F6E16D20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153520",
+              "numeric-id": 153520
+            }
+          },
+          "hash": "cf3881bb2e4d337e627347ada9fcf90ff3382dd4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q2129$BCB78C88-A051-4FFD-A75F-49B54913A41D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153519",
+              "numeric-id": 153519
+            }
+          },
+          "hash": "3741166298412017c68660545e891bef54718bb2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q2129$23CA65FD-809F-4872-939A-A2F2EC0EBF5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q2129$3318B40E-7AC4-4C68-9893-1C2723D6EE75",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "MRIKANDU Arms.svg"
+          },
+          "hash": "efd5ff4109afa6fedd72618dfcf2daeed2016e4e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q2129",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "MRIKANDU"
+    }
+  },
+  "lastrevid": 17404574,
+  "modified": "2025-09-15T21:40:55Z",
+  "ns": 860,
+  "pageid": 20545,
+  "sitelinks": {},
+  "title": "Item:Q2129",
+  "type": "item"
+}

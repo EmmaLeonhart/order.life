@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Asakura Shigenari"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q48628$D6DAD0AD-A922-46BD-BF6B-43E3F64D3D33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48628$E7D935A8-39F4-4C52-9ACA-0730B00540B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48628$358AC907-98B1-4D8A-8E5D-77EDC5E9EC47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q42127",
+              "numeric-id": 42127
+            }
+          },
+          "hash": "917734e9261074d87d37c36d7b8acd5a6defd6da",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48628$74191CBE-3268-41D7-A5EA-ADB5784F792A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48628$97EFFE41-60CE-4479-BE60-DEF405B4EA39",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a4993a8d02f5e2402e4e00dfd0ac872af9ca2b33",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48628$1DDEA645-E924-461F-A757-1BA1E3E8F015",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1676-12-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "09b3874bdc6c0b812556fadfb12900d524a4b772",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48628$8BF44925-0F4E-4DD0-851B-59F4EBC27DAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6527222"
+          },
+          "hash": "c13019f11b6419098dfb8798af1ddca0f7f1c356",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48628$78EEFE91-558A-4605-B28F-FF05C322A1D1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asakura Shigenari Arms.svg"
+          },
+          "hash": "a41306bb19c5a55936df799d36868f2bdf4ef472",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the early Edo period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期の武士。江戸幕府旗本（江戸北町奉行）朝倉在重長男で、在重流朝倉氏3代当主。御小姓組・徒頭・御留守居役等を歴任"
+    }
+  },
+  "id": "Q48628",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Asakura Shigenari"
+    },
+    "de": {
+      "language": "de",
+      "value": "Asakura Shigenari"
+    },
+    "en": {
+      "language": "en",
+      "value": "Asakura Shigenari"
+    },
+    "es": {
+      "language": "es",
+      "value": "Asakura Shigenari"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "朝倉重成"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Asakura Shigenari"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигэнари Асакура"
+    }
+  },
+  "lastrevid": 17454128,
+  "modified": "2025-09-16T10:53:25Z",
+  "ns": 860,
+  "pageid": 64142,
+  "sitelinks": {},
+  "title": "Item:Q48628",
+  "type": "item"
+}

@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Tameyori"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q9043$926CA286-00A5-41A8-AF21-61B2820F807F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "820537"
+          },
+          "hash": "1042aaadcc27f93e2d8fad6aa4dc856de3a38948",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q9043$177AB48D-79DB-4BFF-A0AB-25D14B00E394",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9454",
+              "numeric-id": 9454
+            }
+          },
+          "hash": "818ef8df1ba4a16777a6b6d917e18501cc246d0b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9043$0C3291C0-C242-4176-8BE1-BEF947244369",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9043$55856D4E-B753-45A8-987C-6CF6F8D6D636",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9043$58C3033E-A368-4B9D-A056-1122D876D8F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9042",
+              "numeric-id": 9042
+            }
+          },
+          "hash": "f81616a1d0fbab16df9736baae9cc15b55f493af",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q9043$90D51215-7A03-410B-9FD2-2E6489A5F35A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8712",
+              "numeric-id": 8712
+            }
+          },
+          "hash": "14e96336ed05fcad143a4a7f6635c019bb82ef6e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9043$90C63100-386D-4BCD-B5BC-6171B84C2B16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9043$FC67D3FA-95D7-40E8-90BC-020B51723BCF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0939-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4bb635cdf0de08011a35fcc95879dadfa5d0972d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9043$D72DAC81-E1E5-40A0-AE16-F5A192F3A35F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0998-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0629960f9038322f740630d62ae96545fe577862",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9043$86FCDB31-09E9-4F3D-B4E8-64548682F9B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623398"
+          },
+          "hash": "3468d9c229f85c70f43f01261a6116b06d4dfafe",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "939?-998, 平安時代中期の貴族、歌人。藤原雅正の長男。官位は従四位下・摂津守。勅撰集『拾遺和歌集』以下に11首入集"
+    }
+  },
+  "id": "Q9043",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Tameyori"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tameyori Fujiwara"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原為頼"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原為賴"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原為賴"
+    }
+  },
+  "lastrevid": 17410156,
+  "modified": "2025-09-15T23:08:48Z",
+  "ns": 860,
+  "pageid": 31518,
+  "sitelinks": {},
+  "title": "Item:Q9043",
+  "type": "item"
+}

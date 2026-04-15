@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Feilian //"
+      },
+      {
+        "language": "en",
+        "value": "Feilian"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q33291$27521B8A-4FF6-4AC9-8B4C-D844902097C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33295",
+              "numeric-id": 33295
+            }
+          },
+          "hash": "6468d43d469eecbc16bd1f67daae39b38d1a8e97",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33291$A482AE6F-2801-4F30-A6FE-CEA23FD83964",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32879",
+              "numeric-id": 32879
+            }
+          },
+          "hash": "e46c15dd14f924fa492229184e255a4788dc4902",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q33291$20062DC2-0416-41E6-9098-4023BDC0F85B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33291$43BB564E-55FB-4F25-AA8E-47B03B8E70F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q33291$04252A5E-66D3-4ED6-998B-9523F0EE45C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33542",
+              "numeric-id": 33542
+            }
+          },
+          "hash": "760250cf66b9e14e179e6073dc2f7fbded50d23a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33291$94ABB452-3F29-4F84-B1E0-2DF1939D2ECB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33291$4DCC44ED-9193-4FB9-9C4C-11DDD79E1018",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4977174"
+          },
+          "hash": "3ef5f226d98ac45a76b949a9e92569995c2e4943",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q33291$C9DF6F39-3B28-4DF5-870C-BFC5E694F611",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Feilian Arms.svg"
+          },
+          "hash": "1abe176b58421fb974e08c9f29ee8ad85a84bc3c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the last common patrilineal ancestor of the kings of Qin state and Zhao state"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "tổ tiên của các vua Tần, vua Triệu thời Đông Chu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "商纣王将领"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "商纣王将领"
+    }
+  },
+  "id": "Q33291",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Phi Liêm"
+    },
+    "en": {
+      "language": "en",
+      "value": "Feilian"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蜚廉"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "비렴"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Phi Liêm"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Phi Liêm"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蜚廉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "蜚廉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蜚廉"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "蜚廉"
+    }
+  },
+  "lastrevid": 17433956,
+  "modified": "2025-09-16T06:01:19Z",
+  "ns": 860,
+  "pageid": 52680,
+  "sitelinks": {},
+  "title": "Item:Q33291",
+  "type": "item"
+}

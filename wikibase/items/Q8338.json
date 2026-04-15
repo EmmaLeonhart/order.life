@@ -1,0 +1,360 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sosei"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8338$4312AC5B-1EC8-4CF9-9BF9-4B1744237CAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8338$3BA749CE-C20F-43A8-BED9-6AFCB2062C9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8338$15644BAF-2158-4570-A6E0-A47D7D8387F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8024",
+              "numeric-id": 8024
+            }
+          },
+          "hash": "d9e2fc24da9efbd942607594c33a4c010ce3aafd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8338$65D73F65-555E-45AF-B03C-265940D871D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8338$5305E537-9B02-4111-8CC7-9998776BFD65",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0816-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a784eb15799b653cc77324ff00d1bbee513ad76",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8338$08575543-4A43-4CDB-872D-9E8FA15FC33D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0910-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4e6580c8e8ff750a7cae2bd132cc2cfd59bdd106",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q8338$FB553657-66F2-4383-865B-C10C2F570663",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hyakuninisshu 021.jpg"
+          },
+          "hash": "f761bceeaa623d1ac74e241f5173e1029964f440",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8338$AD413103-BAA1-4D2D-873E-687E6B027CB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1858218"
+          },
+          "hash": "bbb9669738cb912da0a57b58a11769d7f1ddb8a1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعر ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "poeta xaponés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি কবি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "poeta japonès"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Dichter und buddhistischer Mönch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese poet"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese poet"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese poet"
+    },
+    "es": {
+      "language": "es",
+      "value": "poeta japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani luuletaja"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "poeta japoniarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاعر ژاپنی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poète japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "file Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poeta xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "משורר יפני"
+    },
+    "it": {
+      "language": "it",
+      "value": "poeta giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の僧侶・歌人"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichter (?-)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poeta japonês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "poet japonez"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский поэт и буддийский монах"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "poet japonez"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon şair (816 – 910)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський поет"
+    }
+  },
+  "id": "Q8338",
+  "labels": {
+    "bcl": {
+      "language": "bcl",
+      "value": "Sosei"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sosei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sosei"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sosei"
+    },
+    "et": {
+      "language": "et",
+      "value": "Sosei"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hoshi Sosei"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Sosei"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szoszei"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sosei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "素性"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "소세이"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sosei"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Hoshi Sosei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сосэй"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sosei"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сосей"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "素性"
+    }
+  },
+  "lastrevid": 17408616,
+  "modified": "2025-09-15T22:49:40Z",
+  "ns": 860,
+  "pageid": 30825,
+  "sitelinks": {},
+  "title": "Item:Q8338",
+  "type": "item"
+}

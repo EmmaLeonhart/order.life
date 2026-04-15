@@ -1,0 +1,356 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Möngke Temür //"
+      },
+      {
+        "language": "en",
+        "value": "Möngke Temür"
+      },
+      {
+        "language": "en",
+        "value": "Mongke Temur"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q37549$0C683DD8-29F5-4D89-B20E-9BDA8C0508A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1266867"
+          },
+          "hash": "cf976d188f669609f34deac061ff53b19041c087",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q37549$98FAB31E-036C-4344-B7A2-E743561618EE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00299596"
+          },
+          "hash": "fe4b045ee821d1b17083b24066172aadea9e8e4a",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37549$D130BBDD-FB90-4BDC-AA7E-9DF8F8679A3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37549$9B7BF158-773D-4C93-B47E-0A077B4CF2E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q37549$B57E9EB4-B615-4B8C-A36A-B9E1B0383952",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39146",
+              "numeric-id": 39146
+            }
+          },
+          "hash": "6399e3efac280108764ce8477615a9256b4ebbe0",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37549$31A19AE0-00B6-46AE-9D4C-9C9EF87B2B3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36518",
+              "numeric-id": 36518
+            }
+          },
+          "hash": "b5879204ee16cb2ab7cb8901196edc897f7a55cd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q37549$343D369A-CB2F-46B4-9BC9-DD7CD44400D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37532",
+              "numeric-id": 37532
+            }
+          },
+          "hash": "b4057ab5b08d1ef3485adb112688ee36367e9caf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37549$8501B336-3353-4E1E-A7C6-649460E8E657",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37549$7711A72A-8725-40F8-8626-E8D0B8AD1EEA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1256-10-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9989553decfc74d4e0640f2cfd1bfb975def0032",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37549$5B1721B6-A9B6-4944-B873-F079A16367D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1282-04-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6cba4b1b18f0181f266ee794f5776f1f4a565b0c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37549$E40D2471-27C7-4377-AF0C-BEB6DA9A66DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q23684592"
+          },
+          "hash": "47606318b5ba96fd5e0f18077a1de526ccaf61a4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37549$7C62092C-3A14-42AA-AB36-ECA5693D4E05",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Möngke Temür Arms.svg"
+          },
+          "hash": "4ade77971a96b0591d2cfb596e1812685da2a9be",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "أمير إلخاني (1256-1282 م)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ilkhanate prince (1256-1282)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince mongol de l'Ilkhanat (1256-1282)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フレグの十一男。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair leider"
+    }
+  },
+  "id": "Q37549",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "منغو تيمور"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Mengu Temur"
+    },
+    "az": {
+      "language": "az",
+      "value": "Məngu Teymur"
+    },
+    "be": {
+      "language": "be",
+      "value": "Менгу Тэмур"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Möngke Temür"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mengu Temur"
+    },
+    "en": {
+      "language": "en",
+      "value": "Möngke Temür"
+    },
+    "es": {
+      "language": "es",
+      "value": "Möngke Temür"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "منگوتیمور بن هولاکو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Möngke Temür"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "モンケ・テムル (フレグ・ウルス)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Möngke Temür"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Менгу Темур"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "منگو تیمور"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "蒙哥帖木兒"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蒙哥帖木兒"
+    }
+  },
+  "lastrevid": 17440016,
+  "modified": "2025-09-16T07:29:46Z",
+  "ns": 860,
+  "pageid": 55859,
+  "sitelinks": {},
+  "title": "Item:Q37549",
+  "type": "item"
+}

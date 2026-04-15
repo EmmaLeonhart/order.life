@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tōshōin"
+      },
+      {
+        "language": "en",
+        "value": "Toshoin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q28562$CDFE054B-1F84-4454-9BF0-98EDE2B9650F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28562$6BB1D533-FE7C-4CE0-8C83-9270AF6400D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q28562$C77EFBD8-3094-4998-BA0E-E6B230D06848",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28687",
+              "numeric-id": 28687
+            }
+          },
+          "hash": "a84780c005af3199e12e4c19ae424580afb80b58",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q28562$092317A3-AA96-4A52-94BD-4FDA842A9516",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16562",
+              "numeric-id": 16562
+            }
+          },
+          "hash": "2c54d795c5fbb9e10ed12b0363ec6e0bc8f4557e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q28562$92705944-BF05-4131-A6E6-32E6EA31186A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q28562$878730A1-0727-41F0-A727-804FF80E734B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1460-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "571e76883316ec8c7780189bd2e6aed2819fd838",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q28562$ADFAC625-A565-43B4-B9C4-E5606011F11F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11555845"
+          },
+          "hash": "e3335f5cc2dccd5168b59e5e9747dbc6ab4ac9f4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q28562$CA74E27F-8798-4004-BE13-A2E25783D51A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tōshōin Arms.svg"
+          },
+          "hash": "ba61cee41fa3e564594a782e9598bd00abc9046a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の女性。女戦国大名。 赤松政則の継室（後室）。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    }
+  },
+  "id": "Q28562",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tōshōin"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tóšóin"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tōshōin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tōshōin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tōshōin"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "توشو-این"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tōshōin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "洞松院"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tōshōin"
+    }
+  },
+  "lastrevid": 17427876,
+  "modified": "2025-09-16T04:33:37Z",
+  "ns": 860,
+  "pageid": 49146,
+  "sitelinks": {},
+  "title": "Item:Q28562",
+  "type": "item"
+}

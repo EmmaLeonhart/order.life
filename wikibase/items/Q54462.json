@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Charles d'Artois //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q54462$DD289DA6-14ED-4FFC-879D-9395A015E2F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54462$14A6C8E7-F7CB-4173-9916-5A9EB4B446EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54462$0B1F54C5-9309-442C-955D-EB562286DFD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49579",
+              "numeric-id": 49579
+            }
+          },
+          "hash": "f981ab5dd10ca1c6d5d15dd01a0541d382e6bf05",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54462$3E2B24B5-F607-4402-AA79-C75283A77D66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54462$D8A4393C-7ECE-4B0B-A852-5802CC833D50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd499ea07e9098e107be2add177004bf6d253a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54462$28AD031F-7774-4A15-8808-5BE0D74275D3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 10,
+              "time": "+1346-09-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "175b3de534c0798c9e73c68897d42f33bf156f2b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54462$D2F1D21A-0CD0-4B9C-BD8E-C93F7F9D4C00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q42376712"
+          },
+          "hash": "f84e12b0ad4681100c458c2ffda6df668b0fa198",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q54462$C588C1F7-7801-4524-8E29-38357A91F251",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=carlo;n=d artus"
+          },
+          "hash": "ff6c4e3eefe9a95f1a74fd094092cf2b7e6b8293",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54462$7A7A8D8D-3AC4-47A4-AED3-2530103176C2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Charles d'Artois Arms.svg"
+          },
+          "hash": "ced45522bbd7f80632f73767eb04d31d762d2de4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Neapolitan nobleman and court official"
+    }
+  },
+  "id": "Q54462",
+  "labels": {
+    "el": {
+      "language": "el",
+      "value": "Κάρολος του Αρτουά"
+    },
+    "en": {
+      "language": "en",
+      "value": "Charles d'Artois"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Charles d'Artois"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Charles d'Artois"
+    },
+    "es": {
+      "language": "es",
+      "value": "Charles d'Artois"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Charles d'Artois"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Karol d’Artois"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "厄伯爵阿图瓦的夏爾"
+    }
+  },
+  "lastrevid": 17461976,
+  "modified": "2025-09-16T12:48:41Z",
+  "ns": 860,
+  "pageid": 69293,
+  "sitelinks": {},
+  "title": "Item:Q54462",
+  "type": "item"
+}

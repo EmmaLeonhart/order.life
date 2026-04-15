@@ -1,0 +1,387 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sava II //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q55399$BCE456F8-2435-455C-9FF7-3C7B3CF4A7B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "850130"
+          },
+          "hash": "bff7d41465f564e8b438ac6ae24a5bdfd7ecbcca",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55399$23825D97-C5A3-4381-8D8C-93DC07600BB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55399$17697779-9426-43E9-8B3A-7E85F73F0228",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q55399$5EDAB47D-EDB0-490A-863A-3F9A40569A50",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Saint_Sava_II_(1)"
+          },
+          "hash": "cf75082f9d70f555307744da325210cf5ca04b6e",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55399$18E614B6-28BC-4780-A48F-54E8D6484AD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55383",
+              "numeric-id": 55383
+            }
+          },
+          "hash": "b0bbd9f7a8af4ecd3f502d338ed783c0363c1f7e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55399$1C0D1FBD-4B51-4D1C-A1CB-E0A6E0880687",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54099",
+              "numeric-id": 54099
+            }
+          },
+          "hash": "683f28300e14042ec0bdd642fbb5614474686c2f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55399$F4741D54-7A77-4D01-AAFC-B45B54799278",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55399$1F84F1C8-1520-4DAA-9F94-4890832EEBFB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1199-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c23f0be32998d2f6f5d2e0e9db9736b29a8479d9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55399$817DB618-E807-4DB4-8320-25888C60922A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1269-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9eba670b2c62436efea06c1dd9454afa6705f94d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55399$5FF39DED-5175-442B-A43F-A91D73902CE3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q169584"
+          },
+          "hash": "126bb2270e6fdeb68c72a84e7cf721c4f5c288df",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55399$863171D2-89A1-425F-BA8B-A6ACEE56AA9C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sava II Arms.svg"
+          },
+          "hash": "0009c82ca593d2fa49c2b4b4e3ff0e9b7111fae8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bs": {
+      "language": "bs",
+      "value": "arhiepiskop Srpske pravoslavne crkve"
+    },
+    "en": {
+      "language": "en",
+      "value": "Archbishop of Serbs"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کشیش اهل صربستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "saint serbe"
+    },
+    "it": {
+      "language": "it",
+      "value": "arcivescovo ortodosso e santo serbo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "priester uit Servië (?-1269)"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "трећи архиепископ српски"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "ärkebiskop, helgon"
+    }
+  },
+  "id": "Q55399",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "سافا التانى"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Сава II"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Sava II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sava II de Sèrbia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sava II"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άγιος Σάββας Β΄ της Σερβίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sava II"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Sava II"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Sava II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sava II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Saint Sava II"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sava II de Serbia"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sava II."
+    },
+    "id": {
+      "language": "id",
+      "value": "Santo Sava II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Saba II di Serbia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サワ2世"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Свети Сава II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sava II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sawa II"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sfântul Sava al II-lea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Савва II Сербский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sveti Sava II"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sava II"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Свети Сава II"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Свети Сава II"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Sveti Sava II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sava II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薩瓦二世"
+    }
+  },
+  "lastrevid": 17463372,
+  "modified": "2025-09-16T13:09:14Z",
+  "ns": 860,
+  "pageid": 70230,
+  "sitelinks": {},
+  "title": "Item:Q55399",
+  "type": "item"
+}

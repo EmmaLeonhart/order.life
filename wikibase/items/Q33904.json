@@ -1,0 +1,321 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jeongseong //"
+      },
+      {
+        "language": "en",
+        "value": "Jeongseong"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q33904$BBA0BEC3-4170-457A-B205-D7F577B59CA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33904$986041A7-F5C4-4D1C-858F-6A01138EA6EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q33904$7DF1660C-7A31-4C69-9DE4-7018A9C1733F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33735",
+              "numeric-id": 33735
+            }
+          },
+          "hash": "b3411fc2c8b31333ec31ff0c9c2ec8f79f2f3c00",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q33904$645D76F6-5EA6-4F3C-866C-871D164BDE31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34110",
+              "numeric-id": 34110
+            }
+          },
+          "hash": "6f4ce84c5bfd0cb0ee0049b101141ae555f7cf4c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33904$1360456A-C2EC-4715-BB0B-8701C9DC7D1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33904$7D686429-C578-4871-AECE-294096EFEB22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1692-12-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "93f4e9932dc7bb8e72c402cbe43b7db5fb0da93c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q33904$44390063-C685-4680-B326-46006FC9CC7D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1757-02-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "482888626970b36af43d9cb0e8d73df5093ca5be",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33904$68EFFD6B-9355-4E5E-BC9B-1193795D16C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q489693"
+          },
+          "hash": "1f1071cbcc0415c818daa755b8d1afe057981a73",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q33904$AE7DCA6F-FD40-4C46-9A9D-99E70A37DF8A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jeongseong Arms.svg"
+          },
+          "hash": "4192bccd68af20acfe7f41c241c495bc00e809f0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Königin"
+    },
+    "en": {
+      "language": "en",
+      "value": "queen; Queen Consort of Korea (1692-1757)"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "李氏朝鮮第21代王・英祖の正室"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선 영조의 왕비"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit Joseondynastie (1692-1757)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Королева-консорт Кореи (1692-1757)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vương hậu nhà Triều Tiên"
+    }
+  },
+  "id": "Q33904",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Jeongseong"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Jeongseong"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jeongseong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jeongseong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jeongseong"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ملکه جونگسونگ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ratu Jeongseong"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "貞聖王后"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "정성왕후"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jeongseong"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чонсон-ванху"
+    },
+    "su": {
+      "language": "su",
+      "value": "Ratu Jéongséong"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Jeongseong"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระมเหสีจองซอง"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Trinh Thánh Vương hậu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "贞圣王后"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "贞圣王后"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "貞聖王后"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "貞聖王后"
+    }
+  },
+  "lastrevid": 17434814,
+  "modified": "2025-09-16T06:13:36Z",
+  "ns": 860,
+  "pageid": 53137,
+  "sitelinks": {},
+  "title": "Item:Q33904",
+  "type": "item"
+}

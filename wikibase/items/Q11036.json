@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Muneshige"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q11036$280F75CF-1E1F-4D5B-905A-254945879583",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11036$B3F77514-EFBE-45C4-9FE0-EF96203F8CD0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q11036$9E1D3089-FEE8-4B0C-BF6C-AF62841FC0E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10434",
+              "numeric-id": 10434
+            }
+          },
+          "hash": "d3b1190080096d9726b2bf2f456ef9434ff04ec9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11036$C8D77964-30BF-4A33-AC23-517B0384FD62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11036$BA104BC6-2DF1-4BA9-91D7-7AE271AAD313",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1091-10-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "355d62f6421759370b3de00ac1e27317300d5882",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11036$06ED96B1-DA9A-4206-B12C-BA808CE3D629",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1131-11-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c56fc353cf996ac276bc86f875196e1f96d5e46",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11036$DC7CC23C-9028-4B18-96B0-C9BCC2521167",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16441958"
+          },
+          "hash": "3c9757de23133ffa7e767caf6a4aea4f183dd360",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11036$EE2099B2-01BE-4361-A564-3E37F91845A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Muneshige Arms.svg"
+          },
+          "hash": "f58115ff375c9d4623de528cbc3e8e242f947dbd",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代後期の公家。藤原北家中御門流。藤原宗忠の四男。従五位上・刑部少輔または治部大輔。"
+    }
+  },
+  "id": "Q11036",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Muneshige"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原宗重"
+    }
+  },
+  "lastrevid": 17412666,
+  "modified": "2025-09-15T23:44:20Z",
+  "ns": 860,
+  "pageid": 33419,
+  "sitelinks": {},
+  "title": "Item:Q11036",
+  "type": "item"
+}

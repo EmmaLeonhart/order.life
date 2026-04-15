@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mo Li Xiao Lu Chun Fang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q37459$0B94B14A-C505-442B-AF1A-FDE1F307C416",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41935",
+              "numeric-id": 41935
+            }
+          },
+          "hash": "9c27a105bec3513dec0e4a95e7ac866aa01ea653",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37459$FDD3F529-4DAF-4B6E-AD4E-C34ED047C766",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37459$081B959E-EE2D-4C8B-910A-C3ACEA15E7B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37459$37A51372-0AF1-4190-8892-07016D4EC653",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33254",
+              "numeric-id": 33254
+            }
+          },
+          "hash": "e6c40444bb0aa73bc1da4e1de3222f2c69d57f05",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q37459$A0D608C1-A316-4BCA-89B0-D95D4DFCC645",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36881",
+              "numeric-id": 36881
+            }
+          },
+          "hash": "c057ac7a63844aed1942c6f84bcede48d60c3f6b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37459$DBEE6FB7-18A6-419A-B208-FA444B27BE71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37459$17DB1847-814A-485A-87AF-382AF3B236F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1653-01-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "57ae22bdbe2c10264a0dbba3025983f72915ee3d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37459$8651C38E-F224-4B04-A6DF-CB9FD25CB5F8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1709-12-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7080a7b0e5b18e635c4919619b06bb40b400772f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37459$10B2899A-08BE-453A-80D9-0C79ECCD42E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109854191"
+          },
+          "hash": "9ba7e2d9dd4ea7951512a2e1ac5b36a65548330d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "万里小路家17代。従一位・権大納言"
+    }
+  },
+  "id": "Q37459",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "万里小路淳房"
+    }
+  },
+  "lastrevid": 17439888,
+  "modified": "2025-09-16T07:28:00Z",
+  "ns": 860,
+  "pageid": 55792,
+  "sitelinks": {},
+  "title": "Item:Q37459",
+  "type": "item"
+}

@@ -1,0 +1,404 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Theodoros I Palaiologos //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q55208$6A57834C-C4F8-4A55-888B-9F7FF99D9B94",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00573186"
+          },
+          "hash": "0f472bfccd82bb5fbd648433c7582299891da6f1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55208$052ECA99-3B8D-4D8D-8A40-B06E8B87694C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55208$40770AC1-78DB-475A-BEC3-8E1F01B9F27F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q55208$536F630D-C60F-4030-AB1F-AF4D42925F3F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodore_I_Palaiologos,_Lord_of_Morea_(1)"
+          },
+          "hash": "61119baa17807ed72015036d96251a7bb010bbf3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55208$91D81B8E-DFFF-41CE-BEB6-D2DC5195DBBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49800",
+              "numeric-id": 49800
+            }
+          },
+          "hash": "36e6841e2a5b1403fe8d0f6509b9322c86dbe7c5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55208$EE14FF52-BBC5-4A86-B78B-DB0DF7CF7355",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50029",
+              "numeric-id": 50029
+            }
+          },
+          "hash": "5776b36d06de878137217e2bafd110b369d97915",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55208$F9C451B7-3B3E-4E62-AA9E-2281ADA3A805",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55208$70695668-E954-4D02-9B88-E00576F11CD2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1355-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "941922f1e3ccad5fdcd05c95adcd12425c1a718e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55208$5E8C89B1-A596-4170-855E-D371F5CA35EA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1407-06-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b71fb8d763d2aaca60187160fe378c5237948bf1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55208$4A335798-EB39-48A9-A8D1-777881DFD0DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q660578"
+          },
+          "hash": "8238561157766a1e10a824311e95e9fd250656b7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55208$FE27A35E-3B02-4145-90EB-F5AA71B6E1DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "361250787660004588"
+          },
+          "hash": "69ebf5aa952da8cf26bf843e953bd026bae024f4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55208$8946FC1C-75C0-4E0D-8B31-1C08B6BFA8B9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodoros I Palaiologos Arms.svg"
+          },
+          "hash": "350ee6415d8d91b468793eb7fdc68c48e2b73179",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Despot von Morea"
+    },
+    "en": {
+      "language": "en",
+      "value": "despot of the Morea"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "despote de Morée"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Մորեայի բռնապետ"
+    },
+    "it": {
+      "language": "it",
+      "value": "despota di Morea"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Byzantijnse Rijk (1355-1407)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mora despotu"
+    }
+  },
+  "id": "Q55208",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ثيودوروس الاول باليولوج"
+    },
+    "be": {
+      "language": "be",
+      "value": "Феадор I Палеалог"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Теодор I Палеолог"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Teodor I Paleòleg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Theodor I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεόδωρος Α΄ Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theodoros I Palaiologos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teodoro I Paleólogo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Théodore Ier Paléologue"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Teodoro I Paleólogo"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Թեոդորոս Ա Պալեոլոգոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodoro I Paleologo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テオドロス1世パレオロゴス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Theodorus I Palaeologus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Тодор I Палеолог"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Theodore I Palaiologos, Lord of Morea"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teodor I Paleolog"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teodoro I Paleólogo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teodoro I Paleólogo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Феодор I Палеолог"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Teodor I Paleolog"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Теодор I Палеолог"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Theodoros I Palaiologos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Theodoros Paleologos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Феодор I Палеолог"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "狄奥多尔一世·巴列奥略"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "狄奥多尔一世·巴列奥略"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "狄奥多尔一世·巴列奥略"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "狄奧多爾一世·巴列奥略"
+    }
+  },
+  "lastrevid": 17463088,
+  "modified": "2025-09-16T13:05:07Z",
+  "ns": 860,
+  "pageid": 70039,
+  "sitelinks": {},
+  "title": "Item:Q55208",
+  "type": "item"
+}

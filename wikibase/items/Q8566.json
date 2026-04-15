@@ -1,0 +1,223 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Renshi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q8566$3FC4B75B-2BD7-4CA4-98B9-0772E7FE1771",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8831",
+              "numeric-id": 8831
+            }
+          },
+          "hash": "0b88e2a866f48e794325110315a92af29f972a4d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8566$BC35DDF7-AE9C-43E3-89FD-75F5C6D1D5AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8832",
+              "numeric-id": 8832
+            }
+          },
+          "hash": "40db7e586de27c84c3ddacee969cb5a4e33174a0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8566$06521E96-0618-4BB9-AEA7-956C383EA78F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8566$F6CC86D3-8D4B-4D99-9431-3F4CF3CF7DD5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q8566$17592EFD-A620-41E0-A680-4DF720E89961",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8743",
+              "numeric-id": 8743
+            }
+          },
+          "hash": "8514113b9b1038ad730775953610908530a9c5f7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8566$5019A9EF-F6A2-4344-877A-C96B5823A048",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8566$246A76D4-BC5E-4535-BBA8-4C0AE01BBEE9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0935-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b36b5590c1223ef0bf1ebdc24519639f09cc51e0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8566$80087C36-5B6A-446C-B0CA-7941A38025E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11486323"
+          },
+          "hash": "b799c1637f0f9bb0fd0673263baa05d7f2f66494",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の平安時代の皇族。藤原時平の正室。"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японская принцесса"
+    }
+  },
+  "id": "Q8566",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "princesa Renshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Renshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Renshi"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Princesse Renshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "廉子女王"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Принцесса Рэнси"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nữ vương Renshi"
+    }
+  },
+  "lastrevid": 17409116,
+  "modified": "2025-09-15T22:55:51Z",
+  "ns": 860,
+  "pageid": 31051,
+  "sitelinks": {},
+  "title": "Item:Q8566",
+  "type": "item"
+}

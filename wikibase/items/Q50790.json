@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "竹内俊治"
+      },
+      {
+        "language": "en",
+        "value": "Zhu Nei Jun Zhi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q50790$C1305989-D25B-4F62-AE4D-FAE6D7D0C575",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50790$56E3946C-F50F-453B-8CD5-4AC782BB99DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50790$95956C23-C64C-4ADA-859F-B5549259115F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43579",
+              "numeric-id": 43579
+            }
+          },
+          "hash": "d7de52d1630806a0f66e00656be428b489252e87",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50790$0F8BDBF6-AAEE-4BD0-BDFA-F5D86443A87E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50790$052C0F8C-9E37-4154-AA4C-79F5E58061BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1612-01-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2fd7517986ba8c38f2c2c4295b8c4ad9effa612e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50790$07B179E3-0518-4CFF-89BC-134047E914D1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1647-09-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "11b8b9b656effe18bb4894bc3ad70a32e59481ce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50790$65B90E53-386D-46E0-8F52-BBDFDB8819CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109780944"
+          },
+          "hash": "1f27f8b0e42ee3c514a5e44ba138ebaf6173992a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "蔵人、正四位下、弾正大弼"
+    }
+  },
+  "id": "Q50790",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "竹内俊治"
+    }
+  },
+  "lastrevid": 17457078,
+  "modified": "2025-09-16T11:36:21Z",
+  "ns": 860,
+  "pageid": 65758,
+  "sitelinks": {},
+  "title": "Item:Q50790",
+  "type": "item"
+}

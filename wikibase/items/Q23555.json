@@ -1,0 +1,273 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Guangning"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23555$62166C7F-1171-458A-AFA6-372ABCCE0CA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23555$C8C5FBDF-0C2F-4DF8-8264-F6BCAB6942E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q23555$D9BE926D-5D31-4CD9-B24C-392F75AAE02B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46597",
+              "numeric-id": 46597
+            }
+          },
+          "hash": "cbe9834a65ad67e2bd9e3a0b6381364e917acfe1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23555$D8235FFF-B364-4C27-BCFD-58857EABF1A9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46601",
+              "numeric-id": 46601
+            }
+          },
+          "hash": "8283229c9a60471ec05b8d79f203415feae82a87",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23555$E10340F5-36A3-4F36-8EBE-43AC7599B233",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21310",
+              "numeric-id": 21310
+            }
+          },
+          "hash": "bcb7a20e89226ee4ff14368fd103ba418f9f4c9e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23555$7529EC81-E4DA-4EE1-B0AC-51F336F349AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23555$15B757BF-92B1-4C3C-9474-657B119F9CD2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0771-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d8cc6f6df17096aa93b24d16987fbbfd25e7d2e9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23555$36A84496-2E31-4743-BD4B-F98F1B2EA6CA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10721580"
+          },
+          "hash": "cdf2c29fdb9d1b8f8fc7cf2fe791181d748cb561",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23555$D2F38416-0945-411C-B23A-71C7BBF61BCF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074767840858"
+          },
+          "hash": "5e3c7057c52a470e93330cd04bad1957800e497d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23555$EA486FD1-35E2-4C2F-A258-72A61BB03C58",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Guangning Arms.svg"
+          },
+          "hash": "a06b879bc552eb9a461a1712d847c19578fc9daf",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "κόρη του Κινέζικου αυτοκράτορα Σουαν-τζόνγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Chinese emperor Xuanzong of Tang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь императора Сюань-цзуна"
+    }
+  },
+  "id": "Q23555",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Shi"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γκουανγκίνγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Princess Guangning"
+    },
+    "es": {
+      "language": "es",
+      "value": "Princess Guangning"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Guangning"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李氏"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гуаннин"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "廣寧公主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "广宁公主"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李氏"
+    }
+  },
+  "lastrevid": 17422560,
+  "modified": "2025-09-16T03:05:31Z",
+  "ns": 860,
+  "pageid": 45445,
+  "sitelinks": {},
+  "title": "Item:Q23555",
+  "type": "item"
+}

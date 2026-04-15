@@ -1,0 +1,138 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "陳悼太子"
+      },
+      {
+        "language": "en",
+        "value": "Q11073237"
+      },
+      {
+        "language": "en",
+        "value": "Q11073237 //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q28762$18A6C41D-FCF0-4340-8EBA-DAFF415EF433",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29432",
+              "numeric-id": 29432
+            }
+          },
+          "hash": "442647d90219a76d2f2f25a6213b4313309a906e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q28762$8B7223D8-BC85-4A50-8E8A-98FB364C9C55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q28762$8B8AE0A8-4ED6-45F6-AA1D-476E39EAAD58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q28762$A3F76F67-73E4-45FF-B67F-935C3D1DC1FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q28762$DD42C635-C58E-45FE-AE04-688075E21884",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11073237"
+          },
+          "hash": "702d5c20e083fabd7fc2858d424d3b02243ad8ad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q28762",
+  "labels": {
+    "lzh": {
+      "language": "lzh",
+      "value": "陳悼太子"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "悼太子"
+    }
+  },
+  "lastrevid": 17428086,
+  "modified": "2025-09-16T04:36:29Z",
+  "ns": 860,
+  "pageid": 49292,
+  "sitelinks": {},
+  "title": "Item:Q28762",
+  "type": "item"
+}

@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ogura Saneoki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q19053$5ADA7781-A651-48A0-8D95-0F3CB7FF0A80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35558",
+              "numeric-id": 35558
+            }
+          },
+          "hash": "9215c3933228fd2b1e879e8cb5e8c94dc098d064",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19053$09134209-23C4-456D-AAF8-BF04893643BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35562",
+              "numeric-id": 35562
+            }
+          },
+          "hash": "9dba73c1eb4077decbea0a833f515391ff4f3d21",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19053$35483694-392C-4CD9-B9E2-D2423ADCD6E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27990",
+              "numeric-id": 27990
+            }
+          },
+          "hash": "3d6fbe5caceedadcc6d2eb54ae258cde0ed6aff4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19053$42145970-3A28-46AD-8B06-39D6DCD797F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19053$525C62CC-07A1-434D-AAC7-515C38835D9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19053$7F9CB8AB-E30A-4892-8476-65282F821809",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19053$D82F83F3-54FF-4C74-BA25-560E690B66E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1622-03-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "910a796ad2e171ed011145257fc4124aab1032b0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19053$8A3B0562-91C9-4244-B044-2F2DFB6A4B76",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1684-05-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a6a457e47e76fc464f462894e6665ba2d8d0f7fa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19053$318C54C4-4BAF-4BC8-9BC8-218B163B060A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11458936"
+          },
+          "hash": "49bd4160dd2c6bf8298005273d236f41b6c7c852",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19053$B6A5471F-AAC1-4B5F-AB9E-ED706C52FA27",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ogura Saneoki Arms.svg"
+          },
+          "hash": "95d4d3f31a68d4e3147decb3893201e84778546b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q19053",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ogura Saneoki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小倉実起"
+    }
+  },
+  "lastrevid": 17418326,
+  "modified": "2025-09-16T01:29:11Z",
+  "ns": 860,
+  "pageid": 41218,
+  "sitelinks": {},
+  "title": "Item:Q19053",
+  "type": "item"
+}

@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tomouji Minamoto"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q12569$88539317-AF9B-4A15-A9E6-5F9CC6A281BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13284",
+              "numeric-id": 13284
+            }
+          },
+          "hash": "302cbfc35d188f28f55be37e012ab619718a762e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12569$CC18E95D-7966-45D0-B23C-7415C9516E5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12569$8F7656CD-D5FE-432F-941E-2DD8A11BD89B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12569$2F84A9C7-F71E-444F-B3A4-B15E0A796A9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12569$7468795F-F8A6-45DD-8B45-8778C58B5492",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1231-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "be6714db081e55c6066c5c297b17e4d82e27667d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12569$4354C36C-187A-4BD9-AC2F-989244C54759",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1275-10-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d13b7b337161088ea6dfdf819bd5cd3982c0b448",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12569$6AEB9380-A073-4C70-B99A-0F18B88EA272",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22130918"
+          },
+          "hash": "58f7a667d3f9698e03b0fdb1cc25ea542fade4c4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12569$4093BBD4-2719-4816-AD40-04BE4BADDF48",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tomouji Minamoto Arms.svg"
+          },
+          "hash": "e6f56e27b038d49d249c1c72de61a6e6642c7e09",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代中期の公卿。官位は従二位・左中将。勅撰集『続古今和歌集』以下に17首入集。"
+    }
+  },
+  "id": "Q12569",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tomouji Minamoto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源具氏"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "源具氏"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "源具氏"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "源具氏"
+    }
+  },
+  "lastrevid": 17413540,
+  "modified": "2025-09-15T23:57:02Z",
+  "ns": 860,
+  "pageid": 34902,
+  "sitelinks": {},
+  "title": "Item:Q12569",
+  "type": "item"
+}

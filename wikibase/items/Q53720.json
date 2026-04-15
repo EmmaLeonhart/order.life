@@ -1,0 +1,218 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fyodor Romanovich //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q53720$30D19408-B1B1-4976-9B38-5CC0B1296B00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "264255"
+          },
+          "hash": "438dcd9674affad907b39c531c6f59c9895049c5",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53720$DCD4A26E-2719-4442-B336-9E06342A77BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53720$AF248FE7-C08E-4BE2-81C6-359C84809CCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53720$1EA8C147-EB91-477A-B81B-E71EFDCD35E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49073",
+              "numeric-id": 49073
+            }
+          },
+          "hash": "8698133cb4df0e31c26d97dba1acca2cb7e93b2c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53720$2A97F2CF-DD36-4206-9DBA-BA92232997EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53720$7CBB04EB-720E-4DD6-8192-9BF4F26C42B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1380-09-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9a48a41aa383031d3384662c44d174a18fe53150",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53720$ADEE80B1-1080-44B4-BEF8-C0F53CFBDEC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4493882"
+          },
+          "hash": "157d58f3e999c017b354ab713bf3ce0251fdf841",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q53720$E9CA63FA-02C0-4A7B-A12D-CF10556B8DB2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=feodor;n=rurikides;oc=26"
+          },
+          "hash": "028ee60c8c7e3f54026f5f1965b2c18612e1c8a4",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53720$078EEF76-3D9A-4F95-9865-BAAD6257BF56",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fyodor Romanovich Arms.svg"
+          },
+          "hash": "5cb649ddc5ee620cf624a02901668bd1430c5b20",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ru": {
+      "language": "ru",
+      "value": "князь белозерский"
+    }
+  },
+  "id": "Q53720",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Fjodor Romanowitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fyodor Romanovich"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フョードル・ロマノヴィチ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фёдор Романович"
+    }
+  },
+  "lastrevid": 17460746,
+  "modified": "2025-09-16T12:30:36Z",
+  "ns": 860,
+  "pageid": 68551,
+  "sitelinks": {},
+  "title": "Item:Q53720",
+  "type": "item"
+}

@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jang Yu //"
+      },
+      {
+        "language": "en",
+        "value": "Jang Yu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q33487$DF691B59-1324-4C49-A71E-ECCFC7E0A96B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33204",
+              "numeric-id": 33204
+            }
+          },
+          "hash": "d558c18a374c1d32bd9fada13080d21cb344cdb9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q33487$A33803D9-DF1E-44A7-8C1C-B3E3F0A1D74E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33487$3DC01F6D-BA00-4EBD-820A-19E12447E491",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33487$8A379088-840C-4B05-B1AB-EE4B1B6FDD82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33487$8E3C58B6-8A6A-4E39-A132-BF99A60BFEAB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1587-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "389c894624a2035f39f17040e74ca9aba7b913a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q33487$F2652E99-7283-4A36-886A-AB322818480F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1638-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b1e51d38df348cb6c6e5944f7236b4d8a851af37",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33487$EE01888D-B94D-4E1F-A347-6A4A01F050B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16170590"
+          },
+          "hash": "08aa643f804e09f45326717a1dd076ffe4a91642",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q33487$F22B2F45-DEF1-4937-885A-D0D65AE559DC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jang Yu Arms.svg"
+          },
+          "hash": "dac3832a8e2eb98b9c98fa041be5690a6a6e9dd9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "scholar of the Joseon dynasty"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선의 문신"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "учёный, отец королевы Чосона Инсон"
+    }
+  },
+  "id": "Q33487",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Jang Yu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jang Yu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jang Yu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jang Yu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "張維"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "장유"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чан Ю"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "張維"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "張維"
+    }
+  },
+  "lastrevid": 17434228,
+  "modified": "2025-09-16T06:05:10Z",
+  "ns": 860,
+  "pageid": 52826,
+  "sitelinks": {},
+  "title": "Item:Q33487",
+  "type": "item"
+}

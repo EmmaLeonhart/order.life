@@ -1,0 +1,425 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tai Wu //"
+      },
+      {
+        "language": "en",
+        "value": "Tai Wu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q25425$B2F9EB12-4699-4859-BF97-9DB91EB9F466",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "564079"
+          },
+          "hash": "15ab9babc12a908d5d744b31fadcfe173b39a30a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q25425$E338B4FD-20FD-4C29-8484-FE6776991DE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25438",
+              "numeric-id": 25438
+            }
+          },
+          "hash": "399084af3e652305c3442ce96e20f321f0b3bd6e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25425$313C3A8D-5EA3-4950-8F66-915D594B10E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25440",
+              "numeric-id": 25440
+            }
+          },
+          "hash": "5733f9572d3ee035a865e5af934b5ebd6438e776",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25425$78E43420-5145-4349-8200-17F89C995DCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25439",
+              "numeric-id": 25439
+            }
+          },
+          "hash": "b68430a5cc18de6a843bb06e220ba5075be54e4c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25425$70F9190D-42B4-430E-ADE4-17B50A4FBB2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25425$7FD32503-1449-41CA-A251-711F144DD816",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q25425$6C1D21A4-9CF4-46A3-8945-8C1088A21A50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25410",
+              "numeric-id": 25410
+            }
+          },
+          "hash": "7996d2135921f3003cdd70f2706260b07ba804ee",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25425$69AE1B8A-7AB2-4EBF-A8E2-A6404FA423E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q25425$B8936DD6-1981-488C-B08D-83674CFE0792",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f05f950022fbfec180fd05d67ac4ffa2c48c987a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25425$0BB27BEA-0809-462A-9AAD-4B3C134A4E90",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1562-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f648c37b1b32abd8b3aabe27da4d9e265465fd7c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25425$A0F12FEC-3429-4D96-87C3-2A9CC4CDAE4F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q878479"
+          },
+          "hash": "39c770008c759cc338f914d87d757756f98a8f2f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q25425$F8A87639-1627-452F-9FA7-F06E0A1563F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007212914399"
+          },
+          "hash": "5fe4d83b785d74e01f68101373c72e44521cba2c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25425$645C6F9F-EAA9-455D-84ED-A4A24E028573",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tai Wu Arms.svg"
+          },
+          "hash": "c15dc77d5f6483acac3fca47e2ff9fd54c101e19",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König der Shang-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shang dynasty King of China"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "商朝君主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "商朝君主"
+    }
+  },
+  "id": "Q25425",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tai Wu"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "تای وو"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tai Wu"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "تای وو"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tai Wu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tai Wu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tai Wu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تای وو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tai Wu"
+    },
+    "id": {
+      "language": "id",
+      "value": "Tai Wu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tai Wu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "太戊"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "태무"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "太戊"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᡨᡳᠠ ᡠ ᠸᠠᠩ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tai Wu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tai Wu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тай У"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tai Wu"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Da Vu"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Shang Da Wu"
+    },
+    "th": {
+      "language": "th",
+      "value": "ไท่ อู้"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tai Wu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тай У"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thái Mậu"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "大戊"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "太戊"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "太戊"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "太戊"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "太戊"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "太戊"
+    }
+  },
+  "lastrevid": 17424216,
+  "modified": "2025-09-16T03:41:32Z",
+  "ns": 860,
+  "pageid": 47069,
+  "sitelinks": {},
+  "title": "Item:Q25425",
+  "type": "item"
+}

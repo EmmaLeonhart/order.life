@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wang son of"
+      },
+      {
+        "language": "en",
+        "value": "Wang Bin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q55294$115F828D-6B58-4BDE-B3B2-3E6A1237A55E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55294$2102C518-E627-4628-9BCD-3A0B1D328EA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55294$D2D29260-3235-4898-8A11-1C48DA2BD54A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46713",
+              "numeric-id": 46713
+            }
+          },
+          "hash": "56eee41d1c30f4e6424424926b4e95a3120c1297",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55294$46BF0285-CD5B-4B73-85DC-0EFA9CA388EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55294$16064F38-6F11-41FE-8CA7-059A52062DEA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0778-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b05afd6f009ff086b4da7cad4b3c7e2f6898645",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55294$8FAFBD84-C98A-4927-9E7C-CC6901A932C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45677545"
+          },
+          "hash": "2cee5be9145ab556d625fa61fd3797a7b2edf105",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55294$5BC8A7F6-C50C-47F1-AD28-8DD4BA8A6EF7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wang Bin Arms.svg"
+          },
+          "hash": "d6ebd068aeb0ba62f190452f3349b962992cb55d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 175849"
+    }
+  },
+  "id": "Q55294",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Wang Bin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wang Bin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wang Bin"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "王玢"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wang Bin"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "王玢"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "王玢"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "王玢"
+    }
+  },
+  "lastrevid": 17463216,
+  "modified": "2025-09-16T13:06:57Z",
+  "ns": 860,
+  "pageid": 70125,
+  "sitelinks": {},
+  "title": "Item:Q55294",
+  "type": "item"
+}

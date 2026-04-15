@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "King Wei of Chu //"
+      },
+      {
+        "language": "en",
+        "value": "King Wei of Chu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q30901$A2816F72-DE75-467F-B59F-2A4CC1ABB84D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31676",
+              "numeric-id": 31676
+            }
+          },
+          "hash": "29fcb57b4f218bbcd799741c13757af09e3114ff",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q30901$53B52377-B921-4319-9379-0604071FFC08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q30901$40006695-C7D6-4190-8F12-22AC7D0E43E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q30901$0EE3AE8D-33E1-41EE-A037-9382B694E113",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30214",
+              "numeric-id": 30214
+            }
+          },
+          "hash": "25e2ff64dde52fb6b58d89a363eb48cc67463d29",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q30901$8B888BA8-7C7B-42EC-B98A-58D0192442EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q30901$3641961C-D650-4E98-A4BE-8814879FD05A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0329-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "14bffcaa0f3e654743d3dc6d856715199c09f3bd",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q30901$80397B64-9E23-4A70-83A0-41718ED19010",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q795891"
+          },
+          "hash": "6920abe9e7412b38fa61f02e2d8a56da004d9fda",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q30901$61581EAD-6F81-47AC-8683-36D8A8CDC3D5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "King Wei of Chu Arms.svg"
+          },
+          "hash": "b5f24d0a000588c11f3ea8f487a2233847834cc4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "King of Chu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Chu"
+    }
+  },
+  "id": "Q30901",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "King Wei of Chu"
+    },
+    "en": {
+      "language": "en",
+      "value": "King Wei of Chu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi Wei de Chu"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Wei od Chua"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "威王 (楚)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "초 위왕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楚威王"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chhó Ui-ông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "King Wei of Chu"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Sở Uy vương"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "熊商"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "楚威王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "楚威王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楚威王"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "楚威王"
+    }
+  },
+  "lastrevid": 17430596,
+  "modified": "2025-09-16T05:12:49Z",
+  "ns": 860,
+  "pageid": 50889,
+  "sitelinks": {},
+  "title": "Item:Q30901",
+  "type": "item"
+}

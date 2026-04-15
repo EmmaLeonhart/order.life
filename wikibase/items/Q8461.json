@@ -1,0 +1,315 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Takaiko"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q8461$9BE6BDE1-19DF-44EC-817E-A97F157C5308",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719949"
+          },
+          "hash": "675e4b14455365a7b813c5e1af15b09a98be6013",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8461$9CFB9912-F2CA-4670-B4DF-EA23610AA1E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8461$1DC8DCA4-B4B8-454F-8AF7-F74CF145103A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q8461$7453A72C-131A-4402-9EA2-49FFA12B6930",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8526",
+              "numeric-id": 8526
+            }
+          },
+          "hash": "a46fbcc250b2ba32aac00e8c3603e230c8b3971e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8461$9A352381-2A39-4E1B-948C-6F9F08677183",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8168",
+              "numeric-id": 8168
+            }
+          },
+          "hash": "7dcd3226f47d4a274b17f0eafb40d6972fe32452",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q8461$8B43642F-AE50-464A-BDF8-0FD8C752E139",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8350",
+              "numeric-id": 8350
+            }
+          },
+          "hash": "9c7f8adc22b30756f70663858148b60d18dc5c92",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8461$CA0562CF-910B-473F-AF3D-2517C43E1B78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8461$80B2488B-34A1-440F-B63D-A2CD354B7ABC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0842-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c1b4b0d3c62416a799dd243afda48dfdbff72f59",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8461$F9204F28-1C8D-4706-A132-6DEC21EE5365",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0910-05-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "025866feb8476947da4e60ff1f2f4fb2f1aaac68",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q8461$883B6135-7D18-4AA5-8064-3FAD0661924F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tsukioka Yoshitoshi - Narihira and Nijo no Tsubone at the Fuji River - Google Art Project.jpg"
+          },
+          "hash": "d209d2018dbf2b640c47790503b4c026aae6eacc",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8461$821F4496-F0E8-4589-A7C1-B700E66375D4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q127411"
+          },
+          "hash": "b2621eb8d2be47aa1adfcbe430621fa64b7f472b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "consort of Emperor Seiwa and Japanese Empress dowager of Emperor Yōzei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代、清和天皇の女御、のち皇太后"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японская вдовствующая императрица"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระสนมในจักรพรรดิเซวะและพระราชมารดาในจักรพรรดิโยเซ"
+    }
+  },
+  "id": "Q8461",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Takaiko"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Takaiko"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Takaiko"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Takaiko"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Takaiko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原高子"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Takaiko"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Fujiwara no Takaiko"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Такаико"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟุจิวะระ โนะ ทะกิอิโกะ"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "藤原高子"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原高子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原高子"
+    }
+  },
+  "lastrevid": 17408888,
+  "modified": "2025-09-15T22:53:06Z",
+  "ns": 860,
+  "pageid": 30948,
+  "sitelinks": {},
+  "title": "Item:Q8461",
+  "type": "item"
+}

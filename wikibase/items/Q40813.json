@@ -1,0 +1,260 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Huang"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q40813$E4E1A119-873B-4EA3-9E1D-E284DE25A248",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40813$2C091B2B-7339-4C69-AF86-CD3E4CB69D83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q40813$59939967-D86F-4268-AFBD-BA457A7CE8AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21310",
+              "numeric-id": 21310
+            }
+          },
+          "hash": "bcb7a20e89226ee4ff14368fd103ba418f9f4c9e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q40813$5EB8CCA3-3EF2-40A1-9F95-B5B0FE773D6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q40813$95F13318-5681-4274-B19C-EC87615F1B5A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0725-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6d0135e4fb9f9e9113f8bf47dd07fa8dde282f84",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q40813$9DF37D0D-4235-4647-9624-EAF8565DECE3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0774-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da3a57059c8f640d81b8f6ad38d8f417524de390",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q40813$AE659389-ED6D-4850-BDEA-FAD6A74C2825",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10720020"
+          },
+          "hash": "53125eb6add2918edd05465169fb008b069c8f1e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q40813$9377A7A1-0475-4F20-9ACA-730BAB789410",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Huang Arms.svg"
+          },
+          "hash": "6f5fbacfbe0ebb3ff79c84d8f7bdb9dbf0e4eeee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of Chinese emperor Xuanzong of Tang"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "dichter uit Tang-dynastie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "poeta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын императора Сюань-цзуна"
+    }
+  },
+  "id": "Q40813",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Huang"
+    },
+    "de": {
+      "language": "de",
+      "value": "Li Huang"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λι Χουάνγκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Huang"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Huang"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Li Huang"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李瑝"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Li Huang"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Huang"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ли Хуан"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Li Huang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李瑝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李瑝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李瑝"
+    }
+  },
+  "lastrevid": 17444110,
+  "modified": "2025-09-16T08:27:59Z",
+  "ns": 860,
+  "pageid": 58299,
+  "sitelinks": {},
+  "title": "Item:Q40813",
+  "type": "item"
+}

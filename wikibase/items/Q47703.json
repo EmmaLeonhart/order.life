@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Naruse Masanari"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q47703$82EC3334-BBD7-41B9-8226-C37020715AEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41397",
+              "numeric-id": 41397
+            }
+          },
+          "hash": "7aa9344b2a58676833e9300f192fe429069073d5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47703$FA9D7D09-D9D1-422E-A00C-BCAF5F6FBC9E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56331",
+              "numeric-id": 56331
+            }
+          },
+          "hash": "be37036660038a9a40bbb32e8d2e871bbcd28c49",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47703$BE3F21AC-6E9C-447C-B718-C0FC975141F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56328",
+              "numeric-id": 56328
+            }
+          },
+          "hash": "59a88991953d79d39953684766ce04b7aa19ed59",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q47703$42C3BDEF-C075-4328-8052-F231B2C17974",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47703$B3752FCE-ACCF-42EA-AF0E-2E84BEB63955",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47703$27E43C38-C5AC-47F6-AE6A-B9F4CF32AFE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47703$2130DAF2-BB63-43E2-813C-AAC40A670705",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1567-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9d847660a87ac9312c3533dfa4ea81d5ee9ebd24",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47703$3A3D85DE-DC99-4034-9E96-948A47EFD3A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1625-02-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d17f6d105511a29d0edce17d09a8861ee5fbefd3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47703$1EB2A276-2A25-4BBF-8FC7-1B16AED25524",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11074588"
+          },
+          "hash": "a560e61a3ca06f89fc0c59f076a2eaa6b40254c3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47703$5CDD2974-7017-4EE8-ADEC-E2B0D57A0CFF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Naruse Masanari Arms.svg"
+          },
+          "hash": "cf6184ceaf871c46f41a8bf0fd0d5e11ba32573a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q47703",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Naruse Masanari"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "成瀬正成"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "나루세 마사나리"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "成瀨正成"
+    }
+  },
+  "lastrevid": 17452930,
+  "modified": "2025-09-16T10:36:09Z",
+  "ns": 860,
+  "pageid": 63452,
+  "sitelinks": {},
+  "title": "Item:Q47703",
+  "type": "item"
+}

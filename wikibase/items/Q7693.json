@@ -1,0 +1,332 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Tabiko"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7693$707893AF-C524-49AD-97C4-87CF402F8518",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719953"
+          },
+          "hash": "c56267f3711174b51a9a73f2f51b999d8eb4b0b6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q7693$40F4D0C6-AB1E-44B2-B3D6-1AC4ED7B11C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7715",
+              "numeric-id": 7715
+            }
+          },
+          "hash": "1f96dae5d8dc652363401bacb5b85bc7e17109cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7693$39D810BA-0A72-4270-809F-8FC50B9EAE27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7693$F49A718D-5FA9-454D-AB8C-4398A16E2769",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7693$6EA85543-2F95-41E3-BC5D-699CDFC8C043",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7508",
+              "numeric-id": 7508
+            }
+          },
+          "hash": "ba8be9e620837d920927105f25d930a721976625",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7693$1BE1F94B-1D20-44B9-B1D5-166E3041545B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7534",
+              "numeric-id": 7534
+            }
+          },
+          "hash": "3dadcd092e4af6ed0f5f1d8a9391310b9e9a0929",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7693$784ECB84-F94A-4296-A8F9-0198BDF3FE19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7777",
+              "numeric-id": 7777
+            }
+          },
+          "hash": "12a1f6307281f07a9d3834134d862a29a23b5469",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7693$60702894-B31F-4AAC-887F-9501ED58F432",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7693$615CDE4C-50E6-4B33-B252-C5BA823DE7CE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0759-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "02b62b6cd6737980b8978b4615ce7b0c1eae2e46",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7693$05493D74-7D20-41CF-B64E-C3F6DA654810",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0788-06-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3230271e38b3e11fb27c4654707f0e4cca87ff86",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7693$143CCFDD-592D-43AB-A097-4B150258B94B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623305"
+          },
+          "hash": "ef813c493a5b4915a9d7e7d49724f739d4b3412c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7693$85251404-1F18-4C90-969D-AB60F4E71EA7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Tabiko Arms.svg"
+          },
+          "hash": "9894f5ea908d95b63724e9900fd6df9d5d59f4c6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "spouse of Emperor Kammu and mother of Emperor Junna"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代の貴族。桓武天皇の夫人。藤原百川の長女。従三位、贈正一位"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระราชมารดาในจักรพรรดิจุนนะ"
+    }
+  },
+  "id": "Q7693",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Tabiko"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Tabiko Fudžiwara"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Tabiko"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Tabiko"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فوجیوارا نو ریوشی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Tabiko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原旅子"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Ryoshi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Табико"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fujiwara no Tabiko"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟุจิวะระ โนะ ทะบิโกะ"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Fujiwara no Ryoshi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原旅子"
+    }
+  },
+  "lastrevid": 17407613,
+  "modified": "2025-09-15T22:37:09Z",
+  "ns": 860,
+  "pageid": 30186,
+  "sitelinks": {},
+  "title": "Item:Q7693",
+  "type": "item"
+}

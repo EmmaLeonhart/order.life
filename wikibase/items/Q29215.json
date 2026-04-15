@@ -1,0 +1,566 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhengde Emperor //"
+      },
+      {
+        "language": "en",
+        "value": "Zhengde Emperor"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q29215$4DAB70EA-6ECE-4401-8134-4E5036A228A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "843445"
+          },
+          "hash": "66be5a912cfd1818b22cd2fbbeb2b188714fe494",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q29215$0BF89A0D-AFE3-4521-A141-95CE3D6D4997",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29215$96AAD836-91BF-4AB5-B1C5-C0526B3D02C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q29215$30E17D96-3266-48EC-B052-C47C498E90C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29998",
+              "numeric-id": 29998
+            }
+          },
+          "hash": "f829a289bda0d7fd72742271aca610fa369d56ff",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29215$2E5F687E-72FF-4A9C-9EC9-AB571D37B62E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30002",
+              "numeric-id": 30002
+            }
+          },
+          "hash": "e89691c26166cceadaa72b427ae13f0d25682100",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q29215$16E59122-2F1D-4296-8313-E8F6744BE1D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q28488",
+              "numeric-id": 28488
+            }
+          },
+          "hash": "01e8a36f64dc09509063e20ec52b6b67e45549ec",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q29215$EE3AE1B7-355E-429D-AA8E-C2EB44B4A2C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29211",
+              "numeric-id": 29211
+            }
+          },
+          "hash": "e4d40186aeae9316f22f8c2582e92554fb14300e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29215$B6447312-2627-47EF-8A24-F3C2AD19437B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29215$B8B10F01-B3C8-4DE4-BAB9-AC05EE4FA3C3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1491-10-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cb8fafaaea640c6feada8eab965815a0b3fef0b6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q29215$876596E3-31BD-4420-88A6-1C2E42C70D42",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1521-04-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ae5ade0f789466bc61bec527a24e681f4359c28b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29215$4E0DC630-DA3C-4DF8-AE9D-78936ED68758",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10007"
+          },
+          "hash": "34d48b1604b92409a67864bba4184ab87039579d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29215$CA499F68-6924-418C-B19D-0E38962F1A7A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhengde Emperor Arms.svg"
+          },
+          "hash": "f83790b703d9d25a28a7e9f8c5d572c9317df9bc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "persona de la dinastía Ming"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "císař dynastie Ming"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser der Ming Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of the Ming Dynasty"
+    },
+    "es": {
+      "language": "es",
+      "value": "Décimo Emperador de la Dinastía Ming del Imperio chino"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur chinois"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "kínai császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore cinese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "明朝の皇帝"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "명나라의 10대 황제"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᡩᠠᡳᠮᡳᠩ ᡤᡠᡵᡠᠨ ᡳ ᠵᡠᠸᠠᠨᠴᡳ ᡥᡡᠸᠠᠩᡩᡳ (1491-1521)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chinees keizer (1491-1521)"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "imperador da dinastia Ming"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "китайский император династии Мин"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ming dönemi 10. Çin hükümdarı (1491-1521; imparator 1505-1521)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор династії Мін"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hoàng đế thứ 11 của nhà Minh trong lịch sử Trung Quốc"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "明朝第10位皇帝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "明朝第十位皇帝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "大明第10位皇帝"
+    }
+  },
+  "id": "Q29215",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Zhengde"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Zhengde Emperor"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "جنقدو"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Emperador Zhengde"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Céng-dáik Huòng-dá̤"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Čeng-te"
+    },
+    "de": {
+      "language": "de",
+      "value": "Zhengde"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Zhengde"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zhengde Emperor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zhengde"
+    },
+    "ext": {
+      "language": "ext",
+      "value": "Zhengde"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "جنگدو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Zhengde"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ming Zhengde"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Zhengde"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ming Cseng-tö"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Zhengde"
+    },
+    "it": {
+      "language": "it",
+      "value": "Zhengde"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "正徳帝"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Kaisar Zhengde"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "정덕제"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "明武宗"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Жөндө"
+    },
+    "mnc": {
+      "language": "mnc",
+      "value": "ᡠ ᡯᡠᠩ (ᡩᠠᡳᠮᡳᠩ ᡤᡠᡵᡠᠨ)"
+    },
+    "mos": {
+      "language": "mos",
+      "value": "Zhengde Emperor"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "सम्राट चंग्-द"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "جنگدو"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Bêng Bú-chong"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Zhengde-keiseren"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zhengde"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Zhengde"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Zhengde"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Zhengde"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чжу Хоучжао"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Zhengde Emperor"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Zhengde Emperor"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Zhengde-kejsaren"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิเจิ้งเต๋อ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Zhengde"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Чжу Хоучжао"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Imperator Chjengde"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Zhengde"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Minh Vũ Tông"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "明武宗"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "朱厚照"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "明武宗"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "明武宗"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "明武宗"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "明武宗"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "明武宗"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "明武宗"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "明武宗"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "明武宗"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "明武宗"
+    }
+  },
+  "lastrevid": 17428598,
+  "modified": "2025-09-16T04:43:50Z",
+  "ns": 860,
+  "pageid": 49630,
+  "sitelinks": {},
+  "title": "Item:Q29215",
+  "type": "item"
+}

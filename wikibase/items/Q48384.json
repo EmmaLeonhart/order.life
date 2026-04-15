@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takigawa Kazumune"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q48384$169F8B6A-7DBC-46D2-9ED2-45ABDA9BE8AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41975",
+              "numeric-id": 41975
+            }
+          },
+          "hash": "d6741781c5d0225ef9af434fb1d11935404c9ab4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q48384$6D0D636B-F770-4240-A61F-2C74544E4FAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48384$2A83052F-746F-4B4D-8DEA-21B2F4F0797B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48384$0104E811-73C5-4366-BD6A-B07E97ACCAA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48384$60D9235B-C7E9-429D-BF94-1F39363A053E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1629-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e3629622b747cec4dcafa9327b952edf619cdd7c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48384$06FA26A2-D97E-4138-B8F3-8EC63E8C42D8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1674-02-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b495557a977e7e5f0ccb6624ef0cace5176860d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48384$9E325338-9BFF-48F5-AC98-AFA9992F9825",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11565130"
+          },
+          "hash": "7da25a275b6d3dcdc21ce325f2d28bcb24cdd624",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48384$10A7DA5A-938C-403F-9D44-82EEB2E6CAD4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takigawa Kazumune Arms.svg"
+          },
+          "hash": "9bdcd2ebe6de380fa9e7360a1306cd8d896d28b4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の岡山藩士。滝川宗次（岡山藩番頭、縫殿助）の長男。子に長太郎（1666-1667、長男）、竹三郎（1668-1669、次男）"
+    }
+  },
+  "id": "Q48384",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Takigawa Kazumune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "滝川一宗"
+    }
+  },
+  "lastrevid": 17453774,
+  "modified": "2025-09-16T10:48:19Z",
+  "ns": 860,
+  "pageid": 63960,
+  "sitelinks": {},
+  "title": "Item:Q48384",
+  "type": "item"
+}

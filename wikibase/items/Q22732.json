@@ -1,0 +1,216 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nichiyū"
+      },
+      {
+        "language": "en",
+        "value": "Nichiyu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q39624$361530F4-E9BF-4A23-8363-58ACD1AE50ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39624$CAB46445-872E-4753-B09A-BED5CF93F903",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39624$1CEBFF43-4217-45DD-9A75-DFCB555CBB32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35594",
+              "numeric-id": 35594
+            }
+          },
+          "hash": "8ece2a3cbb1adc13b86f4c8148b543c2d700b940",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39624$F1E433AD-C7DE-4059-8E61-3BFFE51282CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39624$009B3974-F0D5-4117-9C51-5C0231CB50B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1604-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f818f5426cf66f3e4e894a16c353ad435e69f666",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39624$8E7AED23-0348-4BA2-874D-A36D4CC485A1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1651-02-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "57ed04dc56a7ace40472bafcbc3805c440bd9017",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39624$8DF508C6-7740-434F-96D1-855E4B9C1EFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11504973"
+          },
+          "hash": "72107f717bb8fd2240f2f75793b6ddf09992c64f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q39624$5619C745-EEFF-42FA-BF9B-E9E41577E7EE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nichiyū Arms.svg"
+          },
+          "hash": "88e4cc05ec0cb9b56052797e6a7ce79542990d73",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Buddhist monk of the Edo period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代の日蓮宗の僧侶。本山妙傳寺（妙伝寺）十四世上人、護国寺（山科檀林）の開山。勇師法縁の縁祖。西洞院時直の次男"
+    }
+  },
+  "id": "Q39624",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Nichiyū"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nichiyū"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nichiyū"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日勇"
+    }
+  },
+  "lastrevid": 17442530,
+  "modified": "2025-09-16T08:05:41Z",
+  "ns": 860,
+  "pageid": 57410,
+  "sitelinks": {},
+  "title": "Item:Q39624",
+  "type": "item"
+}

@@ -1,0 +1,881 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Michael VIII Palaiologos //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q40951$B3C3139D-5F76-4050-9581-4F840D862804",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "149286"
+          },
+          "hash": "7026ec5523bde5ffd05648a93dbef27c302f12ed",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q40951$981655D2-8E69-4B3E-A613-07945C65DD35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00005030"
+          },
+          "hash": "7e31f2085552003f32d3e1125fea6ab684943b48",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q40951$555317BD-DAC0-4122-AE1E-E5D67145F6CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39089",
+              "numeric-id": 39089
+            }
+          },
+          "hash": "53523cf7068dddf8f9607e9c367f5a3490db4f30",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40951$33978DDB-5B86-4A91-8C6C-BFA24901AF7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40971",
+              "numeric-id": 40971
+            }
+          },
+          "hash": "17ab6af3c8abcccc3b5f3ee090a6506447eaa952",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40951$B33B5DB8-8E90-4AE3-8C9B-1653273C3EEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40979",
+              "numeric-id": 40979
+            }
+          },
+          "hash": "0d801bcc7d5950fe66ab6194b88ad3080ea5776b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40951$F7ED0B81-DBF5-493E-AD07-79DD156925D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40984",
+              "numeric-id": 40984
+            }
+          },
+          "hash": "7efdf72d52d4be9c0e8ff56caaad1b8c57c8ef73",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40951$44B570F9-5241-4782-ABA4-F4A585D0E3B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40963",
+              "numeric-id": 40963
+            }
+          },
+          "hash": "3178b50ed2c22908405f5bc919dbaee3b935ad7b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40951$E5782DD3-E1EC-4B41-9F3E-64B2ABDC8209",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40967",
+              "numeric-id": 40967
+            }
+          },
+          "hash": "ecdba5d394cdb7839ce376451e2f456b87723e46",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40951$DD0A5A41-81DA-44B6-80F0-963EC100161B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40959",
+              "numeric-id": 40959
+            }
+          },
+          "hash": "5941f46ade68849786e9808a25a9434b8d591778",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40951$7A3BD598-A468-431B-A7CA-1E48447B248E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40975",
+              "numeric-id": 40975
+            }
+          },
+          "hash": "6bba8164382008bc568c5f017b70632063a62feb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40951$527AFDE1-23C2-495C-99E0-54D833BE5D90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43208",
+              "numeric-id": 43208
+            }
+          },
+          "hash": "9665d9471f4363a989eb812425cad5ceb8b7b528",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q40951$92C6E2B8-0B97-4BD0-BB49-210D13C860D3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Palaiologos-12"
+          },
+          "hash": "f8ed37f3121d8014896dd3526de4230d9ddca88a",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q40951$FEF0EB87-5DA5-489D-AA8E-18B9386C4B77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40951$CE13671E-2ED3-4BA9-B168-3849E02BA2CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q40951$61485457-745F-4551-9553-0B2D1CF05877",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Michael_VIII_Palaiologos_(1)"
+          },
+          "hash": "4ae8473607ef0fe95ec2c30d9daa57392c7e01bb",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q40951$908C9C8B-84AD-475C-B590-EF158AA29940",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40955",
+              "numeric-id": 40955
+            }
+          },
+          "hash": "e8edcf6769eb6c5a0387f670b07624839bae449f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q40951$36A3D356-89BA-4552-9660-598F29FD95C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43204",
+              "numeric-id": 43204
+            }
+          },
+          "hash": "b2a8109fa923c0409f5aef9f295b72c20cc2f4a7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q40951$53602B6C-6CAB-4BEE-9D17-E009B659A6C7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15019.htm#i150188"
+          },
+          "hash": "b7e203238a16c5d765359dd44a25de7e90ba06a6",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q40951$9589F824-D9D6-453E-A75D-FFE2E032065B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43176",
+              "numeric-id": 43176
+            }
+          },
+          "hash": "93887d5158c580159327aa28b6aea3c5b41d622c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q40951$29878062-146D-4C88-A670-6E48B08536F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43180",
+              "numeric-id": 43180
+            }
+          },
+          "hash": "d17ea19badc60b1f22f1ab3ab0ac945e4580138e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q40951$BEBD89A4-C567-4AE1-AFFF-97365283F6A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q40951$4D838685-2C98-40F4-B412-8130D25DE19B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1224-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "226a2fcc5544f28fd37505c0e3b5faa4a912dad9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q40951$C3E5F9DD-2C5D-47DC-B281-231DDFBBE519",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1282-12-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "75510df07cb66911795cd6252fcc9e7209ed372c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q40951$F8593276-EF9A-4D79-8834-248754F9F507",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q200033"
+          },
+          "hash": "1dcb529e98c72ffa5fd2cc589ab9766f8c768a66",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q40951$C5CDCAF2-CD7D-4FC1-ADAF-CBAA12AA740E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006101430601"
+          },
+          "hash": "a685716c6f7a2c4c8798a7cc4f735426f52d556c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q40951$A44AD885-ADAC-4868-9290-C27184A69324",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Michael VIII Palaiologos Arms.svg"
+          },
+          "hash": "c03dbd051a9f821bb6be85d67b6c68e902cf8711",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q40951$AD87591E-86B0-429F-ABAA-4B8A363565DF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/e83f4f62-9b55-4bf9-8ec0-d7b5ce5a63f8"
+          },
+          "hash": "42dc9e0e7ac0bafafccd0d09d0bd6b1e0ff993cb",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "مؤسس سلالة آل باليولوج، آخر الأسر البيزنطية"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "byzantský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Byzanz"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βυζαντινός αυτοκράτορας, ιδρυτής της δυναστείας των Παλαιολόγων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Founder of the Palaiologan dynasty (1224-1282)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "bizanca imperiestro"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador bizantino"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Bysantin keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur byzantin de 1261 à 1282"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Sin bizantske plemkinje Teodore Angeline"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bizánci császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore bizantino (r. 1259-1282)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "東ローマ帝国パレオロゴス王朝の初代皇帝。"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "동로마 제국의 황제"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Byzantijnse Rijk (1224–1282)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz bizantyński"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "византијски владар"
+    }
+  },
+  "id": "Q40951",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Michael VIII Paleologus"
+    },
+    "an": {
+      "language": "an",
+      "value": "Miguel VIII Paleologo"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ميخائيل الثامن باليولوج"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ميخائيل التامن بالايولوجوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "VIII Mixayil Paleoloq"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "سککیزینجی میخائیل"
+    },
+    "be": {
+      "language": "be",
+      "value": "Міхаіл VIII Палеалог"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Михаил VIII Палеолог"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Mihael VIII Paleolog"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Miquel VIII Paleòleg"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Michael VIII. Palaiologos"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Mihangel VIII Palaiologos"
+    },
+    "da": {
+      "language": "da",
+      "value": "Emperor of the East Michael VIII Palaeologus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Michael VIII."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Mixail VIII"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μιχαήλ Η΄ Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Michael VIII Palaiologos"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Miĥaelo la 8-a “Paleologo”"
+    },
+    "es": {
+      "language": "es",
+      "value": "Miguel VIII Paleólogo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Michael VIII Palaiologos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Mikel VIII.a Paleologo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "میخائیل هشتم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Mikael VIII Palaiologos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Michel VIII Paléologue"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Miguel VIII Paleólogo"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Michael VIII."
+    },
+    "he": {
+      "language": "he",
+      "value": "מיכאל השמיני פלאולוגוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Mihael VIII. Paleolog"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "VIII. Mikhaél bizánci császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Միքայել VIII Պալեոլոգոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mikhael VIII Palaiologos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Michele VIII Paleologo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ミカエル8世パレオロゴス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მიხეილ VIII"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "미카엘 8세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Michael VIII Palaeologus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Mykolas VIII Paleologas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Михаил VIII Палеолог"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mikael VIII Palaiologos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Michaël VIII Palaiologos"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Mikael VIII Palaiologos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Michał VIII Paleolog"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "اتم میکائیل پالایولوګوس"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Miguel VIII Paleólogo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Miguel VIII Paleólogo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Mihail al VIII-lea Paleologul"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Михаил VIII Палеолог"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Michael VIII Palaiologos"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Mihajlo VIII Paleolog"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mihael VIII. Paleolog"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Михајло VIII Палеолог"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Михајло VIII Палеолог"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Mihajlo VIII Paleolog"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mikael VIII Palaiologos"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิมิคาเอลที่ 8 พาลาโอโลกอส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Miguel VIII Paleologo"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "VIII. Mihail"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Михайло VIII Палеолог"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "مائیکل ہشتم پالایولوگوس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Mikhael VIII Palaiologos"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "米海爾八世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "米海尔八世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "米海尔八世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "米海尔八世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "米海爾八世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "米海爾八世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "米海尔八世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "米海爾八世"
+    }
+  },
+  "lastrevid": 17444316,
+  "modified": "2025-09-16T08:30:53Z",
+  "ns": 860,
+  "pageid": 58402,
+  "sitelinks": {},
+  "title": "Item:Q40951",
+  "type": "item"
+}

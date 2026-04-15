@@ -1,0 +1,311 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Niitabe"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q7286$1D59A8CF-D4D3-4AD9-8A53-4E8B53855DF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "806657"
+          },
+          "hash": "69ac701738512a09b1237576e47d7480a1d375c9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7286$4070425C-5243-4A14-B251-1B348BE2A4DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7286$2BB0636E-FCD3-43E3-84A2-EE5533463DEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7286$1B466D51-687F-4932-AC61-F1BEDEA3C31D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7231",
+              "numeric-id": 7231
+            }
+          },
+          "hash": "1997a58e3b83d39d5ca031e0af7c65fd8b0b712e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7286$96990061-48B9-41C4-9A6B-BA9BBD57514B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7229",
+              "numeric-id": 7229
+            }
+          },
+          "hash": "6b41d282a7a27c833a6e53cfacdecc77ad5c7ceb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7286$867497F3-90F3-4274-AEA4-7890FA7F3D4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7276",
+              "numeric-id": 7276
+            }
+          },
+          "hash": "7d68bc1a58d508ce4b1f18840b3a502e124ca6b2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7286$B012EC71-2A99-441A-9420-707EF52503C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7286$D7E378DD-AE23-4B7C-B020-0BD2CEEE4149",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0650-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "66c84cf9fa6c25f3e27ccab7fe12552d826abe6d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7286$260D2A8F-540F-47C5-972D-C399AF040E04",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0699-10-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "67bdfdc54a5545cda2c6e43aa20ec2508d6ba61a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7286$F9CF05AC-188A-4F18-8B78-BF36D9965FA3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6647029"
+          },
+          "hash": "e91bcaebaa676d5bce1fd77ee5bde475a9c47069",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7286$1F5CFD9E-250C-4E5E-B56C-5FEA7D22388C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Niitabe Arms.svg"
+          },
+          "hash": "cac5f5af327bb69674c2f3863922a1e7f822ddc2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ paɣa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese princess"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "天智天皇の皇女"
+    }
+  },
+  "id": "Q7286",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Niitabe"
+    },
+    "en": {
+      "language": "en",
+      "value": "Niitabe"
+    },
+    "es": {
+      "language": "es",
+      "value": "Niitabe"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهدخت نیتابه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Niitabe"
+    },
+    "it": {
+      "language": "it",
+      "value": "Niitabe"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "新田部皇女"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "니이타베노 히메미코"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Niitabe"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "принцесса Ниитабэ"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Princeza Niitabe"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "新田部皇女"
+    }
+  },
+  "lastrevid": 17407240,
+  "modified": "2025-09-15T22:32:30Z",
+  "ns": 860,
+  "pageid": 29780,
+  "sitelinks": {},
+  "title": "Item:Q7286",
+  "type": "item"
+}

@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Sadamune"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q19855$99EA63BB-0B51-48C0-9D2F-1BE970FEBFD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21796",
+              "numeric-id": 21796
+            }
+          },
+          "hash": "420aed111cc3f02a29c2fe476add1e0fe7414f5d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19855$967EC957-57BB-477B-B08D-8B6ED137234A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19855$BB5D6BD1-2A6D-4D99-9CCD-4B4143C8E9CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19855$475CC57A-5EC6-4344-A720-1E9C72C768A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18234",
+              "numeric-id": 18234
+            }
+          },
+          "hash": "be0c7e99230ea6317a56f462844dac5939eb7f0d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q19855$2AF881D0-EF5C-4D91-9BC1-545E53565FC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33130",
+              "numeric-id": 33130
+            }
+          },
+          "hash": "99059c4a070f72895badd6f1dbd8badd00429e10",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19855$1C6ABB2C-ACA5-4A45-A50D-833474DB61B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19855$06834AEF-191E-4D41-AC86-A7B7573ECBC3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1574-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e355b20280d7a43b493edf08aed9e4b110c9d074",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19855$5786F2C1-3CE4-4146-A313-0D1CB4074FCF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1652-12-29T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "45e869f25c5b89b1f2b802b7315b540acaf52331",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19855$0DF0751F-1274-486E-96F8-3C06F2A07BAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11380753"
+          },
+          "hash": "0d9ddc94de8dcc5a4cddc4a8d1c90ee47f7da9c3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19855$B7B83153-EFE6-43D7-A814-B5AFF213BD90",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Sadamune Arms.svg"
+          },
+          "hash": "b09176c126f196ad61f2c31459dbe0d88389305d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代前期にかけての武将 (1574-1652)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q19855",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Sadamune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達定宗"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Садамунэ Датэ"
+    }
+  },
+  "lastrevid": 17419050,
+  "modified": "2025-09-16T01:45:30Z",
+  "ns": 860,
+  "pageid": 41962,
+  "sitelinks": {},
+  "title": "Item:Q19855",
+  "type": "item"
+}

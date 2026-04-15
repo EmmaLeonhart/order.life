@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nyogen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q9532$6FE17DF3-2448-4229-9B67-222BCD5DEE0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9532$10E7A019-6B5C-419F-8AB7-4BE14023D86F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9532$5D1FD18B-B849-4633-B9A5-D41A2F29309B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9268",
+              "numeric-id": 9268
+            }
+          },
+          "hash": "bc15e728351462f42fb115702553e76103c6c586",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9532$9EE25D71-2F2F-4522-893C-9CB945138888",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9532$4F88A31D-77EB-4A30-9409-6ACE142CE6BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0977-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3da48ab1c51bd5b475c9c4c81a4ad5e27024dce9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9532$E782AF98-8A3A-401B-8382-EECADF4D3CE7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1021-06-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de94698278dafd113a15e37c67d7f0560dfd5f10",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9532$DE10E06A-D04C-4CB3-B8F6-48A34EE39CA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17213775"
+          },
+          "hash": "2204403e5f1775cf5397bf1899a832694224c7ea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代中期の天台宗の僧。藤原公季の次男。延暦寺少僧都。"
+    }
+  },
+  "id": "Q9532",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nyogen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "如源"
+    }
+  },
+  "lastrevid": 17411120,
+  "modified": "2025-09-15T23:21:54Z",
+  "ns": 860,
+  "pageid": 31981,
+  "sitelinks": {},
+  "title": "Item:Q9532",
+  "type": "item"
+}

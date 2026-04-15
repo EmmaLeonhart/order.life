@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hanbo //"
+      },
+      {
+        "language": "en",
+        "value": "Hanbo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q29765$E663A3EF-7B5F-40B4-9FA7-6F47660C30D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29765$41FEC0CE-DEA3-4764-A883-F3DB4F200D59",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q29765$C3983A5F-11BB-4515-A8FF-59BA582EFE05",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29761",
+              "numeric-id": 29761
+            }
+          },
+          "hash": "983eee57540f0c0b79bc4c090d4b1ac1ae1c877e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29765$8A16D1B4-DCF9-445A-919E-CDE8851A202F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29765$0D5AE59D-EF6A-413D-BC97-0E3D9963B4FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1447-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ef42273af1988bd108fa8662801731131972e440",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q29765$BDBE8597-8F68-4A8B-B878-64609A908B5B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1522-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d27cb655dc01d00ea82d502e3a635e55a2c716a8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29765$1441A559-992F-4B90-BE94-380E74E3083C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12624046"
+          },
+          "hash": "a0f48b8edceb03e944e20c924fc88dfe968f26b7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29765$DAF6B552-FF8A-4A28-846B-74D209E791D7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hanbo Arms.svg"
+          },
+          "hash": "5733ede0ebc78ba866fdbf390ead8b3638ec341c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Joseon military official (1447 - 1522)"
+    }
+  },
+  "id": "Q29765",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Hanbo"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "한보 (1447년)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "韓堡["
+    }
+  },
+  "lastrevid": 17429226,
+  "modified": "2025-09-16T04:53:08Z",
+  "ns": 860,
+  "pageid": 50041,
+  "sitelinks": {},
+  "title": "Item:Q29765",
+  "type": "item"
+}

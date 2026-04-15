@@ -1,0 +1,309 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Khochu //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q39013$4C95103C-B0EE-4AFA-9756-9CE3D77CA036",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40903",
+              "numeric-id": 40903
+            }
+          },
+          "hash": "8145de5d075e43cdb12c7a77557246e3a5e2d4e6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39013$BD465912-850C-4E5A-A109-0D4A1DA5BC04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40899",
+              "numeric-id": 40899
+            }
+          },
+          "hash": "635ba99879a19bf10c15bd297a65d6f9a0645baf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q39013$62AA7D8B-0B51-47D7-9543-5E5744FEE00F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39013$58C3A19C-86B8-4149-B1C9-71211633A65D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39013$30BFAA41-EF12-446E-8E0A-44A392760F97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37456",
+              "numeric-id": 37456
+            }
+          },
+          "hash": "ea664028c5fa2f8c0534883d87aa413db82dad89",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39013$9883A047-88A9-4CE6-9BCC-2E9C3DD0BBF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39013$E2B57E0D-A1A4-4739-BC0D-578BF42420D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8caa857a71a869ce688e9edc598e1bd6598ce03c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39013$BF32C80C-5AFE-401B-87E6-253E78A9ADA0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7069358"
+          },
+          "hash": "e955e63905ae6e76f604ac13e2b404acbd7825f2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q39013$AEC8EB07-CD6E-4D0B-9CAC-D656C1538FB7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074791874835"
+          },
+          "hash": "f2909a320d5cf1e2d74b5e2a9881cb827d1630a4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q39013$83B8CDF8-10A5-4E71-8A7C-585A464119F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Khochu Arms.svg"
+          },
+          "hash": "9418c92693f69aea643add51577480d11be40a21",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Mongolian khan, Ögödei's son"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince mongol, fils d'ögödei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "チンギス・カンの子のオゴデイの息子で、モンゴル帝国の皇族"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蒙古帝国大汗窝阔台之子"
+    }
+  },
+  "id": "Q39013",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Khochu"
+    },
+    "be": {
+      "language": "be",
+      "value": "Хачу"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Khochu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Khochu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Khochu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Khochu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Khochu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Khochu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クチュ"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "闊出"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Küčü"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Khochu"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Khochu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Khochu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Khochu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "闊出"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阔出"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "闊出"
+    }
+  },
+  "lastrevid": 17441764,
+  "modified": "2025-09-16T07:54:52Z",
+  "ns": 860,
+  "pageid": 56954,
+  "sitelinks": {},
+  "title": "Item:Q39013",
+  "type": "item"
+}

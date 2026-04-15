@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Empress Ruogan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q44841$E596EA79-15E2-45B6-A819-A66511876FA1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q44841$A79B59AA-EBBD-4359-938F-95B620EE0146",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q44841$4C1B9A9F-6BE9-4C17-82A3-1DBD8BA047B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23229",
+              "numeric-id": 23229
+            }
+          },
+          "hash": "19570a614d273c4ae703a062182b697a19cc0568",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q44841$7290552D-F39D-4240-B677-0BAB1EAA8DE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52997",
+              "numeric-id": 52997
+            }
+          },
+          "hash": "f6a7bde70d441824460f560c076ca0426d71bddb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q44841$AC375DA0-8B2A-4AA7-97D7-BBB323E69973",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q44841$C9F9A6C5-145D-4D57-B080-BD7922F043D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0501-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2177271b40938747c6086828a95ad5dea488dcad",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q44841$9E165170-97FD-4672-B68D-CDD9F67DC00B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5374588"
+          },
+          "hash": "f9d484913eb38671a0c41bb9a262598e3730cc8d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q44841$A63419BF-110B-4A22-8865-B11FD3726B80",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Empress Ruogan Arms.svg"
+          },
+          "hash": "8e3825d7c0dc1ac43b86fb93c15392c805a9ca0c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese empress"
+    }
+  },
+  "id": "Q44841",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Ruogan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Empress Ruogan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Empress Ruogan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ruogan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "若干皇后"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Empress Ruogan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İmparatoriçe Ruogan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nhược Can hoàng hậu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "若干皇后"
+    }
+  },
+  "lastrevid": 17449142,
+  "modified": "2025-09-16T09:39:52Z",
+  "ns": 860,
+  "pageid": 61314,
+  "sitelinks": {},
+  "title": "Item:Q44841",
+  "type": "item"
+}

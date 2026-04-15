@@ -1,0 +1,357 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Talabuga //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q45708$628E26FE-79E0-462E-B9EF-EDA0A6A9F820",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "279476"
+          },
+          "hash": "32c0bbc2053d51c1506ec0c6ea95ec0ee6c8f4e6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45708$EFE32100-0937-4A7D-AA25-55189155A0AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45708$93DCA459-AA80-4786-93D7-F59979DB1D6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45708$1B3A5A86-0738-4FD6-AF62-A59F7E6D1719",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43023",
+              "numeric-id": 43023
+            }
+          },
+          "hash": "8186fefefffd0031345fce9a019daaabd794341a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45708$D2240B1C-5F67-4CA8-A760-325A2F5C3A43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45708$44C1A9F1-5E8A-47F2-8242-409706CBE479",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1300-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7cd499ea07e9098e107be2add177004bf6d253a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45708$67078218-F42D-4413-BB51-C57E8E6B23C3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1291-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2548aace7808243379244063bfa31454aec0ce94",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45708$C0073494-5268-4F17-A861-D5CFCA776C82",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q427920"
+          },
+          "hash": "bcdb5dcd00dc929e7b9ee0dbae78dea9aecc0ab4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45708$AD1E235A-3413-4D68-9DAC-8FC6E7B02D00",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Talabuga Arms.svg"
+          },
+          "hash": "9b118fc78b2628c161a39b61e1790b36638b955b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Khan der Goldenen Horde"
+    },
+    "en": {
+      "language": "en",
+      "value": "Khan of the Golden Horde"
+    },
+    "es": {
+      "language": "es",
+      "value": "kan de la Horda de Oro entre 1287 y 1291"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "khan de la Horde d'or et de la Horde bleue"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "az Arany Horda kánja"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero mongolo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "condottiero"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கான்"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Altın Orda hanı"
+    }
+  },
+  "id": "Q45708",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tulabuha"
+    },
+    "az": {
+      "language": "az",
+      "value": "Tula-Buqa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tulabugha"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tulabugha"
+    },
+    "en": {
+      "language": "en",
+      "value": "Talabuga"
+    },
+    "es": {
+      "language": "es",
+      "value": "Telebuga"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tula Buqa"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "तुलाबुग़ा"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Talabuga"
+    },
+    "it": {
+      "language": "it",
+      "value": "Talabuga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トゥラ・ブカ"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Төле-Бұқа"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "탈라부가 칸"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "秃拉布哈"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Тулабуга"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Talabuga"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tole Buka"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "تلابُغا خان"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Telubuga"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Telubuga"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тула-Буга"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Толобуга"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "தலபுகா"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tula Buka"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Түлә-Буга"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тула-Буга"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "兀剌不花"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "兀剌不花"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "秃拉布哈"
+    }
+  },
+  "lastrevid": 17450332,
+  "modified": "2025-09-16T09:58:37Z",
+  "ns": 860,
+  "pageid": 61963,
+  "sitelinks": {},
+  "title": "Item:Q45708",
+  "type": "item"
+}

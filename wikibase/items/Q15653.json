@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nakanoin Michiatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15653$EC21D4BA-356F-4E92-9716-81572E1175FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16359",
+              "numeric-id": 16359
+            }
+          },
+          "hash": "82dbbb0aae76553f96666f437fae1cb4962ead7a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15653$F45E1870-6A62-46FA-9BC2-419007BA09B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15653$1CAFD20B-D74A-4D74-B9F1-89A3D815D8E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15653$170AC31B-4CC7-4A85-9D46-3751F27F98DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15186",
+              "numeric-id": 15186
+            }
+          },
+          "hash": "58a030840dab9030de2882c3f4ebe91657572915",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15653$0891A320-6540-436F-B44E-895CBE3ADAE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15653$533822DA-F3EE-4BCF-BA53-4E13B5DE9A80",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1389-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cefd60f36ad122d989b85bdaff3ef933239e1758",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15653$C5EB1260-41A5-4B14-8CE3-0CD70F19F56B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24863995"
+          },
+          "hash": "9c9eeeb34645fa24b884eefd7f28a8eb44b0805b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15653$52D39FA1-94C3-4A0B-87D0-524413349892",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nakanoin Michiatsu Arms.svg"
+          },
+          "hash": "947add41197105101a438919b448dadb37fda4ec",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代中期の公卿"
+    }
+  },
+  "id": "Q15653",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nakanoin Michiatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "中院通淳"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Митиацу Наканоин"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nakanoin Michiatsu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "中院通淳"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "中院通淳"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "中院通淳"
+    }
+  },
+  "lastrevid": 17415316,
+  "modified": "2025-09-16T00:21:39Z",
+  "ns": 860,
+  "pageid": 37937,
+  "sitelinks": {},
+  "title": "Item:Q15653",
+  "type": "item"
+}

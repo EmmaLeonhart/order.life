@@ -1,0 +1,218 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tachibana no Tokushi"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q9477$CE09F86D-4E76-4A00-A297-0658B309BAD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9582",
+              "numeric-id": 9582
+            }
+          },
+          "hash": "904a2555e1c85df3bad27ef4365250122f2b4755",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9477$52774B19-1DEF-45BB-B447-04078ECDF1C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9477$DEC6215C-37B0-4205-AC58-24D80E996667",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q9477$E375FC55-9B63-4089-AA16-EE785E869BED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9159",
+              "numeric-id": 9159
+            }
+          },
+          "hash": "c6fa8a23af418a89caa2a3d577cfa3a62edf78ca",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9477$B495FE37-1377-434B-B2F7-4F9CA0C59194",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9060",
+              "numeric-id": 9060
+            }
+          },
+          "hash": "794412f51394f63cd64f8980f8350b0030f71ebb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9477$19F64502-6BA6-43CF-B419-487566F97496",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9477$AAA1EA42-1166-4C13-B68E-6CF297555406",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0955-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9c1b8516a838ecc47bf6106a0e6899ba68a957f8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9477$DACAAEDD-14D2-426C-B40A-C5BE72F07009",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11544279"
+          },
+          "hash": "65692f12b7163ecae86ecabf56a974e07b2f7b69",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q9477$F3EB9004-FF27-4D35-A52C-45B17CE0AF33",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tachibana no Tokushi Arms.svg"
+          },
+          "hash": "55d1778cb073d22df62a98e0faf991640b467b7d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "藤原有国室、一条・後一条両天皇の乳母"
+    }
+  },
+  "id": "Q9477",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Tachibana no Tokushi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "橘徳子"
+    }
+  },
+  "lastrevid": 17411014,
+  "modified": "2025-09-15T23:20:23Z",
+  "ns": 860,
+  "pageid": 31928,
+  "sitelinks": {},
+  "title": "Item:Q9477",
+  "type": "item"
+}

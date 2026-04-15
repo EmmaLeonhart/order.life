@@ -1,0 +1,508 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ashikaga Yoshimasa"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q15681$D0D36E66-2376-43B0-8EF4-498CE15E8539",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "994333"
+          },
+          "hash": "e6eaf952481c5fe835cfd7afab8f01253616cb99",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q15681$097C1DCD-E288-45ED-9108-A3E558C4B69A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16389",
+              "numeric-id": 16389
+            }
+          },
+          "hash": "61b83c8db6ef5f3bfd8e94a0a72b0aa4b70293d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15681$80BE1958-5D6A-4203-B846-475CCC39FB2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15681$4B4376BA-657B-4BCC-BD44-BD8897B8D4EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15681$7E2612A3-11AF-407E-997E-6C0759663A10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16386",
+              "numeric-id": 16386
+            }
+          },
+          "hash": "4ef8bd52acce04210fc81e72f65f25c0bf8b5e3f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15681$D1110609-EF46-4E37-B571-9C0D785E74C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16388",
+              "numeric-id": 16388
+            }
+          },
+          "hash": "1be6402f30076509f7d9414524e1ed39a5224b08",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15681$BFA49C37-8DC4-4353-A6A1-0EA0B621CC72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15217",
+              "numeric-id": 15217
+            }
+          },
+          "hash": "7843ca86e4d663e5b001b9dff01681f356541f54",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q15681$56C4ABE4-FBC6-4E29-A3CF-71E2BC412E4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15676",
+              "numeric-id": 15676
+            }
+          },
+          "hash": "d74965d5fcfe045ed70a094f904d0fc6c6dfa5ec",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15681$E6D4A440-B773-4AFB-83A8-50C0A8A6D3EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15681$4DC317AA-EF5F-414B-ABA4-C6CAA3A18006",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1435-01-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "231adb1d7e2e699c29b7545cb8332bdc952c56ca",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15681$18B198AF-0A96-4388-847B-B47E90A48864",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1490-01-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "31c7ad0c9bdaa2d2cd475b32ed50dc1f38f31fde",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15681$E30BB03D-1C52-4C31-B6CC-55368F4E7F3B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ashikaga Yoshimasa.jpg"
+          },
+          "hash": "5daa676ae741a23626b91b9c71fef31d6a412b8e",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15681$13EBC296-970C-46F6-AA73-DA3C64344C73",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q447034"
+          },
+          "hash": "f7de9e2c349656807e47413c05409fe8702d35a5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15681$D76D6847-EFDE-48C6-9CC5-31E3A41B59E4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ashikaga Yoshimasa Arms.svg"
+          },
+          "hash": "11b314561e64b0bf8e95cd57bb3feb687ca3eeaa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "شوجون من اليابان"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "8. ašikagský šógun"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Shogun"
+    },
+    "en": {
+      "language": "en",
+      "value": "8th shōgun of the Ashikaga shogunate of Japan (1436–1490)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Japanin shōgun"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire japonais"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "室町幕府の第8代将軍"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "무로마치 막부 제8대 쇼군"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1435-1490)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "oitavo xogum da dinastia Ashikaga"
+    }
+  },
+  "id": "Q15681",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اشيكاجا يوشيماسا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jošimasa Ašikaga"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آشیکاگا یوشیماسا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשיקאגה יושימאסה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Asikaga Josimasza"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "足利義政"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아시카가 요시마사"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "足利義政"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Asikaga Yosimasa"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Yoshimasa Ashikaga"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Асикага Ёсимаса"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Ашикага Јошимаса"
+    },
+    "th": {
+      "language": "th",
+      "value": "อะชิกะงะ โยะชิมะซะ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Асікаґа Йосімаса"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ashikaga Yoshimasa"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "足利义政"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "足利義政"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "足利义政"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "足利义政"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "足利义政"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "足利義政"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "足利義政"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "足利义政"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "足利義政"
+    }
+  },
+  "lastrevid": 17415338,
+  "modified": "2025-09-16T00:21:57Z",
+  "ns": 860,
+  "pageid": 37965,
+  "sitelinks": {},
+  "title": "Item:Q15681",
+  "type": "item"
+}

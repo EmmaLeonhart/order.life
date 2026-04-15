@@ -1,0 +1,915 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "King Arthur"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136304$7D5166B8-7C13-4880-B187-B84EA36709BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "132198"
+          },
+          "hash": "6ff3d86b1500719fafd7468bbba39803d9ae57b2",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136304$AC776D8C-021F-4EA4-A7A3-F115A006F756",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136572",
+              "numeric-id": 136572
+            }
+          },
+          "hash": "79c48e825d5fd76b9ac5a5c68a5f9ced1c47743a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136304$3DB12262-DF4A-4363-AFCA-3A3AAC0517A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136571",
+              "numeric-id": 136571
+            }
+          },
+          "hash": "d75a761a15f108f1234b692ef51e7fa8e2e48480",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136304$9521B8F5-AC14-4FE1-B01B-C30BE0B97649",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136573",
+              "numeric-id": 136573
+            }
+          },
+          "hash": "2f0cb6166505f6adc673c4faa086477addb68813",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136304$27659575-D535-426E-A771-ABFC9DC928EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136304$5E7F2D87-52EF-4B8B-84A7-A7015E864E43",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136304$A6C58FAA-F064-46D6-9F0F-09C7EC001B7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136570",
+              "numeric-id": 136570
+            }
+          },
+          "hash": "1ea142126dec498d156ff1a347ac6b9a159d84e9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136304$DA2D7E37-C74F-49D5-97FD-AFA4FD8B44DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136302",
+              "numeric-id": 136302
+            }
+          },
+          "hash": "35d18aaf2ba531e0a38bbc2189d921a83d113929",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136304$05C641CD-2676-4A08-AD32-FFE03862C399",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136071",
+              "numeric-id": 136071
+            }
+          },
+          "hash": "0ea38775a28b3e4865f3ccacaec7a2f64eb85e02",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q136304$FABFC18A-1035-4EC0-8B53-2607F72CE2F7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "4554"
+          },
+          "hash": "32c6e016db317562b2a1581e1968c2d66f004570",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136304$27CD4F09-4B55-42E5-8ECB-D126C89B7132",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136304$2DC8EBA7-B936-4BF7-AC3E-00A947505339",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136304$54E37B6B-AB43-4D7A-849C-47D88E2D9486",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca0f7e18475fc648e1a286f4ce5787e81e10b187",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136304$0345128C-06FA-4E88-9883-40B59FA3A269",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45792"
+          },
+          "hash": "e3464268263c2940e094dcb0e0bdeba75dea1f84",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136304$856C7340-9F2F-49F6-8712-74EB65EE40C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "King Arthur Arms.svg"
+          },
+          "hash": "290ae077d9dcfe103663a384294ba56c6d22bf9e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "acm": {
+      "language": "acm",
+      "value": "زعيم بريطاني اسطوري"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "شخصية أسطورية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "легендарны кароль брытаў"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "legendarni britanski vođa"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "líder brità dels segles v i vi"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "پاشای ئەفسانەییی بەریتانیایی"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "legendární postava britské mytologie v pátém století"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin chwedlonol"
+    },
+    "de": {
+      "language": "de",
+      "value": "legendärer König Britanniens"
+    },
+    "el": {
+      "language": "el",
+      "value": "μυθικό πρόσωπο της μεσαιωνικής λογοτεχνίας, στην οποία φαίνεται να είναι βασιλιάς της Ουαλίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "legendary British leader of the late 5th and early 6th centuries"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "legenda reĝo de Britio je la 5-a aŭ 6-a jarcento"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey legendario de los bretones"
+    },
+    "et": {
+      "language": "et",
+      "value": "legendaarne Briti kuningas"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه افسانه ای بریتانیایی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "myyttinen Englannin kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "légendaire chef britannique de la fin du Ve et du début du VIe siècle"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "e literarischi Figur us em Middelalter"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "toshiagh Brythonagh feayn-skeealleydagh y 5oo as y 600 eashyn"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מיתית באגדות המלך ארתור"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "briton király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja legendaris dari Briton"
+    },
+    "it": {
+      "language": "it",
+      "value": "leggendario sovrano britannico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伝説的イギリス指導者"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მეფე ართური"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "켈트족 브리튼인들의 전설적인 군주"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "keyê efsanewî yê Brîtanya"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "rè lesgendari britannegh"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "中古英國史詩"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Legendarische mythische (fictieve) Koning van Engeland"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "legendarny władca Brytanii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "líder heróico da Grã Bretanha"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "lider britanic legendar de la sfârșitul secolului al V-lea și începutul secolului al VI-lea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "легендарный король кельтской Британии"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "краљ Британије из легенди"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "legendarisk brittanisk ledare och sagokung"
+    },
+    "th": {
+      "language": "th",
+      "value": "ผู้นำในตำนานของชาวบริตัน สันนิษฐานว่ามีชีวิตอยู่ในช่วงปลายคริสต์ศตวรรษที่ 5 และต้นคริสต์ศตวรรษที่ 6"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "İngiliz Efsanesi Kral Arthur'daki baş kahraman"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "vị vua huyền thoại của vương quốc Anh"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "5世紀末和6世紀初傳奇的英國領導人"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "5世紀末和6世紀初傳奇的英國領導人"
+    }
+  },
+  "id": "Q136304",
+  "labels": {
+    "acm": {
+      "language": "acm",
+      "value": "الملك ارثر"
+    },
+    "af": {
+      "language": "af",
+      "value": "Koning Arthur"
+    },
+    "an": {
+      "language": "an",
+      "value": "Rei Artús"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "الملك آرثر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الملك ارثر"
+    },
+    "as": {
+      "language": "as",
+      "value": "ৰজা আৰ্থাৰ"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Rei Arturu"
+    },
+    "az": {
+      "language": "az",
+      "value": "Kral Artur"
+    },
+    "be": {
+      "language": "be",
+      "value": "Кароль Артур"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Кароль Артур"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Артур"
+    },
+    "bjn": {
+      "language": "bjn",
+      "value": "Raja Arthur"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজা আর্থার"
+    },
+    "br": {
+      "language": "br",
+      "value": "Roue Arzhur"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Kralj Arthur"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei Artús"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Haring Arturo"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "شا ئارتوور"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Král Artuš"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Король Артур"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "y Brenin Arthur"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kong Arthur"
+    },
+    "de": {
+      "language": "de",
+      "value": "Artus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλιάς Αρθούρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "King Arthur"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "King Arthur"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Reĝo Arturo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey Arturo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Kuningas Arthur"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Artur erregea"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاه آرتور"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kuningas Arthur"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi Arthur"
+    },
+    "frr": {
+      "language": "frr",
+      "value": "Artus"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Kening Arthur"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rí Artúr"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Rei Artur"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Artus"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "કિંગ આર્થર"
+    },
+    "gv": {
+      "language": "gv",
+      "value": "Ree Adha"
+    },
+    "he": {
+      "language": "he",
+      "value": "המלך ארתור"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "किंग आर्थर"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kralj Arthur"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Artúr király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արթուր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja Arthur"
+    },
+    "io": {
+      "language": "io",
+      "value": "Rejulo Arthur"
+    },
+    "is": {
+      "language": "is",
+      "value": "Artúr konungur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Re Artù"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アーサー王"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "King Aata"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მეფე არტური"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಕಿಂಗ್ ಆರ್ಥರ್"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아서왕"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Key Arthur"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Arthur Gernow"
+    },
+    "la": {
+      "language": "la",
+      "value": "Arthurus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Artus"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Re Artur"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Rè Artur"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Karalius Artūras"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Karalis Arturs"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "亞瑟王傳說"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Roi Arthur"
+    },
+    "mi": {
+      "language": "mi",
+      "value": "Kīngi Āta"
+    },
+    "min": {
+      "language": "min",
+      "value": "Rajo Artua"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Крал Артур"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "കിങ്ങ് ആർതർ"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Raja Arthur"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Arthur av britene"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Koning Arthur"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Kong Arthur"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Rouai Èrthu"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Rèi Artur"
+    },
+    "os": {
+      "language": "os",
+      "value": "Къарол Артур"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਰਾਜਾ ਆਰਥਰ"
+    },
+    "pam": {
+      "language": "pam",
+      "value": "Aring Arturo"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Roé Artur"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Król Artur"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "پاچا آرتور"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei Artur"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Regele Artur"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Король Артур"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Keeng Arthur"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kralj Arthur"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kráľ Artuš"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Artur"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Arthur"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Kralj Artur"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kung Artur"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Mfalme Arthur"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஆர்தர் அரசர்"
+    },
+    "te": {
+      "language": "te",
+      "value": "కింగ్ ఆర్థర్"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Шоҳ Артур"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าอาร์เธอร์"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Haring Arturo"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kral Arthur"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Король Артур"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "بادشاہ آرتھر"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Qirol Arthur"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vua Arthur"
+    },
+    "war": {
+      "language": "war",
+      "value": "Hadi Arturo"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "亞瑟王"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "雅打王"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亚瑟王"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "亞瑟王"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "亞瑟王"
+    }
+  },
+  "lastrevid": 17552905,
+  "modified": "2025-09-17T10:44:10Z",
+  "ns": 860,
+  "pageid": 164689,
+  "sitelinks": {},
+  "title": "Item:Q136304",
+  "type": "item"
+}

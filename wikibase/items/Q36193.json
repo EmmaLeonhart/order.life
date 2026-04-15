@@ -1,0 +1,219 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shi Ye Ji Xian"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q36193$F09D8AD0-BE87-4642-BC81-33C575148DD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40316",
+              "numeric-id": 40316
+            }
+          },
+          "hash": "8765c2daa909df7a198d7d412227783af7706bcf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36193$085F5044-71A8-40BA-B0FD-5B1C023C01E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40360",
+              "numeric-id": 40360
+            }
+          },
+          "hash": "d33e29b5e8b6ed3b26a4ea4c43b7ccbd94927d92",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q36193$A7F32DAF-3C74-4CF0-B332-E165042BB1D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q36193$05EB00B0-2F68-43EF-8DFD-90A28E298239",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q36193$3B5E2142-59A6-4A08-B5D9-B4AF6D0BBE5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31915",
+              "numeric-id": 31915
+            }
+          },
+          "hash": "9e2dae9626da5a79d074c19eff3eebfbfc859a25",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q36193$A332EEBA-EA0D-4D91-B7FF-52FB7232DF69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q36193$8EAF7223-DA7E-4FCC-8689-5EACC1CA45CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1671-01-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "91f4b9f3de0619d34b0354408839a3230fef37aa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q36193$BE797E51-A83D-4895-BBFE-E0788B9828C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1741-03-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05cb8850394d9c40850e8cdbcf409163aaaf7329",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q36193$88482A03-54A3-4306-A7E8-28FF225CD2E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110249587"
+          },
+          "hash": "1de069d782170a587e5c8e4735d3f18a68cdc661",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "石野家初代。持明院基時の次男。母家女房。正二位・権中納言"
+    }
+  },
+  "id": "Q36193",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "石野基顕"
+    }
+  },
+  "lastrevid": 17438148,
+  "modified": "2025-09-16T07:03:00Z",
+  "ns": 860,
+  "pageid": 54847,
+  "sitelinks": {},
+  "title": "Item:Q36193",
+  "type": "item"
+}

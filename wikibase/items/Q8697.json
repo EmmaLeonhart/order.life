@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujimoto no Korehira"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8697$9D70F526-F33B-43F7-A148-DFE1C16F52A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8697$370F92ED-7D49-4ACD-A7FB-E8F65BE2B444",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8697$D440B479-41E7-4620-8309-C7455269B8D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8407",
+              "numeric-id": 8407
+            }
+          },
+          "hash": "4bcd0a4ea6bd8632ca972df16ae79feb06fd35f9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8697$B9A1D582-9EA0-467C-A5BF-45F6345EF7DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8697$900B3CC2-B49A-4DBE-AC6D-C18F9A44AAA2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0876-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6e7e21a0679d0d54ad6295433f4b6b0c0e9f2659",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8697$6363F547-D025-4734-AA7D-0DB2BF7F2EA2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0939-01-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb632a2bbe583648cfb34fd8c33ed1d102394124",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8697$D6B00B50-89FC-4FC0-925E-98114B7A4515",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623025"
+          },
+          "hash": "e0419af4e3b4748ccfc80cbae214f61d780eb4ea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese court noble and poet from the mid-Heian period"
+    }
+  },
+  "id": "Q8697",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujimoto no Korehira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原伊衡"
+    }
+  },
+  "lastrevid": 17409400,
+  "modified": "2025-09-15T22:59:30Z",
+  "ns": 860,
+  "pageid": 31182,
+  "sitelinks": {},
+  "title": "Item:Q8697",
+  "type": "item"
+}

@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Naonaga"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18184$467A364E-4233-4367-BBF3-CD805DD769F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18184$EF35DFDC-D88E-41E0-99FF-30639DFFFE6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18184$3ECF0291-3A66-47C3-BA68-9BBCB5D62363",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16834",
+              "numeric-id": 16834
+            }
+          },
+          "hash": "653ca3c934200e72c1756c21cc96f53643f75171",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18184$853B84D6-B9CE-4706-8CE3-914563E93FD4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18184$3AA67EB8-BA1E-4CB7-8CA4-7C5114746716",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1596-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f89db6888e929a8cb1cadaf66cd071fc1011a03f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18184$14FF78F9-782A-4B03-9CDF-CA99B86812FC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1637-12-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c2a0b4e8acf606b440df4d52ab710f79f18aae55",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18184$C38BA452-CE21-41F7-B53A-5145795987A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11608364"
+          },
+          "hash": "f07bc5262ccca4a09275876a26c05a910fb45e68",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18184$8CBB7A00-C3F8-41BE-8B41-D521750E04F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Naonaga Arms.svg"
+          },
+          "hash": "c6bea9d4a08c578680df14c8d479802d3f1b06af",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ko": {
+      "language": "ko",
+      "value": "에도 시대의 다이묘"
+    }
+  },
+  "id": "Q18184",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Oda Naonaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田尚長"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오다 나오나가"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Наонага Ода"
+    }
+  },
+  "lastrevid": 17417584,
+  "modified": "2025-09-16T01:09:53Z",
+  "ns": 860,
+  "pageid": 40384,
+  "sitelinks": {},
+  "title": "Item:Q18184",
+  "type": "item"
+}

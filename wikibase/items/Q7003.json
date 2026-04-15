@@ -1,0 +1,523 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Emperor Hanzei"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7003$7857F064-F1E1-4DA1-A196-E1403C74EF97",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719979"
+          },
+          "hash": "e2c00f816b71256fcd05248f5b4d070d53ac01a3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7003$51D2981C-3DF7-40BD-B704-93F65BCFE82C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7003$9292B209-0BC3-4297-983B-D8F23434DEC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7003$65C051F7-6D6A-49FF-8096-E21A2ACCAE49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7040",
+              "numeric-id": 7040
+            }
+          },
+          "hash": "9c2b661603c3f523ac6604aa5778603ebe00e434",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7003$13979C56-082D-4363-9155-F920C3851CB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7041",
+              "numeric-id": 7041
+            }
+          },
+          "hash": "280c9f34bd9a53893bf17f0f42a6b3ab5bacee74",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7003$C3E1883D-BB4A-43A6-9747-CD4E0FAF7FAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6950",
+              "numeric-id": 6950
+            }
+          },
+          "hash": "9eac2ad449f12475e943e3a6ef95cc053191a7b8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7003$8849B737-A7EC-4EFC-A288-D097E321BC62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6986",
+              "numeric-id": 6986
+            }
+          },
+          "hash": "dc6ffab145831b2e01e9f8c14f37fce0b8179a46",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7003$1B362AE7-DFD8-48B0-8386-27A9F58C40C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7003$EA14F041-CF40-45DD-9A1C-2DE0D4075B16",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0336-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "85508b9d98d299a9933664c06c50e0b780b70bb5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7003$49D1F75F-B85A-49D2-943B-909057593901",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0410-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8759fa1e6a83f2ead0af8db5b6d98a2ba94032c5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7003$42A63E48-76F3-4482-8A36-F8CCF1123729",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "HanzeiTennō.jpg"
+          },
+          "hash": "1a15ad0d88fa361ebd859aa5f220d322c2fa074b",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7003$DE3F4B0A-9BA5-4973-9878-2194779739CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q329769"
+          },
+          "hash": "4276273a74a33eea5a276edb1457c00a44d9d3e8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7003$A1ECB8BE-FD77-4F58-A6C9-3F586F940B61",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Hanzei Arms.svg"
+          },
+          "hash": "2325cdabdbd54c0428d755c09e97788027ba4a9d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (336–410)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "18è emperador del Japó"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "18. japonský císař"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hanzei (反正天皇, Hanzei-tennō), også omtalt som Kejser Hanshō, var den 18. kejser af Japan, efter den traditionelle liste over kejsere"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Kaiser"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第18代天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 제18대 천황"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans heerser (336-410)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "18º Imperador do Japão"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon imparatoru"
+    }
+  },
+  "id": "Q7003",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور هانزيه"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور هانزيه"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "هانزی"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "সম্রাট হানজেই"
+    },
+    "br": {
+      "language": "br",
+      "value": "Hanzei"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Emperador Hanzei"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hanzei"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hanzei"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hanzei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor Hanzei"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Hanzei"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور هانزی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hanzei"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Hanzei"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Hanzei"
+    },
+    "it": {
+      "language": "it",
+      "value": "Hanzei"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "反正天皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჰანძეი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "한제이 천황"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Hanzei Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hanzei"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hanzei"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Hanzei"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Hanzei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Хандзэй"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Hanzei"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Cesar Hanzej"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Emperor Hanzei"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hanzei"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิฮันเซ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Hanzei"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Emperor Hanzei"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Хандзей"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Imperator Hanzei"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Hanzei"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Hanzei"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "反正天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "反正天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "反正天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "反正天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "反正天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "反正天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "反正天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "反正天皇"
+    }
+  },
+  "lastrevid": 17406881,
+  "modified": "2025-09-15T22:27:58Z",
+  "ns": 860,
+  "pageid": 29498,
+  "sitelinks": {},
+  "title": "Item:Q7003",
+  "type": "item"
+}

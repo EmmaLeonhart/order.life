@@ -1,0 +1,264 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "King Xie of Zhou //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q25604$848FCAAC-2FBE-4259-A082-82B09A9D6317",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25604$7560EBAA-05A1-4967-A654-88253E3798AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q25604$407D5418-D51A-4C66-A310-C0E414B64ECA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25548",
+              "numeric-id": 25548
+            }
+          },
+          "hash": "37fe79808726dfa6e678465c2cfb2427bc52d650",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25604$57AB213F-586E-4C19-AD41-A885BD173F7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q25604$AA4742BC-66FE-4E4B-9E3C-5F0308DA0655",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0790-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1a18ad2b80ae707d75a2acc8fc77cfb6ed1b1eba",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25604$7BDFB205-FFDE-41CA-A5C4-3A5A1DAF7A2C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "60b6e4c0ee5486cd8e404baed218b15a6e42941b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25604$D21940EB-AE7F-434F-9682-6742EB3B233A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3178748"
+          },
+          "hash": "d254f7ed0e4e95eec3725aad4b20b2a3a1f21535",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25604$46F641A7-0B61-416E-8F9A-CC30E7138B3D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "King Xie of Zhou Arms.svg"
+          },
+          "hash": "b6772fec55cb051fafbec72681829007480b228e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Pretender to throne of Chinese Zhou dynasty (died 750 BCE)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de la dynastie Zhou"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "周の王"
+    }
+  },
+  "id": "Q25604",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "King Xie of Zhou"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "پاشا سییی ژۆو"
+    },
+    "de": {
+      "language": "de",
+      "value": "könig Xie von Zhou"
+    },
+    "en": {
+      "language": "en",
+      "value": "King Xie of Zhou"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه شیه ژو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi Xie de Zhou"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "携王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "동주 휴왕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "周攜王"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chiu Hê-ông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning Xie van Zhou"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Chu Huề vương"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "攜王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "携王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "攜王"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "攜王"
+    }
+  },
+  "lastrevid": 17424480,
+  "modified": "2025-09-16T03:45:08Z",
+  "ns": 860,
+  "pageid": 47201,
+  "sitelinks": {},
+  "title": "Item:Q25604",
+  "type": "item"
+}

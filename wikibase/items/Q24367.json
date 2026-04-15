@@ -1,0 +1,197 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ikoma Chikatada"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q24367$315AE57F-1206-48B8-9C81-91AE1116D924",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "池田-102"
+          },
+          "hash": "8da1ef427e118772686bae00f3b5f9ec9cc892ba",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24367$C91EC687-050B-4A07-822C-1E4CE6BDEAF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24367$E8174A4B-DCC6-4C5E-95CE-672B91001F58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q24367$CD916568-8C04-4A46-80AD-787D5C4D3F9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38152",
+              "numeric-id": 38152
+            }
+          },
+          "hash": "c3aec3d954534511545220751e7059b8be557cdc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24367$65671F57-6142-4234-9D2B-0525C5B0967B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24367$8862C4B9-A50D-4942-BE47-FFD29A695165",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1871-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "538ab5053710ca98e27a87e6e9862c10aab0d74b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24367$60C95524-1DE5-4FA2-A872-7671E1410987",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q51166422"
+          },
+          "hash": "cde1a2fb0cd709100e5ee79d1afcb9a6a155b0b7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24367$5BE0E199-4D0A-417F-877C-00BCCD6AFE1F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ikoma Chikatada Arms.svg"
+          },
+          "hash": "d5395a74e4ce9fde6e03bf5a104de39b0a642aa6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1 Sep 1871 - 10 Dec 1939"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の明治時代前期～昭和時代前期の男爵・政治家。旧備前岡山藩8代藩主池田慶政長男で、男爵生駒親承婿養子。土田生駒氏15代当主→1916年分家"
+    }
+  },
+  "id": "Q24367",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Ikoma Chikatada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "生駒親忠"
+    }
+  },
+  "lastrevid": 17423372,
+  "modified": "2025-09-16T03:22:25Z",
+  "ns": 860,
+  "pageid": 46164,
+  "sitelinks": {},
+  "title": "Item:Q24367",
+  "type": "item"
+}

@@ -1,0 +1,331 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saionji Kinhira"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q13290$8513E270-20C9-47EE-BCC8-F9DF1781EE41",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "808528"
+          },
+          "hash": "c56866daa2fa486f9e903bc12636105a24ae3e6a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q13290$FB2FF676-7D27-4B29-BBE6-43918BADC0B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13890",
+              "numeric-id": 13890
+            }
+          },
+          "hash": "6c2db8836abb262cba8803cad3afa74502023fe2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13290$2F517CBC-7886-4555-AF6B-710DB5EF7A9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13891",
+              "numeric-id": 13891
+            }
+          },
+          "hash": "490c7ee66b479e6db891975dfc2d14d433eb1b63",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q13290$1276ADDC-550A-493C-AE0D-68723FB03394",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13290$DE787D31-2AB9-4401-91E9-51B34EDE3A51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13290$49371B5B-46D0-4F73-A46B-8E04830CF841",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13248",
+              "numeric-id": 13248
+            }
+          },
+          "hash": "d5db26340bfd4019369cf05572f3a5f12cb7d05b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q13290$A9EB4B87-8C62-4CDA-AE27-6E4AA8D50B22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12573",
+              "numeric-id": 12573
+            }
+          },
+          "hash": "f00a426151001719a90076e64178352594a89843",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13290$B8AA3486-AFC9-4875-8CF3-749A09303483",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13290$E11C868F-3A8A-40ED-8573-453D0E56C94C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1264-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f4894aca6d7fb3fa53369dcc4c58536950c2877e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13290$097CFA48-BC65-463B-BB27-E8E9B98E17CE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1315-10-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b0679812291d102160cdd17d8e2a4c8ed396926",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q13290$FCE3BA76-7692-4C04-A1E4-2D088FFD09F9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "西園寺公衡.jpg"
+          },
+          "hash": "c9c71d99ec8696f12291cbba99b8414327a50059",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13290$EEC3CDC8-7613-4EAB-B79A-AAC496AE99D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7223260"
+          },
+          "hash": "c9128d9bee98462c88e144387a6045179fc70bc9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13290$56BC0562-3F7E-48A3-A982-FC3512D01372",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saionji Kinhira Arms.svg"
+          },
+          "hash": "1c08f6bf569b6ff74dc24f40035c1d60adaf5c61",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の鎌倉時代の公家、光厳、光明天皇の外祖父、左大臣"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sadaijin do período Kamakura"
+    }
+  },
+  "id": "Q13290",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Saionji Kinhira"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kinhira Saiondži"
+    },
+    "de": {
+      "language": "de",
+      "value": "Saionji Kinhira"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saionji Kinhira"
+    },
+    "es": {
+      "language": "es",
+      "value": "Saionji Kinhira"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "西園寺公衡"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Saionji Kinhira"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Saionji Kinhira"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Saionji Kinhira"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Сайондзі Кінхіра"
+    }
+  },
+  "lastrevid": 17413870,
+  "modified": "2025-09-16T00:01:43Z",
+  "ns": 860,
+  "pageid": 35612,
+  "sitelinks": {},
+  "title": "Item:Q13290",
+  "type": "item"
+}

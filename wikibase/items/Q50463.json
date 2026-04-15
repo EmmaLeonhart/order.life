@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "舟橋相賢"
+      },
+      {
+        "language": "en",
+        "value": "Zhou Qiao Xiang Xian"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q50463$C0203CCF-1947-4EDB-B6C0-2701EFC80C8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50463$DFBB06D5-33FB-421B-BAB1-172E9623CCE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50463$B9092292-B022-4177-A5BF-B090C3A7004E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50459",
+              "numeric-id": 50459
+            }
+          },
+          "hash": "12070d377128fcd6880564cbd00bed2f29c659f6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q50463$ADB59F42-B235-4DE2-8DD6-612C7AD97C8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43327",
+              "numeric-id": 43327
+            }
+          },
+          "hash": "a959377823f72f9112d9d175ca11d63f26c34067",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50463$EA6184D8-8098-4C64-BF5A-6CCB74735903",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50463$1A3771BE-55B2-419D-8F1C-BCE9D863F5AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1618-03-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a578c6c0f5193b406c546cece2306c6d64cfec85",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50463$D3E44686-6190-4398-BA21-0C4AC5607D16",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1689-11-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c753b10d3989b93e1ef2d7d68bd357eebc885b74",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50463$27B4FC77-F0CC-4BC7-8ACA-36C28D6B6B5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q109873491"
+          },
+          "hash": "8da35075335366538eedaf48c1bf6baf8a6f7d3a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "従二位・非参議"
+    }
+  },
+  "id": "Q50463",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "舟橋相賢"
+    }
+  },
+  "lastrevid": 17456690,
+  "modified": "2025-09-16T11:30:37Z",
+  "ns": 860,
+  "pageid": 65512,
+  "sitelinks": {},
+  "title": "Item:Q50463",
+  "type": "item"
+}

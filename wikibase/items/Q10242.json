@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kakujin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q10242$99D001C1-5CF3-487A-BDDF-806051E1E39C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q10242$7B508F4A-D538-479D-9AA0-048CA3AB6DCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q10242$9046B4A9-8B31-46D7-9FD7-ED37B231178D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9802",
+              "numeric-id": 9802
+            }
+          },
+          "hash": "60bdb9a60478f1b86595e813482cad77ed7f4986",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q10242$0AD5E8A6-8633-41EB-88CF-A135BECF0D69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q10242$8626A63F-346E-4D90-9D82-F12C03389CFC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1012-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9be0c79f272ead13fde2142d6abf0eee535522ed",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q10242$2A1EA4B9-420E-4406-8842-7B115D2C8CC7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1081-11-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc82113e5af137a99dd70091fd82911346c05412",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q10242$149072DE-1C2E-4EA9-ABCA-7BEC456F0D31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11630320"
+          },
+          "hash": "af2342d8d894171b7ee6102bbe1864117bee1082",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q10242$2531833F-E772-4EF3-A57C-369C26137773",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kakujin Arms.svg"
+          },
+          "hash": "46850a6dc115e79f867521c07981071f6a18dfb4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代中期の延暦寺の僧。天台座主35世。"
+    }
+  },
+  "id": "Q10242",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kakujin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "覚尋"
+    }
+  },
+  "lastrevid": 17412116,
+  "modified": "2025-09-15T23:36:13Z",
+  "ns": 860,
+  "pageid": 32658,
+  "sitelinks": {},
+  "title": "Item:Q10242",
+  "type": "item"
+}

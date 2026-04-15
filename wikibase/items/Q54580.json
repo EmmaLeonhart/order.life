@@ -1,0 +1,350 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Raimondo Berengario d'Aragona //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q54580$8735D7BE-044C-498C-BA4D-9E145D7B3B77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00400234"
+          },
+          "hash": "0cc535ea5ec3bd1f1b0d5ec75aff39be1e8f0d86",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54580$1FA28C53-AB51-4755-8677-2E79E1ABE34C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54580$18EA0A82-8BFA-43C1-B211-B18F26B27C09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q54580$28AAB0CF-EFB6-41C1-9502-1E4C5621100E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Raimondo_Berengario_d'Aragona_(1)"
+          },
+          "hash": "eee2348d29f451d14181919bf753dd1a5c08262b",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q54580$F161F12C-B700-40D5-8D96-28040B74EE1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54191",
+              "numeric-id": 54191
+            }
+          },
+          "hash": "b309e8c134c9728e82eaf4ff4fe6bb752c0ba005",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54580$E3C94C6B-A167-4FFC-BB99-7280318B4A07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54540",
+              "numeric-id": 54540
+            }
+          },
+          "hash": "696aa3ee3d25ff6e45adde7f7eecbe753df94f2c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q54580$2B0B76D7-CDDC-417E-B60C-B3F344440F83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49604",
+              "numeric-id": 49604
+            }
+          },
+          "hash": "1a38ea7677fcf7bb7f7cd104eb7a990174a89655",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54580$A86CB492-6439-4520-BA36-07C36F5A255E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54580$722529DD-7BFC-4BD5-BB21-609DA038A1E0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1308-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "81df63cc75d68e4f07813160cf24ec9efa6b6d79",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54580$AFA00281-1280-4E8D-BB21-762DC53DA1CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1366-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd1b6a16fa3a6a4cb07b4ebeafbd8d6a5faa2d01",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54580$D57C6781-BC3F-4097-A83E-86428B24A7A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3929569"
+          },
+          "hash": "7226ac78b00905ead88f8b6f3c3f2fbdd3b50d83",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q54580$5756308A-3565-4F8E-B198-A65211DBA50F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001500835116"
+          },
+          "hash": "905ba4f6204d2895619903a8bd2a7e89b61aa4c4",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q54580$7C478213-9D7F-4276-884E-5813FAE3A0B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=ramon berenguer;n=de aragon;oc=1"
+          },
+          "hash": "546f3fd6bd13e3a91b9d52300ad0bddd2f4c51bf",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54580$46B354EF-8A3E-4B35-B548-EFA3137766BC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Raimondo Berengario d'Aragona Arms.svg"
+          },
+          "hash": "cfa79f6455890725b566e0cb8dd94c3ad93f56eb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "(1308 - c. 1366) comte d'Empúries"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "граф Ампурьяса"
+    }
+  },
+  "id": "Q54580",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Ramon Berenguer I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Rajmund Berengar Aragonský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Raimondo Berengario d'Aragona"
+    },
+    "en": {
+      "language": "en",
+      "value": "Raimondo Berengario d'Aragona"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ramón Berenguer I de Ampurias"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ramón Berenguer I de Ampurias"
+    },
+    "it": {
+      "language": "it",
+      "value": "Raimondo Berengario d'Aragona"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Raimondo Berengario d'Aragona"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Рамон Беренгер I"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Рамон Беренгaр"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞拉岡的拉蒙·貝倫格"
+    }
+  },
+  "lastrevid": 17462152,
+  "modified": "2025-09-16T12:51:15Z",
+  "ns": 860,
+  "pageid": 69411,
+  "sitelinks": {},
+  "title": "Item:Q54580",
+  "type": "item"
+}

@@ -1,0 +1,336 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gaero"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q12610$DF2E5E3F-E597-4C8E-929D-C5E71A73A246",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12612",
+              "numeric-id": 12612
+            }
+          },
+          "hash": "ceb5e918e1472d166b79ff71f918477d91819227",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12610$1522E607-1CFF-49E1-A295-BC5AA5FF6E15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11785",
+              "numeric-id": 11785
+            }
+          },
+          "hash": "bf0892c45e0b51642dc4acb8aceb9aec728f5162",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12610$E1EEC14E-30BB-4162-B8C2-B6C7C79B02D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12610$55A443A9-C5BD-4B57-9534-A8A20CA41F90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12610$C34843EC-FE6A-4132-8BF6-EF7A2F44DC3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12611",
+              "numeric-id": 12611
+            }
+          },
+          "hash": "01eafeb174262324c776d03c5e74658a1d5972c1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12610$94C50AB4-ED04-4002-AA7D-AD98A202F3CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12610$8EBDFB86-B977-487A-BE5F-77E2AF96C582",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0415-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6ed97915c965f8b849c92e85457561ea652d9848",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12610$02F910E5-4C68-4043-88C1-CCE99280A7A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0475-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5a60ad4909891e6340055a32e1dbe7391064ccdf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12610$820C79C0-82D4-4F78-B402-95A1EAD50CC7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q497775"
+          },
+          "hash": "85766875794d3a41732f744f600906d2b2acb551",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12610$ECDD3889-411A-4BF6-8216-BC996D4C56CB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gaero Arms.svg"
+          },
+          "hash": "522ac2253f86e367688fde831f135b5a9a862cf2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the king of the Baekje dynasty of Korea"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "百済 の王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "백제의 제21대 국왕 (?~475)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Правитель Пэкче"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj korejske dinastije Bekdže"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ван Пекче"
+    }
+  },
+  "id": "Q12610",
+  "labels": {
+    "ckb": {
+      "language": "ckb",
+      "value": "گایرۆی بایکجی"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gaero"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gaero of Baekje"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه گائه رو دوم"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gaero"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蓋鹵王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "개로왕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蓋鹵王"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Gaero"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gaero"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кэро"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gaero"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Gaero"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gaero"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าแกโร"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Керо"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cái Lỗ Vương"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蓋鹵王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "盖卤王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蓋鹵王"
+    }
+  },
+  "lastrevid": 17413572,
+  "modified": "2025-09-15T23:57:28Z",
+  "ns": 860,
+  "pageid": 34943,
+  "sitelinks": {},
+  "title": "Item:Q12610",
+  "type": "item"
+}

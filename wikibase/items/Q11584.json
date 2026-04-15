@@ -1,0 +1,449 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jien"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q11584$C254804B-637B-4B6F-ADB6-22CC99616F39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11584$55E3329A-7F3E-488E-BEC9-8B5A395A40FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11584$AFC415CC-722D-4FCE-BBDD-E44CBDA68918",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10905",
+              "numeric-id": 10905
+            }
+          },
+          "hash": "b42eccd94b457a5c1a2578a8ea3eb893097d2568",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11584$1A766B6C-B251-4CC7-9C8F-29B5571ECFFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11584$A567BC30-3853-42E0-A0DA-A2C669CC1738",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1155-05-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e95495a3a95f4ff06d85cdb38adc0468c0f37563",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11584$554875C0-6499-4DDE-A133-64752453E8D6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1225-10-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ad2b16eb7a379af7d52a81caba0c837b76a1a811",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11584$915BABD9-9E78-4A22-B9F1-BDE3FA6C8B62",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hyakuninisshu 095.jpg"
+          },
+          "hash": "dddebc529fc1f2a8efefd538ef6229bb0b13f2c1",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11584$17A32647-6F3C-46FF-823B-959E314BBB28",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q715993"
+          },
+          "hash": "ad27386f1cd0438ad4e614e817d5ac31685f7301",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11584$DE8FA13F-6B12-41A9-B2C9-5B423FE70953",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jien Arms.svg"
+          },
+          "hash": "9bb1836d6a9a7416ecd8aca726c386f48d7890be",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شاعر ياباني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "مؤرخ من اليابان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "poeta xaponés"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জাপানি কবি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "poeta japonès"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer buddhistischer Mönch, Lyriker und Historiker"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese poet"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Japanese poet"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Japanese poet"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "japana bikŝuo kaj utaisto"
+    },
+    "es": {
+      "language": "es",
+      "value": "poeta japonés"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jaapani luuletaja"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "poeta japoniarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نویسنده، شاعر، و تاریخنگار ژاپنی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "poète japonais"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "file Seapánach"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "poeta xaponés"
+    },
+    "he": {
+      "language": "he",
+      "value": "משורר יפני"
+    },
+    "it": {
+      "language": "it",
+      "value": "poeta giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の平安～鎌倉時代の僧侶、歌人"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans dichter (1155-1225)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "poeta hapones"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "poeta japonês"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "poet japonez"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "poet japonez"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon şair (1155 – 1225)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "японський поет"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本平安时代至镰仓时代的歌人"
+    }
+  },
+  "id": "Q11584",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "جين"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Jien"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jien"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jien"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ĵien"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jien"
+    },
+    "et": {
+      "language": "et",
+      "value": "Jien"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Jien"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "جیئن"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Jien"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jien"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Jien"
+    },
+    "he": {
+      "language": "he",
+      "value": "ג'י-אן"
+    },
+    "it": {
+      "language": "it",
+      "value": "Jien"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "慈円"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "지엔"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "जियेन"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jien"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Jien"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jien"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jien"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Jien"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дзиэн"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Jien"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Џиен"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Jien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Дзієн"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Jien"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "慈圆"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "慈圆"
+    }
+  },
+  "lastrevid": 17413036,
+  "modified": "2025-09-15T23:50:01Z",
+  "ns": 860,
+  "pageid": 33948,
+  "sitelinks": {},
+  "title": "Item:Q11584",
+  "type": "item"
+}

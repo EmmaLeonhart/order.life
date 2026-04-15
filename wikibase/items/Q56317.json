@@ -1,0 +1,201 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shioya Tomomasa"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q56317$258B9155-3DC0-429E-8AA3-1C3405A599FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q62332",
+              "numeric-id": 62332
+            }
+          },
+          "hash": "7a92458fcafacd32c0ed2cfc23dc8fe61489c295",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q56317$BC0E01E1-8B62-48BA-B49F-419BCFFDD370",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56317$F64DDCEE-A244-449B-9325-685D07B3A12F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56317$00A6C62C-1321-4209-90C2-6139EEC4B6B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47675",
+              "numeric-id": 47675
+            }
+          },
+          "hash": "3d194fdff63970bd948f0980a1383fa5b84b4abe",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56317$44400501-A5F3-434F-A50D-AD2B78E79C1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56317$A904C089-65AB-4924-BAB4-FA547F19DA61",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1719-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "291c4a3687dee3bf80b12e1372b3dcc1171e43b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56317$32FB0865-E574-474D-B1AE-542416BF51DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q29410917"
+          },
+          "hash": "4d4453637e397652553045c8361c0422e58f7b63",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56317$BA3492DD-4291-4220-98B6-91344A0DD4C7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shioya Tomomasa Arms.svg"
+          },
+          "hash": "8c11da443f52cad9f3107c7b72a5177a858d30a2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の武士"
+    }
+  },
+  "id": "Q56317",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Shioya Tomomasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "塩谷奉正"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Томомаса Сиоя"
+    }
+  },
+  "lastrevid": 17464718,
+  "modified": "2025-09-16T13:29:52Z",
+  "ns": 860,
+  "pageid": 71148,
+  "sitelinks": {},
+  "title": "Item:Q56317",
+  "type": "item"
+}

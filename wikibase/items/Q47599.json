@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Iwaki Hidetaka"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q47599$5C7F02EA-848C-42D3-B4D0-16AB077FFD7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q47599$321E2FA7-87EC-40DD-A6E4-4348E932A579",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q47599$2BAC5BAB-3B4E-4D14-9083-66F0B1F057EC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23825",
+              "numeric-id": 23825
+            }
+          },
+          "hash": "c46294fd329f561e1b3a37970f8c7ffa6c4c2c53",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q47599$3FB57C5F-C21C-41EA-9A64-0C8D8B08C201",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q47599$C42DB3AC-1045-448C-AA23-4A2EF0AEE794",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1673-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "88a53df991db55b858135fb52db33343643924c1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q47599$21F0371F-A614-4482-9656-8492DA24BDCB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1718-11-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6449e84150118f6501a192cd36b1fc6c199aa3e4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q47599$4FF3CA05-02CD-440E-8CBC-296B58B8061A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8514851"
+          },
+          "hash": "0e04a4f7081c75e66ffd61f4151b8e76f2b82696",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q47599$4DEB2CF8-4B2A-4AED-96A5-43F783546427",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Iwaki Hidetaka Arms.svg"
+          },
+          "hash": "0f17f9d10b2c304ab95538414cb8698195aa302f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese daimyō"
+    }
+  },
+  "id": "Q47599",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Iwaki Hidetaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "岩城秀隆"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이와키 히데타카"
+    }
+  },
+  "lastrevid": 17452776,
+  "modified": "2025-09-16T10:33:57Z",
+  "ns": 860,
+  "pageid": 63374,
+  "sitelinks": {},
+  "title": "Item:Q47599",
+  "type": "item"
+}

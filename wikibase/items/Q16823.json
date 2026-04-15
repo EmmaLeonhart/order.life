@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ono-dono"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16823$CBE261BF-718D-433F-863E-7F83761526E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15997",
+              "numeric-id": 15997
+            }
+          },
+          "hash": "661018cbf92a773669e0587004b3f382fda3f9c8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q16823$C67BA5C8-F451-4807-B27A-6A5A69C4B8F8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "井口-1"
+          },
+          "hash": "6aa858ec7fbf77fd77bc561321234130f1d338f0",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16823$B6AADB48-0992-4CA1-BE72-BDB226890401",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16823$6D41A530-730D-422C-9B50-68A50C583C21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16823$323FBB9A-479E-494D-81B6-3113C7CA7327",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16822",
+              "numeric-id": 16822
+            }
+          },
+          "hash": "6f78a3a909a2051db3a239a94577c89635591d87",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16823$114A4264-8893-4F15-8362-A6738754DFF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16823$72421A7F-F78B-4717-A251-74DA7BCE0ADD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1573-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5c8f7ec7fbede610e02bbf703e74868bbf4faa28",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16823$4D5A7692-9895-4DBC-9740-FEB779B07018",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11464139"
+          },
+          "hash": "80cd6d4641bcc8aa6780203dd3111d627798b381",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16823$D72399AD-5BEF-49FD-B0B2-F215D21B18BA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ono-dono Arms.svg"
+          },
+          "hash": "0f951356ebdc9b89c6de177b410108662f6baa13",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "mother of Azai Nagamasa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の女性、浅井長政の母"
+    }
+  },
+  "id": "Q16823",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ono-dono"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Onodono"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ono-dono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ono-dono"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小野殿"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오노도노"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ono-dono"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小野殿"
+    }
+  },
+  "lastrevid": 17416370,
+  "modified": "2025-09-16T00:40:17Z",
+  "ns": 860,
+  "pageid": 39074,
+  "sitelinks": {},
+  "title": "Item:Q16823",
+  "type": "item"
+}

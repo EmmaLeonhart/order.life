@@ -1,0 +1,201 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32556$2C9E3AE2-F4F0-4425-A5CC-91AEFB631419",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32556$C8CA82B7-2E9B-433B-AEC1-595C056AFAB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32556$15E8AF97-0D44-4411-BA45-8B266443C914",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31424",
+              "numeric-id": 31424
+            }
+          },
+          "hash": "354dc70d2dab1fd2c34aaa23c3fdf28bb1ad1d20",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q32556$C8D146FE-109A-4549-A73F-05FF6CCD31EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q92631",
+              "numeric-id": 92631
+            }
+          },
+          "hash": "02b8d82fe652d5c73c917c6af13443e5e7bbea04",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q32556$EF4EF104-19B8-47FA-A4A9-993B5E61EC99",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Pedro Pablo /Pomar y Tudela de Lanuza/"
+            }
+          },
+          "hash": "4286e55e52dbc8de4bd0f4c0d37618f359da76be",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32556$4146BBEE-01C9-4368-9005-7CB7C3EF5742",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q32556$F41BD7BA-280F-40D6-BD3F-480128AFCD8E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1728-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "380f71409da044c57fbfa40561c5b79d3463d24f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q32556$0620A20C-0D71-457C-B3AC-CA87545C7F75",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000089099181834"
+          },
+          "hash": "b29c3a7c1bfb436a41cfbac12dd50df49f5aa136",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q32556$BAA283F6-A99B-49A0-9877-9F041C1AE37B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pedro Pablo  Pomar y Tudela de Lanuza Arms.svg"
+          },
+          "hash": "9146737c20f8a75023064b0ceb25da2343033f5e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q32556",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Pedro Pablo  Pomar y Tudela de Lanuza"
+    }
+  },
+  "lastrevid": 17432926,
+  "modified": "2025-09-16T05:46:29Z",
+  "ns": 860,
+  "pageid": 52128,
+  "sitelinks": {},
+  "title": "Item:Q32556",
+  "type": "item"
+}

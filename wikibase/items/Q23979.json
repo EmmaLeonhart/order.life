@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Niwa Nagayuki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23979$32FA8418-0E12-4B2F-BC6D-8FF58DBABD27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23979$6B8164B6-144B-463C-8670-4039838990DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23979$5B54648F-0482-4E86-A37B-FDBD8D5A607D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21670",
+              "numeric-id": 21670
+            }
+          },
+          "hash": "7b289f090bf3f93516bba1ebd121a56333b4b1bc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23979$5D0D049B-2680-453B-8109-79BAF7CE24F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23979$DBD40A2B-75DA-493A-8320-51230098E6DB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1656-04-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0aab0e3c7faa75de4a6adcae13502711ea0b914",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23979$BFF22E4E-0EFC-442B-BD38-23D93452D08F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1701-01-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f6ce900d23f5912a0990843bb9ba80a24f6c1a71",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23979$2D8A3216-F4EB-490D-9A52-C656EDAAA51A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8514025"
+          },
+          "hash": "21b0df3bbaaa7c8609563e9f77e211f51393905d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23979$60F23148-5CC3-48A2-89F4-AD11579B5FCF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Niwa Nagayuki Arms.svg"
+          },
+          "hash": "7fd9ad868545b0c26de529172e47a5ca823a8730",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期～中期の大名"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본 에도 시대 전기의 다이묘"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1656 – 1701)"
+    }
+  },
+  "id": "Q23979",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Niwa Nagayuki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "丹羽長之"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "니와 나가유키"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Niwa Nagayuki"
+    }
+  },
+  "lastrevid": 17423012,
+  "modified": "2025-09-16T03:14:16Z",
+  "ns": 860,
+  "pageid": 45788,
+  "sitelinks": {},
+  "title": "Item:Q23979",
+  "type": "item"
+}

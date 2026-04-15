@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yoshinawa Fujiwara"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7924$32BD9B95-C09C-4E51-84BC-60194496E513",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7924$F2C94DE6-AAE4-4170-9182-B70C858BB54A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7924$00182A94-73ED-40E2-8818-30E15702F14C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7709",
+              "numeric-id": 7709
+            }
+          },
+          "hash": "3e366d93fd43794a8df76fd705eb2f7a1fbfa66d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7924$B0BD8036-D303-40CB-A154-31A8915613FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7924$520A2968-1A7C-425B-8309-9B47D3D794E3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0814-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b132c91bc056f0a50ee7e65662b1aecb432d3136",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7924$526C67EA-901C-4F4B-896E-4309097AB9CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0868-03-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3bad55374b67006016fabd28e70ff2f2d145906e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7924$4D1EA8DD-0A77-4E5A-8211-F4D3CCE3FA36",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623506"
+          },
+          "hash": "c47272215359ccb28c4ed048e2cc6f5a8c33b571",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7924$BB0CC3B6-680C-453B-9A44-94EE7B7F3D2D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yoshinawa Fujiwara Arms.svg"
+          },
+          "hash": "f944f319555825db5899becf2b523b6d3da50f4c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "814-868, 平安時代前期の公卿"
+    }
+  },
+  "id": "Q7924",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yoshinawa Fujiwara"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原良縄"
+    }
+  },
+  "lastrevid": 17407822,
+  "modified": "2025-09-15T22:39:45Z",
+  "ns": 860,
+  "pageid": 30415,
+  "sitelinks": {},
+  "title": "Item:Q7924",
+  "type": "item"
+}

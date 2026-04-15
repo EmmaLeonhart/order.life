@@ -1,0 +1,327 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Yoritada"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q9137$0B85ABAF-BF19-4D27-9EDB-5CEF1E78D028",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9309",
+              "numeric-id": 9309
+            }
+          },
+          "hash": "417c2c9fdc962cf3858e14bf6d2e35f82e421fa6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9137$83EFBD80-8A46-49B5-9227-77BF18199D29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9452",
+              "numeric-id": 9452
+            }
+          },
+          "hash": "0b9713e3ec04cb47d53d5a36b714c40b7eb64eec",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9137$3645D03C-2FFC-408E-95D3-F7244D7BC0AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9137$FA934D63-CD71-4C1A-A28C-10AC2654C02C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9137$D61DA8E8-28BB-489D-96C1-4FF738AC4A3C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8826",
+              "numeric-id": 8826
+            }
+          },
+          "hash": "99dc237b32babbab8a5170eb97ece4a5e87b162f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9137$06DC86ED-6041-4764-97E4-9ADCF77B503F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9137$A292D446-9A0A-4BF0-9B61-99C8E25C4C9B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0924-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32522fe428113e95a87e09e7bee666a87a7a622d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9137$605770B7-EC29-49FB-9AF3-B7CF0F731B2D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0989-07-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5001d2c5715029f7d3c1a4b2bd1b08e74ecd17f4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9137$ACF02AA5-EE07-4CA3-92BD-7A729B619FA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3090694"
+          },
+          "hash": "d31097b54a9c50473240e331ab6143e0e1429fbb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (924–989)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Noble japonès"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese noble"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の公卿"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (-989)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon soylu (924 – 989)"
+    }
+  },
+  "id": "Q9137",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Yoritada"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Fujiwara no Yoritada"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fujiwara no Yoritada"
+    },
+    "de": {
+      "language": "de",
+      "value": "Fujiwara no Yoritada"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Yoritada"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fujiwara no Yoritada"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فوجیوارا نو یوریتادا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Yoritada"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Fujiwara no Yoritada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原頼忠"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "藤原賴忠"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Fujiwara no Yoritada"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fujiwara no Yoritada"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fujiwara no Yoritada"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фудзивара-но Ёритада"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Fujiwara no Yoritada"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Fujiwara no Yoritada"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fujiwara no Yoritada"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Фудзівара но Йорітада"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Fujiwara no Yoritada"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原賴忠"
+    }
+  },
+  "lastrevid": 17410358,
+  "modified": "2025-09-15T23:11:19Z",
+  "ns": 860,
+  "pageid": 31608,
+  "sitelinks": {},
+  "title": "Item:Q9137",
+  "type": "item"
+}

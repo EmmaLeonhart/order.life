@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuwen Huaji"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q19291$737CEFC8-9129-4722-988E-C15D0895BA61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19291$FDBEFBEF-886D-4AF1-9210-BF5C1E6CC5C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19291$766ACC55-4D3A-4DF2-B0F9-F1C31B58D0B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19289",
+              "numeric-id": 19289
+            }
+          },
+          "hash": "103288cc0159704378e6bdeb6db6e4548b971d6c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19291$8A82EEAD-A1AF-46E3-A374-289007DB7DB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19291$65796952-C1D8-4C2C-AB30-6749336B0548",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0569-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc9c1e31c2baa6bfa37bd7bbb4059cfe5d6a73d1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19291$E151260B-F4C2-4E87-A435-90AFC3006096",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0619-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ff4ddb14c794ee70820f6980757fdd4ae8dd557a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19291$9BA046A6-6486-44AC-A42D-13CB856738BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1066817"
+          },
+          "hash": "d46cb2d9b77a7ebaebc1143162bd301c7e7d73f7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19291$119D175C-4942-421B-84FB-CEA3CFF3C50C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuwen Huaji Arms.svg"
+          },
+          "hash": "291d19c2fa99dc89d8abbd4f2af8131260a220ae",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Chinese military general, monarch, and politician (died 619)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "隋末唐初名将"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "隋末唐初政治人物"
+    }
+  },
+  "id": "Q19291",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yuwen Huaji"
+    },
+    "de": {
+      "language": "de",
+      "value": "Yuwen Huaji"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yuwen Huaji"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yuwen Huaji"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yuwen Huaji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "宇文化及"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "우문화급"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "宇文化及"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yuwen Huaji"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Yuwen Huaji"
+    },
+    "th": {
+      "language": "th",
+      "value": "อวี้เหวินฮั่วจี๋"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Vũ Văn Hóa Cập"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "宇文化及"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "宇文化及"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "宇文化及"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "宇文化及"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "宇文化及"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "宇文化及"
+    }
+  },
+  "lastrevid": 17418512,
+  "modified": "2025-09-16T01:32:54Z",
+  "ns": 860,
+  "pageid": 41447,
+  "sitelinks": {},
+  "title": "Item:Q19291",
+  "type": "item"
+}

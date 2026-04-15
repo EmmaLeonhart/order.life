@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Zhigong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q53994$7738141C-35C4-4EEF-8869-C77CE6664E88",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60775",
+              "numeric-id": 60775
+            }
+          },
+          "hash": "022e714f4922ad2cb15673da7c5a1d543341d3fb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53994$FAE08345-9769-45E0-908A-647F711E48B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60778",
+              "numeric-id": 60778
+            }
+          },
+          "hash": "248dce309db22b9c03a99e64b288c2cbadb39ae0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53994$1CC9E5E5-D766-41E3-AA22-CA64BC9CEEE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53994$4329F7AA-132C-4806-BF4E-72A65D4CA05E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53994$85F9507E-B6DE-4AB1-B2E9-87A1548C1A91",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45457",
+              "numeric-id": 45457
+            }
+          },
+          "hash": "a8608ebcd5c04ed864da9669b47d335093f049b3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53994$E60174FE-6B6F-41A2-9A45-C1109DEADBE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53994$1EAE23B9-F938-4942-B823-9ED38259C82D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0689-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e112826e3b4a5f6f07157284919d0a556ac3c620",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53994$91C6B67C-BF70-44C6-A900-7F8DA6983366",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45498007"
+          },
+          "hash": "42d3f31a32ea76dccf4e343ac5b3145f107665c4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53994$383935F4-756F-488A-8055-99E20F4B6ED7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Zhigong Arms.svg"
+          },
+          "hash": "4e6135e6af61610b777b2fec57603433b47ca2dc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 172563"
+    }
+  },
+  "id": "Q53994",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Zhigong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Zhigong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Zhigong"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊至公"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Zhigong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "楊至公"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨至公"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊至公"
+    }
+  },
+  "lastrevid": 17461156,
+  "modified": "2025-09-16T12:36:44Z",
+  "ns": 860,
+  "pageid": 68825,
+  "sitelinks": {},
+  "title": "Item:Q53994",
+  "type": "item"
+}

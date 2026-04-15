@@ -1,0 +1,48 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Geni ID (identifier)"
+      },
+      {
+        "language": "en",
+        "value": "geni ID"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P62$9BAC09A7-4CAA-48D5-A5F9-B97513BF2739",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.geni.com/profile/index/$1"
+          },
+          "hash": "a7a81df5e4b76fa41c622f418a5916193f381048",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {},
+  "id": "P62",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Geni.com profile ID"
+    }
+  },
+  "lastrevid": 17395204,
+  "modified": "2025-09-10T05:12:31Z",
+  "ns": 862,
+  "pageid": 192023,
+  "title": "Property:P62",
+  "type": "property"
+}

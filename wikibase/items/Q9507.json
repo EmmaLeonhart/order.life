@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Abe no Yasuhito"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q9507$15CE8463-DC00-4E48-890A-8D0A408DF1A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9507$2C39DEF0-5289-45CC-8BE2-DC8BA4657B4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9507$D8EC688F-4BCE-4D97-8151-9D78DE46DBE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9103",
+              "numeric-id": 9103
+            }
+          },
+          "hash": "c0af00cb0f04ae7e5dda59e9f5ca02b37da692fb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9507$25E62984-D570-4025-ADCC-B397FDC0A18F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9507$0756A409-26DB-4087-80A3-0F520CDF7C05",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0793-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da3d561912e582ce03fa9ef41c7c523be5ef09cb",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9507$4EE11AB3-21B8-4A28-A5F1-AB2E52B1FC88",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0859-05-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f035f504e5b24be9ef4c65a16f9dfb90ff447041",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9507$B0285DEB-A880-438C-9B73-325961EE05FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11450312"
+          },
+          "hash": "f3bdff0af52ef4f49fdf2b65f3569be70f8e3a81",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q9507$77A692B8-3DCC-4323-88EF-59A8DA27BB7F",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Abe no Yasuhito"
+          },
+          "hash": "1c80e6ffa6408fb00040cd6eeb9c482c3e9b84a6",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q9507",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Jasuhito Abe"
+    },
+    "en": {
+      "language": "en",
+      "value": "Abe no Yasuhito"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安倍安仁"
+    }
+  },
+  "lastrevid": 17411072,
+  "modified": "2025-09-15T23:21:13Z",
+  "ns": 860,
+  "pageid": 31957,
+  "sitelinks": {},
+  "title": "Item:Q9507",
+  "type": "item"
+}

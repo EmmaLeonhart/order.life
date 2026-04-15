@@ -1,0 +1,483 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Uesugi Kenshin"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q18047$8C4DF42B-56B1-4144-B90D-9B96DE17ABDC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Uesugi-1"
+          },
+          "hash": "14dd91134c705563921ecbb7de3f8ef7300196f1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18047$DDEC2D2B-8FD2-4037-B9BA-71BCA113F429",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18047$1265D1EB-1D2C-4F3F-8D2B-9393CC9A2979",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18047$FEF44D3B-A9C7-41F3-B6FC-EE2929C973A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16734",
+              "numeric-id": 16734
+            }
+          },
+          "hash": "559a465629bfd7b09084192b97e9a633e7a23b09",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q18047$6D640E90-0428-4609-8EEB-4A6C73AC5BC0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18044",
+              "numeric-id": 18044
+            }
+          },
+          "hash": "13077752adaff42331cc8d5228afc37c949f0f2e",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18047$70A6E75D-6D80-4C06-9617-363682301218",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18047$C6CCE92D-745A-470A-8D5A-7EE476F26678",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1530-02-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "642f4874478b64c7fa411503fd3f03bfcca19290",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18047$B1A98BF2-0BE4-48A8-9DCA-CBB848978B95",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1578-04-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "92c4d39af664aaff6f292e6f07259c6d1b5408f4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q18047$358B895B-E975-4429-904B-90A338334A01",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Uesugi Kenshin Portrait from Uesugi Shrine.png"
+          },
+          "hash": "192b6ec55c33237bca7d35105199ae4adb638e65",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18047$C9D12E23-15FE-4B01-927B-38EC9E08036E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q311080"
+          },
+          "hash": "cfc7f481561f8556561dd430eef18ea9265a030b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18047$17281F88-7FA1-477A-9ADA-25B2132A296A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Uesugi Kenshin Arms.svg"
+          },
+          "hash": "4a9f265f3334b3001ff08b240bcea6b5b7633536",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "(1530-78) dàimio actiu durant el període Sengoku"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský vládce"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Kriegsherr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese daimyo"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "japana daimio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire japonais"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1530-1578)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Самурай, военый и политический деятель 16 века"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1530 – 1578)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lãnh chúa Nhật Bản trong thời Chiến quốc"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本戰國時代的大名"
+    }
+  },
+  "id": "Q18047",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أوئي-سوغي كن-شين"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Uesugi Kenshin"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཀེན་ཤིན་ཨུའེ་སུ་གི"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Uesugi Kenshin"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kenšin Uesugi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Uesugi Kenshin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Uesugi Kenshin"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Uesugi Kenshin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Uesugi Kenshin"
+    },
+    "et": {
+      "language": "et",
+      "value": "Uesugi Kenshin"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اوئسوگی کنشین"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Uesugi Kenshin"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Uesugi Kenshin"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ueszugi Kensin"
+    },
+    "id": {
+      "language": "id",
+      "value": "Uesugi Kenshin"
+    },
+    "it": {
+      "language": "it",
+      "value": "Uesugi Kenshin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "上杉謙信"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Uesugi Kenshin"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "우에스기 겐신"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Uesugi Kensin"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Uesugi Kenshin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Uesugi Kenshin"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kenshin Uesugi"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Uesugi Kenshin"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Uesugi Kenshin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Уэсуги Кэнсин"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kenšin Uesugi"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Uesugi Kenshin"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Уесуги Кеншин"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Уесуги Кеншин"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Uesugi Kenšin"
+    },
+    "su": {
+      "language": "su",
+      "value": "Uesugi Kenshin"
+    },
+    "th": {
+      "language": "th",
+      "value": "อุเอะซุงิ เค็งชิง"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Uesugi Kenshin"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Уесуґі Кенсін"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Uesugi Kenshin"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "上杉谦信"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "上杉謙信"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "上杉謙信"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "上杉谦信"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "上杉谦信"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "上杉謙信"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "上杉謙信"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "上杉谦信"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "上杉謙信"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Uesugi Kenshin"
+    }
+  },
+  "lastrevid": 17417472,
+  "modified": "2025-09-16T01:06:46Z",
+  "ns": 860,
+  "pageid": 40252,
+  "sitelinks": {},
+  "title": "Item:Q18047",
+  "type": "item"
+}

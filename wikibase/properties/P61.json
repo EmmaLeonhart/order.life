@@ -1,0 +1,49 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "wikidata"
+      }
+    ]
+  },
+  "claims": {
+    "P1630": [
+      {
+        "id": "P61$F8D493AA-AD95-4550-B58E-B14CF84C6E39",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://wikidata.org/wiki/$1"
+          },
+          "hash": "3fc5be24130839d70f899fbc2fbd19f7e96f43c7",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "QID present on wikidata referring to the person. Note that the cladoplast id also links to wikidata but it refers to the respective Clade it is the ancestor of"
+    }
+  },
+  "id": "P61",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wikidata QID (identifier)"
+    }
+  },
+  "lastrevid": 17395200,
+  "modified": "2025-09-10T05:12:31Z",
+  "ns": 862,
+  "pageid": 192022,
+  "title": "Property:P61",
+  "type": "property"
+}

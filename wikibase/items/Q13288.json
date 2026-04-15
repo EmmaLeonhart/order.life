@@ -1,0 +1,184 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nakanoin Michitoki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13288$2AB5F403-1446-42A1-8D33-F2D6A4508F8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13288$4E009518-6E85-4CBD-8FCB-3561477408FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13288$06DBCCF3-0CF5-41B9-839B-E9CCEB40203A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12572",
+              "numeric-id": 12572
+            }
+          },
+          "hash": "8a2d6129d2af6a1669d11887e11fa2cae337d09e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13288$9BCA30B0-053C-40DF-B0F2-90ED2A6CE4DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13288$6616B11E-2A3D-4856-8F97-2A1922BFFD1A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1273-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "83a6016fc1279532f431a6b3d343fa80f705169e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13288$7E169B7E-7A01-478B-88EB-0EB97C5E172E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22129687"
+          },
+          "hash": "4b0166b43f3a808f1c594d05cdc4ef9ca22b9620",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13288$3A673BE2-1AA4-4664-B2A6-41664CD58E0C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nakanoin Michitoki Arms.svg"
+          },
+          "hash": "eb597ac95d8a1a9dfda4634949e5c282c2a78408",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期の公卿"
+    }
+  },
+  "id": "Q13288",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Nakanoin Michitoki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "中院通時"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мититоки Наканоин"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Nakanoin Michitoki"
+    }
+  },
+  "lastrevid": 17413868,
+  "modified": "2025-09-16T00:01:42Z",
+  "ns": 860,
+  "pageid": 35610,
+  "sitelinks": {},
+  "title": "Item:Q13288",
+  "type": "item"
+}

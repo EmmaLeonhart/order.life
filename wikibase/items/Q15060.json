@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shimazu Munehisa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15060$2F02B458-554D-41B3-AC84-C21231C07919",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15060$F78CA178-B822-44C6-BBAD-1A0A54AABF6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15060$C92C0F5F-8951-48A9-B5D8-D6A5BE2C2C3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14647",
+              "numeric-id": 14647
+            }
+          },
+          "hash": "10d0b76df965d9fd575ed904c767e36521620838",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15060$215220C9-CAB5-47D7-93A6-0C5D6303EE33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15060$FE616444-A78C-4F18-BF00-903CA4E1A6EC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1322-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1bec8ece5c3f1183e827421beac51c34114c4447",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15060$BB66808C-C5E6-4912-8B8F-CC9BAA7EFA7F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1340-05-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f93f04c176962fbbe470bd40f549ee64be1946b9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15060$CA72AF8E-D347-4DA2-A8AC-82FB7EDEBDB1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11246628"
+          },
+          "hash": "62500d251e84251836beaa574e4d81a2b6b8d714",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15060$B7E2C6FB-EE26-4983-A8C5-2D929EFB08E7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shimazu Munehisa Arms.svg"
+          },
+          "hash": "8a25ad87787cdf7b218d4addc378a7e415d48e39",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "military commander of the Northern and Southern Courts period of Japan. The second son of Shimazu Sadahisa, the 5th head of the Shimazu family"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の南北朝時代の武将。島津宗家5代当主島津貞久の次男。"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q15060",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Shimazu Munehisa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Shimazu Munehisa"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shimazu Munehisa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shimazu Munehisa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "島津宗久"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Симадзу Мунэхиса"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Shimazu Munehisa"
+    }
+  },
+  "lastrevid": 17414924,
+  "modified": "2025-09-16T00:16:14Z",
+  "ns": 860,
+  "pageid": 37352,
+  "sitelinks": {},
+  "title": "Item:Q15060",
+  "type": "item"
+}

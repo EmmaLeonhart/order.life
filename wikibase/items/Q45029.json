@@ -1,0 +1,281 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Ju"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q45029$F07638EC-9C7D-450F-9364-F5BD1F2870FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53445",
+              "numeric-id": 53445
+            }
+          },
+          "hash": "004cb42da5f6f5d524958d94dc3ca66e14ccf877",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45029$81711BFF-E6C1-4CB5-9178-94009460472F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53441",
+              "numeric-id": 53441
+            }
+          },
+          "hash": "6264af538074676ba4bac8043c1faf6d04bd12f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45029$146BDB71-7EFF-41A6-81F9-83ACC94D5F17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45029$14F7010D-15A5-4942-B991-45B24093660E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45029$33BE5EFD-7C6A-4517-B4B1-46C029127A0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23256",
+              "numeric-id": 23256
+            }
+          },
+          "hash": "4769019d3251ba1427114f649d888dcb0b893ac5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45029$C769A11D-DEC0-407F-B00B-8B24C194D655",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45029$CF1B3532-45EB-4A70-974B-75274D523958",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45029$9432C2A7-DB37-45D3-A587-041255A1D95E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0669-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "838450a9cc21878e777ce353381dce7c3b686e97",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45029$655D886A-FE69-44D3-97DE-416ADE22912B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q22813931"
+          },
+          "hash": "7e4e23ac5c576c4ec9982afe3235d755a7c8144d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q45029$4C420B05-5F1E-4FB5-85C5-68BADD0553A4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000021151256523"
+          },
+          "hash": "9f19c907507c732cc0f5239173d2904e6767afd3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45029$B1EAA57D-E866-4697-B386-9C0F74B7E197",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Ju Arms.svg"
+          },
+          "hash": "f6a401daaba4cbc9e0e4522270a7771b273f7310",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 171687"
+    }
+  },
+  "id": "Q45029",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Ju"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Ju"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭鉅"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Ju"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Cự"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "萧鉅"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧巨"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭鉅"
+    }
+  },
+  "lastrevid": 17449372,
+  "modified": "2025-09-16T09:45:00Z",
+  "ns": 860,
+  "pageid": 61455,
+  "sitelinks": {},
+  "title": "Item:Q45029",
+  "type": "item"
+}

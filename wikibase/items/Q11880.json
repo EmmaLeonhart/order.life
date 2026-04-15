@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Mitsunaga"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q11880$F812C234-2A7D-4FCA-8D08-72E5C80663DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12694",
+              "numeric-id": 12694
+            }
+          },
+          "hash": "163488e3cc0aae169eb928a790b37763a1a535c1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11880$14DAF3AC-C8F0-45AC-8741-4B47EFCF627F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12693",
+              "numeric-id": 12693
+            }
+          },
+          "hash": "bedf87b797d6c5ce992de16dcc0c5e25edae703a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11880$920B9DBE-6B5C-44A8-A4FE-E67902564A9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11880$DF22D201-190D-45C6-9723-573535B916CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11880$A088FD82-585D-416C-A787-35B5F14570B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11116",
+              "numeric-id": 11116
+            }
+          },
+          "hash": "b43c8d2550138c22fc3e4555c1224d735afaab35",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11880$D5656AF9-0BE6-481B-8319-6788C7D2E3AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11880$3FCEC0F9-13BB-4A7A-8A85-204022EA304C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1184-01-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "340898588a150cbe31f3de2f493fa2e39cfc31a0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11880$C032A868-5D01-49E6-B31C-D587CCA3CE02",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564012"
+          },
+          "hash": "3516cd533e2ab47a8f6ffae14af0d3c5993b87e5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11880$1527D30E-10FD-4308-93BE-26CBF8E27353",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Mitsunaga Arms.svg"
+          },
+          "hash": "74b9a885dc1b921d4eb3a4ed67af876c09b54fa5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期の武将。従五位下、検非違使、左衛門尉、伯耆守。子に源国長"
+    }
+  },
+  "id": "Q11880",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Micunaga Minamoto"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Mitsunaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源光長"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "土岐光長"
+    }
+  },
+  "lastrevid": 17413222,
+  "modified": "2025-09-15T23:52:36Z",
+  "ns": 860,
+  "pageid": 34233,
+  "sitelinks": {},
+  "title": "Item:Q11880",
+  "type": "item"
+}

@@ -1,0 +1,422 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Konoe Motomichi"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11588$6377A889-E063-4467-A27A-CB62461ABEB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "805035"
+          },
+          "hash": "bc4cee08de6201ea4868bfd8a66b886d567a51ce",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q11588$89CEA419-6179-4189-808D-271883B61451",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12430",
+              "numeric-id": 12430
+            }
+          },
+          "hash": "ede19bf5be3c28640a439ba3dfa4386a2c544a62",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11588$29E68DC0-35BA-4A9F-9C4F-23D17E0547C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12444",
+              "numeric-id": 12444
+            }
+          },
+          "hash": "5bc52756eca8ffee24b5311f747924874d016a02",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11588$2A9861D9-D22A-462D-B361-064F62ECA077",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12445",
+              "numeric-id": 12445
+            }
+          },
+          "hash": "4f58962e128ca273d4152258f3e05aea1a510de7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11588$5FE0277C-5893-45E1-A1D2-1602315F76EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11588$EC2FB69D-7D49-4A94-B57E-02A9E7F99535",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11588$1E29CC21-799F-4173-B3DA-8B301B2A5CB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10906",
+              "numeric-id": 10906
+            }
+          },
+          "hash": "76c4fb79ac2cbfa6716d61e24be0afb0ed8ce65e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11588$518122CA-3F5F-4306-9290-38E1C856B594",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11588$2825EB23-0DE9-401A-96D7-630BA8A53966",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1160-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6d714eefefc84e27a47393edd50644d405eb7542",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11588$886AED82-25BD-4DE3-8D8D-B418588985C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1233-07-08T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd4bbdffc0bfaa15fa6519f042d8db9ac0c7056f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11588$A53D741B-661E-4A12-8351-D6F24650B006",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Konoe Motomichi.jpg"
+          },
+          "hash": "c97f7e79913f4f7a1feb7efdb808b5dbe160251b",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11588$C0E4A434-76B0-4EE9-987E-FA29B23282AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q367538"
+          },
+          "hash": "1cfa2ac66c8aa55f46a2cbbf50022fd7d620f4df",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q11588$7B78EB3D-34F7-40B1-87B5-EA87E912E817",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Konoe Motomichi"
+          },
+          "hash": "cdfaddf4feb012afcb2daed47e8e3962e1e1948a",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11588$2FED4C8F-D94C-41AB-A1BA-5909A20EECDB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Konoe Motomichi Arms.svg"
+          },
+          "hash": "a16bb453be157f930f3e0c88b3ed0a3ec7599275",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ساموراى من اليابان"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1160–1233)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "noble i polític japonès"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Regent"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kugyō and kampaku"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "noble de l'époque Kamakura (Japon)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期から鎌倉時代初期の公卿。近衛基実の長男。従一位・摂政、関白、内大臣。近衛家2代。子に円忠（1180-1234、大僧正。三井長吏。聖護院11代門跡。千光院。青竜院）徳川家康の遠祖に当たる。（近衛道経の記事を参照。）"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1160-1233)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński samuraj"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "nobre do final do período Heian da História do Japão"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Foi um nobre do final do período Heian da História do Japão"
+    }
+  },
+  "id": "Q11588",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كونوى موتوميتشى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Konoe Motomichi"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Konoe Motomichi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konoe Motomichi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Konoe Motomichi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Konoe Motomichi"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کونوئه موتومیچی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Konoe Motomichi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "近衛基通"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고노에 모토미치"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Konoe Motomichi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Konoe Motomichi"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Konoe Motomichi"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Konoe Motomichi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мотомити Коноэ"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Konoe Motomichi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Konoe Motomichi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Коное Мотоміті"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "近卫基通"
+    }
+  },
+  "lastrevid": 17413040,
+  "modified": "2025-09-15T23:50:04Z",
+  "ns": 860,
+  "pageid": 33952,
+  "sitelinks": {},
+  "title": "Item:Q11588",
+  "type": "item"
+}

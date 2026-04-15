@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rokkaku Ujisato"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23804$2FD91EAC-F1D2-4072-8BB6-DC7C1D2F956B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23804$9427E397-9B00-450A-8044-CCEA27A82442",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23804$FD75642B-936F-474A-A3CB-2FBEC9EA0093",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21478",
+              "numeric-id": 21478
+            }
+          },
+          "hash": "08c8427a8186bff96ad934cf34226b6a6cc910e5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23804$86E6A53B-0CA9-46DF-A512-54FFA7F649D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23804$50EF8447-35F5-44F3-9B5E-739F38153E18",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1621-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "61e8c7465420925cd53b0bc8f2bdcf3237a0d48a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23804$5F09C94C-0ECE-4D33-9BA5-6E1B5D8D80B9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1693-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "285143b14021962eb478733a38386fd8c7d54ea6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23804$AA1E2279-1C77-41A4-8622-7E245EC897F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11392544"
+          },
+          "hash": "ae8635c0c2bd0b11e7c1d02616b0efbf70f42ee5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23804$229AA06D-1A81-40E0-AB86-D13769B3B7E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rokkaku Ujisato Arms.svg"
+          },
+          "hash": "26554ec1a628e3cdef72a993798e6a9ba6799dcc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "『江源武鑑』の著者とされる人物"
+    }
+  },
+  "id": "Q23804",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Rokkaku Ujisato"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "六角氏郷"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Удзисато Роккаку"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Rokkaku Ujisato"
+    }
+  },
+  "lastrevid": 17422874,
+  "modified": "2025-09-16T03:09:58Z",
+  "ns": 860,
+  "pageid": 45613,
+  "sitelinks": {},
+  "title": "Item:Q23804",
+  "type": "item"
+}

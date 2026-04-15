@@ -1,0 +1,418 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thoros III //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q49768$7EC22C4B-2F16-4D07-A5AC-B239D7297E12",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00293048"
+          },
+          "hash": "47f5e22181dbaae523423dc3fc98d4ed37db2d28",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q49768$F303B328-9185-4746-AF7F-77E958545F1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55156",
+              "numeric-id": 55156
+            }
+          },
+          "hash": "0c016bbe3c4ec4023acd1cc73bb7760803363cd4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q49768$D2A82F40-3405-4182-895E-3AC7E24C43D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q49768$875539C6-2B03-4A04-8A14-1CFBC2DE1FFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q49768$42B2AE56-9631-40DA-A662-806CB3B150B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Thoros_III,_King_of_Armenia_(1)"
+          },
+          "hash": "14475cf8ca64602714d29a9655c73344cceecdc4",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q49768$BFA0BD66-C8D4-4B54-87E3-A7946F2C9DAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55152",
+              "numeric-id": 55152
+            }
+          },
+          "hash": "1543796c9ca4d13ff134d7ee6a7aa22f8e28c21a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q49768$DC6BCCFD-D82E-4332-A139-16B03624C3B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49740",
+              "numeric-id": 49740
+            }
+          },
+          "hash": "7d1e0f5bdcad0ea64765e720248362d61cc847c8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q49768$7175755E-AF94-4E15-92B6-07D64FDF851C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49744",
+              "numeric-id": 49744
+            }
+          },
+          "hash": "48e548884838fe4f9e5bdff288c7535a969b6751",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q49768$D257FE87-FA23-4F67-A36F-87E485081FE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q49768$ED487585-430B-4FC9-B660-8368904EBE64",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1270-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "48bf5355209843c943f1c156c617e83862eb5a50",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q49768$66FE3967-882A-4357-8054-29B26537D155",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1298-07-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "807fb75443ea3b389e5cbaaa3742834f14b9bee1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q49768$243807AA-C0DF-43BC-9144-8E46ADE2F00D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888141"
+          },
+          "hash": "0e2627c1d5f9a391c42714272eaecd070d949302",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q49768$B8BCBB0F-4C10-4B8B-8AA9-2196E6A70798",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=thoros;n=hetoumide"
+          },
+          "hash": "8364d0167d6fb4853aa0c2961edf9af9e29bbe46",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q49768$7E6B1D37-0062-42DC-A034-875CFA8B645A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thoros III Arms.svg"
+          },
+          "hash": "bc36c3f5a14852c070405f66626acb1fe6ff7680",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Kleinarmenien"
+    },
+    "el": {
+      "language": "el",
+      "value": "βασιλιάς της Μικράς Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Armenia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Arménie"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ארמניה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Kilikiai Örmény Királyság (Kis-Örményország) uralkodója"
+    },
+    "it": {
+      "language": "it",
+      "value": "re della Cilicia armena (r. 1293-1298)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "konge av Armenia"
+    }
+  },
+  "id": "Q49768",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ثوروس التالت"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Toros III"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Thoros III. Arménský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Thoros III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Θόρος Γ΄ της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thoros III"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Toros la 3-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teodoro III de Armenia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "توروس سوم، شاه ارمنستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Thoros III d'Arménie"
+    },
+    "he": {
+      "language": "he",
+      "value": "תורוס השלישי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Torosz örmény király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Թորոս Գ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodoro III d'Armenia"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "თოროს III"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Thoros III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thoros III van Armenië"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Торос III"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Toros III. Kilikijski"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Торос III"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "多罗斯三世"
+    }
+  },
+  "lastrevid": 17455702,
+  "modified": "2025-09-16T11:15:54Z",
+  "ns": 860,
+  "pageid": 64993,
+  "sitelinks": {},
+  "title": "Item:Q49768",
+  "type": "item"
+}

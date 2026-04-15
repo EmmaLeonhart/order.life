@@ -1,0 +1,282 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Costanza Morosini //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q54700$7623EC44-C860-4C6D-A683-C71FD823DB01",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00764764"
+          },
+          "hash": "73ce9101c7fefc5cfb601057d791f6d210bd0101",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54700$84AE5786-3234-48A8-9763-E2C173361F9F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54700$5236676D-51C9-4CDE-97B2-62378BD50EE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q54700$17498FF1-86D6-4EB4-92F4-63277B36B6F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49652",
+              "numeric-id": 49652
+            }
+          },
+          "hash": "4c14dd2de35390c054623624eba80ebc0439712c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54700$66262149-7603-44B0-BDA9-87648F8F296C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54700$16C5652E-CFBB-4800-A794-EA9F1149C151",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1275-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3b556f44c642c1c26d7bf29eb64d9e6b175f37a4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54700$50575D18-EE52-4EFD-B979-8303D7B23F5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1324-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8bada34eb12f405411ca49ce226b19a336b69694",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54700$528E5E47-3EFD-49C7-814D-462D7F552E76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q23015724"
+          },
+          "hash": "a64c7615c851f8cc71cdcd47703f059dad5dd757",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q54700$BBCDD1B2-1BB4-43DE-84E3-AA7EBC50B006",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Costanza Morosini"
+          },
+          "hash": "c92bea6bded3496f486aaee4ce6b73c3f485141a",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54700$3AECA471-1F61-4DD8-AE5A-0B10407658FB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Costanza Morosini Arms.svg"
+          },
+          "hash": "163a757c612f8ce017f42acdbc22e383cffbdf00",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Queen of Serbia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine de Serbie"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina consorte di Serbia"
+    }
+  },
+  "id": "Q54700",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Costanza Morosini"
+    },
+    "de": {
+      "language": "de",
+      "value": "Costanza Morosini"
+    },
+    "en": {
+      "language": "en",
+      "value": "Costanza Morosini"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Costanza Morosini"
+    },
+    "he": {
+      "language": "he",
+      "value": "קוסטנצה מורוזיני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Konstancija Morosini"
+    },
+    "it": {
+      "language": "it",
+      "value": "Costanza Morosini"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Costanza Morosini"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Costanza Morosini"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Констанца Морозини"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Констанца Морозини"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Costanza Morosini"
+    }
+  },
+  "lastrevid": 17462330,
+  "modified": "2025-09-16T12:53:50Z",
+  "ns": 860,
+  "pageid": 69531,
+  "sitelinks": {},
+  "title": "Item:Q54700",
+  "type": "item"
+}

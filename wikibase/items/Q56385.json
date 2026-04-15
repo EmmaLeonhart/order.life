@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Akizuki Tanetoki"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q56385$80658014-4C45-42C1-B8E1-274F83F0CF31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47765",
+              "numeric-id": 47765
+            }
+          },
+          "hash": "e4a88fa7e9f1eb9b961f76422483856514f45ea4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q56385$973C67BD-587C-4AAC-8554-B13F76D94F89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56385$90A15C07-FDDD-44D5-BC98-DF5B9AEA68A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56385$B29C583A-606F-4B96-B5D9-101C8BBB1553",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56385$50C09AF2-1C0A-4574-9632-AEC866E1EFD1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1490-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e51b527f03d602076fb2198e4c03bb1b9e3fdf7b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56385$BE7F7B74-EAB1-4913-9D1D-80E6D479906B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1531-04-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "72f2d374580904f6e9a94fd28af2f88e14c55e7a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56385$D3A79C26-5239-4C00-819C-89223B987470",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11595124"
+          },
+          "hash": "721e11b911301d4c53aff0a5ce4256c06d9db197",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56385$0FC24BB1-187D-4D67-8CCD-E77F9C85E23B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Akizuki Tanetoki Arms.svg"
+          },
+          "hash": "d876d3ecdc10fba28f10b38ccaa9b52eb741a5e7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の武将。大友家の家臣。筑前国人衆秋月種朝の子で、秋月氏14代当主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q56385",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Akizuki Tanetoki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "秋月種時"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Танэтоки Акидзуки"
+    }
+  },
+  "lastrevid": 17464808,
+  "modified": "2025-09-16T13:31:10Z",
+  "ns": 860,
+  "pageid": 71216,
+  "sitelinks": {},
+  "title": "Item:Q56385",
+  "type": "item"
+}

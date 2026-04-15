@@ -1,0 +1,332 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Irene Angelina //"
+      },
+      {
+        "language": "en",
+        "value": "Irene Angelina"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q45921$F7D34A77-0A68-490B-883E-78843143022F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00293031"
+          },
+          "hash": "9d6d3741be557c64267aae22a633e25cd30f887f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q45921$17E30318-3BB7-42FE-8F61-ABD36B930154",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43180",
+              "numeric-id": 43180
+            }
+          },
+          "hash": "ec950d3b44d5304f21a642bd1669d257486ab297",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45921$178D442B-5507-4306-8899-5FBCB2946438",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45921$C02A63DB-EC21-458B-B3A8-EBE6AF6D4F8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q45921$332BEC9A-8A5B-40BF-A32F-36CABCDDFC08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45917",
+              "numeric-id": 45917
+            }
+          },
+          "hash": "ccc6fc54cec420f5fc72a80ae101e756e5d6e87e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45921$AC21E68F-F552-4224-B9F9-0390F56429A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49366",
+              "numeric-id": 49366
+            }
+          },
+          "hash": "5d2671b164bfb9fa54668e85564a5bbf2a904744",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q45921$FBD6C075-EC2C-48B2-8DD4-F2DBF8CCC16A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49370",
+              "numeric-id": 49370
+            }
+          },
+          "hash": "2b8283d6717d07d3dad2e9c96db57564f94bfd72",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45921$912B420F-8B22-4EE8-88B8-5AA5E2A54DDC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45921$E7435D8B-9F80-424D-893C-86771D67C218",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d2c7952c894813ea4bef837cfb3667832aecef5d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45921$8D442F34-AEE7-443B-A86D-721DC35A7E50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1203-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ecac5411117630face68211ed1b5df26cc028525",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45921$6AFC2700-04FD-4BC3-B2B6-2A47D83C631D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12900548"
+          },
+          "hash": "9ee07e49f425c453c834e7778a63103231016c5c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45921$C74EE2B7-8FE5-4608-9D9C-D3F35ACD6B3E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Irene Angelina Arms.svg"
+          },
+          "hash": "cbdb04bc0543be7bd96bf388dd2f3a6d135cf7f6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "византийска принцеса"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Alexios III Angelos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse byzantine, fille d'Alexis III Ange"
+    }
+  },
+  "id": "Q45921",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Irene Angelina"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ірына Ангеліна"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Ирина Ангелина"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Irene Angelina"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ειρήνη Αγγελίνα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Irene Angelina"
+    },
+    "es": {
+      "language": "es",
+      "value": "Irene Ángelo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Irène Ange"
+    },
+    "it": {
+      "language": "it",
+      "value": "Irene Angela (nonna di Michele VIII)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Irene Angelina (Alexii III filia)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ирина Ангелина"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Иринa Анђел"
+    }
+  },
+  "lastrevid": 17450650,
+  "modified": "2025-09-16T10:03:15Z",
+  "ns": 860,
+  "pageid": 62122,
+  "sitelinks": {},
+  "title": "Item:Q45921",
+  "type": "item"
+}

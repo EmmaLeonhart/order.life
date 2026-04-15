@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Gyeongdeok //"
+      },
+      {
+        "language": "en",
+        "value": "Princess Gyeongdeok"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q35146$A73D87C2-A26D-4B27-8FBC-32C5F0E33EB9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q35146$F9C20029-F4A9-4649-BAD4-D70B173DB44E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q35146$7CB77CAA-A805-457E-94B7-16111BCFD7D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34814",
+              "numeric-id": 34814
+            }
+          },
+          "hash": "5080bddeb50e0f5ecd4258381cf43e8e4273480b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q35146$1EDE969F-B2BC-4A8F-8041-4FEEF7AC6D19",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34849",
+              "numeric-id": 34849
+            }
+          },
+          "hash": "035491c0b3871a3e44bb33973c6fa1b22cc30234",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q35146$83AF216E-AC5E-4375-9F94-326653A5272E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q35146$9194B676-A8A9-45B8-A52D-9C2E885218B6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6b82228e40b49ac78d87276e6c572573a2b3926",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q35146$99BF5F70-9F33-4914-BB3A-75E3E9B93E00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12583609"
+          },
+          "hash": "54a344ab5226f4ac30d67aa6dba1b6bf9f3e979c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q35146$1C1E09CD-CE22-4DF3-805A-0D879AD089A7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Gyeongdeok Arms.svg"
+          },
+          "hash": "89b33fa19d715f1e6ed74fd3f971174fd34362c9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q35146",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Princess Gyeongdeok"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "경덕궁주"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "敬德宮主"
+    }
+  },
+  "lastrevid": 17436618,
+  "modified": "2025-09-16T06:40:59Z",
+  "ns": 860,
+  "pageid": 54065,
+  "sitelinks": {},
+  "title": "Item:Q35146",
+  "type": "item"
+}

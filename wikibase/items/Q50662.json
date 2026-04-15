@@ -1,0 +1,187 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "肝付兼演"
+      },
+      {
+        "language": "en",
+        "value": "Gan Fu Jian Yan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q50662$BB0CD2F9-6FF5-4132-ADE6-37461BD44895",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24794",
+              "numeric-id": 24794
+            }
+          },
+          "hash": "8948843e3218e296d2e88e2b77a9f662fc4705d5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q50662$EC803888-7E52-4EDB-A89B-5403DA6815BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50662$FA68025F-951E-48D5-80B1-084A2C2D23DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50662$875844EB-E9F3-451C-9B95-D7B19FD9996C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50662$9CCBEA3D-25A5-495C-9740-600E92588F88",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1498-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "23975895ba9b4a09af6ee3ead63a9a88e57e8685",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50662$B81E01F7-09B1-417E-9BD5-537D0AB3B533",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1552-08-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6eea7327a6d8b0e19ff218b37f0be3a7f24d2734",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50662$01C5972F-873B-4878-87EF-16EB46EEE5C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15830872"
+          },
+          "hash": "401eb653460c528d178dba071696070d206cd54e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q50662",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "肝付兼演"
+    }
+  },
+  "lastrevid": 17456956,
+  "modified": "2025-09-16T11:34:29Z",
+  "ns": 860,
+  "pageid": 65661,
+  "sitelinks": {},
+  "title": "Item:Q50662",
+  "type": "item"
+}

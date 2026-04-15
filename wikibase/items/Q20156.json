@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Honda Tadachika"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20156$FADFFBA5-FD8E-47BA-8ED5-44CE640923A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20156$14A3E8CA-23A9-4E4C-9A12-3E83E0C6E9FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20156$83FB59C4-104C-4837-A73D-106A063BF7DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18507",
+              "numeric-id": 18507
+            }
+          },
+          "hash": "b245b0c09a43d5a065313259a73a5141e6715ca6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20156$B8E6CAD7-EEF2-4D9D-91A0-6B048E936778",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20156$2E3CA6A9-81D4-42D0-ACD8-D884061B081E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1642-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5febb222dcf8f376d5cac55ab061167e45d69ba4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20156$780C2B2A-44FA-4854-95F6-077854ED8AA7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1712-08-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "704f4812d9378fe1800966c01c0adb7d05de8ad4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20156$E543FBE4-7385-4C7F-A886-D3895C4658C2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11520009"
+          },
+          "hash": "2a92f1ba26b460b167dce9134f9c09f4527aa506",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20156$F024ADC3-5563-44F7-83BB-7A65EDA190A5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Honda Tadachika Arms.svg"
+          },
+          "hash": "8dcc35a0228a4ce5f42bff9f7ef165bd92d08996",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q20156",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Honda Tadachika"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "本多忠周"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тадатика Хонда"
+    }
+  },
+  "lastrevid": 17419300,
+  "modified": "2025-09-16T01:52:40Z",
+  "ns": 860,
+  "pageid": 42250,
+  "sitelinks": {},
+  "title": "Item:Q20156",
+  "type": "item"
+}

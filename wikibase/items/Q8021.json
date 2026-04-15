@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yoshimine no Nagamatsu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8021$607B3ABB-639A-40F6-AE48-5D5F7E57EA17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8021$A87E6C3D-171B-48D8-B43F-B55271BCD10D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8021$BD43908D-67EC-4231-9A2C-356E645669F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7730",
+              "numeric-id": 7730
+            }
+          },
+          "hash": "e0f5b30f48972ba65be8fbe34d0ba34ebe9f9925",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8021$1C677221-26F4-4DD0-B04E-3C8524EC3762",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8021$2001B0EF-6EFB-4DB6-85EF-A0F5705E7C9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0814-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b132c91bc056f0a50ee7e65662b1aecb432d3136",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8021$B2B10EE8-2A1F-4DCB-AB50-4E455B27D77E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0879-12-26T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c76e6f78f5e391e04a2f9aa7c9940981d9aa253",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8021$1E7B4A33-F4D4-4E77-9026-067E84EF3FF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11614407"
+          },
+          "hash": "84ef2683cd97b6afab47f55d0572c4d1290d98df",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q8021$C50A661C-E51A-45BC-B48B-BBAA3C2A1D8B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yoshimine no Nagamatsu Arms.svg"
+          },
+          "hash": "1b0d492ee0f431776c68aa4bb8f7cc7bd743dc91",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8021",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yoshimine no Nagamatsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "良岑長松"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёсиминэ-но Нагамацу"
+    }
+  },
+  "lastrevid": 17407948,
+  "modified": "2025-09-15T22:41:22Z",
+  "ns": 860,
+  "pageid": 30512,
+  "sitelinks": {},
+  "title": "Item:Q8021",
+  "type": "item"
+}

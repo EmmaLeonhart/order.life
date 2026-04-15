@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Yoritaka"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q11822$1333C029-E30A-4482-8517-5528BEC6620A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12650",
+              "numeric-id": 12650
+            }
+          },
+          "hash": "a37ef0869f9ef11f8d839e038087b30cb5f717d9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11822$FA4123D1-AE7D-4D40-8ADB-6341CE9B69CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12651",
+              "numeric-id": 12651
+            }
+          },
+          "hash": "d2ed11e20bb1d717db906b46bf8eecfd9e0b6759",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11822$5525CAB7-5052-4A95-B0A1-703927F09D23",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11822$BCC83866-6745-4442-A34C-6F8E0043E63C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11822$0ED57F97-4CFE-4184-92F4-B6FE27249A9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11065",
+              "numeric-id": 11065
+            }
+          },
+          "hash": "ca45e52d7d8bb995ad27d6b10b58946c773c9711",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11822$93A6F4BE-F221-4E86-B1D9-F7D3072EDB7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11822$C9E8DD2B-4D0A-4B07-B4A8-466A610F6A1C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1159-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "844af7067c6e7f1e02b99ceba9f1c951b0ee8888",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11822$5580115B-E835-446F-859E-60A8AC367ADE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11564367"
+          },
+          "hash": "bd8fba4ef923336974d7667cb1fb5323bfcd4677",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11822$6D7263B6-EE2D-4D06-8D8C-E8625FAE7908",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Yoritaka Arms.svg"
+          },
+          "hash": "05581c47a697c6203f5797943c1387f817ea5f2a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "平安時代末期、鎌倉時代初期の武将。源義隆の三男。信濃水内郡若槻庄。伊豆守、従五位下"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q11822",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Minamoto no Yoritaka"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Yoritaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源頼隆"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Minamoto no Yoritaka"
+    }
+  },
+  "lastrevid": 17413178,
+  "modified": "2025-09-15T23:51:59Z",
+  "ns": 860,
+  "pageid": 34177,
+  "sitelinks": {},
+  "title": "Item:Q11822",
+  "type": "item"
+}

@@ -1,0 +1,621 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Go-Tsuchimikado"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q17387$3114AE90-8F92-4C94-8153-D0C795F50262",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "485519"
+          },
+          "hash": "b1ceeb2a8545d10e89c0ed47ea94e144b0c8d91d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q17387$18FA5DDD-99DD-42DF-8BB2-3474A5D68ED4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523425"
+          },
+          "hash": "270c38ffbef629c7c9c687db75f9f88cfd624de5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q17387$4EB72F43-D096-41CB-9538-837E41A639AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18928",
+              "numeric-id": 18928
+            }
+          },
+          "hash": "44150b9e90e7ee63777ab4e490991d8bd954b3a7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17387$FD7BB17E-D97D-49EE-B758-8A78F65F8B95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18929",
+              "numeric-id": 18929
+            }
+          },
+          "hash": "62355150db4eddd97bb059a95a66f4c08c70c99b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q17387$EC4C1A4B-C582-4073-8A31-8179F50BD65E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Go-tsuchimikado-tennō_後土御門天皇-1"
+          },
+          "hash": "9847a6ac2b798a0f8c4539243b3266b9d1b039b1",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q17387$C13A4F0A-8611-42CA-A1C1-EDCC1BB471BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17387$06EC7810-D9A4-4796-AA62-277D6E53F3F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q17387$C842A5E2-35B2-4D13-B73C-B16B3503A483",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18926",
+              "numeric-id": 18926
+            }
+          },
+          "hash": "5d4056ca005a6b52845e4c54cf1af09ef9f12d90",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17387$0B8BFB2C-1161-406B-A9E7-03DD47E579D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31043",
+              "numeric-id": 31043
+            }
+          },
+          "hash": "e58962ba541ffe4fda55401c6508f02abd4f0426",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17387$8A105ECB-2138-4D5E-B528-BEDD73686CD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18908",
+              "numeric-id": 18908
+            }
+          },
+          "hash": "fc799022a262f87e96e40944a11b372681ac5e50",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17387$16BCE144-000B-4498-A90D-BC36E26ADB74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16275",
+              "numeric-id": 16275
+            }
+          },
+          "hash": "a3c4aa5e7af5f0f1bfd026676ae2704105aa1057",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q17387$CE4F0BD2-246B-447A-BD11-B020441491FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27718",
+              "numeric-id": 27718
+            }
+          },
+          "hash": "b0b0bbdc0b1d3e894953138cd44a015de66a5685",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17387$B0B7323B-8828-4CA5-9B24-FE7261FFBCB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17387$52C37935-1EFE-42B5-BF76-39C0C5C9B81F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1442-07-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "23452ad8f94f6bb174f0237fdd9d160a5797204b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17387$340918E9-4BAC-4B45-9F32-421820AA7A3F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1500-10-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3e57bb0921371e880dcbb784d075ad6277b10577",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q17387$95848BA5-B41B-4B0C-A9AB-E4BF154AF5E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Go-Tsuchimikado.jpg"
+          },
+          "hash": "8d5790f031b52f114b682761a1c0edfe2f6af5b7",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17387$F1CF9C51-D77E-45DE-8788-284AA85771A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q380623"
+          },
+          "hash": "e372e237b6f353f6c0d1f66c241566eee06260c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q17387$4D55DDCC-9481-46A7-9B99-FCF7829F6ADE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011627118319"
+          },
+          "hash": "38c56c1ce7bb7e7104fcec14a7dc1944e2a8e5df",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17387$75105449-9E25-4828-AD05-0CE3B905ED66",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Go-Tsuchimikado Arms.svg"
+          },
+          "hash": "704da8d9c97905f077e3fcc54995c3108b21cd50",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (1442–1500)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "103. Tennō von Japan"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of Japan"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "la 103a tennoo de Japanio, kiu reĝis de 1464 ĝis 1500"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador de Japón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon de 1464 à 1500"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の103代天皇（1464年〜1500年）、後花園天皇の長男"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "जपानचा सम्राट"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Ashikaga-shogunaat (1442-1500)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński władca"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "103-й император Японии, синтоистское божество"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare av Japan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本第103代天皇"
+    }
+  },
+  "id": "Q17387",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "غوتسوتشيميكادو"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "قو-تسوتشیمیکادو"
+    },
+    "br": {
+      "language": "br",
+      "value": "Go-Tsuchimikado"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر گۆ-تسوچیمیکادۆ"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Go-Cučimikado"
+    },
+    "de": {
+      "language": "de",
+      "value": "Go-Tsuchimikado"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αυτοκράτορας Γκο-Τσουτσιμικάντο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Go-Tsuchimikado"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Go-Cuĉimikado"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Go-Tsuchimikado"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور گو-تسوتشیمیکادو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Go-Tsuchimikado"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Go-Tsuchimikado"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Go-Tsuchimikado"
+    },
+    "it": {
+      "language": "it",
+      "value": "Go-Tsuchimikado"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "後土御門天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고쓰치미카도 천황"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "गो-त्सुचिमिकादो"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Go-Tutimikado Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Go-Tsuchimikado"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Go-Tsuchimikado"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Go-Tsuchimikado"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Go-Tsuchimikado"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Го-Цутимикадо"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Go-Tsuchimikado"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Go-Tsuchimikado"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Go-Tsuchimikado"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิโกะ-สึชิมิกะโดะ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Go-Tsuchimikado"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Go-Tsuchimikado"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Ґо-Цутімікадо"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Go-Tsuchimikado"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Go-Tsuchimikado"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "後土御門"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "后土御门天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "后土御门天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "後土御門天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "後土御門天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "后土御门天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "後土御門天皇"
+    }
+  },
+  "lastrevid": 17416922,
+  "modified": "2025-09-16T00:53:40Z",
+  "ns": 860,
+  "pageid": 39619,
+  "sitelinks": {},
+  "title": "Item:Q17387",
+  "type": "item"
+}

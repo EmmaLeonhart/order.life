@@ -1,0 +1,309 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince Vasily Vasilyevich of Yaroslavl //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q53656$B829C13D-694A-467C-9D57-43C49C01B747",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "182072"
+          },
+          "hash": "26b5d0ffd3288b3bf45929bfc36f933e66a92a92",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q53656$C7EE2323-5C27-4201-8422-D98C06E571D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00549470"
+          },
+          "hash": "aa5a334ef8b37498a88af32567bfadc01bb85573",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53656$CFB003ED-76F4-402A-8F8C-04B78CF07F12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53656$07E44624-8766-4BCD-A0F3-80238D05D49B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53656$71A926AE-6C45-4809-99ED-BD03684F0D50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49049",
+              "numeric-id": 49049
+            }
+          },
+          "hash": "97c0efdd02e36c20f634156d22109dece66423d9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q53656$19781AD4-ABD1-4604-9D80-CEE5241D92FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53652",
+              "numeric-id": 53652
+            }
+          },
+          "hash": "152808d87d1821c84e2a85c0428ebc23f4199879",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53656$CFC811AB-4A7B-46BD-ABD6-04FC91CB2F16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53656$6B338816-5560-4A29-9803-C29A40D7CC0A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1339-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4eb519ae6c7da5a0a4c1db8954aee3a8aed6f6fa",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53656$BD5325E5-26BF-4841-BB8B-8240E955FE4E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1380-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aaeaec415c1eecd451e3d0382f58220042b9fa2f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53656$49DA150E-50DD-460F-9869-251A2E1F059C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4104417"
+          },
+          "hash": "1152a237bc72da0305f9d563b6ef8873f32fdda8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q53656$CA9452C9-3CE2-436E-8EEB-AFABF131CCA7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=vassili;n=rurikides;oc=48"
+          },
+          "hash": "7188d31daded7a5b16d10088e8f144ae3a9c26c5",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q53656$290157CB-272D-4533-897B-DE14358B3B88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "sg.138630"
+          },
+          "hash": "521abd83e5ac04ce88e8117103e5f54a37711451",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53656$5DAC4E39-2D8C-477B-A87D-404DAF203241",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince Vasily Vasilyevich of Yaroslavl Arms.svg"
+          },
+          "hash": "6297043cd455017adaa2a8255844e7da645d4b38",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "ruský kníže"
+    },
+    "en": {
+      "language": "en",
+      "value": "1339 -"
+    }
+  },
+  "id": "Q53656",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Vasilij Vasiljevič"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wassili Wassiljewitsch"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince Vasily Vasilyevich of Yaroslavl"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヴァシリー・ヴァシリエヴィチ"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Василий Васильевич (князь ярославский)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Василь Васильович"
+    }
+  },
+  "lastrevid": 17460650,
+  "modified": "2025-09-16T12:29:12Z",
+  "ns": 860,
+  "pageid": 68487,
+  "sitelinks": {},
+  "title": "Item:Q53656",
+  "type": "item"
+}

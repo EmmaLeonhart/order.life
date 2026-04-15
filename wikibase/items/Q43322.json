@@ -1,0 +1,375 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "John Palaiologos //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q43322$45B5EED0-8268-4563-934B-0D6B516E72D8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00293015"
+          },
+          "hash": "8bb198549aaa65c7381a28deeecb65d2cc9c5485",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q43322$0915E06B-22F3-4D8E-A227-A69DA049C1D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46275",
+              "numeric-id": 46275
+            }
+          },
+          "hash": "fc4a998b0d7ee69e676333cc4667d93f92f58d74",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43322$1AF97665-AFD6-4CD3-9022-181447987D35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46279",
+              "numeric-id": 46279
+            }
+          },
+          "hash": "35eec4b2e0d60b1bc2b91910ac68fec267cc43bd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43322$0AE8AA6B-C0C5-4EBF-82CD-3FEB74431339",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43322$82B3A4C1-A704-4EB6-8887-A3E9ADB50604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q43322$C9EAA120-C6A1-40C6-B266-31AB2374D7D1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46271",
+              "numeric-id": 46271
+            }
+          },
+          "hash": "63b316a2a44a3fe3d00a584ea46f6d1d46d390c1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43322$5FA539F3-675B-4DF3-B0DF-30500D4EF0ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40979",
+              "numeric-id": 40979
+            }
+          },
+          "hash": "a868c14cea4017cff01af99b9069d526231bfe1b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q43322$81E32974-CB05-416F-BDDB-D305A317F257",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43318",
+              "numeric-id": 43318
+            }
+          },
+          "hash": "f4492096c6d61076613a87db736700a8a8b41741",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43322$435F878D-6CBE-42DC-90AA-875FFCE23F92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43322$60BDB29F-01CC-47F1-A2B7-09A0278C5C61",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1288-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "843779686ae5973ad481ce458d78da9b4cad96fe",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43322$77107AD7-4452-45AC-A47E-454A4DD700B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1327-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ddf44792551a73f6bdbd04a818319db1f88fccad",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43322$CB6EE488-10F6-4386-A37B-173CEBEE238B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1698119"
+          },
+          "hash": "8537bf3e9d3752b3dfe547699c3bb73eb6c40a30",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43322$4A7F6161-7032-4E95-9B0B-1F86CE861868",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "John Palaiologos Arms.svg"
+          },
+          "hash": "d4d3cfd2f3f8ae7c51d3528326e6674dbd6336ee",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Prinz von Byzanz"
+    },
+    "en": {
+      "language": "en",
+      "value": "governor of Thessalonica"
+    }
+  },
+  "id": "Q43322",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جون باليولوج"
+    },
+    "be": {
+      "language": "be",
+      "value": "Іаан Палеалог"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Йоан Палеолог"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan Paleòleg (cèsar)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jan Palaiologos-Komnenos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Johannes Palaiologos-Komnenos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννης Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "John Palaiologos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juan Paleólogo (César)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jean Paléologue"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni Paleologo (Cesare)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヨハネス・パレオロゴス"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Johannes Palaiologos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Johannes Palaiologos"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Johannes Palaiologos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Jan Paleolog"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "João Paleólogo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "João Paleólogo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иоанн Палеолог"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јован Палеолог"
+    }
+  },
+  "lastrevid": 17447404,
+  "modified": "2025-09-16T09:14:40Z",
+  "ns": 860,
+  "pageid": 60179,
+  "sitelinks": {},
+  "title": "Item:Q43322",
+  "type": "item"
+}

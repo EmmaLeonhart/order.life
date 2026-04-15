@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yanagawa Munekiyo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q20797$E84E5407-9AAF-4200-BB2C-0FD088F948CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20797$70C25171-A9DD-4A16-961D-4AA3851C01AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20797$16B0B714-4358-4347-9703-B8E431EF442D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19029",
+              "numeric-id": 19029
+            }
+          },
+          "hash": "71cb25224bb7d3d44b013bfbd71d0a7ec6b5c585",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20797$D9502D29-F0FE-4852-8772-82BA5F5FEB0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20797$4C1D5D03-8973-4FF2-A868-2EBFE37D07FF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1532-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1f661273ddb77bfc634a1458fd0440febd2029b7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20797$5660D79F-C132-4F8C-91E6-7C7A3164477C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1605-01-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2ede06e3f997adb214560644459756d1c34d7ca6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20797$E6FAC663-5146-4BC5-9C30-C43F53ECCD5D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11538340"
+          },
+          "hash": "afa185bf73dea26d851ffa17a0ca5ad8d49cad18",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20797$2090A5EB-9FF3-476E-B205-9E123A2ED4B8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yanagawa Munekiyo Arms.svg"
+          },
+          "hash": "6298ca7eb804d200dd46ef934ad975291d71d63d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から江戸時代初期の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q20797",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yanagawa Munekiyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "梁川宗清"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мунэкиё Янагава"
+    }
+  },
+  "lastrevid": 17419752,
+  "modified": "2025-09-16T02:05:50Z",
+  "ns": 860,
+  "pageid": 42867,
+  "sitelinks": {},
+  "title": "Item:Q20797",
+  "type": "item"
+}

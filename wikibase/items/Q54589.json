@@ -1,0 +1,353 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Constance of Sicily, Queen of Cyprus //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q54589$8CCB038E-B986-474A-A3DC-22412E9F1954",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00013530"
+          },
+          "hash": "26ee4352aa385d8ca9a1a6159047ce48db984269",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54589$DD2B6876-A4D9-4888-990D-06DA883CD5EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54589$5E1D1876-AD76-472F-82CD-BB1124C212CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q54589$298E74B1-ADCE-4F9D-A165-0396C7A51B0C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Constance_of_Sicily_(2)"
+          },
+          "hash": "c23560a40bfc4e15b16cdeaf724c7e89f916b019",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q54589$ECCE70FA-F7EF-41C4-A04D-682431D5C3F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55148",
+              "numeric-id": 55148
+            }
+          },
+          "hash": "bbe747d4f0b56f7c1723f3a9932befc27dfc749b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54589$8B19CDFE-3D33-484F-8B29-31B1724E3920",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54585",
+              "numeric-id": 54585
+            }
+          },
+          "hash": "6232e01e52775d9ce8cd8289c9436dba9c28a033",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q54589$423547D0-1A08-445C-85D6-2C8C7CCDA9D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49608",
+              "numeric-id": 49608
+            }
+          },
+          "hash": "701371679b8f339d42d28b837056c90ba5e1a098",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54589$193A4B60-5A40-41B4-ABD1-4F8C79F0955E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54589$F7F734C0-0D36-4AD8-93BB-F7E54676F2F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1303-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4d184d3a1cf11e347650d851cc37436bd182e09c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54589$73A9321B-831E-4FFF-B7EA-BD0CD79ADEE0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1344-06-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70a2a1ae8a3dd36ec6aecbf200e25067b00dff6e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54589$9B9C88E2-07FE-412F-BE4C-8E3462F8E4BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q378250"
+          },
+          "hash": "424358674e205a19b698a886f24b5e0b3bdf4dea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q54589$F9525E18-E420-4A0E-B7B5-48F8AF952DD6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=constance;n=de aragon"
+          },
+          "hash": "1455496d5449de237fb75da275d6b251e0b90a76",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54589$D989BB0B-FA3E-4B9E-B753-F6077925A5C3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Constance of Sicily, Queen of Cyprus Arms.svg"
+          },
+          "hash": "249b7c90918de7876b14743b448c915f251dc5f4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Queen of Cyprus, Queen of Armenia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Reina consorte de Chipre, reina consorte de Armenia"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ciprusi királyné, majd örmény királyné"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina consorte di Cipro, Gerusalemme e della Piccola Armenia"
+    }
+  },
+  "id": "Q54589",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Constança de Sicília"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κωνσταντία της Σικελίας, βασίλισσα της Κύπρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Constance of Sicily, Queen of Cyprus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Constanza de Sicilia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کنستانس سیسیل، ملکه قبرس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Constance de Sicile"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Costanza de Sicilia"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Aragóniai Konstancia ciprusi királyné"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կոստանցա"
+    },
+    "it": {
+      "language": "it",
+      "value": "Costanza d'Aragona"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Constance of Sicily, Queen of Cyprus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Констанция Сицилийская"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Konstantia av Sicilien"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西西里的科斯坦察"
+    }
+  },
+  "lastrevid": 17462164,
+  "modified": "2025-09-16T12:51:25Z",
+  "ns": 860,
+  "pageid": 69420,
+  "sitelinks": {},
+  "title": "Item:Q54589",
+  "type": "item"
+}

@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takeda Nobunaga"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q17344$DCADA377-287A-408E-9BFE-C1C70478194E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30935",
+              "numeric-id": 30935
+            }
+          },
+          "hash": "cdec47a7682bcf1ab3836d5148451722c826db23",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17344$DFEE13AE-C820-475E-877A-AC53D06E3BD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18882",
+              "numeric-id": 18882
+            }
+          },
+          "hash": "bd2c9af6ad9adf2427be9b1b659283ab6ffe0159",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q17344$62057AAB-E2D4-4A7B-9187-D59BA29F7D1C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17344$009D195D-4DA1-4485-A65C-EAAF906269C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q17344$5C90152E-34BC-4DA4-93E2-18E5D9FA0C39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27652",
+              "numeric-id": 27652
+            }
+          },
+          "hash": "d8b9f6f4f697f83ca66df196ddc17cab48861a41",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17344$D752945D-4D41-4921-9D77-4A2CAAD3F661",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17344$30233118-B47E-4667-A6B2-DF585E26601A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1477-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2d74ee84842ab5807d57f85597e4357eef4eedee",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17344$A9FDB155-E2C4-4A5C-AE4F-A508890EBEEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6639996"
+          },
+          "hash": "acca3ec1ec8d097027f9d3c6bd7396033ccdaeb1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17344$219AE221-2C89-4484-8147-C9842F2462D6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takeda Nobunaga Arms.svg"
+          },
+          "hash": "e3366ad67654be9e51375f6a3c9d6c638d13b20a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代中期の武将。甲斐の国人領主。武田信満の次男。右馬助。上総武田氏の祖。"
+    }
+  },
+  "id": "Q17344",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Nobunaga Takeda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Takeda Nobunaga"
+    },
+    "en": {
+      "language": "en",
+      "value": "Takeda Nobunaga"
+    },
+    "es": {
+      "language": "es",
+      "value": "Takeda Nobunaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "武田信長"
+    }
+  },
+  "lastrevid": 17416882,
+  "modified": "2025-09-16T00:52:41Z",
+  "ns": 860,
+  "pageid": 39576,
+  "sitelinks": {},
+  "title": "Item:Q17344",
+  "type": "item"
+}

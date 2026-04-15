@@ -1,0 +1,240 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Hirotsune"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q8459$9BA119BE-75A9-4314-8EB0-8067EEFCBAD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8756",
+              "numeric-id": 8756
+            }
+          },
+          "hash": "2d0a61ae0cd6c7163e632cdc21d048f66a8f5a8f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8459$D6A9B22E-783A-4BA0-B1BB-7D5BC47E6396",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8459$EB566635-5DED-4E9A-B38E-9E197ED827D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8459$FB5258A9-A8F0-4499-BD4C-325C8C010D4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8168",
+              "numeric-id": 8168
+            }
+          },
+          "hash": "7dcd3226f47d4a274b17f0eafb40d6972fe32452",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q8459$B0309E57-1AB5-414B-B3CF-32A4F457E8AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8350",
+              "numeric-id": 8350
+            }
+          },
+          "hash": "9c7f8adc22b30756f70663858148b60d18dc5c92",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8459$5E6BE8CB-7494-43CC-83EF-295539446143",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8459$DE4696B3-3BB4-4944-B324-A591A7926633",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0839-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec404c994e113a9bf108c7cf360753b5ac098c3a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8459$79A11653-CBB6-4097-9469-D80BB0234E4C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0883-02-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "085ecd20d16816b87e648f2451750b0d3dbe3ac2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8459$14FE8491-1064-44DA-9A74-5DD38ADC6EAA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11623244"
+          },
+          "hash": "ca926e8596171ff604fd4449fc392e3217c7d325",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q8459",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Fujiwara no Hirotsune"
+    },
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Hirotsune"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Fujiwara no Hirotsune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原弘経"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "藤原弘經"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "藤原弘经"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "藤原弘經"
+    }
+  },
+  "lastrevid": 17408884,
+  "modified": "2025-09-15T22:53:03Z",
+  "ns": 860,
+  "pageid": 30946,
+  "sitelinks": {},
+  "title": "Item:Q8459",
+  "type": "item"
+}

@@ -1,0 +1,351 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Me Agtsom"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q45939$B5A52CC5-FA0E-4088-B25B-5E1709C1E387",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "644448"
+          },
+          "hash": "78c138647c5ed2377d254bd04deb364f48ba8808",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q45939$4D0B05A5-FE8B-4D27-8411-89AA665A882D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q45943",
+              "numeric-id": 45943
+            }
+          },
+          "hash": "84643fcf3cee5bc38ccd597da152a4bd1b374eba",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45939$07585CBB-8811-4C16-93B0-C09D3E3FDEFE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45939$8B4F1105-87A6-4520-AE8F-E680BCF4EBBE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q45939$D7704981-AB64-4696-9962-6DB18937D0B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23462",
+              "numeric-id": 23462
+            }
+          },
+          "hash": "5e6ebbb4c4d7bb500689745b54dc06b7befe9fc5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45939$F245EAF6-BA05-4732-BB5F-00ED78777E34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q54555",
+              "numeric-id": 54555
+            }
+          },
+          "hash": "deb3fb0f3747877d442c1b61513916cf187a91b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45939$7D56F3C8-40D4-451E-8AC2-A1A8103DAE7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q45939$A6724EAE-E240-46D6-9667-C268F186C22E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0704-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a616726d599dc9741e4c04ee9d3ece88647946c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45939$52CE142D-5589-448D-821F-902C1E91AAA9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0755-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9588345db35a07ce31f2780df4de8cd37c5905de",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45939$182ACAA6-471F-42CB-B064-ADAC12DA77EC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2187385"
+          },
+          "hash": "186fdecb9989a96b9514673e960a9cd77c3904ad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45939$BE9909DC-2C20-4DA2-A81A-BDFDCEC8FB38",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Me Agtsom Arms.svg"
+          },
+          "hash": "8fa7201d49bfe553817c6f752f21adf54a96effe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "tibetský král"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θιβετιανός αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tibetan emperor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "tsenpo (Empereur) de l'Empire du Tibet"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Tibetaans rijk"
+    }
+  },
+  "id": "Q45939",
+  "labels": {
+    "bn": {
+      "language": "bn",
+      "value": "খ্রি-ল্দে-গ্ত্সুগ-ব্ত্সান"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཆོས་རྒྱལ་མེས་ཨག་ཚོམ།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tridé Tsuktsen"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Meagcchom"
+    },
+    "de": {
+      "language": "de",
+      "value": "Me Agtsom"
+    },
+    "el": {
+      "language": "el",
+      "value": "Με Αγκτσόμ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Me Agtsom"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tridé Tsuktsen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tridé Tsuktsen"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mé Aktsom"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tridé Tsuktsen"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ティデ・ツグツェン"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Me Agtsom"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Tridé Tsuktsen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tridé Tsungtsen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tridé Tsuktsen"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tridé Tsuktsen"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Tridé Tsuktsen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Меагцом"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Меагцом"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "赤德祖赞"
+    }
+  },
+  "lastrevid": 17450676,
+  "modified": "2025-09-16T10:03:37Z",
+  "ns": 860,
+  "pageid": 62135,
+  "sitelinks": {},
+  "title": "Item:Q45939",
+  "type": "item"
+}

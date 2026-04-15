@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Masamoto"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q8669$144C3098-A761-4A5F-A87F-ED628EA28215",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8669$5C3EE099-1295-488F-9E3F-665F75883413",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8669$1D1F13C8-D361-4C0D-96CB-2767D3C4923E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8361",
+              "numeric-id": 8361
+            }
+          },
+          "hash": "a9e24051e292cb49b398736e7b02045fbc5351e3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8669$2B027BE2-46F3-42A5-A960-46548AE86B6B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8669$4FAF491D-F7CC-46A9-92DB-DAB865B3D5B0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0864-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2bf44fc4e64e1ea873051828c72f3eeda01d49bd",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8669$EEF2B47D-97A4-4A3A-BA9E-AFB60C0C87C7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0941-11-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "57778bf76cee6218c6e02e9fe226d6d8fd9737b6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8669$7ADA0244-1A7D-435B-9F1D-155154257579",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17212487"
+          },
+          "hash": "325c0c7d4702ce60ea6b3d4fd4780a0c2614ffa3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese court noble from the early to mid Heian period"
+    }
+  },
+  "id": "Q8669",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Masamoto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原当幹"
+    }
+  },
+  "lastrevid": 17409336,
+  "modified": "2025-09-15T22:58:42Z",
+  "ns": 860,
+  "pageid": 31154,
+  "sitelinks": {},
+  "title": "Item:Q8669",
+  "type": "item"
+}

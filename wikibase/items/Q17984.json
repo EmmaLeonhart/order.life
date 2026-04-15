@@ -1,0 +1,383 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Konoe Nobutada"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q17984$8B43D2F5-AF6A-42A3-AF1C-52CCC697A802",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "805185"
+          },
+          "hash": "0707a011be90b6f4340ffbd5d917dd211dcaeeb3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q17984$BD8D222C-6BB2-434A-9FF3-C8A9508E5AA6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "近衛-20"
+          },
+          "hash": "10daa7d00b49438bcf7027090f72c7b22f59a290",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q17984$F1FD987F-96F6-4A31-8FF3-203960FEF70C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17984$62658FFF-11DB-46D0-AB40-14D58A122566",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17984$F6818479-0D6D-40B4-8F6A-E86E831F8F30",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16681",
+              "numeric-id": 16681
+            }
+          },
+          "hash": "6199d6749e897ef8e67800a4f5e0cbb98ec9c806",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17984$F9B4BF6E-C601-4305-BD28-12F519D8F91C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17984$0F9DD200-772F-439A-9FC7-FDA8578815CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1565-11-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6e399cc7757edb75052e25f2a849373ffc13a137",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17984$2DD11401-F95F-454D-8F7B-4928444E0425",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1614-12-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4dca3108104a1ef3d8326bceacea677004dd4829",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q17984$837F073D-F3CE-4A8A-A0B0-1D14E345AB6F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Konoe Nobutada - Tenjin Traveling to China - 2015.300.72 - Metropolitan Museum of Art.jpg"
+          },
+          "hash": "693bf789f7e53aeeedbdfc4ce903f7f12359a7d7",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17984$C7B79766-909B-444D-9578-C046B8FD4F66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q368605"
+          },
+          "hash": "1ecb4e85baa97439e8a7dac5a3581d42cf0cee57",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17984$78019957-5571-4DA6-AD15-63B95E0934DA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Konoe Nobutada Arms.svg"
+          },
+          "hash": "1bc8a7e0f202863e3fa216d77b50a03b7138dc44",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "خطاط من اليابان"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský dvořan"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Kalligraph und Regent für Go-Yōzei"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese calligrapher (1565-1614)"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "callagrafaí Seapánach (1565-1614)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代初期の公卿。近衛家18代"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans kunstschilder (1565-1614)"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "pintor hapones"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński malarz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "18º Líder do Ramo Konoe do Clã Fujiwara"
+    }
+  },
+  "id": "Q17984",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كونوى نوبوتادا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Konoe Nobutada"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Konoe Nobutada"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Konoe Nobutada"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Nobutada Konoe"
+    },
+    "da": {
+      "language": "da",
+      "value": "Konoe Nobutada"
+    },
+    "de": {
+      "language": "de",
+      "value": "Konoe Nobutada"
+    },
+    "en": {
+      "language": "en",
+      "value": "Konoe Nobutada"
+    },
+    "es": {
+      "language": "es",
+      "value": "Konoe Nobutada"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کونوئه نوبوتادا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Konoe Nobutada"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Konoe Nobutada"
+    },
+    "it": {
+      "language": "it",
+      "value": "Konoe Nobutada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "近衛信尹"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고노에 노부타다"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Konoe Nobutada"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Konoe Nobutada"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Nobutada Konoe"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Konoe Nobutada"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Konoe Nobutada"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Konoe Nobutada"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Konoe Nobutada"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Konoe Nobutada"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Коное Нобутада"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Konoe Nobutada"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "近衛信尹"
+    }
+  },
+  "lastrevid": 17417418,
+  "modified": "2025-09-16T01:05:25Z",
+  "ns": 860,
+  "pageid": 40190,
+  "sitelinks": {},
+  "title": "Item:Q17984",
+  "type": "item"
+}

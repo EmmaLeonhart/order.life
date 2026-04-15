@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Seiunin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15459$D9F18935-B988-49F9-8B61-0FCD579754C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15459$5D8CF900-DEAF-4F50-9F44-F65899717E2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15459$B4D84F43-B458-4CAF-AA84-6310F2D07E1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15010",
+              "numeric-id": 15010
+            }
+          },
+          "hash": "45c3786c144f06aa20e3f5d24932a969e3f265b2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15459$5D4FEF31-C349-4FF2-8193-891F72473347",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15459$2B00C00C-F776-48AF-B3E9-4F5006F360DB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1581-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5e5a02451b7031e59af88982899e7d589ac50dff",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15459$12CD1C0E-02B9-4007-8376-CD3AF6C5D582",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1660-10-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4e9932be6b76220e7f610d849247bfdfb1ea5848",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15459$3BA8A35B-D57E-4F97-842C-4B4FDCCF9260",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24876321"
+          },
+          "hash": "fd357890ad1fe4e7230dc261184c3f39c1154fee",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15459$17E94010-0137-4735-A45A-0571AA34E971",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Seiunin Arms.svg"
+          },
+          "hash": "9cf1606e92e1bb8a96827d240beceb52c2c064c3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1581-1660 wife of Tokugawa Ieyasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "徳川家康の側室"
+    }
+  },
+  "id": "Q15459",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Seiunin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "清雲院 (徳川家康の側室)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Seiunin"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "清雲院"
+    }
+  },
+  "lastrevid": 17415206,
+  "modified": "2025-09-16T00:20:06Z",
+  "ns": 860,
+  "pageid": 37746,
+  "sitelinks": {},
+  "title": "Item:Q15459",
+  "type": "item"
+}

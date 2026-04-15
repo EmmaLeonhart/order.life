@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yoshida Nagatoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q22621$BEFABF41-1570-4E21-B5FE-E3239577C3D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22621$F9B7FE20-9174-4420-BC32-0BD9F545019F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q22621$1FAAC819-9552-49A8-86A7-DD674E1715DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q35189",
+              "numeric-id": 35189
+            }
+          },
+          "hash": "5d1ff8552045e44e98f1f99869f555a6b7650e9d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22621$665C164F-E2A2-4091-BF24-980BA8D3F8CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q22621$25E15AF3-7F9D-4CA3-886F-045405D71A1F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1547-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16eaf599fe8d984d7d8b4c06401e5756d76e3cf2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22621$24F28703-0F52-42DC-9AE8-3DB16D63627E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1623-11-14T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3aa33456850273628948291a085dfca67b3c5da2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22621$0314F022-5116-4A02-8645-F93A561DC4ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24885353"
+          },
+          "hash": "662c2e8b68ba85703e0093f92e48c5bdb910559f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22621$41777622-9502-4D0B-95B2-3A050A801379",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yoshida Nagatoshi Arms.svg"
+          },
+          "hash": "d92ad2ed36caa2003227f4acf055a3f214ea7d91",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q22621",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Yoshida Nagatoshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "吉田長利"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нагатоси Ёсида"
+    }
+  },
+  "lastrevid": 17421480,
+  "modified": "2025-09-16T02:46:37Z",
+  "ns": 860,
+  "pageid": 44604,
+  "sitelinks": {},
+  "title": "Item:Q22621",
+  "type": "item"
+}

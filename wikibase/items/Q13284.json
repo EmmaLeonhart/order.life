@@ -1,0 +1,236 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kitabatake Shinshi"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13284$5F98D229-5053-4C9B-8CFB-2B298F9E17DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13284$726BB18C-0D54-4FDF-BA47-6E48BA9C301A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q13284$3A5B1B83-134D-4214-9276-F4F23DEB8DDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13785",
+              "numeric-id": 13785
+            }
+          },
+          "hash": "fffd96601c1c07d686f0a967c9e0e5b9f7dadd1e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13284$6767D34C-F27B-445D-B190-95080420F4C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13781",
+              "numeric-id": 13781
+            }
+          },
+          "hash": "94bfa1ef5e7fe97c917f246938673585b46af509",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13284$43BFB6EE-36D6-4515-B5D9-5E5DDCB18292",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12569",
+              "numeric-id": 12569
+            }
+          },
+          "hash": "6a2dca3f9a4e131005eafa58ed9c370dc8cc41b7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13284$CE888521-02B4-4F64-9223-54EB592F0343",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13284$BE7BA38D-C338-474D-BDE2-FD057B67CF7E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c73c0de175ec01ad126e91d80594968877ba0a3a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13284$CF791FFB-D430-4C37-9A59-356B422C85A7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q96715158"
+          },
+          "hash": "34be5c1f93051764a65dbc3ac91c034fee0de3b8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13284$050D3BBA-80E3-4DFD-95CD-31BF572C8D87",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kitabatake Shinshi Arms.svg"
+          },
+          "hash": "dd6276201f1002c059d3dcde145c7c375ed0833d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代後期、京極派の歌人。伏見天皇の典侍・従三位。子に尊悟入道親王（1299-1359、第六皇子）。"
+    }
+  },
+  "id": "Q13284",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kitabatake Shinshi"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "北畠親子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "키타바타케 치카코"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kitabatake Shinshi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "北畠親子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "北畠親子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "北畠親子"
+    }
+  },
+  "lastrevid": 17413864,
+  "modified": "2025-09-16T00:01:38Z",
+  "ns": 860,
+  "pageid": 35606,
+  "sitelinks": {},
+  "title": "Item:Q13284",
+  "type": "item"
+}

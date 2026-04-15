@@ -1,0 +1,312 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zhong Ren"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q6641$65FE72C3-763A-44EB-8638-9080215ADFB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q6641$FBCE39A1-C921-4D4A-AA99-AED949E638BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q6641$16C1994E-2887-4593-8098-57B8E81E218B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q6622",
+              "numeric-id": 6622
+            }
+          },
+          "hash": "ca0801a6b85c87803b442231c951a75a5b069f99",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q6641$F22E412E-4BF3-4A36-95E1-07D4903BA9B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q6641$90488C55-3816-477A-8AC2-C3FB95D36A76",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1800-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ebd1ce5b53115705325d93baaf45aa740e059789",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q6641$327F32C3-8F72-478B-8300-218033B18B8D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1730-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8d464ae72c15a8cb09312139b6af836e600aec15",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q6641$26547DCF-FDFC-446D-A317-0B027DBBCCB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q197821"
+          },
+          "hash": "05455935478011f2f749680807b567f2d8a1cc6d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q6641$CC15E02B-381D-4684-82B4-DD1D4B58DC5B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zhong Ren Arms.svg"
+          },
+          "hash": "531cf6f5ce87f1506aa86a6a37ce6dcd3aab0097",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König aus der Shang-Dynastie für vier Jahre im Kaiserreich China"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Shang dynasty"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur chinois"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore cinese"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "chiński król z dynastii Shang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "商朝君主"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "商朝君主"
+    }
+  },
+  "id": "Q6641",
+  "labels": {
+    "am": {
+      "language": "am",
+      "value": "ዦንግ ረን"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "زونق رن"
+    },
+    "de": {
+      "language": "de",
+      "value": "Zhong Ren"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Zhong Ren"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zhong Ren"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Zhong Ren"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Zhong Ren"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zhong Ren"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "زونگ رن"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Zhong Ren"
+    },
+    "it": {
+      "language": "it",
+      "value": "Shang Zhong Ren"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "中壬"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "중임"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "仲壬"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zhong Ren"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Zhong Ren"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Zhong Ren"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Zhong Ren"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าจงเหริน"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Zhong Ren"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Trọng Nhâm"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "子庸"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "仲壬"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "仲壬"
+    }
+  },
+  "lastrevid": 17406469,
+  "modified": "2025-09-15T22:22:30Z",
+  "ns": 860,
+  "pageid": 29136,
+  "sitelinks": {},
+  "title": "Item:Q6641",
+  "type": "item"
+}

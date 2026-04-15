@@ -1,0 +1,203 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "伊達村景"
+      },
+      {
+        "language": "en",
+        "value": "Date Murakage"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q56619$3CCB0590-C2CF-4385-AD17-3C0731395F32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56619$C2B0ABD4-3902-4F46-A19B-860A5FE10B71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56619$F05BBCCF-3158-4510-9480-58E115077152",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48176",
+              "numeric-id": 48176
+            }
+          },
+          "hash": "49bc17da543ff8c3725185fd97fd2609d1a98ef0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56619$8926DF94-A3CC-4209-AD0E-AA6309879D4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56619$981B3DFB-B4C6-481C-AEA6-2E105F7ED13A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1690-11-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de129b179d10050697da61143497fad8d64e83d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56619$A38AD443-0833-4DAB-95DC-76EE6CB623A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1753-03-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "97f1144bce4852f0d813937a4a105bdfd1700132",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56619$50B25C08-F7C8-4F85-A33A-D097BD6FE71A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11231760"
+          },
+          "hash": "46c6c28bb90964cd6fd74a5965970603198a591a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56619$3AC66FDA-C808-4192-83E8-FEBE9245D0A2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Murakage Arms.svg"
+          },
+          "hash": "5cb164672422a392ba5713dbe1b2138785b3612d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q56619",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Murakage"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達村景"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "다테 무라카게"
+    }
+  },
+  "lastrevid": 17465100,
+  "modified": "2025-09-16T13:35:32Z",
+  "ns": 860,
+  "pageid": 71450,
+  "sitelinks": {},
+  "title": "Item:Q56619",
+  "type": "item"
+}

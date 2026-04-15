@@ -1,0 +1,276 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xue Shangtong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q45261$4AF688CC-A06E-466B-9219-808A1E94984E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53753",
+              "numeric-id": 53753
+            }
+          },
+          "hash": "1cdf0a35c923ec98bc6ac61cfc9b6ac9ed2a0d28",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45261$A980DEED-671E-48ED-9BDE-18346F096717",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53757",
+              "numeric-id": 53757
+            }
+          },
+          "hash": "24f9b28665a675ef0dab4b8c631133634760bd45",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45261$0A481BB9-A45A-46B5-8F71-F8853D9523B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53761",
+              "numeric-id": 53761
+            }
+          },
+          "hash": "df243c23c2270694d10dadc3f8e178166555c729",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q45261$C0282525-9362-46A0-8D31-B8D80E87693C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q45261$1476AC4E-F063-4A33-9EA0-4285666A35F8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q45261$889C339B-5927-4D24-BBBD-F98C6CAB8F33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q23318",
+              "numeric-id": 23318
+            }
+          },
+          "hash": "ecec458db6f21639d313d624801dfb9cb9908076",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q45261$D697258F-D58E-4902-931C-EC396B12BD9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q45261$666EAF08-DC38-4EC0-9FAE-772817A912EC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0756-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "221c0b0c1c3f1f5967d8fc07deda267949a767ce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q45261$B4376D12-8C31-4296-9DBE-01616D55F0B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45632348"
+          },
+          "hash": "9dbcb032624f2ea0f4b4da6ee5779437af3d774d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q45261$A29CDA02-45E7-488B-9BF3-BC0AEB86EE4C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074697293274"
+          },
+          "hash": "9e0be1d9f10b07b07ca41a9aa9d4d48f5a8c1b24",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q45261$939336DF-CC60-4F12-B827-3DA15A296333",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xue Shangtong Arms.svg"
+          },
+          "hash": "6a34dd2e1d1cd327878fe8c8008e846d59f4bf94",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 180352"
+    }
+  },
+  "id": "Q45261",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xue Shangtong"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xue Shangtong"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xue Shangtong"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "薛上童"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xue Shangtong"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "薛上童"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "薛上童"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "薛上童"
+    }
+  },
+  "lastrevid": 17449666,
+  "modified": "2025-09-16T09:49:09Z",
+  "ns": 860,
+  "pageid": 61628,
+  "sitelinks": {},
+  "title": "Item:Q45261",
+  "type": "item"
+}

@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Shōsei-ni"
+      },
+      {
+        "language": "en",
+        "value": "Shosei-ni"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q42131$513E7CD0-E32F-4B86-A05D-FE0EBA8C6F17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42131$8E41E745-6529-4C53-B81D-71692594953E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q42131$155EF272-CE62-4917-9796-B298765A1EF9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21958",
+              "numeric-id": 21958
+            }
+          },
+          "hash": "683b0f9481bdc5be04017d21403bb19a63149291",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q42131$CD8E969E-9CC4-4925-B474-857FF8324CE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q42131$9D0FB69F-2F73-4378-B1C9-B382187C3F2B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q42131$F6F1F768-E0D8-4281-88B4-D455CE387851",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11068377"
+          },
+          "hash": "9cfec26d54169f4f5be6a41722e515cdfea00c0a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q42131$59F49A4B-55F2-4D4C-83D8-8870BD6553C1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Shōsei-ni Arms.svg"
+          },
+          "hash": "d66922b9cebf0051fd2e179afd4c63a7a16e7f3f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "nurse of Tokugawa Tadanaga"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "徳川忠長の乳母"
+    }
+  },
+  "id": "Q42131",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Shōsei-ni"
+    },
+    "en": {
+      "language": "en",
+      "value": "Shōsei-ni"
+    },
+    "es": {
+      "language": "es",
+      "value": "Shōsei-ni"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "昌清尼"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ни Сёсэи"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Shosei-ni"
+    }
+  },
+  "lastrevid": 17445820,
+  "modified": "2025-09-16T08:52:32Z",
+  "ns": 860,
+  "pageid": 59289,
+  "sitelinks": {},
+  "title": "Item:Q42131",
+  "type": "item"
+}

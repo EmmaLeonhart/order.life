@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeda Toshinao"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q18261$A9F813BF-F707-4562-AC7D-1318F02D997D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "560163"
+          },
+          "hash": "400c6985be2a4fcea0eee7401c9fca002ced840a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18261$2C133C77-CAE0-4232-BEA0-009E603D40BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18261$2BF88503-0BA2-4737-AD9D-F3D610DF775D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18261$201250B2-99C4-4409-A071-1933EE42A9AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16918",
+              "numeric-id": 16918
+            }
+          },
+          "hash": "bd4e009767608ca74eb94b55df2a49aeddabf1f8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q18261$31C87444-2D31-49EF-88BD-04A383A5483D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29559",
+              "numeric-id": 29559
+            }
+          },
+          "hash": "6e151c77b80fe4382ac0d963f13df27b66918045",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18261$5889D2E4-D73B-4C6E-86FD-190014DCB5F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18261$07F7608B-50E4-4A30-876B-A11E462903C1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1672-07-19T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "94c3358cafa75572d75050bc86f3dea0aecad3ef",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18261$11B7E44D-1844-42C5-9989-D145ECC51DE8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1711-01-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b5a2bbe48af8afdeb31d851cb9f15488a771733",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18261$E2141E89-4300-4570-8D01-386916162B60",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11397446"
+          },
+          "hash": "93546cc1cff9fc49db8b1411a4517fd60dde4d6f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18261$12FD964D-B6A6-4FA6-8BD0-D7073C84E8FF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Toshinao Arms.svg"
+          },
+          "hash": "ce921ad89554555915ee4bb3798eb210c05d0d17",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の江戸時代前期～中期の大名。加賀大聖寺藩2代藩主前田利明長男で、大聖寺藩3代藩主。従四位下飛騨守"
+    }
+  },
+  "id": "Q18261",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maeda Toshinao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田利直"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тосинао Маэда"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "前田利直"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "前田利直"
+    }
+  },
+  "lastrevid": 17417656,
+  "modified": "2025-09-16T01:11:42Z",
+  "ns": 860,
+  "pageid": 40458,
+  "sitelinks": {},
+  "title": "Item:Q18261",
+  "type": "item"
+}

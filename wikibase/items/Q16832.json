@@ -1,0 +1,358 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oda Nobuhiro"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q16832$D7E9395E-4FC3-4599-8086-09F2B04C18B7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "560579"
+          },
+          "hash": "78a74e41751fa7e1bf8d4ec86d030c0bf754d96b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q16832$2072F7B8-3E5C-4C86-B8E0-E2BB2FCB1011",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29398",
+              "numeric-id": 29398
+            }
+          },
+          "hash": "741c7328db629524a3213b562e278f30abf4f572",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16832$6B9BFDE1-B8CC-412B-A62F-A1659DCBEDC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16832$6B31F00C-B9E9-4477-8700-4AD54A04702C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16832$9DA86DA3-47A7-4FA0-A167-C6BDEC8C0FE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16829",
+              "numeric-id": 16829
+            }
+          },
+          "hash": "64ddeb8fbf29539724fd466c0aa7a69ea82e0a32",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16832$FC1C450E-8377-4FE1-BCCF-E5D98714385E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16832$DDCCED82-E50C-437C-BBF8-6DC072227680",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "53abb4ab06b109eeddf32300048bc0f9e66030a0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16832$27318F82-BAF5-4FF3-81E2-070CAAE64FD7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1574-10-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "99bcf469d121fa11bc4a99c29be218f4e0435903",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16832$56366C26-3773-4905-811F-67B0B824A8E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1188472"
+          },
+          "hash": "0a96a0a01caf3ecc994492499efefab1f51f3e16",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16832$90649A06-AD1E-46D6-B641-1DD30D6C891F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oda Nobuhiro Arms.svg"
+          },
+          "hash": "b78ab2f318d3593ca5680b111369ff932b6269b6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1600–1574)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から安土桃山時代の武将。織田信秀の庶子長男。大隅守。安祥城主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (?-1574)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1600 – 1574)"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "日本歷史人物"
+    }
+  },
+  "id": "Q16832",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أودا نوبوهيرو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Oda Nobuhiro"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Nobuhiro Oda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Oda Nobuhiro"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oda Nobuhiro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Oda Nobuhiro"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اودا نوبوهیرو"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Oda Nobuhiro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Oda Nobuhiro"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Oda Nobuhiro"
+    },
+    "it": {
+      "language": "it",
+      "value": "Oda Nobuhiro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "織田信広"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "오다 노부히로"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Oda Nobuhiro"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Oda Nobuhiro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нобухиро Ода"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Oda Nobuhiro"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Oda Nobuhiro"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Oda Nobuhiro"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "津田信廣"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "織田信廣"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "织田信广"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "織田信廣"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "織田信廣"
+    }
+  },
+  "lastrevid": 17416382,
+  "modified": "2025-09-16T00:40:31Z",
+  "ns": 860,
+  "pageid": 39083,
+  "sitelinks": {},
+  "title": "Item:Q16832",
+  "type": "item"
+}

@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sasaki Ujinobu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q12810$B95C5321-A768-4064-8DF8-F03ACF6DA60C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "820346"
+          },
+          "hash": "dc7c95887c90ff6c154801511fb3af8240733ed6",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q12810$955BD03F-DA33-493C-AFC0-A023BD8594D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q13482",
+              "numeric-id": 13482
+            }
+          },
+          "hash": "3553b7f4d014f48c7b656378d629430e3d00772e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12810$003D3DB1-6F2F-4377-8C63-73B3BBADF179",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12810$47D8939B-E8FE-47D5-AFE2-AD34AB990BFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12810$F9633B7C-4F53-4DD1-A397-07688AAACBBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12808",
+              "numeric-id": 12808
+            }
+          },
+          "hash": "59478824a53bbb5892536a8ca4587130797a22f5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12810$582FD295-9090-4FE6-9DA4-D1DD60BE8A45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12810$78B119AF-B793-4CE8-8837-544A5FB679C8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1220-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f1f8444e481052c80f6b61d6c02765520d749748",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12810$AC998FE6-1C5C-485B-86DC-20F90C9A036B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1295-06-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "800fdb3de53b4aac790bad9f0094e6071cabfc16",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12810$6B25FB32-EB97-4928-8692-91F4C459AC9E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11382303"
+          },
+          "hash": "d89c5c4b1695a8b25559596c6451bbeca8772f77",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12810$1C151FC7-7FF8-4269-B7F5-D21232B3A8A6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sasaki Ujinobu Arms.svg"
+          },
+          "hash": "05a623765902dcff3bd2c52d0a218e584830b710",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the mid-Kamakura period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代中期の武将・御家人"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q12810",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sasaki Ujinobu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sasaki Ujinobu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sasaki Ujinobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "佐々木氏信"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Удзинобу Сасаки"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sasaki Ujinobu"
+    }
+  },
+  "lastrevid": 17413702,
+  "modified": "2025-09-15T23:59:18Z",
+  "ns": 860,
+  "pageid": 35138,
+  "sitelinks": {},
+  "title": "Item:Q12810",
+  "type": "item"
+}

@@ -1,0 +1,310 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ikeda Sen"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q17228$91C79146-E9E4-41A6-8EA6-3BEA07D2791F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "池田-28"
+          },
+          "hash": "35bae02bf77b61b6b3f3365d2bfcceddfd3da4f4",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q17228$12D061C2-B9CB-4E7D-AC22-6C73E3260F83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17228$54B0C295-1E31-4C33-A562-8533852838D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q17228$FE3E7AA8-0C14-48BB-8886-58D1E16C6640",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18720",
+              "numeric-id": 18720
+            }
+          },
+          "hash": "fd3a9075f79219c37bb32bf2afd566a805e33dd2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17228$B4191C00-B2D9-4CFC-9FA0-DE7E64B04D34",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18721",
+              "numeric-id": 18721
+            }
+          },
+          "hash": "cfc48944495b05a3863081eb403403b9dde5db6c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17228$FA212F7F-422A-4EE6-BD2E-2520CDF16A5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17226",
+              "numeric-id": 17226
+            }
+          },
+          "hash": "aaf78e07e878cdad34a1049af926cf980996bbf5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17228$540588C9-9C2B-4F70-B6D6-1AC7DAF9CD68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17228$34CACA75-F1D2-4A1F-9942-BBD53829D5E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1560-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a072141183c10b18db02a5f163be1ca1c5a2ddf7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17228$639D7F0E-4E59-4E14-82C0-6D2A8AA3CA5A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1640-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "be6c325cf4e94eca8b8dd55db8fb8672804e0569",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q17228$F30F87A8-F6BF-4E70-946C-573C422A9B64",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ikeda prince de Bizen.svg"
+          },
+          "hash": "d119a8035cb2fce405b2a3c458a4cdce628bdf9d",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17228$44A9A5CA-3269-49AC-AB3E-21C3756DD627",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16846524"
+          },
+          "hash": "20545c968f5e0822e1055e19cae55f8c8521d3fc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17228$02294572-DFB2-4229-A674-B9697D993BF5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ikeda Sen Arms.svg"
+          },
+          "hash": "0b9d752da57823f11cb34f4223c658aa1b6612c4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese female Samurai"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代の女性"
+    }
+  },
+  "id": "Q17228",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ikeda Sen"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ikeda Sen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ikeda Sen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ikeda Sen"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ikeda Sen"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ایکدا سن"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "池田せん"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Sen Ikeda"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ikeda Sen"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "池田千"
+    }
+  },
+  "lastrevid": 17416784,
+  "modified": "2025-09-16T00:49:44Z",
+  "ns": 860,
+  "pageid": 39464,
+  "sitelinks": {},
+  "title": "Item:Q17228",
+  "type": "item"
+}

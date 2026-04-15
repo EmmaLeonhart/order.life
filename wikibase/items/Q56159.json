@@ -1,0 +1,381 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Karigaila //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q56159$A4E919A3-4CB4-4DA7-B2BE-E16601D2C3CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00306304"
+          },
+          "hash": "858690d3c5c433b08e3a6c0024e1c29c142125a9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q56159$32F788DE-3B88-4653-8FFB-92B1E2BD0CA3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q56159$F0B43556-4D9B-4CC4-A791-382B729FB07F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q56159$86233AA5-6C51-48F0-B5D9-64811F8A7F16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Karigaila_(1)"
+          },
+          "hash": "644e840e43043e98e465dc9ba9998b2240349597",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q56159$15221D79-3869-4320-93F2-6B24535A5D82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50373",
+              "numeric-id": 50373
+            }
+          },
+          "hash": "83c2387a92262ea96d5f2fa140a792e1e9b3105b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q56159$62CA8929-6C16-4642-B1B7-8B41CB5877FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56135",
+              "numeric-id": 56135
+            }
+          },
+          "hash": "da82e15c8f490a023b83d9ed52cb282fc6080aa7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q56159$6ED52D2C-ED4C-4E70-9C60-4561B5A378B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q56159$A0C3091D-E5E2-4254-B0F9-534EDC147A16",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "927d396afe747a28dd72633d437ec8f440455575",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q56159$6DD0BF57-75DF-43E8-9A00-77FBB2633365",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1390-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "67f80f3dd7b570b44980c1e958ad0853f97b1e5f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q56159$0C49160E-8735-4249-82E9-9F95420837CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2992106"
+          },
+          "hash": "e5f092daec5ea942acd72a041e5238bbdad4a4db",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q56159$6ECCC02D-DF6F-4540-A3B0-7DC81FCC44A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000053646999116"
+          },
+          "hash": "ca4b499922866c53c51b8d6675577541f0607894",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q56159$765CB2E6-F20E-448E-BD1C-30339D05FFF4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.1997"
+          },
+          "hash": "8aa5ffe7a2542bdbdaab9e44347467952d040606",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q56159$0BDC720A-2338-489B-ABF4-2B0F35DE6044",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Karigaila Arms.svg"
+          },
+          "hash": "39ece5982c575f3bb188f824ea86677d2099296d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "(пам. 1390) князь мсціслаўскі"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "(пам. 1390) князь амсьціслаўскі"
+    },
+    "de": {
+      "language": "de",
+      "value": "litauischer Herzog aus der Gediminiden-Dynastie"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λιθουανός δούκας, υιός του Αλγκίρντας, κυβερνήτη του Μστσισλάβ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lithuanian duke, son of Algirdas, ruler of Mstsislaw"
+    },
+    "it": {
+      "language": "it",
+      "value": "Figlio del granduca lituano Algirdas e principe di Mscislaŭ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "litauisk hertug"
+    }
+  },
+  "id": "Q56159",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كاريجيلا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Карыгайла Альгердавіч"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Карыгайла"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Karigaila"
+    },
+    "de": {
+      "language": "de",
+      "value": "Karigaila"
+    },
+    "el": {
+      "language": "el",
+      "value": "Καριγκάιλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Karigaila"
+    },
+    "es": {
+      "language": "es",
+      "value": "Karigaila"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Karigaila"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Karigaila"
+    },
+    "it": {
+      "language": "it",
+      "value": "Karigaila"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カリガイラ"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Karigaila"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Karigaila"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Karigaila"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Korygiełło"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Каригайло"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Коригайло"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卡里蓋拉"
+    }
+  },
+  "lastrevid": 17464512,
+  "modified": "2025-09-16T13:26:56Z",
+  "ns": 860,
+  "pageid": 70990,
+  "sitelinks": {},
+  "title": "Item:Q56159",
+  "type": "item"
+}

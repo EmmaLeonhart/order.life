@@ -1,0 +1,423 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Godan Khan //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q39009$E948FD5C-F781-4D79-9359-818CB656735F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "781896"
+          },
+          "hash": "e0ee8c0d973a2b8c22efe879a388f5093eabf643",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q39009$892BA571-2AB8-475E-9E7E-30E790DF7569",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40891",
+              "numeric-id": 40891
+            }
+          },
+          "hash": "e588135fa80c3d7ad2123ffac062f9c6bb03767c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39009$8AE73E97-667F-44C1-8EB3-24B7EAA6F40D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40895",
+              "numeric-id": 40895
+            }
+          },
+          "hash": "5c5b838fe3d058448555b9daab456556e3881a6a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q39009$813C493F-8B5D-458F-B8B8-3BC8A089A891",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q39009$23BD1A16-9D4E-4F47-8092-81BA03B1E64D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q39009$03F7CEE6-89E4-46E6-9061-ACDAA1F58930",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37456",
+              "numeric-id": 37456
+            }
+          },
+          "hash": "ea664028c5fa2f8c0534883d87aa413db82dad89",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q39009$453DD3A5-ED4E-4C0F-8A24-C0F7938CE133",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38993",
+              "numeric-id": 38993
+            }
+          },
+          "hash": "71bfdb4dc43f859ba792ca209bd1d5ccc37f7016",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q39009$4AD18D35-80EE-4B01-96C3-49881674C176",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q39009$1085B984-B254-424F-A698-D75D0724F66B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1206-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e47ef8911c85fde27a9dcc7bd55d7cdc4fa21c9a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q39009$DA5C55BA-A2E3-4A85-8138-E26F130B0990",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1251-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c0df9b06d20d7d0b1a6b97b99ba4a8703359e2b4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q39009$5DA078F1-5FE8-4B4A-85A8-9E9477DF4CC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1378067"
+          },
+          "hash": "5d24cce2175c504fbb5da50e082116df31007e0f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q39009$FD333238-2E8D-4659-BAFB-693C55DBCBDF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074791885821"
+          },
+          "hash": "42fbc0a391c1820f96626872686ceec75368e062",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q39009$EE2C88BE-5349-4459-AC51-4B7D65308D85",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Godan Khan Arms.svg"
+          },
+          "hash": "a69fc453677fe49d73da106fb45626db6b5a34e7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "líder militar mongol (1206–1251)"
+    },
+    "de": {
+      "language": "de",
+      "value": "mongolischer Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mongolian khan, second son of ögödei"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "خان مغول، فرزند دوم اوگتای"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "khan mongol, 2e fils d'ögödei"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "몽골의 군주, 오고타이 카안의 아들"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair leider uit Mongolië (1206-1251)"
+    }
+  },
+  "id": "Q39009",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Godan Khan"
+    },
+    "be": {
+      "language": "be",
+      "value": "Гадан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Godan Khan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Godan Khan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Godan Khan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Godan Khan"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گودان خان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Godan Khan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Godan Khan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Godan Khan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "コデン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "코단"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "闊端"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Годан"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Godan Khan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Godan Khan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Godan Khan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Godan Khan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Godan Khan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Годан"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Godan kan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Godan Khan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Godan khan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Годан-хан"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "闊端"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "闊端"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阔端"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "闊端"
+    }
+  },
+  "lastrevid": 17441760,
+  "modified": "2025-09-16T07:54:48Z",
+  "ns": 860,
+  "pageid": 56951,
+  "sitelinks": {},
+  "title": "Item:Q39009",
+  "type": "item"
+}

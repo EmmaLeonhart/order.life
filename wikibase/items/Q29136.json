@@ -1,0 +1,971 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zarathustra"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q29136$8D4623DD-C1B4-418D-A514-EC4770D29F0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "324676"
+          },
+          "hash": "a6e306947fdfc535b230fe71f8c58284a6749a1a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q29136$15228938-D79C-4737-9CFC-CA4C01AB9EFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2412",
+              "numeric-id": 2412
+            }
+          },
+          "hash": "e78534e55001275492c71e84076d1c7e2a5b6cf2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29136$27534D6F-5159-429D-BF3C-B037D50F1FEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52669",
+              "numeric-id": 52669
+            }
+          },
+          "hash": "96185591d3dbc9cc2f9574bf9b0d265f83cfcca2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q29136$CBD8A8FA-9AD5-4F1D-BED9-FDC45014DC18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29136$C98B76B7-5392-41A4-B7FA-7278FB0F4266",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q29136$62E0E78C-5D2F-4345-B8A8-6056633DB5DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51572",
+              "numeric-id": 51572
+            }
+          },
+          "hash": "0733530ecea2552f39ce110c39eaf62601725872",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q29136$6E45BC8F-9B8A-49E1-A3CC-9D992B6EE17C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29184",
+              "numeric-id": 29184
+            }
+          },
+          "hash": "76c68050143362a461275bc36ee50ac43f0f20dd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29136$601C2947-946A-4902-8160-1013C300DE1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52749",
+              "numeric-id": 52749
+            }
+          },
+          "hash": "ab61d2c46a9c15c865466c7e1cc321dbc8eb7723",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q29136$DC08347D-1E61-411E-85AD-8DB5EFB3A9CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51580",
+              "numeric-id": 51580
+            }
+          },
+          "hash": "cc1d0769aadad46b84bf69c9440d515be6f16d4f",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29136$9A3542F2-3027-4ECD-9AB9-BB6A725E84F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29136$0DA6160F-E27A-4BFA-B8C9-03F48CA1B428",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5517e7fa629916f09c9b2d2aa43301814f6098a0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q29136$1D2CD416-A7C9-411D-9719-0E29BEB57EC5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1423-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c9e9b2a7ff66fdbccf56fa6697697420a044fcc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q29136$84F83867-2AB5-489A-B6C7-6A94E5FE85FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q35811"
+          },
+          "hash": "f448211d4ba64e8b6edfc73481d9918362ddd3a3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q29136$6C604734-476C-6FE4-8C49-F7A545DDDF07",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011484229332"
+          },
+          "hash": "f7fa11dc2587df1326230315eb2f82be5322e214",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29136$D83B1DEB-020F-4F85-A7A9-9CB376109E8F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zoroaster Arms.svg"
+          },
+          "hash": "f4dfc99bd25209b66fd658a57e2b8ab8c117566b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "stigter van Zoroastrisme"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "نبي الزرادشتية"
+    },
+    "as": {
+      "language": "as",
+      "value": "জৰথুষ্ট্ৰীয় বা জৰদস্তি ধৰ্মৰ প্ৰচাৰক"
+    },
+    "az": {
+      "language": "az",
+      "value": "Zərdüştilik dininin yaradıcısı"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Зороастризмды нигеҙләүсе"
+    },
+    "bew": {
+      "language": "bew",
+      "value": "nabi parsi nyang diriin ajaran Majusi"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "ирански религиозен реформатор"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "ईरानी पैगंबर आ पारसी धर्म के संस्थापक"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "líder religiós, fundador del zoroastrisme"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "zakladatel zoroastrismu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Priester, Religionsstifter des Zoroastrismus"
+    },
+    "en": {
+      "language": "en",
+      "value": "founder of Zoroastrianism"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "persa profeto; la fondinto de Zoroastrismo"
+    },
+    "es": {
+      "language": "es",
+      "value": "líder religioso, fundador del zoroastrismo"
+    },
+    "et": {
+      "language": "et",
+      "value": "zoroastrismi rajaja"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "رهبر و اصلاحگر دینی، فیلسوف و شاعر ایرانی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "iranilainen profeetta ja zarahustralaisuuden perustaja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prophète et fondateur du zoroastrisme (entre 1500 av. J.-C. et 550 av. J.-C.)"
+    },
+    "he": {
+      "language": "he",
+      "value": "מייסד הדת הזורואסטרית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Próféta"
+    },
+    "id": {
+      "language": "id",
+      "value": "pendiri agama Zoroastrianisme"
+    },
+    "it": {
+      "language": "it",
+      "value": "profeta e mistico iranico"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゾロアスター教の開祖"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조로아스터교를 창시한 예언자"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "pêxember"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "പേർഷ്യൻ പ്രവാചകൻ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "profeet uit Iran (?-?)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "perski mistyk i reformator religijny"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "profeta e poeta nascido na Pérsia no século VII a.C., fundador do Masdeísmo ou Zoroastrismo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Иранский пророк и духовный основатель зороастризма"
+    },
+    "sa": {
+      "language": "sa",
+      "value": "मेधायस्नधर्मस्य उत्पत्तिकारकः"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "آڳاٽو فارس (پرسيا يا ايران) جو مفڪر, فلسفي ۽ مذهبي پيشوا هيو، جنهن اسلام کان اڳ، 6هين عيسوي صدي کان اڳ (قبل مسيح) ۾ آڳاٽي فارس جو ''هڪ خدا کي مڃيندڙ'' مذهب قائم ڪيو هيو"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "iransk diktare och filosof, även betraktad som profet"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Zoroastrian"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Zerdüştçülük dininin kurucusu"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ایرانی نبی اور زرتشتیت کے بانی"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Người sáng lập Bái Hoả giáo"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "波斯先知，琐罗亚斯德教（祆教）创始人"
+    }
+  },
+  "id": "Q29136",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Zoroaster"
+    },
+    "am": {
+      "language": "am",
+      "value": "ዞራስተር"
+    },
+    "an": {
+      "language": "an",
+      "value": "Zoroastres"
+    },
+    "anp": {
+      "language": "anp",
+      "value": "ज़रथुश्त्र"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "زرادشت"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "زرادشت"
+    },
+    "as": {
+      "language": "as",
+      "value": "জৰথুষ্ট্ৰ"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Zoroastru"
+    },
+    "az": {
+      "language": "az",
+      "value": "Zərdüşt"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "زرتۆشت"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Заратустра"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Zarathustra"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Zoroaster"
+    },
+    "be": {
+      "language": "be",
+      "value": "Заратуштра"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Заратустра"
+    },
+    "bew": {
+      "language": "bew",
+      "value": "Jardus"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Зороастър"
+    },
+    "bho": {
+      "language": "bho",
+      "value": "जरथुस्त्र"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জরথুস্ত্র"
+    },
+    "br": {
+      "language": "br",
+      "value": "Zoroastr"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Zaratustra"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "Заратустра"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "زەردەشت"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Zarathuštra"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Саратуштра"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Zarathustra"
+    },
+    "da": {
+      "language": "da",
+      "value": "Zarathustra"
+    },
+    "de": {
+      "language": "de",
+      "value": "Zarathustra"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Zerduşt"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ζωροάστρης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zoroaster"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Zaratuŝtro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Zoroastro"
+    },
+    "et": {
+      "language": "et",
+      "value": "Zarathustra"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Zoroastro"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "زرتشت"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Zarathustra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Zoroastre"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Sorastar"
+    },
+    "gan": {
+      "language": "gan",
+      "value": "左羅阿斯特"
+    },
+    "gcr": {
+      "language": "gcr",
+      "value": "Zoroastre"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Zoroastro"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Zarathustra"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "જરથુષ્ટ્ર"
+    },
+    "ha": {
+      "language": "ha",
+      "value": "Zoroaster"
+    },
+    "he": {
+      "language": "he",
+      "value": "זרתוסטרה"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "ज़रथुश्त्र"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Zarathuštra"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Zarathustra"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Զրադաշտ"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Զրադաշտականութիւն"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Zoroastro"
+    },
+    "id": {
+      "language": "id",
+      "value": "Zarathustra"
+    },
+    "is": {
+      "language": "is",
+      "value": "Saraþústra"
+    },
+    "it": {
+      "language": "it",
+      "value": "Zarathustra"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ザラスシュトラ"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Zoroaster"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Zoroaster"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ზარათუშტრა"
+    },
+    "kbp": {
+      "language": "kbp",
+      "value": "Zoroastre"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Заратуштра"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಝರತುಷ್ಟ್ರ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "자라투스트라"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Zerdeşt"
+    },
+    "la": {
+      "language": "la",
+      "value": "Zoroastres"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Zaratustra"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Zaratustra"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Zaratustra"
+    },
+    "mdf": {
+      "language": "mdf",
+      "value": "Зороастор"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Zaratostra"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Заратустра"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "സൊറോസ്റ്റർ"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "झरथुष्ट्र"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Zarathustra"
+    },
+    "mwl": {
+      "language": "mwl",
+      "value": "Zaratustra"
+    },
+    "my": {
+      "language": "my",
+      "value": "ဇိုရော့အက်စတာ"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "زرتشت"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Zarathuštra"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Zarathustra"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Zarathustra"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Zarathustra"
+    },
+    "new": {
+      "language": "new",
+      "value": "जोरोआस्तर"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zarathustra"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Zarathustra"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Zaratostra"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਜ਼ਰਥੁਸ਼ਟ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Zaratusztra"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "زرتشت"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "زردشت"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Zaratustra"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Zaratustra"
+    },
+    "rki": {
+      "language": "rki",
+      "value": "ဇောရော့အက်စတာ"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Zarathustra"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Заратустра"
+    },
+    "sa": {
+      "language": "sa",
+      "value": "हरिदुष्ट्रः"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Zoroastru"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Zoroaster"
+    },
+    "sd": {
+      "language": "sd",
+      "value": "زرتشت"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Zaratustra"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Zaratustra"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Zaratustra"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Zoroaster"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Заратустра"
+    },
+    "su": {
+      "language": "su",
+      "value": "Zoroaster"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Zarathustra"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Zoroasta"
+    },
+    "szy": {
+      "language": "szy",
+      "value": "Suo-luo-ya-se-de"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "சரத்துஸ்தர்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Зардушт"
+    },
+    "th": {
+      "language": "th",
+      "value": "ซาราธุสตรา"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Zoroaster"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Zerdüşt"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Zärdöşt"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Заратуштра"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "زرتشت"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Zardusht"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Zarathushtra"
+    },
+    "vro": {
+      "language": "vro",
+      "value": "Zarathustra"
+    },
+    "war": {
+      "language": "war",
+      "value": "Zoroaster"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "琐罗亚斯德"
+    },
+    "xmf": {
+      "language": "xmf",
+      "value": "ზარათუშტრა"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Zoroaster"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "瑣羅亞斯德"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "琐罗亚斯德"
+    }
+  },
+  "lastrevid": 17428502,
+  "modified": "2025-09-16T04:42:29Z",
+  "ns": 860,
+  "pageid": 49571,
+  "sitelinks": {},
+  "title": "Item:Q29136",
+  "type": "item"
+}

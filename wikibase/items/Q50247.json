@@ -1,0 +1,183 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "池田長玄"
+      },
+      {
+        "language": "en",
+        "value": "Chi Tian Chang Xuan"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q50247$BE1E39C8-284E-4B9E-A21A-B13DBDEBEE6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50247$EA0D20A4-64D1-4637-AB1E-F944056DA9AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50247$30D72126-9A72-44EA-9725-98AC907E40B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43126",
+              "numeric-id": 43126
+            }
+          },
+          "hash": "4012162564dca504f83608eaf5b15f491ab62bd0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50247$EC8E5721-CD52-48CE-B0A1-222E52880DAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50247$564A2721-6B30-4FAF-AD5D-9C6512DF7BE4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1741-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5cbeb16270e033f6d26a962d1a29341aab0a4061",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50247$909A0CAB-4264-4DA9-89F4-164992E9A49D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1814-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1d5e4742a769d0e8f56a87cd00719f4eff1e1cb8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50247$901723C2-0386-4B0D-9EA3-5C27419F22A5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11552192"
+          },
+          "hash": "4029cebf1fa12d29fc6724d9f4c127727f4912e6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "岡山藩家老。片桐池田家7代"
+    }
+  },
+  "id": "Q50247",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "池田長玄"
+    }
+  },
+  "lastrevid": 17456374,
+  "modified": "2025-09-16T11:25:59Z",
+  "ns": 860,
+  "pageid": 65351,
+  "sitelinks": {},
+  "title": "Item:Q50247",
+  "type": "item"
+}

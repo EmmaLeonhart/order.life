@@ -1,0 +1,458 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Minamoto no Yoshinaka"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q11724$EC43933D-4091-4D70-96AF-466D2C415E35",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814297"
+          },
+          "hash": "b8d80d324878d7ca2197f7bccf3ceb487a3082a1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q11724$82D5F03A-659C-4A87-93CB-94CC279D5A49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11724$214D64CA-175E-49BE-B89E-F04820CA335B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q11724$207D5F5A-E1E7-4B3D-9FEC-17AA7F853B6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12107",
+              "numeric-id": 12107
+            }
+          },
+          "hash": "7cc57815b88ea3f59a0be34e6830530ecc1b88d9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11724$B204AD52-62E6-40E9-B13F-EDCE767B32CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12566",
+              "numeric-id": 12566
+            }
+          },
+          "hash": "769b13121f5ae018fb3fcfbf7a5f09369911c422",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11724$7E138327-68EB-44F9-BCD7-1A0330B12AAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11360",
+              "numeric-id": 11360
+            }
+          },
+          "hash": "30f9ecfc30dfd45971dd2efc8e837acacb387d4e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11724$FC43E436-4066-4105-98CF-9E681A2A7C6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q11724$2FAF0A9C-A73B-42A5-8540-5204E096D390",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1154-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca62cbe67a2f74c3f2df619f1f3a0974bbbc411a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11724$5C01DE28-D6D0-46C8-88EC-3D1088FBABF5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1184-02-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e88bd4f5307610a01e7c97efe58676f50ad3d5a8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q11724$CB0133EC-74E8-424D-BEA2-E782F05F1160",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Yoshinaka.jpg"
+          },
+          "hash": "8c729929f16fe09e09361af108fa5bac0f426bea",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11724$A28771DE-2F8C-4269-A0FF-2B6A1A6A1D99",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1139202"
+          },
+          "hash": "5561e0d6d77c5c66db5fb9d4282c3e62bb9bc7e9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11724$CA2AF6BB-3E50-49A9-B552-55EAB3FCAEC5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Minamoto no Yoshinaka Arms.svg"
+          },
+          "hash": "cef0cc5b163052769a7bdfacf9c3abdfd7c7507f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1154–1184)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Adeliger"
+    },
+    "en": {
+      "language": "en",
+      "value": "12th century samurai"
+    },
+    "es": {
+      "language": "es",
+      "value": "militar japonés"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire japonais"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "japán szamuráj"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1154-1184)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Самурай из рода Минамото, герой войны Гэмпэй"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon samuray (1154 – 1184)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "將軍"
+    }
+  },
+  "id": "Q11724",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ميناموتو نو يوشيناكا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ميناموتو نو يوشيناكا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "az": {
+      "language": "az",
+      "value": "Minamoto no Yoşinaka"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Jošinaka Minamoto"
+    },
+    "de": {
+      "language": "de",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "en": {
+      "language": "en",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "es": {
+      "language": "es",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "میناموتو نو یوشیناکا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Minamoto no Josinaka"
+    },
+    "id": {
+      "language": "id",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "it": {
+      "language": "it",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "源義仲"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "미나모토노 요시나카"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "源義仲"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Minamoto no Yosinaka"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Yoshinaka Minamoto"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Минамото-но Ёсинака"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мінамото-но Йошінака"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Minamoto no Yoshinaka"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "源義仲"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "源义仲"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "源義仲"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "源義仲"
+    }
+  },
+  "lastrevid": 17413104,
+  "modified": "2025-09-15T23:50:58Z",
+  "ns": 860,
+  "pageid": 34083,
+  "sitelinks": {},
+  "title": "Item:Q11724",
+  "type": "item"
+}

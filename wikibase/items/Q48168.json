@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kokubun Moriaki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q48168$0B71FD55-049B-4880-99F0-E99D281A186B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48168$13C09E17-39AA-4577-A63C-9BFC7BE45C78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48168$767FBFD0-3486-4749-9D18-E5EC0427AA0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q41824",
+              "numeric-id": 41824
+            }
+          },
+          "hash": "01a198f2c9a12c995322b91991e932247670cb29",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48168$704F0491-8FD2-4FC5-855D-5F1D1A38DD0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48168$0F3DCF88-1851-41B2-8C63-B60A514FAD18",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1532-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "21bd2e22c9d397a0d593f1b97c8e54cf7741a6d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48168$41196DDF-B5AD-439B-801E-B267E144590B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1578-05-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bcf424e312b6f398cf740689296e8dd28f07c9b5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48168$E442E07F-99BA-4600-82B4-E52B87D9BD7E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11420562"
+          },
+          "hash": "84f036141212498d5da59ec0f7a230e02846ae10",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48168$2BF8711B-BD62-4BF6-852C-5F027C936C42",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kokubun Moriaki Arms.svg"
+          },
+          "hash": "95f39e519638b010cc24f43d3bbad5b2e3ff2937",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代に陸奥宮城郡南部を領した武士。国分盛氏の嫡子"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q48168",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kokubun Moriaki"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "国分盛顕"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мориаки Кокубун"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "國分盛顯"
+    }
+  },
+  "lastrevid": 17453538,
+  "modified": "2025-09-16T10:44:56Z",
+  "ns": 860,
+  "pageid": 63798,
+  "sitelinks": {},
+  "title": "Item:Q48168",
+  "type": "item"
+}

@@ -1,0 +1,575 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Andronikos IV Palaiologos //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q55220$1E2F6EF3-3994-4F61-8C72-4DB4DB4F8A9A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "418136"
+          },
+          "hash": "3b4364ae49043fe09ecae83353c35a6f64638cfe",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q55220$ACA46AD2-709B-49C7-A2A9-A7C0E7708C0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00570280"
+          },
+          "hash": "15e7931c23f2f3a01991b21698ab7be86c63044c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q55220$2DDF6BDF-86D7-4601-8CEC-E3F5C1B6FBD9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Palaiologos-18"
+          },
+          "hash": "dd7693693625d1993ae4e2ccb39851d3cb728007",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55220$4DF5F6D4-9F68-4464-81A7-2F6C8A6C8F0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55220$5EE4C916-8C12-4734-9FF2-306B8A24E75D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q55220$B813CCE0-8604-4A99-B39D-FE70755DD59C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Andronikos_IV_Palaiologos_(1)"
+          },
+          "hash": "3869b35edab9a7d7fe568044b55e0bda45fb88e0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q55220$9F7F74D6-5117-46E3-B2B3-337F9824E576",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p15020.htm#i150193"
+          },
+          "hash": "60bf2e41a4d1e29677c3f736c642e828f8b0a30d",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55220$CC15B570-9DE4-4ECB-A411-85339EA2F524",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49800",
+              "numeric-id": 49800
+            }
+          },
+          "hash": "36e6841e2a5b1403fe8d0f6509b9322c86dbe7c5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q55220$01B3D284-9795-4DF5-AE2F-1E7253109496",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50029",
+              "numeric-id": 50029
+            }
+          },
+          "hash": "5776b36d06de878137217e2bafd110b369d97915",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55220$279310B8-3CEF-4E42-9516-1954D0B0D542",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55220$86125E97-A6F0-461F-A5EB-2858F536AE3D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1348-04-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d194f26653d0eb219ef729ebcccde33b571a630f",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55220$1C9A68D2-6732-4041-90C0-383BDE146831",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1385-06-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "885cf771422e7f8292398f7fcb954718c70d46f0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55220$7B5FFAD1-309A-4DF7-9D1A-FB96D27A9F85",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q37078"
+          },
+          "hash": "9ff8f54c059428ef8696452c75b132b9fe62dc68",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55220$7EA9875D-C281-47FB-9371-0FE0566EA285",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "361244423510011619"
+          },
+          "hash": "c97352217fd6fb4ffc7dab8c64cdd85c01756800",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55220$85DC40BD-05E9-4070-A3BC-CEAAA5DC951C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Andronikos IV Palaiologos Arms.svg"
+          },
+          "hash": "6bfc015e3cdcdab6d65060626dcea69deeb6bdfe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "byzantský císař"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser von Byzanz"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βυζαντινός αυτοκράτορας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Byzantine emperor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador bizantino (r. 1376-1379)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Bysantin keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur byzantin de 1376 à 1379"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר ביזנטי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bizánci császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Բյուզանդիայի կայսր"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore bizantino (r. 1376-1379)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Byzantijnse Rijk (1348-1385)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz wschodniorzymski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "византийский император с 1376 по 1379 год"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "بازنطینی شہنشاہ"
+    }
+  },
+  "id": "Q55220",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Andronikos IV Palaiologos"
+    },
+    "an": {
+      "language": "an",
+      "value": "Andronico IV Paleologo"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أندرونيكوس الرابع باليولوج"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اندرونيكوس الرابع باليولوج"
+    },
+    "az": {
+      "language": "az",
+      "value": "IV Andronik (imperator)"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "دؤردونجو آندرونیکوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Андронік IV Палеалог"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Андроник IV Палеолог"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Andrònic IV Paleòleg"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Andronikos IV."
+    },
+    "de": {
+      "language": "de",
+      "value": "Andronikos IV."
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Andronikos IV"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ανδρόνικος Δ´ Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Andronikos IV Palaiologos"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Androniko la 4-a Paleologo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Andrónico IV Paleólogo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Androniko IV.a Paleologo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آندرونیکوس چهارم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Andronikos IV Palaiologos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Andronic IV Paléologue"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Andrónico IV Paleólogo"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנדרוניקוס הרביעי פלאולוגוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Andronik IV. Paleolog"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. Andronikosz bizánci császár"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Անդրոնիկոս Դ Պալեոլոգոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Andronikos IV Palaiologos"
+    },
+    "io": {
+      "language": "io",
+      "value": "Andronikos la 4ma Palaiologos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Andronico IV Paleologo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンドロニコス4世パレオロゴス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანდრონიკე IV"
+    },
+    "la": {
+      "language": "la",
+      "value": "Andronicus IV Palaeologus"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Андроник IV Палеолог"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Andronikos IV Palaiologos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Andronikos IV Palaiologos"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Andronikos IV Palaiologos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Andronik IV Paleolog"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Andrónico IV Paleólogo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Andrónico IV Paleólogo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Andronic al IV-lea Paleologul"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Андроник IV Палеолог"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Andronik IV Paleolog"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Andronik IV. Paleolog"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Andronikos IV Palaiologos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Андроник IV Палеолог"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Andronikos IV Palaiologos"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Andronikos IV Palaiologos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "IV. Andronikos Palaiologos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Андронік IV Палеолог"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "آندرونیکوس چہارم پالایولوگوس"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Andronikos IV Palaiologos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安德洛尼卡四世"
+    }
+  },
+  "lastrevid": 17463106,
+  "modified": "2025-09-16T13:05:22Z",
+  "ns": 860,
+  "pageid": 70051,
+  "sitelinks": {},
+  "title": "Item:Q55220",
+  "type": "item"
+}

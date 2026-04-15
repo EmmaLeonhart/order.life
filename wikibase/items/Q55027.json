@@ -1,0 +1,259 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pei Hui"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q55027$787D1845-5B2A-459D-932B-08D2C41A3AE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q55039",
+              "numeric-id": 55039
+            }
+          },
+          "hash": "622aa86500ae0cde2e966ebeb760d9e55ef74f34",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55027$971F007B-67AA-48A5-AEE4-F50FD82D07B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55027$D965087B-AFC0-4909-8D4A-C68A2C8761F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q55027$E59ADCF7-A6E9-402F-AF6A-E96E09C76C6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46216",
+              "numeric-id": 46216
+            }
+          },
+          "hash": "0f259069bda012d725d733858917d542899cc190",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q55027$5CC3FFB3-A489-4759-8202-F43059FE3D5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61521",
+              "numeric-id": 61521
+            }
+          },
+          "hash": "2619a159414b040dec2ea67e17905696b16af5c4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55027$92137EE1-77C4-4F04-97AF-B776E0428A20",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q55027$FEB89650-B70C-4F15-A5C2-47D8ECF91CC8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8163df404d9994b40f680a1364f0bb46039df56",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55027$04AEB4C2-70C6-49F9-A6DA-7EE47193A59F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45420675"
+          },
+          "hash": "876dde572c268b2774c046dc9e222b86aa2c6473",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q55027$84DFF589-FFE9-40F6-9BB3-4EB1AF8D2355",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075376574838"
+          },
+          "hash": "e770dce3a1876c8d4c0d96c149effa3c66299fc1",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55027$2D518F5D-40E6-409B-B946-418A0EA7AAA9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pei Hui Arms.svg"
+          },
+          "hash": "6dce69b2cad71c04e8af7000ae842500a5d8b82e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 31984"
+    }
+  },
+  "id": "Q55027",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Pei Hui"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pei Hui"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pei Hui"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "裴徽"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pei Hui"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "裴徽"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "裴徽"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "裴徽"
+    }
+  },
+  "lastrevid": 17462816,
+  "modified": "2025-09-16T13:01:08Z",
+  "ns": 860,
+  "pageid": 69858,
+  "sitelinks": {},
+  "title": "Item:Q55027",
+  "type": "item"
+}

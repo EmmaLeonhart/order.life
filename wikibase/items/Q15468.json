@@ -1,0 +1,379 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Matsudaira Nobuyasu"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q15468$56FD48F8-3AF4-4B52-9DB5-FD4CFDE01A01",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "松平-77"
+          },
+          "hash": "6bd79aebb9c867be8042585fd34074a608f1c43f",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15468$3F04AC7A-E879-458B-9B7E-5F0DB11AC1A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15468$83F4CB91-F11C-49D8-B2A1-71D9F0C6DA5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15468$FB317708-3077-4D0E-B592-8A03BE92B78F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15010",
+              "numeric-id": 15010
+            }
+          },
+          "hash": "089ba1da763f7f139ebf040efcb6385f1e349758",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q15468$F5672E67-D1A5-4DCE-B32C-9B280D8023B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15448",
+              "numeric-id": 15448
+            }
+          },
+          "hash": "9016d5f9ccd72ee2cf34dcedc5f690bc05fa23e2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15468$D938CDCC-7501-4CDC-AEAE-C826F2CE9A2E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15468$2D35A6BD-1977-4138-8C34-85A551247A20",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1559-04-13T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c2db1f1604db5979428d6d487c83b7633fa50b4d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15468$4FCE8FE4-35B8-4387-A3BC-4CDACFD23C45",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1579-10-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d715e8be51e290f752791a822302a5df02a83d1b",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15468$F9E9FCFB-3DB2-4AA9-858D-23141A72AD21",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Nobuyasu.jpg"
+          },
+          "hash": "ee0a342c670bf4ebf7b4abe7d1f9bcb4119b2190",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15468$531DBC26-B8C3-4612-B8A2-917715590A5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1188704"
+          },
+          "hash": "3fe58b349e56e602fe5f55d1a12ff33fcd249642",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15468$7CC96B8E-A123-4292-8056-1FFFCA297662",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Matsudaira Nobuyasu Arms.svg"
+          },
+          "hash": "568ea2a552ebae6eb0dcd63e574901fa7223b65c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1559–1579)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "samuraj"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "[松平信康] son of Tokugawa Ieyasu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Tokugawa Ieyasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国～安土桃山時代の武将、征夷大将軍・徳川家康の嫡男"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Samoerai uit Tokugawa-shogunaat (1559-1579)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский самурай"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon soylu (1559 – 1579)"
+    }
+  },
+  "id": "Q15468",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Набуясу Мацудаіра"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Nobujasu Macudaira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Matsudaira Nobuyasu"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ματσουντάιρα Νομπογιάσου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Matsudaira Nobuyasu"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Matsudaira Nobuyasu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tokugawa Nobuyasu"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماتسودایرا نوبویاسو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Matsudaira Nobuyasu"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Macudaira Nobujaszu"
+    },
+    "it": {
+      "language": "it",
+      "value": "Matsudaira Nobuyasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "松平信康"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마쓰다이라 노부야스"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Matsudaira Nobuyasu"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Matsudaira Nobuyasu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Matsudaira Nobuyasu"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Matsudaira Nobuyasu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мацудаира Нобуясу"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Matsudaira Nobuyasu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Matsudaira Nobuyasu"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мацудайра Нобуясу"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "松平信康"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "松平信康"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "松平信康"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "松平信康"
+    }
+  },
+  "lastrevid": 17415218,
+  "modified": "2025-09-16T00:20:15Z",
+  "ns": 860,
+  "pageid": 37755,
+  "sitelinks": {},
+  "title": "Item:Q15468",
+  "type": "item"
+}

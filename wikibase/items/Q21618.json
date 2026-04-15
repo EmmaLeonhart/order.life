@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ujinaga Mori"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q21618$0F630DFE-2C60-49D9-900D-929FEBAA8E42",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "森-13"
+          },
+          "hash": "d89c08c9fe03df194eb11db8d2ccee78f3f70ede",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q21618$CF217524-4025-474F-912F-2C5BC12E13EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21618$5C0FFC84-9196-4D47-AF47-6C36D46A60B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21618$7ED8FD85-D754-4EE1-93A6-D4CD2837C001",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19647",
+              "numeric-id": 19647
+            }
+          },
+          "hash": "61f746b78ab0a8be5a5d0fdab80e58758e2a02eb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21618$3D26C7C3-D530-42D3-862C-288DB94D879E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21618$A628B5BA-9C6C-47B3-8C9C-68B611A41149",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1567-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9d847660a87ac9312c3533dfa4ea81d5ee9ebd24",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q21618$E08CCDA2-A985-48D6-A402-D8F1E0A6E322",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1582-06-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8673f6fb0154f8b1dae6c725cbd9758add2952f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21618$D2FAA2F3-4641-43D6-B5D6-3B7724AD5498",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11540414"
+          },
+          "hash": "e215f790950b04f9c3aa910ef21f5418c49f5532",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21618$4B81121E-1C04-4075-9349-9A613CE0F922",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ujinaga Mori Arms.svg"
+          },
+          "hash": "0c7c62c49bf089f7448db0f6d00d028cc2f88539",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский самурай"
+    }
+  },
+  "id": "Q21618",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ujinaga Mori"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ujinaga Mori"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ujinaga Mori"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ujinaga Mori"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "森長氏"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мори Удзинага"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ujinaga Mori"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "森長氏"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "森長氏"
+    }
+  },
+  "lastrevid": 17420682,
+  "modified": "2025-09-16T02:24:00Z",
+  "ns": 860,
+  "pageid": 43634,
+  "sitelinks": {},
+  "title": "Item:Q21618",
+  "type": "item"
+}

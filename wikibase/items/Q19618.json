@@ -1,0 +1,250 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Koshosho"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q19618$F05E76E3-8210-4789-AB07-E8446A6ABDD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32573",
+              "numeric-id": 32573
+            }
+          },
+          "hash": "25ad4a987c1fab28a24dff09f5d77e583fce0c22",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19618$EFEFA4AC-0199-4EF9-9A66-4A15E474F925",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19618$D882E5B0-7346-4A61-A75A-62C90A9E7D47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q19618$92266FC0-5AA6-40F6-8F64-9BAAEB990556",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17986",
+              "numeric-id": 17986
+            }
+          },
+          "hash": "514534ed73a58e36bd6efacee629a196de433f35",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19618$196E2A98-2071-460F-B870-CAB5FEBB5F3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36853",
+              "numeric-id": 36853
+            }
+          },
+          "hash": "191942eaf63022981f71e7afae3cf7c6b52d2c2c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19618$4761EE55-170A-474B-88CD-54DD101014CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19618$9E166131-4221-4658-8FAC-F068DE7A7C5E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19618$53EF4620-C3B8-4A02-8B16-A3960A3D8B84",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1573-09-22T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c0f6014a130c96ee70fd068ef54d689b1bda7567",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19618$2BBD9610-2856-4FBD-8EF5-72D60AB6F385",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11459747"
+          },
+          "hash": "1eee39cf9d2dc700a83adf6099cdaa766829295f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19618$E07CAA19-A797-4DED-AF68-7C83445746CE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Koshosho Arms.svg"
+          },
+          "hash": "534c6b06aa321fcf3532aeb8a62fe59007baddd8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代から安土桃山時代の女性。朝倉義景の側室"
+    }
+  },
+  "id": "Q19618",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Koshosho"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "小少将 (朝倉義景の側室)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Koshosho"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "小少將 (朝倉義景側室)"
+    }
+  },
+  "lastrevid": 17418872,
+  "modified": "2025-09-16T01:40:26Z",
+  "ns": 860,
+  "pageid": 41728,
+  "sitelinks": {},
+  "title": "Item:Q19618",
+  "type": "item"
+}

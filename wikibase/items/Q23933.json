@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "中山元親"
+      },
+      {
+        "language": "en",
+        "value": "Zhong Shan Yuan Qin"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q41549$888A2AA2-AF14-4ED4-BD5D-047A3B060269",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q47817",
+              "numeric-id": 47817
+            }
+          },
+          "hash": "470bc22d0827c65b4e03c6cdba01cc4e48944d34",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q41549$1C22EA71-D169-4C21-9D5A-4FB3042DDB7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q41549$2DA91E3C-99C5-40B6-B86E-84E0359376C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q41549$4065EB70-22E8-4569-89EB-54A6708806E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36918",
+              "numeric-id": 36918
+            }
+          },
+          "hash": "c1e6a90519e70290d413338083ec8fc1b7224efa",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q41549$083F066D-2262-404C-9FDC-310F8DB07EED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q41549$F51AE713-839F-4C72-B389-013BCB3EBB1A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1594-02-02T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6d0ba4c8a9c568bca79426816181be9c316ccbfc",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q41549$132752F6-2210-47A7-BF8F-5B748173E4CA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1639-09-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "10ee1f9b59974f3725b0156c8601bd3f47890f22",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q41549$B2A3AE81-F8B4-4E69-921D-6BA6479DA904",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q96714823"
+          },
+          "hash": "6711d136b3321496dd84c9454c9199a2e5f3e1c4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代前期の日本の公卿。中山家16代。正三位権大納言"
+    }
+  },
+  "id": "Q41549",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "中山元親"
+    }
+  },
+  "lastrevid": 17445092,
+  "modified": "2025-09-16T08:41:59Z",
+  "ns": 860,
+  "pageid": 58850,
+  "sitelinks": {},
+  "title": "Item:Q41549",
+  "type": "item"
+}

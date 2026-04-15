@@ -1,0 +1,264 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakahito"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q7509$E3944914-5C62-415E-B32B-D3E0003BB07B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7509$F0DA5A1C-ABA3-4547-903C-B4CCA6CE0003",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7509$5048EF46-A185-4299-8D94-F45534F2ECBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7508",
+              "numeric-id": 7508
+            }
+          },
+          "hash": "ba8be9e620837d920927105f25d930a721976625",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7509$CE87677C-291F-4451-90AA-DDEB1CBB1CB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7509$DABAAC1A-D173-4A39-9D7C-963239E7AF50",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0754-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "49f4f9220870ae07f9de35070bfd4b386a2aa4e0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7509$4C4C4BDF-57C6-4114-89FA-4CFF906F5595",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0829-09-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3026d14893cbe8dd4ba68c41ba9e699d19668143",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7509$8B4B2B8D-72FB-497C-858C-13EF60B75459",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7244811"
+          },
+          "hash": "a9e681ecc41743123da501041f29ed588b838203",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7509$EA34065A-0330-4D01-A942-8EE95222DE9F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakahito Arms.svg"
+          },
+          "hash": "ec02e57396b66483701d4b78732ee5099f5de37f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter von Kaiser Kōnin und Frau von Kaiser Kanmu"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of emperor Kōnin and princess consort of emperor Kammu"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de emperador Kōnin y mujer de emperador Kanmu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille d’empereur Kōnin et femme d’empereur Kanmu"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlia dell’imperatore Kōnin e consorte dell’imperatore Kanmu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "光仁天皇の皇女"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь императора Конина"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระราชธิดาในจักรพรรดิโคนิงและเจ้าหญิงพระชายาในจักรพรรดิคัมมุ"
+    }
+  },
+  "id": "Q7509",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sakahito"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sakahito"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sakahito"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهدخت ساکاهیتو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sakahito"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sakahito"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "酒人内親王"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "принцесса Сакахито"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sakahito-naishinnō"
+    },
+    "th": {
+      "language": "th",
+      "value": "เจ้าหญิงซะกะฮิโตะ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "酒人內親王"
+    }
+  },
+  "lastrevid": 17407447,
+  "modified": "2025-09-15T22:35:07Z",
+  "ns": 860,
+  "pageid": 30002,
+  "sitelinks": {},
+  "title": "Item:Q7509",
+  "type": "item"
+}

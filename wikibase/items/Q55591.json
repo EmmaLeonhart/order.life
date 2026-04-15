@@ -1,0 +1,242 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sargis I Jaqeli //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q55591$C89CA166-FCBE-4AE6-B4D3-1C5F40B56B96",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1118356"
+          },
+          "hash": "ea83af34a6abd01e9de23daa84b2b847e572f730",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q55591$2F5C136D-2768-4C5D-802B-CBC1487C4DF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00763498"
+          },
+          "hash": "35b50e733762850a1490d36370b7144065e92da1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q55591$0EC337A5-99D5-4884-9F2C-44BF4C9CB6C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50075",
+              "numeric-id": 50075
+            }
+          },
+          "hash": "c12f2c563aa07ed52fa9b11e7a35b1529ad25f38",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q55591$EFCCB8C4-FB39-4A8D-8B12-2532834F1878",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q55591$7B636A0D-C39D-46D3-8600-2C98B5291692",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q55591$45031DA8-0CBA-4F7F-BB36-13D7FF72C2A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q55591$747C34D8-9A92-4B30-AB4E-42B1E13F33C9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1285-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "67a463c420080e7355e1854ff863c55cdb23a248",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q55591$AAAA908D-0E99-40E5-842C-BA65537B9B4F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7423947"
+          },
+          "hash": "65d2393ce7e75bdcecec7a2cd11d0f71edde5c19",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q55591$ABDB8F90-3A0A-4C0D-80E6-2A096E8B69E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sargis I Jaqeli Arms.svg"
+          },
+          "hash": "bbb5a4042f002a9017147fa29906bba4a3079bb3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Georgian noble"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Правитель,Самцхе"
+    }
+  },
+  "id": "Q55591",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sargis I Jaqeli"
+    },
+    "az": {
+      "language": "az",
+      "value": "I Sarkis"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sargis I Jaqeli"
+    },
+    "he": {
+      "language": "he",
+      "value": "סרגיס הראשון ג'אקלי"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "サルギス・ジャケリ1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სარგის I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Саргис I Джакели"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Sargis Cakeli"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Саргіс I Джакелі"
+    }
+  },
+  "lastrevid": 17463656,
+  "modified": "2025-09-16T13:13:32Z",
+  "ns": 860,
+  "pageid": 70422,
+  "sitelinks": {},
+  "title": "Item:Q55591",
+  "type": "item"
+}

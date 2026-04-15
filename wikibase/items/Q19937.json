@@ -1,0 +1,221 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Chi Tian Ju"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q33351$4E58E358-2DB5-4CFE-AF2F-38249642FA0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33351$2FD224BF-314F-41B2-A5A0-55FFA4090F99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q33351$5DEE1EC9-62FF-4FEC-B8E6-5599FADA7593",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21882",
+              "numeric-id": 21882
+            }
+          },
+          "hash": "b33b8fcb90984c999640c3c55b21d19f82d32440",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q33351$CA63A9E6-C5A3-46AD-AC69-E47C71D7B10C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18290",
+              "numeric-id": 18290
+            }
+          },
+          "hash": "082195040e6081db8a1776d7b2230c3d87e87d21",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q33351$075E896E-019D-4378-AEC8-C2D355E69A15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33334",
+              "numeric-id": 33334
+            }
+          },
+          "hash": "d1f01d7af16c3d4ce232ecf24c178ca7c8d72f30",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33351$8543EA21-680A-47CE-8FC5-D68D8A1B8B50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33351$E6A8332E-DB96-4A08-B641-515CECB03122",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1686-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f95e1dcd17e82cb4c7005226c471154e0178b06",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q33351$A91DB072-384E-44DD-817D-A01C7D38F05A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1758-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "108ecf19cffff94b0f3208d25a8a4fa49340b85a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33351$6CB4B16E-31BA-4B35-AA33-B83E732D35AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q111307327"
+          },
+          "hash": "2c1ab3b768ea2786aac1c77ecb9b60e1b7c071d7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "池田綱政の十女。山内豊房の継室"
+    }
+  },
+  "id": "Q33351",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "池田菊"
+    }
+  },
+  "lastrevid": 17434034,
+  "modified": "2025-09-16T06:02:25Z",
+  "ns": 860,
+  "pageid": 52724,
+  "sitelinks": {},
+  "title": "Item:Q33351",
+  "type": "item"
+}

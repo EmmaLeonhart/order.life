@@ -1,0 +1,246 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Date Narimune"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q16380$5109D34A-40DB-47F3-BE9D-F1C3544D787F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27939",
+              "numeric-id": 27939
+            }
+          },
+          "hash": "f481223c0d0befee73f3526c0e2c849e22c2a371",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q16380$2FF14663-FF67-43D9-9E75-D8AB16443447",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16380$03C302EA-172E-4FBF-8A40-F09234CCB8BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16380$D4441A60-1C62-4ACF-B8B7-6A1EA96C95DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27936",
+              "numeric-id": 27936
+            }
+          },
+          "hash": "8646011362ed50c3ea31889cc0e8e127fec6d92f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q16380$C79B20E0-45D5-4B63-9D85-F97E56E619CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15669",
+              "numeric-id": 15669
+            }
+          },
+          "hash": "a7dfbcfd0b822544eeb20e6df62c175c8541d301",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16380$B65E142A-8314-438E-A933-AC396F526D53",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16380$AEF94CBA-6C87-42DD-A9D6-60B53E9B467A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1435-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "35e15346ac1b5ebff8172629c8d1e53835dfde70",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16380$F9256E9C-11AE-447B-9669-9FEB71626C03",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1487-10-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a94264d07028985d129b84669ed435dc25c1483e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16380$F6603150-E45B-4CCC-8F88-3D48C6FF1B7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10885147"
+          },
+          "hash": "b6494047d8553d73c92c170fd308901aeffab9ad",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16380$8B23C336-78DD-4898-93E2-F57CCDD184B8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Date Narimune Arms.svg"
+          },
+          "hash": "53aaa49b46759ab1ffbcc2fed1b81b219219cdc2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代中期から戦国時代の武将"
+    }
+  },
+  "id": "Q16380",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Date Narimune"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "伊達成宗"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊達成宗"
+    }
+  },
+  "lastrevid": 17415940,
+  "modified": "2025-09-16T00:30:43Z",
+  "ns": 860,
+  "pageid": 38642,
+  "sitelinks": {},
+  "title": "Item:Q16380",
+  "type": "item"
+}

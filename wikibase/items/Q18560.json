@@ -1,0 +1,204 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yoshuin"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q18560$01F9BEA0-44A2-4360-8258-4E785621BB8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18560$D2062707-898A-4539-852E-8F5DCED8FC27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q18560$87BA31B8-904D-4292-9B69-C292D6238731",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17124",
+              "numeric-id": 17124
+            }
+          },
+          "hash": "503309ee94bd04e17572184b3efd40df291c9a4b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18560$C8C4C076-7647-40E2-A2B0-305ACBF800B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18560$FA8E4599-295A-4B7B-8771-FBF6DB90A3C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1649-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6dd2a5377f32034045f04280cc95bff6275c30ca",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18560$2E099613-8546-4AB7-8F89-F1355A431D54",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1667-08-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3c985854662fd6070981b436f75d95aa5f2813bf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18560$64258D39-BFD1-4798-A574-BC8A33F568D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11666833"
+          },
+          "hash": "b57d865ce7742655c3795b6222fe305423c56933",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18560$7893DB99-4F46-4071-A999-290E7BF8295B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yoshuin Arms.svg"
+          },
+          "hash": "f51771ab1e3514c961aacf38cb0070380b68d8b3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代の女性で、4代将軍・徳川家綱の側室"
+    }
+  },
+  "id": "Q18560",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yoshuin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yoshuin"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "養春院"
+    }
+  },
+  "lastrevid": 17417932,
+  "modified": "2025-09-16T01:18:08Z",
+  "ns": 860,
+  "pageid": 40741,
+  "sitelinks": {},
+  "title": "Item:Q18560",
+  "type": "item"
+}

@@ -1,0 +1,350 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Xiao Huan"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q53373$9994D6F3-CE6E-4148-A26E-7A489E0211AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60271",
+              "numeric-id": 60271
+            }
+          },
+          "hash": "05531a56d5059c7667967b2d6de091b97067c2dd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53373$4074AC09-C66D-47D6-BF92-972965FC85CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60274",
+              "numeric-id": 60274
+            }
+          },
+          "hash": "c12564d8388212e55cbc0d27a81b936313762fde",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q53373$EE6A268A-BD00-4904-BA30-0AE5AC54B40A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53373$0B3570F0-1FA1-4C2A-BFF4-BFA6F96B3A75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q53373$7AC94E6F-B3A1-46D6-83CC-208B0A3B88F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60268",
+              "numeric-id": 60268
+            }
+          },
+          "hash": "74ce9f8a762a436a199b51781531d95fea490273",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53373$1E6889A3-DFC3-4964-A073-DE139DCA76EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53301",
+              "numeric-id": 53301
+            }
+          },
+          "hash": "2262eaa8db516ef6d0413a8f6aec4ecf9852cec4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q53373$AC8E9E65-8C6B-4184-8C4A-0847ABEBDA63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q60202",
+              "numeric-id": 60202
+            }
+          },
+          "hash": "e299745269ed291ea497d5faab5f10126e2bdc95",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53373$19EEE9A4-E387-4AE6-9336-922D4968FCD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53373$11142557-C6F5-4F87-8CC7-4CE0A4C1DF89",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0515-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "caace84d4fe1df2d4c95a3f47201ff2b9ce3efc5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53373$4A1CC56D-7B1A-4549-B2F0-15074EA67442",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0549-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "222570e60cfd8a680edb7a01357ce4d41ac5f241",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53373$24509F19-6BF4-4C9B-B077-994E580B5DB7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16259833"
+          },
+          "hash": "6ce5bcafbe37d17ba0e05cd9659039f8a407cee9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53373$09F2CC54-17AB-4F67-8152-C0C29A7A6C4B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Xiao Huan Arms.svg"
+          },
+          "hash": "fdc50c97e105e62b65e1a5c8345f99a8c96dd46f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "person, CBDB = 171671"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "中国古代历史人物"
+    }
+  },
+  "id": "Q53373",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Xiao Huan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Xiao Huan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Xiao Huan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Xiao Huan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Xiao Huan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Xiao Huan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Xiao Huan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "蕭歓"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "소환 (양나라)"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "蕭歡"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Xiao Huan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Xiao Huan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Xiao Huan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Xiao Huan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tiêu Hoan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "蕭歡"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "萧欢"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "蕭歡"
+    }
+  },
+  "lastrevid": 17460134,
+  "modified": "2025-09-16T12:21:39Z",
+  "ns": 860,
+  "pageid": 68204,
+  "sitelinks": {},
+  "title": "Item:Q53373",
+  "type": "item"
+}

@@ -1,0 +1,501 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ankan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q7149$78A2B435-56B9-4429-B964-72E9786D0159",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719985"
+          },
+          "hash": "74c362aff8e4f599c5542f6b28a3305f1834accd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q7149$002F979A-A319-4E44-B8A9-E3EC31E7816F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q7149$9C88A30C-681A-4BB2-8161-7BA2BE59943E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q7149$7C730519-D363-4E9B-8B91-90BE8953CE62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7113",
+              "numeric-id": 7113
+            }
+          },
+          "hash": "801763098821fb4389583e537ff45f7e6989aad2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q7149$C6661EE9-8004-4A74-92BD-3F71CDA15664",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7120",
+              "numeric-id": 7120
+            }
+          },
+          "hash": "7fb9e3903ccadff10a2070344510125d09e6de51",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q7149$7BE5449B-F17B-4CCC-BF9C-B5E9108DE4D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q7151",
+              "numeric-id": 7151
+            }
+          },
+          "hash": "8f4e1aaca49756de5aa1bca3f4a8840ced3e2db2",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q7149$350EDE68-5DF4-4977-B1C9-C32A674DE38B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q7149$D85B87C8-06CC-4D97-A19E-42D319960E8F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0466-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4859eec59768fc8bc7ce3d98b8cbbef40464a3c5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q7149$C04D8994-1AE5-4E37-A5CE-88A027646A92",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0536-01-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "546429261d16c95c3a8666a3293907819f372a3c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q7149$E628F06F-C727-48DC-A558-6F5709E48403",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Ankan.jpg"
+          },
+          "hash": "72acfaab31f9b2e520a044d20266ff562dfe94b9",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q7149$AC5CFBE7-7DF4-484B-8627-D17981E09D96",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q241765"
+          },
+          "hash": "7fa8f0ee406cae53a62bc6b9dd3e15a0686a2826",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q7149$E16EEF1A-5A8E-4FA4-B83A-CFBE50E06CF8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ankan"
+          },
+          "hash": "f299a210224180768e954d91a0262740a4ad96c3",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q7149$B7D12B2E-AE77-41E1-A7F3-DDB571869082",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ankan Arms.svg"
+          },
+          "hash": "322e8cf81b7e8a7e9197704e9678c909ac59744a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (466–535)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař (531–535)"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "27. Tennō von Japan (531–535)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador de Japón"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "japán császár"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第27代天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "일본의 제27대 천황"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans heerser (466-535)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński władca"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kejsare av Japan mellan 531 och 536"
+    }
+  },
+  "id": "Q7149",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "الإمبراطور أنكان"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الامبراطور انكان"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "آنکان"
+    },
+    "br": {
+      "language": "br",
+      "value": "Ankan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador Ankan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ankan"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Ankan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ankan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ankan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Ankan"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور آنکان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ankan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ankan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ankan japán császár"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Ankan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ankan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安閑天皇"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანკანი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안칸 천황"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "अंकन"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ankan"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Ankan Thian-hông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ankan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ankan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Ankan"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Ankan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Император Анкан"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Ankan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Cesar Ankan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ankan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ankan"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิอังกัง"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Ankan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ankan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Анкан"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Imperator Ankan"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Ankan"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Ankan"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "安閑天皇"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安闲天皇"
+    }
+  },
+  "lastrevid": 17407037,
+  "modified": "2025-09-15T22:29:55Z",
+  "ns": 860,
+  "pageid": 29644,
+  "sitelinks": {},
+  "title": "Item:Q7149",
+  "type": "item"
+}

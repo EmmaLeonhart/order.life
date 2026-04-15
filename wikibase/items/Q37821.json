@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Chungjeong of Goryeo //"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q37821$7E9A78A3-9E9E-46F1-84F3-7AF400150065",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39412",
+              "numeric-id": 39412
+            }
+          },
+          "hash": "f3f83d3c2df2d54340ac42248e1e15bb89074814",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q37821$EC5C1EFB-A2CE-4D3E-B4B6-2B353154A44F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37821$E187FAE2-2B97-4D41-9D58-63053C41342D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37821$690F13D1-46F9-465C-AD77-15EA0439423B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q36739",
+              "numeric-id": 36739
+            }
+          },
+          "hash": "f162fb8a9767f9e01142281edb91f3a5f46cbb46",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q37821$BC9644D6-7B7C-4941-8247-3D7286A1A408",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37813",
+              "numeric-id": 37813
+            }
+          },
+          "hash": "2cb11bca886dc68437b1741cb027e22bb9d8b6fd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37821$7DFB9953-D644-40D8-B112-37C5281F370B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37821$F23663AA-1D46-4740-A4D6-66480E70AAA8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1337-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c025a372c8c07144a325bfa03506428f29803111",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37821$A1EBB876-E3E7-40E3-8306-5EF60E610997",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1352-03-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a7ce4515261f7134bd8f8152b6aeaf183bc3bb50",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37821$F6807C68-52EE-4641-B306-CB70938AD801",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q485495"
+          },
+          "hash": "8a5beaf2c40b974daf3e3d29dde530b6f3f263da",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q37821$F596D136-3A75-4B0A-8EA6-7B8CE8EC1931",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Chungjeong of Goryeo Arms.svg"
+          },
+          "hash": "f89d182b4f568eafd119a3b28fd39b02ae0e03ac",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "30. König des Goryeo-Reiches und der Goryeo-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Goryeo (1338 - 1352)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "reĝo de Koreio"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고려의 제30대 임금 (1338–1352)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "koreansk monark"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Правитель Корьо"
+    }
+  },
+  "id": "Q37821",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تشنغجونغ ملك غوريو"
+    },
+    "de": {
+      "language": "de",
+      "value": "Chungjeong Wang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Chungjeong of Goryeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Chungjeong of Goryeo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "چونگ جونگ از گوریو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Chungjeong"
+    },
+    "id": {
+      "language": "id",
+      "value": "Chungjeong dari Goryeo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "忠定王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고려 충정왕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "高麗忠定王"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Чүнжон ван"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Tiong-tēng-ông"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Chungjeong av Goryeo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Chungjeong of Goryeo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Чхунджон"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Chungjeong av Goryeo"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าชุงจอง"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Chungjeong"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Чхунджон"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Trung Định Vương"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "高丽忠定王"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "高丽忠定王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "高丽忠定王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "高麗忠定王"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "高麗忠定王"
+    }
+  },
+  "lastrevid": 17440424,
+  "modified": "2025-09-16T07:35:53Z",
+  "ns": 860,
+  "pageid": 56063,
+  "sitelinks": {},
+  "title": "Item:Q37821",
+  "type": "item"
+}

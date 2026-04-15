@@ -1,0 +1,200 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeda Toshiko"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q19233$ADB3D888-42FD-4E14-A645-ABC44DAD93F2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "前田-42"
+          },
+          "hash": "dfa26ab015033910bf9fc5f0f4fbd79911c6f56e",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19233$93FE4B7F-2A8F-4729-B134-2A8D14B4E083",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19233$739B301A-F765-4B10-B559-F01D06DDF68D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19233$9BB7F021-70CD-462B-A675-D5F6286730E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19233$5EE852D3-EAD5-4185-9156-4530C7BFE16E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1693-11-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e101b2cfdb6d3935e5980cc7df0037f58bda8743",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19233$BC92A1F7-31D6-4B54-B67C-43A38651E669",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1749-01-24T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32456da5b5c194ffb4b83cdb92a284ba3cfe2a2e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19233$3AE78FC4-80EC-4859-99EF-10766D2038F5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17221223"
+          },
+          "hash": "6bb52256e0e399153a86433c682e7aa0630750a2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19233$F9B29326-EAF1-4239-B2C2-56AF484D08B0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Toshiko Arms.svg"
+          },
+          "hash": "b48b9ae774ec4feaccc8b92042ee47124ef8063e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "16 Nov 1693 - 24 Jan 1749"
+    }
+  },
+  "id": "Q19233",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Maeda Toshiko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田利子"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тосико Маэда"
+    }
+  },
+  "lastrevid": 17418412,
+  "modified": "2025-09-16T01:31:29Z",
+  "ns": 860,
+  "pageid": 41393,
+  "sitelinks": {},
+  "title": "Item:Q19233",
+  "type": "item"
+}

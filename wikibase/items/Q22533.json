@@ -1,0 +1,255 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nada Akimoto"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q22533$C599B31C-767D-427A-B8B4-8DD9793EC105",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39042",
+              "numeric-id": 39042
+            }
+          },
+          "hash": "2c6984c59adb4c841945dc215d3889425f9e5970",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22533$8D5D910F-AB9B-447A-BCB2-B5304F3539C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24745",
+              "numeric-id": 24745
+            }
+          },
+          "hash": "92bee2db2516f592587872ae8e0f82daf27a2fb0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22533$8C115E1D-4128-473D-A5C4-6733B9A3665F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34871",
+              "numeric-id": 34871
+            }
+          },
+          "hash": "004592ff7341dc1b63a8d353efd553964e6eb03a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q22533$40F741A0-FEFD-4292-A1DB-B1DC549B2B70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q22533$66D8F8F8-AE6A-4ECB-8BD4-97397A31D4F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q22533$57161989-973D-4222-8941-D7003ADCB485",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43355",
+              "numeric-id": 43355
+            }
+          },
+          "hash": "ff6a8e0c750fb6694d006dc8a478e690401ccbea",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q22533$FCB7A7B7-F541-4959-A025-CDCAE285101E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q22533$E6AEE979-EE2F-4799-ACF7-35C7E6D4BEED",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1569-08-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6d1d1b7a7676aad64c229f27a471105833dff684",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q22533$967F82C9-FF9E-4D35-AF13-52A889926CA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11444956"
+          },
+          "hash": "a0b170ec3fc17ee9cf60ecb9d72ad22601734ab5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q22533$380B79DE-261D-4DBD-853D-0F77BF5DD4AC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nada Akimoto Arms.svg"
+          },
+          "hash": "b571d283d24b6c13627fd4824e1e729f4b0735ea",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "戦国時代の武将。大友氏の家臣。和泉守。宇佐公基--奈多国基（奈多八幡大宮司、大和守）--行基（子に之盛）--雄基--直基-秀基--隆実（子孫に誠基--恒基）--奈多宗心-鑑基。子に奈多政基（-1565、長子、立花鑑載討伐の際に戦死）"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q22533",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Nada Akimoto"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nada Akimoto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "奈多鑑基"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Акимото Нада"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "奈多鑑基"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "奈多鑑基"
+    }
+  },
+  "lastrevid": 17421430,
+  "modified": "2025-09-16T02:44:33Z",
+  "ns": 860,
+  "pageid": 44518,
+  "sitelinks": {},
+  "title": "Item:Q22533",
+  "type": "item"
+}

@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kawagoe Shigefusa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q12185$BEE4E986-E23E-43BE-9D8A-CC28655FECBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12185$6F86973A-4D30-4123-AAC9-C12876CE3B95",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12185$7D9265E4-B2D8-449F-B869-7AF09A2BAF3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11357",
+              "numeric-id": 11357
+            }
+          },
+          "hash": "002fc6808ff2aad39304273932537d115e73b6ba",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12185$16D59C39-996E-44AE-9D44-781B468E96CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12185$AF6CC6EB-D68E-4BCB-AB8E-0EAFE4D36E30",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1169-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b67339f1ed95f35b05ca805deaf767ea56ba318",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12185$3A8B83C2-CC70-435F-8EA8-0C2E6152BCD6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1185-12-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "04ed52c7cb004a2ecfaaaaba944487ce7f396be9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12185$14491095-D9D3-413E-9EEF-7146542AB1EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11554111"
+          },
+          "hash": "e59d8cdddf17abf18c422ad80af649b49dce6bc1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12185$69B61F57-5325-4CB8-A05E-5D21C68E122B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kawagoe Shigefusa Arms.svg"
+          },
+          "hash": "f7b7588f733accdd47194ab79a2a3b0214de7f75",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q12185",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Kawagoe Shigefusa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "河越重房"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигэфуса Кавагоэ"
+    }
+  },
+  "lastrevid": 17413368,
+  "modified": "2025-09-15T23:54:38Z",
+  "ns": 860,
+  "pageid": 34530,
+  "sitelinks": {},
+  "title": "Item:Q12185",
+  "type": "item"
+}

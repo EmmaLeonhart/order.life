@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Yunzhang //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q53215$9D9B9277-CEBD-437C-8DA3-557EF8B69E87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53215$C61E356A-E923-47BC-9582-D39F24B3D0D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53215$D8502007-68F0-4DCD-8066-F303F7F17E3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53199",
+              "numeric-id": 53199
+            }
+          },
+          "hash": "f5b0d2ed686c4f59dd245027fa365f18c7808265",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53215$69128496-3437-42BE-B4FF-F70B1EF967FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53215$566FC8D8-645B-4ABB-BE84-FDCDE36513C6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1829-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "474278cde6dad922f8e7d1b308f790835f03e83e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53215$776DD010-754C-4806-82AC-D9889CFA2961",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1886-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "adb7ae276e89a4d14498b9121432a0aaad54037e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53215$E1CD8F40-479E-4B97-B4AF-013FA510DD8C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45558723"
+          },
+          "hash": "4a33cba8452b73ca8f445e724bce06da7e8bdff5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q53215$8EC75875-8513-4F2C-A11B-DEF669389D38",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011627423005"
+          },
+          "hash": "d152f23bb27a7482db118303cd1c49f4bc9c7c70",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53215$2EA77857-93A1-400D-9BA9-B8AE77C6BD52",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Yunzhang Arms.svg"
+          },
+          "hash": "868871c9e4455482dab597920bd19809b94abdf1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Qing dynasty person CBDB = 77993"
+    }
+  },
+  "id": "Q53215",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Yunzhang"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Yunzhang"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李蘊章"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Yunzhang"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李蘊章"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李蕴章"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李蘊章"
+    }
+  },
+  "lastrevid": 17459834,
+  "modified": "2025-09-16T12:17:17Z",
+  "ns": 860,
+  "pageid": 68046,
+  "sitelinks": {},
+  "title": "Item:Q53215",
+  "type": "item"
+}

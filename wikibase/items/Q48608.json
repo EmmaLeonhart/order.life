@@ -1,0 +1,199 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakai Tadakata"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q48608$3AB378C4-6189-4A18-9C19-C5885D0E8466",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q48608$05D375C8-C982-45EE-B3EE-73F24E12E1CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q48608$4472EFC3-DA85-4331-8B54-373763ED2248",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q24190",
+              "numeric-id": 24190
+            }
+          },
+          "hash": "0e76f4f89b7ed696590ea8662f8db8fc1bc03810",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q48608$6A6EDB39-696D-4834-8395-64CCE0060630",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q48608$F9B3EB5D-0425-4FBF-92B0-0F09032F7EDA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1754-03-15T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6122c803642df259db1e34a6df01d10375a526a4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q48608$17716286-F463-4D07-9C31-328DDD29730C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1804-03-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "faa206bccbf33c7de9ac2b3249f0307c0208454a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q48608$A07BB2BB-6C51-4DF5-B401-5ED1182D4DD7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11644098"
+          },
+          "hash": "0dff735d8b049de07dbea494cd4f8ed6b4c12419",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q48608$816550A0-5F60-49E9-83B7-98F61191531D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakai Tadakata Arms.svg"
+          },
+          "hash": "68549e30809fef250d15c0e8c36adbcce460a0a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q48608",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sakai Tadakata"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "酒井忠交"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тадаката Сакаи"
+    }
+  },
+  "lastrevid": 17454100,
+  "modified": "2025-09-16T10:53:01Z",
+  "ns": 860,
+  "pageid": 64127,
+  "sitelinks": {},
+  "title": "Item:Q48608",
+  "type": "item"
+}

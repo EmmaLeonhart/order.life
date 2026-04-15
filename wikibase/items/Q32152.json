@@ -1,0 +1,167 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "朱由棪"
+      },
+      {
+        "language": "en",
+        "value": "Q11094452"
+      },
+      {
+        "language": "en",
+        "value": "Q11094452 //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q32152$4395B69A-FAB8-4CDF-B322-B2A6503892F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q32152$19F11B82-A1DE-4AB5-85B6-BA5E7805DFB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q32152$53A081A3-F093-43B4-8493-560E94D3885B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31463",
+              "numeric-id": 31463
+            }
+          },
+          "hash": "fff1e1a0e0cbbf7efb9b5769cf4b3b87c329188f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q32152$B07ECC2A-4B29-4ADE-804A-C0952A9A2F84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q32152$90137F18-712C-49C0-B869-88038444B7A3",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1647-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7966417a33c2ea72c1221ff0e6da1b223fef0fb4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q32152$6F4F64CD-B862-4CE1-97B2-58B88EB5D3B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11094452"
+          },
+          "hash": "6ece91fbf283db1a3f7bfe3f5d883838e1c8bcbc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "king"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning uit China (?-1647)"
+    }
+  },
+  "id": "Q32152",
+  "labels": {
+    "zh": {
+      "language": "zh",
+      "value": "朱由棪"
+    }
+  },
+  "lastrevid": 17432338,
+  "modified": "2025-09-16T05:37:56Z",
+  "ns": 860,
+  "pageid": 51826,
+  "sitelinks": {},
+  "title": "Item:Q32152",
+  "type": "item"
+}

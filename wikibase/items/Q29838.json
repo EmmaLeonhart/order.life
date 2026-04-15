@@ -1,0 +1,210 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q29838$C501C191-5B14-41C9-B20E-D09E76FEE4FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29838$5AFB5EE9-E484-4A71-943A-3B64EC3EB272",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q29838$3AB8EB45-3E84-4B1D-8EFA-56935CCA375C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29842",
+              "numeric-id": 29842
+            }
+          },
+          "hash": "92440e576bed35f5e528d7aa14266762bb3988c3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q29838$38F61542-00EE-44D3-8A43-939E174C23F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53414",
+              "numeric-id": 53414
+            }
+          },
+          "hash": "8a546ff3ee0280e61715a8ccbf43fc5c370bc582",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q29838$990E1EDE-8B4C-4957-92C3-903AFE2E9378",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Ötzi /The Iceman/"
+            }
+          },
+          "hash": "721d88c3c59d1f7e0afa0dd499de3544ad4eb66b",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q29838$4740AB7D-B2E9-472E-8012-A7CD351F41A0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q29838$46E8F80A-7435-4AF4-8F27-387FDD2782F1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+3275-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5c76a4aaa449f6f1fba82094bd878ac1ee02fed9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q29838$22EDFCA1-577D-4D1A-9F5F-EDDD53468AFB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+3230-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b2f2772da8fd40956c0622846b08c0fe3e2f123f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q29838$87DF2713-3AEF-4AE0-8D18-6CC7A15956EB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Otzi  The Iceman Arms.svg"
+          },
+          "hash": "37bec530df2b4d3a7f208383c029cadc3616967e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q29838",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Ötzi  The Iceman"
+    },
+    "en": {
+      "language": "en",
+      "value": "Otzi  The Iceman"
+    }
+  },
+  "lastrevid": 17429332,
+  "modified": "2025-09-16T04:54:40Z",
+  "ns": 860,
+  "pageid": 50096,
+  "sitelinks": {},
+  "title": "Item:Q29838",
+  "type": "item"
+}

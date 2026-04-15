@@ -1,0 +1,300 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakai Tadanao"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q18385$0444972D-B47C-47FB-ACDF-C7DF2547111A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q20018",
+              "numeric-id": 20018
+            }
+          },
+          "hash": "c606b118aaa4d748c274aad03b8056f24a4fe38f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q18385$E6D95357-05F1-4930-9BC7-124500956E31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "酒井-24"
+          },
+          "hash": "c3c7f0be3205138826f59d2d1d1eea4724f72edc",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18385$85D5C000-CA01-41E1-BDE7-BBA3490018C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18385$ABE9BEA7-9FE3-484E-A103-D8BF976AC384",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q18385$924028CA-33BC-451D-80F5-9DDEF8FC0ADA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q29940",
+              "numeric-id": 29940
+            }
+          },
+          "hash": "105816e08bd95f256a6d694366da9868c521a309",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q18385$23D504A6-1975-4E6C-B543-7DC7925BD29D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18382",
+              "numeric-id": 18382
+            }
+          },
+          "hash": "d9cf1c0a30ae576834190426b9b8e0211c7c5576",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q18385$3EBB7FD1-DF51-4BA7-9CC7-F2EB2D6D11E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q27152",
+              "numeric-id": 27152
+            }
+          },
+          "hash": "6c68797c24e65e5a60079459cd230cc434d3248d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18385$771CF973-1DAD-49BA-9EBB-113051678454",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18385$0E22E719-CEE8-4A56-9320-24FE17E1BB15",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1630-05-05T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6120374e5589d1b19fa480ebd218c03e09a83a50",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18385$4A87E745-0CA4-4172-8DF5-10767391577B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1682-08-12T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "36cd53e0f619446330fef5b44f3a680acea9312a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18385$F3C6FCBC-A1EF-4A12-9306-A262FBE0892F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11644146"
+          },
+          "hash": "f4262459c99596cae7bebe8de6be01e5ddfa93be",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18385$56B34879-AD18-4E5E-9F87-219EDBC7AABD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakai Tadanao Arms.svg"
+          },
+          "hash": "5918d5daab9c52b079c599ffe9070e79201d497e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "5 May 1630 - 12 Aug 1682"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "若狭小浜藩2代藩主。小浜藩酒井家3代。酒井忠勝の四男。従五位下、修理大夫、従四位下、侍従"
+    }
+  },
+  "id": "Q18385",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sakai Tadanao"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "酒井忠直 (小浜藩)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Таданао Сакаи"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "酒井忠直"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "酒井忠直"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "酒井忠直"
+    }
+  },
+  "lastrevid": 17417754,
+  "modified": "2025-09-16T01:14:23Z",
+  "ns": 860,
+  "pageid": 40578,
+  "sitelinks": {},
+  "title": "Item:Q18385",
+  "type": "item"
+}

@@ -1,0 +1,180 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Eiku"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q11534$11A8A854-529D-4CE7-82F4-2512799F063F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11534$F3B9E12B-E4DB-4CF5-ACA8-C2C4C37678BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11534$5DC8E4E2-5540-43C6-9208-D45FA5ECA066",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10855",
+              "numeric-id": 10855
+            }
+          },
+          "hash": "8376fc3266f361c96eed0930fd25a7fdebdf5025",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11534$88C6B59F-8E7D-489A-AD49-33448A220549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11534$646E9FD3-7D69-49DD-B806-69774CD0CD7E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1179-05-10T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ff1dde440b16fd1d3cac4724942922bdbd67bc4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11534$35C51697-DC5D-475F-9BB1-8CB02D1D4983",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11410733"
+          },
+          "hash": "25192ab60228903d0d28519bc5f665e80e679725",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11534$80B1CE10-0A53-4033-A55C-66869E252862",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Eiku Arms.svg"
+          },
+          "hash": "6de675be6c8a523156fe04d804cb60717d0a4a4b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "?-1179?, 平安時代後期の比叡山西塔学僧。藤原伊通の子か。号は慈眼房。勅撰集『続後撰和歌集』に1首入集"
+    }
+  },
+  "id": "Q11534",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Eiku"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "叡空"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Eiku"
+    }
+  },
+  "lastrevid": 17413004,
+  "modified": "2025-09-15T23:49:35Z",
+  "ns": 860,
+  "pageid": 33902,
+  "sitelinks": {},
+  "title": "Item:Q11534",
+  "type": "item"
+}

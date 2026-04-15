@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kinfuyu Sanjo"
+      },
+      {
+        "language": "en",
+        "value": "Sanjō Kinfuyu"
+      },
+      {
+        "language": "en",
+        "value": "Sanjo Kinfuyu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q15196$A2FF0378-005E-45AA-8076-49D8B6D92E42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15661",
+              "numeric-id": 15661
+            }
+          },
+          "hash": "c67f6b1a5a702d4c4fc89a5fb3523bab60c437f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15196$8DD6ABE6-8876-4CAE-B148-88E36C80D244",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15196$C0F0991C-BEEA-4751-8445-FB162AAC551A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15196$4A06B986-A827-4F15-BE3D-139687109FA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15196$B958094C-D21B-43D1-935A-6E92563EF5CF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1391-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5b5121cee015533f21b6b45f977e32bfb2e4626b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15196$23F2D3AC-B9A1-49F2-860B-CF76727D9E10",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1459-06-17T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "958422c30645d42e83d02fd03f8b1b90643a55aa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15196$5A6A087D-A9C4-4191-B93A-482303B2B233",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q27920520"
+          },
+          "hash": "476bfe7bfdfadd9cdd7c908a649fb63d413e489e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15196$FB20ED9D-40BB-4376-9A46-6296110D2238",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sanjō Kinfuyu Arms.svg"
+          },
+          "hash": "1ecbd25005589fbc6c64518680f3007533d8d88a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代前期の公卿。従一位・右大臣。『新続古今和歌集』に2首入集。三条家12代。子に実助。"
+    }
+  },
+  "id": "Q15196",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kinfuyu Sanjo"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kinfuju Sandžó"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sanjō Kinfuyu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sanjō Kinfuyu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "三条公冬"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кинфую Сандзё"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kinfuyu Sanjo"
+    }
+  },
+  "lastrevid": 17414980,
+  "modified": "2025-09-16T00:17:00Z",
+  "ns": 860,
+  "pageid": 37487,
+  "sitelinks": {},
+  "title": "Item:Q15196",
+  "type": "item"
+}

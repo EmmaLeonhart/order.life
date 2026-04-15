@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kim Allo //"
+      },
+      {
+        "language": "en",
+        "value": "Kim Allo"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q31282$913A53FE-8C20-4CF8-8856-A911E9C1EAFF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30644",
+              "numeric-id": 30644
+            }
+          },
+          "hash": "bc4acfee07c1ce074064e545efd7aba822783129",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q31282$24DC7C6D-75C9-4385-8E62-85D460775E8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q31282$A55DC0C1-D4AC-4A96-A566-AF3CFD1BF753",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q31282$E58A9ABA-BBA5-4D21-A68C-DECA0EF56744",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32065",
+              "numeric-id": 32065
+            }
+          },
+          "hash": "1568cb5b2bdc6b3bc71a35afa3f5c8dbe5f39a23",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q31282$00D791B5-29F6-4917-A1D9-421DE54AE191",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q31282$939F6C43-7885-47FF-AA6F-86C17B823A22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1481-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ffc5b76ac5a56d5861a2b1cc0022ccf30218c2c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q31282$A52A1E45-5A66-40BF-8836-7064596CF7DF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1537-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4fe4e3396cab6c005c992067646528cee0fae797",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q31282$657A7A27-2A7A-47DE-B2F7-3C432408AEF5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q484806"
+          },
+          "hash": "965e81d613f7b2acca5a1b08230851fe28620bbd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q31282$34CE8B6B-146F-47EB-B08C-A9B55FAD9D76",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kim Allo Arms.svg"
+          },
+          "hash": "0a25980e2336fddb9e411f40f4dd0b8481486a83",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "خطاط من مملكه چوسون"
+    },
+    "en": {
+      "language": "en",
+      "value": "Joseon civil servant (Kim An-ro (1481 –1537)"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "조선 중기의 문신 (1481–1537)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "kalligraaf uit Joseondynastie (1481-1537)"
+    }
+  },
+  "id": "Q31282",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كيم اهن رو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Kim Ahn-ro"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kim Allo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kim Ahn-ro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kim Allo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "金安老"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "김안로"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kim Ahn-ro"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Kim Ahn-ro"
+    },
+    "th": {
+      "language": "th",
+      "value": "คิม อันโล"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kim Ahn-ro"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "金安老"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "金安老"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "金安老"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "金安老"
+    }
+  },
+  "lastrevid": 17431156,
+  "modified": "2025-09-16T05:20:43Z",
+  "ns": 860,
+  "pageid": 51173,
+  "sitelinks": {},
+  "title": "Item:Q31282",
+  "type": "item"
+}

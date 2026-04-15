@@ -1,0 +1,384 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Jiang Ziya //"
+      },
+      {
+        "language": "en",
+        "value": "Jiang Ziya"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q25412$1DD4262B-1AAE-4EED-B741-AFB603125023",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1443304"
+          },
+          "hash": "ebf71dc0eec97662fd8982e24ff0d1385369232b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q25412$724EF8B8-AA1C-46B9-B204-ECC8BB51472F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25413",
+              "numeric-id": 25413
+            }
+          },
+          "hash": "75f55465c2aa81eec17bde3efa446ca9a2f2f196",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25412$8691D103-00EC-4CD3-BA25-566CFE607811",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q25399",
+              "numeric-id": 25399
+            }
+          },
+          "hash": "6cf50eab7d3cafdbd8dc8a29deeb3babe4c3057c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q25412$B59339CC-F435-493E-A12B-F273BDC3814F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q25412$17C393E7-0221-47BA-905E-D57564250B36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q25412$87F00F17-9AFA-4B6F-ADB3-61CB8868514A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q25412$886CA888-2749-461F-A593-D23528E0C946",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1128-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e223e0e8c9a056d880c3b06f224d0e27d5dfa4b1",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q25412$0440F083-2741-4AED-8EDB-912909D111EB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1015-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a78ebe8e3396f2d8dedafc870b94d388c3c26144",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q25412$D142B826-B344-4973-84A1-247F05362C1E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q701488"
+          },
+          "hash": "5c9e75d4d9528b7be06626b8b39381a711121a99",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q25412$D45F617F-1A9F-4C01-A49F-93F218F5E668",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Jiang Ziya Arms.svg"
+          },
+          "hash": "cef13c7303ddb4030ef5a522f005020b9ec1e008",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "military strategist of King Wen of Zhou and King Wu of Zhou"
+    },
+    "es": {
+      "language": "es",
+      "value": "señor feudal del estado de Qi durante el siglo XI antes de Cristo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "ministre de la dynastie Zhou"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "周の軍師"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "kinesisk militærstrateg og konge"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "vojaški strateg kralja Vena iz Žuja in kralja Vuja iz Žuja"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Là công thần khai quốc, nhà quân sự, chính trị thời Chu và là quân chủ khai lập nước Tề tồn tại từ thời Tây Chu đến thời Chiến Quốc"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "周朝政治人物"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "西周政治人物、齐国的始祖"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "周文王、周武王的軍師"
+    }
+  },
+  "id": "Q25412",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Jiang Ziya"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jiang Ziya"
+    },
+    "cdo": {
+      "language": "cdo",
+      "value": "Giŏng Tái-gŭng"
+    },
+    "de": {
+      "language": "de",
+      "value": "Jiang Ziya"
+    },
+    "en": {
+      "language": "en",
+      "value": "Jiang Ziya"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jiang Ziya"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jiang Ziya"
+    },
+    "id": {
+      "language": "id",
+      "value": "Jiang Ziya"
+    },
+    "it": {
+      "language": "it",
+      "value": "Jiang Ziya"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "呂尚"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "강상"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "齊太公"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Chê Thài-kong"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Jiang Ziya"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Jiang Ziya"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Jiang Ziya"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Jiang Ziya"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Цзян Цзыя"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Džjang Zija"
+    },
+    "th": {
+      "language": "th",
+      "value": "เจียง จื่อหยา"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Jiang Ziya"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Khương Tử Nha"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "太公望"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "姜子牙"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "太公望"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "姜尚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "姜尚"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "姜尚"
+    }
+  },
+  "lastrevid": 17424190,
+  "modified": "2025-09-16T03:41:12Z",
+  "ns": 860,
+  "pageid": 47056,
+  "sitelinks": {},
+  "title": "Item:Q25412",
+  "type": "item"
+}

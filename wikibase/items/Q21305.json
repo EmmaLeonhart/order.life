@@ -1,0 +1,192 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Princess Yongshou"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q21305$23F08353-F8D4-4A5D-AED8-2267D7F6D2D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q21305$E0E95198-BF47-43A2-B461-CEE537B4949C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q21305$F9197775-7C29-4684-A645-5ABECE404B6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19351",
+              "numeric-id": 19351
+            }
+          },
+          "hash": "9ccc1e0bba05a8adc27bb54bd46307882000168f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q21305$D1BEB599-8ACD-4C2C-9AAA-1EC689B3C706",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21293",
+              "numeric-id": 21293
+            }
+          },
+          "hash": "118629fbb5c0cf0e23b2ddda2842f0d9e8f3d6a0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q21305$AD4B4DEF-D887-46CB-8054-F9FA27650C6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q21305$1B027C57-454F-4B0F-9BF1-3651386A1381",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0685-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f35dd51d8eda0348086ab827156fd70f1694b90b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q21305$F210E560-D9E5-4AE2-80AD-CD863435891E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11131871"
+          },
+          "hash": "971e082bd5b8c3cfe2869e0f88a313763046705d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q21305$2490FFD5-3F92-47D4-AD82-CCE49F88A9A7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Princess Yongshou Arms.svg"
+          },
+          "hash": "af66a22a8718c3ad5f4a1baa1f9200025a87f2a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q21305",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Princess Yongshou"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "永寿公主 (唐中宗)"
+    }
+  },
+  "lastrevid": 17420320,
+  "modified": "2025-09-16T02:16:21Z",
+  "ns": 860,
+  "pageid": 43346,
+  "sitelinks": {},
+  "title": "Item:Q21305",
+  "type": "item"
+}

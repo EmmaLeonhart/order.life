@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "土方雄重"
+      },
+      {
+        "language": "en",
+        "value": "Tu Fang Xiong Zhong"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q37839$64746D98-8DAE-466A-87C0-D173FF773524",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q37839$F9B40B59-B0B8-434B-B57C-21E29B0FCE7D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q37839$6E13E0A2-1495-48BD-9FB6-5277C578166A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33702",
+              "numeric-id": 33702
+            }
+          },
+          "hash": "fbe62fe27188e83f1645f65a4d671ba231cbf0a1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q37839$9D44B958-2A2F-4767-A007-C17EFBBFA321",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21667",
+              "numeric-id": 21667
+            }
+          },
+          "hash": "f42f16402723063fe73010378545b3285a4213c7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q37839$7A896F98-A651-460A-81A0-6E127999551B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q37839$E7268AC5-E421-46EF-9B88-3EC9B477DB58",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1592-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0e2064eb44f125534527930f8265b958b26a9b3d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q37839$C6A7391A-79BB-43E6-B124-626173800ECE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1629-01-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0cdddedfd1220951bb630cb52110164d31e7ba00",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q37839$F5F561F6-9BAB-4973-AD0E-5327B41C477E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8514867"
+          },
+          "hash": "879f063befbc90b895aa3a5aef907e99eecfb46b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "江戸時代前期の武将・大名。下総田子藩2代藩主、陸奥窪田藩初代藩主。従五位下・掃部頭。土方雄久の次男。徳川秀忠の小姓"
+    }
+  },
+  "id": "Q37839",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "土方雄重"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "히지카타 가쓰시게"
+    }
+  },
+  "lastrevid": 17440450,
+  "modified": "2025-09-16T07:36:15Z",
+  "ns": 860,
+  "pageid": 56076,
+  "sitelinks": {},
+  "title": "Item:Q37839",
+  "type": "item"
+}

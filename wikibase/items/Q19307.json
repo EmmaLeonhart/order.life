@@ -1,0 +1,331 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yang Jian"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q19307$372A15CF-D44F-4156-AD2F-97A674352C64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21223",
+              "numeric-id": 21223
+            }
+          },
+          "hash": "8afd4e860e2f13f30329636c18da5c3eeaaafb95",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q19307$AE315DF5-C796-40F2-922F-83007263C432",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q19307$781A328D-0EC1-4EE7-9E36-9FC313B691AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q19307$2B56DA1E-F587-4DB4-A6B1-5203B73A854D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19288",
+              "numeric-id": 19288
+            }
+          },
+          "hash": "caf4f61096e43ec5aa9594f00b9d027b8ff9540b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q19307$186816FE-12CD-4AA2-98C5-16A19F88145D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21172",
+              "numeric-id": 21172
+            }
+          },
+          "hash": "fc3c36507902a42362f91ee46877e4baa23048a7",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q19307$42D123AF-44C9-4CC6-886C-6B17DCE3F54D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q19307$6D66D5B0-4649-4F08-B279-F1433B1FD285",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0585-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "86d8d5414815515fbe6e08ea74ccc6a972ea3133",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q19307$3E56344B-573D-4405-9454-12DBD80714AA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0618-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9dc02f3594a2ed42bfe8113cb000fa60e7f781e8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q19307$A4160FD8-69E2-4908-A9D7-6155DB776488",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q986651"
+          },
+          "hash": "042cdbc82e1914da64f53f0dd67550598657ac4f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q19307$80E9E20A-EBA3-41E8-A6FA-AA378F75DEC0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000075327448507"
+          },
+          "hash": "1a355b83871dd5a959fb5a727b15c2f7c0c95535",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q19307$BE0BF116-3DBB-4BE7-BA10-0C8C42A246E1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yang Jian Arms.svg"
+          },
+          "hash": "637669408e55d513e3451e4605576776723de399",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Sui Dynasty prince, son of Emperor Yang"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "schrijver uit Tang-dynastie (585-618)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын императора Суй Ян-ди"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "hoàng tử nhà Tuỳ, con của Dạng Đế"
+    }
+  },
+  "id": "Q19307",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Yang Jian"
+    },
+    "de": {
+      "language": "de",
+      "value": "Yang Jian"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yang Jian"
+    },
+    "es": {
+      "language": "es",
+      "value": "Yang Jian"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Yang Jian"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "楊カン"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "楊暕"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Yang Jian"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Yang Jian"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ян Цзянь"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Yang Jian"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Yang Jian"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Dương Giản"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "杨暕"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "杨暕"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "楊暕"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "楊暕"
+    }
+  },
+  "lastrevid": 17418542,
+  "modified": "2025-09-16T01:33:20Z",
+  "ns": 860,
+  "pageid": 41462,
+  "sitelinks": {},
+  "title": "Item:Q19307",
+  "type": "item"
+}

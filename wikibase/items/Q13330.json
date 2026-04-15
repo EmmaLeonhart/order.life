@@ -1,0 +1,288 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Samgeun"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q13330$FBCB3985-7A38-4D84-8FB4-56870285615C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q13330$7E176EDD-6B43-4D3B-9A94-C56A3B26819C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q13330$4055978C-4051-47FE-B28C-940B163254EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12612",
+              "numeric-id": 12612
+            }
+          },
+          "hash": "ec7798951f87627723f96440fa9bafd24fbcf832",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q13330$BB6EA3BC-CBBF-411F-A021-388BB483359F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q13330$74C27593-EC55-4639-BB0D-17B28FF80B88",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0465-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5779bb2e40b615a16cf7b076f84fe499ae2ee9d9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q13330$81B2CDD0-5942-4BFA-B0C2-7025A6389B4A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0479-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e372a61689d490c05346cae489c820af102c5258",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q13330$75CAF194-7ED3-4F5F-A8A6-55827C9DC4E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q497821"
+          },
+          "hash": "771aa54a106d12084c18bca620685498f7cf8d3f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q13330$383D467A-4515-4F59-954C-D2939C86D06B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Samgeun Arms.svg"
+          },
+          "hash": "2ec3242d3658540b74a927c94e606d457d5304ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the king of the Baekje dynasty of Korea"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja Baekje"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "百済 の王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "백제의 제23대 국왕 (465–479)"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj korejske dinastije Bekdže"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ван Пекче"
+    }
+  },
+  "id": "Q13330",
+  "labels": {
+    "ckb": {
+      "language": "ckb",
+      "value": "سامجیونی بایکجی"
+    },
+    "en": {
+      "language": "en",
+      "value": "Samgeun"
+    },
+    "es": {
+      "language": "es",
+      "value": "Samgeun of Baekje"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه سامگون"
+    },
+    "id": {
+      "language": "id",
+      "value": "Samgeun"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "三斤王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "삼근왕"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "三斤王"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Samgeun"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Samgeun"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Samgeun"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Samgeun"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าซัมกึนแห่งแพ็กเจ"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Samgeun"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Самгин"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tam Cân Vương"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "三斤王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "三斤王"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "三斤王"
+    }
+  },
+  "lastrevid": 17413906,
+  "modified": "2025-09-16T00:02:14Z",
+  "ns": 860,
+  "pageid": 35651,
+  "sitelinks": {},
+  "title": "Item:Q13330",
+  "type": "item"
+}

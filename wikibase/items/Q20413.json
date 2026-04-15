@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Maeda Shigenobu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q20413$9F1A3710-FFB9-4543-B9BF-36832AEE1E01",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "559975"
+          },
+          "hash": "0627c3d226b31b0a8216bdafdcb7e06908a8fd47",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20413$34B658CD-0821-44A1-AC9C-FA3CAB7CB2A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20413$507E258B-0AEE-479B-B824-D39AD4DD27BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20413$69E2F899-319D-4C09-BAA5-1C50A6FB2229",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18695",
+              "numeric-id": 18695
+            }
+          },
+          "hash": "fe44a19a73901709923725da85943f75f4667e87",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20413$C98968FD-2791-4C2B-A769-9DE02BF7CAEC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q20413$A45701B8-24DF-4D17-9143-940D8CF66B9F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1735-12-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dbaf504ec50d3c91d4118d461bad04afaf263022",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20413$3C174CB1-4390-4808-A934-B141BC2BC96C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1753-10-25T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da1ea5c49c994a2135d0a3ab7af70ff1c70cf5af",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20413$AD10F8DC-18DC-4F91-90F3-9C68559EE575",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q8189350"
+          },
+          "hash": "5dd26824437202a59b3f97a716edab22c4aae82a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20413$8D73FABF-7985-4F76-A5ED-6A0C5CEAB876",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maeda Shigenobu Arms.svg"
+          },
+          "hash": "42ff04aceab1269d3b7d41792a00852fe9ef8cd7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ساموراي ياباني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "samurái xaponés (1735–1753)"
+    },
+    "de": {
+      "language": "de",
+      "value": "japanischer Samurai"
+    },
+    "en": {
+      "language": "en",
+      "value": "daimyo (1735-1753)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "daimyo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "加賀藩8代藩主。加賀前田家9代。前田吉徳の五男。母は善良院（側室、縫、奥泉金兵衛（江戸浪人）の妹、石川氏、白井氏）。正四位下、左近衛権少将、加賀守"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans Samoerai (1735-1753)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon derebeyi/daimyō (1735 – 1753)"
+    }
+  },
+  "id": "Q20413",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Maeda Shigenobu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maeda Shigenobu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maeda Shigenobu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Maeda Shigenobu"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Maeda Shigenobu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "前田重靖"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maeda Shigenobu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сигэнобу Маэда"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Maeda Shigenobu"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Maeda Shigenobu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "前田重靖"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "前田重靖"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "前田重靖"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "前田重靖"
+    }
+  },
+  "lastrevid": 17419502,
+  "modified": "2025-09-16T01:57:32Z",
+  "ns": 860,
+  "pageid": 42491,
+  "sitelinks": {},
+  "title": "Item:Q20413",
+  "type": "item"
+}

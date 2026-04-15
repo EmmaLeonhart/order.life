@@ -1,0 +1,298 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sassa Teruko"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q18551$2FB3D8C3-C625-4196-8F31-4006984F7D4F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00523410"
+          },
+          "hash": "d1d336c0c14d149603fa16b2bd332c5eb84c3c99",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q18551$2E0B6CC7-5A62-49C8-9F23-7B5E0F283671",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18550",
+              "numeric-id": 18550
+            }
+          },
+          "hash": "f1a2d32460c351f151c9b05b8aff6beed3b1fa24",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18551$40C8FE8D-7DE1-42F1-8138-C8A3EED37B4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q17114",
+              "numeric-id": 17114
+            }
+          },
+          "hash": "0aeaedbfa68697988ab799e7b8785d710ceac71b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q18551$613B6203-F4C0-4D81-AD11-101125056617",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "佐々-1"
+          },
+          "hash": "5edc8a13c609c1367a1ab9132838e91869c254e2",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q18551$D0B18A74-3DC4-4B75-B5EC-3F1C743EA391",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q18551$FC0ED0C6-E6B3-41FD-A651-390F4F91FD99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q18551$06808D73-E3B0-4EFA-A693-0C91E28DAB47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18549",
+              "numeric-id": 18549
+            }
+          },
+          "hash": "3b10d48c55ff1e69f683e1b661a2b867e9f88855",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q18551$D816E272-E6D5-45AC-AC8F-E7DDC015B3E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q18551$8C0D614F-A2E5-40B0-B874-7A75BC48950B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5eab103b1f6a3c0f6a4748a6491fabb5d68ceaa4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q18551$9A8469DD-FF21-4289-9DD1-E8F5001D2B58",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1630-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e584041459b542680717a78019ae8fcbb969f057",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q18551$0CE09672-CBD9-4288-B56B-529994A7840C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11382481"
+          },
+          "hash": "0b0b26dd1442c8f45b9a3090ac645df21312162a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q18551$0FC85405-8094-41AC-AAAF-0CD3174F50C2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sassa Teruko Arms.svg"
+          },
+          "hash": "9b8d985af5e5168a222ace99f0b2d5148f6e3090",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1630"
+    }
+  },
+  "id": "Q18551",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Sassa Teruko"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sassa Teruko"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "佐々輝子"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тэруко Сасса"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sassa Teruko"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "佐佐輝子"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "佐佐辉子"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "佐佐輝子"
+    }
+  },
+  "lastrevid": 17417924,
+  "modified": "2025-09-16T01:17:55Z",
+  "ns": 860,
+  "pageid": 40732,
+  "sitelinks": {},
+  "title": "Item:Q18551",
+  "type": "item"
+}

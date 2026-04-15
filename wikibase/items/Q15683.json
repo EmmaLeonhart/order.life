@@ -1,0 +1,308 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ashikaga Masatomo"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q15683$566AC086-436E-4E76-83F6-A1E5A266D98A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "994334"
+          },
+          "hash": "55389b70381adcc9d99335a4acf9e61033d1668c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q15683$57492FF7-99FF-4056-9FD3-B4680F48EE86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16398",
+              "numeric-id": 16398
+            }
+          },
+          "hash": "476be5037cedbc1ec5fc2fdb803e309f5b23bc6e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15683$5638B396-CADB-4FC9-85F5-8D8611CEA292",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16395",
+              "numeric-id": 16395
+            }
+          },
+          "hash": "63f20cc13a080dc36699084dc8e11d93806c0fcd",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15683$A732EEC8-37A8-4BC4-829E-EC79AC4A209C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16397",
+              "numeric-id": 16397
+            }
+          },
+          "hash": "f5655aef0b2f51b5c6458e18032b88198866e4cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q15683$4BC86BAC-2EC5-4571-82D1-87912E6DAB39",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15683$F43F3C3A-2340-4F83-AE1B-E2432CB739E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15683$18219DA0-64AD-458C-B114-CCAE8244E91A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15217",
+              "numeric-id": 15217
+            }
+          },
+          "hash": "7843ca86e4d663e5b001b9dff01681f356541f54",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15683$7224A345-721B-4C81-A49F-AD145E7EE07A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15683$C613A020-60CF-4E16-AC26-7F3743822B5A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1435-08-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2787f3feddb67dc883abff29aef8e9c472a1151b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15683$BEDF0E5C-8968-4516-8A91-8738B02E923E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1491-05-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e4b765926ca7dffde515e682840660942c511a02",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15683$C3942F0F-4AD6-4B97-AD23-8B8E25D1859B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11636787"
+          },
+          "hash": "76879fdc5ed4147dd7ecffaec1b3e560388461be",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15683$E8A9FB74-6BFE-4051-AED3-DA84020427F0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ashikaga Masatomo Arms.svg"
+          },
+          "hash": "f6546051377a5d83a6c805cd703769e4ce662636",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "1st Horikoshi Kubō. daimyo of the late-Muromachi period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "室町時代後期の武将。堀越公方初代。天龍寺香厳院主。足利義教の四男。"
+    }
+  },
+  "id": "Q15683",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Ashikaga Masatomo"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Masatomo Ašikaga"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ashikaga Masatomo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ashikaga Masatomo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آشیکاگا ماساتومو"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "足利政知"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Асикага Масатомо"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Асікаґа Масатомо"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "足利政知"
+    }
+  },
+  "lastrevid": 17415342,
+  "modified": "2025-09-16T00:22:00Z",
+  "ns": 860,
+  "pageid": 37967,
+  "sitelinks": {},
+  "title": "Item:Q15683",
+  "type": "item"
+}

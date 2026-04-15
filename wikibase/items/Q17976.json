@@ -1,0 +1,275 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saionji Sanemasu"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q17976$493E1ECE-142E-4E37-A4B5-83370FBB2AE5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "808192"
+          },
+          "hash": "38829fd346de37910d2da5ed5c1bf3ca6fe45f29",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q17976$9781C9B7-DDFA-423C-AB22-D9E6FA4B0F97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q17976$236AB3EF-AE77-4A12-A5FF-6B08A2E1FEF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q17976$A4AF189E-880F-4E0F-B594-EDE5D94E60BA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26660",
+              "numeric-id": 26660
+            }
+          },
+          "hash": "9f12b35ac81383d46ef4218be1623045965d237c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q17976$29271824-BE64-4728-B97E-EAF45F6BAE7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19603",
+              "numeric-id": 19603
+            }
+          },
+          "hash": "1e804d189214383d7638b02ba1a1ccdb405637fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q17976$EF27E4CB-D670-48A9-BB5A-4B5987655DF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q32521",
+              "numeric-id": 32521
+            }
+          },
+          "hash": "6feb61265142ee674bc73ea5f5b1685561cb6516",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q17976$38B4125E-9196-4EF9-AC07-10F4650C522F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q17976$F9C16F0F-7819-470B-8597-6707A6751DBD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1560-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a072141183c10b18db02a5f163be1ca1c5a2ddf7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q17976$28943D27-D42F-4DDC-8B71-178A30A5F17D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1632-05-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6160ddec9ed0be3d72aa32a717112eca9dafe20c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q17976$AC117114-63DB-446D-A885-F85E0289AB9F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7223393"
+          },
+          "hash": "291d6516f6806c9f20859786351587e779a67b1b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q17976$B4F46B64-53DD-40F8-BAD6-C677E67EC339",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saionji Sanemasu Arms.svg"
+          },
+          "hash": "f43aba87e943fb3ea45fe7ff1e15cc676bb8d660",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代前期の公卿。従一位・右大臣。西園寺家20代"
+    }
+  },
+  "id": "Q17976",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Saionji Sanemasu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Saionji Sanemasu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saionji Sanemasu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Saionji Sanemasu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "西園寺実益"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西園寺實益"
+    }
+  },
+  "lastrevid": 17417414,
+  "modified": "2025-09-16T01:05:15Z",
+  "ns": 860,
+  "pageid": 40182,
+  "sitelinks": {},
+  "title": "Item:Q17976",
+  "type": "item"
+}

@@ -1,0 +1,197 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sakai Ujitada"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q20727$83FD696C-3F1F-48FC-BFB3-CB4D25C3EA4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39358",
+              "numeric-id": 39358
+            }
+          },
+          "hash": "5f2c1cde51c45e79ef6a9cfd8b8e982122367fb6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q20727$5ACFAE01-23F7-4C71-9ACC-528CE0E88BD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q20727$D3FEA3FC-24FD-4E67-A721-55FB586F32C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q20727$BD1539B7-B370-484E-8BE2-D860D92F385A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q31127",
+              "numeric-id": 31127
+            }
+          },
+          "hash": "c9c76725b9fe55f5404ccd3635eafaed7986f57e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q20727$5AF3E5A2-EBD6-404E-9AC1-B0B8BE16FE36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q20727$5D01B6E1-34A0-4EE7-B93F-E10C4C5531F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1470-11-03T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6592d2bce87b57265cd92255f16856ae07973e2c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q20727$B5FF401D-0900-4F81-9B04-6F43B40119C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11644204"
+          },
+          "hash": "63cacc79a7f81094f493a96337f4d4ecf9fee777",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q20727$5CE68CDE-BBC3-4D83-95E2-80CD784C0BDB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sakai Ujitada Arms.svg"
+          },
+          "hash": "a713e5b975729102129bf95b277a2e7cdf9207fe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代の西三河地方の豪族で松平氏の武将。酒井氏左衛門尉家の初代。"
+    }
+  },
+  "id": "Q20727",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Sakai Ujitada"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "酒井氏忠"
+    }
+  },
+  "lastrevid": 17419720,
+  "modified": "2025-09-16T02:04:25Z",
+  "ns": 860,
+  "pageid": 42798,
+  "sitelinks": {},
+  "title": "Item:Q20727",
+  "type": "item"
+}

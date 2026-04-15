@@ -1,0 +1,321 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Takeda Nobuyoshi"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q12118$58EFCA91-396F-41A0-9BE7-44E9CADC8167",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1377648"
+          },
+          "hash": "b9e313f7b9ffb1a4c96847a4a5c5699a0437c807",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q12118$470388B7-3446-48E4-BB69-A9F7230B04C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q12119",
+              "numeric-id": 12119
+            }
+          },
+          "hash": "8b912673105b8c50650a80a222f65553cd1c02cc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12118$12FF206A-2978-4D23-BDE0-A0869384373D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11317",
+              "numeric-id": 11317
+            }
+          },
+          "hash": "55ae9bcdc594b277aa38419e880b3529236ed324",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q12118$E67F6715-6A1E-4864-BE78-DCA0A05B4863",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12118$182D71A9-D39C-4216-8407-500171007EB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12118$4101C6B0-75F3-4917-AC50-D6DB2757A963",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11851",
+              "numeric-id": 11851
+            }
+          },
+          "hash": "2753eaf3abce99f3b758dd1aff0b8dd0f26d1976",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12118$4EF3BFDC-0635-4949-97FF-50D7BF800EFC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12118$0B2B369F-B02C-45D8-95DC-7DF416D09CB5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1128-09-11T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a21e785b57830cc1cb6e8ada12d6e380eec17b9a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12118$F7043603-7550-4A81-850B-A814C5A6E601",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1186-03-31T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b446fc8f713f67d40773e49a56f8ae5c8177a691",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12118$998FF081-577F-4C6D-BF67-CC470B93C21D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7392303"
+          },
+          "hash": "032fe4dfcd17884966de5347e7024222ebce668d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12118$75A71AEE-4988-4E74-878F-574CD04DFEAE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Takeda Nobuyoshi Arms.svg"
+          },
+          "hash": "9349291c9d2aad9b80129f8e2ea94aaac3166b8a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "daimjó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Daimyō in der Heian-Zeit und zur Kamakura-Zeit"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese samurai (1128–1194)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の鎌倉時代の武将"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "японский военачальник"
+    }
+  },
+  "id": "Q12118",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Nobujoši Takeda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Takeda Nobuyoshi"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Takeda Nobuyoshi"
+    },
+    "en": {
+      "language": "en",
+      "value": "Takeda Nobuyoshi"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Takeda Nobuyoshi"
+    },
+    "es": {
+      "language": "es",
+      "value": "Takeda Nobuyoshi"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تاکدا نوبویوشی (۱۱۸۶–۱۱۲۸)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "武田信義"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Такэда Нобуёси"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Takeda Nobuyoshi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "武田信義"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "武田信義"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "武田信義"
+    }
+  },
+  "lastrevid": 17413332,
+  "modified": "2025-09-15T23:54:08Z",
+  "ns": 860,
+  "pageid": 34464,
+  "sitelinks": {},
+  "title": "Item:Q12118",
+  "type": "item"
+}

@@ -1,0 +1,197 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fujiwara no Kinzane's daughter (Minamoto no Arihito's wife)"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q11454$D92FFCAD-AFA1-4488-AE95-22EA9DC5361A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q11454$7CEBFA84-9EE7-42FE-B416-E1B579760B75",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q11454$D75D6208-8FA0-4482-AC59-15F4EFE19313",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11389",
+              "numeric-id": 11389
+            }
+          },
+          "hash": "9fc1a945a6a272fd0a152fdc2ea043fbe1784297",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q11454$8628E612-25CB-4A6F-8C31-334BAB280695",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10781",
+              "numeric-id": 10781
+            }
+          },
+          "hash": "9ecddab1bcb5d32b50760525cf48903d26e8607c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q11454$5FAD8553-E010-4DE0-A6F8-937297775E6E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q11454$64B125B0-45FB-4B6B-B030-AC1A81859A2C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1151-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da62f0938a0bddd12d2977cf39d02c144c83edb1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q11454$2CCACC85-1A02-4EA1-A00A-DC112FE033FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q106460744"
+          },
+          "hash": "00d479059707635dafcdd0ae26fdc80ef7ccebd7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q11454$6339C34D-41CB-4FE5-9328-461B49492CC2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Fujiwara no Kinzane's daughter (Minamoto no Arihito's wife) Arms.svg"
+          },
+          "hash": "8c5171610cdd5b3709601892bdfb696f0abeeeef",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Japanese noblewoman who was the daughter of Fujiwara no Kinzane and the wife of Minamoto no Arihito"
+    }
+  },
+  "id": "Q11454",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Fujiwara no Kinzane's daughter (Minamoto no Arihito's wife)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "藤原公実の娘 (源有仁室)"
+    }
+  },
+  "lastrevid": 17412964,
+  "modified": "2025-09-15T23:48:52Z",
+  "ns": 860,
+  "pageid": 33826,
+  "sitelinks": {},
+  "title": "Item:Q11454",
+  "type": "item"
+}

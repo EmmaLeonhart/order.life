@@ -1,0 +1,285 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Theodore Angelos //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q50151$12F03917-7ECB-4727-B14D-4D3914A5036D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q50151$EA7CA49D-B6CD-457D-841A-03C888B191A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q50151$7B37FA16-1477-427C-9242-CEB8E35A2C77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodore_Angelos_(1)"
+          },
+          "hash": "08df08d12db53d30d1a7098b9acc33b836369150",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q50151$6AD94D32-0870-441C-8DDE-6F2A2735FF49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46243",
+              "numeric-id": 46243
+            }
+          },
+          "hash": "71f8b169b906ce57bfcc93c833eac8ce0b5ce47c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q50151$BA207B69-610F-460B-A0CA-A6200A22481D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q50151$ECA96876-1211-4068-876D-D211698CEBFC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1201-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "44ba8602f685cbd68acb321f4ca16da5b03d339c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q50151$A8C2A290-CFA7-4C42-AB64-C64AACA05677",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1299-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ef6d0d465bb7cea7205b8a29b0d99164747edf48",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q50151$9D413CBA-62F0-4055-9A77-E267C6749D8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q21003749"
+          },
+          "hash": "5b2838147f52a5af01533e9783b7e663e5b837ea",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q50151$C0FA1D8B-8118-43AF-B073-AA5F8F423D30",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodore Angelos Arms.svg"
+          },
+          "hash": "d5b18dcacede891f735424ddd2de3f7af303c162",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "севастократор и съуправител на Тесалия"
+    },
+    "de": {
+      "language": "de",
+      "value": "griechischer Mitregent von Thessalien, Sohn von Johannes I. Dukas Komnenos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σεβαστοκράτωρ, γιος του Ιωάννη Α΄ Δούκα"
+    },
+    "en": {
+      "language": "en",
+      "value": "sebastokrator"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gobernante de Tesalia"
+    }
+  },
+  "id": "Q50151",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Теодор Ангел"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Teodor Anđeo"
+    },
+    "de": {
+      "language": "de",
+      "value": "Theodoros Angelos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεόδωρος Άγγελος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theodore Angelos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teodoro Ángelo"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Teodor Anđeo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teodoro Angelo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Theodore Angelos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teodor Angelos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teodoro Ângelo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teodoro Ângelo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Феодор Ангел"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Теодор Анђео"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "狄奥多尔·安格洛斯"
+    }
+  },
+  "lastrevid": 17456240,
+  "modified": "2025-09-16T11:23:54Z",
+  "ns": 860,
+  "pageid": 65279,
+  "sitelinks": {},
+  "title": "Item:Q50151",
+  "type": "item"
+}

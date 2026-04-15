@@ -1,0 +1,450 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Suzaku"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q8923$CD68B0AA-8E10-401E-BF79-BCF318291666",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00719946"
+          },
+          "hash": "62689cf4f1eefd59d01e34822457da5f4190a8a8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q8923$AD606B3D-3AFA-440B-9670-4D0E67F52BBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q8923$E853F8C2-607A-4EED-AA9B-5122C5ED4D38",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q8923$C94746DA-E67E-48E8-ADB2-EA9AB88A8980",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q9140",
+              "numeric-id": 9140
+            }
+          },
+          "hash": "49585695599273c9a7c3203c9d05e81606c3b4c4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q8923$A13A8643-4A15-4B4B-81BB-4CB1BE82419F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q8632",
+              "numeric-id": 8632
+            }
+          },
+          "hash": "f143b09284341dd748b399ff08bc4ec315050911",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q8923$ABEF5BD1-9BD2-4E7A-81A6-55E75067123D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q8923$706A9B42-1A95-420F-83D2-E198401A216B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0923-09-07T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a9eac26349aaed7fcad25e1f756b6712aa2e9989",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q8923$63A4C695-C088-4DDD-B7DF-B3D6D133C21C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+0952-09-06T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8ca7c9c7810048b29ca9e6a149b57b62d514b0d8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q8923$C4FBCB9D-4FB6-4173-8208-AD7EA505A87A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Emperor Suzaku.jpg"
+          },
+          "hash": "2bf4bc67943b90df2a49ee5e03f07e09bb475855",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q8923$2FF11E1B-7F7F-428D-98CB-1984911622CD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q361019"
+          },
+          "hash": "c946dab72aa252904dbcbe22506fe5d6ca3d51b6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "gobernante xaponés (923–952)"
+    },
+    "br": {
+      "language": "br",
+      "value": "impalaer Japan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "japonský císař"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Japan siyaasa nira ŋun nyɛ doo"
+    },
+    "de": {
+      "language": "de",
+      "value": "61. Tennō von Japan (930–946)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Emperor of Japan"
+    },
+    "es": {
+      "language": "es",
+      "value": "emperador japonés"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur du Japon"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore giapponese"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の第61代天皇"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Japans heerser (923-952)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "japoński władca"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "61-й император Японии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "regerande kejsare"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japonya'nın geleneksel veraset düzenine göre 61. imparatoru"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "日本第61代天皇"
+    }
+  },
+  "id": "Q8923",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "سوزاکو (ایمپیراتور)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Suzaku"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Suzaku"
+    },
+    "ckb": {
+      "language": "ckb",
+      "value": "ئیمپراتۆر سوزاکو"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Suzaku"
+    },
+    "de": {
+      "language": "de",
+      "value": "Suzaku"
+    },
+    "en": {
+      "language": "en",
+      "value": "Suzaku"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador Suzaku"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "امپراتور سوزاکو"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Suzaku"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Suzaku"
+    },
+    "it": {
+      "language": "it",
+      "value": "Suzaku"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "朱雀天皇"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스자쿠 천황"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Suzaku Thian-hông"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Suzaku (tenno)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Suzaku"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Suzaku"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Imperador Suzaku"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Imperador Suzaku"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Судзаку"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Car Suzaku"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Suzaku"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Cesar Suzaku"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Suzaku"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Suzaku"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Suzaku wa Japani"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิซุซะกุ"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Emperador Suzaku"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Suzaku"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Імператор Судзаку"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Thiên hoàng Suzaku"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Emperor Suzaku"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "朱雀天皇"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "朱雀天皇"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "朱雀天皇"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "朱雀天皇"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "朱雀天皇"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "朱雀天皇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "朱雀天皇"
+    }
+  },
+  "lastrevid": 17409904,
+  "modified": "2025-09-15T23:05:39Z",
+  "ns": 860,
+  "pageid": 31403,
+  "sitelinks": {},
+  "title": "Item:Q8923",
+  "type": "item"
+}

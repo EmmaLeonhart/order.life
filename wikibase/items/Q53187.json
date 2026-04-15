@@ -1,0 +1,249 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Yuan Kehuan //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q53187$4D93669D-F42C-4956-9989-23911709CC8D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q53187$229E65FB-3C3E-45FC-A5CD-A26C68311D14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q53187$F4F29511-6755-4F5C-B301-A493659ABEEB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48499",
+              "numeric-id": 48499
+            }
+          },
+          "hash": "eec8ecfb034109a8311000b27dce4e7bdc771817",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q53187$B9DBD3DB-3B68-483C-9190-C4D6865046D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q53187$EA71CA32-C400-4A84-8547-A204879DA3FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1898-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f44faa42f5fb105a98e747ceb8cd83d652a7a4a3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q53187$E0A3D780-229A-4B22-8457-349DE69804C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1956-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b3331e65750f837ff25f5680b63534c9329a8d7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q53187$AED74288-BD87-4C99-9D7C-BEC502537798",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q61305172"
+          },
+          "hash": "627ff63c8a4a4fbc4bf4355f2af51b8ea2ebedaa",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q53187$F67791F2-67DF-4967-A080-C80C2D0C50C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000011627027065"
+          },
+          "hash": "4563706f686c98f42bf3be9ff6dce0aa02316cb5",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q53187$E8A2A29E-1144-4A6B-A72D-37D7FC4CCF39",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Yuan Kehuan Arms.svg"
+          },
+          "hash": "1482a0191ba6172afadb60288cf5b97e9f6c7e14",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "the sixth son of Yuan Shikai"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "ondernemer"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "шостий син Юань Шикая"
+    }
+  },
+  "id": "Q53187",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Kehuan Yuan, the sixth son of Shikai Yuan."
+    },
+    "be": {
+      "language": "be",
+      "value": "Юань Кэхуань"
+    },
+    "en": {
+      "language": "en",
+      "value": "Yuan Kehuan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Kehuan Yuan, the sixth son of Shikai Yuan."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kehuan Yuan, the sixth son of Shikai Yuan."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Yuan Kehuan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Юань Кехуань"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "袁克桓"
+    }
+  },
+  "lastrevid": 17459778,
+  "modified": "2025-09-16T12:16:29Z",
+  "ns": 860,
+  "pageid": 68018,
+  "sitelinks": {},
+  "title": "Item:Q53187",
+  "type": "item"
+}

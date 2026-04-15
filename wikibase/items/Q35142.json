@@ -1,0 +1,205 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wang Ki //"
+      },
+      {
+        "language": "en",
+        "value": "Wang Ki"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q35142$01E986AB-EC46-40DD-A3BD-C07B335BF669",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q35142$BD81725B-8858-4647-BAF6-D6F356BA70EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q35142$F6DF4BF0-BD52-43ED-98B8-5A78DB056A72",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34814",
+              "numeric-id": 34814
+            }
+          },
+          "hash": "5080bddeb50e0f5ecd4258381cf43e8e4273480b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q35142$164EECCC-C32C-453F-8931-3D5C27F66367",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q34849",
+              "numeric-id": 34849
+            }
+          },
+          "hash": "035491c0b3871a3e44bb33973c6fa1b22cc30234",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q35142$16314470-A2C6-447E-A30D-503F080C2899",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q35142$EA822B58-E0A7-49B1-A9F5-707A67D736E9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1149-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "43b02858cee56a5d103fed9b61d044aefe29ee93",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q35142$1DCC2E6C-8C42-4C52-9A7D-720D0FA46832",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12626021"
+          },
+          "hash": "c02e264c2c0cbe09f29794858245771aaa0fa1dc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q35142$37EA14BF-786E-4DC4-B39A-2FC131FBC967",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wang Ki Arms.svg"
+          },
+          "hash": "276dd946f0a4e6ca55d34c2cdfaa0fe370373c5b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "crown Prince of Goryeo"
+    }
+  },
+  "id": "Q35142",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Wang Ki"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "효령태자"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "王祈"
+    }
+  },
+  "lastrevid": 17436612,
+  "modified": "2025-09-16T06:40:54Z",
+  "ns": 860,
+  "pageid": 54062,
+  "sitelinks": {},
+  "title": "Item:Q35142",
+  "type": "item"
+}

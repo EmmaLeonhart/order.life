@@ -1,0 +1,261 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nitta Tomouji"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q14557$A985BD74-7CD7-487E-9D7F-EF357951C8B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "814586"
+          },
+          "hash": "872735997b24c9c2b4cc017e0970786a6b219a94",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q14557$ED7200D0-2C16-4DB0-B5C3-499DF491873E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14752",
+              "numeric-id": 14752
+            }
+          },
+          "hash": "68315e22a5c048d453ad9bc80df7af5a9e0b8730",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14557$E5DFB75C-B570-4210-823B-D00063A8BF15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14960",
+              "numeric-id": 14960
+            }
+          },
+          "hash": "7c0912ce1c284f8b1824cbfca86b84b2bb5876bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q14557$5C89D69B-D962-47CA-9CBB-38E6E474CD7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q14557$8FA8F789-B687-407F-AC3B-80669C6236B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q14557$7CDE3628-4276-4A55-9A7C-028DD362671D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q14959",
+              "numeric-id": 14959
+            }
+          },
+          "hash": "bba2bd146a9ce104c7f8bf7efa4dd4042a063470",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q14557$44566C11-F61A-4106-8A2D-3B362FBC6EF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q14557$B0E6594A-C23E-416D-91A8-CBC1035B5633",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1274-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "826cbb720b41ef343d42da79c8e7c7d5a95257db",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q14557$7AA65B7F-C916-4921-9DFA-CD7FEE0C9F74",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1318-01-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6d77dab759ad1bfb1e0f120179f030e261192ae3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q14557$E255DA64-CA0C-4146-86DD-F7DA7637834F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11503735"
+          },
+          "hash": "2a0629d58d8bf5e636cfd67d3fe31fc4adb80b60",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q14557$FF37FFCA-53DF-475A-A5B0-A3B5A8778267",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nitta Tomouji Arms.svg"
+          },
+          "hash": "787bb95035556205e0c4ab4869aaca2ef01d68f4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q14557",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Tomoudži Nitta"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nitta Tomouji"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "新田朝氏"
+    }
+  },
+  "lastrevid": 17414610,
+  "modified": "2025-09-16T00:11:44Z",
+  "ns": 860,
+  "pageid": 36858,
+  "sitelinks": {},
+  "title": "Item:Q14557",
+  "type": "item"
+}

@@ -1,0 +1,256 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saionji Kinmitsu"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q24928$E36A5E66-CCC8-4FF2-9058-7E14701ADE07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q39795",
+              "numeric-id": 39795
+            }
+          },
+          "hash": "4894d2d548c4a58f8339a122e7341552230f4a59",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24928$8489B965-85CA-4FC6-9717-220190C207E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51051",
+              "numeric-id": 51051
+            }
+          },
+          "hash": "0891b8f8731cece4ca8139d676f606fdb0ed0dc0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q24928$1F5D111C-85FC-4D71-B800-6894DC155B44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "西園寺-2"
+          },
+          "hash": "d4fdf4f054a54f27a041d41f27208de0ed8954fc",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q24928$1698FE60-8625-4251-865F-F815FC7D0646",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q24928$5FD0CCA0-E228-4BC2-992A-ED421B246525",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q24928$E299C940-75DA-4AAC-9F9D-B4387C4D9042",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q24928$4493291C-434B-4F8C-96A1-606015B2144E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1622-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aaebe014f2c3ac0ab99b9a60c60053380ee53370",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q24928$8E60D632-F37B-47DF-AD66-A913C81805E8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1651-09-04T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a60244075f75ab07b1c78dafe8b8237ae839fb14",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q24928$8E48C23A-F3DE-4784-B0E0-5FADC18B5280",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7223210"
+          },
+          "hash": "4a7cac5ba8919c7fce26af67c25d6271c561f241",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q24928$411BC775-670F-425A-ADA5-670E2C3FE09D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saionji Kinmitsu Arms.svg"
+          },
+          "hash": "41a88b1140748926515dfe90d1274a1e6d85d0f0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "(1622-1651)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "(1622-1651)"
+    }
+  },
+  "id": "Q24928",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Saionji Kinmitsu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Saionji Kinmitsu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saionji Kinmitsu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Saionji Kinmitsu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "西園寺公満"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西園寺公滿"
+    }
+  },
+  "lastrevid": 17423764,
+  "modified": "2025-09-16T03:34:31Z",
+  "ns": 860,
+  "pageid": 46697,
+  "sitelinks": {},
+  "title": "Item:Q24928",
+  "type": "item"
+}

@@ -1,0 +1,253 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Li Daoxing"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q23086$0AE83900-2119-4514-949A-BFE5EE5D1365",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q23086$3501E948-C8FB-467C-A9DA-5737D8FF02BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q23086$34180FE8-8CC5-44F6-989A-45DCDF537410",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21093",
+              "numeric-id": 21093
+            }
+          },
+          "hash": "ecc6923c3d1d7dcfca4a618fffe15e430c70093e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q23086$EF9B48F7-DF4D-4E73-9AE1-30B488917E27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q23086$813477D8-DF16-4DB4-AF4A-245FA6FC8868",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0605-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b92832343193cf1d7c0401f98736d1aa9a8f6157",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q23086$E484F56B-EFFE-4605-B415-8246F6446ECD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0638-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "deec59797cdeea77aa8c6087dfd316d7a6d78d78",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q23086$62C4943F-712B-4ADB-9435-30BE185745FE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q45700634"
+          },
+          "hash": "280295280ea781f20c14bad3c2c6529ef61292f6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q23086$65FC4D75-17FA-42E8-90BF-8F99A9392CEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000074735437914"
+          },
+          "hash": "85816474a4b092cb1e523c207bb7452465485017",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q23086$02450773-70C8-44F2-B959-1B52DF3FCD8A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Li Daoxing Arms.svg"
+          },
+          "hash": "d41d2577d99edf600bbaffc07ea5df7017da47a1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Tang dynasty person CBDB = 187291"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "广宁郡王; 唐高祖李渊的四叔李璋的孙子"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "廣寧郡王; 唐高祖李淵的四叔李璋的孫子"
+    }
+  },
+  "id": "Q23086",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Li Daoxing"
+    },
+    "en": {
+      "language": "en",
+      "value": "Li Daoxing"
+    },
+    "es": {
+      "language": "es",
+      "value": "Li Daoxing"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "이도흥"
+    },
+    "lzh": {
+      "language": "lzh",
+      "value": "李道興"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Li Daoxing"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "李道興"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "李道兴"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "李道興"
+    }
+  },
+  "lastrevid": 17421824,
+  "modified": "2025-09-16T02:54:38Z",
+  "ns": 860,
+  "pageid": 45055,
+  "sitelinks": {},
+  "title": "Item:Q23086",
+  "type": "item"
+}

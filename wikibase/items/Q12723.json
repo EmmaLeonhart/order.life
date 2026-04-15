@@ -1,0 +1,244 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Satomi Yoshinari"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q12723$FDB52707-16C1-4DEA-81E0-38DEB16A9ED8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q12723$F9A165C7-FEE8-4FD3-A5C4-4309A099E19E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q12723$A2A5DC49-AC92-4DC5-9273-0049E34CE4C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q11939",
+              "numeric-id": 11939
+            }
+          },
+          "hash": "6755962f838c1a017c74d273802eaba0701f814d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q12723$55703722-AECA-46AD-A4FD-BD9950CD1172",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q12723$8580C8BF-C691-4434-8844-9233A6F45E22",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1157-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c7b4290821528803310ba5ed168dfbf355e3725",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q12723$0E80AFFD-805B-424C-8A6C-4E1EBF96B154",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1234-12-20T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d5e6cb701b6de496d9be91ac75664fb744982a3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q12723$F57F3F36-E282-4195-B97C-3CF7D7A649AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11644667"
+          },
+          "hash": "f2af55fca2ec02c7a171a36aa4a7350bcf13912f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q12723$1C778209-A20E-4BA5-807E-FFCCE3517C32",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Satomi Yoshinari Arms.svg"
+          },
+          "hash": "44b8b5f5c5e6d39955465a73b0e2c36fa4108798",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "samurai of the early Kamakura period"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "鎌倉時代初期の武士"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "bushi"
+    }
+  },
+  "id": "Q12723",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Satomi Yoshinari"
+    },
+    "de": {
+      "language": "de",
+      "value": "Satomi Yoshinari"
+    },
+    "en": {
+      "language": "en",
+      "value": "Satomi Yoshinari"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Satomi Yoshinari"
+    },
+    "es": {
+      "language": "es",
+      "value": "Satomi Yoshinari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Satomi Yoshinari"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "里見義成"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ёсинари Сатоми"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Satomi Yoshinari"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "里見義成"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "里見義成"
+    }
+  },
+  "lastrevid": 17413670,
+  "modified": "2025-09-15T23:58:51Z",
+  "ns": 860,
+  "pageid": 35053,
+  "sitelinks": {},
+  "title": "Item:Q12723",
+  "type": "item"
+}

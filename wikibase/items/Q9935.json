@@ -1,0 +1,260 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prince Junda"
+      }
+    ]
+  },
+  "claims": {
+    "P3": [
+      {
+        "id": "Q9935$3EF20FE1-4A94-485C-8CD6-5C0F0EF3F8CD",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Prince Junda"
+            }
+          },
+          "hash": "a554a438777b246b6c25705e15de26ed7b59d422",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q9935$91D8A0AF-BC73-40B4-B177-09E8DA9EF22B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q9935$2B85901B-BD66-415C-845E-E413C0D6054C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q9935$78F09053-D9E0-4003-8EC6-729B6D17F7B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q10437",
+              "numeric-id": 10437
+            }
+          },
+          "hash": "cda9f40545d2edc893285fadb819059edce4b54a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q9935$D7F76772-08B1-4718-9168-74423ECA33F6",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "Prince Junda"
+            }
+          },
+          "hash": "e746a1b842b49928fe1ebc8498ed96a749324e21",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q9935$E8D53E54-F7D3-4F50-B9F5-3CB6634B9314",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q9935$2E163DBC-B6D4-4013-8C88-9C68E4949976",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bb00bc1b628caa17c7adbe7d45ff868f407b4b0e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q9935$6C659F72-319B-443A-96CB-60BC22381558",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 10,
+              "time": "+0513-08-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8422d8a12fe3473e58825efa75350668475d179d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q9935$C88DB51A-0082-418B-AE0A-2B1ADA690B24",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15113421"
+          },
+          "hash": "442c7e5b97dde6ccb7bc62254d5c61c240ae7045",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q9935$1330C8E6-3D76-4473-9C85-94E85AC52185",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince Junda Arms.svg"
+          },
+          "hash": "ef7d48bfe7ae0981d9d3ffa3549edeba68df5e01",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "6th century Korean Japanese prince"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "百済の王族。和氏（高野氏）の始祖"
+    }
+  },
+  "id": "Q9935",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Prince Junda"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prince Junda"
+    },
+    "es": {
+      "language": "es",
+      "value": "Prince Junda"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "純陀太子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "순타태자"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "純陀太子"
+    }
+  },
+  "lastrevid": 17411874,
+  "modified": "2025-09-15T23:32:52Z",
+  "ns": 860,
+  "pageid": 32361,
+  "sitelinks": {},
+  "title": "Item:Q9935",
+  "type": "item"
+}

@@ -1,0 +1,233 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Fei Niao Jing Ya Yong"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q34076$C60FA814-7242-44A6-AFD9-A80FB76BBD3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38349",
+              "numeric-id": 38349
+            }
+          },
+          "hash": "fe01236f1535bb6dc143b3e91b341d1adff11fcf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q34076$E4DB4C61-3359-4427-A912-7DD4A684DC94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q22234",
+              "numeric-id": 22234
+            }
+          },
+          "hash": "f1de696dc2787bf4743b81cf9c675937b9e184ea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q34076$01940197-12D4-4DBB-BD88-0381D9E01D0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18606",
+              "numeric-id": 18606
+            }
+          },
+          "hash": "1b2d35c95e252d5918021ffbb5f554c5542ea7ce",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q34076$8C30078B-A6AB-414C-909C-0C835DAD19BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q34076$E30EF28D-ED26-4CCE-8313-4425CF45A8AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q34076$396105F1-3065-4E80-A768-7B9C540C0F90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q34076$DA80D1F6-0796-4538-B868-17DF602458E9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1569-11-28T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a8a2ed2fd08a30d5c279c03afabf175ff01d2114",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q34076$0921CA61-82C3-4E09-BB84-1838822399FA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1616-02-09T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a6461d7dfb2c7db57c6ba3ac08343c82c2b50a9c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q34076$91A2043C-3BAC-4910-A20B-C8F27739D41F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11665946"
+          },
+          "hash": "3708db8c50f8c67692578a7818d9c40f4e68272a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "sgriptiwr a aned yn 1569"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "安土桃山時代から江戸時代初期の公卿・歌人。従二位・権大納言。飛鳥井家13代"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "essayist"
+    }
+  },
+  "id": "Q34076",
+  "labels": {
+    "ja": {
+      "language": "ja",
+      "value": "飛鳥井雅庸"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "飛鳥井雅庸"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "飛鳥井雅庸"
+    }
+  },
+  "lastrevid": 17435062,
+  "modified": "2025-09-16T06:17:11Z",
+  "ns": 860,
+  "pageid": 53266,
+  "sitelinks": {},
+  "title": "Item:Q34076",
+  "type": "item"
+}

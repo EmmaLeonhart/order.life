@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Murai Nagatsugu"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q16902$597DF2C1-F292-4C97-9983-B573404586A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q16902$6B047994-7438-4F9A-9DB8-123F7C658D22",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q16902$E89FDB9F-CBD0-421E-A012-47F60EF92A16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q16017",
+              "numeric-id": 16017
+            }
+          },
+          "hash": "65997adc58f2f6a8c366dd721b319924b6991134",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q16902$331DAD99-1EF6-4DEC-BD3B-64692682A28B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q16902$DA4D723B-79AD-4901-9F4B-223D4E3B59BF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1568-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "66916e46d63e1c9dfd249929f44bd5f4bc721100",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q16902$E7B2706D-0B69-4429-9CD7-9F391F207FD0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1613-12-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "236127d9727badb3c7a432e2d3b27d3f436830c3",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q16902$D9DF92B5-BB81-466B-986B-08730A8AB152",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11523022"
+          },
+          "hash": "97358795b26aa6264ed29b69accf06dc12644251",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q16902$6EA6184A-71EB-4F80-8246-3FB758A83648",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Murai Nagatsugu Arms.svg"
+          },
+          "hash": "423cd0c4d7de4ae32571bdf4aa71e6f4f91631c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国時代～江戸時代初期の武将。加賀藩家老村井長頼の子で、加賀八家村井氏2代当主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "commandant"
+    }
+  },
+  "id": "Q16902",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Murai Nagatsugu"
+    },
+    "en": {
+      "language": "en",
+      "value": "Murai Nagatsugu"
+    },
+    "es": {
+      "language": "es",
+      "value": "Murai Nagatsugu"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "村井長次"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Murai Nagatsugu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "村井长次"
+    }
+  },
+  "lastrevid": 17416452,
+  "modified": "2025-09-16T00:41:57Z",
+  "ns": 860,
+  "pageid": 39151,
+  "sitelinks": {},
+  "title": "Item:Q16902",
+  "type": "item"
+}

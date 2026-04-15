@@ -1,0 +1,227 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "江戸通房"
+      },
+      {
+        "language": "en",
+        "value": "Jiang Hu Tong Fang"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q42243$8E952443-AB64-4C28-8F34-FB3664BC3033",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q48865",
+              "numeric-id": 48865
+            }
+          },
+          "hash": "fe4455a7ebc621b405bf8beb46cd590ce188eb52",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42243$510441AF-3D2C-4B2F-9771-2705B707E5D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q37891",
+              "numeric-id": 37891
+            }
+          },
+          "hash": "b55c760f397f77237fb6153afa574c556f356106",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q42243$5B2745EF-96A1-4D91-B362-092E469ECE51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q42243$D84E4352-CF03-4116-B7A1-5DC0607E9311",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q42243$20A3F46F-A0EA-4A3B-9B71-BA7981A38F49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q42243$ED46AE9D-97B5-4343-AF9E-98B86242176E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1410-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2d0dd32ad5296dbb4576609b61465025818250e6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q42243$3EEA841A-31EC-456C-AA45-34C8F1069722",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1465-05-27T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd472d14411c6bd7776d48671305fc6966849be4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q42243$4D1FDEB4-CC8D-478E-AF5D-F0ABAB3EBE6B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11551118"
+          },
+          "hash": "742974f7f53fc546bc3f7d5f0a2c1403ecf669dc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q42243$31B5DBB1-A635-4E29-8CEB-34C67815B74D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mitifusa Edo Arms.svg"
+          },
+          "hash": "27bc4fa92abd73d37d3f629074a95b721987af88",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ja": {
+      "language": "ja",
+      "value": "室町時代中期の武将。常陸江戸氏3代。常陸国水戸城主。"
+    }
+  },
+  "id": "Q42243",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Mitifusa Edo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "江戸通房"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Митифуса Эдо"
+    }
+  },
+  "lastrevid": 17445964,
+  "modified": "2025-09-16T08:54:33Z",
+  "ns": 860,
+  "pageid": 59373,
+  "sitelinks": {},
+  "title": "Item:Q42243",
+  "type": "item"
+}

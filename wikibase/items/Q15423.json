@@ -1,0 +1,341 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Asahihime"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q15423$29D1CB79-5CEB-40D2-9814-3FD0F564AEA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15423$0FCEF0BF-43E9-4BA4-AB85-C299480A724B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q15423$E120BCD1-F143-49E8-BAD9-EC2CA46C0859",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15010",
+              "numeric-id": 15010
+            }
+          },
+          "hash": "45c3786c144f06aa20e3f5d24932a969e3f265b2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q15423$CE505C21-46C9-4CA9-A442-55B0851C019C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15982",
+              "numeric-id": 15982
+            }
+          },
+          "hash": "022508f6d1b2cdffae2f2ecc411be95ea18e90f9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q15423$1212D174-4C79-4C1B-A5B8-F4676BDC25B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q15980",
+              "numeric-id": 15980
+            }
+          },
+          "hash": "51abbbd9be48d830063d0076780c9a3561d084c1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q15423$6CFBAEB2-8C3F-4A8B-9354-78D8B3F05318",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q15423$810D1374-7C4F-4360-BB43-E8872E87292A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 9,
+              "time": "+1543-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c055fbcaad00915d1ee8e866d6d0af91b701b65c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q15423$3B7DAB9C-0D21-4F79-ABF0-478976D09CA8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985786",
+              "precision": 11,
+              "time": "+1590-02-18T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "26b35abeba22c4976aaed3a8d13adb03f8a04c25",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P58": [
+      {
+        "id": "Q15423$54893109-0AB1-44D2-865D-9DE93F4C87B5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asahi hime.jpg"
+          },
+          "hash": "902abb8d88fdad71f3cd4b88040f9dc662b7427d",
+          "property": "P58",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q15423$4E7B2C31-D725-4566-AA24-243680C443BC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q838180"
+          },
+          "hash": "1a1eb50d7ed34cbcf67bb46975b2b653d0c336f9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q15423$97CC9A67-1F2E-4976-80D8-203F45F8BE32",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Asahihime Arms.svg"
+          },
+          "hash": "62816fe398999c46522b1c12bc8ff8c4a391bfd1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "manželka Iejasua Tokugawy"
+    },
+    "en": {
+      "language": "en",
+      "value": "Japanese noble (1543–1590)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "日本の戦国～安土桃山時代の女性、征夷大将軍・徳川家康の継室"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Japon soylu (1543 – 1590)"
+    }
+  },
+  "id": "Q15423",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Асаі но Ката"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Asahi no kata"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Asahi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Asahi no kata"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ασάχι νο κάτα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Asahihime"
+    },
+    "es": {
+      "language": "es",
+      "value": "Asahi no kata"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آساهی هیمه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Asahi no kata"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "朝日姫"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아사히히메"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Asahi no kata"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Asahi no kata"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Asahihime"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Asahihime"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Asahi no kata"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "旭姬"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "旭姬"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "旭姬"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "旭姬"
+    }
+  },
+  "lastrevid": 17415152,
+  "modified": "2025-09-16T00:19:23Z",
+  "ns": 860,
+  "pageid": 37711,
+  "sitelinks": {},
+  "title": "Item:Q15423",
+  "type": "item"
+}

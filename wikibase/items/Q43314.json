@@ -1,0 +1,332 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Andronikos Angelos Palaiologos //"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q43314$83019128-55A0-4EB9-AAE9-F3A64C03CA40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00292985"
+          },
+          "hash": "45fa30322e83a68a7cf4e2594755de9154a7c901",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q43314$10B8F1BD-FB5C-4898-B51B-20AAB2102A93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q46259",
+              "numeric-id": 46259
+            }
+          },
+          "hash": "10ff1dcea1ceb9db757bf63ec0bd61cd0c52e9a3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q43314$D159B8A2-90D8-4579-866C-4A8505F230FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q43314$0215773A-D818-451A-B501-DED7BB6CACBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q43314$7AD2CB8C-4CC3-4928-BE74-E7646D934FAC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q50163",
+              "numeric-id": 50163
+            }
+          },
+          "hash": "c34b2150d24170c38fb304f265ea32af923cf05f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q43314$6D3AAF0A-EF78-4A05-BA0A-E8767B3E9F9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q43310",
+              "numeric-id": 43310
+            }
+          },
+          "hash": "634de56749b5a93fbf6418a3e22ba2af1b87cfc7",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q43314$C1528D05-DE0D-4185-BF83-5E7989721750",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q40975",
+              "numeric-id": 40975
+            }
+          },
+          "hash": "b740529b39967f0bc0bf1b81a50ac789b8755318",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q43314$FAB1E3C8-7642-4E5E-ACC9-79200B3F466C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q43314$A4AE7406-710A-48B2-BC57-66787B326AC9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1282-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fb30ad4c9324778cd9e83b10b0190bfc513b4475",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q43314$5190C33D-22F3-4403-A6EA-7E5E875176FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1328-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "50dc34bac439d33cb7055946125a07b55534208f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q43314$2B12B281-DE7D-4604-A6C9-0ABEBACBE29E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4759500"
+          },
+          "hash": "8fe8196df2a2307325841dac643e57bbdf522aaf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q43314$8A06AA72-9A63-419B-89AE-A15AD1AF2F96",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Andronikos Angelos Palaiologos Arms.svg"
+          },
+          "hash": "43bab1f7afaf9a873fd2c18e10c6ebd7a9ef0a99",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Byzantine prince and military governor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince byzantin et gouverneur militaire"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe bizantino e governatore militare"
+    }
+  },
+  "id": "Q43314",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Андроник Ангел Палеолог"
+    },
+    "de": {
+      "language": "de",
+      "value": "Andronikos Palaiologos Angelos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ανδρόνικος Άγγελος Παλαιολόγος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Andronikos Angelos Palaiologos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Andrónico Paleólogo Ángelo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Andronic Ange Paléologue"
+    },
+    "it": {
+      "language": "it",
+      "value": "Andronico Angelo Paleologo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Andronikos Palaiologos Angelos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Andronik Angelos Paleolog"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Andrônico Paleólogo Ângelo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Andrônico Paleólogo Ângelo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Андроник Ангел Палеолог"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Андроник Палеолог Анђео"
+    }
+  },
+  "lastrevid": 17447392,
+  "modified": "2025-09-16T09:14:29Z",
+  "ns": 860,
+  "pageid": 60173,
+  "sitelinks": {},
+  "title": "Item:Q43314",
+  "type": "item"
+}

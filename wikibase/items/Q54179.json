@@ -1,0 +1,357 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Joan of Anjou, Queen of Armenia //"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q54179$520C1BC2-2C90-4AA0-82D0-F026F7B8335C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "712730"
+          },
+          "hash": "c5e30caa5b271b0a3727acabe8a0e2cee749c327",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q54179$77525089-AE57-4015-9F74-CC1858A5E86E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q54179$29D7D4DE-F900-48D2-B033-322617C8A12B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q54179$61673C44-029A-4D3B-A82C-36DAD1CE7362",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Joan_of_Taranto_(1)"
+          },
+          "hash": "469b0167251f925477453be4b8312693934597cd",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q54179$B3DCD7A8-03AE-4451-BD05-3F30482C61C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49752",
+              "numeric-id": 49752
+            }
+          },
+          "hash": "e2db0582a1f1d157d65c8bd485968710e26a8861",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q54179$9B3C76B9-50DE-483C-843B-74AEA1AE4FF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49583",
+              "numeric-id": 49583
+            }
+          },
+          "hash": "dbd82a62d7f37a923ea527ec1e17177dc1c9d4fd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q54179$416D8990-F919-4B0D-BFC3-1866A8CCE301",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q49438",
+              "numeric-id": 49438
+            }
+          },
+          "hash": "8cdd14eee5081a9f4f0df9d7a9b8f7dbef4d03f4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q54179$49446B5A-9784-4127-AE4B-B3D3707D80C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q54179$58D11860-3EAF-4C5D-8087-2EC8D2A3BF15",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1297-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "73e829099023760b2f8ab777a61d5ba3a72bcf44",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q54179$33594141-2DC4-4C88-8910-ED50C84DF038",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1323-03-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8bdecbf283f070379224cb891b8f03d672a60797",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q54179$055D16A3-3629-4DB9-9F36-B9A56CCD0C3B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q671582"
+          },
+          "hash": "a05b98d3b2ccf1893993ad26a25a4fc74f6f97e1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q54179$BD2B3F9D-1E55-4E03-AC4F-0888681FE1AC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=jeanne;n=d anjou;oc=4"
+          },
+          "hash": "346b42b55bf561c06bfaf45c40a3ce3406df7e08",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q54179$E96B4CE0-9D7E-4966-AC6B-0264A04055AD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Joan of Anjou, Queen of Armenia Arms.svg"
+          },
+          "hash": "153539046a84d677e41414df25203ed17de78de4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Armenian queen consort"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine Consort d'Arménie"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "örmény királyné, tarantói hercegnő"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina consorte della Piccola Armenia"
+    }
+  },
+  "id": "Q54179",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Tarantolu İoanna"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Joan d'Anjou, reina d'Armènia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Johana z Anjou"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιωάννα του Τάραντα, βασίλισσα της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Joan of Anjou, Queen of Armenia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Juana de Anjou"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Jeanne d'Anjou"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tarantói Johanna örmény királyné"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ժաննա Տարանտո"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanna di Taranto"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იოანა ტარანტოელი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Joan of Anjou"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Жана од Тарента"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Жана Ажуйська"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塔蘭托的喬萬娜"
+    }
+  },
+  "lastrevid": 17461484,
+  "modified": "2025-09-16T12:41:30Z",
+  "ns": 860,
+  "pageid": 69010,
+  "sitelinks": {},
+  "title": "Item:Q54179",
+  "type": "item"
+}

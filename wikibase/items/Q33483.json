@@ -1,0 +1,162 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "임성군"
+      },
+      {
+        "language": "en",
+        "value": "Q18381261"
+      },
+      {
+        "language": "en",
+        "value": "Q18381261 //"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q33483$C63A34A0-F406-4B1E-87DA-9BE8E08F2040",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q33483$063B7926-55CB-4F5F-B404-5C198E324593",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q33483$CADBD78D-2A1A-4FB7-8A48-41C2E9A24022",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q33200",
+              "numeric-id": 33200
+            }
+          },
+          "hash": "616845fb32ff74e4b06509374b178df30773dfad",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q33483$C5790CA9-38BB-4E84-855C-6E20CCD9A183",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q33483$F0187BBE-33E7-4684-9188-E34B6982D9E4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+1665-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9385dde2e77eab7c71a28ae434213648b3b92203",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q33483$BBE941D8-576A-4AC3-8875-6F654F58250B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q18381261"
+          },
+          "hash": "a8b65ad06e8d45fead5127c34936068689cf9b64",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q33483",
+  "labels": {
+    "ko": {
+      "language": "ko",
+      "value": "임성군"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "臨城君"
+    }
+  },
+  "lastrevid": 17434222,
+  "modified": "2025-09-16T06:05:04Z",
+  "ns": 860,
+  "pageid": 52823,
+  "sitelinks": {},
+  "title": "Item:Q33483",
+  "type": "item"
+}
