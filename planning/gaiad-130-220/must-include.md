@@ -74,8 +74,11 @@ tilts don't imply the whole epic leans this way.
 - **Heo Hwang-ok.** `heo-hwang-ok.md`.
 - **Jimmu.** `jimmu.md`.
 - **Islam in Asia.** Consolidated chapter covering the spread into
-  India, China, and Southeast Asia. See `southeast-asia.md` and
-  `islam-syncretic.md`.
+  India, China, and Southeast Asia. Must include: **Wali Sanga** in
+  Java, **Confucian-Islamic syncretism** in China (Han Kitab tradition,
+  Wang Daiyu / Liu Zhi), and **Xiao'erjing** (Arabic-script Chinese)
+  as the Hui literacy on-ramp. India hook TBD but slot is reserved.
+  See `islam-syncretic.md`.
 
 ## West Eurasian super-network
 
