@@ -1,0 +1,559 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ancus Marcius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q134939$9677ED6C-8672-4786-B467-1523B9B23BAD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "167147"
+          },
+          "hash": "661e4c1a19910a38e190a957106ed87a6d688966",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q134939$2B050B45-21B1-41FF-9560-C02154CF429B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134939$DD0304CF-2C34-4141-8278-01737A751A63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134939$08CB957B-5E27-4D5D-85C8-AE215D739D31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134938",
+              "numeric-id": 134938
+            }
+          },
+          "hash": "c942f682d12a39a710ec8e470935afc2d1a77b9f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q134939$9B6F927E-95FD-40E3-BC94-B5073D2BE97E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134888",
+              "numeric-id": 134888
+            }
+          },
+          "hash": "9baf378234e1c100f70bace5d5b488a1c4c97585",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134939$CB9589D2-D992-455D-82BE-767005E0E675",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q134939$8752064E-4641-4B55-93A8-1198A1ABCC9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0675-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1b7a78111ebc0b0f34e10c90fe4b801849e29326",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q134939$F060AF41-D610-4C90-8D58-D14427570CCC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0616-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "71896f2bbd68bdd043f134b606b917e2a5c822af",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134939$3714A64E-9975-4F2B-BCA7-9B9CF99FBE1A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q206741"
+          },
+          "hash": "8e2325dc20ddd849b415c73e58f60c052a809810",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q134939$883121A6-D317-45D4-9E81-795CE6514C6D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Ancus Marcius"
+          },
+          "hash": "289f6777c5c995cc271fae1ca25d1791d0747753",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134939$90DB2E1B-40B9-4AE5-98D0-BB6F2D2E8166",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ancus Marcius Arms.svg"
+          },
+          "hash": "a7204bd7e3de9f9b6197cf4975d9315e8a56f78b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "římský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "mythischer vierter König von Rom"
+    },
+    "en": {
+      "language": "en",
+      "value": "legendary fourth king of Rome"
+    },
+    "es": {
+      "language": "es",
+      "value": "cuarto rey de Roma"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "muinainen Rooman kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "quatrième roi légendaire de la Rome antique"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rí na Róimhe"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך אגדי של רומא"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "római király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja keempat, menggabungkan aspek militer Romulus dan keagamaan Numa, mendirikan pelabuhan Ostia serta memperluas Roma"
+    },
+    "it": {
+      "language": "it",
+      "value": "quarto re di Roma"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Keyekî Keyaniya Romê"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Romeins koning (674 VC-615 VC)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Rzymu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "al patrulea rege al Romei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "четвёртый царь Древнего Рима"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "روم کا بادشاہ"
+    }
+  },
+  "id": "Q134939",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنكوس ماركيوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انكوس ماركيوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Ank Marsiy"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "آنکوس مارکیوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Анк Марцый"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Анк Марцыюс"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Анк Марций"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Anc Marci"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ancus Marcius"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ancus Marcius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ancus Marcius"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άνκος Μάρκιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ancus Marcius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Anco Marcio"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ancus Marcius"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Anko Martzio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنکوس مارکیوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ancus Marcius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ancus Marcius"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ancus Marcius"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Anco Marcio"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Ancus Marcius"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנקוס מארקיוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Anko Marcije"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ancus Martius"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Անկոս Մարկիոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ancus Marcius"
+    },
+    "io": {
+      "language": "io",
+      "value": "Ancus Marcius"
+    },
+    "it": {
+      "language": "it",
+      "value": "Anco Marzio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンクス・マルキウス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანკუს მარციუსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안쿠스 마르키우스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Ancus Marcius"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ancus Marcius"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ankas Marcijus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ancus Marcius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ancus Marcius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ancus Martius"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Ancus Marcius"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ankus Marcjusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Anco Márcio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Anco Márcio"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ancus Marcius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Анк Марций"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Ancus Marcius"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Anko Marcije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ank Marcij"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Анко Марције"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Анко Марције"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Anko Marcije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ancus Marcius"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Ancus Marcius"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ancus Marcius"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Анк Марцій"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "آنکوس مارکیوس"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安古斯·馬奇路斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安古斯·马奇路斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安古斯·马奇路斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安古斯·馬奇路斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安古斯·馬奇路斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安古斯·马奇路斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安古斯·馬奇路斯"
+    }
+  },
+  "lastrevid": 17550674,
+  "modified": "2025-09-17T10:12:11Z",
+  "ns": 860,
+  "pageid": 163324,
+  "sitelinks": {},
+  "title": "Item:Q134939",
+  "type": "item"
+}

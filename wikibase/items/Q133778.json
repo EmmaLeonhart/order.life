@@ -1,0 +1,209 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Oenoe"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q133778$2643C510-087B-479F-BA52-D5372091C411",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133779",
+              "numeric-id": 133779
+            }
+          },
+          "hash": "85049229231e5cce5e90588f718b4a8fd35ea1e8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q133778$EB61A9C9-C538-448B-9D2C-20E4F4E1E9D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133778$74FB1A5C-528F-4E7B-8AEC-4F13D672F7E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q133778$5B26C8D1-27A3-46CC-A3D8-09C5DCD685C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132398",
+              "numeric-id": 132398
+            }
+          },
+          "hash": "7189c8e48d1c551cc03625a73369ae3670609089",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q133778$AEBB0953-D8DB-44C2-99E5-FA6BCF61197C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q133778$ABB928C6-4206-49C1-A294-F3B02B698502",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q19828218"
+          },
+          "hash": "d47d7538b130279d7c8be33db57bf27c50584f9b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q133778$8782894E-1051-4851-B687-CD2FC93460D5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Oenoe Arms.svg"
+          },
+          "hash": "0c1d9edbcfd8e616a7dc0bdaa9fdeba7e1f43d45",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "nymph in mythology, wife of Thoas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "nymphe de la mythologie grecque"
+    },
+    "it": {
+      "language": "it",
+      "value": "ninfa della mitologia greca, moglie di Toante"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "нимфа"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde kaynak, ağaç ve mağara gibi doğa unsurlarını kişileştiren tanrıça (nymphe)"
+    }
+  },
+  "id": "Q133778",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Ènoe"
+    },
+    "de": {
+      "language": "de",
+      "value": "Oinoe"
+    },
+    "en": {
+      "language": "en",
+      "value": "Oenoe"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Œnoé"
+    },
+    "it": {
+      "language": "it",
+      "value": "Enoe"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эноя"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Oenoe"
+    }
+  },
+  "lastrevid": 17548432,
+  "modified": "2025-09-17T09:40:19Z",
+  "ns": 860,
+  "pageid": 162163,
+  "sitelinks": {},
+  "title": "Item:Q133778",
+  "type": "item"
+}

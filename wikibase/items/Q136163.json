@@ -1,0 +1,435 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Demetrius III Eucaerus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136163$6E1CF3E8-F62C-40A5-99FE-E63BBAAC431C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00786173"
+          },
+          "hash": "dad27dc4e6c2a8941935ab8ac90f6028356b1262",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136163$497FB130-1785-4356-B025-8339AD2AE164",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136163$DA56FE28-FD07-442B-A0C6-BFDB0F3731A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136163$5F2E72FF-87FC-40EE-94C5-175B4EFE63DD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Demetrius_III_Eucaerus_(1)"
+          },
+          "hash": "ab925182b17bd5e79f74b97c9ad6e0b88edc9fce",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136163$D8397ECB-F1F2-4363-B156-D5372023B2DE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72891",
+              "numeric-id": 72891
+            }
+          },
+          "hash": "2ce83282597ea468f28168c1ce0cdc9a47c73849",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136163$971EE255-DE13-41FA-9FF0-4D5CAE566064",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72888",
+              "numeric-id": 72888
+            }
+          },
+          "hash": "bc549374205056cd1ece94204cc913fa6cf564bf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136163$29661941-C44D-4D0D-88B7-8AF42ACC8C27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136163$0CC252C1-37A9-436C-BA2D-4B55CD40EDFA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136163$9C0778EC-C29E-4705-A291-1584627837C9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0088-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f7568941e46ec8d3c2fa8b510ecd1e42ab4ffdca",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136163$92ECE989-151A-4697-9B12-685B7CC1FB0D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q312809"
+          },
+          "hash": "015c66f85d02284cd2d9d2afeb102d709efb051a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136163$565C338D-AF6A-4738-8525-E766C4D0A214",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Demetrius III Eucaerus Arms.svg"
+          },
+          "hash": "54c7458ecedb9890c6b84097bfef0b76b830b6c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei selèucida"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn von Antiochos VIII. und König"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Syria"
+    },
+    "es": {
+      "language": "es",
+      "value": "gobernante del Imperio seléucida"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 96-88 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス朝の君主"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "hellenistisk konge"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Seleucidische rijk (-88v Chr)"
+    }
+  },
+  "id": "Q136163",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ديميتريوس الثالث"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ديميتريوس التالت"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "اۆچونجو دیمتریوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Дэметрый III Эўкер"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Деметрий III Еукер"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Demetri III l'Inoportú"
+    },
+    "da": {
+      "language": "da",
+      "value": "Demetrios 3. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Demetrios III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Δημήτριος Γ' Εύκαιρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Demetrius III Eucaerus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Demetrio la 3-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Demetrio III Eucarios"
+    },
+    "et": {
+      "language": "et",
+      "value": "Demetrios III Eukairos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Demetrio III.a Eukarios"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دیمتریوس سوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Demetrios III Eukairos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Démétrios III"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמטריוס השלישי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Démétriosz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Demetrius III Eukaerus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Demetrio III"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "デメトリオス3世エウカイロス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "데메트리오스 3세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Demetrius III Eucaerus"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഡിമിത്രിയസ് III"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Demetrios III av Syria"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Demetrius III Eucaerus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Demetriusz III Filopator"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "درېیم دیمیتریوس یوکایریوس"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Demétrio III Filopáter"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Demétrio III Filopáter"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Деметрий III Эвкер"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Demetrije III Euker"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Деметрије III Еукареј"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Demetrios III"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Деметрій III Філопатор"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Demetrios III Eukairos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "德米特里三世"
+    }
+  },
+  "lastrevid": 17552669,
+  "modified": "2025-09-17T10:40:50Z",
+  "ns": 860,
+  "pageid": 164548,
+  "sitelinks": {},
+  "title": "Item:Q136163",
+  "type": "item"
+}

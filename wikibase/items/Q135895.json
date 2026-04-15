@@ -1,0 +1,791 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pepin of Herstal"
+      },
+      {
+        "language": "en",
+        "value": "Pepin II of Herstal"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Пипин 2 /Каролинг/"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135895$483F8B00-6C1E-494D-81BB-D44CBB275510",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "28956"
+          },
+          "hash": "cec2c0ef1e5a07a0a1cca3825d5cdab515241e4e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135895$ADEC4B60-2553-4821-9BC6-4E9C5E220BEF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00020925"
+          },
+          "hash": "4cceb4a77ed5c5c92092dad2969ba61e4bb10514",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135895$EEC1FBC0-F8F3-46B7-8820-1A558C18B9D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113235",
+              "numeric-id": 113235
+            }
+          },
+          "hash": "eb97988b3433dbf69cd1ac5388b309d78cc9608a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135895$5638F6C3-FE49-4A9C-B59F-D8EC5B744F67",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113237",
+              "numeric-id": 113237
+            }
+          },
+          "hash": "1a3f0dfe3833555728652108849aa9fbe1bf70c9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135895$C2B9CAB7-3B76-407A-9135-D34292D03FD8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113081",
+              "numeric-id": 113081
+            }
+          },
+          "hash": "abc541879219e1bd7ccf199835b9e99c0a6bcec9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135895$519A4062-0264-41E8-8C0E-49D1C45CFFEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113273",
+              "numeric-id": 113273
+            }
+          },
+          "hash": "6d3a6304d2991069ccfd5e8271ce73aa14e8a46a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135895$6A46DB7A-362D-4D8E-8196-D92BBE08AAE7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206660",
+              "numeric-id": 206660
+            }
+          },
+          "hash": "f17ca481bc75fbc39a1ee4eb9828728149902f59",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q135895$8F6C0798-829B-49D0-8CD2-797070A044B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pippinid-3"
+          },
+          "hash": "220db953bf79aa902ba069021c2cc7d828b7243b",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135895$45EE7EF9-4EFC-4F54-A17E-98EAFFCDCCD3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135895$F3685A2A-9E10-468B-9B56-CA706F6F977B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135895$6965F60E-BC66-4DDD-958F-1BAF24E93FC0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Pépin_de_Herstal_(1)"
+          },
+          "hash": "2e92ed821d52f808b10a16e001d109e3b50f2527",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135895$11B6B1F9-00B5-4D73-B5F4-BA4A90709EB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q112064",
+              "numeric-id": 112064
+            }
+          },
+          "hash": "d91b37518514e3a00ca0b3881ef1a78f745f4663",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135895$A03FED05-59D7-4EB4-9140-9623DA72F44E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q113271",
+              "numeric-id": 113271
+            }
+          },
+          "hash": "3c4d9b4de1696850634ee8e4642a5aceecf365d4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135895$3DD3A3AC-CBDC-4270-9C1B-31A050DD3820",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q206906",
+              "numeric-id": 206906
+            }
+          },
+          "hash": "f5a78dbd8be8313babb1981ae92de9bba8e9e100",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q135895$EEA1A3CA-4D1D-4DD0-A92F-73D672E5013D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p41714.htm#i417134"
+          },
+          "hash": "7dff6cd468c8abb13f574734589ce3018fe077fb",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135895$4CC0BD5E-5D0C-480F-888E-E0D10F1D4F69",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q154006",
+              "numeric-id": 154006
+            }
+          },
+          "hash": "1e898b15c7d2fd699cf40c890bb7c94c6fa64b41",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135895$187CD76F-9374-4BB6-B4FD-A5B022094F6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q111320",
+              "numeric-id": 111320
+            }
+          },
+          "hash": "a30d8f6de74520608f6ca3e727511e725467c321",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q135895$CA755ABD-3A09-4FE6-9AA3-1CC637B1130D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "131325529"
+          },
+          "hash": "80876fa900b538a30165e6ca1fff78f752a44894",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135895$3CB77973-4166-432A-89AE-E0E256D952C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135895$EDA7556E-4492-4758-BBA7-E2B9E70A9659",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0645-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fc8616c71a703d4a5ea6fad66a941a9a3192883e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135895$4948AD0D-BDA1-42D8-A353-B515DA5FB84E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0714-12-16T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3cec603c3cbb555c6a7c3ad7401aed8a6b0cb60f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135895$DB990F2A-9DB2-4E6F-85B9-13B1574B5605",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q91392"
+          },
+          "hash": "9466f48711576acd171447f49fd92c3729363560",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q135895$FC7AB11A-763B-40ED-91DC-93CE2144F4F4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5535353244920040751"
+          },
+          "hash": "eaa18740fb32d3cfbe36b82979ddaefa0d6de721",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P7929": [
+      {
+        "id": "Q135895$FF4ADD2B-7C27-4FA8-9EB9-91D914FAC4B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p=pepin;n=de herstal;oc=1"
+          },
+          "hash": "cde2e28dfbf2538a4764d7c8cc8696eb1f4b313d",
+          "property": "P7929",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8172": [
+      {
+        "id": "Q135895$B70014D8-C0C5-448F-A730-CFC350B8CB77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "dw.7673"
+          },
+          "hash": "82f5728d7c50ec65496712f63a7010c695c53293",
+          "property": "P8172",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135895$B09055BC-98E7-494C-9F7B-5A3554EE1960",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pepin of Herstal Arms.svg"
+          },
+          "hash": "7ceea7aacd5b4ddcbd0e9d162cd0f249bcb4acf4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "маярдом Нейстрыі і Аквітаніі"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "mocný austrasijský majordomus, otec Karla Martela"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Maer y Palas (635-714)"
+    },
+    "de": {
+      "language": "de",
+      "value": "fränkischer Hausmeier"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mayor of the Palace (635-714)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "frankkien käskynhaltija"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "maire du palais d'Austrasie"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "mordomo de palacio de Austrasia"
+    },
+    "he": {
+      "language": "he",
+      "value": "המאיורדומוס של אוסטרזיה"
+    },
+    "it": {
+      "language": "it",
+      "value": "maestro di palazzo d'Austrasia dal 680 al 714"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아우스트라시아의 궁재"
+    },
+    "la": {
+      "language": "la",
+      "value": "maior domus regni Francorum"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "майордом Нейстрии и Австразии"
+    }
+  },
+  "id": "Q135895",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Піпін Герыстальскі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Пипин Ерсталски"
+    },
+    "br": {
+      "language": "br",
+      "value": "Pepin Herstal"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Pipí d'Héristal"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pipin II. Prostřední"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Pepin o Herstal"
+    },
+    "da": {
+      "language": "da",
+      "value": "Pipin af Herstal"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pippin der Mittlere"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Pippin der Mittlere"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πεπίνος του Χέρσταλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pepin of Herstal"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Pepin of Herstal"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Pepin of Herstal"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Pepino el Herstal"
+    },
+    "es": {
+      "language": "es",
+      "value": "Pipino de Heristal"
+    },
+    "et": {
+      "language": "et",
+      "value": "Pippin Heristalist"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Pepin Heristalgoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پپن ارستال"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pipin Heristalilainen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pépin de Herstal"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Pippyn fan Herstal"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Pepin Herstal"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Pipino de Herstal"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Pippin dr Mittleri"
+    },
+    "he": {
+      "language": "he",
+      "value": "פפין האמצעי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Herstali Pipin"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պեպին Հերստալացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pippin II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Pipino di Herstal"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ピピン2世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "피핀 2세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Pippinus Heristaliensis"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Pippin de Mëttelsten"
+    },
+    "lmo": {
+      "language": "lmo",
+      "value": "Pipino de Herstal"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Пипин Херисталски"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pipin av Herstal"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pepijn van Herstal"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Pipin av Herstal"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Pepin z Heristalu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Pepino de Herstal"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Pepino de Herstal"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Pepin de Herstal"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пипин Геристальский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pipin Herstalski"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pipin Herstalski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Пипин Хересталски"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pippin av Herstal"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Herstallı Pepin"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Піпін Герістальський"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "丕平二世"
+    }
+  },
+  "lastrevid": 17552263,
+  "modified": "2025-09-17T10:35:01Z",
+  "ns": 860,
+  "pageid": 164280,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q154004",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q154004"
+    }
+  },
+  "title": "Item:Q135895",
+  "type": "item"
+}

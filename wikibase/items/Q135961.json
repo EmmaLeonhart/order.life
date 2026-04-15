@@ -1,0 +1,435 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Labashi-Marduk"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135961$157E523A-0F0D-4FB8-9C67-D18B44555DF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "678955"
+          },
+          "hash": "bbc5402e6d542e25bcaa64bead2d07de2e356f1f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135961$52021BBC-1659-4829-BD4B-100D17972CFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738392"
+          },
+          "hash": "1fd56259cb7ef48755d5a334ac501d8eab3173a5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135961$BB9753C5-CE35-4472-AF78-59EF878D7517",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135961$1DEC2B7E-42C5-4BBD-8F8E-41A754F2CAC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135961$78BED195-86E1-45EA-A0F3-0A0594C98084",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135960",
+              "numeric-id": 135960
+            }
+          },
+          "hash": "21c1e05d3bab2d6a54403a5d47944ea061b193d4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135961$2E8B8B69-9B24-4A8D-8A44-E4E5F15B6B55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135787",
+              "numeric-id": 135787
+            }
+          },
+          "hash": "5bfe276356cf41afbb4d55c952a5d6fb0244c0cd",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135961$2835914E-37D2-468A-97C4-B991138C06D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135961$3A6F27B1-ADF7-4CF5-94B5-A7831B2F9785",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135961$A0028A75-C384-45FE-BC82-4A5BDA9F35BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0556-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f7763cb22506b058500cea8a71be5950af77676e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135961$E0BABBA9-F57F-4C3C-A4BF-A87CC52FBCFC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q906677"
+          },
+          "hash": "f7fa90a0b627f1e8e5f075d765e4194a0ac385b8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135961$37F6BDC5-A403-42D3-8E1B-4307F708EF33",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Labashi-Marduk Arms.svg"
+          },
+          "hash": "8802ee65c082876d0e727b9a1bcdab3887210763",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei de Babilònia"
+    },
+    "de": {
+      "language": "de",
+      "value": "König des neubabylonischen Reiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "Babylonian king"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rey del Imperio Neobabilonico y nieto materno de Nabucodonosor II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Babylone en 556 av. J.-C, fils de Nériglissar, petit-fils de Nabuchodonosor II"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך בבל"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Újbabiloni Birodalom királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Babylon (-556v Chr)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rei babilônico"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Babylon"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Правитель Вавилонії"
+    }
+  },
+  "id": "Q135961",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "لبشي مردوخ"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "لبشى مردوخ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Labashi-Marduk"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Lábaši-Marduk"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lābāši-Marduk"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λαβασί Μαρδούκ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Labashi-Marduk"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Labashi-Marduk"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Labashi-Marduk"
+    },
+    "es": {
+      "language": "es",
+      "value": "Labashi-Marduk"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لاباشی-ماردوک"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Labashi-Marduk"
+    },
+    "he": {
+      "language": "he",
+      "value": "לבאשי-מרדוך"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lábási-Marduk"
+    },
+    "id": {
+      "language": "id",
+      "value": "Labashi-Marduk"
+    },
+    "it": {
+      "language": "it",
+      "value": "Labashi-Marduk"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ラバシ・マルドゥク"
+    },
+    "la": {
+      "language": "la",
+      "value": "Labosardach"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Labashi-Marduk"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Labashi-Marduk"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Labaschi-Marduk"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Labaszi-Marduk"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Labasi-Marduque"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Labasi-Marduque"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лабаши-Мардук"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Labaši-Marduk"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Lábaši-Marduk"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Labashi-Marduk"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Labashi-Marduk"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лабаші-Мардук"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "لباشی مردوک"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "拉巴施馬爾杜克"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "拉巴施馬爾杜克"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "拉巴施马尔杜克"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "拉巴施馬爾杜克"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "拉巴施馬爾杜克"
+    }
+  },
+  "lastrevid": 17552363,
+  "modified": "2025-09-17T10:36:28Z",
+  "ns": 860,
+  "pageid": 164346,
+  "sitelinks": {},
+  "title": "Item:Q135961",
+  "type": "item"
+}

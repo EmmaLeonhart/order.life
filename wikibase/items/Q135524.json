@@ -1,0 +1,277 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ariamenes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135524$CDB9B9D7-54F0-4E2C-BF31-1713F37283BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738155"
+          },
+          "hash": "2a0dba4bd35be213c7c6591ab4ff9eddc2d4c81e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135524$705EB1BB-07DC-4DEB-BD3B-74428F443F21",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135524$8D70FE9A-B26B-4AC8-A0FA-A3391E4AD19E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135524$BB0DBF38-D84D-4F0A-8A75-A4A5B4C27426",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135294",
+              "numeric-id": 135294
+            }
+          },
+          "hash": "dc4fa6684535ae1fc439e90b70b0cd8c6edd8e7d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135524$1C72F2BB-5366-46E5-ACBD-AD1510913E1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135524$7B2F170A-0D30-494F-A83D-541AFB007516",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7c059cba147a579eaac8c21b9311dadda0cf3ec7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135524$C519ABDD-ED43-4791-A6DE-4287342865A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0480-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e10f0f13dbe5b8d590a556a5b722576a4a48cfe2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135524$793A6ACB-F12B-4049-B442-6FE63EEA7D72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q16022999"
+          },
+          "hash": "4cf325244690f1eab130a3e95f24225b6aa4d810",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135524$46D558D2-C34F-4A24-8702-04E9F2E1BC3D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariamenes Arms.svg"
+          },
+          "hash": "dd05baf68ea493da3212ff058dfcde62ef80be66",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Achämenide, Sohn des Großkönigs Dareios I., Satrap von Baktrien"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Dario I"
+    }
+  },
+  "id": "Q135524",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Арыямен"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ariamenes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ariamenes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριαμένης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ariamenes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ariamenes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آریامنش"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ariamenes"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ariamenes"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արիամենես"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ariamene"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アリアメネス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ariamenes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ariamenes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ariamenes"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ariamenes"
+    }
+  },
+  "lastrevid": 17551696,
+  "modified": "2025-09-17T10:26:54Z",
+  "ns": 860,
+  "pageid": 163909,
+  "sitelinks": {},
+  "title": "Item:Q135524",
+  "type": "item"
+}

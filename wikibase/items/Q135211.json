@@ -1,0 +1,357 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sirras"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135211$87056879-75BB-43E9-AEE7-C4C1C62A4AE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736510"
+          },
+          "hash": "70cbd91e54df1f30eb2746603ed0c38887172975",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135211$9AD077B9-3C65-45EB-8C31-D63EC3C9405A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135212",
+              "numeric-id": 135212
+            }
+          },
+          "hash": "8a75ad9a69d137e2aced15524c93b0f10dd85f29",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135211$173AEC9A-37F9-4230-ABF2-0DA6B3FACBD1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135173",
+              "numeric-id": 135173
+            }
+          },
+          "hash": "a05b66b634fa3afeb938f4d173f03e30de38f4a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135211$9C7A49FC-3A2A-4853-8727-3DA364E2CE5A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135211$C018375A-053A-4679-931E-786AE750AD54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135211$C6F159D7-0F8D-48C5-A308-FF4FE4BBAC35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135269",
+              "numeric-id": 135269
+            }
+          },
+          "hash": "f0825fe1b71bcda35c29f3eefec2ec90ad0db1ad",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135211$A1806A17-D10C-40A0-BE87-67076C45E73A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135211$901A2576-62F5-4DDF-8D6A-D927E3954A7F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135211$64E86DAF-A980-42D9-908A-8A2766CF2E49",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135211$2664DC40-3AEF-4346-BA35-551B231510AD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1522999"
+          },
+          "hash": "ae3ad7dcc55dfc07b2112ef8f0b1bfa3067a3aa0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135211$4992BC08-4F1A-4468-9BBD-977FB16120AD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sirras Arms.svg"
+          },
+          "hash": "6fa83a9872f44bc996e2590e3f90dfb9a1fa75f2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "obermakedonischer Fürst"
+    },
+    "el": {
+      "language": "el",
+      "value": "πρίγκηπας της Μακεδονίας 5ο/4ο αιώνα π.Χ"
+    },
+    "en": {
+      "language": "en",
+      "value": "late-5th/early 4th-century Macedonian prince"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince madéconien"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori lünkésztiszi uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe illiro"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Koning van Illyrië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Elimei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "правитель Элимии (области в Верхней Македонии)"
+    }
+  },
+  "id": "Q135211",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "سيرا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Сирас"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Sirhas"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sirras"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σίρρας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sirras"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sirras"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sirrhas"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Σίρρας"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szirrhasz"
+    },
+    "id": {
+      "language": "id",
+      "value": "Siras"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sirra"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sirras"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sirras"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Сирр"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sirhas"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Syrra"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Сирас"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "錫阿司"
+    }
+  },
+  "lastrevid": 17551166,
+  "modified": "2025-09-17T10:19:18Z",
+  "ns": 860,
+  "pageid": 163596,
+  "sitelinks": {},
+  "title": "Item:Q135211",
+  "type": "item"
+}

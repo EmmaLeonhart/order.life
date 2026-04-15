@@ -1,0 +1,367 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ziaelas of Bithynia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135946$C02DA1F1-946E-4B5A-A3C6-E7290193836A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737582"
+          },
+          "hash": "438b40b90f59f2601dceb832f31dae19128ad4b6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135946$563B3D78-ABDF-47F7-966D-84B2D7CAA8C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135770",
+              "numeric-id": 135770
+            }
+          },
+          "hash": "5cd28c877101f8f07f6d1afb74482b12d0db4e85",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135946$DD9DDBDE-A33E-4183-AF38-3BAECE73F889",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135946$96A8F7FC-F662-402D-9AB3-6DD4D9B1B718",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135946$85634A8D-FE72-4BBC-A475-3AFEB08FF2DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136188",
+              "numeric-id": 136188
+            }
+          },
+          "hash": "fcbe6a8fe8803184ee597def789cb4ce56753cee",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135946$9F4EA42D-55A9-429B-9B42-59F35495696F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136189",
+              "numeric-id": 136189
+            }
+          },
+          "hash": "97a7e0840860688747d4c8613492db2fffd4f640",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135946$D83F2587-5804-4884-9338-E1D430E56BF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135946$788DD9EF-DA0D-4F9E-AC9A-B7CE72A616E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135946$B00AC95D-227F-4990-9650-C742A1DA11D5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0228-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e841ffeb26ebcb3bb29d0ff9c3828c0bf940966e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135946$AE0AE3DA-CAF0-4C1D-9822-994147FD9A6A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q198293"
+          },
+          "hash": "93d66af7d5c251e87538dafa20eedda4aecf8f26",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135946$3B8FC658-CF09-4993-A24B-AA8E554860EE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ziaelas of Bithynia Arms.svg"
+          },
+          "hash": "0d08c60dfc0cc012f61c32a0c1e6cce57076c4a5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Bithynien"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Bithynia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Bithynie"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ביתיניה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "bithüniai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Bitinia (r. 254-228 a.C.)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Bitynii"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Bithynien"
+    }
+  },
+  "id": "Q135946",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Зіаіл"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Zeiles"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ziaelas af Bithynien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ziaelas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ζιαήλας της Βιθυνίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ziaelas of Bithynia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cielas de Bitinia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Zélas"
+    },
+    "he": {
+      "language": "he",
+      "value": "זיאלאס, מלך ביתיניה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ziaélasz"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ziaelas"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ziaelas"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "지아엘라스"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ziaelas of Bithynia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ziaelas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Зиаил"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Zijela od Bitinije"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ziaelas of Bithynia"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ziaelas av Bithynien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Зіел"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ziaelas của Bithynia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "基阿埃拉斯"
+    }
+  },
+  "lastrevid": 17552337,
+  "modified": "2025-09-17T10:36:06Z",
+  "ns": 860,
+  "pageid": 164331,
+  "sitelinks": {},
+  "title": "Item:Q135946",
+  "type": "item"
+}

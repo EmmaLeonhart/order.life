@@ -1,0 +1,363 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nicesipolis"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135216$9DCE1F58-00D3-4B0F-A3DC-48F7CD7A71F0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736325"
+          },
+          "hash": "c0810f2201d2d5288da6fa90173134ecd200c0c7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135216$4EB5313F-7D6E-48FA-B17F-A4524E62FCCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135222",
+              "numeric-id": 135222
+            }
+          },
+          "hash": "af529a8fccef6d165237b897bfc11dad19cf05a5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135216$727EC03B-FBC8-4558-8E6A-E811F84F51A4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135216$BEA638B5-C7E0-49A8-AF54-500503F939F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135216$9F699A60-9443-48F8-986A-056B5B4110E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135177",
+              "numeric-id": 135177
+            }
+          },
+          "hash": "0672f6e24aaf3e1cf8bb35c88a5cf992f02c72b6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135216$DF215AF4-B4E5-4E06-A035-0AFEE7DB96BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135216$E86D12EF-8D9D-4D76-8CD6-856798C1B4B5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135216$E9D54E4D-05D3-477A-8BE8-D8F46F305DB1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135216$1800B1E5-592A-46B2-BDDA-680650E168F1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q453968"
+          },
+          "hash": "80de0be864a88503b52aadc7de696d29288d2435",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q135216$4FD4BA1D-4CF8-4F6D-BB26-5D20BFAA6A88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000041107050793"
+          },
+          "hash": "c1593cc1e03872ad84bbc671612805f2b212df78",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135216$0478C1AC-636F-49E6-A459-E6CC1DD2C98B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nicesipolis Arms.svg"
+          },
+          "hash": "9c347439b915e7b441133d0d07fbad1cf235f10b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "durch Heirat Königin von Makedonien, Mutter der Thessalonike"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wife or concubine of king Philip II of Macedon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "conjointe de Philippe II de Macédoine"
+    },
+    "it": {
+      "language": "it",
+      "value": "moglie o concubina di Filippo II"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "македонска кралица, мајка на Тесалоника"
+    }
+  },
+  "id": "Q135216",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Нікесіполіс"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Никесиполис"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nikesipolis von Pherai"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νικησίπολις"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nicesipolis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nicesípolis"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nicésipolis de Phères"
+    },
+    "id": {
+      "language": "id",
+      "value": "Nikesipolis"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nicesipoli"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ニケシポリス"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Никесиполида"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Nikesipolis fra Ferai"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nicesipolis"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Никесиполида"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Nikesipolis"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Nikesipolis från Ferai"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Нікесіполь"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nicesipolis"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "尼刻西波莉絲"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "尼刻西波莉丝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "尼刻西波莉丝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "尼刻西波莉絲"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "尼刻西波莉絲"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "尼刻西波莉丝"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "尼刻西波莉絲"
+    }
+  },
+  "lastrevid": 17551176,
+  "modified": "2025-09-17T10:19:27Z",
+  "ns": 860,
+  "pageid": 163601,
+  "sitelinks": {},
+  "title": "Item:Q135216",
+  "type": "item"
+}

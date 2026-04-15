@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alcetas"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135084$1BEFBBC6-2A8A-4935-9EA4-03D9BE168E40",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "823341"
+          },
+          "hash": "eba604dde67c3be6792202199d5cd2dd90c43b96",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135084$C9E3C93C-4CD1-400F-8872-A4BEF8365622",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736505"
+          },
+          "hash": "3079d45d9d2492bd42bcd9f828d9b722da9669d5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135084$026949DA-A966-44BC-ABB0-5D2317B50751",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135084$C3972F18-A037-44FF-B917-69972CD922F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135084$810949F2-76BF-404A-8B37-5C52F95326B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74282",
+              "numeric-id": 74282
+            }
+          },
+          "hash": "4b10825b1db4ea52272e448bf71ebd386e7562b2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135084$A4E0C140-AAA5-45B1-8ADA-F63FBF416B61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135084$576BDF84-035F-47CE-96EA-23E757C1E2D2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135084$DB847A5A-0E7A-45FE-803D-A3FB7E068E99",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0413-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de8e6da09423f8489e9a3968616c906a7c26e459",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135084$070218C8-BC2A-4FFC-BF5A-2B2D75B4B508",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q469703"
+          },
+          "hash": "40852e6e88ea7ba9e6585bd52aab59ba987c6b37",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135084$A87840E2-5CD7-4444-B60E-04043FCC9B38",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alcetas Arms.svg"
+          },
+          "hash": "7802f05fa5e92a7e3e6f94b2b6010e5637a54846",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bn": {
+      "language": "bn",
+      "value": "ম্যাসিডনের রাজা"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "rei macedoni"
+    },
+    "de": {
+      "language": "de",
+      "value": "ältester Sohn von Alexander I."
+    },
+    "en": {
+      "language": "en",
+      "value": "brother of 5th-century BC Macedonian king, Perdiccas II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Macédoine"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Macedonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マケドニア王"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "马其顿王"
+    }
+  },
+  "id": "Q135084",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Alketas II van Makedonië"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "ألكيتاس الثاني المقدوني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الكيتاس التانى المقدونى"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Алкет II"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ম্যাসিডনের দ্বিতীয় আলকেতাস"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alcetas II"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alketas II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλκέτας Β' της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alcetas"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Alketo la 2-a (Makedonio)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alcetas II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alcétas II de Macédoine"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alceta II di Macedonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルケタス2世"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Алкет II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Alketas II av Makedonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alcetas II van Macedonië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Alketas II Macedoński"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Alcetas II da Macedónia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Alcetas II da Macedónia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Alcetas al II-lea al Macedoniei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Алкет II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Alketa II od Makedonije"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Алькет II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿尔塞塔斯二世"
+    }
+  },
+  "lastrevid": 17550932,
+  "modified": "2025-09-17T10:15:58Z",
+  "ns": 860,
+  "pageid": 163469,
+  "sitelinks": {},
+  "title": "Item:Q135084",
+  "type": "item"
+}

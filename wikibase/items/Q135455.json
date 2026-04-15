@@ -1,0 +1,328 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Theoxena of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135455$EBDEF4EE-E7FB-46D2-99F5-0C077DB3E7DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "883436"
+          },
+          "hash": "ab66b5489d9ff64e7c3edcd2d2ec3a083574e739",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135455$4CB2CB62-CB17-41EE-80F9-719B004FAB2B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736562"
+          },
+          "hash": "302b3d7a049d48006d341c4a134e7f81300c5929",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135455$270DFF5A-A210-4F8F-8082-88D7D3A51124",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135600",
+              "numeric-id": 135600
+            }
+          },
+          "hash": "99061d2622ad449130f705ca94512bdffe6b804c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135455$EA96C0FA-A6D1-4939-9351-A51D7941321B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135455$3DE0714D-8907-4AC3-9D8D-EBF7B0DC014E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135455$D3628933-DF0B-4831-ABAE-2A739C1312CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135453",
+              "numeric-id": 135453
+            }
+          },
+          "hash": "3f31b3e19d9f5c97958115375cf47b45b49bacb4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135455$8B461BEF-8C1F-44E0-9ED4-04C191B7ACF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135334",
+              "numeric-id": 135334
+            }
+          },
+          "hash": "46a24e45af3dbc19856a15bcc59217fd9a56f342",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135455$367B44B9-5C71-4B18-94EC-BEC2E0187C1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135455$0AF0A077-90AD-4CFE-B3B2-EF07587B5C32",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0295-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f2645185946e2eb9732c1f3ed5cfb35f231c974",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135455$5B50EBC1-040E-4F65-9546-A242E4F9EEA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q7782484"
+          },
+          "hash": "13219036fce05e34104fcbd5f20cadf43e92d4cc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135455$8C6DE582-B5E3-444B-BCE9-FB0D728EBFD2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Theoxena of Egypt Arms.svg"
+          },
+          "hash": "ff4486e3a5e370923f3986ca047f890de5439f47",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "syrakuská princezna, dcera Theoxeny ze Syrákús a Agathokla ze Syrákús"
+    },
+    "en": {
+      "language": "en",
+      "value": "Syracusan princess, daughter of Theoxena of Syracuse and Agathocles of Syracuse"
+    },
+    "es": {
+      "language": "es",
+      "value": "princesa griega siracusana"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse syracusaine"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa siracusana e nobildonna di rango elevato"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "filha de Agatocle de Siracusa"
+    }
+  },
+  "id": "Q135455",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Theoxena Egyptská"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θεοξένα της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Theoxena of Egypt"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teoxena de Egipto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Théoxène d'Égypte"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Θεόξενα"
+    },
+    "he": {
+      "language": "he",
+      "value": "תיאוקסנה ממצרים"
+    },
+    "id": {
+      "language": "id",
+      "value": "Theoxena dari Mesir"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teossena"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エジプトのセオクセニア"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teossena"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teossena"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Феоксена"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Theoxena of Egypt"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Theoxena av Egypten"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Феоксена"
+    }
+  },
+  "lastrevid": 17551590,
+  "modified": "2025-09-17T10:25:22Z",
+  "ns": 860,
+  "pageid": 163840,
+  "sitelinks": {},
+  "title": "Item:Q135455",
+  "type": "item"
+}

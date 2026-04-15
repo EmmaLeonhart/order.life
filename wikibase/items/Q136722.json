@@ -1,0 +1,355 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cleonymus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136722$DE56E309-5D35-44A6-8960-B731A480B36A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1028104"
+          },
+          "hash": "14f213eedef383dc0185d7cee8f19b7ccde14b8d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136722$3A14FBEC-7139-4E7C-AEFF-7A5B839CE29F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137125",
+              "numeric-id": 137125
+            }
+          },
+          "hash": "87dd8afe245cc27e366ac3263b047a9fe52f00d2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136722$E0A113F0-51E3-4350-85B8-87A55678A17D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136722$141E1AD9-AD30-484D-A58C-EE350334B51E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136722$0DA3F123-B4EB-465C-B582-20BDC3A4EFF8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137124",
+              "numeric-id": 137124
+            }
+          },
+          "hash": "9172f73c04dc1387cc60f87b36c4807b3ff9f0eb",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136722$52B1CA87-8063-4AD0-B10E-74A41B1D4766",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136413",
+              "numeric-id": 136413
+            }
+          },
+          "hash": "612f86dd3722bee6beafa3c2c3cedec96e3787dc",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136722$E7F28A2B-263F-4271-A2E1-4AFB7FB83DC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136722$53C580AC-EE52-4870-9D02-CD806413D6DC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0340-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "43b734e7d13a6e02736c530b848bef78a5d507a7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136722$F3DA687B-BA6D-4A5A-B985-B819AC60311B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0272-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "813f7fa6406c874c415b97c0c85e82fd12916db0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136722$C2EEF46B-030E-40C4-8641-4F6EBF1C8CAC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q930518"
+          },
+          "hash": "13a2fb68bf58a7038ceae55fca461d9f15f2ca68",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136722$4BE48999-3881-4570-BB09-E6DF94894FCA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleonymus Arms.svg"
+          },
+          "hash": "0175e61b0317be636f6cc7c10d3b41484cf2aec5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "syn Kleomena II."
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des spartanischen Königs Kleomenes II."
+    },
+    "en": {
+      "language": "en",
+      "value": "Pretender to the Spartan throne, son of Cleomenes II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince spartiate, fils de Cléomène II"
+    },
+    "it": {
+      "language": "it",
+      "value": "condottiero spartano e figlio di Cleomene II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair leider"
+    }
+  },
+  "id": "Q136722",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Cleònim d'Esparta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kleonymos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleonymos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κλεώνυμος της Σπάρτης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cleonymus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cleónimo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cléonyme"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלאונימוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cleonimo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレオニュモス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cleonymus van Sparta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cleónimo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cleônimo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клеоним"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kleonim od Sparte"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cleonymus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клеонім"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯巴達的克利奧尼穆斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "斯巴达的克利奥尼穆斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "斯巴達的克利奧尼穆斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "斯巴達的克利奧尼穆斯"
+    }
+  },
+  "lastrevid": 17553559,
+  "modified": "2025-09-17T10:53:39Z",
+  "ns": 860,
+  "pageid": 165107,
+  "sitelinks": {},
+  "title": "Item:Q136722",
+  "type": "item"
+}

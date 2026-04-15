@@ -1,0 +1,427 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Flavius Victor"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q135550$0BA62D78-A731-4997-BE85-8F2191E44B9C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Theodosian-1"
+          },
+          "hash": "c722a195e991847b0a69e46028d2649277dcab25",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135550$075D80AA-5F0C-4ABF-BF76-2EB8E23B7DEE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135550$578FB0D8-4E49-4D93-B4B8-E3FB067C84BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135550$48F6CDD3-13C4-4D7E-898B-AA3A13B24E33",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135420",
+              "numeric-id": 135420
+            }
+          },
+          "hash": "86d59857d798c4effe21516055b67c409dafb18e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135550$40E12BFF-5E23-49B8-B257-8A4CF8DC4B6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135421",
+              "numeric-id": 135421
+            }
+          },
+          "hash": "8e247e58f79db3f0bff5272dea61be7a65a2fb47",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135550$2601F1D5-BCA6-4A07-9628-6DF174C5276F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135550$8DFAD666-9836-4495-BA38-9BF53495AA4A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0400-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b25d6a5bd14cdc6596403ea6b972ca928cb2a01",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135550$986A8222-8593-4603-89FD-9D0E5207C988",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0388-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c4bc2781855a68278f6a60a9367f7408bc8e64ef",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135550$9D103590-0770-46A7-82D1-AEDCAE40B891",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q507675"
+          },
+          "hash": "45fa26739e0975c2aa18a27fadad1e1daadaefa5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135550$837C6B47-F379-4711-84FB-C3AD99156ED2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Flavius Victor Arms.svg"
+          },
+          "hash": "6d008e312b81b7abad7d8ee2ded387ecf48a682a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q135550$DAF85AFD-9F45-453F-8464-7C2880EF745E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/afc5e41f-f21e-40fc-b23a-6365e0c586b7"
+          },
+          "hash": "772b7821cd51e67f60058ac872e7489765d46889",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "імператар Заходняй Рымскай імперыі"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "ymerawdwr yr Ymerodraeth Rufeinig Orllewinol"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des römischen Kaisers Magnus Maximus"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Μάγνου Μάξιμου, σφετεριστή αυτοκράτορα της Δύσης"
+    },
+    "en": {
+      "language": "en",
+      "value": "emperor of the Western Roman Empire"
+    },
+    "es": {
+      "language": "es",
+      "value": "Coemperador romano de Occidente (384-388)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Länsi-Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר רומי"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monarch uit Oude Rome (-388)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "مغربی رومن سلطنت کا شہنشاہ"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "羅馬皇帝"
+    }
+  },
+  "id": "Q135550",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فلافيوس فيكتور"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "فلاویوس فاتح"
+    },
+    "be": {
+      "language": "be",
+      "value": "Флавій Віктар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Флавий Виктор"
+    },
+    "br": {
+      "language": "br",
+      "value": "Flavius Victor"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Flavi Víctor"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Flavius Victor"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Flavius Victor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Flavius Victor"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φλάβιος Βίκτωρ (σφετεριστής αυτοκράτορας του Δυτικού Ρωμαϊκού Κράτους)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Flavius Victor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Flavio Víctor"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Flavio Viktor"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فلاویوس فاتح"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Flavius Victor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Flavius Victor"
+    },
+    "he": {
+      "language": "he",
+      "value": "פלביוס ויקטור"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Flavije Viktor"
+    },
+    "it": {
+      "language": "it",
+      "value": "Flavio Vittore"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フラウィウス・ウィクトル"
+    },
+    "la": {
+      "language": "la",
+      "value": "Flavius Victor"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Flavius Victor"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Flawiusz Wiktor"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Flávio Vítor"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Flávio Vítor"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Флавий Виктор"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Flavius Victor"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Flavius Victor"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Флавій Віктор"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "ویکتور"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "域陀 (皇帝)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "維克多_(皇帝)"
+    }
+  },
+  "lastrevid": 17551744,
+  "modified": "2025-09-17T10:27:35Z",
+  "ns": 860,
+  "pageid": 163935,
+  "sitelinks": {},
+  "title": "Item:Q135550",
+  "type": "item"
+}

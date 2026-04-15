@@ -1,0 +1,475 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mardonius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135533$25364206-7918-444F-B612-10C15CC5E111",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738042"
+          },
+          "hash": "56ddf156315accc7244e561e596baabb5cf21260",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135533$A8393E0A-199D-4AC0-9CBB-60F13112B9AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135534",
+              "numeric-id": 135534
+            }
+          },
+          "hash": "b37be0ce2693b41333e6bb5c6df753138f7e13cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135533$0218DBA0-E72A-4AE0-BC7B-261241338E2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135533$FA8CFF5F-FAF6-49F5-954B-FCF6176CF706",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135533$8DD5446C-E59D-4593-B460-B5E5B904F577",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135387",
+              "numeric-id": 135387
+            }
+          },
+          "hash": "b0196f91297255aeb423e6ad851f33fc550ea76c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135533$29EBBD6B-3857-4C59-92C9-C6AD4C4F16EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135384",
+              "numeric-id": 135384
+            }
+          },
+          "hash": "72688ff3bf3e32f645c6b7d92af8c80950e770d8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135533$421B802F-AA5C-4850-9AF9-886A28583385",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135533$4A4763C2-A81E-49FA-AADE-976D05975E2A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135533$6294C60D-7249-4391-8EAD-1D4BE4ADFE26",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0479-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "72049b6ae93337242b0d9ca5f36b455ae3c6f422",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135533$AE3071BF-3AA3-42A3-9B97-231624A23F2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q155063"
+          },
+          "hash": "f5ef69ce4818ba43cf6c922fed5dfc3ebabcbca5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135533$04945A15-7F5D-4B95-B2A9-A8D4444D1F92",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mardonius Arms.svg"
+          },
+          "hash": "bbaa2b4dcb803c18423378407993c99efa66a64c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "قائد عسكري فارسي"
+    },
+    "de": {
+      "language": "de",
+      "value": "persischer Feldherr und Schwiegersohn Dareios I."
+    },
+    "en": {
+      "language": "en",
+      "value": "Achaemenid military commander during Greco-Persian Wars (died 479 BC)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فرمانده نظامی پارسی در طول جنگ با یونان قرن پنجم پیش از میلاد"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général perse, Ve siècle av. JC"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale persiano"
+    },
+    "la": {
+      "language": "la",
+      "value": "dux Persicus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "officier uit Iran (600v Chr-479v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "perski dowódca"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "comandant militar persan din secolul al V-lea î.Hr."
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персидский полководец, сын Гобрия"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கிமு 5 ஆம் நூற்றாண்டு கிரேக்கத்துடனான போர்களின் போது பாரசீக இராணுவத் தளபதியாக இருந்தவர்"
+    }
+  },
+  "id": "Q135533",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ماردونيوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Mardoni"
+    },
+    "be": {
+      "language": "be",
+      "value": "Мардоній"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Мардоні"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Мардоний"
+    },
+    "br": {
+      "language": "br",
+      "value": "Mardonios"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mardoni"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mardonios"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mardonios"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαρδόνιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mardonius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mardonio"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Mardonio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مردونیه"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Mardonios"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mardonios"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Μαρδόνιος"
+    },
+    "he": {
+      "language": "he",
+      "value": "מרדוניוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Mardonije"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mardonios"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mardonio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マルドニオス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მარდონიოსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마르도니오스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Mardonius"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mardonios"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mardonius"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Mardonios"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mardoniusz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mardónio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mardónio"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Mardonius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мардоний"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Mardonije"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Mardonios"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Мардоније"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Мардоније"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Mardonije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mardonios"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "மார்தோனியசு"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Мардуния"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мардоній"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "马尔多尼乌斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "马铎尼斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "馬鐸尼斯"
+    }
+  },
+  "lastrevid": 17551712,
+  "modified": "2025-09-17T10:27:08Z",
+  "ns": 860,
+  "pageid": 163918,
+  "sitelinks": {},
+  "title": "Item:Q135533",
+  "type": "item"
+}

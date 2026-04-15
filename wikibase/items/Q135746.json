@@ -1,0 +1,333 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agathoclea"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135746$08F033D2-CDD2-4432-877A-4336ED565A0B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567196"
+          },
+          "hash": "ba86c9f7bc7d37ef942f833c0b1d63e20772f027",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135746$C92D2E7F-5D6F-449B-B642-84D73190C36C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135746$88C49381-AD41-49DA-93B6-03444FEA284E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135746$69A52BC1-FBA8-48D8-903E-0EB59456E9B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135600",
+              "numeric-id": 135600
+            }
+          },
+          "hash": "1e534ed8700058f5a49805304554fb729c96ac59",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135746$1762C33B-F3E2-41A7-9D4C-2AEDC9040722",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135745",
+              "numeric-id": 135745
+            }
+          },
+          "hash": "967e7113e14f2e24f4687ea9d8997df9214201a5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135746$79A78F56-21B4-45DE-9F43-61F825396252",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135746$D0EA156A-26E0-45D1-AAC7-0A1C6C101ECE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0247-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cf0fd2b73ee667f3fcdbbb2c9ce7c860acaeea59",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135746$E9ED06FA-81ED-4464-ACF9-AF95611EFD93",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0203-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "46e88373c77d417a598ffe3c85aa2efb898018aa",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135746$6540D2EB-0024-47C5-91CB-2317B2A15C56",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q391426"
+          },
+          "hash": "a3d434a0d38013a07090ec4219147c55bd250fc7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135746$2DEA8DE4-924D-4C07-8502-712B37B5EA1A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agathoclea Arms.svg"
+          },
+          "hash": "036287111fdc5d1237cde4d7d00a0b62df0017dc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Konkubine Ptolemaios’ IV."
+    },
+    "en": {
+      "language": "en",
+      "value": "mistress of Ptolemy IV of Egypt"
+    },
+    "es": {
+      "language": "es",
+      "value": "concubina de Ptolomeo IV"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "concubine de Ptolémée IV"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. Ptolemaiosz szeretője"
+    }
+  },
+  "id": "Q135746",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Agatoclea"
+    },
+    "de": {
+      "language": "de",
+      "value": "Agathokleia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγαθόκλεια"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agathoclea"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Agathoclea"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Agathoclea"
+    },
+    "es": {
+      "language": "es",
+      "value": "Agatoclea"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آگاثوکلیا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agathocléa"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Agathoklea"
+    },
+    "id": {
+      "language": "id",
+      "value": "Agathoklea"
+    },
+    "it": {
+      "language": "it",
+      "value": "Agatoclea"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agathoclea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агафоклея (дочь Агафокла)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Agathoclea"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Agathocleia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Агафоклея"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Agathoclea"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿加托克勒亞 (埃及)"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿加托克勒亞 (埃及)"
+    }
+  },
+  "lastrevid": 17552069,
+  "modified": "2025-09-17T10:32:11Z",
+  "ns": 860,
+  "pageid": 164131,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q135746",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q135746"
+    }
+  },
+  "title": "Item:Q135746",
+  "type": "item"
+}

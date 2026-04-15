@@ -1,0 +1,307 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Monime"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136723$2FD9F9DB-E5AB-4584-AA39-6D40FEA9F119",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736269"
+          },
+          "hash": "eb75dff2a35e0216168a11ba3cce1a2c33a3a3f1",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136723$B1309A68-CC5C-4391-B7CD-D597FB0A33FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136736",
+              "numeric-id": 136736
+            }
+          },
+          "hash": "47bbb78f8a5a204f799555e5030041db06c2cc0c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136723$BB51937B-8861-4103-9800-25C119B1B109",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136723$D1784D45-88C9-4532-9CE1-F2EA96CBA818",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136723$4E6AD280-ED52-4C73-8032-212A62F30EB6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Monime_(1)"
+          },
+          "hash": "efdc640fea7e66ea80a2c1c50a821034aaf90971",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136723$F6C76AD6-F24D-480A-9595-2048D4A79179",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73053",
+              "numeric-id": 73053
+            }
+          },
+          "hash": "d2fc27b33dcd6fd9571cf00fc5e21ccf350b09a5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136723$66DDFBBE-47F5-436E-AC9F-6928122C530F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136723$2F566CE4-D8FA-4F8C-B034-7DE8B51D0032",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136723$8C2F52B7-39E2-4726-B695-F8B77500015F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0071-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5913c167310925936e8db4348f1a9052bea49941",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136723$913B1670-B299-490D-A7CF-CBE72B839ED2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6900291"
+          },
+          "hash": "5a1bbd1961fb914111bf628a7d14fb06e4ff014a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136723$1CA2A9D1-A348-4341-A2B3-0D9AFEF9551B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Monime Arms.svg"
+          },
+          "hash": "4beabed39322ff5d0c453f7feab0b93b4756cdd8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "dama grega"
+    },
+    "en": {
+      "language": "en",
+      "value": "Macedonian Greek noblewoman"
+    }
+  },
+  "id": "Q136723",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Monima"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Monime"
+    },
+    "de": {
+      "language": "de",
+      "value": "Monime"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μονίμη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Monime"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Monime"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Monime"
+    },
+    "es": {
+      "language": "es",
+      "value": "Monima"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Monime (reine)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Monime"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Монима"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Monime"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Monime"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Моніма"
+    }
+  },
+  "lastrevid": 17553561,
+  "modified": "2025-09-17T10:53:41Z",
+  "ns": 860,
+  "pageid": 165108,
+  "sitelinks": {},
+  "title": "Item:Q136723",
+  "type": "item"
+}

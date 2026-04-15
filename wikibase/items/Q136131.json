@@ -1,0 +1,429 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cleombrotus I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136131$E5A1D066-EB37-4B58-ACE7-D93131A1FA97",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1028094"
+          },
+          "hash": "8bcd8b3ef9446c754422832f6b53ec1222e2d5d8",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136131$6F14A613-2C9B-4462-8E2B-D06357BB35E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136414",
+              "numeric-id": 136414
+            }
+          },
+          "hash": "e64689d5e52d2270d84e1159f08877697193911b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136131$2E673E86-4378-4865-A7B6-A750732913CC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136413",
+              "numeric-id": 136413
+            }
+          },
+          "hash": "8e70a051d60615c37ef24942c216593e0bba7970",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136131$B5A066CC-5B19-4431-A703-C4582053A0E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136131$A28B6B8B-9AD8-4F69-8774-AB5B4755ED3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136131$D8AD7A00-2182-4A83-ADDA-16B939316A1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135905",
+              "numeric-id": 135905
+            }
+          },
+          "hash": "7b6606f47732b6763033674215b8a640aa188b2b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136131$AA008A28-94B0-4FC4-811A-B20594D7FFE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136131$21B89401-4E54-4C0D-8427-CF7CCFF5687F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136131$EB063908-3A1D-416C-A687-B2F844478479",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0371-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "375524942c971a8b88a374c874218d1eccd46bf6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136131$C6260BC1-B32E-4A5B-A1BE-97B227CD860F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q373660"
+          },
+          "hash": "d864d9b8c6c35e019adac9d668d0caf1851af3fd",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136131$0EFF1FAA-C5F5-471E-9187-5C84442091F9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleombrotus I Arms.svg"
+          },
+          "hash": "8050ef0febb4f6f3fea264205c9ddb010b2fc045",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "سلالة أجيداي"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "král Sparty"
+    },
+    "de": {
+      "language": "de",
+      "value": "König in Sparta"
+    },
+    "en": {
+      "language": "en",
+      "value": "Spartan king, 4th c. BCE"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Sparty"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Спартанский царь"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கிமு 4 ஆம் நூற்றாண்டு எசுபார்த்தன் மன்னர்"
+    }
+  },
+  "id": "Q136131",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "كليومبروتوس الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "كليومبروتوس الاول"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Клеомброт I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cleombrot I d'Esparta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kleombrotos I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleombrotos I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Κλεόμβροτος Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cleombrotus I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cleómbroto I"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kleombrotos I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cléombrote I"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cleómbroto I"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κλεόμβροτος"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Kleombrotos I."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Kleombrotosz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cleombroto I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレオンブロトス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კლეომბროტე I"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "클레옴브로토스 1세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cleombrotus I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cleombrotus I van Sparta"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kleombrotos I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cleômbroto I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cleômbroto I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клеомброт I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kleombrot I"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kleombrotos I."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cleombrotus I"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Клеомброт I"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "முதலாம் கிளியோம்ப்ரோட்டஸ்"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клеомброт I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cleombrotos I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "克勒姆布羅托"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "克里昂布鲁图斯一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "克里昂布鲁图斯一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "克里昂布魯圖斯一世"
+    }
+  },
+  "lastrevid": 17552621,
+  "modified": "2025-09-17T10:40:09Z",
+  "ns": 860,
+  "pageid": 164516,
+  "sitelinks": {},
+  "title": "Item:Q136131",
+  "type": "item"
+}

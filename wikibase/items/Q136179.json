@@ -1,0 +1,483 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Attalus II Philadelphus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136179$4CA3DE7A-AB46-4F76-9214-6D3F39A885BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00732455"
+          },
+          "hash": "ae502857fb61b538fab00096852238d69a99a8ab",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136179$0226C413-0D27-476B-8DD7-BBBDAC12E733",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136179$53DBF15A-4646-4E84-804F-5AB5EAC35EF4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136179$493724CE-2287-4DDB-96AC-267E44421B14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135935",
+              "numeric-id": 135935
+            }
+          },
+          "hash": "f317c645c20ad6ecde2f068c1060edf8440fcfde",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136179$620D2E68-DC0E-4F6B-823F-839B179DC87A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135949",
+              "numeric-id": 135949
+            }
+          },
+          "hash": "6eace523d8adc78025d240a1b1902ca1088cfada",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136179$55E7DAC4-AA61-4E0D-BCD2-4C0DCA73BEB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136194",
+              "numeric-id": 136194
+            }
+          },
+          "hash": "e2a457b5b54cb8b2588943c9b9bf2190e32d8a96",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136179$DBCB9842-D248-4C38-9A4B-CD98FB89F1A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136179$58840368-7219-45E2-92AA-EB87A18E85FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0220-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f4889b75fa3b396e6e56057b79a1484c60ee1f57",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136179$E1B89E23-23FA-45AD-87B0-2BB54F53718B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0138-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "15bd72e8bc746cb6930b0b91e1bcfa4c3ba83f71",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136179$88DE620D-EDFF-40F0-8115-E567FA764182",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q312431"
+          },
+          "hash": "f0cd759fd7d429b27cd7c8146b1cb3512debcd74",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136179$37B76EB7-0410-4A3A-A318-DD788E4B7449",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Attalus II Philadelphus Arms.svg"
+          },
+          "hash": "1c34b510685de741fed1bfa5f4a7679187acc0b2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "konge af Pergamon"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Pergamon"
+    },
+    "el": {
+      "language": "el",
+      "value": "ηγεμόνας του ελληνιστικού βασιλείου της Περγάμου, μέλος της Δυναστείας των Ατταλιδών"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Pergamon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Pergame (220-138 av. J.-C.)"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pergamon görög polisz uralkodója"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Pergamo (r. 159-138 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Pergamonu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Царь Пергама"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "краљ Пергамa и оснивач данашњег турског града Анталије"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av pergamon"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Pergamon kralı"
+    }
+  },
+  "id": "Q136179",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أتالوس الثاني فيلادلفوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اتالوس التانى فيلادلفوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Атал II Філадэльф"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Атал II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Àtal II de Pèrgam"
+    },
+    "da": {
+      "language": "da",
+      "value": "Attalos 2."
+    },
+    "de": {
+      "language": "de",
+      "value": "Attalos II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Άτταλος Β' της Περγάμου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Attalus II Philadelphus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Atalo II"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Atalo II.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آتالوس دوم فیلادلفوس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Attale II"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Attalus II Philadelphus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Atalo II"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Άτταλος Β΄"
+    },
+    "he": {
+      "language": "he",
+      "value": "אטאלוס השני פילדלפוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Atal II."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Attalosz pergamoni király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ատտալոս II"
+    },
+    "id": {
+      "language": "id",
+      "value": "Attalus II Philadelphus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Attalo II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アッタロス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ატალ II ფილადელფუსი"
+    },
+    "la": {
+      "language": "la",
+      "value": "Attalus II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Attalos 2."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Attalus II van Pergamon"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Attalos 2."
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Attalos II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Átalo II de Pérgamo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Átalo II de Pérgamo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аттал II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Atal II Filadelf"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Atal II. Filadelf"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Атал II Филаделф"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Attalos II av Pergamon"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Attalos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аттал II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Attalos II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿塔罗斯二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿塔罗斯二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿塔罗斯二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿塔羅斯二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿塔羅斯二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿塔罗斯二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿塔羅斯二世"
+    }
+  },
+  "lastrevid": 17552691,
+  "modified": "2025-09-17T10:41:09Z",
+  "ns": 860,
+  "pageid": 164564,
+  "sitelinks": {},
+  "title": "Item:Q136179",
+  "type": "item"
+}

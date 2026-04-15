@@ -1,0 +1,722 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Στρατoνίκη"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Στρατoνίκη"
+      },
+      {
+        "language": "en",
+        "value": "Stratonice of Syria"
+      },
+      {
+        "language": "en",
+        "value": "Stratonice"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73740$AC1C72F8-B7B5-4061-B693-900141C41283",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139881"
+          },
+          "hash": "5ea5a31207b434423c24f77b07b59b6df70b946b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73740$64315B8F-3CA0-4568-80DC-C19C12F597E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736321"
+          },
+          "hash": "c2909a3ea0d3a7e405ecdbfddb5b6e2d2c9f9760",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73740$6729C507-CD3B-407F-9BD6-E745710DCD74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73620",
+              "numeric-id": 73620
+            }
+          },
+          "hash": "c83ed879494f4980e2dab42372bbc647d77fa28a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73740$21094689-3182-447F-9ABA-1F5420B3B468",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73632",
+              "numeric-id": 73632
+            }
+          },
+          "hash": "fa8dbfc9a97215ba0205fb817b66f228f2fddf39",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73740$9739163E-489F-4E48-984D-FB6FA5E6F618",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135489",
+              "numeric-id": 135489
+            }
+          },
+          "hash": "760e372b94eac20d92ce6a860c59e20148ca2247",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73740$970B4FEC-4FBC-4492-BA7E-AED59D50D99F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135495",
+              "numeric-id": 135495
+            }
+          },
+          "hash": "c3fe08ef229beaa790f6902c49ffe5fe3bb12a9f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73740$D4EF0D31-F69D-4E9E-B43F-056E25AF3B5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135494",
+              "numeric-id": 135494
+            }
+          },
+          "hash": "fa985e4cf86c3dfc3475df35296dee56562fe3b0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73740$0CCB5E28-D5D0-4902-9DC3-F779C1E3E85E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135496",
+              "numeric-id": 135496
+            }
+          },
+          "hash": "3c60a1a30d9a25312e3482566f7059cae2958b08",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73740$0DE8CE93-D555-44A5-B90C-8ABD5D294CAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165198",
+              "numeric-id": 165198
+            }
+          },
+          "hash": "07d187a12182942aa585ebd47f122141281a5413",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73740$7FF05452-9F28-4260-847A-B246B9BFC13D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165160",
+              "numeric-id": 165160
+            }
+          },
+          "hash": "6cbe43091b9bc3b1beeaef707bfd9d7292fc1b01",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73740$9EAEC994-DAF7-4484-BEE4-BC4F4DDE9811",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165161",
+              "numeric-id": 165161
+            }
+          },
+          "hash": "19b062d86a7374f2350351f1aff26d6c1f0fbe4a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73740$D638BABC-43BB-451D-852C-76102458AB44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165162",
+              "numeric-id": 165162
+            }
+          },
+          "hash": "2d59abf13b368db352d4004db5a8c86db103a31b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73740$FE82E7FA-0A30-4891-A4FA-408A1EEEEDBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73740$6C567450-8781-4777-B548-C69A0366A779",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73740$924AB1D7-12FE-47E4-9305-BD28B6CE8AA9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Stratonice_of_Syria_(1)"
+          },
+          "hash": "f7ee192dd622ec6e34a8fb16336646dfe3aa72aa",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73740$15919E3B-93AE-44D3-BF95-3E1245E88A55",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73737",
+              "numeric-id": 73737
+            }
+          },
+          "hash": "c303b61ab86e55477cee72896c3d64fc6c96681b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73740$90A2FE41-5AB6-4002-86D8-687E6C9E9997",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73854",
+              "numeric-id": 73854
+            }
+          },
+          "hash": "c3bf1a8bc2d551f456023c3c8f57be2025236652",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73740$464EE3D0-9594-48CC-94C7-651B35D34761",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73857",
+              "numeric-id": 73857
+            }
+          },
+          "hash": "b8868f6fa20d723ef2f0da49a622bff604ecfc89",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73740$C4446515-26B5-48FC-849D-D7543653E8E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73860",
+              "numeric-id": 73860
+            }
+          },
+          "hash": "43b70a5911b3c77132e6257d05e61020fe5a8472",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73740$D0A9FCA7-EEDB-45A7-BDE9-8EB1F871B4BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73740$395A7973-0286-4551-A1C0-9FA6CCB1C156",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0318-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9b7d55b93549942b6136c69289371b9054800806",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73740$3F8798DB-34B5-4271-A880-F55D10D6A3F7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0268-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ae90a6d0817cb2e3f30555906a19bab68bd6cb06",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73740$7714A31A-52E2-44A6-8B15-CC01AED8B3D0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q235061"
+          },
+          "hash": "aac0c6b30f4cdf83d0c89b261f1e17fa8a90f91c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73740$4329A3C9-2E06-4D45-B32C-13033169DF1C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000008630613169"
+          },
+          "hash": "aa9c4c0ad8cf1cefbb56b638a2a1e4b0e8bf11f3",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73740$1B73923F-0E72-4E74-8040-E65202F51020",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Stratonice of Syria Arms.svg"
+          },
+          "hash": "dec3bea12756d7c9c58caa75e5110f47d0dd7ea1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملكة سلوقية، عاشت بين 318 و 268 ق.م"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Königs Demetrios I. Poliorketes"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ancient Macedonian queen consort"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souveraine du royaume séleucide"
+    },
+    "he": {
+      "language": "he",
+      "value": "בתו של דמטריוס פוליוקרטס"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa macedone"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "дочь македонского царя Деметрия I Полиоркета и его жены Филы"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "selevkidska princesa; kraljica soproga Makedonije"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Antik Makedon konsort kraliçesi"
+    }
+  },
+  "id": "Q73740",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ستراتونيس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Стратаніка Сірыйская"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Стратоника I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Estratonice (esposa de Seleuc I Nicàtor)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Stratoniké Syrská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Stratonike I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Στρατονίκη της Συρίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Stratonice of Syria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Estratónice"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Estratonize"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ستراتونیس سوریه"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Stratonike I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Stratonice Ire"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Στρατονίκη της Συρίας"
+    },
+    "he": {
+      "language": "he",
+      "value": "סטרטוניקה מסוריה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Stratonike dari Suriah"
+    },
+    "it": {
+      "language": "it",
+      "value": "Stratonice di Siria"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ストラトニケ"
+    },
+    "la": {
+      "language": "la",
+      "value": "Stratonice Demetrii filia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Stratonike av Syria"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Stratonice of Syria"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Stratonike I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Estratonice"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Estratonice"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Стратоника Сирийская"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Stratonika od Sirije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Stratonika Sirska"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Стратоника Сиријска"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Stratonike av Syrien"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Stratoniki (Seleukos kraliçesi)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Стратоніка Сирійська"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Stratonike của Syria"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "敘利亞的斯特拉托妮可"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "叙利亚的斯特拉托妮可"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "叙利亚的斯特拉托妮可"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "敘利亞的斯特拉托妮可"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "敘利亞的斯特拉托妮可"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "叙利亚的斯特拉托妮可"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "敘利亞的斯特拉托妮可"
+    }
+  },
+  "lastrevid": 17486528,
+  "modified": "2025-09-16T18:50:23Z",
+  "ns": 860,
+  "pageid": 88571,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73740",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73740"
+    }
+  },
+  "title": "Item:Q73740",
+  "type": "item"
+}

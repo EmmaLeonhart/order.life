@@ -1,0 +1,356 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Callias III"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136720$B60D3D6B-3AC2-4C95-8533-CD457D535144",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "480597"
+          },
+          "hash": "86b1a1e3cde184e51169fe9f360367ab44e1aa49",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136720$17FFD06E-75D5-40EA-B93D-A50FB383D823",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137121",
+              "numeric-id": 137121
+            }
+          },
+          "hash": "67bc05fa4b3622573d15049a07d65f8700e3a8ed",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136720$32FB242E-5FC7-4A10-BBFF-5A2439861E8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136720$3C1AFA87-17E2-4515-AD96-2F3FD9EBE0E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136720$6F339E80-3B8B-487C-A881-04F010E9BAE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137120",
+              "numeric-id": 137120
+            }
+          },
+          "hash": "8383dca9b2495b36ad39ce1ca7ecb989eaecb111",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136720$212C3A8A-F635-4F8F-8844-244ABA995020",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136716",
+              "numeric-id": 136716
+            }
+          },
+          "hash": "67bbcc17d7b6022846e6e7e5df793267a0ef1c58",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136720$FC6D3F0B-7672-4672-869F-51A562474022",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136717",
+              "numeric-id": 136717
+            }
+          },
+          "hash": "d3df645ea4571868a45688e858892abd42b6592b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136720$92FC1436-4789-48A9-9C97-3B4053363591",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136720$C9A14C8C-BC1A-478E-BC00-B6F79BA932BB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0401-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dabca8120473690a425c5f6215e8f1ccdb034294",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136720$E45F34BA-8B24-4018-8C8D-F4424939754E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0371-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "375524942c971a8b88a374c874218d1eccd46bf6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136720$22A74BBB-D3AD-4543-AB36-BFA67E4E07EB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1347613"
+          },
+          "hash": "7bcc27af9f2f2fae502bc0657de501fe090a8494",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136720$B73EE806-6EDF-4C0F-A7E4-99BEF6E72D9B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Callias III Arms.svg"
+          },
+          "hash": "433c6a6b91c020d008076a5a92bf554be3916e9d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "athenischer Archon und Mäzen"
+    },
+    "en": {
+      "language": "en",
+      "value": "4th-century BC Athenian aristocrat and politician"
+    },
+    "es": {
+      "language": "es",
+      "value": "aristócrata y político ateniense del siglo IV a.C"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "homme politique athénien"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico ateniese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Athene (?-)"
+    }
+  },
+  "id": "Q136720",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Càl·lies III"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kallias III."
+    },
+    "en": {
+      "language": "en",
+      "value": "Callias III"
+    },
+    "es": {
+      "language": "es",
+      "value": "Calias III"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kallias III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Callias le Prodigue"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Calias III"
+    },
+    "it": {
+      "language": "it",
+      "value": "Callia III"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カリアス3世"
+    },
+    "la": {
+      "language": "la",
+      "value": "Callias (Hipponici filius)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Callias III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cálias III"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cálias III"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Каллий"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Каллій (син Гіппоніка)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "卡里阿斯三世"
+    }
+  },
+  "lastrevid": 17553555,
+  "modified": "2025-09-17T10:53:36Z",
+  "ns": 860,
+  "pageid": 165105,
+  "sitelinks": {},
+  "title": "Item:Q136720",
+  "type": "item"
+}

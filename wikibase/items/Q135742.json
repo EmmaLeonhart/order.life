@@ -1,0 +1,312 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nereis of Epirus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135742$1A53D2F1-D785-42DE-A658-1CB1CDE292DA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "883378"
+          },
+          "hash": "cf74a5b1323447eb03145a5c1e8ac884671cf5d9",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135742$9E1628EB-134C-47E5-B56F-12259F51656E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738782"
+          },
+          "hash": "a664c3bc38296c1d2e187f9f7e323432c62fc32f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135742$1C01B839-0D9F-492E-B375-328EA9E2B4BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135909",
+              "numeric-id": 135909
+            }
+          },
+          "hash": "c8b0d571ddffa12769ba03371aec3bfed0c199d0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135742$6BD85FB3-C7BB-44F7-92F1-6684149DB3F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135742$69288E62-905B-4585-9A7F-5D0FF1501A68",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135742$7E6DEE1F-0CB1-41D2-B6F4-A1B34B663A83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135908",
+              "numeric-id": 135908
+            }
+          },
+          "hash": "148adee4de723b44cfe3848a7ad80d51f605a6cd",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135742$3BA7BB3B-18AC-4F22-8F37-8C54A95A6D15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135591",
+              "numeric-id": 135591
+            }
+          },
+          "hash": "f3e9955574dc7104df56b669adae42ac64980a2f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135742$D90BB15E-A829-4594-BD51-09FD6950FE7E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135742$962D8B18-8EB5-412C-B46B-7307A9AB19D7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0250-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "368dc1e752474150a1da591be3284477af436fc7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135742$E838C051-B7F9-47ED-A1CA-59E30D1CEE50",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q12881713"
+          },
+          "hash": "cd6256750e1b55ea934acd00771778a902134877",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135742$C0CBA0FD-BDDE-4E90-BFFC-D89A417DFF29",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nereis of Epirus Arms.svg"
+          },
+          "hash": "75cbc43d495d5cb8de1858b6cc95d6f095c04e4b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "queen of Syracuse"
+    },
+    "es": {
+      "language": "es",
+      "value": "princesa de Epiro, hija de Pirro, reina de Siracusa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine consort de Syracuse"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlia di Pirro e regina consorte di Sicilia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царица Сиракуз"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цариця Сиракуз"
+    }
+  },
+  "id": "Q135742",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Нереида"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Nereis de l'Epir"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νηρηΐς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nereis of Epirus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nereida de Epiro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Néréis d'Épire"
+    },
+    "he": {
+      "language": "he",
+      "value": "נראיס מאפירוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nereide"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ネーレーイス"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Нереида"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Нереїда Епірська"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "涅柔斯 (伊庇魯斯)"
+    }
+  },
+  "lastrevid": 17552061,
+  "modified": "2025-09-17T10:32:05Z",
+  "ns": 860,
+  "pageid": 164127,
+  "sitelinks": {},
+  "title": "Item:Q135742",
+  "type": "item"
+}

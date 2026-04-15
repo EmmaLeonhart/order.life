@@ -1,0 +1,353 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agesipolis I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136132$5BD973AC-CDF8-426D-8E67-B99FDD8A38C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1028093"
+          },
+          "hash": "a9a053542ef2d665060a56facc97eefd8a2b4c2a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136132$D45E4530-96F7-4001-8F9A-FED739146D9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136132$5E8DC2CB-7569-453E-B0CD-AB74546FEE1D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136132$115F0FD5-7CB1-4CF9-B85C-877F4CA763EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135905",
+              "numeric-id": 135905
+            }
+          },
+          "hash": "7b6606f47732b6763033674215b8a640aa188b2b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136132$5D0B60DB-7E47-4885-9C4A-BB50FA901B2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136132$EECB6565-CA0C-4676-9B9C-42B59E57EE44",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0410-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "be89cd14f968626fb27ba6113f59a2436d980fde",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136132$35823270-E2B1-4341-81B9-81FF62B97C71",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0380-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec84a88a7785098b9e6f0032eb8d59887f75d920",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136132$C1837EA7-2488-4E87-958F-E5CA6B9297B5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q357594"
+          },
+          "hash": "592ca82478e9cdc1271a2a5d9f45a595f0bdc47d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136132$D1A0DC5F-5587-467F-ABDA-39F7297EE37D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agesipolis I Arms.svg"
+          },
+          "hash": "154cc699f7cd53d9523f7ae436b234c1c5ea9be9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "spartský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Sparta"
+    },
+    "en": {
+      "language": "en",
+      "value": "4th-century BC Agiad Spartan king"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Spartan kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Spartaanse koning, zoon van Pausanias II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Спарты из династии Агиадов"
+    }
+  },
+  "id": "Q136132",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أجيسيبوليس الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اجيسيبوليس الاول"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Агесиполид I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Agesípolis I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Agésipolis I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Agesipolis I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγησίπολις Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agesipolis I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Agesipolis I"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Agesipolis I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agésipolis Ier"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Axesípolis I"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀγησίπολις Α΄"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Agészipolisz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Agesipoli I"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アゲシポリス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "აგესიპოლის I"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아게시폴리스 1세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Agesipolis I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agesipolis I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Agesipolis I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Agesípolis I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Agesípolis I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агесиполид I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Agesipolis I"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Agésipolis I."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Agesipolis I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Агесіполід I"
+    }
+  },
+  "lastrevid": 17552623,
+  "modified": "2025-09-17T10:40:10Z",
+  "ns": 860,
+  "pageid": 164517,
+  "sitelinks": {},
+  "title": "Item:Q136132",
+  "type": "item"
+}

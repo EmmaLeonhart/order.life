@@ -1,0 +1,536 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Keyne"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135826$B7926C64-14F8-4BC6-AE72-FCB7F19FEDED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135826$C7DA7E1B-079C-4834-90C1-B93B792C14AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135826$712BCC5F-8DE3-459B-A9AE-331337A65C5C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135820",
+              "numeric-id": 135820
+            }
+          },
+          "hash": "5a0062623d1c14d1d48cb35c196db69fc0f4abd3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135826$06D1680C-8CD9-4A28-9E6C-D7F1160F54C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135826$99CD857D-C8BF-4D23-8496-469A6098AF59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0425-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "65f64cc2ef56001d594dc2ff92203653ce9cd878",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135826$0A6EAAF1-F69A-499B-818A-8DABA48FCC3B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4218975"
+          },
+          "hash": "2a17298b591276201b885967ac9490273663291c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135826$EE61E23F-D1E7-431D-A684-C22F3128797B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Keyne Arms.svg"
+          },
+          "hash": "bfd67df45fcfd8d9ba345eacde8d14cf87e5c4b5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "santes Geltaidd"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th-century female Welsh saint"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "5th-century Welsh female saint"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "5th-century female Welsh saint"
+    },
+    "it": {
+      "language": "it",
+      "value": "santo Gallese"
+    },
+    "la": {
+      "language": "la",
+      "value": "virgo in Wallia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "religieus leider uit Zuid-Wales"
+    }
+  },
+  "id": "Q135826",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Keyne"
+    },
+    "an": {
+      "language": "an",
+      "value": "Cagina"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Keyne"
+    },
+    "az": {
+      "language": "az",
+      "value": "Vall Keyn"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Keyne"
+    },
+    "bm": {
+      "language": "bm",
+      "value": "Keyne"
+    },
+    "br": {
+      "language": "br",
+      "value": "Santez Cain"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Keyne"
+    },
+    "co": {
+      "language": "co",
+      "value": "Keyne"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Keyne"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cain"
+    },
+    "da": {
+      "language": "da",
+      "value": "Keyne"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sankt Keyne"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Keyne"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Keyne"
+    },
+    "en": {
+      "language": "en",
+      "value": "Keyne"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Keyne"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Keyne"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Keyne"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cagina"
+    },
+    "et": {
+      "language": "et",
+      "value": "Keyne"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Cain"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Keyne"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sainte Keyne"
+    },
+    "frc": {
+      "language": "frc",
+      "value": "Keyne"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Keyne"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Keyne"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Naomh Cain"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Naomh Cain"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cain"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Keyne"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Keyne"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Keyne"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Keyne"
+    },
+    "id": {
+      "language": "id",
+      "value": "Keyne"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Keyne"
+    },
+    "io": {
+      "language": "io",
+      "value": "Keyne"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cagina"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Keyne"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Keyne"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Keyne"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cagina"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Keyne"
+    },
+    "li": {
+      "language": "li",
+      "value": "Keyne"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Keyne"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Keyne"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Keyne"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Keyne"
+    },
+    "min": {
+      "language": "min",
+      "value": "Keyne"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Keyne"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Keyne"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Keyne"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Keyne"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Keyne"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Keyne"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Keyne"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Keyne"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Keyne"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Keyne"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Keyne"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Keyne"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Keyne"
+    },
+    "prg": {
+      "language": "prg",
+      "value": "Keyne"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Santa Cagina"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Santa Cagina"
+    },
+    "rgn": {
+      "language": "rgn",
+      "value": "Cagina"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Cagina"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Keyne"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кейн Валлийская"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Keyne"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Keyne"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Saunt Cain"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Keyne"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Keyne"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Keyne"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Keyne"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Keyne"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Keyne"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Keyne"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Keyne"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Keyne"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Keyne"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Keyne"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Keyne"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Keyne"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Keyne"
+    }
+  },
+  "lastrevid": 17552191,
+  "modified": "2025-09-17T10:33:58Z",
+  "ns": 860,
+  "pageid": 164211,
+  "sitelinks": {},
+  "title": "Item:Q135826",
+  "type": "item"
+}

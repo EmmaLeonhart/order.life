@@ -1,0 +1,372 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Phila"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135489$0E382BE3-5B27-4520-8F39-1637352C481E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736313"
+          },
+          "hash": "ff1193899b92b0a83aeefb54a12612af73329ef3",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135489$0D565BAA-3BA1-4C5F-959F-BF36F6D43B27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135490",
+              "numeric-id": 135490
+            }
+          },
+          "hash": "5152fe0d7720ac7840c856bf4f0ecb964357c649",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135489$145856D7-547A-4E47-A9E5-043A01946A56",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135489$3178B408-6882-4033-8D22-85DD6A76D422",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135489$0CFBE197-C364-4CC9-AE78-6E3987F2377D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135350",
+              "numeric-id": 135350
+            }
+          },
+          "hash": "17780b3243b6e9b82ff18aa2beef2f15f5611025",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135489$3ECFDE87-B68B-4BA0-804A-5160EE4A9985",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73854",
+              "numeric-id": 73854
+            }
+          },
+          "hash": "31e8a0080a670a9ef88bf728c9d5bb2e7ac727e2",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135489$35CF328D-311C-44F6-8D71-5ABB6023D025",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73740",
+              "numeric-id": 73740
+            }
+          },
+          "hash": "9ca03cb5f3bb3a0fa8b5bcea88e4561a6f649a73",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135489$5A88218B-6078-4DFE-B590-77F3001266EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135489$1A3D5C9E-1095-4F54-ADAE-F596FAF7FF5B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0295-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2f2645185946e2eb9732c1f3ed5cfb35f231c974",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135489$EBAAC661-34CA-4508-9FBF-2EC4897F47BD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1090478"
+          },
+          "hash": "29d806a477f3439ebb70f1138f5fb742fb740b33",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135489$A03CBFE3-B484-474D-B75A-584A2C13BD98",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Phila Arms.svg"
+          },
+          "hash": "4a3470d59b53d8e33d46fb26d561a47ed6e78b9e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "queen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume antigonide"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "eze nwanyị"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrana greca antica"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царица Древней Македонии"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Цариця Стародавньої Македонії"
+    }
+  },
+  "id": "Q135489",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فيلا"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фила"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fila III de Macedònia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Phila"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fila III de Macedònia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Phila II"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Φίλα"
+    },
+    "he": {
+      "language": "he",
+      "value": "פילה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Phila"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Phila"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fila"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フィラ (セレウコス1世の娘)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Fila II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Phila"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Fila"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Fila"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фила"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Фила"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fila II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Філа"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Phila"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "菲拉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "菲拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "菲拉"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "菲拉"
+    }
+  },
+  "lastrevid": 17551646,
+  "modified": "2025-09-17T10:26:11Z",
+  "ns": 860,
+  "pageid": 163874,
+  "sitelinks": {},
+  "title": "Item:Q135489",
+  "type": "item"
+}

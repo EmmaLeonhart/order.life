@@ -1,0 +1,301 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Autodicus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135465$521826EC-B806-41AD-8818-6E64928E8427",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135465$CA31E3F4-7BF9-433C-981B-994E8BC5C0FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135465$D7BA7256-0DBB-4899-AE05-C520CE1C935A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135608",
+              "numeric-id": 135608
+            }
+          },
+          "hash": "a2f65c46d5eaaa1e34fde3f448e3cfb3e6ac6e46",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135465$0137C402-856E-46A7-8EDC-93FA1CAB842A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73824",
+              "numeric-id": 73824
+            }
+          },
+          "hash": "418033ce9adb1e9fadc97232ad6fe379094b229d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135465$1B8A2B65-80D3-4889-9D4A-1BE200980C0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135465$D898A8E4-9F46-476B-A8F5-6B733B71F4AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135465$E508675D-4DC0-40C8-AEB3-6633F2A8CA4B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135465$CFE82E20-1587-4137-97E0-D1E58A740A15",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q23938"
+          },
+          "hash": "dc034392e3a45e045668ba090cf1b09895c62a00",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135465$8E5C1D06-F55A-41DB-ABD6-594ADC80343F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Autodicus Arms.svg"
+          },
+          "hash": "65d3ee318dfcdd173e73846a1d5009cdb120dcd7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "griechischer Sohn des Agathokles"
+    },
+    "en": {
+      "language": "en",
+      "value": "4th-century BC Macedonian nobleman and official"
+    },
+    "es": {
+      "language": "es",
+      "value": "noble griego"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "officier macédonien"
+    },
+    "it": {
+      "language": "it",
+      "value": "fratello di Lisimaco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Macedonië (-)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "македонский аристократ"
+    }
+  },
+  "id": "Q135465",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Autodicus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Autòlic (general)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Autodikos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αυτόδικος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Autodicus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Autódico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Autodicos"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Autodicus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Autodico"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Autodikos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Autodicus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Автодик"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Autodicus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Autodikos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Автодік"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奥托迪科斯"
+    }
+  },
+  "lastrevid": 17551602,
+  "modified": "2025-09-17T10:25:33Z",
+  "ns": 860,
+  "pageid": 163850,
+  "sitelinks": {},
+  "title": "Item:Q135465",
+  "type": "item"
+}

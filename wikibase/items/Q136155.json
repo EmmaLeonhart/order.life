@@ -1,0 +1,543 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Berenice III"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136155$91886C25-969E-426C-9B64-4676BC26965B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00715474"
+          },
+          "hash": "cc6491bd4d6dde019d3c82771f7c37e45b99d5ee",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136155$18185653-0143-4D79-A9DE-9630B416DB74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78609",
+              "numeric-id": 78609
+            }
+          },
+          "hash": "fa902d362fe4ad3b60c2791d65de8dea17f92c10",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136155$288D3B4C-6D79-4168-8CD0-98FBA96FB967",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136155$98D2D0C6-9ED6-40D7-941B-F1C57B776434",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136155$D3A8BDB4-A0F2-4C80-9A9A-DD6EC5B6CCE9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135920",
+              "numeric-id": 135920
+            }
+          },
+          "hash": "6c6bc6ecf315c62b7ebe4e48a6a56c2524f41d5f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136155$6B4B2D64-9502-48AA-A8C5-C8A24EE4BD5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136157",
+              "numeric-id": 136157
+            }
+          },
+          "hash": "900c8970263ec2c537197f276622295679d9f007",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136155$7B110B78-E6A1-498A-9A08-463A28532455",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78713",
+              "numeric-id": 78713
+            }
+          },
+          "hash": "c0dc959f58d327a7e7a0d56a4e402380926bb211",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136155$8B4A2B49-3D1C-40B4-B6AD-EACFE1CA97A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135922",
+              "numeric-id": 135922
+            }
+          },
+          "hash": "4356d1717393a4a2899197a3367e44a965ed1f12",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136155$8EE19D2A-1C72-471E-A905-D5CF35E623F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136155$3B8D0997-8703-40C0-B07B-6E8BFA2BC0FC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0120-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ef999d9edb7f2761547a1feca98f1df6c0223589",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136155$7FD3F959-4ABB-4F2A-8377-E60A7492F16E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q231688"
+          },
+          "hash": "32575406ee37fe1ed67376fc3a542bff36f803ce",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136155$1F1AC2AD-0DDD-4AFF-B44C-81D6F944E60C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Berenice III Arms.svg"
+          },
+          "hash": "bea58ac2028c09950400439a4cfa7922b044244c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملكة مقدونية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ملكه مصريه من البطالمه"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "египетска царица"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "egyptská královna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter von Ptolemaios IX. Soter II. und Mann ihres Onkels Ptolemaios X. Alexander I."
+    },
+    "en": {
+      "language": "en",
+      "value": "queen of Egypt"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina de la dinastía Ptolemaica del Antiguo Egipto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine d'Égypte"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכה מבית תלמי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi fáraó"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Եգիպտոսի թագուհի"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "ezenwanyi nke Ijipt"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina dell'Egitto tolemaico"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Macedonisch Egypte en Ptolemeïsche rijk (120v Chr-80v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "królowa Egiptu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Faraó"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Faraó"
+    }
+  },
+  "id": "Q136155",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "برنيكي الثالثة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "برينيكى التالته"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Berenice III"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Береника III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Berenice III"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bereniké III."
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleopatra Berenike III."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Kleopatra Berenike III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Βερενίκη Γ΄ της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Berenice III"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Berenice III of Egypt"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Berenice III of Egypt"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Berenico la 3-a de Egiptio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Berenice III"
+    },
+    "et": {
+      "language": "et",
+      "value": "Berenike III"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Berenize III.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "برنیس سوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Berenike III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bérénice III"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κλεοπάτρα Βερενίκη"
+    },
+    "he": {
+      "language": "he",
+      "value": "ברניקי השלישית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Bereniké"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Բերենիկա III"
+    },
+    "id": {
+      "language": "id",
+      "value": "Berenike III dari Mesir"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Berenice III"
+    },
+    "is": {
+      "language": "is",
+      "value": "Bereníke 3."
+    },
+    "it": {
+      "language": "it",
+      "value": "Berenice III"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ベレニケ3世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბერენიკა III"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "베레니케 3세"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Berenikė III"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Vereniki 3-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kleopatra Berenike III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Berenice III"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Berenika III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cleópatra Berenice"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cleópatra Berenice"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Береника III"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Berenika III od Egipta"
+    },
+    "si": {
+      "language": "si",
+      "value": "ඊජිප්තුවේ IIIවන බෙරෙනිස්"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Береника III"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Berenike III"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "மூன்றாம் பெரெனிஸ்"
+    },
+    "th": {
+      "language": "th",
+      "value": "เบเรนิซที่ 3"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Береніка III"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Berenice III của Ai Cập"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "貝勒尼基三世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "贝勒尼基三世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "贝勒尼基三世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "貝勒尼基三世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "貝勒尼基三世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "贝勒尼基三世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "貝勒尼基三世"
+    }
+  },
+  "lastrevid": 17552659,
+  "modified": "2025-09-17T10:40:41Z",
+  "ns": 860,
+  "pageid": 164540,
+  "sitelinks": {},
+  "title": "Item:Q136155",
+  "type": "item"
+}

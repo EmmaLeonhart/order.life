@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Evander"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q133000$D9804F4B-5D59-40DA-AEB6-9C60EC88A578",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133000$1CB68F95-CAA7-4FE4-A407-DFC89AD64323",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q133000$4A06ACAE-F58F-495A-AF76-2C04C2B55827",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133012",
+              "numeric-id": 133012
+            }
+          },
+          "hash": "9365cb65f0e2057b68e6aaf060b7c34d4a03274a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q133000$C1F6C2F9-A61F-4BD1-ABF4-A892995E0C7B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131747",
+              "numeric-id": 131747
+            }
+          },
+          "hash": "98de7e3b104f96b026c43c0a54f9a2ec4a7e4634",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q133000$1048D8A1-3A09-4898-A591-67AD9F615BA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q133000$87270319-AB6F-4752-9B40-3136C5DE670D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q17200894"
+          },
+          "hash": "f95ffed61b425fd4aacf9b8cf9411e33a797ba27",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q133000$3B497974-62B0-45BE-A7FC-2444F9B0D1A0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Evander Arms.svg"
+          },
+          "hash": "3123708979b319eb130cd88eb15888da47e6276f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "a la mitologia grega"
+    },
+    "de": {
+      "language": "de",
+      "value": "Figur der griechischen Mythologie, Sohn des Sarpedon, König von Lykien, Gatte der Deidameia"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythical son of Sarpedon"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fils de Sarpédon"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlio di Sarpedonte"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde Sarpedon'un oğlu"
+    }
+  },
+  "id": "Q133000",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Эвандр"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Evandre (fill de Sarpèdon)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Euandros"
+    },
+    "en": {
+      "language": "en",
+      "value": "Evander"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Euandros"
+    },
+    "it": {
+      "language": "it",
+      "value": "Evandro"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Evandros"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Evandros"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эвандр (царь Ликии)"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Euandros (syn Sarpédona)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Evander"
+    }
+  },
+  "lastrevid": 17546934,
+  "modified": "2025-09-17T09:19:00Z",
+  "ns": 860,
+  "pageid": 161385,
+  "sitelinks": {},
+  "title": "Item:Q133000",
+  "type": "item"
+}

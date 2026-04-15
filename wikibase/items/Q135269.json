@@ -1,0 +1,248 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Derdas"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135269$240FF0D9-CCDF-4C04-BF35-A6C25297DC65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135211",
+              "numeric-id": 135211
+            }
+          },
+          "hash": "d97da0804fb73006645393bd05194eecadd76354",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135269$9FCBB929-4D92-4609-AFB7-38BDE802FF0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135269$8E5D4D93-2A68-4742-8A00-DE3DB73561DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135269$0B763F2F-5F26-4E00-9A5E-25DA525F0815",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135269$C1C730D9-FE86-4568-8015-0A84C063F92E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135269$A2F39AB1-5A6C-4235-B209-80DC532B4C0D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135269$51D0D2CD-ABFF-40B0-91F7-48DDDA571B1C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1199977"
+          },
+          "hash": "5df83807eb011370bd8c22bb57e67812fb727781",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135269$CCE51611-83A9-4A06-AE46-6E1F2AF516B2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Derdas Arms.svg"
+          },
+          "hash": "d34c3b580b6191dba67dca77a85b089f1adefc34",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Fürst von Elimiotis"
+    },
+    "el": {
+      "language": "el",
+      "value": "πρίγκιπας της Μακεδονίας τον 5ο αιώνα π.Χ."
+    },
+    "en": {
+      "language": "en",
+      "value": "5th-century BC prince of Elimiotis in Macedonia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Elimei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "правитель Элимеи"
+    }
+  },
+  "id": "Q135269",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Derdes (rebel)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Derdas I. von Elimiotis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δέρδας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Derdas"
+    },
+    "es": {
+      "language": "es",
+      "value": "Derdes"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Δέρδας"
+    },
+    "it": {
+      "language": "it",
+      "value": "Derda I di Elimea"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Derdes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Derdas I z Elimei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дерда I"
+    }
+  },
+  "lastrevid": 17551270,
+  "modified": "2025-09-17T10:20:47Z",
+  "ns": 860,
+  "pageid": 163654,
+  "sitelinks": {},
+  "title": "Item:Q135269",
+  "type": "item"
+}

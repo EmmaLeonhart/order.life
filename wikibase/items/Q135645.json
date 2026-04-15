@@ -1,0 +1,287 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amestris"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135645$5E608B31-66DB-4CD2-AC02-46C4B86C94FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737977"
+          },
+          "hash": "5ed72b7b8bcda45b18af78a2251df75c38dafccc",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135645$091C7856-C590-433E-BCBC-6086C2F48A32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135645$85F01EF6-9D41-45F5-9D0F-43C5857EE2B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135645$764C2938-E1E8-4F52-BDE6-0F9169C1B7A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135651",
+              "numeric-id": 135651
+            }
+          },
+          "hash": "5043278f2ff30c160174832b2727d83d7e3c8a1e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135645$CB6E3400-FB79-4B88-A400-C84BB90CE4C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74067",
+              "numeric-id": 74067
+            }
+          },
+          "hash": "cd2168988b229b941a6c5f6f00c4c56509b3ad95",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135645$122E0D82-96A2-48BE-9143-CDBAEEEE626A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74070",
+              "numeric-id": 74070
+            }
+          },
+          "hash": "4b8b8b4e583e1d61f402e5ed52cc1b26c079e70a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135645$361A55A5-BD65-4610-961D-CF9880D83A5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135645$8606A674-FFCA-4762-8B87-3E469DFF335F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2a9e4e2db5ed6e5a0a3d28134489b93b4389d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135645$46558761-C3DD-44F2-BB15-FA89AE9F3BCA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q23936662"
+          },
+          "hash": "aee243eabc7e3703e93177d8f489241e709f1ff4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135645$73AC1D28-8068-4F20-900D-3E5E9CA31906",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amestris Arms.svg"
+          },
+          "hash": "2a803fc57d2f0525a1dfcf7f037099126a74739f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter des Dareios II."
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Darius II"
+    },
+    "he": {
+      "language": "he",
+      "value": "בת דריווש השני"
+    }
+  },
+  "id": "Q135645",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Amastris"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Amastris"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Amastris"
+    },
+    "da": {
+      "language": "da",
+      "value": "Amestris"
+    },
+    "de": {
+      "language": "de",
+      "value": "Amastris"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άμεστρις"
+    },
+    "en": {
+      "language": "en",
+      "value": "Amestris"
+    },
+    "es": {
+      "language": "es",
+      "value": "Amestris"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آمستریس"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמסטריס"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amastris"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Amástris (filha de Dario II)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аместріс"
+    }
+  },
+  "lastrevid": 17551905,
+  "modified": "2025-09-17T10:29:52Z",
+  "ns": 860,
+  "pageid": 164030,
+  "sitelinks": {},
+  "title": "Item:Q135645",
+  "type": "item"
+}

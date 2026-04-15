@@ -1,0 +1,580 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mithridates I of Parthia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136743$54238D59-658F-4ECE-9E18-D7596A40ADF1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00717541"
+          },
+          "hash": "1217b1104bc70b762161dadbaf12e7c69eb111df",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136743$6E0A0C3E-44F4-4842-A705-A6156BD4B062",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136426",
+              "numeric-id": 136426
+            }
+          },
+          "hash": "a85283a6fa051d6db6a44ca1fa19aba31b55e512",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136743$7A5DB89C-6A18-4F72-A430-ECEAFE41A0D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136744",
+              "numeric-id": 136744
+            }
+          },
+          "hash": "80ac1ec2edda6fdde5ea5c6c81706dc0052e8f43",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136743$999512FE-EA17-4943-B8D5-67DA80CC220F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136743$0A565E5B-7844-464F-ABF7-EFB42747988D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136743$38118A21-4ED0-45B1-84B0-2E66F97AE097",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137143",
+              "numeric-id": 137143
+            }
+          },
+          "hash": "6a9d8c096f2893bb4d9f5606b7d4609cb6cbfc44",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136743$BAC1D230-A904-49D0-B364-DFF9998623FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137140",
+              "numeric-id": 137140
+            }
+          },
+          "hash": "d4ec36ccf71931ba7eee5428fafd29fbb66c01ee",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136743$EC73F8C3-22C5-496B-A44C-376441DE6D5F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136743$0365ED93-058B-4686-9BAD-898EDED9C1A0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0195-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a45ec08df530dbdcf16a88ed63dcb751a765683d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136743$56D88429-AB6B-4C1A-B519-FA98332D446C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0132-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f92beb3a8a4496cbf024bc59ab1818edb702b7b5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136743$1B90DB42-D072-44A3-9805-8D0FB4AC8250",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q312442"
+          },
+          "hash": "3b7957d4ba51f7ccb240074c4aeaafbdbf57ab3c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q136743$F18C8218-0A9D-465A-B570-AEC291DC548B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52218"
+          },
+          "hash": "b8fc0648c86d9dc9c1355b0154fe156f741c53db",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136743$2179C51D-3B60-4F54-8420-E1FEC47225F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mithridates I of Parthia Arms.svg"
+          },
+          "hash": "df04109be58729b209733f2f616e9774815b8f61",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q136743$F35F8B9A-618A-444E-90C6-21503EAFD095",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/aa4e17c9-1de5-4888-9dcf-bf3fe4a0d42e"
+          },
+          "hash": "5a068b85e035dc3433f24ed619f5b3abf57165e9",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "التعريف بتاريخ الفارسي القديم، وخاصة الفترة الأخمينية التي حكم في بداية حكام أقوياء فرضوا سيطرتهم على العالم"
+    },
+    "de": {
+      "language": "de",
+      "value": "König des Partherreiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Parthian Empire from 165 to 132 BC"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "reĝo de la partoj"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اشک ششم و بنیانگذار شاهنشاهی اشکانی (۱۷۱–۱۳۲ پ.م)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Parthie"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך פרתי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "pártus király"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero partico (r. 164-132 a.C.)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Partów"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "kralj Partskog carstva"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kung av Partherriket"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Part kralı (171-132 MÖ)"
+    }
+  },
+  "id": "Q136743",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Mitridates I van Partië"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "مهرداد الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ميثريدس الاول من بارثيا"
+    },
+    "az": {
+      "language": "az",
+      "value": "I Mitridat"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی مهرداد"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Митридат I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mitridates I de Pàrtia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mithradatés I."
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Митридат I (Пархи патши)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Mithridates I, brenin Parthia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mithridates I."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Mithridates I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Μιθριδάτης Α΄ της Παρθίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mithridates I of Parthia"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Mithridates I of Parthia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Mithridates I of Parthia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Mitridato la 1-a de la Partoj"
+    },
+    "es": {
+      "language": "es",
+      "value": "Mitrídates I de Partia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Mitridates I.a Partiakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مهرداد یکم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mithridate Ier de Parthie"
+    },
+    "he": {
+      "language": "he",
+      "value": "מיתרידטס הראשון, מלך פרתיה"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "मिथरीदतेस प्रथम"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Mitridat I. Partski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "VI. Arsak pártus király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Միհրդատ Ա Պարթև"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mithridates I dari Parthia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Mitridate I di Partia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ミトラダテス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "მითრიდატე I"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "مهرداد اول"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Mihrdad 1-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mitridates I av Partia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mithridates I de Grote"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Mitridates Ièr (rei part)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mitrydates I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mitrídates I da Pártia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mitrídates I da Pártia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Mitriade"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Митридат I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Mitridat I od Partije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Mitridat I. Partski"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Mitridat I od Partije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mithridates I"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Меҳрдоди I"
+    },
+    "tk": {
+      "language": "tk",
+      "value": "Mitridat I"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Mithridatis"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мітрідат I (цар Парфії)"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Mitridat I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Mithridates I của Parthia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "米特里达梯一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "米特里达梯一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "米特里达梯一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "米特里達梯一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "米特里達梯一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "米特里达梯一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "米特里達梯一世"
+    }
+  },
+  "lastrevid": 17553599,
+  "modified": "2025-09-17T10:54:14Z",
+  "ns": 860,
+  "pageid": 165128,
+  "sitelinks": {},
+  "title": "Item:Q136743",
+  "type": "item"
+}

@@ -1,0 +1,212 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hemming"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q137008$73CEBB25-4DC0-4128-A729-9C3B03A942A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q137008$E26BA276-0494-4D98-B549-A1F34DEFF4F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q137008$C8C20B7D-F2A5-4BA4-89F5-860CC6B658F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q125570",
+              "numeric-id": 125570
+            }
+          },
+          "hash": "fcad0c7fec5b193bdfc664cb75405afd1ae9a354",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q137008$C3999162-A1C4-4F81-82AE-F74130A4C03F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q137008$6DA53AA3-062F-4892-A263-C614A10D79C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0850-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22704ee4efe0ee654eac343970919d68633e5816",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q137008$7FCDD8F7-6B95-4591-A204-71F4D219F619",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5712436"
+          },
+          "hash": "76c61584e09ce1850bcd958cc985354efb5430cb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q137008$8E534028-6B96-46F0-A7F4-A96330CCDB87",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hemming Arms.svg"
+          },
+          "hash": "8f698f774b1e157efd8d7fce19710d9f0948621b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "Frisisk greve"
+    },
+    "en": {
+      "language": "en",
+      "value": "Danish royalty"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "правитель Рюстрингена"
+    }
+  },
+  "id": "Q137008",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "هيمنج"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hemming"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hemming"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hemming de Frisia"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Hemming"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hemming"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Хемминг"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hemming"
+    }
+  },
+  "lastrevid": 17554075,
+  "modified": "2025-09-17T11:01:02Z",
+  "ns": 860,
+  "pageid": 165393,
+  "sitelinks": {},
+  "title": "Item:Q137008",
+  "type": "item"
+}

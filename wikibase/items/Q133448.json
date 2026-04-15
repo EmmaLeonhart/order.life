@@ -1,0 +1,208 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Prothous"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q133448$31F3C072-AFB7-4ED7-8843-20903438025B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133448$84B42C47-E9E7-4A1A-A866-4EEFDE92D2D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q133448$CE1D5A46-C252-4CF6-B375-353101D0F8F3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132243",
+              "numeric-id": 132243
+            }
+          },
+          "hash": "3918cf913608f23d24413021be6d75b16b3db376",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q133448$F29B5382-D7C5-449B-9DFE-728F14ABB5AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q133448$2413143C-2722-4337-967A-3222931DC9A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15838250"
+          },
+          "hash": "cfa580839fcde7f4bcad585aee81fa0c3e97271d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q133448$B842737A-5C57-42A9-A6E3-34C643C7CB0D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Prothous Arms.svg"
+          },
+          "hash": "d245edb2bc74c7249f3345f136ea50938a5efa6e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "a la mitologia grega"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Αγρίου"
+    },
+    "en": {
+      "language": "en",
+      "value": "mythical son of Agrius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fils d'Agrios"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlio di Agrio"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, zoon van Agrios"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии, сын Агрия"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi kişi"
+    }
+  },
+  "id": "Q133448",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Pròtous (fill d'Agri)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prothoos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πρόθοος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Prothous"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Prothoos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Protoo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Профой"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Prothoos (syn Agria)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Agrios oğlu Prothoos"
+    }
+  },
+  "lastrevid": 17547782,
+  "modified": "2025-09-17T09:31:10Z",
+  "ns": 860,
+  "pageid": 161833,
+  "sitelinks": {},
+  "title": "Item:Q133448",
+  "type": "item"
+}

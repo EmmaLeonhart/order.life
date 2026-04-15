@@ -1,0 +1,398 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ptolemy Epigonos"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135341$4174EAB8-09D2-4AF6-B477-5026F621946F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736468"
+          },
+          "hash": "0e0770d5b82face999aef846cdc1b84753bef4bd",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135341$1B8DB52F-8BCA-448C-98D5-A7CCF2CFD067",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135472",
+              "numeric-id": 135472
+            }
+          },
+          "hash": "13fdf80a4cafb73fdb50d658887be900826b1693",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135341$B6C82D7F-D2BC-4C7B-975E-E098A855637B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135471",
+              "numeric-id": 135471
+            }
+          },
+          "hash": "95ae1ec0d707ed15657c219c9ca488aa3d24e2f3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135341$4CDDCAF1-B970-4AF2-BA91-F524976FC6ED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135341$849166CB-66BC-4FF8-91C0-9DEEBDB7B327",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135341$DFD6386F-F204-4DD8-A7B5-99B010AD57D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73722",
+              "numeric-id": 73722
+            }
+          },
+          "hash": "6fff804df3870fe90e971fc5c0cfbdc1fc435f78",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135341$D909CEC7-213C-481D-B34E-A8BBF8B5862C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135256",
+              "numeric-id": 135256
+            }
+          },
+          "hash": "5907643f16dcce00085f031f0d95849368a48c2b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135341$B8E7B87C-F172-4403-85CE-774B10342247",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135341$C356F7A2-5B88-4F55-BC8E-FF0A440BC67F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0299-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32a271ccdbad50327becc19d442bc4d84b869f3a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135341$9AF8C839-264D-4497-A80F-608FC75886C5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0240-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9aa27b0bd3c4742f2591c63b995517414604c5b6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135341$ED9D7A06-BFDC-4F89-A177-74F9CB89636A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1934546"
+          },
+          "hash": "5323684673052e9d8bfe26df4ceb2d675c54ace9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135341$5DAE3E9F-CDF0-4325-BFF2-CA86C794E0A8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy Epigonos Arms.svg"
+          },
+          "hash": "ff6226e5c75349189386e0a9c5403c51868258cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "egyptský spoluregent s Ptolemaiem II."
+    },
+    "de": {
+      "language": "de",
+      "value": "Mitregent des Königs Ptolemaios II. in Ägypten"
+    },
+    "en": {
+      "language": "en",
+      "value": "co-regent of Egypt with Ptolemy II"
+    },
+    "es": {
+      "language": "es",
+      "value": "corregente de Egipto junto a Ptolomeo II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Lysimaque et d'Arsinoé II"
+    }
+  },
+  "id": "Q135341",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "بطليموس الاول ايبيجون"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Птолемей Синът"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ptolemeu de Tràcia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ptolemaios Epigonos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ptolemaios der Sohn"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πτολεμαίος ο Επίγονος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemy Epigonos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ptolomeo Epígono"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ptolémée de Telmessos"
+    },
+    "he": {
+      "language": "he",
+      "value": "תלמי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Ptolemaiosz Epigonosz"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ptolemaios I Epigonos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolomeo I Epigono"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス1世エピゴノイ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ptolemaios Sønnen av Egypt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ptolemy I Epigone"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ptolemeusz Nios"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ptolemeu Epígono"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемей Эпигон"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ptolemaj I. Epigon"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Полемеј"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ptolemaios Epigonos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Птолемей Епігон"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ptolemy Epigonos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托勒密"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "托勒密"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "托勒密"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "托勒密"
+    }
+  },
+  "lastrevid": 17551388,
+  "modified": "2025-09-17T10:22:26Z",
+  "ns": 860,
+  "pageid": 163726,
+  "sitelinks": {},
+  "title": "Item:Q135341",
+  "type": "item"
+}

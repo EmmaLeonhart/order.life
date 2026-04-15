@@ -1,0 +1,298 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Rhodogune"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135528$584DC2D8-B46D-47AA-A209-B262FC48E418",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738576"
+          },
+          "hash": "0d8b19a501b924da11745a6bacd87dade1c38e22",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135528$178F1BCC-698D-4E4E-B944-28B6CC6CC8BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135528$4B56FBDF-D151-43CC-B0E6-0534844A81B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135528$BD0F2844-A324-46B8-B8FB-04943B8A2656",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74195",
+              "numeric-id": 74195
+            }
+          },
+          "hash": "a84097b36221d747f393264859914079065022dd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135528$3A19ED6F-A357-4B0B-B7E3-B42017B2CBF6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74192",
+              "numeric-id": 74192
+            }
+          },
+          "hash": "531d7ebec715c47a1ccb46fb25eaf5cc9cc78fb1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135528$2D49BD4A-A88C-4CC3-ACE0-742E0BD8B2E6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135528$881240AD-9BD3-4F45-A90C-A13AFA35A973",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135528$87233556-722E-409F-8E97-40326CA1FC6F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135528$C45824FA-BD80-416C-BAC2-E9094C085CF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2917844"
+          },
+          "hash": "0dacb659a92a08c9252bab567fba8c76ecf7f03d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135528$95333208-07B3-460E-8239-AAC80D953E5B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Rhodogune Arms.svg"
+          },
+          "hash": "c1b2514363c0c22c25657242b03d540f6b2d81ab",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "es": {
+      "language": "es",
+      "value": "princesa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse perse"
+    }
+  },
+  "id": "Q135528",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Rodoguna"
+    },
+    "be": {
+      "language": "be",
+      "value": "Радагуна"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Rodoguna"
+    },
+    "de": {
+      "language": "de",
+      "value": "Rhodogune"
+    },
+    "en": {
+      "language": "en",
+      "value": "Rhodogune"
+    },
+    "es": {
+      "language": "es",
+      "value": "Rodoguna"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "روزگونه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Rhodogune"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Rodoguna"
+    },
+    "it": {
+      "language": "it",
+      "value": "Rodoguna"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Rodoguna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rodoguna"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rodoguna"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Родогуна"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Родогуна"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Rhodogune"
+    }
+  },
+  "lastrevid": 17551702,
+  "modified": "2025-09-17T10:26:59Z",
+  "ns": 860,
+  "pageid": 163913,
+  "sitelinks": {},
+  "title": "Item:Q135528",
+  "type": "item"
+}

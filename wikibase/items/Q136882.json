@@ -1,0 +1,243 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwallog ap Llênog"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q136882$9EFB4CA7-76D6-4F83-82F5-851B930FD7C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136553",
+              "numeric-id": 136553
+            }
+          },
+          "hash": "5a558ac60789bcd84293bd812be9b5217edf90d0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136882$6AD7A9B2-0A01-4349-B38F-90694A8AC914",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137284",
+              "numeric-id": 137284
+            }
+          },
+          "hash": "0d49403711d82ee54821c781c6479bff1062e032",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136882$D5553076-80EB-476A-B8A5-619B0CB47708",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136882$1ED140EB-5D06-4D54-983B-C930AF222A77",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136882$0EAA999C-4345-4566-8839-3A4B0AC49930",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136882$178EF7CB-F981-4075-9234-EFFB5B246DCD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca0f7e18475fc648e1a286f4ce5787e81e10b187",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136882$5D8D4C75-83CA-47CD-B063-9E9316AB4281",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2278971"
+          },
+          "hash": "e89b665123e6eba96c210c4429ac6114bb0c07c0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136882$2A244B4A-856F-4E42-A572-3A6530BB8644",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwallog ap Llênog Arms.svg"
+          },
+          "hash": "3e8508856146bfcb8d99d8081f7721a6d245936c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "6th century monarch"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Элмета"
+    }
+  },
+  "id": "Q136882",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gwallawc"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gwallog ap Llênog"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gwallog ap Llenog"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gwallog ap Llênog"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Gwallog ap Llênog"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gwallog ap Llaennog"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gwallog ap Llênog"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Gwallog ap Llaennog"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gwallog ap Llaennog"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gwallog ap Llaennog"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гваллог ап Ллаенног"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "瓜洛格"
+    }
+  },
+  "lastrevid": 17553827,
+  "modified": "2025-09-17T10:57:29Z",
+  "ns": 860,
+  "pageid": 165267,
+  "sitelinks": {},
+  "title": "Item:Q136882",
+  "type": "item"
+}

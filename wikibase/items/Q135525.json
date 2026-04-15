@@ -1,0 +1,336 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Darius"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135525$9A96E5BB-9356-42F1-B35A-3E25B6661E21",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737925"
+          },
+          "hash": "1ec678310cbe784dc4b451f91a4d026981b90100",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135525$CD52691D-52E9-4BC1-8669-AF4CA15D3657",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135525$DA4A3BC0-C47B-4C28-9330-455874B83B5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135525$F487757E-7945-4C78-B7C2-797A08BF3BC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135535",
+              "numeric-id": 135535
+            }
+          },
+          "hash": "fcc349438e82c838d8e2339e693558f728ea48c5",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135525$A20893AA-8D39-4EA4-A433-C8165563516E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74195",
+              "numeric-id": 74195
+            }
+          },
+          "hash": "a84097b36221d747f393264859914079065022dd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135525$8984679A-295A-46FF-B573-3C3E54812BFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74192",
+              "numeric-id": 74192
+            }
+          },
+          "hash": "531d7ebec715c47a1ccb46fb25eaf5cc9cc78fb1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135525$26C314D0-01A3-47BE-B3FB-0A3543E0EADE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135525$2593AF45-89EA-4D52-9A8B-10E2CE8D13F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135525$94E6349B-47A5-4AFB-B1D2-61D9DB66D5CB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0465-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "fae59f3e769b891efd9f815ac180500545452e3f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135525$FF0FB89D-4603-4813-830B-4FD80FB166C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10264223"
+          },
+          "hash": "afa344813bfe124c1c6388f4f837ec9ce84a5fb2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q135525$965E8984-088D-405E-AD8A-5F044E8CB59A",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Darius"
+          },
+          "hash": "0a4ae5000784962b495b1b74f2b5b07b5509d654",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135525$94F290F0-E576-4FD6-A0FA-909897F9824B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Darius Arms.svg"
+          },
+          "hash": "2d5a64129723ad291b39c593bd6a640482c77cd6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "fill de Xerxes I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Achämenide, Sohn des Großkönigs Xerxes I."
+    },
+    "el": {
+      "language": "el",
+      "value": "από τη Δυναστεία των Αχαιμενιδών γιος του Ξέρξη Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Crown Prince of Achaemenid Persia (died 465 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo primogénito de Jerjes I"
+    }
+  },
+  "id": "Q135525",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Дарый"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Darios"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dareios"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δαρείος (γιος του Ξέρξη Α΄)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Darius"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Darius"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Darius"
+    },
+    "es": {
+      "language": "es",
+      "value": "Darío"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "داریوش"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Darios"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Darius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Darío"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Dario (filho de Xerxes I da Pérsia)"
+    }
+  },
+  "lastrevid": 17551698,
+  "modified": "2025-09-17T10:26:56Z",
+  "ns": 860,
+  "pageid": 163910,
+  "sitelinks": {},
+  "title": "Item:Q135525",
+  "type": "item"
+}

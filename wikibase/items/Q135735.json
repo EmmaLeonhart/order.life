@@ -1,0 +1,429 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pleistoanax"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135735$CE939493-0A9A-45D1-817F-2155170831BA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1028091"
+          },
+          "hash": "ff1324bbb513664f8afabd83f9ee06a7d6d7acb4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135735$8D9E683A-E6EF-4167-AF51-30FC47375F17",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135904",
+              "numeric-id": 135904
+            }
+          },
+          "hash": "5fbf09fa2c0332b3d2654a4037691bcb26060f1c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135735$C3F5F619-CE1F-45BD-B4FC-247CFEDB6B0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135905",
+              "numeric-id": 135905
+            }
+          },
+          "hash": "3867b144b2b738b6dc3668634b0d4b5e50e70d49",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135735$6FC28247-34D9-4A1A-B2A3-DC1715C5D5EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135735$6DB20714-6284-4E1F-98CE-1C07803EFC8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135735$50F3CB6E-B3DD-4155-BD4D-C67FFFC5155A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135578",
+              "numeric-id": 135578
+            }
+          },
+          "hash": "be5ce6826e5355460b7c03cca792e4a3fbdefcc8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135735$9BD36309-F74F-43EA-BEC3-29E1AD7B22D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135735$D418B841-C515-45D1-9986-440EB3A5A539",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135735$84CA425F-159D-4EB9-A0EC-0C725981A4E8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0408-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1dea1b2acd62aedb369dd743b3c851f1f1d78736",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135735$EF7F99B2-6E89-4DE3-91FB-A8611AD013CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q371564"
+          },
+          "hash": "984610c37b53c03af6249c54ed4498b3e8bf13eb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135735$7DA8815E-03C0-4640-9F42-04BCDA3E0065",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pleistoanax Arms.svg"
+          },
+          "hash": "67e29a35ef17f1afbe53f9abe5e4e0a158b58b6c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "král Sparty"
+    },
+    "de": {
+      "language": "de",
+      "value": "spartanischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th century BC Agiad King of Sparta"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Spartan kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アギス朝のスパルタ王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Спарты"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "spartansk kung av den Agiadiska dynastin"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "கிமு 5ஆம் நூற்றாண்டய எசுபார்த்தாவின் மன்னர்"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Спарти"
+    }
+  },
+  "id": "Q135735",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بليستونكس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Плейстоанакт"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Plistòanax"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pleistoanax"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pleistoanax"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πλειστοάνακτας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pleistoanax"
+    },
+    "es": {
+      "language": "es",
+      "value": "Plistoanacte"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pleistoanaks"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pleistoanax"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Pleistoanacte"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πλειστοάναξ"
+    },
+    "he": {
+      "language": "he",
+      "value": "פלייסטואנאקס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pleisztoanax"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pleistoanax"
+    },
+    "it": {
+      "language": "it",
+      "value": "Plistoanatte"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プレイストアナクス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პლისტოანაქტი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "플레이스토아낙스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Plistoanax"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pleistoanax van Sparta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Plistóanex"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Plistóanex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Плистоанакт"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pleistoanakt"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Pleistoanax"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Плеистоанакт"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pleistoanax"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பிளீஸ்ட்டோனாக்ஸ்"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Плістоанакт"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普雷斯多安那克斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普雷斯托纳克斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普雷斯托納克斯"
+    }
+  },
+  "lastrevid": 17552047,
+  "modified": "2025-09-17T10:31:53Z",
+  "ns": 860,
+  "pageid": 164120,
+  "sitelinks": {},
+  "title": "Item:Q135735",
+  "type": "item"
+}

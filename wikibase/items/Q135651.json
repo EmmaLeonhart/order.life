@@ -1,0 +1,286 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Teritouchmes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135651$CA6142E6-AB0F-4208-9C81-D8F423583150",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737987"
+          },
+          "hash": "731b8caabd7013861f5e48819e1efaec4f5fc544",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135651$06E2E5F5-76AF-4CF3-9BF3-31B0EF7F0BB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135651$B70B830A-A466-4B29-B636-CAE86C81FE6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135651$5FB099BA-1DA7-4538-AAB4-0A7D88573171",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135645",
+              "numeric-id": 135645
+            }
+          },
+          "hash": "32972758c2252718c88b5c1fa7adfd130971a047",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135651$9DBD891C-7380-4F62-A9E9-669EB77A41FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135650",
+              "numeric-id": 135650
+            }
+          },
+          "hash": "6d7fd2fbd36c67a82050179fe6e4e13bf9fa97b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135651$D1B4CA1D-52FF-4B40-8124-C37594E97977",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135651$81CC5A68-30BD-407A-BB33-1BA791CAB3E2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135651$A25DA91A-5B6A-4BA1-9503-02059198E547",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0410-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a7d464f95607812f3d592c193da8edb32b68645a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135651$7A55151D-6982-4D34-BBDB-E215BED002B0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3518384"
+          },
+          "hash": "a181fa3f128cc04f5a81f7a34b7a86aa2bbca163",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135651$6ADFF6B5-7BC5-4C10-B2AC-D770E5415E90",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Teritouchmes Arms.svg"
+          },
+          "hash": "9bb65487c8d8d6cac9ceaf50afe882fe8d089554",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Satrap, Schwiegersohn des Großkönigs Dareios II. und Schwager des Artaxerxes II."
+    },
+    "it": {
+      "language": "it",
+      "value": "satrapo persiano"
+    }
+  },
+  "id": "Q135651",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Terituixmes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Terituchmes"
+    },
+    "en": {
+      "language": "en",
+      "value": "Teritouchmes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تری تخمه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Teritouchmès"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Teritučmo"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teritucme"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Teritouchmes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teritucmes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teritucmes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Теритухм"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Terituhmo"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Teritouchmes"
+    }
+  },
+  "lastrevid": 17551917,
+  "modified": "2025-09-17T10:30:04Z",
+  "ns": 860,
+  "pageid": 164036,
+  "sitelinks": {},
+  "title": "Item:Q135651",
+  "type": "item"
+}

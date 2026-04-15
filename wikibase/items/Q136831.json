@@ -1,0 +1,197 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Flavius"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136831$D68FA45D-9EAF-41AC-8BC8-FDD46CD413BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136831$56C70873-6D71-49A6-97D0-01FB6741C0A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136831$600C0817-487B-481B-9976-B9A15CB5089D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123564",
+              "numeric-id": 123564
+            }
+          },
+          "hash": "b0c152ee063373df0f623b778ac4fd389768155b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136831$D420BFA7-3222-4321-991A-5FB472732CAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136830",
+              "numeric-id": 136830
+            }
+          },
+          "hash": "e1b15589fa01414a5ff57df5795a16b1f543d544",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136831$1714C939-AC96-4D2C-A82A-07B5FD15C8CA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136831$40815DE3-D15F-4FD6-8F83-E79403B3A84B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0322-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1a977b84eca04e240fa03d74fc9691f6299b77ff",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136831$2BEBCE12-253E-4362-977D-481EDE0FBD9E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q114712200"
+          },
+          "hash": "3172f103a421d6b060784103c94f4f5e20a1d6a7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136831$293714F9-064E-45A9-9D03-F9EE324CBFE1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Flavius Arms.svg"
+          },
+          "hash": "1f8e402b17e70c731988ff93df76605da17fe4d7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "son of the Roman Caesar Crispus"
+    }
+  },
+  "id": "Q136831",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Flavius"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Flavius"
+    }
+  },
+  "lastrevid": 17553727,
+  "modified": "2025-09-17T10:56:03Z",
+  "ns": 860,
+  "pageid": 165216,
+  "sitelinks": {},
+  "title": "Item:Q136831",
+  "type": "item"
+}

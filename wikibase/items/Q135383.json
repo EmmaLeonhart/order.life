@@ -1,0 +1,339 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arsames"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135383$2072B3B0-5552-4AA2-BACA-5D7807B576A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "597620"
+          },
+          "hash": "7991534d7973c4fd443f2bbcceeb893a3ec59724",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135383$2B934175-066C-4A40-A3B1-4355F5C5CAFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738562"
+          },
+          "hash": "11ab07810c1e429451438485d9b9ffef5ad4e7e9",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135383$83600857-4B7F-4A5D-B180-99D1D1A7656F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135383$5FEE51D6-4BBE-4D71-B4C4-54F030618C9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135383$834E61E4-B898-4291-A0BF-4CE29BC92F80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135294",
+              "numeric-id": 135294
+            }
+          },
+          "hash": "dc4fa6684535ae1fc439e90b70b0cd8c6edd8e7d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135383$212A104F-D61A-413E-969F-2301E7EF6E0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135377",
+              "numeric-id": 135377
+            }
+          },
+          "hash": "2b323afb47ed4495b384f654601a433658a6b3b4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135383$165F7DAF-0976-403B-BEBA-F487CD2A7A44",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135383$7B0DAE16-81BE-4B95-ADA8-79755F9FD08C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135383$ADADCF69-4BB2-4199-90EC-1C28417E8AB9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0480-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e10f0f13dbe5b8d590a556a5b722576a4a48cfe2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135383$C5196803-4C15-46CE-B200-1DA90C43B510",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11906699"
+          },
+          "hash": "4951028a3bda50381df7ea84a7e26c62fc2d6df4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135383$AA2A91E6-AEDD-4330-A5DC-B3B5A0ACC972",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arsames Arms.svg"
+          },
+          "hash": "7ab786a7e980416ba41dcba03691afea9812c609",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Achämenide, Sohn des Großkönigs Dareios I."
+    },
+    "en": {
+      "language": "en",
+      "value": "ancient Persian prince"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe de la dinastía aqueménida"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "شاهزاده هخامنشی"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Dario I"
+    }
+  },
+  "id": "Q135383",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Арсам"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Арсам"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Arsàmenes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Arsames"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρσάμης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arsames"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arsamenes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرشام"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arsamès"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Arsames"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արսամես"
+    },
+    "it": {
+      "language": "it",
+      "value": "Arsame"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルサメス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arsames"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Arsames"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Arsames"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арсам"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Arsames"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Оршом (писари Дориюш)"
+    }
+  },
+  "lastrevid": 17551456,
+  "modified": "2025-09-17T10:23:25Z",
+  "ns": 860,
+  "pageid": 163768,
+  "sitelinks": {},
+  "title": "Item:Q135383",
+  "type": "item"
+}

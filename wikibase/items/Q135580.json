@@ -1,0 +1,435 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gorgo"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135580$E35FDAEF-DCA7-499D-86B2-E91ED6A057EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "695216"
+          },
+          "hash": "c70e52784074b848db29d22d229b10887745c48c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135580$D4C28ABC-759E-4BC7-9B58-047724669FCA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135581",
+              "numeric-id": 135581
+            }
+          },
+          "hash": "21355a38e73b272b9d296538f4423b1fc3561e29",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135580$F7CD7699-A066-4263-B98B-2B3D3CA2AC8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135580$562A3775-0F59-454E-BE13-F8D984C76BF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135580$BE674489-9C00-48D4-AA43-319DE7029A47",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135432",
+              "numeric-id": 135432
+            }
+          },
+          "hash": "e696173ff7b1e70204d2965299bffd49c961eed7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135580$2EF14293-DA44-40D8-9189-2C27060E5AC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135433",
+              "numeric-id": 135433
+            }
+          },
+          "hash": "ae62391b4ea9af2a52bb4ed7e5ae767a838f46cd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135580$C1541890-56CE-4A6C-B61C-C572BDA172D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135580$DECED37C-6D39-4EFE-B651-3395991C7D94",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0518-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "426e60badfb10a3fbda3c49f6473ab77ebeb9b60",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135580$338AC54F-BB31-4827-97E3-233EAA683E42",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135580$CA58E6A7-76DD-4FA7-8F0C-37C56186CD29",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q236557"
+          },
+          "hash": "ee295179c4e2ffb6c27d02a6f1be59f46b7448af",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135580$2B5F2E07-63D6-4C6B-A266-8CA3D672106B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gorgo Arms.svg"
+          },
+          "hash": "c0390e20ad05a699eabfe16a4ac8a648d9c6cc63",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "reina d'Esparta"
+    },
+    "de": {
+      "language": "de",
+      "value": "Frau des spartanischen Königs Leonidas I."
+    },
+    "en": {
+      "language": "en",
+      "value": "early 5th-century BC queen of Sparta"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Queen of Sparta and daughter of the King of Sparta, Cleomenes I."
+    },
+    "es": {
+      "language": "es",
+      "value": "hija del rey de Esparta Cleómenes I y esposa del rey Leónidas I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine de Sparte"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "raíña de Esparta"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכת ספרטה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սպարտայի թագուհի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ratu Sparta"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina di Sparta, moglie di Leonida I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sparta"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯巴达女王"
+    }
+  },
+  "id": "Q135580",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "جورجو، ملكة أسبرطة"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "গোর্গো, স্পার্টার রানী"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gorgo"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Gorgó"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gorgo"
+    },
+    "el": {
+      "language": "el",
+      "value": "Γοργώ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gorgo"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Gorgo"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Gorgo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gorgo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "گورگو، شهبانوی اسپارتا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gorgô"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Gorgo"
+    },
+    "he": {
+      "language": "he",
+      "value": "גורגו, מלכת ספרטה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Gorgo"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Գորգո"
+    },
+    "id": {
+      "language": "id",
+      "value": "Gorgo, Ratu Sparta"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gorgo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゴルゴー"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "고르고"
+    },
+    "la": {
+      "language": "la",
+      "value": "Gorgo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gorgo"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Gorgo"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Gorgo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Gorgo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Gorgo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Горго"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Gorgo od Sparte"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Gorgo av Sparta"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gorgo"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Горго"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "گورگو، ملکہ اسپارٹا"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "歌果"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "歌果"
+    }
+  },
+  "lastrevid": 17551799,
+  "modified": "2025-09-17T10:28:23Z",
+  "ns": 860,
+  "pageid": 163965,
+  "sitelinks": {},
+  "title": "Item:Q135580",
+  "type": "item"
+}

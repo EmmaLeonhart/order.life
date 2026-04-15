@@ -1,0 +1,473 @@
+{
+  "aliases": {
+    "be": [
+      {
+        "language": "be",
+        "value": "Лисандра"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Lysandra"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135259$EED99EA3-3E7E-4480-AF4A-F9141A490228",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "420113"
+          },
+          "hash": "5e9fc0c92784c5aff3055bc945dd1c3f25bf65cf",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135259$3BAD154C-61FD-4BD3-AA9F-0AAD5DAC66E6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736331"
+          },
+          "hash": "9cd6cbf013836b4b925b542cba6fd5dbc4a88758",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135259$51BEDBC7-1D7A-4588-9EFC-2F65F9CA0D54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135259$AFEA35C1-CF74-4DFD-A008-F257AF74FB70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135259$D1C6BF2C-B48D-4800-B368-A8F90826489F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135280",
+              "numeric-id": 135280
+            }
+          },
+          "hash": "08c3a3c843f0693d4fada0bc2ea7e3b8d861f4b6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135259$B34BE850-09D1-4D7E-80D9-257342A11221",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135344",
+              "numeric-id": 135344
+            }
+          },
+          "hash": "76a7bfa7e0fc258a46a9bbede0988e01c2b26042",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135259$599458AB-D88D-47B4-8B18-61E5AB47B864",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73731",
+              "numeric-id": 73731
+            }
+          },
+          "hash": "b55c570b63169f39cf3c4bece05a5938b61b94b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135259$01241337-4B0D-4412-9B33-059BA01D3B6D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135253",
+              "numeric-id": 135253
+            }
+          },
+          "hash": "64098d762e38d95828e09f6c804855a336250846",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135259$874A4EB3-3EB2-4175-98CA-E7A99DBC5373",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135259$EC6D1BC1-BA31-436C-B60D-39B2686365D4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135259$D2A7BC27-F672-4A6B-87F7-23DC373D6236",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135259$5A05DE0D-0852-4CE9-B7B1-8FB89858DAF6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q289276"
+          },
+          "hash": "3a1bf3f3df5843a477a40ccbc928b8cbab8042ac",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135259$1FF795A1-5856-46C2-A1F1-282A833D7897",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lysandra Arms.svg"
+          },
+          "hash": "a2e8e53fa33a97d75c96622c2c33c26492ff17c7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter von Ptolemaios I. und Eurydike"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemaic princess, queen consort of Macedonia"
+    },
+    "es": {
+      "language": "es",
+      "value": "princesa ptolemaica del siglo III a. C."
+    },
+    "et": {
+      "language": "et",
+      "value": "Ptolemaios I ja Eurydike tütar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse lagide"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "prolemaida hercegnő, makedón királyné"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlia di Tolomeo I, moglie di Alessandro V e poi di Agatocle figlio di Lisimaco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aristocrate uit Macedonië (-)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "drottning av Makedonien"
+    }
+  },
+  "id": "Q135259",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ليساندرا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Лісандра"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лизандра"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lisandra"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lysandra"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λυσάνδρα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lysandra"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lisandra"
+    },
+    "et": {
+      "language": "et",
+      "value": "Lysandra"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lysandra"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Lysandra"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Λυσάνδρα"
+    },
+    "he": {
+      "language": "he",
+      "value": "ליסנדרה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lüszandra"
+    },
+    "id": {
+      "language": "id",
+      "value": "Lysandra"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lisandra"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Lîsandra"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Lîsandra"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Lysandra"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lysandra"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lizandra"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lisandra"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Lisandra"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лисандра"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lisandra"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Lisandra"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Lysandra"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lysandra av Egypten"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lysandra (Makedonya kraliçesi)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лісандра"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "呂珊德拉"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "吕珊德拉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "吕珊德拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "呂珊德拉"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "呂珊德拉"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "吕珊德拉"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "呂珊德拉"
+    }
+  },
+  "lastrevid": 17551252,
+  "modified": "2025-09-17T10:20:32Z",
+  "ns": 860,
+  "pageid": 163644,
+  "sitelinks": {},
+  "title": "Item:Q135259",
+  "type": "item"
+}

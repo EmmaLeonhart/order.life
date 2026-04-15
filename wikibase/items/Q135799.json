@@ -1,0 +1,298 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Azor"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135799$EE4C9E6F-66C1-4BF1-93EE-40FA1A0916D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135800",
+              "numeric-id": 135800
+            }
+          },
+          "hash": "d12e4e6cdf8cff01f377cc7958c09d95cf693815",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135799$1C16A47A-63E1-400F-8B48-2E10A6B65A29",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135799$81ACBB9E-4667-4010-892E-1CCFBD4B00DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135799$09EB2C2D-E6A6-415D-80B0-FBE1DD6DBEC6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q93774",
+              "numeric-id": 93774
+            }
+          },
+          "hash": "1cc357236bd8c034c552a30094864759b542eafa",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135799$E5EFA859-E5F4-4528-A262-5AAAF75E2438",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135982",
+              "numeric-id": 135982
+            }
+          },
+          "hash": "153855c04982dba6716810bf152d23bc5dfaa023",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135799$B78BE028-1792-45CA-A654-4B69C653F784",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135799$5C93107D-9E57-4AF6-A1C7-B987F7AC5587",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0372-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32c55431f255cfba53ecfc649c4cb95877fa946a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135799$ADC2A1F5-3C93-4C9D-9F50-D3BC0940CE98",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11907447"
+          },
+          "hash": "498c76951ab0b905dfc99693e3d82002757bbd9c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135799$ACFFCA42-B105-4C83-B4AA-D0C642D69883",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Azor Arms.svg"
+          },
+          "hash": "ca935f0b8fa14ffe78d1dd97f9f2459e90022b3a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "az": {
+      "language": "az",
+      "value": "Zerubbabil nəslində şahzadə"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "cymeriad yn y Testament Newydd"
+    },
+    "en": {
+      "language": "en",
+      "value": "character in New Testament (Gospel of Matthew)"
+    },
+    "es": {
+      "language": "es",
+      "value": "Príncipe en la línea de Zorobabel"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מהברית החדשה, בנו של אליקים; מאבותיו של ישוע"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Principe sa linya ni Zorobabel"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Matta 1:13-14)"
+    }
+  },
+  "id": "Q135799",
+  "labels": {
+    "az": {
+      "language": "az",
+      "value": "Azor"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Azor"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Azor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Asor"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αζώρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Azor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Azor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Azor"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Azór"
+    },
+    "he": {
+      "language": "he",
+      "value": "עזור"
+    },
+    "id": {
+      "language": "id",
+      "value": "Azor bin Elyakim"
+    },
+    "la": {
+      "language": "la",
+      "value": "Azor"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Asor"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Azor"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Azor"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "عازور"
+    }
+  },
+  "lastrevid": 17552149,
+  "modified": "2025-09-17T10:33:21Z",
+  "ns": 860,
+  "pageid": 164184,
+  "sitelinks": {},
+  "title": "Item:Q135799",
+  "type": "item"
+}

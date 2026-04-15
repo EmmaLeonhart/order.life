@@ -1,0 +1,417 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Stateira"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135509$1EDB4DC3-54FD-4707-A7C9-737E80AC37E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736553"
+          },
+          "hash": "fae0ae23dc5226c3ca2711de842ebc845cc8279f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135509$663CCDDA-AC9C-475E-90F9-F5E568E1F0C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135648",
+              "numeric-id": 135648
+            }
+          },
+          "hash": "65484703b747fb8afeb1b54e2da672eec184c7b2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135509$52F33420-36B2-4871-8714-62BF164C1858",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135368",
+              "numeric-id": 135368
+            }
+          },
+          "hash": "b1d909d85aee9126c43c9679d5b0a55239fc1f1e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135509$BA50639E-8AF5-4C3A-B019-C16542EB2B8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135512",
+              "numeric-id": 135512
+            }
+          },
+          "hash": "51c9239c2d78c915172595979df55f6222274305",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135509$A8E8293F-1796-468D-91FA-1647E1EF208D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135509$28BDF19B-5220-4B20-98EE-AA8A2550B95C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135509$BAF43F2F-9175-4DCF-A999-A54173A2F92A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74013",
+              "numeric-id": 74013
+            }
+          },
+          "hash": "071ccdc2ad5844e51a71be02d95339ef708b161d",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135509$37B5DBA1-027D-4484-8402-D44DB7119822",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135650",
+              "numeric-id": 135650
+            }
+          },
+          "hash": "6d7fd2fbd36c67a82050179fe6e4e13bf9fa97b5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135509$500DCEB2-A33D-4F92-BC12-1E57008E64DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135509$73DCF16A-42FA-4D17-93DC-87FE7FD53C56",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135509$855FEBCE-57A6-4567-B604-240FDD33BCBF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0395-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "42694487258164fa7fd8f454ab273d46d9e49b2e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135509$06B9D54A-A0ED-4ED4-9B1C-C65216E63BBC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q453117"
+          },
+          "hash": "2c45dcdb559551089413a68d09f157b5b0a076bc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135509$B21D7636-AC55-4AA8-9CB9-9325B8F57B56",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Stateira Arms.svg"
+          },
+          "hash": "481f57814226672c41920b5356fd17873c71e3c3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Gemahlin des persischen Königs Artaxerxes II."
+    },
+    "el": {
+      "language": "el",
+      "value": "σύζυγος του Αρταξέρξη Β΄ του Μνήμονος"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Artaxerxes II of Persia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "hydarnide, épouse d'Artaxersès II"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכה אחמנית, אשתו של ארתחששתא השני"
+    },
+    "it": {
+      "language": "it",
+      "value": "moglie di Artaserse II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rainha aquemênida"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "persisk drottning"
+    }
+  },
+  "id": "Q135509",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ستيتيرا"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Estatira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Stateira"
+    },
+    "el": {
+      "language": "el",
+      "value": "Στάτειρα Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Stateira"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Stateira"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Stateira"
+    },
+    "es": {
+      "language": "es",
+      "value": "Stateira"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "استاتیرای یکم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Stateira"
+    },
+    "he": {
+      "language": "he",
+      "value": "סתאתירה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Stateira"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ստատեիրա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Stateira"
+    },
+    "it": {
+      "language": "it",
+      "value": "Statira"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Stateira"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Estatira"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Estatira"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Статира"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Stateira"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Статира"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Stateira I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Статіра"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "استاتیرا اول"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯塔蒂亚"
+    }
+  },
+  "lastrevid": 17551680,
+  "modified": "2025-09-17T10:26:41Z",
+  "ns": 860,
+  "pageid": 163894,
+  "sitelinks": {},
+  "title": "Item:Q135509",
+  "type": "item"
+}

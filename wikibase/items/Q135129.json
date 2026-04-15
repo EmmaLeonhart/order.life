@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Anaxidamus"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135129$2CEA726B-862E-4C75-88AC-2D169D76462E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135161",
+              "numeric-id": 135161
+            }
+          },
+          "hash": "b29057fa97043ccf2053f5c2f0f5aefaa281eb05",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135129$9932CD31-9722-4168-9AAE-35A02626A06C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135129$3B719BA4-44EA-4C7F-9F1C-0F070FCE168E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135129$5CDB8B78-7E86-4B08-B7A4-8EAB1792220E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135104",
+              "numeric-id": 135104
+            }
+          },
+          "hash": "c3f981ab9f852dcae4f922ac6fb36816152f1a4a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135129$D21D6510-872F-4467-BAA3-326C204EE5B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135129$8FA441BB-AF5D-490B-BB8E-E8BDFBDE8F49",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0650-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "22d35df1cfa932cd58f3acb2312bc355e0beeb04",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135129$70108144-9FF2-4C9C-8919-D7423ACD3BFB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1266225"
+          },
+          "hash": "2ce8708579ae38fbc94b9f9c0ec2ae9d385f8d02",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135129$9267991F-92B3-4970-9A5C-594461DE4514",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Anaxidamus Arms.svg"
+          },
+          "hash": "a83ec570ca3849485250949645ca67f3ec8b422a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König in Sparta"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Sparta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Спарты"
+    }
+  },
+  "id": "Q135129",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أناكسيدامس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Анаксидам"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Anaxídamos"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Anaxidamos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Anaxidamos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αναξίδαμος ο Λακεδαιμόνιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anaxidamus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Anaxidamo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Anaxidame"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀναξίδᾱμος"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Anaxidamos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Anassidamo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アナクシダモス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Anaxidamus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Anaxídamo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Anaxídamo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Анаксидам"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Anaksidam"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Anaxidamos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Анаксідам"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞納西達穆斯"
+    }
+  },
+  "lastrevid": 17551016,
+  "modified": "2025-09-17T10:17:09Z",
+  "ns": 860,
+  "pageid": 163514,
+  "sitelinks": {},
+  "title": "Item:Q135129",
+  "type": "item"
+}

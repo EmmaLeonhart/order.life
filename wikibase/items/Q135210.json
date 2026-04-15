@@ -1,0 +1,391 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Balacrus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135210$3AE4B7FB-B180-4569-B113-7831D7A2C46E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737568"
+          },
+          "hash": "8d44b28123035199a7e5d506aa16e8c4195f4bf5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135210$34C4CA3D-D0C0-47A9-BCA8-F2C26C57080C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135268",
+              "numeric-id": 135268
+            }
+          },
+          "hash": "ee23e8a4cb3d2c548bea6753fcc1dee6b666584b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135210$161DB72E-FF5E-4D3D-8E83-AA0C88E0A333",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135267",
+              "numeric-id": 135267
+            }
+          },
+          "hash": "906a73efa90c402d31e534c49aff053d1e940458",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135210$18D242AC-831F-42B9-8BB3-B0351F98F6AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135210$EF92CB3F-EE99-48F1-98F6-EDEE4E7EB88A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135210$96F2CD96-FC85-411E-8401-F49E43634904",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73860",
+              "numeric-id": 73860
+            }
+          },
+          "hash": "dcb6c8fb8f5b2b70d27702f7bd60d7fcefc9b73a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135210$38FE2154-4802-4CDA-929B-6BEFA7A68E6C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135172",
+              "numeric-id": 135172
+            }
+          },
+          "hash": "70458b919c1d3625e583de9229dbafbb8062cc34",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135210$82A28A68-190E-4877-B013-4B8387F140BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135210$A9B289B6-86FC-4763-B210-2791BA49D7C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135210$22DC92A0-5347-4F3F-8B01-D6914439B1A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0324-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "748fdd30a86652a3b488eff2e5b1fd6d10cf5504",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135210$E39D23BB-0DA1-4F4D-A958-A5995D90F637",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q804609"
+          },
+          "hash": "e6def346e2b1c8bb05d5c9d7a48183b92ad07d38",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q135210$881B511D-8520-4F9D-A170-27735763119C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52163"
+          },
+          "hash": "0378039f010bc2fa02e48bb04aff2d9891cc5b02",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135210$CF67EF01-0D06-4ED8-A8C4-D597C865E7BF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Balacrus Arms.svg"
+          },
+          "hash": "fbf411ae0c57efe1ddf1d512558ade09238c111f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "makedonischer Satrap von Kilikien"
+    },
+    "en": {
+      "language": "en",
+      "value": "Satrap of Cilicia"
+    },
+    "es": {
+      "language": "es",
+      "value": "general de Alejandro Magno y sátrapa de Cilicia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "officier macédonien, garde du corps d'Alexandre le Grand et satrape de Cilicie"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare antico macedone"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "lijfwacht uit Macedonië (-324v Chr)"
+    }
+  },
+  "id": "Q135210",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "بالاكروس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Балакрос"
+    },
+    "br": {
+      "language": "br",
+      "value": "Balakros"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Bàlacros"
+    },
+    "de": {
+      "language": "de",
+      "value": "Balakros"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Balakros"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βάλακρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Balacrus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Balacrus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Balacrus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Balacro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Balacros"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Βάλακρος"
+    },
+    "he": {
+      "language": "he",
+      "value": "באלקרוס"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Բալակրոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Balacro"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Balacrus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Балакр"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Балакр"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Balakros"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "巴拉克魯斯"
+    }
+  },
+  "lastrevid": 17551164,
+  "modified": "2025-09-17T10:19:17Z",
+  "ns": 860,
+  "pageid": 163595,
+  "sitelinks": {},
+  "title": "Item:Q135210",
+  "type": "item"
+}

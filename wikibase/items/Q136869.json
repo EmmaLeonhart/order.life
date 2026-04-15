@@ -1,0 +1,269 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ninnoc"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136869$1B9485B6-9818-48C9-BE55-8320F3AB2831",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "509313"
+          },
+          "hash": "56822a94d39a9d44ae39cc59de2ce0e34b271c8c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136869$2B28D412-C3DF-4035-A96F-E600979F78EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136869$0FF1350F-2C4F-4B4C-87DC-47369103520D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136869$1961B768-B09F-4405-9E39-E28BB86140CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136544",
+              "numeric-id": 136544
+            }
+          },
+          "hash": "01a17ac80475614f68ec63f73cb2670445b0a22f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136869$25934AF2-9975-4F56-9A51-619C7A4C7278",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136869$6B699D45-12F6-420D-875F-B07AAC543D97",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2a9e4e2db5ed6e5a0a3d28134489b93b4389d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136869$59D8C571-B39D-4B35-B020-7C99BEC1EBE9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0467-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "00a42470fdc0cf2f1f0ff1e2bd229f788159ca0d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136869$B45B68B6-52FB-41E3-9C74-33D1946D4102",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3464537"
+          },
+          "hash": "b7506a4cfa146975df59c40bedb06df129c6cff1",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136869$7761E854-F760-4B3D-90F5-49F8DA09D167",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ninnoc Arms.svg"
+          },
+          "hash": "6f152443fb8b8fa63e29f974315d35695e3a19b6",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "br": {
+      "language": "br",
+      "value": "santez vrezhon, brav-meurbet a-hervez, marvet d'ar 4 a viz Mezheven 467"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "santes Celtaidd"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh-Breton saint"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sainte bretonne décédée en 467"
+    },
+    "la": {
+      "language": "la",
+      "value": "virgo in Britannia Armorica"
+    }
+  },
+  "id": "Q136869",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Ninnog"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ina ach Cynyr"
+    },
+    "de": {
+      "language": "de",
+      "value": "Saint Ninnoc"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ninnoc"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sainte Ninnoc"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sainte Ninnoc"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ninnoca"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Nennoc van Ploemeur"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Saint Ninnoc"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Saint Ninnoc"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Неннока"
+    }
+  },
+  "lastrevid": 17553801,
+  "modified": "2025-09-17T10:57:06Z",
+  "ns": 860,
+  "pageid": 165254,
+  "sitelinks": {},
+  "title": "Item:Q136869",
+  "type": "item"
+}

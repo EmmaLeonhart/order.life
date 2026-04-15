@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Phaethusa"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q132058$ED3788C4-EC68-4EC2-BB48-A14322293CE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132058$A2750317-1D5B-4396-9328-5DEB1B736EC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132058$5F084A75-CA80-4E57-90F9-318233F902A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130598",
+              "numeric-id": 130598
+            }
+          },
+          "hash": "31572a340c49e11a5d172764cf76ec37375465ae",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132058$7BB1AEC8-78F9-43C2-B53D-EE87FCE68D31",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130948",
+              "numeric-id": 130948
+            }
+          },
+          "hash": "5f9a43b1bd13d6f21505010331ebec425dd766a5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132058$526B4F29-018D-4A35-8938-D0C0EF56EC12",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132058$5957B7B1-EA9A-4C88-A0A1-D40AF2C933FB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1119537"
+          },
+          "hash": "3b4006f03adb8b2745d3aff8d2a320929f901d41",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132058$2D5C2D5D-EE10-4AA4-9744-2401C7F4E985",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Phaethusa Arms.svg"
+          },
+          "hash": "cdc195c3ec6ff6cffd5ca4667e5a232ef76e9e49",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "німфа ў старажытнагрэчаскай міфалогіі"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nymphe der Griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Helios and Neaera, in Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "en la mitología griega, hija de Helios"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "nymphe de la mythologie grecque, fille d'Hélios"
+    },
+    "he": {
+      "language": "he",
+      "value": "בתם של הליוס ונארה במיתולוגיה היוונית"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "нимфа из древнегреческой мифологии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "nimfa v grški mitologiji; hči Helija in Neere"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde güneş tanrısı Helios'un kızı"
+    }
+  },
+  "id": "Q132058",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Фаэтуса"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Faetusa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Phaetusa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φαέθουσα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Phaethusa"
+    },
+    "es": {
+      "language": "es",
+      "value": "Faetusa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Faetusa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Phaéthuse"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Φαέθουσα"
+    },
+    "he": {
+      "language": "he",
+      "value": "פאתוזה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fetusa"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "パエトゥーサ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "파에투사"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Faetûsa"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Faetûsa"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Фетуза"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Phaethusa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фаэтуса"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Fetuza"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Фаетуса"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Phaethusa"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Phaethosa"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Faetusa"
+    }
+  },
+  "lastrevid": 17545097,
+  "modified": "2025-09-17T08:54:08Z",
+  "ns": 860,
+  "pageid": 160443,
+  "sitelinks": {},
+  "title": "Item:Q132058",
+  "type": "item"
+}

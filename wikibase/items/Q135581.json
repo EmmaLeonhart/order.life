@@ -1,0 +1,426 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pleistarchus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135581$5CABC9B3-7C90-47F5-B7E8-52E079B33B76",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "695215"
+          },
+          "hash": "e5ae7d6e4d73ce68652c23b13c4f029fb8093748",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135581$7F341C99-1636-4C9C-87E1-4644814EE35C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135581$E1E195E6-44CB-4590-8E35-C0B23E18E2AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135581$5B0EF231-31EF-4518-B052-46A4FC70B324",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135432",
+              "numeric-id": 135432
+            }
+          },
+          "hash": "ddfbb41161ea4ddab6970f18cf16832501d14798",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135581$B48A07C3-3402-455C-8317-09F44B0C8B2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135580",
+              "numeric-id": 135580
+            }
+          },
+          "hash": "fe33a9edfd1db82e16a4d718b57ec5d4f53af914",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135581$D714C354-C2A9-4474-9882-255F4A2B57F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135581$609FA80D-C429-4C80-BE67-608A3554CF2A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135581$2A66B57C-43D8-4E56-AA7F-5C2B40A852FD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0458-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "37a15afc93f34615eb3cfbb503cf73871b192b93",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135581$E91BD34B-5A9F-4FD9-9BEA-0D1002AA2DC2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q438856"
+          },
+          "hash": "86aea9616734660c3508c1cf2ed38807e5190aba",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135581$C64591A2-D2B4-4E6C-8C5E-E4DFEB3996EA",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pleistarchus Arms.svg"
+          },
+          "hash": "7bd3ab5c7ac9cd5e881943ff42aa7b2dcde22601",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك أسبرطة"
+    },
+    "de": {
+      "language": "de",
+      "value": "spartanischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Sparta, son of Leonidas and Gorgo"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de espartanos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך ספרטה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Vladar Sparte"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սպարտայի թագավոր"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heerser uit Sparta (-458v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Sparty"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rei de Esparta, filho de Leônidas e Gorgo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Спарты"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Спарти"
+    }
+  },
+  "id": "Q135581",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بليسترشوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بليسترشوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Плейстарх"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Plistarc d'Esparta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Pleistarchos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pleistarchos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πλείσταρχος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pleistarchus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Pleistarĥo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Plistarco"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pleistarchos"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πλείσταρχος"
+    },
+    "he": {
+      "language": "he",
+      "value": "פליסטרכוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Pleistarh"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Pleisztarkhosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պլիստարքոս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Pleistarchus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Plistarco"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プレイスタルコス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პლისტარქუსი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pleistarchus van Sparta"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Plejstarchos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Plistarco"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Plistarco"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Плистарх"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pleistarh"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Pleistarchos"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Pleistarchus"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Pleistarchos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Pleistarchus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Плістарх"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "پلیسطرخس"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普雷斯塔库斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普雷斯塔库斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普雷斯塔庫斯"
+    }
+  },
+  "lastrevid": 17551801,
+  "modified": "2025-09-17T10:28:24Z",
+  "ns": 860,
+  "pageid": 163966,
+  "sitelinks": {},
+  "title": "Item:Q135581",
+  "type": "item"
+}

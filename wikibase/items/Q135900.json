@@ -1,0 +1,418 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cynisca"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135900$199E2F32-0EF3-4C69-9461-AD1C57823E86",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "695186"
+          },
+          "hash": "1d9499342c2ab214cef6e078d02aab406871ca25",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135900$7203021C-17D5-466E-86CF-9FC51E976378",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135900$15EAF646-59AC-4E5C-B203-27F5DBAA351C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135900$08F0622F-3017-4FA6-9EFD-5B80C076AE3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135732",
+              "numeric-id": 135732
+            }
+          },
+          "hash": "93bf165770e62b714887782365de85c310b2146e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135900$34DB7AFA-5EBE-4F39-9199-D458A97B564C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135898",
+              "numeric-id": 135898
+            }
+          },
+          "hash": "34fd2aa4ddb6313f1058a8bcb9583f455f999e02",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135900$7F49EE7C-EFE9-42A5-89EB-80C9D419D728",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135900$B912E73D-E71E-4C73-B845-D5DA6BBFC841",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0430-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6ee679d6684b498599aee22d82331a1a3ba2cec5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135900$604C1E6F-F95C-498E-955B-2E258653E87F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0389-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "237633300daab847887714c07229456cd340b656",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135900$10483B27-4E5D-44E3-AB91-4868B8A23571",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q267195"
+          },
+          "hash": "768b4e369352fd9b63bf0b4cd2ca6feb56e02ce7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135900$D82A0559-5FF5-4100-AF96-B509A52A5869",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cynisca Arms.svg"
+          },
+          "hash": "6d491fd910b2d6e4c19284d6473e2482319e6407",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "dama espartana"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "tywysoges o Sparta (ganed tua 442 CC)"
+    },
+    "de": {
+      "language": "de",
+      "value": "spartanische Königstochter und Olympiasiegerin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Spartan princess (born 442 BC)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin kreikkalainen prinsessa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse spartiate et première femme de l'histoire à gagner un prix aux jeux olympiques antiques en 396 av. J.-C."
+    },
+    "he": {
+      "language": "he",
+      "value": "נסיכה וספורטאית ספרטנית"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa spartana"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "princesa espartana"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "dvojnásobná víťazka starovekých Olympijských hier"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "špartanska princesa in prva ženska v zgodovini, ki je zmagala na olimpijskih igrah (396 pr. n. št.)"
+    }
+  },
+  "id": "Q135900",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Cinisca"
+    },
+    "be": {
+      "language": "be",
+      "value": "Кініска"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cinisca"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kyniska"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cynisca"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kyniska"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Kyniska"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κυνίσκα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cynisca"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Cynisca"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Cynisca"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cinisca"
+    },
+    "et": {
+      "language": "et",
+      "value": "Kyniska"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ziniska"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سینیسکا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kyniska"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cynisca"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κυνίσκα"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Kyniska"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיניסקה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kyneska"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cinisca"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "キュニスカ"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "സൈനിസ്ക"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kyniska"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cynisca"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kyniska"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cinisca"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cinisca"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Киниска"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kiniska"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kyniska"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kiniska"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cynisca"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Cynisca"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Киніска"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯尼斯卡"
+    }
+  },
+  "lastrevid": 17552269,
+  "modified": "2025-09-17T10:35:07Z",
+  "ns": 860,
+  "pageid": 164285,
+  "sitelinks": {},
+  "title": "Item:Q135900",
+  "type": "item"
+}

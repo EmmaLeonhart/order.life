@@ -1,0 +1,377 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hydarnes III"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135650$3989FCD9-1660-463F-952F-4AF573CF8D7F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737986"
+          },
+          "hash": "40c56341fabb970e25eb2827915bc261521be66d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135650$96C98308-9647-484F-8BB7-8A6CEB77A9BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135651",
+              "numeric-id": 135651
+            }
+          },
+          "hash": "b0af5b98269da3d8cf90e1c46e4fda6d3addb8ee",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135650$7C8F57CF-9166-49DA-BEC2-3BA0A76CE5BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135652",
+              "numeric-id": 135652
+            }
+          },
+          "hash": "37138f02f7479b4916ceb51803cd99c5e13b7d6c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135650$115E5661-3EEE-4F84-83C1-482CE7498669",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135509",
+              "numeric-id": 135509
+            }
+          },
+          "hash": "adb9bd9cf67034612d1f5f8adee8c814c02a97a3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135650$1CA3E4AD-AE0E-4942-82A4-8A3401612546",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135650$1DE09C05-3465-4365-9491-85E2466021CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135650$6067CF72-4FF5-4074-9C55-C5F7D52A43FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135780",
+              "numeric-id": 135780
+            }
+          },
+          "hash": "e999a78f37e69b7c71fa26b1a0ff1565408d0d70",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135650$A14A35BE-F952-4FA6-82FB-71CDCC5AF24D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135650$0BDD1E86-38AE-4667-88F4-06C63D4004B7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135650$C73470C9-6C51-4499-BF62-BAD12048D61E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0410-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a7d464f95607812f3d592c193da8edb32b68645a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135650$2CA696B1-FBE2-4DDD-B643-4623E5D695ED",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3143661"
+          },
+          "hash": "2da10a3f3812f8f5b990f6971b652423c334066f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q135650$2C668304-4DEF-41ED-91DC-30CE6E0A86A8",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Hydarnes III"
+          },
+          "hash": "0d0911d0a94a3fd58f0c8f9697ae9e5695ca2da6",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135650$7B820E4A-AA73-47B3-B2F6-D717957C3CF3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hydarnes III Arms.svg"
+          },
+          "hash": "8b09141fe8bb995d7bcaa9c672f5c17ad621f07f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Satrap, Schwiegervater des Großkönigs Artaxerxes II."
+    },
+    "en": {
+      "language": "en",
+      "value": "father of Stateira, Late 5th-century BC Persian nobleman"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه ارمنستان از دودمان یرواندی که در میانه سده ۵ پ.م."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "satrape d'Arménie de la dynastie des Orontides"
+    }
+  },
+  "id": "Q135650",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "اۆچونجو هیدرانس"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hidarnes III"
+    },
+    "de": {
+      "language": "de",
+      "value": "Idernes"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hydarnes III"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ویدرنه سوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hydarnès III"
+    },
+    "he": {
+      "language": "he",
+      "value": "הידרנס השלישי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Hidarn (armenski satrap)"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հիդարնես Գ"
+    },
+    "it": {
+      "language": "it",
+      "value": "Idarne III"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჰიდარნეს III"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Hydarnes III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hidarnes III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hidarnes III"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hidarnes III"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гидарн (отец Статиры)"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Hidarn (armenski satrap)"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Hidarnes III"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "III. Hydarnes"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "海达尔尼斯三世"
+    }
+  },
+  "lastrevid": 17551915,
+  "modified": "2025-09-17T10:30:01Z",
+  "ns": 860,
+  "pageid": 164035,
+  "sitelinks": {},
+  "title": "Item:Q135650",
+  "type": "item"
+}

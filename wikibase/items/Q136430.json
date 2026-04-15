@@ -1,0 +1,611 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Berenice IV of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136430$D2974C27-6E05-4211-BCD1-093C36D95007",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736314"
+          },
+          "hash": "721c1e3bac399e54f13da6f3dbb81418ed923996",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136430$92A3A4F2-68A2-4BDD-A1BF-CC0E573991F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136430$BA1FA059-F1E7-44E5-BFDC-CA796A9C96A1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136430$4F31547D-7213-4C4F-8247-F1D59A8F0AB8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Berenice_IV_of_Egypt_(1)"
+          },
+          "hash": "4b1c090d0c6b0038910d5445c1511155fa382c5f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136430$D61C7273-A554-48CC-AF3F-C135A8306F45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136161",
+              "numeric-id": 136161
+            }
+          },
+          "hash": "f8399f0152479a7194d0e07ecbd15971629e4489",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136430$D9549DB0-8B9B-4B1D-9DC8-9A9583F54DBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136745",
+              "numeric-id": 136745
+            }
+          },
+          "hash": "42cb9c7ae24507ec8770dd67886e3c6aacf6b2df",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136430$81834304-ED3C-4FBD-96D0-4A3BA66F631B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78612",
+              "numeric-id": 78612
+            }
+          },
+          "hash": "3d81f9d00f5d6196cdfd9026ddd2f6402fb3883c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136430$AD13FB5F-AA60-4AA0-8C01-1E906C78CD42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78609",
+              "numeric-id": 78609
+            }
+          },
+          "hash": "22126569fdef1f8df6ff8337dc18bd4672cb51a9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136430$6C28A49C-FD3B-4A56-85EE-C93B7F245B02",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136430$952F5E11-632B-477B-94F3-C0211F560197",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0077-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16fb33fabb9b64237a99e1b925eaa41302740d63",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136430$2039BAAE-7244-4D85-9164-512698DEBD74",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0055-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "de8f023d9f63bb185aee09065cd59d860a8744fc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136430$EFB40F5B-815B-4854-9E71-BB3B316E2EE0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q40022"
+          },
+          "hash": "d4fb2c068127ad9e448d257affbd5fd45aa5d8c2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136430$7CAB2D0E-4C18-45C0-AFF1-DCBD069EED1B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Berenice IV of Egypt Arms.svg"
+          },
+          "hash": "8c3e76265343cc3fe7923379193cc83f64992488",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملكة مقدونية"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "египетска царица"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "reina d'Egipte de la dinastia Ptolomeu"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herrscherin über Ägypten"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemaic dynasty queen regnant"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Ptolemaic Egyptian queen (77–55 BC)"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Ptolemaic Egyptian queen (77–55 BC)"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Ptolemaic Egyptian queen (77–55 BC)ueen of Egypt and Ptolemaic Princess"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina de Egipto"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ملکه مصر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Egyptin kuningatar"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse de la dynastie lagide"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Thok-le̍t-me̍t vòng chêu ke âi-khi̍p ńg-vòng"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכת מצרים"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi királynő (i. e. 58–55)"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ratu Mesir"
+    },
+    "it": {
+      "language": "it",
+      "value": "regina egiziana"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Thok-le̍k-bi̍t ông tiâu ê Ai-ki̍p Lú-ông"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politica uit Macedonisch Egypte en Ptolemeïsche rijk (77v Chr-55v Chr)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Princesa Ptolemaica"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rainha do Egito, Princesa Ptolemaica"
+    },
+    "si": {
+      "language": "si",
+      "value": "ඊජිප්තුවේ රැජින"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "ptolemajska kraljica vladarka"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "托勒密王朝嘅埃及女王"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托勒密埃及女王（公元前77—55年）"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "托勒密王朝的埃及女王（西元前77—55年）"
+    }
+  },
+  "id": "Q136430",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Berenike IV"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "برينيكي الرابعة"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "برينيكى الرابعه"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Berenice IV d'Exiptu"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "دؤردونجو برنیس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Бераніка IV"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Береника IV"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Berenice IV"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Bereniké IV."
+    },
+    "da": {
+      "language": "da",
+      "value": "Berenike IV"
+    },
+    "de": {
+      "language": "de",
+      "value": "Berenike IV."
+    },
+    "el": {
+      "language": "el",
+      "value": "Βερενίκη Δ΄ της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Berenice IV of Egypt"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Berenice IV of Egypt"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Berenice IV of Egypt"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Berenice IV of Egypt"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Berenico la 4-a de Egiptio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Berenice IV de Egipto"
+    },
+    "et": {
+      "language": "et",
+      "value": "Berenike IV"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Berenize IV.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "برنیس چهارم مصر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Berenike IV"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Bérénice IV"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Berenice IV na hÉigipte"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Βερενίκη Δ΄"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Pi-le̍t-nì-kî 4 sṳ"
+    },
+    "he": {
+      "language": "he",
+      "value": "ברניקי הרביעית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. Bereniké"
+    },
+    "id": {
+      "language": "id",
+      "value": "Berenike IV dari Mesir"
+    },
+    "is": {
+      "language": "is",
+      "value": "Bereníke 4."
+    },
+    "it": {
+      "language": "it",
+      "value": "Berenice IV"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ベレニケ4世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ბერენიკა IV"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "베레니케 4세"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Berenikė IV"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Berenike IV"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Vereniki 4-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Berenike IV av Egypt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Berenice IV"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Berenika IV"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Berenice IV"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Berenice IV"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Veronica IV a Egiptului"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Береника IV"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Berenika IV od Egipta"
+    },
+    "si": {
+      "language": "si",
+      "value": "ඊජිප්තුවේ IVවන බෙරෙනිස්"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Berenika IV. Egipčanska"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Береника IV"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Berenike IV"
+    },
+    "th": {
+      "language": "th",
+      "value": "เบเรนิซที่ 4"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Береніка IV"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Berenice IV của Ai Cập"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Berenice 4k ilẹ̀ Ẹ́gíptì"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "貝勒尼基四世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "貝勒尼基四世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "貝勒尼基四世"
+    }
+  },
+  "lastrevid": 17553093,
+  "modified": "2025-09-17T10:47:01Z",
+  "ns": 860,
+  "pageid": 164815,
+  "sitelinks": {},
+  "title": "Item:Q136430",
+  "type": "item"
+}

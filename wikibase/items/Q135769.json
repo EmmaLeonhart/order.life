@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philippus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135769$62D5EE6E-065B-4058-AD96-6C0E3244BA88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737724"
+          },
+          "hash": "92c54cc2e04b3e1dd7a8000044e5c1a386d3fbd8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135769$CAFBD7BB-DAE5-471C-B55B-2B76280424EF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135769$F29190F8-D0BE-45D5-BF77-7276C7D8B1C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135769$DEB7833F-C749-41FA-BD37-6C9944B3DF14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135629",
+              "numeric-id": 135629
+            }
+          },
+          "hash": "e8549db142ebecfa3f54a8b77177170ba980a93e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135769$E16546B4-42AB-48E4-8DA5-52082B8869BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135769$00A99078-554A-4C40-B526-C15F7725F4AA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4357331"
+          },
+          "hash": "31e2e03fd2c2998ea364312df6b61bcef9f90af7",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135769$77A8C65A-74B3-4BEE-9CF4-1025EF0B708A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philippus Arms.svg"
+          },
+          "hash": "e060e0069d6f222ce580b59b1a9250911301801b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "γιος του βασιλιά Φιλίππου Ε΄ και αδελφός του τελευταίου βασιλιά της χώρας, του Περσέα"
+    },
+    "en": {
+      "language": "en",
+      "value": "2nd-century Prince of Macedon"
+    },
+    "es": {
+      "language": "es",
+      "value": "hijo de Filipo V de Macedonia y hermanastro de Perseo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils de Philippe V de Macédoine et demi-frère de Persée"
+    },
+    "he": {
+      "language": "he",
+      "value": "בנו של פיליפוס החמישי מלך מאקדוניה"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Filippo V di Macedonia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "македонский царевич из династии Антигонидов"
+    }
+  },
+  "id": "Q135769",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Филип"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Filip"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιππος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philippus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Filipo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippe"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיליפוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Filippo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Philippus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филипп"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Філіпп"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Philippus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "腓力 (腓力五世之子)"
+    }
+  },
+  "lastrevid": 17552101,
+  "modified": "2025-09-17T10:32:39Z",
+  "ns": 860,
+  "pageid": 164154,
+  "sitelinks": {},
+  "title": "Item:Q135769",
+  "type": "item"
+}

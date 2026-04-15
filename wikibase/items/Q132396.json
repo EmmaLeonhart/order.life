@@ -1,0 +1,554 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Semele"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q132396$33E4B659-04C6-4974-9D3C-2ED4A59A13BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "288755"
+          },
+          "hash": "45e748e744e6eeadd80f57556522421c1b225971",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q132396$16C4DA2E-25B0-4235-8242-B216A660BE9A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131152",
+              "numeric-id": 131152
+            }
+          },
+          "hash": "3bfbd4c1f5b9a2cc8ca68b7a0f70c0c770f3a174",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132396$519AD725-F13B-444A-B783-9C103B2472DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133260",
+              "numeric-id": 133260
+            }
+          },
+          "hash": "6467eb7b35f7b5a19bdf8cf9f9e11422adba1382",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q132396$75370A2F-7521-4245-8FDD-454226F9DB94",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132396$D1F40B1F-FFBB-42F7-9B5E-1A51995555B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132396$ADA12729-D53B-4EE5-A5D4-1456D18D6343",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74656",
+              "numeric-id": 74656
+            }
+          },
+          "hash": "b9f6425dd4f87f09031ab208bb978f9c28846359",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132396$9DCC01CC-60DB-4780-B7CF-E8E67723C835",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132032",
+              "numeric-id": 132032
+            }
+          },
+          "hash": "2e9b1a66ede57db799792793851a430eb48d7fe9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132396$305ADCE0-15D2-4F5B-8011-3E11C5B5B1C3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132702",
+              "numeric-id": 132702
+            }
+          },
+          "hash": "8e8aa120a1a45467e04ce24f71eb06fc4826aa4b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132396$D3F52EEF-287F-4210-8934-C82215AA4FAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131458",
+              "numeric-id": 131458
+            }
+          },
+          "hash": "07985da1746564f21e87a143afa4306b150e92ed",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132396$E46076AD-C4C5-4F8D-A9D9-F478D493FB4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132396$9FF2E98E-5BFE-4BE3-BDD3-16F81C3FAB2A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q776139"
+          },
+          "hash": "2b0c50bc77c1c02bdcf45ba4f49377d3923123ae",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132396$49E2CF5B-C59C-4604-8DC2-6DED592C00E0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Semele Arms.svg"
+          },
+          "hash": "3a81591fd442a615ae65aeee49338cfb88fa4c0d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "postava řecké mytologie, dcera thébského krále"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "mother of Dionysus in Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje mitológico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "personaxe mitolóxico grego, nai de Dioniso"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמו של דיוניסוס מזאוס במיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "királylány a görög mitológiában"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlia di Cadmo e Armonia e madre di Dioniso da Zeus"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話に登場する女性"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Di mîtolojiya yewnanî de lehengek"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "griichesch Gëttin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Moeder van Dionysos in de Griekse mythologie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "bogini z mitologii greckiej"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "personaj din mitologia greacă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "pirsunaggiu dâ mituluggìa greca"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Dionizova mati v grški mitologiji"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde Trakya kökenli yeraltı tanrıçası"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "персонаж давньогрецької міфології"
+    }
+  },
+  "id": "Q132396",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سيميلي"
+    },
+    "az": {
+      "language": "az",
+      "value": "Semela"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Семела"
+    },
+    "br": {
+      "language": "br",
+      "value": "Semele"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sèmele"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Semelé"
+    },
+    "da": {
+      "language": "da",
+      "value": "Semele"
+    },
+    "de": {
+      "language": "de",
+      "value": "Semele"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σεμέλη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Semele"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Semela"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sémele"
+    },
+    "et": {
+      "language": "et",
+      "value": "Semele"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Semele"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سمله"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Semele"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sémélé"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Sémele"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Σεμέλη , Semelē"
+    },
+    "he": {
+      "language": "he",
+      "value": "סמלה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Semela"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Szemelé"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սեմելե"
+    },
+    "id": {
+      "language": "id",
+      "value": "Semele"
+    },
+    "it": {
+      "language": "it",
+      "value": "Semele"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セメレー"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სემელე"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "세멜레"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Semelê"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Semelê"
+    },
+    "la": {
+      "language": "la",
+      "value": "Semele"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Semele"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Semelė"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Semele"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Semele"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Semele"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Sémele"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Sêmele"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Semele"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Семела"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Simeli"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Semele"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Semela"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Semelé"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Semela"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Семела"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Semele"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "செமிலி"
+    },
+    "th": {
+      "language": "th",
+      "value": "ซีมีลี"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Semele"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Семела"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Semela"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Semele"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞墨勒"
+    }
+  },
+  "lastrevid": 17545742,
+  "modified": "2025-09-17T09:02:46Z",
+  "ns": 860,
+  "pageid": 160781,
+  "sitelinks": {},
+  "title": "Item:Q132396",
+  "type": "item"
+}

@@ -1,0 +1,404 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aroandes III (Orontes) King of Armenia"
+      },
+      {
+        "language": "en",
+        "value": "Aroandes (Orontes) III, King of Armenia"
+      },
+      {
+        "language": "en",
+        "value": "Orontes III"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73641$0FA2280F-FE4C-4646-A273-5E687137A8E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139828"
+          },
+          "hash": "148ee8bacfe874e7694f4edceb03ed914609521d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73641$C9CD7945-C5E1-47E0-B938-B921E9E74542",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736420"
+          },
+          "hash": "900a3018c89e54a8f76d4492046c9366aafb2417",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73641$A2493566-4990-4ABC-AA8D-DB83FEBA99BB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73509",
+              "numeric-id": 73509
+            }
+          },
+          "hash": "ee188e2b2bccfb6ee2c0c2cd547e0162971a7fe7",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73641$3E148C00-E4E7-4D9D-8145-541B2F4C6A18",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73641$850174B1-8850-4551-AAC5-5AEF175CDF24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73641$0473D10B-D787-4C88-BBC1-0084E40D4B77",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Orontes_III_(1)"
+          },
+          "hash": "7ac8bd3573cbe88c7a6da445aa5275d895210006",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73641$7E1894DE-21C1-4805-B32E-F66F567F5533",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73752",
+              "numeric-id": 73752
+            }
+          },
+          "hash": "044ebefa1499eb00e7cb5fb12fea9caadc5c7493",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73641$27F43BD2-DCC8-4E1D-9AF1-DF0D95CB8F99",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73641$1B6B74F7-9868-429A-B756-DE8E0C068236",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73641$B9D1D6EC-148A-4966-BF8A-B8DB4C07AED4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0260-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b759e7f5a58cca3bd092fbd5291b202d65fc47d1",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73641$1526E8B0-5BBE-4515-A4D1-C9C581F8DD9B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1342141"
+          },
+          "hash": "d409ea72c87ba58689305faa5a856e17ce5885a2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73641$C5E8E2F9-9060-46AC-A3CF-E8D1DCCE322F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006131491053"
+          },
+          "hash": "9ea757d5296224196da466fa851eae8121a2514a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73641$4E3E7F12-4397-4D78-AE5A-9543807A0B47",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Orontes III Arms.svg"
+          },
+          "hash": "919653fc50d00b5aa346bb5385122d83384b6e93",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "armenischer Satrap"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Armenia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Arménie"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Armenia"
+    }
+  },
+  "id": "Q73641",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "العاصى التالت"
+    },
+    "avk": {
+      "language": "avk",
+      "value": "Yervand III"
+    },
+    "be": {
+      "language": "be",
+      "value": "Ерванд III"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Orontes III"
+    },
+    "de": {
+      "language": "de",
+      "value": "Orontes III."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ορόντης Γ΄ της Αρμενίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Orontes III"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Orontes III"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Orontes III"
+    },
+    "es": {
+      "language": "es",
+      "value": "Orontes III"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "یرواند سوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Orontès III"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Երվանդ Գ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Orontes III"
+    },
+    "it": {
+      "language": "it",
+      "value": "Oronte III"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "オロンテス3世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "იერვანდ III"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Orontes III"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Orontes III"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Orontes III"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ерванд III"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "III. Orontes"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Єрванд III"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧龍特三世"
+    }
+  },
+  "lastrevid": 17486440,
+  "modified": "2025-09-16T18:48:58Z",
+  "ns": 860,
+  "pageid": 88472,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73641",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73641"
+    }
+  },
+  "title": "Item:Q73641",
+  "type": "item"
+}

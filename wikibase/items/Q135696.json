@@ -1,0 +1,344 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Darerca of Ireland"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135696$7060AA34-8612-4860-BFDF-3795B19DC0B9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "413108"
+          },
+          "hash": "5f4a7cd73c257a9268a7a43e0958eede6af1d452",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135696$2F1767B7-1F78-4AD9-A9E7-5130F3C7F2A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135697",
+              "numeric-id": 135697
+            }
+          },
+          "hash": "373485bc987e1a15573b9696664771b7cd3c95bc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135696$25104BDE-C919-42B0-A814-373D2ECE23BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135818",
+              "numeric-id": 135818
+            }
+          },
+          "hash": "3b9c6ae05634f63cf67fec4d80addf95b93e4e64",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135696$6FD18463-B07C-41B3-9120-B3E3B0BB2B5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135696$E8D0E252-967F-4FCD-BC22-F5C586F2701E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135696$EE2C1707-DEA1-4455-A0C7-AE6B77ECD004",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135556",
+              "numeric-id": 135556
+            }
+          },
+          "hash": "7a71719b7a7926881fa69b2efad50cede8454ee9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135696$017E0696-3992-4A3D-A589-B8E50DF293CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135817",
+              "numeric-id": 135817
+            }
+          },
+          "hash": "69f067d25de3e1ac86c8c066f2ed4a6ce34ab8d6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135696$70155BC7-FFBB-4581-94DF-B42CA18C135D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135696$6C9A3AA2-7A38-4AB5-BDB7-B4858B99074B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135696$B2596CAC-E548-46B8-BB86-F75F5960A76A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135696$EDFDE4A6-B380-4281-A1F0-B424C0E3AB0A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3016039"
+          },
+          "hash": "1141e42ffd309255861e25a3969b904a77d0b808",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135696$80BC52E6-091D-4046-A5BE-01F05E90C648",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Darerca of Ireland Arms.svg"
+          },
+          "hash": "4263d430470384daba426ecf7d5f80ca69432081",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Schwester des Heiligen Patrick"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sister of St. Patrick"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sœur de Saint Patrick"
+    },
+    "it": {
+      "language": "it",
+      "value": "santa irlandese, sorella di San Patrizio"
+    },
+    "la": {
+      "language": "la",
+      "value": "soror sancti Patricii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сестра святого Патрика; святая"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "sestra svetega Patrika"
+    }
+  },
+  "id": "Q135696",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Darerca"
+    },
+    "de": {
+      "language": "de",
+      "value": "Darerca von Irland"
+    },
+    "en": {
+      "language": "en",
+      "value": "Darerca of Ireland"
+    },
+    "es": {
+      "language": "es",
+      "value": "Darerca de Irlanda"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Darerka Irlandakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Darerca"
+    },
+    "it": {
+      "language": "it",
+      "value": "Darerca d'Irlanda"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "დარერკა ირლანდიელი"
+    },
+    "la": {
+      "language": "la",
+      "value": "Darerca"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Darerca van Ierland"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дарерка Ирландская"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Darerca Irska"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Дарерка"
+    }
+  },
+  "lastrevid": 17551987,
+  "modified": "2025-09-17T10:31:03Z",
+  "ns": 860,
+  "pageid": 164081,
+  "sitelinks": {},
+  "title": "Item:Q135696",
+  "type": "item"
+}

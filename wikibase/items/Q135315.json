@@ -1,0 +1,367 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Wehha of East Anglia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135315$5B02714D-98C4-4874-9185-9975F512EE00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "950566"
+          },
+          "hash": "c5e1c52c5e4db0c605f90f979c11ae9e2dcd60fc",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135315$7F3B0858-F6CD-4F61-BE3C-C6A5C8567758",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123742",
+              "numeric-id": 123742
+            }
+          },
+          "hash": "dc53fdcc5d5ac61bbec5a0b181f045864791b902",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135315$26C47DDA-CC9E-472E-88E8-8F9D91566584",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135315$6AD89BBC-CBF7-412A-82E3-8D98C7E0C091",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135315$663371F1-B079-4806-BA56-24ABA9EAE6C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wehha_of_East_Anglia_(1)"
+          },
+          "hash": "3de990eecfe7708b6d4050abb230e2164d7af20f",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135315$2C182EB7-9352-4C85-A1AE-C49B900EB70D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135242",
+              "numeric-id": 135242
+            }
+          },
+          "hash": "c1042fdd30410ed2e5f6a0b278135a616d071a55",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135315$E274F397-BB61-4946-89A5-B3711A271FCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135315$A353FAE5-46AD-46AF-8C85-8A27BA72C400",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135315$A1E1545D-FF2B-4FAD-83F3-93C810DFB48E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0541-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "045348e9da56abc1ef6549a54b59294cd235c27c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135315$EFF71F90-35F6-43EB-8237-B8D73E5CBD48",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q728080"
+          },
+          "hash": "60bda10358b5beda5eb271e3d1091f5ae989e117",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135315$AF411615-09E7-4522-B4C7-5542CECB318D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Wehha of East Anglia Arms.svg"
+          },
+          "hash": "00fdc0f56c273ff86d521aba37c68036793bb133",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ang": {
+      "language": "ang",
+      "value": "Eastengla cyning"
+    },
+    "de": {
+      "language": "de",
+      "value": "König des angelsächsischen Königreichs East Anglia"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of the East Angles"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi légendaire des Angles de l'Est"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "primeiro rei de Anglia Oriental, até 571"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "вождь англов"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "engelsk monark"
+    }
+  },
+  "id": "Q135315",
+  "labels": {
+    "ang": {
+      "language": "ang",
+      "value": "Wehha"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ويها من شرق انجليا"
+    },
+    "br": {
+      "language": "br",
+      "value": "Wehha East Anglia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Wehha"
+    },
+    "da": {
+      "language": "da",
+      "value": "Wehha af East Anglia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Wehha"
+    },
+    "en": {
+      "language": "en",
+      "value": "Wehha of East Anglia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Wehha de Estanglia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Wehha"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Wehha de Anglia Oriental"
+    },
+    "he": {
+      "language": "he",
+      "value": "והה, מלך מזרח אנגליה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Wehha dari Anglia Timur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Wehha dell'Anglia orientale"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ウェッハ (イースト・アングリア王)"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Vecha"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Wehha van East Anglia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wehha"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Wehha da Ânglia Oriental"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Wehha da Ânglia Oriental"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Вехха"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Wehha od Istočne Anglije"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Wehha av East Anglia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Вєхха"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "威哈"
+    }
+  },
+  "lastrevid": 17551350,
+  "modified": "2025-09-17T10:21:54Z",
+  "ns": 860,
+  "pageid": 163700,
+  "sitelinks": {},
+  "title": "Item:Q135315",
+  "type": "item"
+}

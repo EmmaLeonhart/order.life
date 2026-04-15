@@ -1,0 +1,333 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cadoc"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136266$62F794A8-6477-45A1-A2BD-7E472915FDCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136266$E51A3119-4E2B-486C-8961-CEA75A510573",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136266$608C1236-A12C-417A-B6D9-524462BC1CE1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136238",
+              "numeric-id": 136238
+            }
+          },
+          "hash": "1b70bc7dde849e621078a8a286bdf18f8c12c482",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136266$2293FF1C-9E75-4365-B6A2-79279FEA5A64",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136026",
+              "numeric-id": 136026
+            }
+          },
+          "hash": "fb0ea333e50f03fd6f7215776db2f1aa43411b80",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136266$3FFE9240-E652-491E-A70D-BE06593240C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136266$E8DCBE95-3607-4F90-A6C9-18F07BA5FD2D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0497-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0d9389d8ef7b9617bfe4348007bd03b632a83f76",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136266$CB8F82A4-26FB-4965-A540-D9A07B00137A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0580-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32c1311eacdbfdee03aff192260b5e23ddb3fb21",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136266$BD253919-16CC-42FB-91BB-276BF53AD995",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1889720"
+          },
+          "hash": "dc2c240131aba8eb6b0b4906e4a68ec699e8efaf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136266$32A9EB88-B4BC-41FD-9B01-109ABB21A022",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cadoc Arms.svg"
+          },
+          "hash": "84864270dca685ae1e34f89d203ecfefdd374124",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "monxu galés (600–580)"
+    },
+    "br": {
+      "language": "br",
+      "value": "sant brezhon"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "un o wŷr pennaf yr Eglwys Geltaidd yng Nghymru"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh saint"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Welsh saint"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "sanktulo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "saint gallois"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "naomh Breatnach"
+    },
+    "it": {
+      "language": "it",
+      "value": "abate e vescovo gallese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "monnik uit Wales (-580)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "święty Kościoła katolickiego"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Гвинлуга и Гливисинга; святой"
+    }
+  },
+  "id": "Q136266",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Kadog"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cadog"
+    },
+    "de": {
+      "language": "de",
+      "value": "Cadocus von Llancarfan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cadoc"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Cadoc"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Sankta Kadoko"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cadoc"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cado"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Cadog"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Cadoc"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cadog Ddoeth"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "聖カドク"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cadocus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cadoc"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kadok z Llancarvon"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cadoco"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кадок Мудрый"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cadoc"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Kadoko"
+    }
+  },
+  "lastrevid": 17552829,
+  "modified": "2025-09-17T10:43:05Z",
+  "ns": 860,
+  "pageid": 164651,
+  "sitelinks": {},
+  "title": "Item:Q136266",
+  "type": "item"
+}

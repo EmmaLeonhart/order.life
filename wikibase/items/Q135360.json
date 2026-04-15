@@ -1,0 +1,244 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Nicanor"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135360$1657F38F-A039-459E-8594-6FF537BEBCC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135360$0327DE33-D36F-4B7C-A2A9-50E162F93FB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135360$6F8C9CBB-8FC4-43DB-BCD3-324F62A8E968",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73830",
+              "numeric-id": 73830
+            }
+          },
+          "hash": "d05c4e291b09458740b54175d1bf1f9ab676ea93",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135360$ADA227E7-77A1-45BC-89B5-9399C58B1B89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135360$A36F0A1F-23C6-4913-B694-4AE5C0082DE2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135360$A0701A44-EC2D-4D70-A6C8-732EF82F21E1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0317-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1413edb6923f9707bd267a341c2204cb26a9a2ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135360$732A4C3D-71A3-4E7A-8980-E6E155E37640",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11938756"
+          },
+          "hash": "4de055579b0f56dbdca5ed8116331a01cbce2892",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135360$C252FE5C-D7AE-49CF-9A9F-50FA3DE7E9BC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Nicanor Arms.svg"
+          },
+          "hash": "c24d3ed8ebf186c9701e4681e9a06a7d3cd96c8e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "germà de Cassandre"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils d'Antipater, frère de Cassandre"
+    },
+    "it": {
+      "language": "it",
+      "value": "fratello di Cassandro"
+    }
+  },
+  "id": "Q135360",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Nicànor"
+    },
+    "da": {
+      "language": "da",
+      "value": "Nikanor"
+    },
+    "de": {
+      "language": "de",
+      "value": "Nikanor"
+    },
+    "el": {
+      "language": "el",
+      "value": "Νικάνωρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Nicanor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Nicanor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Nicanor"
+    },
+    "it": {
+      "language": "it",
+      "value": "Nicanore"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Никанор"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ніканор"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nicanor"
+    }
+  },
+  "lastrevid": 17551422,
+  "modified": "2025-09-17T10:22:57Z",
+  "ns": 860,
+  "pageid": 163745,
+  "sitelinks": {},
+  "title": "Item:Q135360",
+  "type": "item"
+}

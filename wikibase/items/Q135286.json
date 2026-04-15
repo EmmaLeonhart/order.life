@@ -1,0 +1,418 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Heracles of Macedon"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135286$4897B333-8351-4A00-8A95-336AF29B8679",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "452026"
+          },
+          "hash": "743355e75a71bb1abcbf1f8a482b603cd049d6a1",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135286$EA9B9458-5492-47E6-8AFF-85D694603BC8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135286$9A686489-D1EF-4FAF-83ED-81719F47B5D6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135286$B58DFBB8-2E8D-4061-8752-5313027CF050",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135223",
+              "numeric-id": 135223
+            }
+          },
+          "hash": "d5745c1d9904e2a24743d6a17f19103ef6f5659d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135286$92D9A881-9CAA-4D16-AF15-985D0336A5B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135326",
+              "numeric-id": 135326
+            }
+          },
+          "hash": "ec07da358df8f77b45c1f4c2254bb1439b61d57a",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135286$1CA30683-DA90-44AC-A6DE-B306E1467195",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135286$D7B0CBE5-5C62-4E8C-AC0B-1B261310869A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0327-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dc6a00dc1f0e138a71715f003b4b745d02c8efe3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135286$AD7AAF38-2E81-4511-91FC-0B8225535F70",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0309-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dd954e0994aeb948bfe7e062130e6579525fe55c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135286$634AF3D8-C289-4311-BFE1-309A8985F707",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q447770"
+          },
+          "hash": "f58996d3735bf8b8d32b7a82c3c6ae68d52daf99",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135286$3F01BE28-EA82-41C1-B9BD-7B26564F2C03",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Heracles of Macedon Arms.svg"
+          },
+          "hash": "cc3993a3e92a45c8f2492fb87e56991018debddc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ابن غير شرعي للإسكندر الأكبر"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "levoboček Alexandra Velikého"
+    },
+    "de": {
+      "language": "de",
+      "value": "unehelicher Sohn Alexanders des Großen"
+    },
+    "en": {
+      "language": "en",
+      "value": "illegitimate son of Alexander the Great"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "filo de Aleksandro la Granda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils illégitime d'Alexandre le Grand et de Barsine"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ալեքսանդր Մակեդոնացու որդին"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio illegittimo di Alessandro Magno e di Barsine"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "македонски принц, син на Александар III Македонски"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "påstått eller antatt illegitim sønn av Aleksander den store av kongeriket Makedonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "zoon van Alexander"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "син македонског краља Александра Великог"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "незаконний син Олександра Македонського"
+    }
+  },
+  "id": "Q135286",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هرقل المقدوني"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Hèracles de Macedònia"
+    },
+    "be": {
+      "language": "be",
+      "value": "Геракл"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Херакъл"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hèracles de Macedònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Héraklés Makedonský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Herakles"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ηρακλής ο Μακεδών"
+    },
+    "en": {
+      "language": "en",
+      "value": "Heracles of Macedon"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Heraklo de Makedonio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hercules de Macedonia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هراکلس مقدونی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Herakles"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Héraclès de Macédoine"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Heracles na Macadóine"
+    },
+    "he": {
+      "language": "he",
+      "value": "הרקולס ממקדוניה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Héraklész"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հերակլես Մակեդոնացի"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Հերաքլիս Մակետոնացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Herakles dari Makedonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eracle di Macedonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヘラクレス (アレクサンドロス3世の子)"
+    },
+    "la": {
+      "language": "la",
+      "value": "Heracles"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Херакле"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Herakles"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Heracles"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Héracles"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Héracles"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Геракл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Heraklo od Makedonije"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Херакле Македонски"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Herakles av Makedonien"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ҳеракл"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Makedonyalı Herakles"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Геракл"
+    }
+  },
+  "lastrevid": 17551304,
+  "modified": "2025-09-17T10:21:15Z",
+  "ns": 860,
+  "pageid": 163671,
+  "sitelinks": {},
+  "title": "Item:Q135286",
+  "type": "item"
+}

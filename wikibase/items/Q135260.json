@@ -1,0 +1,368 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ptolémaïs"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135260$6C8C5E70-91C1-4C15-825C-4B4DD574FB96",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736292"
+          },
+          "hash": "6e669f0eab9ab0136b820cb240e04d3e40c7c47f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135260$8E70BA72-4722-494D-B7B5-94A9F56CC80B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135346",
+              "numeric-id": 135346
+            }
+          },
+          "hash": "3254ef31575c86c83a78861fde5f4ea539f882ee",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135260$28E04A04-59DD-4F7B-A7AF-B7915BDAFF0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135260$95F927F7-C039-4EEF-BC5F-93EDF9673833",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135260$79CBE8EE-7023-48EE-A464-8439582FA1B7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73857",
+              "numeric-id": 73857
+            }
+          },
+          "hash": "aa68b073b2e2ac8b68c8bc2517c889a29aa5c493",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135260$5F1AF576-9CF5-4937-84E2-1B2D15BA2BFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73731",
+              "numeric-id": 73731
+            }
+          },
+          "hash": "b55c570b63169f39cf3c4bece05a5938b61b94b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135260$E0D7EDA4-25B4-43D7-8AA8-BBF167FAF44F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135253",
+              "numeric-id": 135253
+            }
+          },
+          "hash": "64098d762e38d95828e09f6c804855a336250846",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135260$D279E2A9-0ABB-4F32-9AEF-B8DF1BF2D12D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135260$F92ACCA6-E476-4864-BC7D-44FAE8835CCC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0357-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bd65bd6c803ecfdd5dcd1806d7bdebf51d89a17e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135260$7FD29585-E4D6-4225-99AF-C794E231C257",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q469070"
+          },
+          "hash": "29dec818657650ebcba2fb9a02395ecc4f7295ce",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135260$0741CC6F-AE1F-4192-A135-C49FC9642B17",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolémaïs Arms.svg"
+          },
+          "hash": "babca07b889d67ece43461d906cd048baad1c12d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "filla de Ptolemeu I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Ptolemaios I. von Ägypten, Ehefrau von Demetrios I. Poliorketes"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lagid princess; daughter of Ptolemy Soter, fifth wife of Demetrius Poliorcetes"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de Ptolomeo I Sóter"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse lagide"
+    },
+    "he": {
+      "language": "he",
+      "value": "בת תלמי הראשון ואשת דמטריוס פוליוקרטס"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlia di Tolomeo I, moglie di Demetrio I Poliorcete"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Македонская аристократка, египетская царевна"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Єгипетська принцеса"
+    }
+  },
+  "id": "Q135260",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Птолемая"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ptolemaida"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ptolemais"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ptolemais"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πτολεμαΐδα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolémaïs"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ptolemaida"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ptolémaïs"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Ptolémaïs"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πτολεμαῒς"
+    },
+    "he": {
+      "language": "he",
+      "value": "פתולמאיס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolemaide"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Ptolemaîda"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Ptolemaîda"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ptolémaïs"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ptolemais"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ptolemaida"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ptolemaida"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемаида"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ptolemaj"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ptolemais av Egypten"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Птолемаїда"
+    }
+  },
+  "lastrevid": 17551254,
+  "modified": "2025-09-17T10:20:33Z",
+  "ns": 860,
+  "pageid": 163645,
+  "sitelinks": {},
+  "title": "Item:Q135260",
+  "type": "item"
+}

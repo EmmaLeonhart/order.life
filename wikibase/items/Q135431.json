@@ -1,0 +1,382 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cleombrotus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135431$56594462-4594-4105-94AB-AFBD0681C212",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1028089"
+          },
+          "hash": "077ade3845e7dcac097bdc8a3b5bc80bc402a98a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135431$C742D0EE-2A25-4158-B2F9-55DF5AE7533B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135579",
+              "numeric-id": 135579
+            }
+          },
+          "hash": "b804af4a276b6a37e40a33648eba765bd7017fcf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135431$316F6E3D-F55B-4983-B5ED-B0B75A892682",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135578",
+              "numeric-id": 135578
+            }
+          },
+          "hash": "c24c2785eba55540c6c18e32034211c921b13a01",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135431$1A9FB372-57B3-4736-89CD-614C4CBB47A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135431$9FD0619A-2B21-4ACB-ADC0-4D82E7BF6D8F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135431$A3E1CEA3-D502-4CDD-BDAA-0B69DD2938DD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135577",
+              "numeric-id": 135577
+            }
+          },
+          "hash": "f631b8d5f8b86ee3cc3856403ed6255c7a194509",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135431$9F17D4E0-0541-4016-BCEA-FE56626EDC2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135318",
+              "numeric-id": 135318
+            }
+          },
+          "hash": "d5466e7e7d40559b50bdd513a1b663bb984b3b75",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135431$5431C2E6-F718-4B25-88FD-3AE61769E053",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135431$A2145A80-A09E-4A0D-8EDD-034C6C89E2A2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135431$B866B0A8-294F-4996-A1A1-DD702F6E7D24",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0480-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e10f0f13dbe5b8d590a556a5b722576a4a48cfe2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135431$555085CA-FC24-4B15-80EA-5E0D588148C1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q718102"
+          },
+          "hash": "a9d529e5209c8cd2a9eb41c4544d4b4295be2b60",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135431$BBFEDFF3-38C3-43D6-8376-B3CDD2D31BF5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cleombrotus Arms.svg"
+          },
+          "hash": "bf62b2ffc5d51193258fde18f9bdec0c4c1667a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "spartanischer Feldherr"
+    },
+    "en": {
+      "language": "en",
+      "value": "Regent of Sparta between 480 and 479 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "Regente de Esparta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "régent de Sparte"
+    },
+    "he": {
+      "language": "he",
+      "value": "עוצר ספרטה"
+    },
+    "it": {
+      "language": "it",
+      "value": "reggente di Sparta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "regent van Sparta"
+    }
+  },
+  "id": "Q135431",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "كليومبروتوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Клеомброт (регент)"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cleombrot d'Esparta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kleombrotus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kleombrotos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κλεόμβροτος (αντιβασιλιάς Σπάρτης)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cleombrotus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cleómbroto (regente)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cléombrote"
+    },
+    "he": {
+      "language": "he",
+      "value": "קלאומברוטוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Kleombrotosz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cleombroto"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "クレオンブロトス"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cleombrotus (regens Spartae)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cleombrotus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cleômbroto"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Cleômbroto"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клеомброт"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kleombrot"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kleombrotos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Cleombrotus (naip)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клеомброт"
+    }
+  },
+  "lastrevid": 17551550,
+  "modified": "2025-09-17T10:24:46Z",
+  "ns": 860,
+  "pageid": 163816,
+  "sitelinks": {},
+  "title": "Item:Q135431",
+  "type": "item"
+}

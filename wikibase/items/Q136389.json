@@ -1,0 +1,257 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Onela"
+      }
+    ]
+  },
+  "claims": {
+    "P3217": [
+      {
+        "id": "Q136389$3DAD7727-7A73-45EA-B95C-78D2237DBC08",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "5650"
+          },
+          "hash": "cbfcdf5d4a517ffb57be4bc5b2b9b418dea35487",
+          "property": "P3217",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136389$AE969611-7BD5-444B-9464-DADA6340061D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136389$CF55699C-AAE7-46B7-A127-CEC4FE0C0EBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136389$F1E7C986-369B-4EE8-A42A-60BA38CBD9D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136388",
+              "numeric-id": 136388
+            }
+          },
+          "hash": "c9594463461cdcecbf1505f5e1a74ccefc5b77a8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136389$C74ECDDC-D691-429E-AED3-791EBA7DE383",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136389$82A927CE-1B8E-4058-BD6B-C9E9998C20C9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0501-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b19cfb6a5691ddad6221f3e8e4d0ec2e8c01e8f5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136389$34A438CB-0214-46EA-BAAD-36B6FAF2A144",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2293179"
+          },
+          "hash": "2a4feed4b3a4fdc48161b02ad9c56b3698d54691",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136389$7BF99271-EB38-4264-B8A9-7434F70C0755",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Onela Arms.svg"
+          },
+          "hash": "edf3a0ec5f1bd338218e8ce2c86abfef4a138f3a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "semi-legendary Swedish king"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "semi-légendaire roi suédois"
+    },
+    "it": {
+      "language": "it",
+      "value": "re semi-mitologico sueone"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "um rei lendário da Suécia"
+    }
+  },
+  "id": "Q136389",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Onela"
+    },
+    "es": {
+      "language": "es",
+      "value": "Onela"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ali"
+    },
+    "it": {
+      "language": "it",
+      "value": "Onela"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഒനെല"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Ale den uppländske"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Åle av Uppland"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Onela"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ale"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ale"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Онела"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ale den uppländske"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Онела"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "奧尼拉"
+    }
+  },
+  "lastrevid": 17553039,
+  "modified": "2025-09-17T10:46:09Z",
+  "ns": 860,
+  "pageid": 164774,
+  "sitelinks": {},
+  "title": "Item:Q136389",
+  "type": "item"
+}

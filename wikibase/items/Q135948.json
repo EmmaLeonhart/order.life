@@ -1,0 +1,307 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Attalus of Pergamum"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135948$3FB8E242-67FF-4E67-A3EB-78552909B671",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736582"
+          },
+          "hash": "f9b9bcd41b5a30d9333cda8fffc1a21d153a3068",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135948$A59588E6-1FDE-4BB8-82B8-5C50D5D405A3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135949",
+              "numeric-id": 135949
+            }
+          },
+          "hash": "7129477db4c6757fdfe9c91d78bfc571faddeb12",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135948$49CB0C5D-9177-44BE-927B-198BD340C32D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135948$094C642C-1A72-479E-875F-BB9E9CBEE3D9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135948$A5F3DB6C-1FA4-4CEC-9CFC-FA64A5AB04FC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135775",
+              "numeric-id": 135775
+            }
+          },
+          "hash": "d5d2784ae745257d34cb0f87e33cde88582a6713",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135948$85475CA3-27AB-4915-AEC3-1DB2007932B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136192",
+              "numeric-id": 136192
+            }
+          },
+          "hash": "872ca2b2e5318dded5371a2b81dc7ee32c92f26c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135948$DD23612C-B67E-4D32-B8D8-31E406257604",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135948$CF6F41D1-9AB8-4B35-ABD2-3D11EED8F774",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135948$757030DB-57E3-4C87-AEAF-028FBD542660",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135948$577A39A0-2598-4BBE-823D-C10D80279E20",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q27979883"
+          },
+          "hash": "931b7e9071cc53e4a9fedb846464a50fd95ca304",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135948$DA48A579-CDDE-40DA-A441-105E1523D8D1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Attalus of Pergamum Arms.svg"
+          },
+          "hash": "32bb70c5e30034958c976901fc3011ffadbb3b79",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Familienmitglied der Dynastie der Attaliden, 270 v. Chr. mit Antiochis verheiratet, Vater von Attalos I."
+    },
+    "el": {
+      "language": "el",
+      "value": "αρχαίος Έλληνας ολυμπιονίκης, πατέρας του Αττάλου Α΄ της Περγάμου"
+    },
+    "en": {
+      "language": "en",
+      "value": "father of Attalus I of Pergamum"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "père d'Attale Ier"
+    },
+    "it": {
+      "language": "it",
+      "value": "padre di Attalo I"
+    }
+  },
+  "id": "Q135948",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Attalos von Pergamon"
+    },
+    "el": {
+      "language": "el",
+      "value": "Άτταλος του Φιλέταιρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Attalus of Pergamum"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Attale de Pergame"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἄτταλος"
+    },
+    "it": {
+      "language": "it",
+      "value": "Attalo di Pergamo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Attalus of Pergamum"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аттал (отец Аттала I)"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Attalos (Pergamon)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аттал Пергамський"
+    }
+  },
+  "lastrevid": 17552341,
+  "modified": "2025-09-17T10:36:09Z",
+  "ns": 860,
+  "pageid": 164333,
+  "sitelinks": {},
+  "title": "Item:Q135948",
+  "type": "item"
+}

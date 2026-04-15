@@ -1,0 +1,283 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Cuthred"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135988$1578016A-A8C8-4E9E-9D68-5CCAE9D49744",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "842620"
+          },
+          "hash": "7318bcebb9faadd55c636f764796e3054d75b7be",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q135988$20B95FA8-286D-4098-B9D4-1B81031C1557",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Prince_of_Wessex-12"
+          },
+          "hash": "5a70ecee52ed9330451c9aabc90ed7fe313dee27",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135988$AAEDAED3-C2DE-4744-AB8B-141009D138B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135988$8F2C7F68-A8EB-4D67-8778-98877968F952",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q135988$EF469D36-8DF8-4138-9DCB-453E1A0296E8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10268.htm#i102675"
+          },
+          "hash": "118bc6f5d8c83384b72afba888b890eb487a1cdd",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135988$943BE9AC-FD45-4EF4-943C-777464C0A8E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123780",
+              "numeric-id": 123780
+            }
+          },
+          "hash": "eeec025d7dbad30d1e9b7cae15181961a9207baf",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135988$9979394F-B51A-4B93-B11A-0729D1CDE2C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135988$F5524040-D3D7-4F47-8333-3A6772CBB682",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0700-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1df0d1f7be99978f9e1ad4f177d09a6b95941413",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135988$84C5D0F8-67C8-4DC4-B6C1-40CB5EAA39E8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0661-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8165058b5fbad7751b54194f4a0fc4756c46faad",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135988$5EC44BFD-9677-4940-9D8A-6DFDC1D65508",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1146468"
+          },
+          "hash": "0a3ced7245d5ba19188305b69ec1dc2f93920dbc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135988$9AC0718E-0072-4955-8124-852AB7222A2F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cuthred Arms.svg"
+          },
+          "hash": "b5e5945690bbd219a65d1e5e14e7d03dbd29b46e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Unterkönig in Wessex"
+    },
+    "en": {
+      "language": "en",
+      "value": "700-661"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils du roi Cwichelm de Wessex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "субкороль в Уэссексе"
+    }
+  },
+  "id": "Q135988",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Cuthred Cwichelming"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cuthred"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cuthred"
+    },
+    "it": {
+      "language": "it",
+      "value": "Cuthred Cwichelming"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cuthred Cwichelming"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кутред"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Cuthred"
+    }
+  },
+  "lastrevid": 17552413,
+  "modified": "2025-09-17T10:37:12Z",
+  "ns": 860,
+  "pageid": 164373,
+  "sitelinks": {},
+  "title": "Item:Q135988",
+  "type": "item"
+}

@@ -1,0 +1,491 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Stateira"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135283$07102CC2-2E10-4F5E-924F-333A204482EA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736566"
+          },
+          "hash": "ac07f4d9bdb0036a1d6f2fbef3117184375852e6",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135283$5BAF86E5-3401-409C-8253-5F83AFE3B195",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135283$FDED075B-9A65-4E39-A0EB-C8C65BB2B0FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135283$32A25A5A-3D74-449F-8DEF-0E7F6C1CA713",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135223",
+              "numeric-id": 135223
+            }
+          },
+          "hash": "aaa732b010eab50922d3ee5bc1a127e8d0f264d1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135283$0F49DB00-F9C9-4667-9058-B41FEA128827",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135298",
+              "numeric-id": 135298
+            }
+          },
+          "hash": "1f33f1f88e98294818d1d542c37ba08b2e6a0f8e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135283$5E1B883C-BB84-4478-88FE-C11F5CA0524A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135364",
+              "numeric-id": 135364
+            }
+          },
+          "hash": "36be7df3d22812afe839464bdb52c16d02235edc",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135283$CC1F2370-5DE3-4C8B-86E1-427B3E5F1426",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135283$BE452345-CB5C-4503-AC7C-9179B20A81F0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0346-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "16689f90c8ab6f799fb6d069f5fd6e136da10740",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135283$75322FD8-B36D-441E-B27B-7B526209BEA0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0323-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "132cf023505b28d21c6cda45194371bcb9fcd6ce",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135283$5103DC17-B4E9-4B1B-A73C-253991A7D89A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5429464"
+          },
+          "hash": "34c1a8f9fec9a92189a3ad9de82993274d3d26a6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135283$816E58FF-EEED-4B0D-95DE-DAE5EE84FCE9",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Stateira Arms.svg"
+          },
+          "hash": "481f57814226672c41920b5356fd17873c71e3c3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملكة فارسية ثم مقدونية"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "персийска принцеса"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "manželka Alexandra Velikého"
+    },
+    "de": {
+      "language": "de",
+      "value": "persische Prinzessin und Frau Alexanders des Großen"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Δαρείου Γ΄ και σύζυγος του Μεγάλου Αλεξάνδρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Daughter of Darius III, died 323 BC"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "persa princino kaj dua edzino de Aleksandro la Granda"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa de Alejandro Magno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fille de Darius III, femme d'Alexandre le Grand"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "એક રાણી"
+    },
+    "it": {
+      "language": "it",
+      "value": "principessa persiana, figlia di Dario III di Persia e moglie di Alessandro Magno"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "तिसऱ्या दारियसची मुलगी, 313 ई.स पूर्व मृत्यू"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "echtgenote van Alexander de Grote en dochter van Stateira I en Darius III"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "شہنشاہ فارس دارا سوم کی بیٹی اور سکندر اعظم مقدونی کی بیوی"
+    }
+  },
+  "id": "Q135283",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ستاتيرا الثانية"
+    },
+    "be": {
+      "language": "be",
+      "value": "Стаціра"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Статира"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "স্টেটেইরা (মহান আলেকজান্ডারের স্ত্রী)"
+    },
+    "br": {
+      "language": "br",
+      "value": "Stateira"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Barsina"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Stateira"
+    },
+    "de": {
+      "language": "de",
+      "value": "Stateira"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Stateira"
+    },
+    "el": {
+      "language": "el",
+      "value": "Στάτειρα Γ΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Stateira"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Stateira II"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Stateira II"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Statira la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Barsine-Estatira"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "استاتیرا (دختر داریوش سوم)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Statira"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Stateira"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Stateira"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Barsina"
+    },
+    "gu": {
+      "language": "gu",
+      "value": "સ્ટટેરા"
+    },
+    "he": {
+      "language": "he",
+      "value": "סטטירה השנייה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Stateira II."
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ստատիրա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Stateira II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Statira II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "スタテイラ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "სტატეირა II"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "스타테이라 2세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Stateira"
+    },
+    "mr": {
+      "language": "mr",
+      "value": "स्टटेरा, दरायस तिसरा याची पत्नी"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Stateira II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Statejra II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Estatira"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Estatira"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Stateira a II-a"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Статира"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Stateira II"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Статејра"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Stateira III"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Истотейро"
+    },
+    "th": {
+      "language": "th",
+      "value": "เจ้าหญิงบาร์ซิน"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Stateira (Büyük İskender'in karısı)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Статіра"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "استاتیرا (دختر دارا سوم)"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Stateira II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "斯妲特拉二世"
+    }
+  },
+  "lastrevid": 17551298,
+  "modified": "2025-09-17T10:21:09Z",
+  "ns": 860,
+  "pageid": 163668,
+  "sitelinks": {},
+  "title": "Item:Q135283",
+  "type": "item"
+}

@@ -1,0 +1,693 @@
+{
+  "aliases": {
+    "ar": [
+      {
+        "language": "ar",
+        "value": "کوروش"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Cyrus"
+      },
+      {
+        "language": "en",
+        "value": "کوروش"
+      },
+      {
+        "language": "en",
+        "value": "Cyrus I"
+      },
+      {
+        "language": "en",
+        "value": "قورش الأول  بن الملك تسيبس"
+      },
+      {
+        "language": "en",
+        "value": "Cyrus I, king of Anshan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q74407$91843CCC-86E0-43B4-9699-36413886F5E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "96053"
+          },
+          "hash": "714970de7d81bd6d5deff2806a90b666b6e1c2a0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q74407$2D7B1F62-64A3-4C15-AA2A-0EA3D518590B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736399"
+          },
+          "hash": "526e052826d6583173da450ec99382edd1b0f77e",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q74407$07ADB94A-8438-444A-81F4-C882454A30AD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74365",
+              "numeric-id": 74365
+            }
+          },
+          "hash": "b68bad87f087640cbee219faa945ae880c33e7a0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74407$0C40AAB3-5AC5-4D00-AAD8-13C649C7E9B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135375",
+              "numeric-id": 135375
+            }
+          },
+          "hash": "3a4b23682111e2fc3ea754578de0f5be7780f924",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3": [
+      {
+        "id": "Q74407$E452D41D-85B4-4AAE-9ACF-8EE5C4F8F3A1",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "قورش الأول"
+            }
+          },
+          "hash": "a2be5dfd1ca0e3dfca5d10abccd444c152e042b4",
+          "property": "P3",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q74407$EE931D86-CC1C-464D-98B1-106F4DC66DFD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74407$1F7391CC-2FB9-4A7E-839F-D684C1CFC7A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4": [
+      {
+        "id": "Q74407$10FAD657-33E5-46E1-84C3-ABBB9DA8055C",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "بن الملك تسيبس"
+            }
+          },
+          "hash": "d28d51546e1e2e6bf64da0199c90c28e8c4f6442",
+          "property": "P4",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q74407$D121FE05-9C7E-4B98-8BA8-EC47C36040A8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74368",
+              "numeric-id": 74368
+            }
+          },
+          "hash": "394267d9a671a4f697865a0f2f0a4218edf002f4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q74407$3E96C0C3-2F2C-499E-9462-0586A9161868",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74443",
+              "numeric-id": 74443
+            }
+          },
+          "hash": "70e9570812c0ee463461c8aa99429ff870860997",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q74407$973F12C8-76A6-487D-9298-F99DF51A7766",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135290",
+              "numeric-id": 135290
+            }
+          },
+          "hash": "ade57b1dbea940d037fbac33996144f4bdf069bf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P5": [
+      {
+        "id": "Q74407$9DCB1AA5-3B42-44EC-A5F0-AE02FD4048AE",
+        "mainsnak": {
+          "datatype": "monolingualtext",
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "قورش الأول /بن الملك تسيبس/"
+            }
+          },
+          "hash": "1ea64c28a4132fbe4a139dd05861a42bfa3b5bb2",
+          "property": "P5",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q74407$18A4C57B-8D68-4FF2-9B71-DBE064A457EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q74407$9541BEE5-197E-48A2-94B1-36EEC39E640E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0580-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "496bf87cb9acb4cb7533a327ed49d6417fccfa11",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q74407$A8BE91AE-0077-42B7-88E2-FD773A3582C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q295225"
+          },
+          "hash": "f9949f48f73e41f607b7ecaf4f650a2ec44d5dde",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q74407$B7E6486B-CA7A-4780-B5F9-87B7295B99CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000003645847827"
+          },
+          "hash": "c3a27bf1718cc67d618d6d9d59796f0f781cd37f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q74407$709280C2-5A05-4E3A-B0F6-8E0D4F45BE66",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000007178121265"
+          },
+          "hash": "871ea04cc55ab09b4f10125111c3e832daab374e",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q74407$CA3A92EB-2C65-418B-85A9-58A5B2C2B9A5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Cyrus I Arms.svg"
+          },
+          "hash": "2883d3c85264ea815ff7acc0e0f0c8006b8668ed",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "perský král"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin o Persia"
+    },
+    "de": {
+      "language": "de",
+      "value": "vierter König des altpersischen Achämenidenreichs"
+    },
+    "en": {
+      "language": "en",
+      "value": "The third king of the Achaemenid kingdom (625–580 BC)"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Persian King"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سومین پادشاه پادشاهی هخامنشی (۶۲۵–۵۸۰ پ.م)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi perse"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך אנשאן"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "lehetséges perzsa uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "raja kota Anshan, Persia"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano persiano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Anshan (-580v Chr)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ahameniş Hanedanı'nın bilinen ilk yöneticisi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар персів"
+    }
+  },
+  "id": "Q74407",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "قورش الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "قورش الاول"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی کوروش"
+    },
+    "be": {
+      "language": "be",
+      "value": "Кір I"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Кір I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Кир I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cir I d'Anxan"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Kýros I."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Cyrus I"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kyros I."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Kyros I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Κύρος Α’ της Περσίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Cyrus I"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Cyrus I"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Cyrus I"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Cyrus I"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ciro la 1-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ciro I"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ziro I.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کوروش یکم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cyrus Ier"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ciro I"
+    },
+    "he": {
+      "language": "he",
+      "value": "כורש הראשון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kir I."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Kurus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Koresh I"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ciro I di Persia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "キュロス1世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "კიროს I ანშანელი"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Kyras I"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Kirosy I"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Cyrus I"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "کوروش اول"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kyros I av Anshan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Cyrus I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Cyrus I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ciro I da Pérsia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ciro I"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Cyrus I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кир I Аншанский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kir I od Anšana"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kir I."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Кир I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kyros I"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "முதலாம் சைரஸ்"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Куруши I"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "I. Kiros"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кір I Аншанський"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "کورش اول"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Kir I"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Cyrus I"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "居鲁士一世"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "居鲁士一世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "居鲁士一世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "居鲁士一世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "居魯士一世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "居魯士一世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "居鲁士一世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "居魯士一世"
+    }
+  },
+  "lastrevid": 17487324,
+  "modified": "2025-09-16T19:01:21Z",
+  "ns": 860,
+  "pageid": 89238,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q74407",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q74407"
+    }
+  },
+  "title": "Item:Q74407",
+  "type": "item"
+}

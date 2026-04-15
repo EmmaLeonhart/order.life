@@ -1,0 +1,358 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Teres I"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135165$1C9A8902-4AAB-42C3-849B-5CA0E16D90C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135203",
+              "numeric-id": 135203
+            }
+          },
+          "hash": "50b57cd24dce571bb2e98a722c16131f3ef3c6f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135165$ABCC98E3-C952-4167-AE91-F4200F54A478",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135166",
+              "numeric-id": 135166
+            }
+          },
+          "hash": "7a2f95ddcdc13e0b15d082df1361d84d8274839e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135165$AB7BD7D4-8C2E-4A92-B6E8-6ED04C080466",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135135",
+              "numeric-id": 135135
+            }
+          },
+          "hash": "8b6f7b66c6edddee95e5e984119aefdf780d2fbe",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135165$945D8B3E-1D4C-4B3E-A1E9-7CD8D0388955",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135165$E6B5633D-0D51-41A7-9D06-851055EF5034",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135165$6BE01055-1C19-4E2A-A46D-CE71F1AF1581",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135165$7FE5F0F9-EDD5-43BD-98F1-B33C6B0D45DD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0445-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "600c49c8d41a8f4b91d8ba44240d8f1c52b6613e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135165$62E5B8D9-0C1D-438E-A5E2-1DF4E3B213B3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1172765"
+          },
+          "hash": "fd2468f53ea126020f56130a31d43a3a8388cf2c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135165$6B898142-331F-4D47-ADCD-64BDFF26C846",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Teres I Arms.svg"
+          },
+          "hash": "1886d1a402709cacc71509aeaf84ddc5af3c1e36",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "одриски цар"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "první král Odryského království"
+    },
+    "en": {
+      "language": "en",
+      "value": "first king of Odrysian state"
+    },
+    "it": {
+      "language": "it",
+      "value": "1º re degli Odrisi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Odrysische koninkrijk (-445v Chr)"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Primul rege al Regatului Odris (fiind rege de la 470 până la 440 î. Hr.)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь одризов"
+    }
+  },
+  "id": "Q135165",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "تيريس الاول"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Терес I"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Teres I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Teres I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Τήρης Α΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Teres I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teres I"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ترس یکم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Térès Ier"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Τήρης"
+    },
+    "he": {
+      "language": "he",
+      "value": "טרס הראשון, מלך אודירסה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teres I"
+    },
+    "kk": {
+      "language": "kk",
+      "value": "Терес"
+    },
+    "kk-arab": {
+      "language": "kk-arab",
+      "value": "تەرەس"
+    },
+    "kk-cyrl": {
+      "language": "kk-cyrl",
+      "value": "Терес"
+    },
+    "kk-latn": {
+      "language": "kk-latn",
+      "value": "Teres"
+    },
+    "ky": {
+      "language": "ky",
+      "value": "Терес"
+    },
+    "la": {
+      "language": "la",
+      "value": "Teres I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Teres I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teres I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teres I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teres I"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Teres I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Терес"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Teres"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Teres I."
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Терес I"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Терес I"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Teres I"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Teres I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Терес I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "特雷斯一世"
+    }
+  },
+  "lastrevid": 17551082,
+  "modified": "2025-09-17T10:18:06Z",
+  "ns": 860,
+  "pageid": 163550,
+  "sitelinks": {},
+  "title": "Item:Q135165",
+  "type": "item"
+}

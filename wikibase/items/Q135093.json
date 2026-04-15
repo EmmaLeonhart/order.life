@@ -1,0 +1,369 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mattan I"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135093$BD898A78-1EE3-4DED-88B1-66713E60AB6F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "440568"
+          },
+          "hash": "3b1211eca8e33fb1a72c3896f5bbab697a44a2da",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135093$433414C8-59F0-4896-826E-7A58D5DA5120",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135118",
+              "numeric-id": 135118
+            }
+          },
+          "hash": "57d046179bbfa2b5cbf9b1899cec3dc70ec3a248",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135093$F01562EA-B23A-4B5E-99A4-D4461CA2244A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135119",
+              "numeric-id": 135119
+            }
+          },
+          "hash": "79446b21e60c658f8e713a44fc6276d2d497da2a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135093$C7BEEE67-B8A5-4E95-AF56-5091E8EB908D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135093$EC7F3CF2-F9A3-49E2-B743-EB622876E93B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135093$82474B12-F7C0-4655-B693-03FE7B83A757",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135065",
+              "numeric-id": 135065
+            }
+          },
+          "hash": "3e75eab4fe65a7eb14a50bd894f3944a4ee700f3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135093$56DCBCD0-C467-485A-8D1D-1F8BC97E3035",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135093$D991F416-9F0C-43E8-82B6-4BB2EBDE1777",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0864-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c87e0e78416888aad4afd495ed2547bdac18ee77",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135093$B29CC85E-FD35-46F5-BC6C-7ACF6C4B5FE8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0900-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "03bd423e5964d2e9339bfa3495c7d90af695a4a8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135093$67D0BF43-E227-451A-812C-EC1AB7101943",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888557"
+          },
+          "hash": "b330f230f5d768cdfed542a4143727a5d7882992",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135093$01AEEC0C-9491-4009-9C4F-E6DB1872938B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mattan I Arms.svg"
+          },
+          "hash": "7eaa215944f3d094d4b2e83a0986c2bf46b0ec98",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "Rei de Tir"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Tyros und Sidon"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Tyre"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Tiro"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך צור"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Tiro e di Sidone"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Тира, отец Пигмалиона и Элиссы"
+    }
+  },
+  "id": "Q135093",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ماتان الأول"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Matán I"
+    },
+    "be": {
+      "language": "be",
+      "value": "Матан I"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Муто"
+    },
+    "br": {
+      "language": "br",
+      "value": "Mattan Iañ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mattan I"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Mutton I."
+    },
+    "de": {
+      "language": "de",
+      "value": "Mattan I."
+    },
+    "en": {
+      "language": "en",
+      "value": "Mattan I"
+    },
+    "es": {
+      "language": "es",
+      "value": "Matán I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mattan Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "מתן הראשון"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mattan I"
+    },
+    "it": {
+      "language": "it",
+      "value": "Metten I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mattan I"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mattan I"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Mattan I"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Mattan I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Маттан I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Mattan I"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Mattan I"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Маттан I"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "مٹن اول"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Mattan I"
+    }
+  },
+  "lastrevid": 17550948,
+  "modified": "2025-09-17T10:16:12Z",
+  "ns": 860,
+  "pageid": 163478,
+  "sitelinks": {},
+  "title": "Item:Q135093",
+  "type": "item"
+}

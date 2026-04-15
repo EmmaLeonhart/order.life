@@ -1,0 +1,353 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ariamnes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136757$9B219498-0C10-4F57-8AA2-EAE15B5AF4FC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736454"
+          },
+          "hash": "ff04fd837a54711acb66b4484098d09694a7b685",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136757$C9DDD550-96EF-413C-9311-E3A27C9AB5AC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136439",
+              "numeric-id": 136439
+            }
+          },
+          "hash": "0ae61e8c7e594e3b5f3d2cc568625798c921a4f8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136757$BBBA34E3-084E-4719-8180-84501DE6BA3E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137176",
+              "numeric-id": 137176
+            }
+          },
+          "hash": "dc24a1263b1b5be802630696cc84bd99e545bcc5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136757$1728395F-EB1C-4CCF-B0B8-029ED1315CDE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136757$3656E4F3-FE14-4B18-A3B7-A996810CB721",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136757$53F0D6D3-CBDF-4CCE-B86C-286646390555",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137175",
+              "numeric-id": 137175
+            }
+          },
+          "hash": "8703d8e02f4668142841caa0557c5ea814275bc0",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136757$990BFBD8-E1D7-4BD7-931C-CC706B90EAB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136757$60574796-6228-4AC1-8ED8-21FF698AF72F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136757$8C5CF028-B242-4F60-89B1-54EDD7DBB425",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136757$F771595E-8052-412E-87FD-C64CF435062C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q168186"
+          },
+          "hash": "4fd033135cc68735149803c3fb84d5fe40d379c8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136757$ED68AA2F-5331-4E5B-82E6-B5E80A41C962",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ariamnes Arms.svg"
+          },
+          "hash": "82b45829c2737e342541bc92e8439f3a4ae1b4f9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "persischer Satrap"
+    },
+    "en": {
+      "language": "en",
+      "value": "4th-century BC satrap of Cappadocia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "satrape de Cappadoce"
+    },
+    "it": {
+      "language": "it",
+      "value": "satrapo di Cappadocia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сатрап Каппадокии"
+    }
+  },
+  "id": "Q136757",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "اريامنيس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арыямн"
+    },
+    "br": {
+      "language": "br",
+      "value": "Ariamnes"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ariamnes II"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ariamnes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ariamnes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριάμνης Α΄ της Καππαδοκίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ariamnes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ariamnes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آریامن (ساتراپ کاپادوکیه)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ariamne Ier"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Ariamnes I de Capadocia"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀριάμνης"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Arijamn"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ariamne I di Cappadocia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ariamnes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ariaramnes I"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ариамн"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arijamno"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ariamnes"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ariamnes"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿里亚美尼斯"
+    }
+  },
+  "lastrevid": 17553617,
+  "modified": "2025-09-17T10:54:30Z",
+  "ns": 860,
+  "pageid": 165142,
+  "sitelinks": {},
+  "title": "Item:Q136757",
+  "type": "item"
+}

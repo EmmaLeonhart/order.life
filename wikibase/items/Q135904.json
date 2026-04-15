@@ -1,0 +1,265 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aristodemus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135904$09096FFF-2214-4D8E-B546-51F131794402",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1266714"
+          },
+          "hash": "ffe006c0b19b5d21d25380a863936e6e81084f2f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135904$FCCF20AD-D40D-481D-B850-19574E0F22E1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135904$1230BE08-AE8E-496E-A652-C82A36432D42",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135904$B00B12A9-0A97-4401-9CE6-D0B194BF8C4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135735",
+              "numeric-id": 135735
+            }
+          },
+          "hash": "c41ebd4aadf8f0ebf483881ad960a380a1f7adea",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135904$9D4EAA90-A70B-4C1C-A8E2-589BB0614544",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135904$2E62DD92-C502-4B9D-A938-E3E9A90986E2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135904$D910B51D-58BB-42D0-A572-AEF1E8BDF307",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135904$9956837A-587A-4DB6-8B0B-071FB45A012D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q15633620"
+          },
+          "hash": "55108d410ca1e62adb4cc1d19816cfe36c2b900a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135904$011EA94D-9A59-467E-B83B-C1995CCE2082",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aristodemus Arms.svg"
+          },
+          "hash": "3308bc30c561a6f44d067023e2a4cbc472cdd462",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "spartanischer Heerführer"
+    },
+    "en": {
+      "language": "en",
+      "value": "Spartan regent"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "militaire spartiate"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Plistoanatte"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "officier"
+    }
+  },
+  "id": "Q135904",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Aristodemos"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aristodemus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aristodemo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aristodémos"
+    },
+    "he": {
+      "language": "he",
+      "value": "אריסטודמוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aristodemo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アリストデモス (スパルタ王族)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aristodemus van Sparta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аристодем"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арістодем"
+    }
+  },
+  "lastrevid": 17552277,
+  "modified": "2025-09-17T10:35:14Z",
+  "ns": 860,
+  "pageid": 164289,
+  "sitelinks": {},
+  "title": "Item:Q135904",
+  "type": "item"
+}

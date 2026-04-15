@@ -1,0 +1,576 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Amaziah of Judah"
+      },
+      {
+        "language": "en",
+        "value": "Amaziah King of Judah"
+      },
+      {
+        "language": "en",
+        "value": "Amaziah  King of Judah"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135047$6929B0D3-864F-4D88-9416-F1D97611100E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "79445|174167"
+          },
+          "hash": "97dc1e58a7437457565d833789f6120feb1b0627",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135047$43B79B78-40FB-47E5-B4B8-DB24ADE7AC80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38102",
+              "numeric-id": 38102
+            }
+          },
+          "hash": "7be8658ee1ecf290893183ce3bd5b0faaaaf8a5a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135047$96B72F01-E375-4061-B8C3-26DD833F6539",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135047$870E02AB-0FA8-4B11-BB1D-349A1BA86A36",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135047$01D4AB4F-0007-4EBD-AEB9-580F9DF253FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4642",
+              "numeric-id": 4642
+            }
+          },
+          "hash": "cd8198511c000ceefaba789d07c9f3a1cc1b7e0c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135047$BCDA6506-F2BF-431D-8D5C-8FD4701D9B15",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q38090",
+              "numeric-id": 38090
+            }
+          },
+          "hash": "fb8fbf14c424b963f79af1bd2e7dd28503f46c1b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135047$F08DB99C-70D5-4E31-81C1-6BBB9489A270",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q4638",
+              "numeric-id": 4638
+            }
+          },
+          "hash": "3840963c21b686b3c3e3105bb299194f1b128e17",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135047$1762CC1A-227A-4982-B27A-FC967343EE04",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135047$FE652039-4B89-4391-BF53-727CA4B48364",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0822-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "dbd394c4f3cc261337bf7204d70187db722c2916",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135047$505CD5AE-AFD5-42E2-ACCB-6D94A4C7EE1C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0767-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c5069f77b631768da2879282f87181749a145d0d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135047$0074A52F-5890-4807-B17C-B1F2388D8423",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313237"
+          },
+          "hash": "d87b202bf7886e65b6c194764faa742929fc6fd9",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135047$5CA19EB7-F870-462A-8199-80C692C75DC2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Amaziah of Judah Arms.svg"
+          },
+          "hash": "0e8fa18841bdb46c8916047049f66f062552b3b4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك يهوذا من 796 إلى 767 ق م"
+    },
+    "az": {
+      "language": "az",
+      "value": "Yəhudanın doqquzuncu hökmdarı və ya Yəhudanın səkkiz padşahı"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "nawfed rheolwr Jwda neu'r wythfed brenin Jwda"
+    },
+    "da": {
+      "language": "da",
+      "value": "konge af Juda"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Juda"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλιάς του Ιούδα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ninth Ruler of Judah or Eight King of Judah"
+    },
+    "es": {
+      "language": "es",
+      "value": "(9º) noveno rey de Judá"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך יהודה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Júda királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Giuda"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Koninkrijk Juda (-801--775)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Judy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Nono rei de Judá"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Иудеи"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Ikasiyam na Pinuno ng Juda o Walong Hari ng Juda"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yehuda Krallığı'nın 10. kralı."
+    },
+    "zh": {
+      "language": "zh",
+      "value": "猶大王國的王"
+    }
+  },
+  "id": "Q135047",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Amasia"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أمصيا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "امصيا"
+    },
+    "az": {
+      "language": "az",
+      "value": "Amasya"
+    },
+    "be": {
+      "language": "be",
+      "value": "Амасія, цар іудзейскі"
+    },
+    "br": {
+      "language": "br",
+      "value": "Amasia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Amasies"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Amasjáš"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Amaziah o Jwda"
+    },
+    "da": {
+      "language": "da",
+      "value": "Amasja"
+    },
+    "de": {
+      "language": "de",
+      "value": "Amazja"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Amazja (König)"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αμασίας του Ιούδα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Amaziah of Judah"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Amaziah of Judah"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Amaziah of Judah"
+    },
+    "es": {
+      "language": "es",
+      "value": "Amasías"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Amasias"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آمازیا از یهودا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Amasja"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Amasias"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Amasja fan Juda"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Amaiziá rí Iúdá"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Â-mâ-chhia-vòng"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמציהו"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Amásia júdai király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ամասիա թագավոր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Amazia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Amasia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アマツヤ"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ამაცია"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아마샤"
+    },
+    "la": {
+      "language": "la",
+      "value": "Amasias"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Amazia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Amasja av Juda"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Amasja"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Amazjasz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Amassias"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Amassias"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Amasia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Амасия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Amazija od Jude"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Amasja"
+    },
+    "th": {
+      "language": "th",
+      "value": "อามาซิยาห์แห่งยูดาห์"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Amazias"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Amatzya"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Амасія"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "امصیاہ"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "אמציה"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "亞瑪謝"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞瑪謝"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "亚玛谢"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "亚玛谢"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "亞瑪謝"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "亞瑪謝"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "亚玛谢"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "亞瑪謝"
+    }
+  },
+  "lastrevid": 17550870,
+  "modified": "2025-09-17T10:15:05Z",
+  "ns": 860,
+  "pageid": 163432,
+  "sitelinks": {},
+  "title": "Item:Q135047",
+  "type": "item"
+}

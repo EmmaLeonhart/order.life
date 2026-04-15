@@ -1,0 +1,447 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip IV of Macedon"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135279$18E1393C-8970-44D3-A995-D17809DD1F18",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "420127"
+          },
+          "hash": "c2947110442366664eaaa63e442ed50ce39478b3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135279$60FDCBC0-E8CF-4BF2-B84A-699266EB90A1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736326"
+          },
+          "hash": "3124bc0241890f946dfadc89d47a4f00e9bb6a79",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135279$08976CD1-25D5-478B-95DD-DE128B54D147",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135279$0C2F0215-C1FD-4D7E-996E-96954EC5F5E3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135279$A6CF01B2-D81F-478A-8F6E-0A0EADF9EEFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135278",
+              "numeric-id": 135278
+            }
+          },
+          "hash": "68605db12427dfad3a1aca3f92f9802e3406e99f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135279$E690749A-B852-44C3-A2F1-4DC0381ED73F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135222",
+              "numeric-id": 135222
+            }
+          },
+          "hash": "74dd985cf6690ee77d7e321fd270adf3eb58dab5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135279$3EBCDD4B-8B15-459C-A103-B7CD63E35AAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135279$0B064002-9DB4-44CD-9CDC-2CCD41E2CEB0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135279$5EE44E03-D5FB-41E5-9A22-14E9004220FE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0296-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "34ef413c6d6c4f1a8db22372cbed89ae3c95740c",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135279$66904F70-CD85-4810-9B34-30550A5AB5C0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q347144"
+          },
+          "hash": "9093b732991c4c0b6e6edff758e7e518be302ba8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135279$BB9F8808-FA3A-4AA4-B43F-E86BDAE9635C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip IV of Macedon Arms.svg"
+          },
+          "hash": "a02ee8676f85d6d833adec8b13eb048b76db45f1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "makedonischer Herrscher"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Macedon"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "reĝo de Makedonio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Macédoine en 297 av. J.-C."
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Macedonia (r. 297 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マケドニア王"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Macedonii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "ex-rei da Macedônia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "македонский царь"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Makedonije"
+    }
+  },
+  "id": "Q135279",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فيليب الرابع المقدوني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فيليب الرابع المقدونى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Філіп IV Македонскі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Филип IV"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Filip IV de Macedònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Filippos IV."
+    },
+    "da": {
+      "language": "da",
+      "value": "Filip 4. af Makedonien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philipp IV."
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιππος Δ΄ της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philip IV of Macedon"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Filipo la 4-a de Makedonio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Filipo IV de Macedonia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فیلیپ چهارم مقدونی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Filippos IV"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippe IV de Macédoine"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Φίλιππος Δ΄"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיליפוס הרביעי, מלך מוקדון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IV. Philipposz makedón király"
+    },
+    "id": {
+      "language": "id",
+      "value": "Filipos IV dari Makedonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Filippo IV di Macedonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ピリッポス4世"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Филип IV"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Philippus IV van Macedonië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Filip IV Macedoński"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Filipe IV da Macedônia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Filipe IV da Macedônia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филипп IV Македонский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Filip IV od Makedonije"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Filip IV. Makedonski"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Filipi IV i Maqedonisë"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Филип IV Македонски"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Filip IV av Makedonien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Філіпп IV Македонський"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Philippos IV của Macedonia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "腓力四世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "腓力四世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "腓力四世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "腓力四世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "腓力四世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "腓力四世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "腓力四世"
+    }
+  },
+  "lastrevid": 17551290,
+  "modified": "2025-09-17T10:21:03Z",
+  "ns": 860,
+  "pageid": 163664,
+  "sitelinks": {},
+  "title": "Item:Q135279",
+  "type": "item"
+}

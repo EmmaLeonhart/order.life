@@ -1,0 +1,280 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Teleutias"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135901$9B8C9A09-338F-40B4-9E87-D434E239315D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135901$1F387043-F483-4EE5-BDAF-FDD768675A2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135901$DB4CCC0D-0C97-46E9-8C3A-6ECA1B22E540",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135898",
+              "numeric-id": 135898
+            }
+          },
+          "hash": "34fd2aa4ddb6313f1058a8bcb9583f455f999e02",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135901$68E44CF7-9EC1-41F7-8E7B-AB0D057730E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135901$EF2021E6-28E8-4608-AC93-B0C3E53D29E0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0380-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ec84a88a7785098b9e6f0032eb8d59887f75d920",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135901$4BD3D4AE-1A03-4389-8538-E1BB0EFA307E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2360710"
+          },
+          "hash": "aa5191f3a47f55d254d127b3b8081d505fc4c03e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135901$201DC751-8432-4B22-81AC-25ED022454C0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Teleutias Arms.svg"
+          },
+          "hash": "36a5c39f9c60c5268bc4e0844b1df7c701e0b8d5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "starověký Řek"
+    },
+    "el": {
+      "language": "el",
+      "value": "αρχαίος σπαρτιάτης πρίγκηπας και ναύαρχος"
+    },
+    "en": {
+      "language": "en",
+      "value": "brother of the Spartan king Agesilaus II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince spartiate, frère d'Agésilas II"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori görög, spártai katona"
+    },
+    "it": {
+      "language": "it",
+      "value": "ammiraglio spartano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "almirante espartano"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "brat špartanskega kralja Agezilaja II. in princese Kiniske"
+    }
+  },
+  "id": "Q135901",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Тэлеўцій"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Telèuties"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Teleutias"
+    },
+    "de": {
+      "language": "de",
+      "value": "Teleutias"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τελευτίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Teleutias"
+    },
+    "es": {
+      "language": "es",
+      "value": "Teleutias"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Teleutias"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Τελευτίας"
+    },
+    "id": {
+      "language": "id",
+      "value": "Teleutias"
+    },
+    "it": {
+      "language": "it",
+      "value": "Teleutia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テレウティアス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Teleutias"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Teleutias"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Teleutia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Teleutia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Телевтий"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Televtij"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Телеутије"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Телевтій"
+    }
+  },
+  "lastrevid": 17552271,
+  "modified": "2025-09-17T10:35:09Z",
+  "ns": 860,
+  "pageid": 164286,
+  "sitelinks": {},
+  "title": "Item:Q135901",
+  "type": "item"
+}

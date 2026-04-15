@@ -1,0 +1,217 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Redbad II"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135727$772F8F0F-0D90-44CB-B0C1-E956EA5DFEC2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135727$B4DC9481-F1BA-465B-B634-19898C293F78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135727$3143C856-2166-4C5C-A271-79735E9DB05E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Radboud_II_(1)"
+          },
+          "hash": "703ca481efac94f1df71329dd1e092b3b78a0fd5",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135727$0FCAB913-8C7C-4851-ADE3-92E3A4A7E326",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123814",
+              "numeric-id": 123814
+            }
+          },
+          "hash": "077c0450ffbc3a7c2199a36f8e774e24d12dc22b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135727$B80CA85D-9BCB-4D01-BC44-2E0D6291B465",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135727$56AD7C8D-3B6D-4DC2-99E2-3A7B024E5365",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0786-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8b94e12dc1d07aaf4922c0af2a3de1619c2dc0ac",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135727$78F0BBB5-D7F8-4613-ADB6-7CD2CFB4212B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2624915"
+          },
+          "hash": "435d20924e1192325a3655b2f6fec1ce380027eb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135727$62D122DE-8AB1-4A55-A50E-B6339CD2E46A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Redbad II Arms.svg"
+          },
+          "hash": "814be82073c8c12740a617ea3153280bdbd35a03",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Possible king of Frisia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Koning van Friesland"
+    }
+  },
+  "id": "Q135727",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Radbod 2."
+    },
+    "en": {
+      "language": "en",
+      "value": "Redbad II"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Redbad II"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Radboud II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Радбод II"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Redbad II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Радбод II"
+    }
+  },
+  "lastrevid": 17552039,
+  "modified": "2025-09-17T10:31:47Z",
+  "ns": 860,
+  "pageid": 164112,
+  "sitelinks": {},
+  "title": "Item:Q135727",
+  "type": "item"
+}

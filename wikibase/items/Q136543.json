@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Elffin"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136543$989E1C67-7575-4D6E-91AD-D16F9D7D9671",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1225187"
+          },
+          "hash": "b70150078d49f0b4b4ad48b4e9824053b21e90ee",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136543$1454FFF0-A92A-4981-99F8-B23F789C0027",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136543$FE04BF09-414C-4DC2-A420-86D33C4D2326",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136543$13E1C826-89AB-4AF5-B09D-8E499B887575",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123790",
+              "numeric-id": 123790
+            }
+          },
+          "hash": "223acef9cc43af6bb960866679ec6d5b6f5500d6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136543$A1A30E18-100F-42DE-BDB8-794CEE263AB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136543$2792324B-7853-4E41-92E1-08BB42B9A4A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0535-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "53e0080abe12dd77397d0cff8a432e45ad0ae227",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136543$C3CF0CAB-7253-4AF6-B398-A0C9D86DB9E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0616-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "f32b413c15d2a2de10bd3ddf7c79597a6c2bc1dc",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136543$8A24FB57-BC18-4C13-A46E-E9D7AED1D9D1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4531356"
+          },
+          "hash": "8d4507638a1f9e7127075bc73f2a3ff619ca8559",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136543$3097D909-6594-4508-9DDE-FC882D0A2B4A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Elffin Arms.svg"
+          },
+          "hash": "17407fb3e5793b209a363bf7e5b3c3f8a9c600fe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "(535-616)"
+    },
+    "en": {
+      "language": "en",
+      "value": "(535-616)"
+    }
+  },
+  "id": "Q136543",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Elffin"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Elffin"
+    },
+    "en": {
+      "language": "en",
+      "value": "Elffin"
+    },
+    "es": {
+      "language": "es",
+      "value": "Elffin"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Elffin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Элфин ап Оуэн"
+    }
+  },
+  "lastrevid": 17553263,
+  "modified": "2025-09-17T10:49:27Z",
+  "ns": 860,
+  "pageid": 164928,
+  "sitelinks": {},
+  "title": "Item:Q136543",
+  "type": "item"
+}

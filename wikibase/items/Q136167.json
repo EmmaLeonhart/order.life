@@ -1,0 +1,467 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Seleucus VI Epiphanes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136167$86F362C9-C7E9-4F3B-931E-D90918045489",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00786170"
+          },
+          "hash": "ad90e032a05d938b08f77a998485158a703ca2ac",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136167$442D5746-CEF6-4134-82CA-2A81A0AA54B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136167$415A997A-0A06-4DB1-94EC-C0CBBA3E0A10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136167$6EBD1030-19EB-4CB2-AEEC-FB685F1BB74F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Seleucus_VI_Epiphanes_(1)"
+          },
+          "hash": "2d2f81c527d4a50a6faa50c55daf0b2a7dca7e2d",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136167$ECCE84E9-A190-4C09-93F7-E5EE21C3F395",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72891",
+              "numeric-id": 72891
+            }
+          },
+          "hash": "2ce83282597ea468f28168c1ce0cdc9a47c73849",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136167$0F274FF3-F01E-4AEC-AA8C-15EC6AD4DBBD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72888",
+              "numeric-id": 72888
+            }
+          },
+          "hash": "bc549374205056cd1ece94204cc913fa6cf564bf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136167$201D0B1C-2726-4A00-BF54-86D017D8CB4E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136167$196265F3-191B-44CA-9DF2-742581685B1F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136167$38E44DCB-517D-46DC-A3ED-EB1F766EE84F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0094-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32df14ef244a2b5ef7877a7cd7cf93f4be49e379",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136167$F3ACC3E9-F7D9-4E50-BF66-8E895D36DE74",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q299007"
+          },
+          "hash": "4886f631c03e5bb11989eebff8dfd72ba076e799",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136167$78C25544-05B3-43AD-BCCA-93B66DE0F569",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Seleucus VI Epiphanes Arms.svg"
+          },
+          "hash": "7472c56645f68378ade3216359dffed9c5a59fb1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König des Seleukidenreiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Syria from 96 to 94 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey seléucida (f. 94 a.C.)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پادشاه سلوکی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 96-95 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Seleucidische rijk (-94v Chr)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Царь Сирии из династии Селевкидов"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "sirski kralj od leta 96 do leta 94 pr. n. št."
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Suriye kralı (MÖ 96-MÖ94)"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "敘利亞國王"
+    }
+  },
+  "id": "Q136167",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "سلوقس السادس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "سلوقس السادس"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "سککیزینجی سلوکوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Селеўк VI Епіфан Нікатар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Селевк VI Епифан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Seleuc VI Epífanes"
+    },
+    "da": {
+      "language": "da",
+      "value": "Seleukos 6. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Seleukos VI."
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέλευκος Στ' Επιφανής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Seleucus VI Epiphanes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Seleuco VI Epífanes"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Seleuko VI.a Epifanes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سلوکوس ششم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Seleukos VI Epifanes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Séleucos VI"
+    },
+    "he": {
+      "language": "he",
+      "value": "סלאוקוס השישי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "VI. Szeleukosz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Seleukos VI Epifanis"
+    },
+    "it": {
+      "language": "it",
+      "value": "Seleuco VI"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス6世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "셀레우코스 6세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Seleucus VI Epiphanes"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Selevkos VI Epifanes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Seleucus VI Epiphanes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Seleukos VI Epifanes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Seleuco VI Epifânio Nicator"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Seleuco VI Epifânio Nicator"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Селевк VI Эпифан Никатор"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Seleuk VI Epifan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Selevk VI. Epifan"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Селеук VI Епифан"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Селеук VI Епифан"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Seleuk VI Epifan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Seleukos VI"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "VI. Seleukos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Селевк VI Епіфан"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Seleukos VI Epiphanes"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "塞琉古六世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "塞琉古六世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "塞琉古六世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "塞琉古六世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "塞琉古六世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "塞琉古六世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "塞琉古六世"
+    }
+  },
+  "lastrevid": 17552675,
+  "modified": "2025-09-17T10:40:54Z",
+  "ns": 860,
+  "pageid": 164552,
+  "sitelinks": {},
+  "title": "Item:Q136167",
+  "type": "item"
+}

@@ -1,0 +1,539 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Psamtik II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135965$B659550C-09EB-46A2-A164-FB7FE1D79629",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "376511"
+          },
+          "hash": "8e25bbc0a703460c04bab14f8a067cdcb2de2f76",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135965$A2E69B51-6BA0-4350-9C95-FABE160B8BCC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135791",
+              "numeric-id": 135791
+            }
+          },
+          "hash": "6791774d8b07257d1f2f750fd16e0b385cc01d16",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135965$F40041A2-AF04-4730-A822-87CDAF0602BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136207",
+              "numeric-id": 136207
+            }
+          },
+          "hash": "04266a5e058fcae55b2606335eb138174a8a34e6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135965$BC7ED517-402B-4210-87A1-FF720B755792",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135965$73D74F8F-589B-4037-9453-EE0D4068B614",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135965$A161E918-91B2-4029-8F05-996D98074800",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136464",
+              "numeric-id": 136464
+            }
+          },
+          "hash": "4c811b6e0036d84c41f00a2852a34c0b319591b9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135965$CAC07147-9DF9-43D8-8B31-64344E87D63A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136205",
+              "numeric-id": 136205
+            }
+          },
+          "hash": "8f077f57f3eed252b020fb422923231d68032b9a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135965$C7890E12-BEB0-45C9-AC47-DDF6242B705D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136206",
+              "numeric-id": 136206
+            }
+          },
+          "hash": "52f3b0fdfc282eb916134b2d8e730520e69b6580",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135965$84632C0A-CE35-4C90-8A84-4D1956BFAA24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135965$9E568D06-62F7-4547-AA1A-C0EB77B86CAB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ead4b176d2f630cc476effcc8864a5df658a825e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135965$1C3F531D-B143-480D-87FC-8C33EAB8942F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0589-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "20ca6a896d249220545dcfb2f7819a9384d9be10",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135965$EFB4BBDC-9123-40DE-9651-CAD3CC4BDA31",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q373521"
+          },
+          "hash": "c5c6ff4d4d1cb649ffc6c2bb4362295e46f84444",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135965$CC202F2B-1A7A-410A-A909-52BE970E020C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Psamtik II Arms.svg"
+          },
+          "hash": "cfaa45c8fd21bc8fae694709e492deec55e6fa1f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك مصري"
+    },
+    "de": {
+      "language": "de",
+      "value": "3. altägyptischer Pharao der 26. Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "3rd Egyptian pharaoh of the 26th dynasty"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "faraono de la dudeksesa dinastio de Egiptio"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "3e pharaon égyptien de la XXVIème dynastie"
+    },
+    "he": {
+      "language": "he",
+      "value": "פרעה מצרי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi fáraó"
+    },
+    "it": {
+      "language": "it",
+      "value": "faraone egizio"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ეგვიპტელი ფარაონი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "staatsman"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Faraó"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Faraó"
+    }
+  },
+  "id": "Q135965",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بسماتيك الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بسماتيك التانى"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Псамтик II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Psamètic II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Psammetik II."
+    },
+    "de": {
+      "language": "de",
+      "value": "Psammetich II."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Psammetich II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Ψαμμύτιχος Β΄ της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Psamtik II"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Psamtik II"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Psamtik II"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Psametiĥo la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Psamético II"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Psametiko II.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پسامتیک دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Psametik II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Psammétique II"
+    },
+    "he": {
+      "language": "he",
+      "value": "פסמתיך השני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Psamtik II."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Pszammetik"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պսամետիհ II"
+    },
+    "id": {
+      "language": "id",
+      "value": "Psamtik II"
+    },
+    "it": {
+      "language": "it",
+      "value": "Psammetico II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プサムテク2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ფსამეტიქ II"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Psamtikas II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Psamtek 2."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Psammetichus II"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Psamtek 2."
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Psametych II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Psamtek II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Psamtek II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Псамметих II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Psametih II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Psametik II."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Psamtik II"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Псамтик II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Psammetikus II"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "இரண்டாம் சாம்திக்"
+    },
+    "th": {
+      "language": "th",
+      "value": "ฟาโรห์พซัมติกที่ 2"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Psamtik II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Psamtik"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Псамметіх II"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Psamtik 2k"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "普萨美提克二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "普萨美提克二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "普萨美提克二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "普薩美提克二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "普薩美提克二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "普萨美提克二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "普薩美提克二世"
+    }
+  },
+  "lastrevid": 17552369,
+  "modified": "2025-09-17T10:36:33Z",
+  "ns": 860,
+  "pageid": 164350,
+  "sitelinks": {},
+  "title": "Item:Q135965",
+  "type": "item"
+}

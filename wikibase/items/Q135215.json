@@ -1,0 +1,328 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Phila of Elimeia"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135215$0BAB08C1-B6B2-474D-B311-DE71EBC9766A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135215$EE194BD1-6C1C-4654-B652-901BC92ACC8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135215$6F3367F8-5758-4C5A-9391-6DEC737DEF73",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135177",
+              "numeric-id": 135177
+            }
+          },
+          "hash": "0672f6e24aaf3e1cf8bb35c88a5cf992f02c72b6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135215$8E70661F-8CEA-432C-9602-4559CB32C3E5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135175",
+              "numeric-id": 135175
+            }
+          },
+          "hash": "7a2ee42079fe630ebc9074fdae7eeac4390fcb37",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135215$C18BF5A3-0ED8-47FA-BDBB-918A64324A4A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135212",
+              "numeric-id": 135212
+            }
+          },
+          "hash": "db2532af1dfd0e3e2f128c8e219741038e2df6cb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135215$59937586-4E6F-4CE2-9EAC-18E39629C06D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135215$39C6C639-726E-4DD7-8134-98B660CF0985",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135215$9F96F32F-3252-4F89-8575-66EE8BE1355F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135215$DFB7A455-5B3F-4DC0-9AAB-295BAA69DC96",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1266822"
+          },
+          "hash": "9288882f548ff137749586a9e9fb83e50ba0a979",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135215$3C76B1D4-0D59-47BD-B201-5E224105A1E2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Phila of Elimeia Arms.svg"
+          },
+          "hash": "c97171aa015deb283a13ce1653e699540bef4a83",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "σύζυγος του Φιλίππου Β´ της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "spouse of Philip II of Macedon"
+    },
+    "it": {
+      "language": "it",
+      "value": "prima o seconda moglie di Filippo II"
+    }
+  },
+  "id": "Q135215",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Філа Элімейская"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Фила"
+    },
+    "br": {
+      "language": "br",
+      "value": "Fila Elimeia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Fila I de Macedònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Fila z Elimeie"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλα της Ελίμειας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Phila of Elimeia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Fila (nombre)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فیلا ایلمیایی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Phila d'Élimée"
+    },
+    "id": {
+      "language": "id",
+      "value": "Fila dari Elimeia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Fila di Elimea"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フィラ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Fila fra Elimeia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Phila of Elimeia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фила Элимийская"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Fila od Elimeje"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Fila från Elimeia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "厄利墨亞的菲拉"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "厄利墨亚的菲拉"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "厄利墨亞的菲拉"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "厄利墨亞的菲拉"
+    }
+  },
+  "lastrevid": 17551174,
+  "modified": "2025-09-17T10:19:25Z",
+  "ns": 860,
+  "pageid": 163600,
+  "sitelinks": {},
+  "title": "Item:Q135215",
+  "type": "item"
+}

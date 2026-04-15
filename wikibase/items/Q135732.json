@@ -1,0 +1,666 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Αρχίδαμος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Archidamus II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135732$0CC313C7-0D55-4A44-A0B1-9BA4207C3DB4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "695187"
+          },
+          "hash": "299ff393f9b8cfafc5b8e7b97464fca5e1e4b9aa",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135732$097CD544-2D8E-4B3F-A888-A1953FD9159C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135733",
+              "numeric-id": 135733
+            }
+          },
+          "hash": "80306e94429a3515bcbecd2d8c06497636074e3f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135732$14EDA15E-A63D-4448-8921-000E2599EED1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135900",
+              "numeric-id": 135900
+            }
+          },
+          "hash": "88134fd68af1381235736357bdade45d60ad4a04",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135732$A3B75820-D8FE-4971-AD3F-77806EACA395",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135899",
+              "numeric-id": 135899
+            }
+          },
+          "hash": "f3121511f87bee1ae197bd5ace802572fd12d1e5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135732$86B6A754-AC20-46D9-87B6-A6F2A36DF270",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167060",
+              "numeric-id": 167060
+            }
+          },
+          "hash": "9bfd64ff397736fa800c86bcfcc1eaac8d4c726f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135732$83D1041E-6EC3-470D-A6E6-41BE07C3CED5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167072",
+              "numeric-id": 167072
+            }
+          },
+          "hash": "692113da5496e5feca2939a1ce2229e526fd366e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135732$305A1A0B-B719-4E49-B8AB-B4E3E8F57733",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167073",
+              "numeric-id": 167073
+            }
+          },
+          "hash": "49ea139e45cac712bf8d3588d4e03e0fb81f9bcc",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135732$4BB1D4F1-A753-47D9-ADEE-7EC9EFD4DC2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135732$7D0645F8-9F53-4915-832A-4239E59ED662",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135732$74A90415-FBCE-486C-BFF3-8AECBE59961E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135576",
+              "numeric-id": 135576
+            }
+          },
+          "hash": "90279a59aabf28c323879039c5afd800780663cf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135732$4293B8E9-ECBE-4267-8B4E-76092CF2F610",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135898",
+              "numeric-id": 135898
+            }
+          },
+          "hash": "3b82eb1d3515ca633ef60dd0137dc23555b4cd5b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135732$8E258BF8-2964-47E1-B57D-1A7861225B1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167045",
+              "numeric-id": 167045
+            }
+          },
+          "hash": "8dfb4567085009e5ec5cb2179f40075917be16db",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135732$8058CC5A-F495-4DB7-8357-8E170FD1F281",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135575",
+              "numeric-id": 135575
+            }
+          },
+          "hash": "94273e5180e4100b4510a0a7b43b1db68321880c",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135732$866D7B87-36EA-4AE0-A55E-85A0EF6E5584",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q167043",
+              "numeric-id": 167043
+            }
+          },
+          "hash": "86bcc5c4d84aea3bda14833ca1e9fa75ff6f44d6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135732$9046AE54-F12D-42AF-B3C7-F7139173BB0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135732$A5AB65C4-994D-482F-97CA-25BA91C93E9B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2a9e4e2db5ed6e5a0a3d28134489b93b4389d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135732$C344B68C-1182-4901-BA0E-EACDF41AF6F9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0420-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5f16bdd8faed22ce95dc02c1dff66812b46d1ec7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135732$F2B84824-D5DD-480C-9751-9F487BD4C65E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313731"
+          },
+          "hash": "d900594b765cb373d3bdcff8e649ba965bf34b8a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q135732$B6BC9B3A-05B5-4378-A8C0-79BF723F8081",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000020703999201"
+          },
+          "hash": "44a142212ec018a99e094bcfd2a0c105c90caa5a",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135732$4999476B-0178-43E3-B78F-0448C5071A72",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Archidamus II Arms.svg"
+          },
+          "hash": "aa6491af019e4f2ec3bc8b97abb1b53aeab1d2fc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "král Sparty v letech 469-427 př. n. l"
+    },
+    "da": {
+      "language": "da",
+      "value": "konge af Sparta"
+    },
+    "de": {
+      "language": "de",
+      "value": "spartanischer Feldherr und Politiker"
+    },
+    "en": {
+      "language": "en",
+      "value": "Eurypontid king of Sparta from 469/8 to 427/6 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Esparta"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Spartan kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "rege al Spartei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "спартанский басилевс и полководец"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Šparte od 469/8 do 427/6 pr. n. št."
+    }
+  },
+  "id": "Q135732",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أرخيداموس الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارخيداموس التانى"
+    },
+    "be": {
+      "language": "be",
+      "value": "Архідам II"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Архидам II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Arquidam II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Archidamos II."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Archidamos II"
+    },
+    "da": {
+      "language": "da",
+      "value": "Archidamos 2."
+    },
+    "de": {
+      "language": "de",
+      "value": "Archidamos II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρχίδαμος Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Archidamus II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arquídamo II"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرکیداموس دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Arkhidamos II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Archidamos II"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀρχίδᾱμος"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Archidamos II."
+    },
+    "he": {
+      "language": "he",
+      "value": "ארכידאמוס השני"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Arhidam II."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Arkhidamosz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Archidamo II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルキダモス2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არქიდამე II"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "아르키다모스 2세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Archidamus II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Arkhidamos II"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Archidamos II."
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Archidamus II van Sparta"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Arkhidamos II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Arquídamo II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Arquídamo II"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Archidamos al II-lea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Архидам II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arhidam II"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Archidamos II."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Arhidam II."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Archidamus II"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Архидам II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Archidamos II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Arhidamos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Архідам II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Archidamos II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿希达穆斯二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "阿希达穆斯二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿希达穆斯二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿希達穆斯二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "阿希達穆斯二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "阿希达穆斯二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "阿希達穆斯二世"
+    }
+  },
+  "lastrevid": 17552041,
+  "modified": "2025-09-17T10:31:48Z",
+  "ns": 860,
+  "pageid": 164117,
+  "sitelinks": {},
+  "title": "Item:Q135732",
+  "type": "item"
+}

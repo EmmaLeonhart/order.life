@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Sigurd Eiriksson"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136660$19B46B94-9B3C-4DF8-A521-9D57C0C3498C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136660$EB4D2FB0-B5DE-4994-BDD4-6B2E27138B58",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136660$6BB65EAA-0706-4E26-8982-5A1E4EA96E8A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136659",
+              "numeric-id": 136659
+            }
+          },
+          "hash": "31693d3e76560a9b6dad02a34e0b369c57cf4355",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136660$90CF023F-6E04-4927-B495-B9A060D530C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136660$EC833DC3-B3D3-4494-AC8C-AE574214F46E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1000-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "022069ba4b6f2fafb5cc5b35534f1444ceeb4c16",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136660$A90FD379-BF30-42EF-A4C9-7D2EB85D94F0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+1100-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b0f06eb64a36ac7576bf4a559a229ea93027f7a2",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136660$6DCA7296-7634-4770-9F01-207CC0493952",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5857781"
+          },
+          "hash": "826b49d6cb4e73839d5f5729be69ecf6f672145a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136660$DEEFB045-375B-48FA-A72D-2044559A16A1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Sigurd Eiriksson Arms.svg"
+          },
+          "hash": "66b27d20a7ca9cb3e05b539c35c805606a902f7f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "nl": {
+      "language": "nl",
+      "value": "Skald"
+    }
+  },
+  "id": "Q136660",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Sigurd Eiriksson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Sigurd Eiriksson"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sigurd Eriksson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sigurd Eiriksson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sigurd Eiriksson"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Sigurd Eiriksson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sigurd Eiriksson"
+    }
+  },
+  "lastrevid": 17553463,
+  "modified": "2025-09-17T10:52:16Z",
+  "ns": 860,
+  "pageid": 165045,
+  "sitelinks": {},
+  "title": "Item:Q136660",
+  "type": "item"
+}

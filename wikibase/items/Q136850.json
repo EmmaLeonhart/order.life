@@ -1,0 +1,502 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint David"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136850$F41D4D43-3F4A-4D88-8239-57CC75A06064",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1225131"
+          },
+          "hash": "af9fc89b68f9068b943d75634b8c339cbc634f4e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136850$515494E4-4E34-47A1-ACCB-47989DFAE880",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136850$252853BB-2941-44A1-B5AB-29C2B9862A4B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136850$6BC60353-2C71-4C7B-A74B-4F5A3F4AA2C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136524",
+              "numeric-id": 136524
+            }
+          },
+          "hash": "ed40fe950977845f870e0f2b471eab9fcc393292",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136850$3DEE82C2-ADFA-42EB-AA1F-17BE07961041",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136545",
+              "numeric-id": 136545
+            }
+          },
+          "hash": "d7bde838f65144fb7727bf57d933f6bd01516f06",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136850$B3E3F7FB-A632-4B1E-8AA7-A83FC98710FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136850$2D42E61C-31FC-4944-B72C-B6910161E24F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0512-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "7da6528599773f8976ba8ce63bb9384a241a172b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136850$9811DAFB-5BD8-48EF-949C-938F77D42C1A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0589-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "20ca6a896d249220545dcfb2f7819a9384d9be10",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136850$BE855594-35F9-4632-AA52-0E66D603C51B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q331697"
+          },
+          "hash": "f76deef2cef025daebd11df641d00a3520708688",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136850$180A8D71-3FB4-4A69-AEA9-8C28254DBFDC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saint David Arms.svg"
+          },
+          "hash": "2294e265ed7a825aaea26ca0886fb5b59a60bb5f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "velšský biskup z 6. století"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "sefydlydd ac abad-esgob cyntaf Tyddewi a nawddsant Cymru"
+    },
+    "de": {
+      "language": "de",
+      "value": "Schutzpatron von Wales"
+    },
+    "en": {
+      "language": "en",
+      "value": "patron saint of Wales"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "patron saint of Wales"
+    },
+    "es": {
+      "language": "es",
+      "value": "obispo y abad galés"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "saint patron du pays de Galles (vers 500-vers 590)"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "éarlamh na Breataine Bige"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "relixioso galés"
+    },
+    "it": {
+      "language": "it",
+      "value": "monaco, vescovo e santo gallese"
+    },
+    "la": {
+      "language": "la",
+      "value": "episcopus Mevennensis"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "светец-заштитник на Велс"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "heilige"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "chrześcijański święty, patron Walii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "святой покровитель Уэльса"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "zavetnik Walesa (ok. 500–590)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "walesisk kyrkoman"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "святий покровитель Уельса"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "6世纪威尔士圣人"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "6世纪威尔士圣人"
+    }
+  },
+  "id": "Q136850",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ديوي"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ديوى"
+    },
+    "br": {
+      "language": "br",
+      "value": "Divi"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "David de Gal·les"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Svatý David"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Dewi"
+    },
+    "de": {
+      "language": "de",
+      "value": "David von Menevia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δαβίδ Ουαλίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint David"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Saint David"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Sankta Davido el Kimrio"
+    },
+    "es": {
+      "language": "es",
+      "value": "David"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سنت دیوید"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Pyhä David"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "David de Ménevie"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "David fan Menevia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Naomh Dáibhí"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Naomh Daibhidh"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "David de Menevia"
+    },
+    "he": {
+      "language": "he",
+      "value": "דוד הקדוש"
+    },
+    "it": {
+      "language": "it",
+      "value": "Davide di Menevia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "デイヴィッド"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಸಂತ ಡೇವಿಡ್"
+    },
+    "la": {
+      "language": "la",
+      "value": "David Mevennensis"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Давид Велшки"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "David av Wales"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "David"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "David av Wales"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Saint Dâvi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Dawid z Menevii"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "São David"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "São David"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Sfântul David"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Давид Валлийский"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Saunt Dauvit"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Sveti David"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "David iz Menevie"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Saint David"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Свети Давид Велшки"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "David av Menevia"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Daudi wa Wales"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "San David"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Давид Валлійський"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Dàvide de Menèvia"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "圣达味"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "聖達味"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "圣达味"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "圣大卫"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "聖大衛"
+    }
+  },
+  "lastrevid": 17553763,
+  "modified": "2025-09-17T10:56:34Z",
+  "ns": 860,
+  "pageid": 165235,
+  "sitelinks": {},
+  "title": "Item:Q136850",
+  "type": "item"
+}

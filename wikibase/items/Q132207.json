@@ -1,0 +1,636 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Peleus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q132207$D3680779-8CE7-474A-B4B1-99BCA1CE9FE6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "96035|87801"
+          },
+          "hash": "e646e831b2e6345b9dbc651feab13e4afe0072f0",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q132207$1956065D-83CC-4042-84FF-9ED06614B602",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132115",
+              "numeric-id": 132115
+            }
+          },
+          "hash": "02178d6722075a2577bb87df4da1d65cd834c5e5",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132207$2826D968-61D0-4EE7-820A-C29C8CE82FF1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132384",
+              "numeric-id": 132384
+            }
+          },
+          "hash": "c70797aed6cca37d66be8353d426f9cc22b32374",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132207$4A25E63E-61ED-4EA2-9039-57C39963EBDA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133410",
+              "numeric-id": 133410
+            }
+          },
+          "hash": "35618fa6b9c5e92ba5a55399731a31d931b9d39e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q132207$26D8B553-5EDE-4AEC-8EEA-4441C49C802C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132207$1FDE71A2-A668-4F7D-9DDC-32FD0CF0A95B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132207$3AB3F6E8-96B4-4F41-B344-F6C2E0F6AF1E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130872",
+              "numeric-id": 130872
+            }
+          },
+          "hash": "b7af37685844838ebcb444a6057a398fbf7777f1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132207$671889B7-3E9B-43E8-A66C-84ECCAFA2E3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133408",
+              "numeric-id": 133408
+            }
+          },
+          "hash": "68707ac8d21547765b00d603f49224c739a9a957",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132207$F64E7739-5B1D-41BE-B767-533E71162AAD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133409",
+              "numeric-id": 133409
+            }
+          },
+          "hash": "8a0050793596f112ee7a8b210a8721c272c3814b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132207$3F3421DF-8699-4493-938D-E094646E7A6F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131671",
+              "numeric-id": 131671
+            }
+          },
+          "hash": "c64306c98adc2ec8ef7e48181643175911a3b06f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132207$762DE463-C2D4-4D41-B665-9452ED96F8DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132036",
+              "numeric-id": 132036
+            }
+          },
+          "hash": "f576f8596a1d2762f49268e36e639b2a739ca8c0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132207$0B011719-32E5-41EB-8A22-ABE52BFA5D71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132207$C8D8929E-8D75-4686-A32D-DA8C36AD92FD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q178641"
+          },
+          "hash": "369840b4a184d646f2474f18d8ce1c45cb7f533e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132207$2F0834DE-A866-4342-8127-E184028CBE41",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Peleus Arms.svg"
+          },
+          "hash": "55a00ea54a4753899d9fd59ab927fdc71b80559a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "من أبطال المايثولوجيا الاغريقية"
+    },
+    "da": {
+      "language": "da",
+      "value": "figur fra den græske mytologi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person der griechischen Mythologie"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του βασιλιά της Αίγινας Αιακού"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Aeacus in Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey mítico de los mirmidones"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "henkilö kreikkalaisessa mytologiassa, Akhilleuksen isä"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "he": {
+      "language": "he",
+      "value": "אביו של אכילס במיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Ftia nella mitologia greca, marito di Teti e padre di Achille"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシャ神話のアイアコスの息子"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화의 등장인물"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Di mîtolojiya yewnanî de bavê Axîleûsê û mêrê Têtîsê"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, zoon van Aeacus"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "erou din mitologia greacă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "в древнегреческой мифологии сын мудрого эгинского правителя Эака, отец Ахилла"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "grška mitološka oseba"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde Aeakos'un oğlu"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "希臘神祇"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "希臘神話中的色薩利國王，宙斯之孫，阿基里斯之父。"
+    }
+  },
+  "id": "Q132207",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Peleus"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بيليوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Peley"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пелей"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Пэлей"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Пелей"
+    },
+    "br": {
+      "language": "br",
+      "value": "Peleüs"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Peleu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Péleus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Peleus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Peleus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Πηλέας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Peleus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Peleo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Peleo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Peleus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Peleo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "پلئوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Peleus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Pélée"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Peléus"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Peleo"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πηλεύς"
+    },
+    "he": {
+      "language": "he",
+      "value": "פלאוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Pelej"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Péleusz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պելեյ"
+    },
+    "id": {
+      "language": "id",
+      "value": "Peleus"
+    },
+    "io": {
+      "language": "io",
+      "value": "Peleus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Peleifur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Peleo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペーレウス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პელევსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "펠레우스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Pêleûs"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Pêleûs"
+    },
+    "la": {
+      "language": "la",
+      "value": "Peleus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Peleus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Pelėjas"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Pelevs"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Peleus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Peleus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Peleu"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Peleus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Пелей"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Peleus"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Pelej"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Péleus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Pelej"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Пелеј"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Пелеј"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Pelej"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Peleus"
+    },
+    "th": {
+      "language": "th",
+      "value": "พีลยูส"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Peleos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Пелей"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Peleus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "佩琉斯"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "佩琉斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "佩琉斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "佩琉斯"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "佩琉斯"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "佩琉斯"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "佩琉斯"
+    }
+  },
+  "lastrevid": 17545373,
+  "modified": "2025-09-17T08:57:45Z",
+  "ns": 860,
+  "pageid": 160592,
+  "sitelinks": {},
+  "title": "Item:Q132207",
+  "type": "item"
+}

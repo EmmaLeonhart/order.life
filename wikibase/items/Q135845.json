@@ -1,0 +1,168 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Pelinor, 'king of Cornwall'"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135845$0D484EFA-F9EE-4364-A7BD-102C9BEA9AE7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00754525"
+          },
+          "hash": "c25b9528806f739b3eb6391beed978d4327dae38",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135845$6FD5469B-61E4-4FEC-9E1C-ED42FB39CDDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135712",
+              "numeric-id": 135712
+            }
+          },
+          "hash": "e40fbe41354bfb90bb2e942ac73e88c0a07157c6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135845$ADB1C9F9-6CA8-4645-8394-7EAAB519E8F9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135845$FF30328D-A838-49ED-8ADE-5FC12037F776",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135845$5DF189DC-19FD-4AEB-99E8-EE544928F08F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135845$E59300E7-4BF2-4FB2-BBBA-B0EFEF87CD32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q110153003"
+          },
+          "hash": "99e6116906f5f76d5d7a99110eb16444e24d4a34",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135845$C17C6AD3-0AFE-4C51-9B20-0296B7A5175A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Pelinor, 'king of Cornwall' Arms.svg"
+          },
+          "hash": "9af6c3cd058a37e90db73fed6fad22faa9c67e7d",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {},
+  "id": "Q135845",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Pelinor, brenin Cernyw"
+    },
+    "en": {
+      "language": "en",
+      "value": "Pelinor, 'king of Cornwall'"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Pelinor, 'king of Cornwall'"
+    }
+  },
+  "lastrevid": 17552227,
+  "modified": "2025-09-17T10:34:30Z",
+  "ns": 860,
+  "pageid": 164230,
+  "sitelinks": {},
+  "title": "Item:Q135845",
+  "type": "item"
+}

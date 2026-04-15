@@ -1,0 +1,225 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tremorus of Brittany"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136499$2468D6BE-991A-4908-945E-F7C19B0F204E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136499$00B43933-0856-42FC-820C-88D813D77718",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136499$8A0FEBBB-2D2B-452C-BCF1-8D845725A651",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136251",
+              "numeric-id": 136251
+            }
+          },
+          "hash": "75ee4fb8aae992074d07d80ebec7808de92648cd",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136499$9DD021F1-8173-4DEC-866E-C6DC248756D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136497",
+              "numeric-id": 136497
+            }
+          },
+          "hash": "4f75158fad9393a9b411d7b5cf7b8e2ee2148bb5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136499$6EEE01EF-C6C8-4FEA-A738-8997976C13AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136499$1B8884BC-0F46-40E5-8372-E1FB1D0C0221",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "057b4279045a572e3421699e1c1864ed499e0834",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136499$DDB7D87C-125E-47DC-B87C-EE46CACFB02F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3464100"
+          },
+          "hash": "e6946caddf2a797d0462ea5a870ee87925b692f5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136499$1BF0DFBA-F05F-46BC-9634-D3DB3BC11655",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tremorus of Brittany Arms.svg"
+          },
+          "hash": "172d9917a96ab921d532cdd16eb6d45b52e9d9f1",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "Breton Catholic saint"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "saint catholique breton"
+    }
+  },
+  "id": "Q136499",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Treveur"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tremeur de Bretanya"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tremorus of Brittany"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tremeur"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Trémeur"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tremeur van Bretagne"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Saint Trémeur"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Saint Trémeur"
+    }
+  },
+  "lastrevid": 17553195,
+  "modified": "2025-09-17T10:48:28Z",
+  "ns": 860,
+  "pageid": 164884,
+  "sitelinks": {},
+  "title": "Item:Q136499",
+  "type": "item"
+}

@@ -1,0 +1,241 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thoas"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q134311$2E185EB9-EAB8-4E47-A959-228B4E37EEC5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134311$9CCB38BD-5C3F-44C9-AF44-DD0AE55967A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134311$6508A989-BC37-4701-885B-E09B8DE00970",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133344",
+              "numeric-id": 133344
+            }
+          },
+          "hash": "00147226ea3f8f76788d7a99c7dee6b94666baf1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q134311$7107EA7E-846B-4701-900C-2A204C07903F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90277",
+              "numeric-id": 90277
+            }
+          },
+          "hash": "c4f7efbc6921aa03671b7c740deb4c3393ae69d4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134311$D5ECB4FB-DD8B-4C81-8BD0-3C84A72F094D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134311$E75519A3-CD19-46CF-83E4-47F3895BC2A0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2421660"
+          },
+          "hash": "b5d25ad97595828c611e31076c962e028b4b8a9e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134311$2C3EBC01-B540-4073-9C77-270180951EA1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thoas Arms.svg"
+          },
+          "hash": "9c8292c2a0ed6580a1912e781fd84454104dd968",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "a la mitologia grega"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sohn des Ikarios"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Icarius of Sparta in Greek mythology"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Ikariosz fia"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlio di Icario"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, zoon van Icarios"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии, сын Икария"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde Sparta kralı Ikarios'un oğlu"
+    }
+  },
+  "id": "Q134311",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Toant (fill d'Icari)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Thoas"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θόας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thoas"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Thoasz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Toante"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "トアース"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Toas"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Toas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фоант"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Thoas (syn Ikaria)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Thoas"
+    }
+  },
+  "lastrevid": 17549472,
+  "modified": "2025-09-17T09:55:21Z",
+  "ns": 860,
+  "pageid": 162696,
+  "sitelinks": {},
+  "title": "Item:Q134311",
+  "type": "item"
+}

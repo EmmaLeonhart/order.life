@@ -1,0 +1,549 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Kenan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q134022$97427EF6-EEA0-4862-B41B-3E9EC2AF63CB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "32377|361714|335686"
+          },
+          "hash": "88bfa52b896dd456ba0b8b74a536e59cb771173f",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q134022$70F7C2A5-AABC-4971-B428-2A6EA252372A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132727",
+              "numeric-id": 132727
+            }
+          },
+          "hash": "51bec061f5de71993316771e79c31df7a9c2e50d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q134022$9A2F95D8-84E3-471C-AE59-CC096BD65B50",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q134022$3D221FFD-2414-48BD-A677-0A1B5920C489",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q134022$1A3DD201-9167-456A-AAF8-B45F8B406B83",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134023",
+              "numeric-id": 134023
+            }
+          },
+          "hash": "3269a49b7a20737da84b69463bc1af03b986c06b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q134022$7D8160CC-F2DC-43AC-B10D-54D0D1BC2ACA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134510",
+              "numeric-id": 134510
+            }
+          },
+          "hash": "cded601f118df5fda4dee8fb893937184ad0d526",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q134022$569E3377-89FB-41F3-BA18-A7205A8AF98A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134511",
+              "numeric-id": 134511
+            }
+          },
+          "hash": "f90213d49839f1e00f2f5189f3e7bf7f48036e02",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q134022$A60AFCB7-5D3D-40AC-8971-192788844DCD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q134022$414CED85-7A4C-49D8-8700-E04C2BC845DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+3436-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "52bec75fc4a255260106963f5545bd493c433674",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q134022$46FC9FA3-0F39-419F-8B11-BD69647C2A59",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+2769-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cf480f7ec77f01df494704fee38b568b0dffe9a6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q134022$27C50AAF-7218-4E50-A773-0F67D3E33FCC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q844433"
+          },
+          "hash": "ae732203cca46daab317218722c0114cd9679cdf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q134022$4CB66016-FC54-4F9A-8CE0-56B2AF43C010",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000190220038"
+          },
+          "hash": "74121971a163e2bdba8063091d05124f33d51d77",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q134022$A2FA8EA6-F9FE-451E-9862-229A59F324DE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Kenan Arms.svg"
+          },
+          "hash": "d6bd34de4a14c6657268e8765f136d3fa9f0b1aa",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ابن أنوش وحفيد شيث بن آدم، عاش 910 سنوات. ولد وعاش في بلاد وادي الرافدين"
+    },
+    "az": {
+      "language": "az",
+      "value": "Enosun oğlu, Şitin nəvəsi, Adəmlə Həvvanın böyük nəvəsi"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(3436-2769)"
+    },
+    "de": {
+      "language": "de",
+      "value": "biblische Figur"
+    },
+    "en": {
+      "language": "en",
+      "value": "biblical figure, son of Enos, grandson of Seth, great grandson of Adam and Eve"
+    },
+    "es": {
+      "language": "es",
+      "value": "patriarca hebreo, hijo de Eros y Noam, y familiar de Adán y Eva"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית, בנו של אנוש בן שת"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Biblijski lik"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della Bibbia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bijbelse figuur"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж, сын Еноса"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Enošev sin, Setov vnuk, pravnuk Adama in Eve"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "biblisk patriark"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Anak ni Enos, Apo ni Seth, Dakilang Apo nina Adan at Eva"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan li sewi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Yaratılış 5:9)"
+    }
+  },
+  "id": "Q134022",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "قينان"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "قينان"
+    },
+    "az": {
+      "language": "az",
+      "value": "Kenan"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "قینان"
+    },
+    "be": {
+      "language": "be",
+      "value": "Каінан"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "কৈনন"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "ཁེ་ནཱན་ནི་ཨེ་ནོ་ཟི་ཞེས་བྱ་བའི་བུ།"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Kenan"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Quenan"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Kenan"
+    },
+    "da": {
+      "language": "da",
+      "value": "Kenan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kenan"
+    },
+    "el": {
+      "language": "el",
+      "value": "Καϊνάν"
+    },
+    "en": {
+      "language": "en",
+      "value": "Kenan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cainán"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "قینان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kenan"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Kénan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Céanán"
+    },
+    "he": {
+      "language": "he",
+      "value": "קינן"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Kenan"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kenan"
+    },
+    "it": {
+      "language": "it",
+      "value": "Kenan"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カイナン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "게난"
+    },
+    "la": {
+      "language": "la",
+      "value": "Cainan"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Каинан"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kenan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Kenan"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kenan"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "قینان"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Cainan"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Cainan"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Каинан"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kenan"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Кенан"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Кенан"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Kenan"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kenan"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Kenan"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Kenan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kenan"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Кинан"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "قینان"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Kainan"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "קינן"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "该南"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "该南"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "該南"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "該南"
+    }
+  },
+  "lastrevid": 17548908,
+  "modified": "2025-09-17T09:47:16Z",
+  "ns": 860,
+  "pageid": 162407,
+  "sitelinks": {},
+  "title": "Item:Q134022",
+  "type": "item"
+}

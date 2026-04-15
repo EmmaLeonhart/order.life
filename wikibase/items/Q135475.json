@@ -1,0 +1,354 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135475$C5A63BAA-4DFC-4D17-B688-82B1386AAC83",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1224220"
+          },
+          "hash": "0774dafd50e4eed140d0a153bd9e49a6d8cd3bcd",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135475$B8FCD26F-48D7-4E77-BCE8-BDEADEA726D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135475$8AFF6C62-3F76-4A1C-A5D7-312C088AA14D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135475$7A02B2B8-6305-4520-9EE5-67C6F015661C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73943",
+              "numeric-id": 73943
+            }
+          },
+          "hash": "5ed4903a05c4a41f7a00fab249897233918fe044",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135475$0DE19F6B-A7ED-455D-8A13-604A0BF0FEC1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73946",
+              "numeric-id": 73946
+            }
+          },
+          "hash": "dc3eae8d9cabcb1af31886df48fbf374cfb122d4",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135475$3C8E08D0-4811-4A59-9BFF-06A4944C4FA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135475$8D9118CC-6908-44B4-B253-C702725FA1BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135475$954C75B6-6CF0-4158-BC67-174B26450EB7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0306-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "da4a59bdccb6f34d118666643f9d36708b725c8d",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135475$63BE5264-5C55-4E4C-AC23-2B940042B450",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q248817"
+          },
+          "hash": "f655e9231a0c8f0e8090965c2a446776da448200",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135475$E3E243D4-3BBE-4AE9-ADB7-10F6D10378AC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip Arms.svg"
+          },
+          "hash": "bc88563bdd485ac5036f4af1e79d0b98fa952ddc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "syn Antigona I. Monofthalma"
+    },
+    "de": {
+      "language": "de",
+      "value": "makedonischer Feldherr und Sohn des Antigonos Monophthalmos"
+    },
+    "en": {
+      "language": "en",
+      "value": "younger son of Antigonus Monophthalmus"
+    },
+    "es": {
+      "language": "es",
+      "value": "príncipe antigónida"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils cadet d'Antigone le Borgne et de Stratonice"
+    },
+    "he": {
+      "language": "he",
+      "value": "בנו של אנטיגונוס מונופתלמוס"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Անտիգոնոս Միակնանու և Ստրատոնիկեի որդի"
+    }
+  },
+  "id": "Q135475",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Филип"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Filip"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Philippos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philippos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιππος (γιος Αντίγονου Μονόφθαλμου)"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philip"
+    },
+    "es": {
+      "language": "es",
+      "value": "Filipo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippe"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיליפוס"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Փիլիպոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Filippo"
+    },
+    "la": {
+      "language": "la",
+      "value": "Philippus Antigoni filius"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഫിലിപ്പ്"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Philip"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Filipe"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Filipe"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филипп"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Філіпп"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "腓力"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "腓力"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "腓力"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "腓力"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "腓力"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "腓力"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "腓力"
+    }
+  },
+  "lastrevid": 17551618,
+  "modified": "2025-09-17T10:25:48Z",
+  "ns": 860,
+  "pageid": 163860,
+  "sitelinks": {},
+  "title": "Item:Q135475",
+  "type": "item"
+}

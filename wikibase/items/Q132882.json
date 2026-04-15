@@ -1,0 +1,433 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Macaria"
+      }
+    ],
+    "la": [
+      {
+        "language": "la",
+        "value": "Macaria (Herculis filia)"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q132882$54D6E5BE-910A-4225-B1CF-DF1FB2255C5F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "403899"
+          },
+          "hash": "de068cc47a0029a527c3adfe041bbdbdd380c6da",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q132882$E0E43A8E-A2FF-4230-8997-002090B454F2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132200",
+              "numeric-id": 132200
+            }
+          },
+          "hash": "457363be67df6525858e743713235dba7d1dd737",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132882$E5196EFF-40F7-4DF3-9069-7458D65D9A66",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132787",
+              "numeric-id": 132787
+            }
+          },
+          "hash": "322136b6d4c1bf3fec65223bd9a32b58d76d8872",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q132882$65D70258-3172-475F-B4F2-54557CAB58BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132882$D2606146-98FF-41AB-AD0B-AE35A3D5DA81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132882$0738F583-14BD-4747-A8E9-3D395317449B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131560",
+              "numeric-id": 131560
+            }
+          },
+          "hash": "5857ea4019a21a5f5b31d30218300dc339727940",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132882$5B968D5A-57AC-42C7-9138-0A2FB33D24E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131715",
+              "numeric-id": 131715
+            }
+          },
+          "hash": "6007347de5ead84825d618d4dd98e871de54d1d5",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132882$0230D491-7192-4EB8-83FA-F436EC8BB8EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132408",
+              "numeric-id": 132408
+            }
+          },
+          "hash": "49548d2e816b79b586da73b3670b0c98b9f20313",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132882$5D276C90-0606-4C83-813E-BBBEAAB021D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132882$B54582E0-EE6A-4F93-B2FA-AB44E1F2BD11",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1550960"
+          },
+          "hash": "1324f536fbd5bc306a833b8ac3e8bca0334e566b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132882$874A09D7-EAA2-48F9-B7DC-F6621CD6AB29",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Macaria Arms.svg"
+          },
+          "hash": "645d3671048398bfb76dcf1ef8493623a6722362",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Tochter des Herakles"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Heracles in Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de Heracles o Hades en la mitología griega"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fille d'Héraclès et de Déjanire"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Héraklész lánya"
+    },
+    "id": {
+      "language": "id",
+      "value": "Putri Heracles Di Mitologi Yunani"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlia di Eracle"
+    },
+    "la": {
+      "language": "la",
+      "value": "Herculis filia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "personer i gresk mytologi"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, dochter van Herakles"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać z mitologii greckiej, córka Heraklesa i Dejaniry"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde tanrı Herakles'in kızı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "персонаж давньогрецької міфології"
+    }
+  },
+  "id": "Q132882",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Макарыя"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Макария"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Macària (filla d'Hèracles)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Makaria"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μακαρία του Ηρακλή"
+    },
+    "en": {
+      "language": "en",
+      "value": "Macaria"
+    },
+    "es": {
+      "language": "es",
+      "value": "Macaria"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماکاریا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Macaria"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Makaria"
+    },
+    "id": {
+      "language": "id",
+      "value": "Makaria"
+    },
+    "it": {
+      "language": "it",
+      "value": "Macaria"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マカリアー"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마카리아"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Makarîa"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Makarîa"
+    },
+    "la": {
+      "language": "la",
+      "value": "Macaria"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Makarija"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Makaria"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Makaria"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Macária"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Macaria"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Макария"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Макарија"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Макарија"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Makarija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Makaria"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Makaria"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Макарія"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Makariya"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "玛卡里亚"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "玛卡里亚"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "瑪卡里亞"
+    }
+  },
+  "lastrevid": 17546700,
+  "modified": "2025-09-17T09:15:46Z",
+  "ns": 860,
+  "pageid": 161267,
+  "sitelinks": {},
+  "title": "Item:Q132882",
+  "type": "item"
+}

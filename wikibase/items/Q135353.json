@@ -1,0 +1,382 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135353$564913F2-8E3D-41FF-8200-1409BDE8FE22",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1224209|465426"
+          },
+          "hash": "fff2f9cd07f79e2bac34177e38b63aec5f4b079a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135353$74034553-11D3-48D4-9335-821D5D6F61D5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738584"
+          },
+          "hash": "8783c3c3d2ceaf94f6ca8794bb4b8f8cd0ed194f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135353$8A824140-C6E9-4389-BEBC-E4167C3C52BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135353$193246F5-60EA-4B7E-9919-43F06BC8D674",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135353$E34E8DA2-A1C7-42D4-85DB-BE0624BFA1BD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135271",
+              "numeric-id": 135271
+            }
+          },
+          "hash": "20099767f6356db298861253661bafdd5c0e3a31",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135353$3413DD1A-1999-48A6-9C79-663C84BAF968",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135353$D4AC2E33-94DF-4CC6-972B-50704A64381C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135353$FE0FB587-66FF-4323-89BA-25627967229F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0326-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bf3e0109ff19214f8bbd57a34fadae842981a57a",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135353$87A4340E-0153-454E-9D83-EE27A8CA887A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1850877"
+          },
+          "hash": "44853f3952056f66cf758779c235d481d069dde5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135353$5BEA86BA-7364-48F1-8A27-F20290BEEEA6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip Arms.svg"
+          },
+          "hash": "bc88563bdd485ac5036f4af1e79d0b98fa952ddc",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "македонскі службовец"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "sàtrapa de l'Índia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Soldat und Statthalter Alexanders des Großen und Sohn des Machatas"
+    },
+    "el": {
+      "language": "el",
+      "value": "γιος του Μαχάτα, αξιωματικός του Μεγάλου Αλεξάνδρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "builder of Alexandria on the Indus"
+    },
+    "es": {
+      "language": "es",
+      "value": "sátrapa de India"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "satrape d'Inde"
+    },
+    "he": {
+      "language": "he",
+      "value": "סטראפ הודו, בנו של מכאטס מאלימיה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "սպա Ալեքսանդր Մակեդոնացու բանակում"
+    },
+    "it": {
+      "language": "it",
+      "value": "ufficiale di Alessandro Magno, figlio di Macata"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Macedonië (-326v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "macedoński satrapa Indii"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "sátrapa da Índia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "македонский сатрап части Индии"
+    }
+  },
+  "id": "Q135353",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فيليب"
+    },
+    "be": {
+      "language": "be",
+      "value": "Філіп"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Піліп"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Филип"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Filip"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philippos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιππος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philip"
+    },
+    "es": {
+      "language": "es",
+      "value": "Filipo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippe"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיליפוס"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Փիլիպոս"
+    },
+    "it": {
+      "language": "it",
+      "value": "Filippo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ピリッポス"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ഫിലിപ്പ്"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Philip"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Filip"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Filipe"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Filipe"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филипп"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Filip"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Філіпп"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "腓力"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "腓力"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "腓力"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "腓力"
+    }
+  },
+  "lastrevid": 17551408,
+  "modified": "2025-09-17T10:22:44Z",
+  "ns": 860,
+  "pageid": 163738,
+  "sitelinks": {},
+  "title": "Item:Q135353",
+  "type": "item"
+}

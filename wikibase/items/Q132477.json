@@ -1,0 +1,601 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thestius"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q132477$5AFADCBE-D03F-4501-AE56-21020B55EC9D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "156457|423651"
+          },
+          "hash": "1a112632988849b842e3e02a32a852c05512369e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q132477$56C7002F-2754-4AF2-AEF5-58117037B46D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132109",
+              "numeric-id": 132109
+            }
+          },
+          "hash": "9feb5c5527997621242dd2bebb91e5f82f6dd609",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$28435AC8-99CE-4B70-BE99-E81E429342A7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133838",
+              "numeric-id": 133838
+            }
+          },
+          "hash": "ea42c38f3ae1196de517616f353220adddae45d9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$856C7D5B-BF27-49D2-9DED-9FDD41B42242",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133837",
+              "numeric-id": 133837
+            }
+          },
+          "hash": "c1882015cd9eef384464787ecc63f48e7eae2101",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$49E38C39-3200-45A8-97AA-EF5776934FD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133840",
+              "numeric-id": 133840
+            }
+          },
+          "hash": "ae50a6d6e1bec01ab7e322ece2ae0227cc66d835",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$83F8FD82-6AF5-48C7-9FA7-7D0380CD5CE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133306",
+              "numeric-id": 133306
+            }
+          },
+          "hash": "e71a01d863b91f332cf3c5e881e1ccfde8e502d3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$35295BC6-C1EB-4694-B470-90FC834F7101",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133839",
+              "numeric-id": 133839
+            }
+          },
+          "hash": "1186bd89bc25fa98add4de87cc8fa8b43f066519",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$DB2586A8-8D97-4A7F-B820-A00E169408E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133844",
+              "numeric-id": 133844
+            }
+          },
+          "hash": "aabbe5107efaacb12e64b341489bead6f192cd6d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$0ACE4F24-D530-4AFB-988F-93F67A0D9C25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133842",
+              "numeric-id": 133842
+            }
+          },
+          "hash": "cb218ab1d1b944be29ed6836437b125dee9507ab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$33A534CC-F070-4C0F-AD85-5527D0D3B1E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133841",
+              "numeric-id": 133841
+            }
+          },
+          "hash": "4e6aedfcd5356b668894b15964368c8947fb412a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$CD55DFCE-7882-4FB4-BEB5-1D0332FD2221",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133843",
+              "numeric-id": 133843
+            }
+          },
+          "hash": "97ba86333781a0a0ed6ad65c1ee0cd00f21419b3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q132477$89B944CF-C7CE-4BBA-BE66-AC27A96CB7B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$349E4FCD-743C-4914-AD75-D4FB380333EB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132477$DADC6917-CFCE-4BFC-99C1-28DC39CFACD2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133305",
+              "numeric-id": 133305
+            }
+          },
+          "hash": "492c9b55a16961587ad709e6de8a0647622b9be7",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$33A2CCF4-D346-47B2-8EB0-5A4639914AE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133835",
+              "numeric-id": 133835
+            }
+          },
+          "hash": "981bb15258b2d7408e5efb0e32c168d1dd5faf6c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132477$8A42B362-B0C5-4E33-B039-D420DBF61CFA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133836",
+              "numeric-id": 133836
+            }
+          },
+          "hash": "415bc375cff2e5099c4e093c298d9dee67bc86fc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132477$75025A6B-18EC-4991-9B3F-04F025F0B70D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131228",
+              "numeric-id": 131228
+            }
+          },
+          "hash": "c8eda725c602d5ff8d634300c4d6b1f68c862243",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132477$90EA3947-B2F0-41AE-95DE-1C4B0D3A0F9C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131230",
+              "numeric-id": 131230
+            }
+          },
+          "hash": "47ee213af8d43de2d88d2a3ae9f5916e8b99a2c3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132477$DAE342F1-E7A2-49C3-B3C3-0F0028FDBBCB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132477$D841C860-1559-4062-A0B0-4126073CFB3A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q768822"
+          },
+          "hash": "92d6576b58902a893a4fc66cf7ebbc31e8c66527",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132477$239AE4E0-41E4-4685-8D58-575FF64AD48D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thestius Arms.svg"
+          },
+          "hash": "2c3ca0857385d7a9c671c3f5800dd58fb6cdc647",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be": {
+      "language": "be",
+      "value": "персанаж старажытнагрэчаскай міфалогіі"
+    },
+    "de": {
+      "language": "de",
+      "value": "König der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Agenor in Greek mythology"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Etolia nella mitologia greca, figlio di Ares"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde Agenor'un oğlu"
+    }
+  },
+  "id": "Q132477",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Фестый"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Тестий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Testi"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Thestios"
+    },
+    "de": {
+      "language": "de",
+      "value": "Thestios"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θέστιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thestius"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Testio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Testio"
+    },
+    "et": {
+      "language": "et",
+      "value": "Thestios"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Thestios"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Thestios"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Testio"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Θέστιος"
+    },
+    "he": {
+      "language": "he",
+      "value": "תסטיוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Thesztiosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Ֆեստի"
+    },
+    "it": {
+      "language": "it",
+      "value": "Testio"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テスティオス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "테스티오스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Testios"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Testios"
+    },
+    "la": {
+      "language": "la",
+      "value": "Thestius"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Testijus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Thestios"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thestius"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Thestios"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Téstio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Фестий"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Testije"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Thestios"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Тестије"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Thestios"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тестій"
+    }
+  },
+  "lastrevid": 17545908,
+  "modified": "2025-09-17T09:05:01Z",
+  "ns": 860,
+  "pageid": 160862,
+  "sitelinks": {},
+  "title": "Item:Q132477",
+  "type": "item"
+}

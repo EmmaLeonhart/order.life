@@ -1,0 +1,324 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochis of Commagene"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136754$2672C53B-1F18-456F-BE23-108C2D8F5152",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "169078"
+          },
+          "hash": "f138075a78f82ed897ece268d5d6b0b1c8e76699",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136754$3EB9ACD8-31C5-443C-B2E0-63CEC4C49A27",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137167",
+              "numeric-id": 137167
+            }
+          },
+          "hash": "648bc69fdb58b36c5fd427da047e5a89390d6958",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136754$6F0B6149-DA39-4124-80C4-81F7E1DB5A32",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136754$6DA7FF3B-E065-4435-9E7E-C43970914720",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136754$DDD3FA5B-B4EF-4370-A25C-03EC51D47361",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochis_of_Commagene_(1)"
+          },
+          "hash": "3f0250cbee58d2a80c8d9dd4ec241d61f75739c3",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136754$5EE3D51A-1451-49EA-B306-C0CEE11EA6A2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72538",
+              "numeric-id": 72538
+            }
+          },
+          "hash": "65fe6e91316aca78cfa036a5a0070b5f6f267f9d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136754$A2DDCA74-BB81-4A86-9CBB-14D66F0AB834",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72541",
+              "numeric-id": 72541
+            }
+          },
+          "hash": "f9e5bce08a3f419d41d0e98411b78b04ab159292",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136754$4F8DB384-1E89-4EF6-8048-1639501C21AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136754$77AF6DDF-EAE4-4217-9ECE-96B7E7AFCC8F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cd2518e0a186c79fba27561cecab35c84933b097",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136754$DB310CB8-2EFB-4CA4-946B-1013934EFC6A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0001-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "19585ebc3231970eccfe06ed51100345dc7e3572",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136754$99F34018-4BB4-4096-8F0D-A33F4B42EA79",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3626128"
+          },
+          "hash": "ab227a72f19cd7c5b5fc0e86fc57d55146560f97",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136754$2BD26394-0F0E-4833-8F52-5FC2C2354B6A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochis of Commagene Arms.svg"
+          },
+          "hash": "a36d5f187c28dfafaf808fbb1ce2db58e5308378",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "princess of Commagene"
+    },
+    "es": {
+      "language": "es",
+      "value": "princesa de Comagene"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aristocrate uit Koninkrijk Commagene (-)"
+    }
+  },
+  "id": "Q136754",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "انطاكيه كوماجين"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиохида"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντιοχίς της Κομμαγηνής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochis of Commagene"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Antiochis of Commagene"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Antiochis of Commagene"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antióquide de Comagene"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiochis dari Commagene"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antiochide di Commagene"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochis of Commagene"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antiohida od Komagene"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Antiochis of Commagene"
+    }
+  },
+  "lastrevid": 17553613,
+  "modified": "2025-09-17T10:54:26Z",
+  "ns": 860,
+  "pageid": 165139,
+  "sitelinks": {},
+  "title": "Item:Q136754",
+  "type": "item"
+}

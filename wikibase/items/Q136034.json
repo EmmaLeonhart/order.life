@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Saint Bilo"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136034$803D78B4-F9CF-4787-B08A-3AD7010287D7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136034$CB19D997-692D-473D-9E69-035F377D6549",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136034$E713D484-5DC2-46A1-8DE6-3C9DA8D527DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135820",
+              "numeric-id": 135820
+            }
+          },
+          "hash": "5a0062623d1c14d1d48cb35c196db69fc0f4abd3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136034$49DA8939-234B-472F-A1D9-5B7820B80217",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136034$946AD27B-7F00-41B6-9DD3-4AA9FAB38F43",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136034$49FCE1F4-D263-4E38-80CD-6B31B84C60B2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q51908481"
+          },
+          "hash": "57b848d3388cb3b680eb7e703b012bfe16d4461f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136034$0AD82AD1-FFDF-4A86-B3D8-1AC8C0C7C288",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Saint Bilo Arms.svg"
+          },
+          "hash": "ac49f3232d2a0f0371d68efabb3acf35f9ffdfd3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "santa galesa"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "santes Geltaidd o'r 5g"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th century female Welsh saint"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "5th century female Welsh saint"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "sainte Galloise du 5ème siècle"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "naomh Breatnach sa 5ú haois"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "religieus leider uit Wales"
+    }
+  },
+  "id": "Q136034",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Beilo"
+    },
+    "en": {
+      "language": "en",
+      "value": "Saint Bilo"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Saint Bilo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Santa Bilo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sainte Bilo"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Santes Belyau"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Belyau"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Saunt Belyau"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Shën Bilo"
+    }
+  },
+  "lastrevid": 17552469,
+  "modified": "2025-09-17T10:38:00Z",
+  "ns": 860,
+  "pageid": 164419,
+  "sitelinks": {},
+  "title": "Item:Q136034",
+  "type": "item"
+}

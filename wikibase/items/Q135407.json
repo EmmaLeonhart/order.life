@@ -1,0 +1,511 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Zedekiah"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135407$C569FF25-0F08-4670-8118-379231B8DDCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "79457|32550|1227547"
+          },
+          "hash": "d0de3c8baa2a5ebc75930067702517db26e86a81",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135407$4A34BFCE-FCF5-4C26-9009-681977D328E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135541",
+              "numeric-id": 135541
+            }
+          },
+          "hash": "034b3c9094d92c19434ccb6fec5e2117550f6a93",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135407$283C572E-8D08-46A5-9B86-A6D706C20D2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135407$491788C0-CF03-481C-B734-0672E0238416",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135407$EF7277F7-E30C-4847-AC92-E968D410C655",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135301",
+              "numeric-id": 135301
+            }
+          },
+          "hash": "7cca5c94b5071d3b94bedf2e1e9acaabe9d74a77",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135407$14A2224A-E93A-4616-AD55-62C574EB2415",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135405",
+              "numeric-id": 135405
+            }
+          },
+          "hash": "af4eea51505d95cbb1c3d6b32eccf62ed8acdee5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135407$EBA04170-161C-42C5-B8FE-54F8A55F7FF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135407$11B93F30-F9D5-4441-B1AE-0D15082EA94D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0617-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d3eb866750a67e5ac76d4da6a637d489980513a0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135407$27F3F305-1EB9-4357-B809-77CA621A246B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0550-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "057b4279045a572e3421699e1c1864ed499e0834",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135407$0E4C377F-2024-49B6-9A00-387613628B70",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q184273"
+          },
+          "hash": "1e56e3a8f1b2f2fee5e48632b223dbe18664773f",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135407$711A6E2B-5B79-49AE-96B2-429BE404719C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Zedekiah Arms.svg"
+          },
+          "hash": "8efad640a2b53d9ba71625e607375c8ee54ba80b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك مملكة يهوذا"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "judský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "letzter König von Juda"
+    },
+    "en": {
+      "language": "en",
+      "value": "Biblical character and final King of Judah"
+    },
+    "es": {
+      "language": "es",
+      "value": "(20º) vigésimo y último rey de Judá"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Judeako erregea"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi de Juda"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "βασιλεὺς Ιουδα"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך יהודה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Júda királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "eroe della Bibbia, ultimo re di Giuda"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ユダ王国の最後の王"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Judy"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "20⁰ e Último Rei de Judá"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "20⁰ e Último Rei de Judá"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "иудейский царь"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "MÖ 597'den 587'ye kadar hüküm süren yirminci ve son Yahuda kralı (2. Krallar 24:17)"
+    }
+  },
+  "id": "Q135407",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Sedekia"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "صدقيا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "صدقيا"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "صادقیا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Седэкія"
+    },
+    "br": {
+      "language": "br",
+      "value": "Zedekias"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Sedecies"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Sidkijáš"
+    },
+    "da": {
+      "language": "da",
+      "value": "Sidkija"
+    },
+    "de": {
+      "language": "de",
+      "value": "Zedekia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σεδεκίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Zedekiah"
+    },
+    "es": {
+      "language": "es",
+      "value": "Sedecías de Judá"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Sedekias"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "صادقیا"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Sidkia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Sédécias"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Sedekía fan Juda"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Zidiciá"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Σεδεκίας"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Sî-tí-kâ-vòng"
+    },
+    "he": {
+      "language": "he",
+      "value": "צדקיהו"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Cidkija júdai király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Սեդեկիա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Zedekia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Sedecia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ゼデキヤ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "시드기야"
+    },
+    "la": {
+      "language": "la",
+      "value": "Sedechias uel Mathanias"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Zedekijas"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Zedekia"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Sidkia av Juda"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Sedekia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Sedecjasz"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Zedequias"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Седекия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Zedekija"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "صدقیاہ"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Седекија"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Sidkia"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Sedekia"
+    },
+    "th": {
+      "language": "th",
+      "value": "เศเดคียาห์"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Zedekias"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Sidkiya"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Седекія"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "صدقیاہ"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "צדקיהו"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "西底家"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "西底家"
+    }
+  },
+  "lastrevid": 17551502,
+  "modified": "2025-09-17T10:24:05Z",
+  "ns": 860,
+  "pageid": 163792,
+  "sitelinks": {},
+  "title": "Item:Q135407",
+  "type": "item"
+}

@@ -1,0 +1,422 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus XIII Asiaticus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136162$96E19A05-FB55-4F42-9B3E-4FFF40BFA7A2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736600"
+          },
+          "hash": "85334f4800aa3ca70df6167e6b538cdb3bb6e186",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136162$8D7E041D-F74A-46DC-A3F7-9C8C57D8B35B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136162$2452C6B1-1C09-4F7A-ABB2-711471896B90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136162$9202DD1F-73A2-4B60-9B1C-242DFB1E9DF2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136160",
+              "numeric-id": 136160
+            }
+          },
+          "hash": "96047ffd25a5046feb47ba32bbce97fc2567f897",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136162$DF6CC2C6-A6F6-4241-933B-24AF863C4311",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135922",
+              "numeric-id": 135922
+            }
+          },
+          "hash": "4356d1717393a4a2899197a3367e44a965ed1f12",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136162$E335506F-8A7C-4B23-B88C-8ADF60ADCF40",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136162$830BFF02-7182-4CF4-8FCA-D648D804C900",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0085-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18a622e22c54750f4d63766815d0cab53cf01ac4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136162$815C5791-3BCC-42DB-B6D6-097480E66F69",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0064-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6d917d918d6a1d1d312394a320d086ceb09a92b4",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136162$6EE92B54-F7B8-4D6A-A4B9-57816FF9D4E0",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313733"
+          },
+          "hash": "973183e7a90cd3638f4595e39c33f924b399060b",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136162$03B143CB-C23F-484A-BCD1-AB8C60969CB1",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus XIII Asiaticus Arms.svg"
+          },
+          "hash": "32be0cd09b650343b364b156b490e4c0d286d736",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König von Syrien"
+    },
+    "en": {
+      "language": "en",
+      "value": "last Seleucid king of Syria"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Penguasa Seleukia"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 92-83, 73-64 a.C.)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "konge av Selevkideriket"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Seleucidische rijk (85v Chr-64v Chr)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Сирії"
+    }
+  },
+  "id": "Q136162",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس الثالث عشر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخوس التلاتاشر"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "اوْناۆچونجو آنتیوخوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыёх XIII Дыяніс Калінік"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох XIII Азиатик"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc XIII Asiàtic"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antiochos XIII. Asiaticus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antiochos 13. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos XIII."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Antiochos XIII."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος ΙΓ' Ασιατικός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus XIII Asiaticus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Antiochus XIII Asiaticus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Antiochus XIII Asiaticus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco XIII Asiático"
+    },
+    "et": {
+      "language": "et",
+      "value": "Antiochos XIII Asiatikos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antioko XIII.a Asiarra"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس سیزدهم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiokhos XIII Asiatikos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos XIII"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס השלושה עשר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "XIII. Antiokhosz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiokhos XIII Asiaticus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco XIII"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオコス13世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안티오코스 13세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antiochus XIII Asiaticus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antiokos XIII Asiatikos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus XIII Asiaticus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Antiokos XIII Asiatikos"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch XIII"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco XIII Asiático"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco XIII Asiático"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох XIII Дионис Каллиник"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh XIII Azijatik"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антиох XIII Азијатик"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antiochos XIII"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох XIII Азійський"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos XIII Asiaticos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安條克十三世"
+    }
+  },
+  "lastrevid": 17552667,
+  "modified": "2025-09-17T10:40:48Z",
+  "ns": 860,
+  "pageid": 164547,
+  "sitelinks": {},
+  "title": "Item:Q136162",
+  "type": "item"
+}

@@ -1,0 +1,470 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tydeus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q133443$DB28626F-ACDA-4F46-8A7A-C2276577169C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "416969"
+          },
+          "hash": "cfcf26529fdb74df52098296e74d1d56987286ad",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q133443$3A75FDC7-1FCF-49C2-BAC3-CC3943BE741B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133825",
+              "numeric-id": 133825
+            }
+          },
+          "hash": "287e23e20d41e67b124052cdb9762379ee5a0b6a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133443$78640E9A-E3DF-4B13-91E4-30E177E6C084",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134354",
+              "numeric-id": 134354
+            }
+          },
+          "hash": "8da85a11367f5ebb4e18b63c7a46ccd6fcad1f76",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133443$19171D09-9B50-4701-9C73-0A95F5A42021",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134355",
+              "numeric-id": 134355
+            }
+          },
+          "hash": "deeb8133a1522c977ffd8756ed906db8fd295686",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q133443$0BCE5842-E26D-41DB-97DB-9AB5B4DBA4AB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q133443$CA143E30-27AD-467A-9987-BDCD4532247D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q133443$192B782A-4A80-4AF3-B4CC-A5B113C27BBF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134353",
+              "numeric-id": 134353
+            }
+          },
+          "hash": "aba5640ff0f45967bd05fd8fcfcadb45e5fe66cf",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q133443$B3F88CC3-61AE-4E24-B614-F2405579BF87",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132242",
+              "numeric-id": 132242
+            }
+          },
+          "hash": "f8160abd95a3e784a9f47f97075d0d6bd0b078a8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q133443$9DF9F302-D6B2-414B-BA1B-C6742C69218A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133438",
+              "numeric-id": 133438
+            }
+          },
+          "hash": "dbe80080cbec0072021294af04d624145b1cc3b3",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q133443$A4D5D4B5-3C37-4FA1-9BA3-0078C8145A8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q133443$D3ECDA4C-AAE7-4FB2-821D-F73C4F68797D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q250506"
+          },
+          "hash": "3df4d3f01d6275c66fc3377b8d5b16b24a53d5b5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q133443$71638DD3-5FB5-4CD5-BC77-067FB3FD3AEC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tydeus Arms.svg"
+          },
+          "hash": "12ffcffdcde3963f642c32fc9afa97e60037c9d9",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "شخصية من الاساطير الاغريقية"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Oeneus in Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la mitología griega"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fils d'Œnée"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "fillo do rei de Calidón"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות במיתולוגיה היוונית"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia classica"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, zoon van Oeneus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "oseba v grški mitologiji; Ojnejev sin"
+    }
+  },
+  "id": "Q133443",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تيديوس"
+    },
+    "az": {
+      "language": "az",
+      "value": "Tidey"
+    },
+    "be": {
+      "language": "be",
+      "value": "Тыдэй"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Тидей"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tideu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Týdeus"
+    },
+    "da": {
+      "language": "da",
+      "value": "Tydeus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tydeus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Τυδέας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tydeus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Tideo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tideo"
+    },
+    "et": {
+      "language": "et",
+      "value": "Tydeus"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تودئوس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Tydeus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Tydée"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Tideo"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Τυδεύς"
+    },
+    "he": {
+      "language": "he",
+      "value": "טידאוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Tüdeusz"
+    },
+    "io": {
+      "language": "io",
+      "value": "Tideus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Týdeifur"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tideo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "テューデウス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "티데우스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Tîdeûs"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Tîdeûs"
+    },
+    "la": {
+      "language": "la",
+      "value": "Tydeus"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Tidėjas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tydeus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Tydeus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Tideu"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тидей"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tidej"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Tydeus"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Tidej"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Тидеј"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Tydeus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Tydeus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Тідей"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Tydeus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "堤丢斯"
+    }
+  },
+  "lastrevid": 17547772,
+  "modified": "2025-09-17T09:31:01Z",
+  "ns": 860,
+  "pageid": 161828,
+  "sitelinks": {},
+  "title": "Item:Q133443",
+  "type": "item"
+}

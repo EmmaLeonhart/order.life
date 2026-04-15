@@ -1,0 +1,832 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Marcus Aurelius Valerius Maximianus Herculius"
+      },
+      {
+        "language": "en",
+        "value": "Maximian, Western Roman Emperor"
+      },
+      {
+        "language": "en",
+        "value": "Maximian"
+      },
+      {
+        "language": "en",
+        "value": "Afranius Hanniballianus"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q61598$EBFBE090-5CB3-42BE-B9D6-2BE92076F74C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "144087|561531"
+          },
+          "hash": "d4cc2588923964df5069cf9239045bdb6178e247",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q61598$5BB67C70-937B-4A55-BE76-3F118909A684",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446941"
+          },
+          "hash": "b42055ad30369ca54ccce2f9e2bb484acd8e9639",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q61598$A799E058-9448-452B-8372-4A9A9B584B3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61334",
+              "numeric-id": 61334
+            }
+          },
+          "hash": "01416a5be34c3f5f5155485ad6ec9e7a0110b072",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61598$99BA577C-68B2-47F2-95F2-37E96381E2A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136814",
+              "numeric-id": 136814
+            }
+          },
+          "hash": "7b5b800e85456d6a8c13aac00c25aa7d352de0a2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61598$45DA9544-51E6-43E1-B813-79B3EF3E7D46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61532",
+              "numeric-id": 61532
+            }
+          },
+          "hash": "94dce358ea7f846dcc355ca839a67d9bff439dc4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q61598$3608E503-154C-4F3C-B4C2-DE83A5858F89",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Maximian-1"
+          },
+          "hash": "e8ede354508836cff1a0643cdeacd158ace27eeb",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q61598$80064CDE-4E9B-44F8-A900-FB3B87B0E2FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61598$57C9155A-F847-4B8F-8276-4D3342B748CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q61598$CC352B86-A5C1-4EE1-A465-535362AC7DEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Maximian_(1)"
+          },
+          "hash": "b3905653110ab353d7cc5baf5ac5f6adea034fad",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q61598$284EC1BF-B6F6-436F-8468-B04BD40A7AB6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61631",
+              "numeric-id": 61631
+            }
+          },
+          "hash": "d5f900d1bc9925d73faa27f5fc9d354b30fb7b2a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61598$41CFB616-B9BB-4B43-B58F-41341A956BE0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136812",
+              "numeric-id": 136812
+            }
+          },
+          "hash": "4b375fd298e6a2f13079791de5586dec6df0ef74",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q61598$1FB451B6-CF23-4C5D-8494-41E4A391B13F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136810",
+              "numeric-id": 136810
+            }
+          },
+          "hash": "ff53b3e44b27c1104071dba37989bd6f4c76c9ca",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q61598$58651630-A3A3-4144-81C1-28E0F9E793AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q61598$40713050-2FE1-4788-987A-7D488861FF00",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0240-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5447f6cf4f10f641235b4333b88a0c1c264cb95d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q61598$8D404C97-7777-4683-997A-35616D87A9A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0310-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5487b2838987c234663b1fac522ed18ff2091adf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q61598$981C4170-90E2-4B21-A39E-215EC28E60CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q46768"
+          },
+          "hash": "718cea33b58529d91397a5e5189c183a1f2bf834",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q61598$4E7030C3-D444-4E80-9CBB-F208FCD710D2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000000930944231"
+          },
+          "hash": "1c9e4414a1c7a68254fafc2e30e425a12823529f",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q61598$2DEEC9CA-45A4-457E-8D78-46D674EE35CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006788666727"
+          },
+          "hash": "19cc71a3fa1e32a028c9edd24c08d3ca8c40262d",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q61598$78FD7092-B3EC-4444-BF62-9579ADF92FEA",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:34002"
+          },
+          "hash": "36390ac8d6cfb0b1411f013b05f9b3437d2cf754",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q61598$09A72EBA-F687-4391-AD58-DA2BF8759D2B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Maximian Arms.svg"
+          },
+          "hash": "9264a3857f8cb832efb4c534e3f7ad545b185a2b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q61598$E8136AF6-BE84-4D07-8A01-531E311F12CC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/EBB34873-B5D9-4143-8680-770AA7C10409"
+          },
+          "hash": "7f2b9785b5682cde8930a3d609792d817c017037",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "إمبراطور روماني"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "emperador romà"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "římský císař"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "ymerawdwr Rhufeinig"
+    },
+    "de": {
+      "language": "de",
+      "value": "Kaiser des römischen Reichs"
+    },
+    "en": {
+      "language": "en",
+      "value": "Roman emperor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Emperador romano de occidente (286-305)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Rooman keisari"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "empereur romain d'Occident de 286 à 305"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "emperador romano entre 286 e 305"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסר רומי מיולי 285 ואוגוסטוס מ-1 באפריל 286 לצד דיוקלטיאנוס, עד התפטרותם המשותפת ב-1 במאי 305."
+    },
+    "hu": {
+      "language": "hu",
+      "value": "a Római Birodalom császára"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisar Romawi dalam sistem Tetrarki sebagai Augustus dari tahun 286 hingga 305 Masehi"
+    },
+    "it": {
+      "language": "it",
+      "value": "imperatore romano, cesare (r. 285-286) e poi augusto (r. 286-305) d'Occidente"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "réimesche Keeser"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "римски владетел"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk keiser"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (240-310)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский император"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "римски цар"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Diocletianus ile müşterek görev yapmış Roma İmparatoru (286-305)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "римський імператор у 286—305 рр."
+    },
+    "ur": {
+      "language": "ur",
+      "value": "رومی شہنشاہ"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hoàng đế La Mã từ năm 286 đến 305"
+    }
+  },
+  "id": "Q61598",
+  "labels": {
+    "an": {
+      "language": "an",
+      "value": "Maximián"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "مكسيميانوس"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ماكسيميان"
+    },
+    "az": {
+      "language": "az",
+      "value": "Maksimian"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ماکسیمیان"
+    },
+    "be": {
+      "language": "be",
+      "value": "Максіміян"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Максимиан"
+    },
+    "br": {
+      "language": "br",
+      "value": "Maximianus Herculius"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Maximià"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Maximianus"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Maximian"
+    },
+    "da": {
+      "language": "da",
+      "value": "Maximian Herculius"
+    },
+    "de": {
+      "language": "de",
+      "value": "Maximian"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Maximianus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαξιμιανός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Maximian"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Maximian"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Maximian"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Maksimiano"
+    },
+    "es": {
+      "language": "es",
+      "value": "Maximiano"
+    },
+    "et": {
+      "language": "et",
+      "value": "Maximianus"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Maximiano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "ماکسیمیان"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Maximianus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Maximien Hercule"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Maksimianus"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Maximian"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Maximiano"
+    },
+    "hak": {
+      "language": "hak",
+      "value": "Maximian"
+    },
+    "he": {
+      "language": "he",
+      "value": "מקסימיאנוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Maksimijan"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Marcus Aurelius Maximianus római császár"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Maximiano"
+    },
+    "id": {
+      "language": "id",
+      "value": "Maximianus"
+    },
+    "is": {
+      "language": "is",
+      "value": "Maximianus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Massimiano"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マクシミアヌス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "막시미아누스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Maximianus"
+    },
+    "la": {
+      "language": "la",
+      "value": "Maximianus"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Maximian Herculius"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Maksimianas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Максимијан"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Maximian"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Maximianus"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Massimiàn"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Maximianus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Maximianus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Maximianus av Romarriket"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Maximian Herculi"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Maksymian"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Maximiano"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Maximiano"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Maximian"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Максимиан"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Massimianu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Maximian"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Maksimijan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Maksimijan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Maksimiani"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Максимијан"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Maximianus"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Kaizari Maximian"
+    },
+    "th": {
+      "language": "th",
+      "value": "จักรพรรดิมักซิมิอานุส"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Maximian"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Maximian"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Максиміан"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "میکسیمیان"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Maximianus"
+    },
+    "war": {
+      "language": "war",
+      "value": "Maximianus (emperador)"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "马克西米安"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Maximian"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馬克西米安"
+    }
+  },
+  "lastrevid": 17471180,
+  "modified": "2025-09-16T15:06:26Z",
+  "ns": 860,
+  "pageid": 76429,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q61598",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q61598"
+    }
+  },
+  "title": "Item:Q61598",
+  "type": "item"
+}

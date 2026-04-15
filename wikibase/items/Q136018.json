@@ -1,0 +1,278 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Garbanion ap Coel Hen"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136018$61DF6451-42B2-4372-BF9F-2C2E699104E9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "997591"
+          },
+          "hash": "3fb09a435f40039496bb0bb32124442c867a3cba",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136018$9A5FBC69-E7AE-4988-8067-9D4B12158E0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136256",
+              "numeric-id": 136256
+            }
+          },
+          "hash": "22c7c52537f46445b161ea08234a8401e2b4ef01",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136018$9845ACA8-D6C7-4D90-9FC4-493EBF15A0D0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136018$06C5857F-565D-4344-B64A-85E6CA0F80CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136018$650F3639-3B0B-4243-A538-1E313638EE8B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136016",
+              "numeric-id": 136016
+            }
+          },
+          "hash": "d8c00ab4f3a2b5a5e5caf3b17b0e133a9a050c9d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136018$DB7E724D-FA27-442B-8B20-96E73F717C8E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136018$E0E3AAA4-B148-4B08-BD48-6AA89D3A82F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0392-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "64807d7fc7e7fb99b5ad90a1153bc8eecb2380d4",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136018$41D1B21C-D502-46CF-9654-54ADB15FDE31",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0445-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9778c886b9b148ef90ab1038a9d2defcda801cdb",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136018$0D5849C3-1699-4B23-955F-8C8692A1354C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q645109"
+          },
+          "hash": "e9caa8f4939570bb285fb4446395d6b782e8a50a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136018$F9797277-D56E-4AE8-8413-152605A04427",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Garbanion ap Coel Hen Arms.svg"
+          },
+          "hash": "83e695b4b8ed14307ad58ab870aaf8cfa8426f60",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenin (392-445)"
+    },
+    "en": {
+      "language": "en",
+      "value": "sovereign (392-445)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi britonnique du Vème siècle"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    }
+  },
+  "id": "Q136018",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Гарбаніян ап Коэль"
+    },
+    "br": {
+      "language": "br",
+      "value": "Garbanion ap Coel"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Garbanion ap Coel Hen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Garbanion ap Coel Hen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Garbanion ap Coel Hen"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Garbanion ap Coel"
+    },
+    "it": {
+      "language": "it",
+      "value": "Garbanion ap Coel Hen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Garbanion ap Coel Hen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гарбониан ап Коэль"
+    }
+  },
+  "lastrevid": 17552441,
+  "modified": "2025-09-17T10:37:36Z",
+  "ns": 860,
+  "pageid": 164403,
+  "sitelinks": {},
+  "title": "Item:Q136018",
+  "type": "item"
+}

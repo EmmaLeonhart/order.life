@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alexander"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135776$EACBCE0C-6CD9-4A14-9006-30B9EFCAA454",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736571"
+          },
+          "hash": "c9cb0d5aacc78f2474d57f6f898e51588305c809",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135776$E4A84EDC-D33A-4566-A840-26A5CC0B1C70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135776$D9E4FDB2-3F51-4F92-9887-2712F2FCC214",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135776$ED3EB59D-3225-4B65-88B2-0F39FAA176E0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73746",
+              "numeric-id": 73746
+            }
+          },
+          "hash": "ae6f1d07644a75a2e59e0c5287c5e828af56855a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135776$A36DAB44-D29E-4F0D-B158-4F0D90560C1B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135776$F0CA588A-D608-4C42-8628-5A8A73A453B9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c565e283c37b5f590c06c528e6a2b6ea4cd9956c",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135776$AC19CF3F-E414-4316-B30A-F595B21725B2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0300-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0ed53eb06a11f03e5cc2bd7d32c577b03730eda6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135776$C86C9901-E743-4830-88AE-BD352E575AEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1345852"
+          },
+          "hash": "56e7013fcc221fb61b8ebae2e784bb587dc253f2",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135776$0DC1A5D2-021C-4000-9FA6-CF507C989625",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexander Arms.svg"
+          },
+          "hash": "77fc223e78c5bd008a963395c84ab452e94e66cb",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Statthalter des Seleukidenreichs"
+    },
+    "el": {
+      "language": "el",
+      "value": "εγγονός του Σέλευκου Α΄ του Νικάτορος"
+    },
+    "en": {
+      "language": "en",
+      "value": "3rd-century BC Seleucid nobleman and official"
+    },
+    "es": {
+      "language": "es",
+      "value": "oficial seléucida, hijo de Aqueo (siglo III a. C.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "officier séleucide"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlio di Acheo"
+    }
+  },
+  "id": "Q135776",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Александър"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alexandros"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλέξανδρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alexander"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Alexander"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Alexander"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aleksandro"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alejandro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alexandros"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alessandro"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アレクサンダー"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alexander"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Alexandre"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Alexandre"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Александр"
+    }
+  },
+  "lastrevid": 17552111,
+  "modified": "2025-09-17T10:32:48Z",
+  "ns": 860,
+  "pageid": 164161,
+  "sitelinks": {},
+  "title": "Item:Q135776",
+  "type": "item"
+}

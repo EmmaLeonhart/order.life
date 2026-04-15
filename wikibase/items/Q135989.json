@@ -1,0 +1,362 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Æscwine of Wessex"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q135989$A55BD569-C621-4E10-BEAB-8F9DFC70DBCE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wessex-355"
+          },
+          "hash": "196538f6009887b72f513150f68ccea02d95e6cf",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135989$B62EC6D2-3C26-48DA-98D1-240E3E89E227",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135989$2DA4CEAD-1E4B-4BE4-BC9F-6903E92A4B78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q135989$B4B13DE5-CD39-41F1-A523-E5C290A87E44",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p10267.htm#i102667"
+          },
+          "hash": "6e28982ce6f1724f0d2fd03152f36574a8723fc4",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135989$BF9A3C7A-E152-4E14-9BD0-F31C5A3C43D8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135804",
+              "numeric-id": 135804
+            }
+          },
+          "hash": "ee44bcb5c6aee329455737ae28dfd24a1d2ab94a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135989$874335AA-075D-4542-ADE8-D55232BF27D4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135989$49442302-D610-46B1-82C4-0792EE438271",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0700-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1df0d1f7be99978f9e1ad4f177d09a6b95941413",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135989$E182FCFD-0C87-4017-A273-2A979652E20D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0676-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "2e528e0b5c41ac34b0d68dd4dbb6215b81446fa9",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135989$BF0B863A-2E2D-4929-B0FD-738664F1B612",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q272142"
+          },
+          "hash": "0e3147999d50bf1986d178e3c2af6ed43ccc70f8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135989$A8B996DE-C398-409F-BC24-733A034100D4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Æscwine of Wessex Arms.svg"
+          },
+          "hash": "fd33455f425217eab5aec1f03d94b9859382a60a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "král Wessexu"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Wessex"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Wessex"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi du Wessex"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "rei de Wessex até 676"
+    },
+    "it": {
+      "language": "it",
+      "value": "re del Wessex"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "koning van de Gewissæ van 674 tot 676"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Уэссекса"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "engelsk monark"
+    }
+  },
+  "id": "Q135989",
+  "labels": {
+    "ang": {
+      "language": "ang",
+      "value": "Æscwine"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Æscwine"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Æscwine"
+    },
+    "de": {
+      "language": "de",
+      "value": "Æscwine"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ασκουίν του Ουέσσεξ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Æscwine of Wessex"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Æscwine of Wessex"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Æscwine of Wessex"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Eskvino"
+    },
+    "es": {
+      "language": "es",
+      "value": "Æscwine de Wessex"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aescwine"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Æscwine"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Aescwine de Wessex"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aescwine del Wessex"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エシュウィネ (ウェセックス王)"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Eskvinas"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Æscwine of Wessex"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Aescwine de Wessex"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Escuíno de Wessex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эсквин"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Aescwine od Wessexa"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Æscwine av Wessex"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Есквін"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃什温"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "埃什温"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "埃什溫"
+    }
+  },
+  "lastrevid": 17552415,
+  "modified": "2025-09-17T10:37:13Z",
+  "ns": 860,
+  "pageid": 164374,
+  "sitelinks": {},
+  "title": "Item:Q135989",
+  "type": "item"
+}

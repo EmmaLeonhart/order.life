@@ -1,0 +1,293 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Guoremor"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135814$8C36B07D-4FC5-42E1-90DE-D7D00FEE9E16",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00773007"
+          },
+          "hash": "4cb71b317d2a00ebc09808564eefdb5e9e5571c0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135814$234150CD-D2B7-44B4-A8C1-95EDEF143B09",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136015",
+              "numeric-id": 136015
+            }
+          },
+          "hash": "127b42d698a956bc1148c98de83867d127c9422c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135814$0133A257-C0ED-44FD-A795-E7C37CA6FD98",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136014",
+              "numeric-id": 136014
+            }
+          },
+          "hash": "ab968f1a7e1a7b5730fac94ada1d366a2e405d7e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135814$E9BF0D8F-9965-463D-94C5-0EFD56CA1DE5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135814$91D1AC1E-7B49-4570-8A58-5120C5BB27C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135814$0EEE9D93-4B6B-42EE-9AF8-DE00972D7A78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135699",
+              "numeric-id": 135699
+            }
+          },
+          "hash": "45b318bf37280f8a6d051a0b361886497d7bed86",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135814$D324F222-5FA2-414F-924D-8AFCCCB52C13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135814$B1D9475A-4AA2-46BE-8103-2CD0A5C960B2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0358-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bf66040a82f02d147737637af4b1bddef7719c9b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135814$9FFB68E7-5450-49EF-9181-F84A9AEF76F6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0415-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "18af980d208bb3354867ea72dd9f2660a6492cb6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135814$27437D25-8D2B-4498-984B-B803CAD4DD6E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3779835"
+          },
+          "hash": "9f7c85907ec6792f6faa9d2c86a3ff6bfa6a06e8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135814$F54929B8-D4DC-4FA8-90C6-D0080F5B4C35",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Guoremor Arms.svg"
+          },
+          "hash": "14be74e370a3254fa0d5428d1b552be26cd6670a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "brenin (358-415)"
+    },
+    "en": {
+      "language": "en",
+      "value": "sovereign (358-415)"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano britannico"
+    }
+  },
+  "id": "Q135814",
+  "labels": {
+    "cy": {
+      "language": "cy",
+      "value": "Gwrfawr ap Cadfan"
+    },
+    "de": {
+      "language": "de",
+      "value": "Guoremor ap Gadeon"
+    },
+    "en": {
+      "language": "en",
+      "value": "Guoremor"
+    },
+    "es": {
+      "language": "es",
+      "value": "Guoremor"
+    },
+    "it": {
+      "language": "it",
+      "value": "Guoremor"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Guoremor ap Gadeon"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Guoremor"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гворемор ап Гадеон"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гворемор ап Гадеон"
+    }
+  },
+  "lastrevid": 17552169,
+  "modified": "2025-09-17T10:33:39Z",
+  "ns": 860,
+  "pageid": 164199,
+  "sitelinks": {},
+  "title": "Item:Q135814",
+  "type": "item"
+}

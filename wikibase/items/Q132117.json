@@ -1,0 +1,546 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hermione"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q132117$17042642-8BAA-49F5-A49F-8E247F3ED21D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "423559"
+          },
+          "hash": "d6b03e13321a6cd564f26122c990412f9554542a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q132117$6065066F-8761-453C-AB3D-D0A8C27F9461",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133326",
+              "numeric-id": 133326
+            }
+          },
+          "hash": "865659e761922fac9a9d696ac296687c4acdf0e2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132117$636802EF-9A74-413D-AB34-48957A06E0B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133327",
+              "numeric-id": 133327
+            }
+          },
+          "hash": "e071daeafc255c89c6c96956b0d8d2ff6856458a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q132117$55B240DC-E28C-4513-8753-6C00DA15687D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132117$DA057132-76F9-4CE4-AF5E-34E4B6A6CEF5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132117$270E9E74-2AD1-4CF0-9605-E26064B9F9C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133313",
+              "numeric-id": 133313
+            }
+          },
+          "hash": "2da75dc6b429437eb5d74a52f124cca47b39413f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132117$EB1F8363-1EBC-4B23-993C-C4C3CD213D16",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133325",
+              "numeric-id": 133325
+            }
+          },
+          "hash": "fe52b5a2dec1efb1957526fbe96f7c444f66e7c4",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132117$311064D8-CE75-4F06-BD37-61B8F5E26737",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132112",
+              "numeric-id": 132112
+            }
+          },
+          "hash": "45b53c1e0363e91af5fc08266a6f457e7def75d4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132117$D54FC9BF-B0EB-48CD-AC4B-B5CF04333D63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130654",
+              "numeric-id": 130654
+            }
+          },
+          "hash": "c608cac7f8238ef7e1abc7ff4a34e0b504ef7fcb",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132117$BD64BA47-F4C8-4569-97B8-11693A755FF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132117$3D996F73-F22A-44F5-B670-CA8F864C7BBD",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q658523"
+          },
+          "hash": "796733920133c605f56a496f65f63275225b28e5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132117$0419069D-6A14-483B-A954-8245DF8A9DBF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hermione Arms.svg"
+          },
+          "hash": "244a19da485819795cff25f57ebc33f4b65383b5",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "dcera Menelaa a Heléne"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Menelaos"
+    },
+    "el": {
+      "language": "el",
+      "value": "πρόσωπο της ελληνικής μυθολογίας,η μοναδική κόρη που απέκτησαν μαζί ο Μενέλαος και η Ωραία Ελένη"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Menelaus and Helen of Troy"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "figure from Greek mythology"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "figure from Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje de la mitología griega"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Menelao eta Helenaren alaba"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "he": {
+      "language": "he",
+      "value": "בתם של מנלאוס והלנה במיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Menelaosz lánya"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "հին հունական դիցաբանության կերպար"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlia di Menelao"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "hči Menelaja in trojanske Helene"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "gestalt i grekisk mytologi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "персонажка давньогрецької міфології"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "con gái của Menelaus và Helen thành Troy"
+    }
+  },
+  "id": "Q132117",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هرميون"
+    },
+    "as": {
+      "language": "as",
+      "value": "হাৰমাইনী (শ্ৰুতিকথা)"
+    },
+    "az": {
+      "language": "az",
+      "value": "Hermiona"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хермиона"
+    },
+    "br": {
+      "language": "br",
+      "value": "Hermione"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hermione"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hermioné"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hermione"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ερμιόνη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hermione"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Hermione"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Hermione"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Hermiono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hermíone"
+    },
+    "et": {
+      "language": "et",
+      "value": "Hermione"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Hermione"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هرمیون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Hermione"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hermione"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἑρμιόνη"
+    },
+    "he": {
+      "language": "he",
+      "value": "הרמיוני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Hermioné"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Հերմիոնա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Hermione (mitologi)"
+    },
+    "io": {
+      "language": "io",
+      "value": "Hermione"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ermione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヘルミオネー"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ჰერმიონე"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "헤르미오네"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Hermionê"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Hermionê"
+    },
+    "la": {
+      "language": "la",
+      "value": "Hermione (mythologia)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хермиона"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hermione"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hermione"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hermiona"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Ermion"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hermíone"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hermione"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гермиона"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Hermione"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Hermiona"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Hermioné"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Hermiona"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хермиона"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Хермиона"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Hermiona"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hermione"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hermione"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Герміона"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Germiona"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Hermione"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "埃妙妮"
+    }
+  },
+  "lastrevid": 17545203,
+  "modified": "2025-09-17T08:55:32Z",
+  "ns": 860,
+  "pageid": 160502,
+  "sitelinks": {},
+  "title": "Item:Q132117",
+  "type": "item"
+}

@@ -1,0 +1,369 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Beuno"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136060$CA668B4D-4D12-4CA1-A4AA-AC52030AD9F6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136060$55C75FF8-72C2-4335-B0D3-7F9084B20F86",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136060$C66FD455-0935-4F84-90D4-1C772F6B5D96",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136295",
+              "numeric-id": 136295
+            }
+          },
+          "hash": "803f04b93f62e4d3a0241d6f6bc6dfffec17d2ed",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P535": [
+      {
+        "id": "Q136060$B0AECACA-002C-4E97-A4D7-E3C3A5127482",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "9700426"
+          },
+          "hash": "506e88eb2cfdb864a33fa943340f8f8e12c80936",
+          "property": "P535",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136060$468217DA-3860-4E1E-AFF4-F09FA64E60C9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136060$CA8CAE66-DCC4-4496-BF5E-D4EECCA3D4FE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0501-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9ad15a7215fd4a711efdadf0c799efaa74c353d5",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136060$428980C6-C3F3-4414-A82B-2BA20DA5B757",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0640-04-21T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4adbba6c47704e10102158150be9651771b59a8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136060$BB2B15C7-D5A3-461A-A3FD-FE2496AFD173",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q612390"
+          },
+          "hash": "7e0647b99a4a38ecb5aa61bfb94f32e61fa1cfb3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136060$468DD796-77EF-4CE7-8DAF-B5CDEEDEB49C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Beuno Arms.svg"
+          },
+          "hash": "92e2d5c20cb9fd5243c8c02dbbeb783e2c87b89e",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قديس كاثوليكى من ويلز"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "santu patrón galés (501–640)"
+    },
+    "br": {
+      "language": "br",
+      "value": "ur manac'h brezhon eus ar VII-vet kantved, abad Clynnog Fawr e Gwynedd"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "nawdd-sant a goffeir yng Ngogledd Cymru"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh abbot and saint"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Welsh abbot and saint"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "abbé et saint gallois"
+    },
+    "it": {
+      "language": "it",
+      "value": "abate e santo gallese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "beschermheilige uit Wales (-640)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "walijski mnich, święty katolicki"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "abade galês do {{séc|VII}}, confessor, e santo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "святой игумен Клинногский"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "helgon inom kristendomen"
+    }
+  },
+  "id": "Q136060",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "بينو"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Beuno"
+    },
+    "br": {
+      "language": "br",
+      "value": "Beuno"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Beuno"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Beuno"
+    },
+    "de": {
+      "language": "de",
+      "value": "Beuno"
+    },
+    "en": {
+      "language": "en",
+      "value": "Beuno"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Beuno"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Beuno"
+    },
+    "es": {
+      "language": "es",
+      "value": "Beuno"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Beuno"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Beuno"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Beuno"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Beuno"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Beuno"
+    },
+    "it": {
+      "language": "it",
+      "value": "Beuno"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Beuno"
+    },
+    "la": {
+      "language": "la",
+      "value": "Bennonius"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Beuno"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Beuno"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "São Beuno"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "São Beuno"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Святой Беуно"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Beuno"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Beuno"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Beuno"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "布埃诺"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "聖·貝諾"
+    }
+  },
+  "lastrevid": 17552519,
+  "modified": "2025-09-17T10:38:44Z",
+  "ns": 860,
+  "pageid": 164445,
+  "sitelinks": {},
+  "title": "Item:Q136060",
+  "type": "item"
+}

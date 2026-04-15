@@ -1,0 +1,587 @@
+{
+  "aliases": {
+    "ca": [
+      {
+        "language": "ca",
+        "value": "Laòdice de Macedònia"
+      }
+    ],
+    "el": [
+      {
+        "language": "el",
+        "value": "Λαοδίκη"
+      },
+      {
+        "language": "el",
+        "value": "Λαοδίκη της Μακεδονίας"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Λαοδίκη"
+      },
+      {
+        "language": "en",
+        "value": "Laodice of Macedonia"
+      },
+      {
+        "language": "en",
+        "value": "Laodice"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Laódice de Macedonia"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Laodicé de Macédoine"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "Laodice di Macedonia"
+      }
+    ],
+    "nl": [
+      {
+        "language": "nl",
+        "value": "Laodike"
+      }
+    ],
+    "ru": [
+      {
+        "language": "ru",
+        "value": "Лаодика Македонская"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73940$414AAC89-6BEA-4F69-ADE6-68A3D0B21AF7",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "753364"
+          },
+          "hash": "ccfc47cb125506b821ce741612c70f62db8f721b",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73940$28A49329-361E-4FA6-AD7E-67521BBF7350",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738581"
+          },
+          "hash": "356053ee4afce28729413e3bd26cbb6adb84262d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73940$0CE9CAB9-E384-478D-949D-8853854DFFC4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73854",
+              "numeric-id": 73854
+            }
+          },
+          "hash": "1341d712745b71a4a1f2dcf05721af7fa398a66d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73940$2368E77B-A2F8-4B5B-8394-0115F0FEC757",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135633",
+              "numeric-id": 135633
+            }
+          },
+          "hash": "20047294eb95a295787d5449373b826bafbda097",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73940$D4E7BDE6-8361-416B-8A5C-6D2E477AA9D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165241",
+              "numeric-id": 165241
+            }
+          },
+          "hash": "5a0639e1f517bad15636cbffff087df5d2dab6eb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73940$B58726F9-EB30-463F-B0A5-E695E9700DC9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73940$A9E95B91-D004-4513-A921-5BB7F1A65FAA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73940$3A292127-2EA1-404F-8063-59CEE7903E8C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73937",
+              "numeric-id": 73937
+            }
+          },
+          "hash": "be9809e93e44c5f6752ea74d104a68e99a1788ea",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73940$8995E878-2150-4E2C-81C9-0E3DCDF48D35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134803",
+              "numeric-id": 134803
+            }
+          },
+          "hash": "51d740d0b58c614acbe2ef8fe961f8ace397fac8",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73940$A5602B2C-2F37-4769-90F9-21E40579B71D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73940$6C816617-0160-4BD6-BA02-A25628EC0200",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73940$825322C8-6A8A-4D18-94DB-92393BA8E4BE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73940$DE4FBCD1-333E-46BA-96F0-35E2167C3813",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q446503"
+          },
+          "hash": "2392596a11f7a58cc2c391fec4d81021888153a8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73940$6C0DF33E-053B-439F-95ED-4F97912EF3C6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1805705"
+          },
+          "hash": "82afb18a187e3ba127925de51d9f6770b4a97ed4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73940$5F30E645-E80F-490E-8D6E-323509BF5CA4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006019314001"
+          },
+          "hash": "bbff7dae6575bb4bb053c175743d89a780aef3b8",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73940$9B65114E-64AE-4C2E-A5E2-0C7FD4F0F6D2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Laodice Arms.svg"
+          },
+          "hash": "a0d663fa48e39df85b9d5d0585de8f1123d8eb16",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "персонаж от древногръцката митология, дъщеря на Агапенор"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "a la mitologia grega"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des Agapenor"
+    },
+    "el": {
+      "language": "el",
+      "value": "κόρη του Αγαπήνορα"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Agapenor in Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "hija de Agapenor"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse d'Antiochos, mère de Séleucos Ier"
+    },
+    "he": {
+      "language": "he",
+      "value": "אמו של סלאוקוס הראשון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Agapénór lánya"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlia di Agapenore"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии, дочь Агапенора"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi kişi"
+    }
+  },
+  "id": "Q73940",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Лаадыка Македонская"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лаодика"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Laodice (filla d'Agapènor)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Laodiké Makedonská"
+    },
+    "de": {
+      "language": "de",
+      "value": "Laodike"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λαοδίκη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Laodice"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Laodice of Macedonia"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Laodice of Macedonia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Laodikeo de Makedonio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Laódice"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Laodize Mazedoniakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Laodice"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Λαοδικη"
+    },
+    "he": {
+      "language": "he",
+      "value": "לאודיקה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Laodiké"
+    },
+    "id": {
+      "language": "id",
+      "value": "Laodike dari Makedonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Laodice"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ラオディケ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Laodice"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Laodike av Makedonia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Laodice"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Laódice"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Laódice"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лаодика"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Laodike"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Agapenor kızı Laodike"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лаодіка"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "馬其頓的勞迪絲"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "马其顿的劳迪丝"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "马其顿的劳迪丝"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "馬其頓的勞迪絲"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "馬其頓的勞迪絲"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "马其顿的劳迪丝"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "馬其頓的勞迪絲"
+    }
+  },
+  "lastrevid": 17486746,
+  "modified": "2025-09-16T18:53:30Z",
+  "ns": 860,
+  "pageid": 88771,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73940",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73940"
+    }
+  },
+  "title": "Item:Q73940",
+  "type": "item"
+}

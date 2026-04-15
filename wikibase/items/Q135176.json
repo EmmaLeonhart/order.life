@@ -1,0 +1,463 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Alexandros II of Macedon"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135176$8219F517-27C1-49AA-82B5-9DB13D0227B8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736513"
+          },
+          "hash": "8d36873e8c356cfe9948bbdf9ceb55572e62edd7",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135176$BB4B96CC-136B-4ACD-B1A8-D62C25779CEF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135176$967A53A3-A976-47BB-8AC1-69F092C51E07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q135176$F9C8AF5E-1B77-4807-9E99-5B3E06D83EB5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexander_II_of_Macedon_(1)"
+          },
+          "hash": "0b4049e5dbe4da30119fa6ab4b5cca89989683ec",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135176$3DA7554F-4B6E-4E69-934F-1C18A62BDA81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135141",
+              "numeric-id": 135141
+            }
+          },
+          "hash": "9721f22aa0939b54591f04e1de864a8c4e173a2e",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135176$81B25254-3EED-44F5-84E2-17714C960286",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135173",
+              "numeric-id": 135173
+            }
+          },
+          "hash": "66e35e916ae3fe39669bef1432fc4ac9453601f0",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135176$CECBC096-9135-4273-8DBF-C12824D291A5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135176$C51D5325-52A4-453F-92E8-8F2F63A8289A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0390-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c1d2ee635a0c3ef4efe96dd0315c0957a545f45e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135176$51855E80-F19C-4577-A27E-DD53BEC41466",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0368-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "66e50ac95b0ce9df3aad5b358e4ab2b91adc7192",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135176$69A9F588-70BA-43F6-99FC-9BCE83817078",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q313883"
+          },
+          "hash": "096197319ccd29dd99da8cbc9d45265835794ecc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135176$73900133-A507-4850-8D0A-17454363AADE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Alexandros II of Macedon Arms.svg"
+          },
+          "hash": "cc3d788c191f1e5588ce8b61ce70b908039c23da",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bn": {
+      "language": "bn",
+      "value": "ম্যাসেডনের রাজা (৩৭১-৩৬৯ খ্রিস্টপূর্ব)"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "makedonský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Makedonien"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Macedonia from 370 BC to 368 BC"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "reĝo de Makedonio"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Macedonia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Makedonian kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Macédoine"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori makedón uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Macedonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マケドニア王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Macedonië (-368v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Macedonii"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "македонский царь, правивший Древней Македонией в 369/368 до н. э."
+    },
+    "uk": {
+      "language": "uk",
+      "value": "македонський базилевс"
+    }
+  },
+  "id": "Q135176",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Alexander II van Makedonië"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "الإسكندر الثاني المقدوني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "الاسكندر التانى المقدونى"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Александър II"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ম্যাসিডনের দ্বিতীয় আলেকজান্ডার"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Alexandre II de Macedònia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Alexandr II. Makedonský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Alexander II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αλέξανδρος Β' της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Alexandros II of Macedon"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Aleksandro la 2-a de Makedonio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Alejandro II de Macedonia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Alexandro II.a Mazedoniakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اسکندر دوم مقدونی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Aleksanteri II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Alexandre II"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Alexandrosz"
+    },
+    "id": {
+      "language": "id",
+      "value": "Aleksander II dari Makedonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Alessandro II di Macedonia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アレクサンドロス2世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "알렉산드로스 2세"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Александар II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Aleksander II av Makedonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Alexander II van Macedonië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Aleksander II Macedoński"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Alexandre II da Macedónia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Alexandre II da Macedónia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Александр II Македонский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Aleksandar II od Makedonije"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Александар II Македонски"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Alexander II av Makedonien"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Александр II Македонський"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Alexandros II của Macedonia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞歷山大二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "亚历山大二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "亚历山大二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "亞歷山大二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "亞歷山大二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "亚历山大二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "亞歷山大二世"
+    }
+  },
+  "lastrevid": 17551102,
+  "modified": "2025-09-17T10:18:23Z",
+  "ns": 860,
+  "pageid": 163561,
+  "sitelinks": {},
+  "title": "Item:Q135176",
+  "type": "item"
+}

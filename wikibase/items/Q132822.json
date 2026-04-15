@@ -1,0 +1,835 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Andromeda"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q132822$31056785-5DDF-4058-8BBE-F7229235A6E5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "154349|423638"
+          },
+          "hash": "d355cdbcb258268054e9515ac2cd6ccb206ea150",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q132822$933BAA98-946B-43C9-A2A2-3BE72C2C1371",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132831",
+              "numeric-id": 132831
+            }
+          },
+          "hash": "4a4af21c1a79886fb7863c4f1b518429ba5fe84e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132822$5B22F462-252D-43B6-A177-89A230F790E7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132824",
+              "numeric-id": 132824
+            }
+          },
+          "hash": "550a87ae90e36aa971df620b22dea41eef1c64e0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132822$AC18CF82-E2B5-4C8B-A795-7F575B42984E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132825",
+              "numeric-id": 132825
+            }
+          },
+          "hash": "6928e55e1f7bd664786fbadaf08e420e37521807",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132822$6A634C86-EC66-44F5-B7A5-A67C965AE157",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132828",
+              "numeric-id": 132828
+            }
+          },
+          "hash": "11d42ac6a73ea9804f1ba767cfb10877480429a3",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132822$798DB9A8-E178-4ED4-A127-0B1AABF91295",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132827",
+              "numeric-id": 132827
+            }
+          },
+          "hash": "dce2728ce8bea0678a96f137febc891e42a1b13a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132822$FBAFAAF0-DEF6-49C3-ACE0-AAD356FEA6AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132826",
+              "numeric-id": 132826
+            }
+          },
+          "hash": "22469cfcd112392fa1d92ac7a663d03d96b24254",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132822$0A4ABAE9-A9E9-46AA-BDF6-F568F03060A6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132833",
+              "numeric-id": 132833
+            }
+          },
+          "hash": "7001e168c3a2143614b6450eea4dfbf78f519dfb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132822$D9976589-3ADB-4E1D-8B86-ABB8D1C532B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132829",
+              "numeric-id": 132829
+            }
+          },
+          "hash": "03355f787296f758b0d6fe6ba1173628e195c113",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132822$76D236FB-12C2-4467-A9F9-3E449490DA37",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132830",
+              "numeric-id": 132830
+            }
+          },
+          "hash": "4ebd402129380611e213c4a645dd157895c086a9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132822$6D7A25F3-D42F-4E31-8E3D-12A56A979B2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132823",
+              "numeric-id": 132823
+            }
+          },
+          "hash": "7767c04ac0feb7cbcaa3d5b3720c1039896341f1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q132822$223B5B75-8B0A-4089-A756-A1C7C58FB5CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132822$099A32E4-AA68-4F7E-9A0B-8BD97F443419",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132822$CF794342-D426-4F7B-A6A3-D9DAC5729BED",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131666",
+              "numeric-id": 131666
+            }
+          },
+          "hash": "93232f2a2e49f21b9d7e2126631be652469c5f1a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132822$E7B540B9-66C1-45CA-9150-74AAEC7D2285",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132257",
+              "numeric-id": 132257
+            }
+          },
+          "hash": "1c526bb24a3fa18b6df9748a2b6b474f2e116f24",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132822$B4F385F6-F88C-4773-88D8-EEDCBA28AF7F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133600",
+              "numeric-id": 133600
+            }
+          },
+          "hash": "0cb4570a91a9d99dfdeaa1e73a94696d5e3cccd6",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132822$181CBBF9-2D81-43F3-8AB1-33BEE58FE9B3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132822$21CBE648-2C50-43B2-8E47-6FCDF9FDA347",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q161582"
+          },
+          "hash": "2e179ff2bd7fa0608fd98b52122dfd569ade7fb0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132822$E6066638-B1E2-428A-B4AC-1633BE451F94",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Andromeda Arms.svg"
+          },
+          "hash": "44bf47a864bb3ed83f97259ec1751c6ccbf3ce85",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "karakter in die Griekse mitologie"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "شخصية أسطورية إغريقية"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "старажытнагрэцка міталягічны пэрсанаж"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "princesa mítica etíop"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "postava řecké mytologie, dcera Kéfea a Kassiopeie, žena Perseova"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter des äthiopischen Königs Kepheus und der Kassiopeia."
+    },
+    "el": {
+      "language": "el",
+      "value": "μυθολογικό πρόσωπο"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ethiopian princess in Greek mythology"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "en helena mitologio, etiopa reĝidino; filino de reĝo Cefeo kaj lia edzino Kasiopeo"
+    },
+    "es": {
+      "language": "es",
+      "value": "princesa mítica de Etiopía"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "از اسطوره های یونان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque"
+    },
+    "he": {
+      "language": "he",
+      "value": "נסיכה מהמיתולוגיה היוונית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Képheusz és Kassziopeia lánya"
+    },
+    "id": {
+      "language": "id",
+      "value": "tokoh mitologi Yunani"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, principessa d'Etiopia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話に登場する女性"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화의 에티오피아 공주"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "sengrieķu mitoloģijā etiopu valdnieka Kēfeja un Kasiopejas meita"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythologie"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਯੂਨਾਨੀ ਮਿਥਿਹਾਸ ਵਿਚ ਈਥੋਪੀਅਨ ਰਾਜਕੁਮਾਰੀ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać w mitologii greckiej"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "princesa da Etiópia na mitologia grega"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "в греческой мифологии дочь эфиопского царя Кефея и Кассиопеи"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "етиопска принцеза у грчкој митологији"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Romalı yazar Ovidius'un eseri Değişimler'de adı geçen Etiyopyalı prenses"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "у грецькій міфології дочка ефіопського царя Кефея та Кассіопеї"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "神话人物"
+    }
+  },
+  "id": "Q132822",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Andromeda"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "أندروميدا"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "اندروميدا (ميثولوجيا)"
+    },
+    "as": {
+      "language": "as",
+      "value": "এণ্ড্ৰমেডা (শ্ৰুতিকথা)"
+    },
+    "az": {
+      "language": "az",
+      "value": "Andromeda"
+    },
+    "ba": {
+      "language": "ba",
+      "value": "Андромеда"
+    },
+    "be": {
+      "language": "be",
+      "value": "Андрамеда"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Андрамэда"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Андромеда"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "অ্যানড্রোমিডা"
+    },
+    "br": {
+      "language": "br",
+      "value": "Andromeda"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Andromeda"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Andròmeda"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Andromeda"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Андромеда (халаплӑх)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Andromeda"
+    },
+    "da": {
+      "language": "da",
+      "value": "Andromeda"
+    },
+    "de": {
+      "language": "de",
+      "value": "Andromeda"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ανδρομέδα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Andromeda"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Andromedo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Andrómeda"
+    },
+    "et": {
+      "language": "et",
+      "value": "Andromeda"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Andromeda"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آندرومده"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Andromeda"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Andromède"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Andraiméide"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Andrómeda"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀνδρομέδα"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנדרומדה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Andromeda"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Andromedé"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Անդրոմեդա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Andromeda"
+    },
+    "is": {
+      "language": "is",
+      "value": "Andrómeda"
+    },
+    "it": {
+      "language": "it",
+      "value": "Andromeda"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンドロメダー"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანდრომედე"
+    },
+    "kn": {
+      "language": "kn",
+      "value": "ಆಂಡ್ರೊಮಿಡ"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안드로메다"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Andromeda"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Andromeda"
+    },
+    "la": {
+      "language": "la",
+      "value": "Andromeda"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Andromeda"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Andromeda"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Andromède"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Андромеда (митологија)"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "ആൻഡ്രോമീഡ"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Andromeda"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Andromeda"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Andromeda"
+    },
+    "pa": {
+      "language": "pa",
+      "value": "ਐਂਡਰੋਮੇਡਾ"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Andromeda"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Andrómeda"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Andrômeda"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Andromeda"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Андромеда"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Andromeda"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Andromeda"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Andromeda"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Andromeda"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Andromeda"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Андромеда"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Андромеда"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Andromeda"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Andromeda"
+    },
+    "th": {
+      "language": "th",
+      "value": "แอนดรอมิดา"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Andromeda"
+    },
+    "tt": {
+      "language": "tt",
+      "value": "Андромеда (мифология)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Андромеда"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Andromeda"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Andromeda"
+    },
+    "war": {
+      "language": "war",
+      "value": "Andromeda"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "安德洛墨达"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "安德羅美達"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安德洛墨達"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安德洛墨達"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安德洛墨達"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安德羅美達"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安德羅美達"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安德洛墨達"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安德羅美達"
+    }
+  },
+  "lastrevid": 17546588,
+  "modified": "2025-09-17T09:14:22Z",
+  "ns": 860,
+  "pageid": 161207,
+  "sitelinks": {},
+  "title": "Item:Q132822",
+  "type": "item"
+}

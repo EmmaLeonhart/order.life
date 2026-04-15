@@ -1,0 +1,496 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Thaïs"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135347$1C65DF4E-146D-4802-B06F-CAB7C2E728DB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567224"
+          },
+          "hash": "d895e4a8844e3ed8e291482589e986d76ce8836b",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135347$452B9D47-35E0-453C-98A2-F555F786BFBB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135263",
+              "numeric-id": 135263
+            }
+          },
+          "hash": "0da87a181e072c843651a8d7363a32d99d398d47",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135347$7516B55F-04F5-484B-8A33-18C2686B8477",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135265",
+              "numeric-id": 135265
+            }
+          },
+          "hash": "d8d3c79de92e212fd8591a80912f356a119ac576",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135347$9AC3E482-547F-413F-A535-C5C6950D46AF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135264",
+              "numeric-id": 135264
+            }
+          },
+          "hash": "664f7477ea6ed7870cd8204d38156d1282a7157e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135347$41CCDC7B-F6CD-4AF1-ACB5-0E47216A1A89",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135347$3B01A780-62CF-4E3E-BC11-5754D8EDA9CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135347$FACA1FF8-1BBE-4388-96CD-A476EDE3391F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73731",
+              "numeric-id": 73731
+            }
+          },
+          "hash": "e2613badf82526e37503df8e51902b566a786a54",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135347$073BA32A-4826-4AB8-AC7A-66C847DAE6F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135347$59472825-CEA2-402C-833A-85313BFF55B8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135347$18482D97-0A41-4D1C-9D60-B672BA3BB6A8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c6e447ac4df715a7ec9dd829cacac4086e0a984",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135347$6AB44839-95D0-4D07-84E4-1BD8BAE97C99",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q267733"
+          },
+          "hash": "42acef753e59cc9cc4d52de6f7dd6d0c2e8bb7bc",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135347$69B5ACEC-00AC-4908-9353-1B0B6B058EE0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Thaïs Arms.svg"
+          },
+          "hash": "ed84303d6321b423848218454d3e91b3bb7cc027",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "athénská hetéra"
+    },
+    "de": {
+      "language": "de",
+      "value": "griechische Hetäre"
+    },
+    "en": {
+      "language": "en",
+      "value": "Greek hetaera involved with Alexander the Great"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "helena hetajro"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "زن روسپی اهل آتن"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "hétaïre athénienne"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "hetera ateniense"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "ἑταίρα"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori görög hetéra"
+    },
+    "it": {
+      "language": "it",
+      "value": "etera ateniese"
+    },
+    "la": {
+      "language": "la",
+      "value": "hetaera Atheniensis"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "старогрчка хетера"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hetaere uit Oude Athene"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "grecka hetera"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "grekisk hetär från Aten"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "давньогрецька гетера, супутниця Александра Македонського"
+    }
+  },
+  "id": "Q135347",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "تائیس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Таис"
+    },
+    "br": {
+      "language": "br",
+      "value": "Tais"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Thais"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Thaïs"
+    },
+    "da": {
+      "language": "da",
+      "value": "Thaïs"
+    },
+    "de": {
+      "language": "de",
+      "value": "Thaïs"
+    },
+    "el": {
+      "language": "el",
+      "value": "Θαΐς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Thaïs"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Tais"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tais"
+    },
+    "et": {
+      "language": "et",
+      "value": "Thais"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Tais (hetera)"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "تائیس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Thais"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Thaïs"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Thaïs"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Taís de Atenas"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Θαΐς"
+    },
+    "he": {
+      "language": "he",
+      "value": "תאיס"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Թաիս"
+    },
+    "id": {
+      "language": "id",
+      "value": "Thais"
+    },
+    "it": {
+      "language": "it",
+      "value": "Taide"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "タイス (古代ギリシャの遊女)"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "თაისი"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Taîs"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Taîs"
+    },
+    "la": {
+      "language": "la",
+      "value": "Thaïs"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Таида"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Thaïs"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Thaïs"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Thaïs"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Thais"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Taís de Atenas"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Taís de Atenas"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Таис"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Tais"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Таида"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Thaïs"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Thais (hetaera)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Таїс"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "黛依絲"
+    }
+  },
+  "lastrevid": 17551398,
+  "modified": "2025-09-17T10:22:35Z",
+  "ns": 860,
+  "pageid": 163732,
+  "sitelinks": {},
+  "title": "Item:Q135347",
+  "type": "item"
+}

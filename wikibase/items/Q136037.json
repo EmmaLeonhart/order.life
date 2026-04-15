@@ -1,0 +1,569 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwawr ach Brychan"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136037$AECC4634-2687-4A98-B278-9725664A865E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00759140"
+          },
+          "hash": "7014e7a1b855847a84a200fe68fb6227da7c6d9f",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136037$9149460E-F60C-481A-80E8-CE213C058BF7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136270",
+              "numeric-id": 136270
+            }
+          },
+          "hash": "8d516685f3075b7190416b5d3727ad4cd0553d1d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136037$6F505091-9EBA-4AC2-A416-5C2B8001383D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136037$B493DCA5-F529-4EE2-8725-9E90ABF4AFE4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136037$FB0339E8-8D16-4508-80B0-79B3EBA86182",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136068",
+              "numeric-id": 136068
+            }
+          },
+          "hash": "3612c6364fa0892844a4adcdd142ca802259f70b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136037$F77AF906-6244-458C-B0C1-1721CE01C3C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135820",
+              "numeric-id": 135820
+            }
+          },
+          "hash": "5a0062623d1c14d1d48cb35c196db69fc0f4abd3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136037$A050BE23-5EC0-4252-AB60-3491494E5178",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136045",
+              "numeric-id": 136045
+            }
+          },
+          "hash": "b3a7eae7fe2ef7e990dee7c0df959c2188443e49",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136037$1B998BB1-8A9F-447D-9D31-EE067AC56907",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136037$0E70D253-23C8-4619-85F1-95A6448E4937",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136037$B127D8D2-7611-4AB9-9359-5C0923103BA2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q24558760"
+          },
+          "hash": "8b4db718ac2c5ff08ac36ffd5a0838a8a92a1e14",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q136037$F8203928-7928-4008-B8AD-AF9D7D84FC9B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000001132486947"
+          },
+          "hash": "c62b16c0675dfd64941053add0396512c387994c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136037$6801D54F-74D6-48C4-8CCF-A569A310B78E",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwawr ach Brychan Arms.svg"
+          },
+          "hash": "1a34b2c1ba4c7307f01efebb4079f2a005f73f44",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "vroulike voornaam"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "اسم مؤنث معطى"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "nome femenín"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Weiwanam"
+    },
+    "be": {
+      "language": "be",
+      "value": "жаночае асабістае імя"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "প্রদত্ত মহিলা নাম"
+    },
+    "br": {
+      "language": "br",
+      "value": "anv merc’hed"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "žensko ime"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "prenom femení"
+    },
+    "ce": {
+      "language": "ce",
+      "value": "зудчун шен цӀе"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "ženské křestní jméno"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "santes Geltaidd"
+    },
+    "da": {
+      "language": "da",
+      "value": "pigenavn"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "weiblicher Vorname"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "weiblicher Vorname"
+    },
+    "el": {
+      "language": "el",
+      "value": "γυναικείο όνομα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh female saint"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "female given name"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "virina persona nomo"
+    },
+    "es": {
+      "language": "es",
+      "value": "nombre femenino"
+    },
+    "et": {
+      "language": "et",
+      "value": "naisenimi"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "نامهای زنانه"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "naisen etunimi"
+    },
+    "he": {
+      "language": "he",
+      "value": "שם פרטי נשי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "žensko ime"
+    },
+    "hsb": {
+      "language": "hsb",
+      "value": "žónske předmjeno"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "női keresztnév"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "իգական անձնանուն"
+    },
+    "id": {
+      "language": "id",
+      "value": "nama perempuan feminin"
+    },
+    "it": {
+      "language": "it",
+      "value": "prenome femminile"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "女性の名前"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "여성의 이름"
+    },
+    "la": {
+      "language": "la",
+      "value": "praenomen femininum"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "weibleche Virnumm"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "moteriškas vardas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "sieviešu personvārds"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "женско лично име"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "kvinnenavn"
+    },
+    "ne": {
+      "language": "ne",
+      "value": "स्त्रीलिङ्गी नाम"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "vrouwelijke voornaam"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "kvinnenamn"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "imię żeńskie"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "nome próprio feminino"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "nome próprio feminino"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "prenume feminin"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "женское личное имя"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "nomu di battìu fimmininu"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "female gien name"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "ženské krstné meno"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "žensko osebno ime"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "emër femëror"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "женско лично име"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "женско лично име"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "žensko lično ime"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "kvinnonamn"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "kadın ismidir"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "жіноче особове ім’я"
+    },
+    "yue": {
+      "language": "yue",
+      "value": "女性人名"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "女性人名"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "女性人名"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "女性人名"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "女性人名"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "女性人名"
+    },
+    "zh-mo": {
+      "language": "zh-mo",
+      "value": "女性人名"
+    },
+    "zh-my": {
+      "language": "zh-my",
+      "value": "女性人名"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "女性人名"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "女性人名"
+    }
+  },
+  "id": "Q136037",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gwawr ach Brychan"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gwawr ach Brychan"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gwawr ach Brychan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gwawr ach Brychan"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gwawr ach Brychan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gwawr ach Brychan"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gwawr ach Brychan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "格瓦尔·阿赫·布莱坎"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "格瓦爾·阿赫·布萊坎"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "格瓦爾·阿赫·布萊坎"
+    }
+  },
+  "lastrevid": 17552475,
+  "modified": "2025-09-17T10:38:05Z",
+  "ns": 860,
+  "pageid": 164422,
+  "sitelinks": {},
+  "title": "Item:Q136037",
+  "type": "item"
+}

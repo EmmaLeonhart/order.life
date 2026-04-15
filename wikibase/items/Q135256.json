@@ -1,0 +1,629 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Arsinoe II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135256$0FD24DD3-D424-4816-A554-E10F1EA68B72",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "351152"
+          },
+          "hash": "e26d45b9b8682f891938f8147119683237017fc3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135256$53542E17-61DA-46D8-93A5-528AB9B513E3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00715465"
+          },
+          "hash": "d084123304b0a318e9e508a4735cfd3b0bf86a74",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135256$3A465D33-4AED-4B3E-8581-0211B159ACA7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135341",
+              "numeric-id": 135341
+            }
+          },
+          "hash": "fd4625907e929961effb4b0f0cfe35de0af18907",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135256$458F4EF6-B411-45D5-A10C-993CBBD68BA8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135342",
+              "numeric-id": 135342
+            }
+          },
+          "hash": "dc3c481f0985f15ed145d4e4df6dafd6c98dc189",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135256$8B657A55-483D-4AC4-A75F-E6C1F1C74100",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135343",
+              "numeric-id": 135343
+            }
+          },
+          "hash": "78757009d26e1a94d468d0484ed5ea4818646be8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135256$96B22CC5-2A20-48A1-A8F3-9E2C74F94B1F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135256$4E92F200-73A8-420E-85E4-65B96AC57AC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135256$F077815B-E0AC-431A-8748-3EC187B5D969",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73614",
+              "numeric-id": 73614
+            }
+          },
+          "hash": "16ef79d456ca203f91964cce0bdfc7ddc062ee6c",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135256$CF4BC13C-7B92-48F3-A70C-D2216A93D675",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73722",
+              "numeric-id": 73722
+            }
+          },
+          "hash": "d438b6a8b0e5f2101e0e9ebcf7e1c994cb7ef73b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135256$A247D459-EDAE-4027-A7C9-7B0737B018B0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135257",
+              "numeric-id": 135257
+            }
+          },
+          "hash": "12786843f5599562d2951c46b5f8bc93637392f1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135256$803401B7-7061-43B1-9A29-9BD126572D3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73731",
+              "numeric-id": 73731
+            }
+          },
+          "hash": "b55c570b63169f39cf3c4bece05a5938b61b94b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135256$E4B4F338-C396-4A45-9A6D-F8DE198B89E9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73728",
+              "numeric-id": 73728
+            }
+          },
+          "hash": "e2c2e7e9ccca965888611c17871d07ab7e95aade",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135256$57374D65-6EAB-44B6-AE73-7CD6388B04C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135256$57328BBF-C764-4E0D-8AE3-AA10EB40D418",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0316-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6607a7b18350c670601473408247605fe2600d54",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135256$28FAF864-6EFA-4A9A-B03C-6F8754AC200F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0270-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c08b9594e48e11df60cb482d9fce31443cee8824",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135256$839593D1-6E95-4E74-9DBC-F9ED73A8B0D9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q40234"
+          },
+          "hash": "eef8fc49a453b6af0b7e09975f1f1b88bfd88316",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135256$381B9896-4E4E-4F2C-8B3F-694BE2BAEF78",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Arsinoe II Arms.svg"
+          },
+          "hash": "6dd07457393c570a9698b3d4f619bd22b011dad7",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "ملكه مصريه من البطالمه"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter von Ptolemaios I., gemeinsam mit Ptolemaios II. Regentin in Ägypten"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemaic Greek Princess of Ancient Egypt and Queen of Thrace, Asia Minor and Macedonia"
+    },
+    "es": {
+      "language": "es",
+      "value": "princesa macedónica y reina helenística, reina de Tracia, Asia Menor y Macedonia, y posteriormente faraona del Egipto ptolemaico (316–270 a. C.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "princesse macédonienne, fille de Ptolémée Ier"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "ókori egyiptomi királynő a Ptolemaida-dinasztiából"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlia di Tolomeo I, moglie di Lisimaco, Tolomeo Cerauno e Tolomeo II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Rainha Consorte da Trácia e Anatólia e Rainha do Egito Ptolemaico"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Rainha do Egito Ptolemaico"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "египатска краљица"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "drottning av Thrakien och senare av ptolemeiska riket"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Ptolemaic Kigiriki Princess wa Misri ya Kale na Malkia wa Thrace, Asia Ndogo na Makedonia"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Nữ hoàng Ai Cập"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "歷史人物"
+    }
+  },
+  "id": "Q135256",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أرسينوي الثانية"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "ارسينوى التانيه"
+    },
+    "be": {
+      "language": "be",
+      "value": "Арсіноя II"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Арсиноя II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Arsínoe II"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Arsinoé II."
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Арсиноя II"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Arsinoe II"
+    },
+    "da": {
+      "language": "da",
+      "value": "Arsinoe 2."
+    },
+    "de": {
+      "language": "de",
+      "value": "Arsinoë II."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Arsinoë II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρσινόη Β΄ της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arsinoe II"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Arsinoe II"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Arsinoe II"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Arsinoe la 2-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Arsínoe II"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Arsinoe II.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرسینوی دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Arsinoë II"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Arsinoé II"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Arsinoe II"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארסינואי השנייה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Arszinoé"
+    },
+    "id": {
+      "language": "id",
+      "value": "Arsinoe II dari Mesir"
+    },
+    "is": {
+      "language": "is",
+      "value": "Arsinóe 2."
+    },
+    "it": {
+      "language": "it",
+      "value": "Arsinoe II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルシノエ2世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "არსინოე II"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Arsînoê II"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Arsînoê II"
+    },
+    "la": {
+      "language": "la",
+      "value": "Arsinoë II"
+    },
+    "mn": {
+      "language": "mn",
+      "value": "Арсиной II"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Ἀρσινόη Β"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Arsinoi 2-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Arsinoe II av Egypt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Arsinoë II"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Arsinoe II av Egypt"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Arsinoe II"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Arsínoe II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Arsínoe II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Арсиноя II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Arsinoja II"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Arsinoja II."
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Arsinoe II"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Арсиноја II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Arsinoe II"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Arsinoe II"
+    },
+    "th": {
+      "language": "th",
+      "value": "อาร์ซิโน่ที่ 2"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Arsinoe"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Арсіноя II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Arsinoe II của Ai Cập"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿爾西諾伊二世"
+    }
+  },
+  "lastrevid": 17551246,
+  "modified": "2025-09-17T10:20:27Z",
+  "ns": 860,
+  "pageid": 163641,
+  "sitelinks": {},
+  "title": "Item:Q135256",
+  "type": "item"
+}

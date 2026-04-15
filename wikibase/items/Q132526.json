@@ -1,0 +1,265 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lycus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q132526$7445729F-2C62-4206-BD77-EF3104BF62DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132526$16235265-CCC9-4592-8D23-1D2583DFC0D2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132526$EAC1C4C1-BA1B-4331-96E1-89DFA5E68745",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132525",
+              "numeric-id": 132525
+            }
+          },
+          "hash": "adb12fb288cd185a3981fc8a1c33b8105f168294",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132526$DEAE8BF2-6E7E-4AD8-8CC3-59B12A0C8CA0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131280",
+              "numeric-id": 131280
+            }
+          },
+          "hash": "090dfc49957c9c429e40443b696eb9b200daa3f1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132526$5C5BF314-2BA5-445C-AF55-F4BA0019A815",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132526$DF57558F-21C6-41FE-B931-847A0F57D7AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1393416"
+          },
+          "hash": "f931901e557ee6078e3ae9be08d1b553c5a92dbb",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132526$468B9676-6C27-495C-AD05-F9E8A1F9D656",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lycus Arms.svg"
+          },
+          "hash": "db8b761599ca93b239fc39e69257e194e867c63a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Sohn des Lykos"
+    },
+    "el": {
+      "language": "el",
+      "value": "μυθικό πρόσωπο, γιος του Λύκου και αδελφός του Νυκταία"
+    },
+    "en": {
+      "language": "en",
+      "value": "Greek mythical character, son of Lycus the brother of Nycteus"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fils de Lycos"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlio di Lico il fratello di Nitteo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Grieks mythologisch figuur, zoon van Lycus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии, потомок Никтея, возможно сын Посейдона"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi kişi"
+    }
+  },
+  "id": "Q132526",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Лік, вораг Геракла"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Лик"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lycus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lykos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λύκος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lycus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lycus"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Lykos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lycos"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Lükosz"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lico"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Lykus (konge av Theben)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lycus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лик"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Lik sa Eubeje"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lykos oğlu Lykos"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Lik (Gerakl dushmani)"
+    }
+  },
+  "lastrevid": 17546005,
+  "modified": "2025-09-17T09:06:19Z",
+  "ns": 860,
+  "pageid": 160911,
+  "sitelinks": {},
+  "title": "Item:Q132526",
+  "type": "item"
+}

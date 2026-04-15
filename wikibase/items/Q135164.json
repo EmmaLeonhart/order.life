@@ -1,0 +1,336 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Aristokrates"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135164$89CFA4FA-7769-4406-B358-3D1FA02F62E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135201",
+              "numeric-id": 135201
+            }
+          },
+          "hash": "1deb240fa9031b72383214b6525b4ca7fc1760cf",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135164$D6617E4F-8A6B-4ED4-B8AC-0AEC36FB1905",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135202",
+              "numeric-id": 135202
+            }
+          },
+          "hash": "6262dc361c4c2538ba1e4939f9031f806c5861af",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135164$EB59C06E-3CC8-4C3E-B4A1-CEBFD5C0D13A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135164$D87ABA9D-B231-493A-B017-DEC266B641B6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135164$85669AB8-BCA3-4BF5-B23B-F4858FCEAF08",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135132",
+              "numeric-id": 135132
+            }
+          },
+          "hash": "257d808f2a8fb20b66e37fc10e0c872a07f4fc26",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135164$5D3A5445-BC58-4CF4-8C2B-69AB3AE1F432",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135164$44B59F62-AE7B-4248-AB55-654CE0FF5F8A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ead4b176d2f630cc476effcc8864a5df658a825e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135164$FBF60043-0FCC-40D4-BD08-841CC8D4D47E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q666652"
+          },
+          "hash": "94a7ee610107ad0a5f224b73a7552fd2d1905846",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135164$2C749C5B-20F1-4493-B248-C2510933749A",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Aristokrates Arms.svg"
+          },
+          "hash": "67aee6ab9222b92e7c3f2ec91049e0dbc980e890",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei d'Orcomen a l'Arcàdia, antiga Grècia"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Orchomenos"
+    },
+    "el": {
+      "language": "el",
+      "value": "ο 24ος και τελευταίος βασιλιάς της αρχαίας Αρκαδίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Arcadian king, from Orchomenus"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Arcadia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Orchomène"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "紀元前7世紀のアルカディアの王"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi Arkadya kralı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "правитель стародавньої Аркадії"
+    }
+  },
+  "id": "Q135164",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Аристократ II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Aristòcrates d'Orcomen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Aristokrates"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αριστοκράτης Β΄"
+    },
+    "en": {
+      "language": "en",
+      "value": "Aristokrates"
+    },
+    "es": {
+      "language": "es",
+      "value": "Aristocrates"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Aristocrate II"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Αριστοκράτης"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Aristokrates"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Arisztokratész"
+    },
+    "it": {
+      "language": "it",
+      "value": "Aristocrate"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アリストクラテス2世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Aristokrates"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Аристократ II"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Aristokrates"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Аристократ II"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "亞里斯多克拉提德二世"
+    }
+  },
+  "lastrevid": 17551080,
+  "modified": "2025-09-17T10:18:05Z",
+  "ns": 860,
+  "pageid": 163549,
+  "sitelinks": {},
+  "title": "Item:Q135164",
+  "type": "item"
+}

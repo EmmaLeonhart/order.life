@@ -1,0 +1,268 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Dyfnwal Moelmud"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q136256$6D61D9C4-C53E-4A96-86E5-B876C3009F4F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136517",
+              "numeric-id": 136517
+            }
+          },
+          "hash": "cb239505bc474641fa387fe82b7af2bc13e0c944",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136256$42F35A97-8119-4C89-9585-97CD0CC497BC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136516",
+              "numeric-id": 136516
+            }
+          },
+          "hash": "01aed1992d6806cdbf2d591f251fd30f0716096f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136256$9A07BEF4-5C9B-4F06-BBB1-1DF98267BEE8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136256$EC6764C1-131F-4D69-8EAA-96829CC3D671",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136256$9645B6DB-4DA8-4FEC-8199-DA84F0839970",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136018",
+              "numeric-id": 136018
+            }
+          },
+          "hash": "02b0f0421b063a13d4dbae86a6434592a070638d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136256$731009DA-930C-4FA0-A010-1FD8A39B34D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136256$02180D56-E4F2-46E0-B621-475CD106F4C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0475-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "89ec702a64c9967bef6aaa6cd9969fd8b596d361",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136256$1674D119-0555-4B97-9561-1446F7065D10",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2426699"
+          },
+          "hash": "ccc3cd99b38ef79a11d777a2bb9c8b52d30c3fc0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136256$03C65FDD-5F8F-4035-94E1-3979A77168A5",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Dyfnwal Moelmud Arms.svg"
+          },
+          "hash": "124b14f477e8f450b0c553597696560cf7066919",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "un o frenhinoedd y Brythoniaid"
+    },
+    "en": {
+      "language": "en",
+      "value": "Welsh (British) king, died 475"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi de Bernicie"
+    }
+  },
+  "id": "Q136256",
+  "labels": {
+    "br": {
+      "language": "br",
+      "value": "Dyfnwal Moelmud"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Dyfnwal Moelmud"
+    },
+    "de": {
+      "language": "de",
+      "value": "Dunvallo Molmutius"
+    },
+    "en": {
+      "language": "en",
+      "value": "Dyfnwal Moelmud"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dunvallo Molmutius"
+    },
+    "et": {
+      "language": "et",
+      "value": "Dunvallo Molmutius"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Dyfnwal Moelmud"
+    },
+    "he": {
+      "language": "he",
+      "value": "דאנבאלו מולמאטיוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Dyfnwal Moelmud ap Garbanion"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ドゥンワロ・モルムティウス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Dunvallo Molmutius"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дунвалло Молмутский"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Дунвало Молмутський"
+    }
+  },
+  "lastrevid": 17552811,
+  "modified": "2025-09-17T10:42:50Z",
+  "ns": 860,
+  "pageid": 164641,
+  "sitelinks": {},
+  "title": "Item:Q136256",
+  "type": "item"
+}

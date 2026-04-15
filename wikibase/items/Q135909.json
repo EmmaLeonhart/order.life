@@ -1,0 +1,395 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hieronymus of Syracuse"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135909$097A3DFF-171F-4737-83A8-C70BF3F35ACF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738781"
+          },
+          "hash": "f84d4d9eca4fc054d85a1ec55c776e4c219694c2",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135909$9AA081FC-21D1-46AE-9562-4AFDDECD0E24",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135909$FBBF8EF6-6F1C-4952-96C9-BACD3836D4BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135909$7B12EAF6-5522-4895-BC7E-4E81700026BF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136140",
+              "numeric-id": 136140
+            }
+          },
+          "hash": "48fad3183a4fc5c975974b0faedf0381f8e4d6e9",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135909$BC6599DC-0597-4665-B19F-EC701CE3ABFB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135908",
+              "numeric-id": 135908
+            }
+          },
+          "hash": "99f536a9b3ab935e25f4e8d73d6e24137d623149",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135909$9CC3F999-39D9-407A-B474-0E5EC66D44C7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135742",
+              "numeric-id": 135742
+            }
+          },
+          "hash": "1f4902800c60cd838bf27fd966b49bdb3201e5ca",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135909$3C58F26E-C9BA-49BA-80EE-FEB336A19BBC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135909$2B74D6D3-6735-48C4-9EE5-23EB2EA5C5DA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0231-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c496a0ab4e97747ef419b6f1e71c46eef6f60007",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135909$FF058C3F-38A8-4584-BDDB-9B66A8B58606",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0214-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6e51f53212221184b36dd82b27b75e77c314aff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135909$710C4161-485C-4BA2-B98F-D92AEC85B7C5",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2485987"
+          },
+          "hash": "78048374c3691fc1bd50ed2903dc9777fc791cd0",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135909$3C4CDC13-6D99-489B-90E5-31C004224C18",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hieronymus of Syracuse Arms.svg"
+          },
+          "hash": "c0a363564abb006e739597c3b18535eb3e4a405b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "en": {
+      "language": "en",
+      "value": "3rd century BCE tyrant"
+    },
+    "es": {
+      "language": "es",
+      "value": "tirano de Siracusa del siglo III a. C."
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Syracuse"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "basileus di Sicilia e tiranno di Siracusa"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "тиран Сиракуз"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "basileu da Sicilia, tirannu di Sarausa"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    }
+  },
+  "id": "Q135909",
+  "labels": {
+    "bs": {
+      "language": "bs",
+      "value": "Hijeronim od Sirakuze"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Jerònim de Siracusa"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ιερώνυμος των Συρακουσών"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hieronymus of Syracuse"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Hieronymus of Syracuse"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Hieronymus of Syracuse"
+    },
+    "es": {
+      "language": "es",
+      "value": "Jerónimo de Siracusa"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Hieronimo Sirakusakoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Hiéronyme de Syracuse"
+    },
+    "it": {
+      "language": "it",
+      "value": "Geronimo di Siracusa"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hieronymus av Syrakus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hieronymus of Syracuse"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Hierônimo de Siracusa"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Hierônimo de Siracusa"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гиероним Сиракузский"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Geronimo di Sarausa"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Hijeronim od Sirakuze"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хијероним од Сиракузе"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hieronymos av Syrakusa"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гієронім"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "叙拉古的希罗尼穆斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "希罗尼姆斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "希羅尼姆斯"
+    }
+  },
+  "lastrevid": 17552287,
+  "modified": "2025-09-17T10:35:22Z",
+  "ns": 860,
+  "pageid": 164294,
+  "sitelinks": {},
+  "title": "Item:Q135909",
+  "type": "item"
+}

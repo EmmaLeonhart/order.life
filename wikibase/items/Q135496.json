@@ -1,0 +1,310 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Seleucus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135496$22942FED-5244-4438-B926-FFB9576E1175",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736275"
+          },
+          "hash": "bf35450b8c48d89df30046975657b4d44d3a1ac4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135496$66CC01D2-4FBA-4E06-9A76-91ECDE101054",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135496$736DDC71-2912-4B9C-A1D1-C03E892988B1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135496$505572FA-DF4A-47CD-B8CB-8D4731FE6717",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73737",
+              "numeric-id": 73737
+            }
+          },
+          "hash": "2ecb9ed9c44b8564357123546683fde26fd1d072",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135496$410397F9-C549-409E-B0C2-34C5CFE355B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73740",
+              "numeric-id": 73740
+            }
+          },
+          "hash": "9ca03cb5f3bb3a0fa8b5bcea88e4561a6f649a73",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135496$B85FD9A2-585D-498B-BA4C-DD3F22349C74",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135496$7DA23F13-396B-4B78-9654-2684AEF3C4F0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0293-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "02cacd1f225771d8e63b86d910d17729b0ada3c2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135496$48BEBCE7-FA3C-4990-A2F0-BB1D134AAC3B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0266-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a2da32db3bcce586dfecfbba623bd9e743d9a265",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135496$67702CC1-F945-4E07-A64D-35F883E6847A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q888435"
+          },
+          "hash": "56511fda15cb0f532957e40cd20bff191d832614",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135496$271BEEAA-CC49-49CD-AAC3-994991ABD0D8",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Seleucus Arms.svg"
+          },
+          "hash": "9915069fcaaee3cb1ddf11837e47cb82400212c0",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Mitherrscher des Seleukidenreichs"
+    },
+    "en": {
+      "language": "en",
+      "value": "son of Antiochus I Soter"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey seléucida (293-266 a.C.), hijo de Antíoco I Soter"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "prince séleucide, fils d'Antiochos Ier"
+    },
+    "it": {
+      "language": "it",
+      "value": "principe seleucide"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь-соправитель Государства Селевкидов"
+    }
+  },
+  "id": "Q135496",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Seleukos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Seleukos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Σέλευκος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Seleucus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Seleuco"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Séleucos"
+    },
+    "he": {
+      "language": "he",
+      "value": "סלאוקוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Seleuco"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Seleuco"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Seleuco"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Seleuco"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Селевк"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Seleucus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Селевк"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Seleucos"
+    }
+  },
+  "lastrevid": 17551656,
+  "modified": "2025-09-17T10:26:20Z",
+  "ns": 860,
+  "pageid": 163881,
+  "sitelinks": {},
+  "title": "Item:Q135496",
+  "type": "item"
+}

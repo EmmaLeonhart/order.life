@@ -1,0 +1,237 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artonis"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135327$949AC39B-C98D-4D45-AC4F-6D69C40B0A10",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135327$1E1A5EBC-45DE-45EF-8946-216886B9243B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135327$F1DF62D1-BA98-40E8-8924-3FCD02391B97",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135442",
+              "numeric-id": 135442
+            }
+          },
+          "hash": "ca80ad26ae01627999245f6b6953c31cc5f46d04",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135327$0E4FC8B3-4848-401A-BF64-3F314E9FC9DC",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135324",
+              "numeric-id": 135324
+            }
+          },
+          "hash": "99ca24e6de6137be6e1ef66edfa7b59674125566",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135327$BD747047-E035-43D1-84EF-D3EAB8886765",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135327$083BE30F-8506-4261-A208-4975EAE8D3E5",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135327$E37B1718-68E2-4773-B19D-AC36864A1B55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q20669247"
+          },
+          "hash": "8a8561a4bfe7252a410abcc91f04f417388c0bcf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135327$7BC6EDDF-4535-40B0-99AF-831C80DCA625",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artonis Arms.svg"
+          },
+          "hash": "188489928cb48796e5b5a095c34f8e406a009d90",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "persische Adlige"
+    },
+    "en": {
+      "language": "en",
+      "value": "Persian noblewoman"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "perska szlachcianka"
+    }
+  },
+  "id": "Q135327",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Artonis"
+    },
+    "de": {
+      "language": "de",
+      "value": "Artonis"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρτωνίς"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artonis"
+    },
+    "es": {
+      "language": "es",
+      "value": "Artonis"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artonis"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Artonis"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Артонида"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артоніда"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Artonis"
+    }
+  },
+  "lastrevid": 17551374,
+  "modified": "2025-09-17T10:22:14Z",
+  "ns": 860,
+  "pageid": 163712,
+  "sitelinks": {},
+  "title": "Item:Q135327",
+  "type": "item"
+}

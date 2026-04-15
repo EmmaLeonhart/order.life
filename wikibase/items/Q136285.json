@@ -1,0 +1,224 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gruffydd ap Cyngen"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136285$D62ED64C-A2A3-4FB7-8234-32094F5D6FD9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136285$D3869F9A-E6C7-42AB-88EA-4C591E75240D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136285$3100458C-AB2A-411F-B2CF-E88FF46AC18D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136054",
+              "numeric-id": 136054
+            }
+          },
+          "hash": "90f01ba4be32c406e695b1e56f51698ee8e968db",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136285$813567B1-7C45-4EF3-B0DF-BE530FB72329",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136285$FD3608F0-94B6-46F4-9B2E-D97737CD7AD9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0750-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e8163df404d9994b40f680a1364f0bb46039df56",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136285$AC8DC216-E34F-46FC-9612-E2A72ABB4790",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0814-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "05718b6bf68a80160a9990a4c6179753c6fd6491",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136285$7A9A394C-1E65-421C-A788-DCDC1E60646F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q5611987"
+          },
+          "hash": "3bb4873694323def9a89f788f4327e538fba098d",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136285$D0654920-7AB1-437B-A1B0-B3142815B4C2",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gruffydd ap Cyngen Arms.svg"
+          },
+          "hash": "5da2fb96fe016aaef85ab5e4d62a4f11f3196152",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "tywysog Powys yng Nghymru'r Oesoedd Canol Cynnar"
+    },
+    "en": {
+      "language": "en",
+      "value": "prince of Powys in Wales of the Early Middle Ages"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "принц Поуиса в Уэльсе в раннем средневековье"
+    }
+  },
+  "id": "Q136285",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gruffydd ap Cyngen"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gruffydd ap Cyngen"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gruffydd ap Cyngen"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gruffydd ap Cyngen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gruffydd ap Cyngen"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Грифид ап Кинген"
+    }
+  },
+  "lastrevid": 17552867,
+  "modified": "2025-09-17T10:43:37Z",
+  "ns": 860,
+  "pageid": 164670,
+  "sitelinks": {},
+  "title": "Item:Q136285",
+  "type": "item"
+}

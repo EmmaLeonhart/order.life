@@ -1,0 +1,254 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Johanan"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135681$6C9C0FEA-9A64-4E1D-A6A3-483D202BBB63",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "970868"
+          },
+          "hash": "61b8ff96c9225bceadf425b93034d3c92e662c1a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135681$C9813415-0F61-4AF8-B0E5-CF45816FD9C1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135798",
+              "numeric-id": 135798
+            }
+          },
+          "hash": "0346e01426dcf84ca07ff12522ad05999400132f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135681$F2806382-136F-4B4E-A917-C7EC4E0AEAB7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135681$24952ED8-40CD-41DF-AF21-29CD57EFB290",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135681$194E9CB7-9AD9-4EDF-97EE-6F31158AFF78",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135542",
+              "numeric-id": 135542
+            }
+          },
+          "hash": "f84e73c37aaf29ab48770bd7f93fac2a4457d07f",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135681$22659F23-441F-4E35-B79A-F3B468DEF322",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135681$DB44740F-C066-4C1E-8AE6-3AE23F242556",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0371-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "375524942c971a8b88a374c874218d1eccd46bf6",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135681$A8E0E840-F615-45B0-B968-B2693ACD73BE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q6215520"
+          },
+          "hash": "564cb8e176fe2da77921943cbf9b53fca10034a3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135681$909D955B-9235-441F-B54E-2944BE62DD3D",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Johanan Arms.svg"
+          },
+          "hash": "04d7e35ae6c6b4e5406f6f658894ca792941d624",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "High Priest of Israel"
+    }
+  },
+  "id": "Q135681",
+  "labels": {
+    "en": {
+      "language": "en",
+      "value": "Johanan"
+    },
+    "es": {
+      "language": "es",
+      "value": "Johanan"
+    },
+    "he": {
+      "language": "he",
+      "value": "יוחנן בן יוידע"
+    },
+    "id": {
+      "language": "id",
+      "value": "Yohanan (Imam Besar)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Giovanni"
+    },
+    "la": {
+      "language": "la",
+      "value": "Johannes"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Johanan"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Johanan"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Joanã"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Joanã"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Johanan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "约哈难"
+    }
+  },
+  "lastrevid": 17551965,
+  "modified": "2025-09-17T10:30:45Z",
+  "ns": 860,
+  "pageid": 164066,
+  "sitelinks": {},
+  "title": "Item:Q135681",
+  "type": "item"
+}

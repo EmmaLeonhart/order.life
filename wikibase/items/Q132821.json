@@ -1,0 +1,571 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Danaë"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q132821$3B1417E7-3B83-430D-9227-2EF51D710B8D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "154282"
+          },
+          "hash": "84dcc63bb282d808b2ae8d495df735da02241390",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q132821$6250225F-3B01-4E3D-AC0E-9A5B1F2693E2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131666",
+              "numeric-id": 131666
+            }
+          },
+          "hash": "9fe68995ac7c7402440e1394b0e05f581bbdb1ab",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q132821$F344028C-55E3-4311-B11A-F5B36C7FA78F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132821$D5262824-2DD3-4ACB-86C4-8F3203358343",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132821$12C18841-A0CB-495C-99E7-F0C4233146F1",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74656",
+              "numeric-id": 74656
+            }
+          },
+          "hash": "b9f6425dd4f87f09031ab208bb978f9c28846359",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132821$98487EA4-22C3-4F42-97DB-E1F476E30A49",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134064",
+              "numeric-id": 134064
+            }
+          },
+          "hash": "fb41e495293172f027c9c7e8030c792fc8d79133",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132821$55E67B27-14CB-489C-B98F-DA6A952E80FE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q133796",
+              "numeric-id": 133796
+            }
+          },
+          "hash": "ed9473fec9bdbbf8d96d6500c15d656dbbc49bf4",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132821$318BA07D-DB68-4AF7-9C7E-84CA400FCE5B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132443",
+              "numeric-id": 132443
+            }
+          },
+          "hash": "fb215aed8e61e205e50d16a3e3f2d5d1de8bc49b",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132821$0C1F980D-2675-4630-B79A-9DB12FEADBA9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132821$2E6EF859-58A8-4E6B-9397-BF5839C74B7B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q190582"
+          },
+          "hash": "78b07617d0adda311c0b11b7f96d81e07585cda4",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132821$BB547F55-7E80-4C6D-B9A0-4F663E0EF4F3",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Danaë Arms.svg"
+          },
+          "hash": "c1fbf157707403a017de9d0bf1495adda1de16a4",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "en la mitologia grega, princesa argòlida, filla del rei Acrisi i d'Eurídice, filla de Lacedèmon, rei d'Esparta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "postava v řecké mytologii"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "merch Acrisius o Argos a'r Frenhines Eurydice, mam Perseus, ym mytholeg Roeg"
+    },
+    "de": {
+      "language": "de",
+      "value": "Person der griechischen Mythologie"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Acrisius of Argos and Queen Eurydice, mother of Perseus, in Greek mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje del mito griego"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie grecque, fille d'Acrisios et d'Eurydice, mère de Persée"
+    },
+    "he": {
+      "language": "he",
+      "value": "נסיכה מהעיר ארגוס ואמו של הגיבור פרסאוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "görög mitológiai alak, Akrisziosz lánya"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia greca, figlia di Acrisio e madre di Perseo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ギリシア神話に登場する女性"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "그리스 신화에 등장하는 페르세우스의 어머니"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Li gor mîtolojiya yewnanî dotmîrek"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "mythologie"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "filha de Acrísio de Argos e da Rainha Eurídice, mãe de Perseu, segundo a mitologia grega"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "prințesă din mitologia greacă"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "(v grški mitologiji) hči Akrizija iz Arga in kraljice Evridike, Perzejeva mati"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "gestalt i grekisk mytologi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan Mitolojisine mensup karakter"
+    }
+  },
+  "id": "Q132821",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "داناي"
+    },
+    "bcl": {
+      "language": "bcl",
+      "value": "Danaë"
+    },
+    "be": {
+      "language": "be",
+      "value": "Даная"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Даная"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "দানাই"
+    },
+    "br": {
+      "language": "br",
+      "value": "Danae"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Danaja"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Dànae"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Danaé"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Даная"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Danaë"
+    },
+    "da": {
+      "language": "da",
+      "value": "Danaë"
+    },
+    "de": {
+      "language": "de",
+      "value": "Danaë"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δανάη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Danaë"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Danao"
+    },
+    "es": {
+      "language": "es",
+      "value": "Dánae"
+    },
+    "et": {
+      "language": "et",
+      "value": "Danae"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Danae"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "دانائه"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Danae"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Danaé"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Danae"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Dánae"
+    },
+    "he": {
+      "language": "he",
+      "value": "דנאה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Danaja"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Danaé"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Դանայա"
+    },
+    "id": {
+      "language": "id",
+      "value": "Danae"
+    },
+    "it": {
+      "language": "it",
+      "value": "Danae"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ダナエー"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "დანაე"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "다나에"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Danaê"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Danaê"
+    },
+    "la": {
+      "language": "la",
+      "value": "Danaë"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Danajė"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Данаја"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Danaë"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Danaë"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Danae"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Dânae"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Dânae"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Danae"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Даная"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Danaë"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Danaja"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Danaé"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Danaja"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Данаја"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Данаја"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Danaja"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Danaë"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Danaë"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Danae"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Даная"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "达那厄"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "达那厄"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "达那厄"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "達那厄"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "達那厄"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "达那厄"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "達那厄"
+    }
+  },
+  "lastrevid": 17546586,
+  "modified": "2025-09-17T09:14:20Z",
+  "ns": 860,
+  "pageid": 161206,
+  "sitelinks": {},
+  "title": "Item:Q132821",
+  "type": "item"
+}

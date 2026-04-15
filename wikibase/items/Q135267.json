@@ -1,0 +1,220 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philippus"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135267$58C62FBF-E869-4621-BB19-54E9C08BA62F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135267$81B6363E-292A-4B6A-8369-DEAECD0DE9D5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135267$782661D7-10CA-46C8-A845-2BCA8A610008",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135210",
+              "numeric-id": 135210
+            }
+          },
+          "hash": "4fd8a698c412a5b661daf69e3201800ba9fc0c43",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135267$D7927CE8-311E-4DB9-A0BA-CAC32C30DB2C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135267$EAE6DEB1-EB39-4B33-B915-BD1E0430E975",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135267$AF2CA3AB-8345-44CF-949D-39CB3794EE8E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2087883"
+          },
+          "hash": "44fa39d563acaa4bcf5c0e50da4717218abfa975",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135267$4FE019C4-993A-4C6B-B929-EE4067E4C7FD",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philippus Arms.svg"
+          },
+          "hash": "e060e0069d6f222ce580b59b1a9250911301801b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "Feldherr Alexanders des Großen und Sohn des Balakros"
+    },
+    "es": {
+      "language": "es",
+      "value": "oficial macedonio, hijo de Balacro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "officier macédonien, fils de Balacros"
+    },
+    "it": {
+      "language": "it",
+      "value": "militare antico macedone, figlio di Balacro"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair uit Macedonië"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Балакра"
+    }
+  },
+  "id": "Q135267",
+  "labels": {
+    "de": {
+      "language": "de",
+      "value": "Philippos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιππος του Βαλάκρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philippus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Filipo"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Filippo"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Philippos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филипп"
+    }
+  },
+  "lastrevid": 17551266,
+  "modified": "2025-09-17T10:20:43Z",
+  "ns": 860,
+  "pageid": 163652,
+  "sitelinks": {},
+  "title": "Item:Q135267",
+  "type": "item"
+}

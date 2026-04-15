@@ -1,0 +1,301 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Bjǫrn the Easterner"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136679$58491BF7-EC0D-4F1D-B83B-A67AC9E33B32",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "1083469"
+          },
+          "hash": "77644cd40e9a42ccafa689c4b74010c8a91e304a",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136679$4916F9A7-93E2-4397-A776-31E710640110",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q126145",
+              "numeric-id": 126145
+            }
+          },
+          "hash": "e2eb206ab888a135efcfd92eba6c6b71d383c056",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q136679$F441FEFC-A60C-4747-BC16-85300EB9314A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ketilsson-2"
+          },
+          "hash": "4842e789d8ae071a8a0309f3cfe6ae6fad638780",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136679$C1F115CA-A6D0-4A62-8EBA-11BC64557A14",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136679$E5CDDD37-8A2F-4A56-8235-F632A36F939A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136679$031B56E1-F53D-465E-9685-C673EE0E9923",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136676",
+              "numeric-id": 136676
+            }
+          },
+          "hash": "21d18d8d394f08173ad52c3ef89e6725cbd04500",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136679$68F2F45D-A073-406F-9913-936932850417",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136677",
+              "numeric-id": 136677
+            }
+          },
+          "hash": "3167e0912645e1e0fcad987f92e6365dc5abf4ce",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136679$420CEB10-E3F9-404F-AF8E-36AD45019AE3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136679$88940BFD-146B-4B8C-9990-A0266AB1B141",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0850-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "28ef539137fdfe1305efd42b15b4b813b1655c73",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136679$A230864F-4FFE-4DF7-8E16-D00922838106",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3481428"
+          },
+          "hash": "85789f30d0a29d9db3f157939e5f36a064ff12de",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q136679$1BB170BE-C582-4C0F-897F-125037D44916",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000004533384157"
+          },
+          "hash": "7d04968f95faf130315127068270bc7540f69473",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136679$1B049147-8370-4886-98B4-2D13A1943CAB",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bjǫrn the Easterner Arms.svg"
+          },
+          "hash": "3e32a15f7b804f695a7be0e983caf63b96a02961",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "en": {
+      "language": "en",
+      "value": "850-890"
+    }
+  },
+  "id": "Q136679",
+  "labels": {
+    "da": {
+      "language": "da",
+      "value": "Björn austræni Ketilsson"
+    },
+    "en": {
+      "language": "en",
+      "value": "Bjǫrn the Easterner"
+    },
+    "es": {
+      "language": "es",
+      "value": "Bjorn Ketilsson"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Björn austræni Ketilsson"
+    },
+    "is": {
+      "language": "is",
+      "value": "Björn austræni Ketilsson"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Björn austræni Ketilsson"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Bjǫrn the Easterner"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Björn austræni Ketilsson"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Bjǫrn the Easterner"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Björn austræni Ketilsson"
+    }
+  },
+  "lastrevid": 17553493,
+  "modified": "2025-09-17T10:52:41Z",
+  "ns": 860,
+  "pageid": 165064,
+  "sitelinks": {},
+  "title": "Item:Q136679",
+  "type": "item"
+}

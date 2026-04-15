@@ -1,0 +1,392 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artabanus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135296$5AA211AC-2F00-4D2C-AD59-BF0EEEBB8798",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00253191"
+          },
+          "hash": "ef6bb4cb51b26e715277957579c5350aa28f0d89",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135296$CF5C4AFC-5FAA-46BF-A0C3-C156D862B312",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135396",
+              "numeric-id": 135396
+            }
+          },
+          "hash": "ee3921b1016f87030bc33f83363075c0efa023a1",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135296$5134C7A2-8DC0-4C68-BCC9-45B9685E2AF0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135395",
+              "numeric-id": 135395
+            }
+          },
+          "hash": "dfae928098f5c0054b05b29d4fb29ceb16330f23",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135296$24C11D3D-ED59-4CC2-B455-677A7AD6B217",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135397",
+              "numeric-id": 135397
+            }
+          },
+          "hash": "9b3a91fa2db33713f8ce0fdadf719deff36155fa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135296$465638AE-F9CC-4B03-ACED-4FA61E45D886",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135296$5A113934-69F0-4B91-A7B8-FE09C818FA71",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135296$5B8DD06B-2BA6-43B1-8E93-33485DE2340D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74296",
+              "numeric-id": 74296
+            }
+          },
+          "hash": "d3fbfa7801db2392eb69ac3cae0545d5a2dd61a1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135296$5BD1FD8F-F977-4F31-BACF-9A57209AB921",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135296$80169D5A-C7DF-44E9-8DAB-B90895A044FF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135296$B35315D2-49EF-45F5-B701-17EE9C7341C2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135296$E3C130C1-BE55-4428-87DE-693ABA1816A3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4896825"
+          },
+          "hash": "69ad12ecda8938d2ab71a24e19b8bb9f3fa9fa1e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135296$CC190F85-FFDB-4DA8-B4F1-DC6234AB08CE",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artabanus Arms.svg"
+          },
+          "hash": "4af2f8450f2f5fccf4848c77ed070f1795b7bd8c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "germà del rei Darios"
+    },
+    "de": {
+      "language": "de",
+      "value": "Bruder von Dareios I., Regent des Achämenidenreichs"
+    },
+    "el": {
+      "language": "el",
+      "value": "σύμβουλος του αδελφού του Δαρείου Α΄ της Περσίας και γιος του Υστάσπη"
+    },
+    "en": {
+      "language": "en",
+      "value": "Brother of and advisor to Achaemenid king Darius I"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "fils d'Hystaspès et frère de Darius Ier"
+    },
+    "it": {
+      "language": "it",
+      "value": "fratello di Dario I"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "aristocraat uit Perzische rijk (-)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Гистаспа, брат персидского царя Дария l из династии ахеменидов"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Брат дарія 1,син віштаспа"
+    }
+  },
+  "id": "Q135296",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Artabanus"
+    },
+    "be": {
+      "language": "be",
+      "value": "Артабан"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Артабан"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Artàban de Pèrsia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Artabanos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρτάβανος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artabanus"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Artabanus"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Artabanus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Artabano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "اردوان (پسر ویشتاسپ هخامنشی)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Artabanos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artaban, fils d'Hystaspe"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Artabanus"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀρτάβανος"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארטבנוס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artabano"
+    },
+    "la": {
+      "language": "la",
+      "value": "Artabanus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artabanus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Артабан"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Artabanus"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ортобонус"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артабан"
+    }
+  },
+  "lastrevid": 17551318,
+  "modified": "2025-09-17T10:21:27Z",
+  "ns": 860,
+  "pageid": 163681,
+  "sitelinks": {},
+  "title": "Item:Q135296",
+  "type": "item"
+}

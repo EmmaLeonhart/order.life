@@ -1,0 +1,262 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gadeon"
+      }
+    ]
+  },
+  "claims": {
+    "P20": [
+      {
+        "id": "Q135699$78BF078F-E794-4641-B7BC-D190580A5CB5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135814",
+              "numeric-id": 135814
+            }
+          },
+          "hash": "5919caec1a244573d813f4dd4f531b110e8bfcfa",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135699$A6569474-114C-4722-82BA-C6E2E75B0B92",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135699$3CEC76C5-EFCB-4621-A68A-D158F564BEAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135699$0AD6F0AD-D3FB-43AA-A86D-E417B0AAC294",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135556",
+              "numeric-id": 135556
+            }
+          },
+          "hash": "1cde81c3a6d876aade782c948234993d2df79d73",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135699$FE906360-F7C8-4FDB-9091-E4224BFB6041",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135695",
+              "numeric-id": 135695
+            }
+          },
+          "hash": "2f0d881314c8caa371eb5cb5cc308b7757bfba60",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135699$41306AF5-3DDE-43F2-9CEA-778AFF3DE940",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135699$CC7612AD-9F0E-40BF-8590-22EC3095E7AC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0405-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4a3ccfba84a9c6fdcf2a07beb06bc51e2ce18282",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135699$340BA4F6-7111-4CFA-829F-22ABBC35884F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3756847"
+          },
+          "hash": "a7d3e34d8712dc65e90cc3378810b899f40005d8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135699$5E1042BA-DC03-418A-97B6-E92473798736",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gadeon Arms.svg"
+          },
+          "hash": "434abd5c1a4b90ce4079f7ffc7ed146a497a198c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "( -405)"
+    },
+    "en": {
+      "language": "en",
+      "value": "monarch"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano e condottiero britannico"
+    }
+  },
+  "id": "Q135699",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gadeon"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gadeon"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gadeon"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gadeon"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gadeon"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Gadeon"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gadeon"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gadeon"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гадеон ап Конан"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Gadeon"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гадеон ап Конан"
+    }
+  },
+  "lastrevid": 17551993,
+  "modified": "2025-09-17T10:31:08Z",
+  "ns": 860,
+  "pageid": 164084,
+  "sitelinks": {},
+  "title": "Item:Q135699",
+  "type": "item"
+}

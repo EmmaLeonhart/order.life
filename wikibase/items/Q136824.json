@@ -1,0 +1,554 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Constantius Gallus"
+      },
+      {
+        "language": "en",
+        "value": "Flavius Claudius Constantius Gallus Caesar"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136824$73076B9E-B62C-4C05-8077-3215FF8280DE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00446955"
+          },
+          "hash": "05abf5c9f58c27d6ce8b96b85d383f027232907c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136824$C7A5ABD6-8602-4D64-BB29-D4B76A5AB690",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136833",
+              "numeric-id": 136833
+            }
+          },
+          "hash": "679756eef7b89fea03806cc677a782ae29f74310",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136824$C51B1054-59DE-4D78-9D2E-F2036BF3388E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q166583",
+              "numeric-id": 166583
+            }
+          },
+          "hash": "05f82f5a1216bb3dcf3c3cdd04371e82daaaada0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136824$5CECF325-914F-4558-B946-52C74211D7C4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136824$3786A8E3-49F8-404D-9F32-7C78151DFD4D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136824$C1824800-7E7E-412E-9896-4A9D83035764",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123556",
+              "numeric-id": 123556
+            }
+          },
+          "hash": "a271a6a64f9e49c05b9a9d2f18a0b5e949b65b75",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136824$9DA5881C-88F4-4F13-B607-29627BC669C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61301",
+              "numeric-id": 61301
+            }
+          },
+          "hash": "0151fbac0d225d80612390199eeb1a3b5959b6ac",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136824$AD1A371E-C363-42DA-997D-3C6F2C05A689",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q61235",
+              "numeric-id": 61235
+            }
+          },
+          "hash": "62a835361fa2eb767f4f57d1d1db43f833111eb5",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136824$4817E723-6DD3-4CC7-8B91-22892FE5E66C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136824$288ECA2C-6029-4FAC-88F7-5814D1F416B1",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0325-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "d6cf2a8a37077d9b3c343cae21f3cf375a3396d9",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136824$AFC4A0FB-CBA4-4C78-8FE4-5CF819C61D20",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0354-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3604bf1eac98549370828cf92d1d1a24bd265fbf",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136824$6F487B53-0CF1-4099-9F3D-6E1AB5983737",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q352506"
+          },
+          "hash": "1763f78553d97c7df11f74557759c8c59a909948",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q136824$6D21FE02-2C6A-44D9-8522-583BF7B6F9A6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006101300473"
+          },
+          "hash": "7f4b4dd366bca105524edddc8aadfe4ae865383b",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q136824$6F136535-DFFD-4E4A-9FBE-9B950F5A699A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:41379"
+          },
+          "hash": "cee978fccc1b4948c585b95c8c03df2b5a7b191e",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136824$DD706297-8F14-4951-8307-2C9C0156E7F4",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Constantius Gallus Arms.svg"
+          },
+          "hash": "83c419bfb9c5320f8defab26398a168ea8ab0903",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q136824$B1157181-0517-4B68-8E5B-63E34DE1AFAB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/5ffbfafd-c4b9-48c1-84e9-5a7fe8d579cb"
+          },
+          "hash": "106809082dbf3ada44a1b9abc7c2d5b1e3cc7193",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "da": {
+      "language": "da",
+      "value": "romersk politiker"
+    },
+    "de": {
+      "language": "de",
+      "value": "römischer Unterkaiser"
+    },
+    "en": {
+      "language": "en",
+      "value": "Junior Roman emperor from 351 to 354"
+    },
+    "es": {
+      "language": "es",
+      "value": "César del imperio romano"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سیاستمدار در روم باستان"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "césar (co-empereur) de la partie orientale de l'Empire romain de 351 à 354"
+    },
+    "he": {
+      "language": "he",
+      "value": "(325-354) קיסר רומאי, תחת שלטונו של קונסטנטיוס השני"
+    },
+    "it": {
+      "language": "it",
+      "value": "politico romano"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "romersk politiker"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Oude Rome (325-354)"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "romersk politikar"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "cesarz rzymski"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "римский император с титулом цезаря в 351—354 годах, соправитель Констанция II"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "romersk kejsare"
+    }
+  },
+  "id": "Q136824",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "قنسطانطيوس غالوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Констанций Гал"
+    },
+    "br": {
+      "language": "br",
+      "value": "Constantius Gallus"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Constanci Gal"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Constantius Gallus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Constantius Gallus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Κωνστάντιος Γάλλος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Constantius Gallus"
+    },
+    "es": {
+      "language": "es",
+      "value": "Constancio Galo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Konstantzio Galo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کنستانسیوس گالوس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Constantius Gallus"
+    },
+    "he": {
+      "language": "he",
+      "value": "קונסטנטיוס גאלוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Konstancije Gal"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Flavius Constantius Gallus"
+    },
+    "id": {
+      "language": "id",
+      "value": "Konstantius Gallus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Costanzo Gallo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "コンスタンティウス・ガッルス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "콘스탄티누스 갈루스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Constantius Gallus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Constantius Gallus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Constantius Gallus"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Constantius Gallus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Konstancjusz Gallus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Constâncio Galo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Constâncio Galo"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Constantius Gallus"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Констанций Галл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Konstancije Gal"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Konstancij Gal"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Констанције Гал"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Констанције Гал"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Konstancije Gal"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Constantius Gallus"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Constantius Gallus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Констанцій Галл"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "康斯坦谢斯·加卢斯"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "康斯坦谢斯·加卢斯"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "康斯坦謝斯·加盧斯"
+    }
+  },
+  "lastrevid": 17553715,
+  "modified": "2025-09-17T10:55:53Z",
+  "ns": 860,
+  "pageid": 165209,
+  "sitelinks": {},
+  "title": "Item:Q136824",
+  "type": "item"
+}

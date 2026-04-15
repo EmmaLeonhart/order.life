@@ -1,0 +1,871 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Πτολεμαῖος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Ptolemy"
+      },
+      {
+        "language": "en",
+        "value": "Πτολεμαῖος"
+      },
+      {
+        "language": "en",
+        "value": "Ptolemy IX Lathyros"
+      },
+      {
+        "language": "en",
+        "value": "Ptolemy IX Soter II, Pharaoh of Egypt"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q78713$02459731-C041-4996-A319-97162742664D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "153526"
+          },
+          "hash": "c86f40a6f4edb0db65e58766254314bab45b4dc4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q78713$716D38A7-800D-44E1-B3B1-12A122822432",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00567206"
+          },
+          "hash": "c3372c8055c6318d90bd67ee0923609ab48c5609",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q78713$F58A336D-EBDE-404E-B813-6D071764A18A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78609",
+              "numeric-id": 78609
+            }
+          },
+          "hash": "fa902d362fe4ad3b60c2791d65de8dea17f92c10",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$88E6BDAA-F447-458D-86F8-7A1D418E048E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78612",
+              "numeric-id": 78612
+            }
+          },
+          "hash": "249a0d735d4d3b421ddabe9425fae61213d6a98c",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$3020E81D-1ACB-4902-A875-FDEBC593D927",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136155",
+              "numeric-id": 136155
+            }
+          },
+          "hash": "1edf3c906c059248fc181000471038b4e80acf0e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$364F8BB7-A2BE-4A80-90BE-A579DB99BF01",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q51822",
+              "numeric-id": 51822
+            }
+          },
+          "hash": "3f1bc3ce51415e0f6b3ed938240847e7d67a5746",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$167B7223-A566-4C47-9590-D05784E85C2D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165498",
+              "numeric-id": 165498
+            }
+          },
+          "hash": "8a0019af2255290dbf20cc5b5f2c226ea2b5e93a",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$CBE7AF8F-C249-4CD3-8D6A-480B07CBD59C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165499",
+              "numeric-id": 165499
+            }
+          },
+          "hash": "640883444458426c65c9083d83e34b97b232b1b6",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$44E98AFF-BBB4-4BE3-9896-CFC6634434EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165502",
+              "numeric-id": 165502
+            }
+          },
+          "hash": "15459c7c2ec999eb8a3fbb3ae47a9fcd56a87408",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q78713$5439B493-3607-4EF0-9C46-97A36B93FAA4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$EE391B90-A8F0-4044-A392-727DD90F0A90",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q78713$3F2EF9D4-F2A0-43B9-9C44-CE9696089A13",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78716",
+              "numeric-id": 78716
+            }
+          },
+          "hash": "9df78429441b6bf6ecb62bf779b8388eb93a7b0f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$02B5751F-F54A-463E-8B95-9D1DD4519406",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78719",
+              "numeric-id": 78719
+            }
+          },
+          "hash": "eee44dbc57740953cc3cae63f622e13f51c70641",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$4CEFC8B0-8077-4C51-BD30-549744A54F4C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78402",
+              "numeric-id": 78402
+            }
+          },
+          "hash": "bf4a11d6f466d4c7758139353f0ccc1656f68192",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$0D01B6F0-5EE5-4E6B-A0F4-59DFD0928B76",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135922",
+              "numeric-id": 135922
+            }
+          },
+          "hash": "34150bf05a3f1ea443efd9d4fbba9f87fc08c1a1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$FA1A7A2F-5131-4590-AFAC-62D3529F0B5D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165497",
+              "numeric-id": 165497
+            }
+          },
+          "hash": "057f5f29a60432e2796f1ddd696755275f81b956",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q78713$2A2C14D5-EE3E-466D-9042-F3E4D470B15F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73038",
+              "numeric-id": 73038
+            }
+          },
+          "hash": "36c73143e7a4930c8deb3fc8d6d31881a11d1990",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$E4EC26EC-31CE-408B-A10B-1A6A6567F677",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73197",
+              "numeric-id": 73197
+            }
+          },
+          "hash": "b29c9429810668c3ca1677bb606712214f043ca6",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q78713$375A9C5D-7ABF-4567-B928-04781DFF469E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78402",
+              "numeric-id": 78402
+            }
+          },
+          "hash": "e2544eff681eff10f6936861452aac1211a1e8ac",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$6D9C162A-80FE-4347-A84D-178058BA448B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78719",
+              "numeric-id": 78719
+            }
+          },
+          "hash": "54153864e0cd07077ef535cd52e5e5ecce668fd9",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q78713$C0B41E02-3818-4198-87AD-8994ED099973",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73035",
+              "numeric-id": 73035
+            }
+          },
+          "hash": "361fb1db31516033ef703ec85453d4816ac54022",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q78713$BF0C483E-A11F-4D92-960B-D3EFA25B33B2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q78713$D0B51E33-E7BB-4306-A838-70269BB0A3FB",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0142-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "eca409e6f0a1d499373b9ba4e964142d2f41d6d2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q78713$46A86E64-D22A-4457-96E1-A31BEF821F83",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0081-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "8a226a7b004f75bdab2d825f8b432a58fd6cf51f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q78713$F6EF277C-BB1D-4567-A1A0-6192C5D11F51",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3340"
+          },
+          "hash": "53de40551e07415b51bfee3cdaa8ed37163302e3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q78713$DDC2667F-0EFA-4B1E-B2EB-BA1BC38BAE5B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000002415234643"
+          },
+          "hash": "914c2f980d52379becb675cf797f5105ddd3ac9c",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q78713$87FFDC3B-30DA-4798-81A7-7D4842AD769A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:50807"
+          },
+          "hash": "237c9ba09538a8e9aa953658124a3a3b25c0673e",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q78713$65B89C26-B417-4724-A00C-533FDC8DAE64",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ptolemy IX Lathyros Arms.svg"
+          },
+          "hash": "b9bd09bdc0ca6b79529252b789aa5590f3c2bd27",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك مقدوني"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "egyptský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "Pharao von Ägypten"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φαραώ της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Egypt"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de la dinastía Ptolemaica del Antiguo Egipto"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Égypte"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida uralkodó"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Եգիպտոսի փարավոն"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano egizio"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "konge"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Ptolemaeën (142v Chr-80v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "władca Egiptu"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "faraó"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "faraó"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "египетский фараон"
+    }
+  },
+  "id": "Q78713",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "بطليموس التاسع"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بطليموس التاسع"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "دوْکوزونجو بطلمیوس لاتیروس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пталамей IX"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Птолемей IX"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ptolemeu IX Làtir"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ptolemaios IX. Sótér II."
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Ptolemi IX Lathyros"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ptolemaios IX."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Ptolemaios IX."
+    },
+    "el": {
+      "language": "el",
+      "value": "Πτολεμαίος Θ΄ Λάθυρος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ptolemy IX Lathyros"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Ptolemy IX Lathyros"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Ptolemy IX Lathyros"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Ptolemeo la 9-a Latiros"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ptolomeo IX"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ptolemaios IX"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ptolomeo IX.a"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بطلمیوس نهم لاتیروس"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ptolemaios IX"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ptolémée IX Soter II"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πτολεμαῖος Φιλομήτωρ Σωτὴρ Λάθυρος"
+    },
+    "he": {
+      "language": "he",
+      "value": "תלמי התשיעי"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Ptolemej IX. Soter"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "IX. Ptolemaiosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Պտղոմեոս IX"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ptolemaios IX Lathyros"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolomeo IX"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス9世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პტოლემე IX"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "프톨레마이오스 9세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Ptolemaeus IX"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ptolemėjas IX Soteras II"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Ptolemaiosy IX"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Ptolemaios 9-sè"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ptolemaios IX av Egypt"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ptolemaeus IX Soter II"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ptolemeusz IX Soter II Lathyros"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ptolemeu IX Sóter II"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ptolemeu IX Sóter II"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемей IX"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ptolemej IX Latir"
+    },
+    "si": {
+      "language": "si",
+      "value": "ටොලමි IX ලැතිරොස්"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Ptolemaj IX. Latir"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Птолемеј IX Латир"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ptolemaios IX"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "ஒன்பதாம் தாலமி சோத்தர்"
+    },
+    "th": {
+      "language": "th",
+      "value": "ปโตเลมีที่ 9"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Ptolomeo IX Soter"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Птолемей IX"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "بطلیموس نہم سوتیر"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Ptolemaios IX Lathyros"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Ptolemy 9k Lathyros"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "托勒密九世"
+    }
+  },
+  "lastrevid": 17492712,
+  "modified": "2025-09-16T20:17:16Z",
+  "ns": 860,
+  "pageid": 93544,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q78713",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q78713"
+    }
+  },
+  "title": "Item:Q78713",
+  "type": "item"
+}

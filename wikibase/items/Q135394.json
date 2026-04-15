@@ -1,0 +1,373 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Artaphernes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135394$BB3B884C-14AF-4F11-8451-845DC18411A9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737254"
+          },
+          "hash": "584fc83e22ce263fdf7c7440fbf5a2528f699765",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135394$92E5581A-0305-431D-AE71-BC065EF89B80",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135394$CE27C9FE-AAA5-4C40-A20E-42F8F78A19CF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135394$6A51DD11-7D61-4EE3-AC90-C0B8E760CF0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135295",
+              "numeric-id": 135295
+            }
+          },
+          "hash": "cf91fb91c0ed4772ec4345a892addf2a9efc2f02",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135394$D72A799F-0ABE-4500-A402-B8B05D51BACD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135394$377B8F99-0F8F-40F7-A31E-044184A3DB8A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135394$58CB4C24-D1BC-4BA1-A091-706CDDFB9033",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135394$36A57BC9-2DC6-40ED-BCF3-F9657A435078",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2428648"
+          },
+          "hash": "bee23c8e0e18aa56a0056f79d3798612fb773844",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135394$130ECD56-CB70-4DD4-8991-61AC797E1E47",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Artaphernes Arms.svg"
+          },
+          "hash": "7944d30d6f84787ca86533b1ac7bede25f45af46",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "пэрсыдзкі сатрап"
+    },
+    "de": {
+      "language": "de",
+      "value": "persischer Feldherr des Achämenidenreichs"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th-century Persian general and satrap"
+    },
+    "he": {
+      "language": "he",
+      "value": "מצביא פרסי בשירות דריווש ואחר כך בשירות בנו קסרקסס, הובס בקרב מרתון"
+    },
+    "it": {
+      "language": "it",
+      "value": "generale persiano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "zoon"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "comandant militar persan"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "perzijski general in satrap v 5. stol. pr. n. št."
+    }
+  },
+  "id": "Q135394",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "ارتافرنيس"
+    },
+    "az": {
+      "language": "az",
+      "value": "II Artafern"
+    },
+    "be": {
+      "language": "be",
+      "value": "Артаферн II"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Артафэрн"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Artafernes"
+    },
+    "de": {
+      "language": "de",
+      "value": "Artaphernes"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Artaphernes"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αρταφέρνης ο νεότερος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Artaphernes"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Artaphernes"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Artaphernes II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Artafernes"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آرتافرنس (پسر آرتافرنس)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Artapherne"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Artaphernes"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Αρταφέρνης"
+    },
+    "he": {
+      "language": "he",
+      "value": "ארטפרנס (בן ארטפרנס)"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Artafern Mlađi"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Արտափրենես (Արտափրենեսի որդի)"
+    },
+    "id": {
+      "language": "id",
+      "value": "Artaphernes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Artaferne"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アルタプレネス (息子)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Artaphernes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Artafernes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Artafernes"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Artafernes"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Artaphernes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Артаферн II"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Artafern Mlađi"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Artafem"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Artaphernes"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ортофернаи II"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Артаферн"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿塔佛涅斯 (阿塔佛涅斯之子)"
+    }
+  },
+  "lastrevid": 17551478,
+  "modified": "2025-09-17T10:23:44Z",
+  "ns": 860,
+  "pageid": 163779,
+  "sitelinks": {},
+  "title": "Item:Q135394",
+  "type": "item"
+}

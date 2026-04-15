@@ -1,0 +1,549 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Lavinia"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q132137$24EA84D2-C527-442F-85A7-0820A8DC7C55",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "87808|89099"
+          },
+          "hash": "126095e35b7824a6953a5e6f3cb99763f9e9b93d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q132137$695793CF-37BE-4C16-823F-D74DC5E8E312",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132759",
+              "numeric-id": 132759
+            }
+          },
+          "hash": "fcc50cd3814e4222b1087d637a67d9a19252064d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132137$4CD04C22-638D-4FFE-8F8B-258FA6EA5E46",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132754",
+              "numeric-id": 132754
+            }
+          },
+          "hash": "1ce8a0d7b215d6157394846ea9e2726d3088f6ff",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132137$3662790C-1036-436D-8BAD-5AF780FC98FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132757",
+              "numeric-id": 132757
+            }
+          },
+          "hash": "66c476266de23106e765bbea16e0ead76db13e7e",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q132137$DF381874-D69E-473F-9AFE-7500D9BCC5EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132137$F369BAC1-6949-4E00-B8F5-7CC7BA3484BE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132137$E0E0E2A1-BDF7-48CF-A313-D42599734F84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q90257",
+              "numeric-id": 90257
+            }
+          },
+          "hash": "0d2f72eca9a9f81ac0d9f1d4641bb2942bcd4d6b",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132137$3E48F1B1-6E32-4B28-9A41-C45D15387E0B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q132755",
+              "numeric-id": 132755
+            }
+          },
+          "hash": "eabc1eda9839ec880f4246d0d5b35c6ad4df7d62",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132137$EA962162-A886-4361-9729-311B445274F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q130662",
+              "numeric-id": 130662
+            }
+          },
+          "hash": "134a41850d97313c30791a536ba109bb654cf04a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132137$10E42ACD-A7F2-42ED-AB4B-3EA85B5C20E4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74843",
+              "numeric-id": 74843
+            }
+          },
+          "hash": "b72ead8924821a36ad887e8128a6dca1315f8c35",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132137$E50AD708-982D-4670-B11C-DC2C02367CE2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132137$469E3857-FB13-4ED5-922E-B8991E62EA2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1137364"
+          },
+          "hash": "c15b3957952b77aada49c22406b5b85d293f57e3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132137$32B0E4AC-DD00-4C85-9F27-3FD85C353306",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Lavinia Arms.svg"
+          },
+          "hash": "27de1c2cfd99104f4d77a245ecc57a66a69bf7d2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "съпруга на Еней в римската митология"
+    },
+    "br": {
+      "language": "br",
+      "value": "emañ Aeneas en istologi roman"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "esposa d'Enees en la mitologia romana"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "manželka Aenea v římské mytologii"
+    },
+    "da": {
+      "language": "da",
+      "value": "Æneas' hustru i romersk mytologi"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter von König Latinus und Amata in der römischen Mythologie"
+    },
+    "el": {
+      "language": "el",
+      "value": "τελευταία γυναίκα του Αινεία στην ρωμαϊκή μυθολογία"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Aeneas in Roman mythology"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "wife of Aeneas in Roman mythology"
+    },
+    "es": {
+      "language": "es",
+      "value": "esposa de Eneas en la mitología romana"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Eneasen emaztea erromatar mitologian"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "همسر آئنیاس در اساطیر رومی"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la mythologie romaine"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "esposa de Eneas na mitoloxía romana"
+    },
+    "he": {
+      "language": "he",
+      "value": "אשתו של אניאס במיתולוגיה הרומית"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Էնեասի վերջին կինը հռոմեական դիցաբանության մեջ"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio della mitologia romana, figlia di Latino e Amata, moglie di Enea"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ローマ神話のアエネアスの妻"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ენეასის ცოლი რომაულ მითოლოგიაში"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "로마 신화에 나오는 아이네이아스의 아내"
+    },
+    "la": {
+      "language": "la",
+      "value": "uxor Aeneae in mythologia Romana"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "echtgenote van Aeneas in de Romeinse mythologie"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "żona Eneasza w mitologii rzymskiej"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "esposa de Enéias na mitologia romana"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "soția lui Enea în mitologia romană"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж римской мифологии"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Aeneas hustru i romersk mytologi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Roma mitolojisinde Truva prensi Aeneas'in eşi"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "персонажка римської міфології"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Rim mifologiyasida Eneyning xotini"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "罗马神话中埃涅阿斯的妻子"
+    }
+  },
+  "id": "Q132137",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Лавиния"
+    },
+    "br": {
+      "language": "br",
+      "value": "Lavinia"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lavínia"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Lavinia"
+    },
+    "da": {
+      "language": "da",
+      "value": "Lavinia"
+    },
+    "de": {
+      "language": "de",
+      "value": "Lavinia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λαβίνια"
+    },
+    "en": {
+      "language": "en",
+      "value": "Lavinia"
+    },
+    "en-us": {
+      "language": "en-us",
+      "value": "Lavinia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Lavinia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Lavinia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "لاوینیا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Lavinia"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Lavinia"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Lavinia"
+    },
+    "he": {
+      "language": "he",
+      "value": "לביניה"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Լավինիա"
+    },
+    "io": {
+      "language": "io",
+      "value": "Lavinia (mitologio)"
+    },
+    "it": {
+      "language": "it",
+      "value": "Lavinia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ラウィーニア"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლავინია"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "라비니아"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Lavinia"
+    },
+    "ku-latn": {
+      "language": "ku-latn",
+      "value": "Lavinia"
+    },
+    "la": {
+      "language": "la",
+      "value": "Lavinia"
+    },
+    "mzn": {
+      "language": "mzn",
+      "value": "لاوئینیا"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Lavinia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Lawinia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Lavínia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Lavinia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Лавиния"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Lavinia"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Lavinia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Лавінія"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Lavinia"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Lavinia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "拉维尼亚"
+    }
+  },
+  "lastrevid": 17545241,
+  "modified": "2025-09-17T08:56:01Z",
+  "ns": 860,
+  "pageid": 160522,
+  "sitelinks": {},
+  "title": "Item:Q132137",
+  "type": "item"
+}

@@ -1,0 +1,639 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Esther"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136765$6657CF3A-F764-48D5-A3F3-7713CC4FE82E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139859"
+          },
+          "hash": "69889dc90db70612cb0e1204d0331a1dc22f6b86",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136765$EDFF6711-F01A-4F6D-92EC-653C5EC4FB82",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136765$3FF37B6D-C6C0-44BC-8C76-6B5C9C2478DF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136765$A1A9300C-25FD-4132-B8D7-C864050A1150",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136460",
+              "numeric-id": 136460
+            }
+          },
+          "hash": "bba2752ddd930a72b2c239282e26f33c5caf0fa2",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136765$7B49D250-B3F3-4F9C-8913-621C2BC16E61",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137178",
+              "numeric-id": 137178
+            }
+          },
+          "hash": "280e1dfdaae746a9a12abb4d394dd4edb10a8794",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136765$2766B1EF-E600-45B5-88DC-9A97808253AA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136765$E1934FF1-B09C-462F-BF8E-D58453EE3C2A",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e49b1597f941e1a3a33f5df6d2188c67f8d69b5e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136765$077A9E61-6D12-4AA6-A9A4-D9EAB301CD9C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136765$F6265FF5-47AC-4045-8C3E-BECBB5382815",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q732413"
+          },
+          "hash": "15e0cf17e3fdec9128606e1619c3877dcb8df7a8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136765$4CF873FD-A5E9-4BE4-A69B-8C6936DF83A0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Esther Arms.svg"
+          },
+          "hash": "dcd03f6e360615d35e119421f1d6644e24c4eff8",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q136765$387F4069-FD1E-42BD-AA79-DFBB4700734A",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "term/02df8ee0-abb5-4505-a065-bfd907c6789e"
+          },
+          "hash": "93707b675c7d1a28f6a58e6eb4f8a05466113932",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قديسه قبطيه"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "reina bíblica"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava"
+    },
+    "da": {
+      "language": "da",
+      "value": "bibelsk kvinde"
+    },
+    "de": {
+      "language": "de",
+      "value": "biblische Persönlichkeit"
+    },
+    "en": {
+      "language": "en",
+      "value": "Biblical Jewish queen of Persia and Medes (Book of Esther)"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "laŭ la Hebrea Biblio, juda reĝino de Persio"
+    },
+    "es": {
+      "language": "es",
+      "value": "personaje bíblica"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Raamatun henkilö"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "personnage de la Bible"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "e Person us de Bible"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית, גיבורת מגילת אסתר"
+    },
+    "it": {
+      "language": "it",
+      "value": "personaggio biblico, regina consorte di Persia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ペルシャの女王"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "에스델기의 주인공인 유대 여성"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "библиска царица на Персија"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "hoofdfiguur in het bijbel-boek Ester"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "postać biblijna"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rainha bíblica da Pérsia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "personagem bíblica"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "библейский персонаж"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "hjältinna i Gamla testamentet"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "tabia ya biblia"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan li sewi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen, Ester Kitabı'nın atfedildiği kraliçe"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Біблійна єврейська цариця Персії"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "波斯王后"
+    }
+  },
+  "id": "Q136765",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Toevoegings tot die boek van Ester"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "استر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "استير"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایستر"
+    },
+    "be": {
+      "language": "be",
+      "value": "Эсфір, дачка Амінавада"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Эстэр"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Естир"
+    },
+    "br": {
+      "language": "br",
+      "value": "Ester"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Estera"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Ester"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ester"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Esther"
+    },
+    "da": {
+      "language": "da",
+      "value": "Ester"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ester"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Königin Ester"
+    },
+    "diq": {
+      "language": "diq",
+      "value": "Ester"
+    },
+    "el": {
+      "language": "el",
+      "value": "Εσθήρ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Esther"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Esther"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Esther"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Estero"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ester"
+    },
+    "et": {
+      "language": "et",
+      "value": "Ester"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Ester"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "استر"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ester"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Esther"
+    },
+    "fy": {
+      "language": "fy",
+      "value": "Ester"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Eistir"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἐσθήρ"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Ester"
+    },
+    "he": {
+      "language": "he",
+      "value": "אסתר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Eszter"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Եսթեր"
+    },
+    "id": {
+      "language": "id",
+      "value": "Ester"
+    },
+    "ig": {
+      "language": "ig",
+      "value": "Esta"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ester"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "エステル"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ესთერი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "에스테르"
+    },
+    "la": {
+      "language": "la",
+      "value": "Hester"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Estera"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Estera (ao amin'ny Baiboly)"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Естира"
+    },
+    "mt": {
+      "language": "mt",
+      "value": "Ester"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ester"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Esther"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Estér"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Estera"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "آستر"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "استر"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ester"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ester"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Estera"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Есфирь"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Ester"
+    },
+    "skr": {
+      "language": "skr",
+      "value": "آستر"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Estera"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Јестира"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Ester"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Esta"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "எஸ்தர்"
+    },
+    "th": {
+      "language": "th",
+      "value": "เอสเธอร์"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Ester"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Ese"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Ester"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Естера"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "آستر"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Esther"
+    },
+    "war": {
+      "language": "war",
+      "value": "Ester (Bibliya)"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "אסתר"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "以斯帖"
+    }
+  },
+  "lastrevid": 17553633,
+  "modified": "2025-09-17T10:54:43Z",
+  "ns": 860,
+  "pageid": 165150,
+  "sitelinks": {},
+  "title": "Item:Q136765",
+  "type": "item"
+}

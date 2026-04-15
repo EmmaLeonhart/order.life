@@ -1,0 +1,355 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Damaspia"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135664$261E7525-E6EA-48D6-96C8-06096FA3B12C",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738546"
+          },
+          "hash": "0ad563734f78320994455de9e48ac15005fd34de",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135664$D5D45C76-99A9-478A-8136-467063B4DC06",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135666",
+              "numeric-id": 135666
+            }
+          },
+          "hash": "9a99e6a9c062e59cf47f0afde1a9973ca3541e00",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135664$2EDFBCF9-93E5-4744-BCC2-75EEA939FDC3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135664$7109A780-40E4-442B-B147-F5621E867594",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135664$F08EC777-DCA8-4487-863C-34DF0F8C7D9B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74129",
+              "numeric-id": 74129
+            }
+          },
+          "hash": "5625ebfa8cb8182dfa3632598f7f032fc6bac416",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135664$FB141561-4901-4A67-A01E-2D0350E58FCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135664$4E46FB37-B0FB-4E78-BCCE-EEF50595ACA7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2a9e4e2db5ed6e5a0a3d28134489b93b4389d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135664$4F89378B-751F-46C0-BD85-F4BC70E57EDD",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0424-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "85e2830736b722492fa43e016ddac0b71d6f2f89",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135664$821D1EA4-BAC6-4C1C-BFC7-C9EA0D31A707",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q3435383"
+          },
+          "hash": "0c6e9fbbe1af26a21f42e7f9e2760f41a1a12ce6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q135664$8E39DB7A-DB01-4B01-ABB0-6344F788C027",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000018989752074"
+          },
+          "hash": "760f26ba30c248826fe8a35c05fa7d232cc27714",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135664$0114DDB7-821D-4E09-B2CA-02ACBDDC5D23",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Damaspia Arms.svg"
+          },
+          "hash": "f268ecaaa74cdcfa9c01f711d699074dfe242488",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "el": {
+      "language": "el",
+      "value": "βασίλισσα της Περσίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Queen of Persia (died 424 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "reina de Persia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "reine de Perse"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלכת פרס, אשתו של ארתחשסתא הראשון"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rainha aquemênida"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "persisk drottning"
+    }
+  },
+  "id": "Q135664",
+  "labels": {
+    "azb": {
+      "language": "azb",
+      "value": "داماسپیا"
+    },
+    "be": {
+      "language": "be",
+      "value": "Дамаспія"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Damaspia"
+    },
+    "el": {
+      "language": "el",
+      "value": "Δαμάσπια"
+    },
+    "en": {
+      "language": "en",
+      "value": "Damaspia"
+    },
+    "es": {
+      "language": "es",
+      "value": "Damaspia"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "داماسپیا"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Damaspia"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Damaspia"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמאספיה"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Damaspija"
+    },
+    "id": {
+      "language": "id",
+      "value": "Damaspia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Damaspia"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Damaspia"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Damáspia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Damáspia"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Дамаспия"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Damaspija"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Damaspia"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Дамаспія"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Damaspia"
+    }
+  },
+  "lastrevid": 17551931,
+  "modified": "2025-09-17T10:30:16Z",
+  "ns": 860,
+  "pageid": 164049,
+  "sitelinks": {},
+  "title": "Item:Q135664",
+  "type": "item"
+}

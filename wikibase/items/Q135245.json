@@ -1,0 +1,370 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Leon of Sparta"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135245$D7EBDBBE-221C-429F-A85C-EDBB34E9D536",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "824617"
+          },
+          "hash": "afea915a37949776a38a28b9b64008d7a1581f1c",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135245$B132B507-C220-4E05-94DF-9C4AED12F762",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135318",
+              "numeric-id": 135318
+            }
+          },
+          "hash": "a25169a8d76a936112ad57ec82f830e3415c6133",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135245$0394713D-5C81-4699-A56B-4C12F2842E62",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135245$88240119-7D36-4786-83C1-8A757056D542",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135245$397D9D36-7A9B-4247-9200-B31D63AB2A2F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135199",
+              "numeric-id": 135199
+            }
+          },
+          "hash": "a225a0566db2154c3dcf172f21021a75f8c768c1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135245$BBC9A731-C1FB-4DE5-9A9D-D017A23D3EA5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135245$56615AA8-D963-4BC6-B756-289FBB0CDE8F",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0700-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ead4b176d2f630cc476effcc8864a5df658a825e",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135245$9CD06BFB-BA65-46A2-832F-62F610C8D438",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0600-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ca0f7e18475fc648e1a286f4ce5787e81e10b187",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135245$8A3868B0-9946-4236-8243-0580BB5BFD59",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q440230"
+          },
+          "hash": "7fa9aaf41f77ba17b61e792223d356a840efcc03",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135245$ED3C1E55-3A7F-43A1-A248-B2AA67293092",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Leon of Sparta Arms.svg"
+          },
+          "hash": "8c3328610b0c7a9b5c178f9c3b32d24a2d6b3abe",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك يوناني"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "spartský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "spartanischer König"
+    },
+    "en": {
+      "language": "en",
+      "value": "legendary king of Sparta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Sparte"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Spárta mítikus királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Sparta"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "figuur uit de Griekse mythologie"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "персонаж древнегреческой мифологии"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Yunan mitolojisinde efsanevi Sparta kralı"
+    }
+  },
+  "id": "Q135245",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "ليون ملك أسبرطة"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Леон"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Lleó d'Esparta"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "král León"
+    },
+    "de": {
+      "language": "de",
+      "value": "Leon"
+    },
+    "el": {
+      "language": "el",
+      "value": "Λέων ο Λακεδαιμόνιος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Leon of Sparta"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Leono de Sparto"
+    },
+    "es": {
+      "language": "es",
+      "value": "León de Esparta"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Léon"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Λέων"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Leon"
+    },
+    "he": {
+      "language": "he",
+      "value": "לאון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Leon Spartanski"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "León spártai király"
+    },
+    "it": {
+      "language": "it",
+      "value": "Leonte"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "レオン"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ლეონი"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Leoon van Sparta"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Leon de Esparta"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Леонт"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Leon"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "León"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Spartalı Leon"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Леонт"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "列奥"
+    }
+  },
+  "lastrevid": 17551228,
+  "modified": "2025-09-17T10:20:11Z",
+  "ns": 860,
+  "pageid": 163630,
+  "sitelinks": {},
+  "title": "Item:Q135245",
+  "type": "item"
+}

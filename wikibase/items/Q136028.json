@@ -1,0 +1,528 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Almedha"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136028$C031AB41-1678-467D-A275-3013B5DF253F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136028$521048B0-5D4C-4513-8624-859A138B32FB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136028$940696B9-7A76-4E0E-B2FF-4665C90CFABF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135820",
+              "numeric-id": 135820
+            }
+          },
+          "hash": "5a0062623d1c14d1d48cb35c196db69fc0f4abd3",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136028$01E72006-37F5-41CE-9484-2CE49C8859CE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136028$FFA87079-C9F3-4EC6-9AF2-A4860EDEACB7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136028$7574A0F2-79A2-4876-A983-C39BD5D63CE9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4530046"
+          },
+          "hash": "699704c8d3d3dbb3bda6116fc82dbc1e49eb0d89",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136028$28FC4FD2-827A-4E1D-BE3B-2F34D03756A7",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Almedha Arms.svg"
+          },
+          "hash": "1f5523cafe7610227ff1ac2c72c57dc25dc9ab26",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cy": {
+      "language": "cy",
+      "value": "Santes Cymreig o'r 5g"
+    },
+    "en": {
+      "language": "en",
+      "value": "5c Welsh saint"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "5c Welsh saint"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "naomh Breatnach sa 5ú haois"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "religieus leider uit Wales"
+    }
+  },
+  "id": "Q136028",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Eluned"
+    },
+    "an": {
+      "language": "an",
+      "value": "Eluned"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Eluned"
+    },
+    "az": {
+      "language": "az",
+      "value": "Eylived"
+    },
+    "bar": {
+      "language": "bar",
+      "value": "Eluned"
+    },
+    "bm": {
+      "language": "bm",
+      "value": "Eluned"
+    },
+    "br": {
+      "language": "br",
+      "value": "Eluned"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Eluned"
+    },
+    "co": {
+      "language": "co",
+      "value": "Eluned"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Eluned"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Eiluned ach Brychan"
+    },
+    "da": {
+      "language": "da",
+      "value": "Eluned"
+    },
+    "de": {
+      "language": "de",
+      "value": "Eluned"
+    },
+    "de-at": {
+      "language": "de-at",
+      "value": "Eluned"
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Eluned"
+    },
+    "en": {
+      "language": "en",
+      "value": "Almedha"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Eluned"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Eluned"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Eluned"
+    },
+    "es": {
+      "language": "es",
+      "value": "Saint Eluned"
+    },
+    "et": {
+      "language": "et",
+      "value": "Eluned"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Eluned"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Eluned"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Eluned"
+    },
+    "frc": {
+      "language": "frc",
+      "value": "Eluned"
+    },
+    "frp": {
+      "language": "frp",
+      "value": "Eluned"
+    },
+    "fur": {
+      "language": "fur",
+      "value": "Eluned"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Eluned"
+    },
+    "gd": {
+      "language": "gd",
+      "value": "Eluned"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Eluned"
+    },
+    "gsw": {
+      "language": "gsw",
+      "value": "Eluned"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Eluned"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Eluned"
+    },
+    "ia": {
+      "language": "ia",
+      "value": "Eluned"
+    },
+    "id": {
+      "language": "id",
+      "value": "Eluned"
+    },
+    "ie": {
+      "language": "ie",
+      "value": "Eluned"
+    },
+    "io": {
+      "language": "io",
+      "value": "Eluned"
+    },
+    "it": {
+      "language": "it",
+      "value": "Eluned"
+    },
+    "jam": {
+      "language": "jam",
+      "value": "Eluned"
+    },
+    "kab": {
+      "language": "kab",
+      "value": "Eluned"
+    },
+    "kg": {
+      "language": "kg",
+      "value": "Eluned"
+    },
+    "kw": {
+      "language": "kw",
+      "value": "Aled"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Eluned"
+    },
+    "li": {
+      "language": "li",
+      "value": "Eluned"
+    },
+    "lij": {
+      "language": "lij",
+      "value": "Eluned"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Eluned"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Eluned"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Eluned"
+    },
+    "min": {
+      "language": "min",
+      "value": "Eluned"
+    },
+    "ms": {
+      "language": "ms",
+      "value": "Eluned"
+    },
+    "nap": {
+      "language": "nap",
+      "value": "Eluned"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Eluned"
+    },
+    "nds": {
+      "language": "nds",
+      "value": "Eluned"
+    },
+    "nds-nl": {
+      "language": "nds-nl",
+      "value": "Eluned"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Saint Eluned"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Eluned"
+    },
+    "nrm": {
+      "language": "nrm",
+      "value": "Eluned"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Eluned"
+    },
+    "pap": {
+      "language": "pap",
+      "value": "Eluned"
+    },
+    "pcd": {
+      "language": "pcd",
+      "value": "Eluned"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Eluned"
+    },
+    "pms": {
+      "language": "pms",
+      "value": "Eluned"
+    },
+    "prg": {
+      "language": "prg",
+      "value": "Eluned"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Eluned"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Eluned"
+    },
+    "rgn": {
+      "language": "rgn",
+      "value": "Eluned"
+    },
+    "rm": {
+      "language": "rm",
+      "value": "Eluned"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Eluned"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Эйливед"
+    },
+    "sc": {
+      "language": "sc",
+      "value": "Eluned"
+    },
+    "scn": {
+      "language": "scn",
+      "value": "Eluned"
+    },
+    "sco": {
+      "language": "sco",
+      "value": "Eluned"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Eluned"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Almedha"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Eluned"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Eluned"
+    },
+    "sw": {
+      "language": "sw",
+      "value": "Eluned"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Eluned"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "Eluned"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Eluned"
+    },
+    "vls": {
+      "language": "vls",
+      "value": "Eluned"
+    },
+    "vmf": {
+      "language": "vmf",
+      "value": "Eluned"
+    },
+    "vo": {
+      "language": "vo",
+      "value": "Eluned"
+    },
+    "wa": {
+      "language": "wa",
+      "value": "Eluned"
+    },
+    "wo": {
+      "language": "wo",
+      "value": "Eluned"
+    },
+    "zu": {
+      "language": "zu",
+      "value": "Eluned"
+    }
+  },
+  "lastrevid": 17552457,
+  "modified": "2025-09-17T10:37:50Z",
+  "ns": 860,
+  "pageid": 164413,
+  "sitelinks": {},
+  "title": "Item:Q136028",
+  "type": "item"
+}

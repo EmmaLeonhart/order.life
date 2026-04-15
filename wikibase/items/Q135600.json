@@ -1,0 +1,322 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Agathocles"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135600$8491155F-C312-4BD8-A51F-380EFF83DCF8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736561"
+          },
+          "hash": "ba9b52e31188526dc6eefd63f90ba1dad319936d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135600$FC499C7A-1B37-4919-929F-F4EEF762E5C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135746",
+              "numeric-id": 135746
+            }
+          },
+          "hash": "33c621dc497adb2bd89990a7e02e1b9ab9c3399d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135600$BA52240E-0734-4B53-8818-903DAFD37CB3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135747",
+              "numeric-id": 135747
+            }
+          },
+          "hash": "5277e3dce798a992efb30af32fa6c67b01f71161",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135600$0EA405A8-38D4-4F55-8192-3EA006272ABA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135600$6282E204-611B-4826-A9D8-A3F1A2DF1243",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135600$90DECF29-BB83-4C2A-ACE5-715E554311C8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135745",
+              "numeric-id": 135745
+            }
+          },
+          "hash": "041fcee113aea50e8b6d53bc937365a97963b8d6",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135600$3CE0594A-BB63-4C57-B173-E5DC6EC1DFCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135455",
+              "numeric-id": 135455
+            }
+          },
+          "hash": "d433b7b78bcc01fc048294246e982f246e555798",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135600$64C02A50-E3D3-449D-9169-1AA9E6F3658E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135600$CC904856-8F2C-46AE-A133-D188AF6B1EFE",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0201-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "491a281d4a97b007a8f7eda5336cc0a21e0da813",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135600$799F7622-540A-40F5-8448-748295AF6D1D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q611724"
+          },
+          "hash": "a8246a7b59cb57c211dba2e58b485d5586c450cf",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135600$444AF7AB-7258-4B87-913A-E98EF7D29EFC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Agathocles Arms.svg"
+          },
+          "hash": "1a605a26d478fb88fdbf3418f65a3ca1c3ecca6f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "staroegyptský řecký šlechtic"
+    },
+    "el": {
+      "language": "el",
+      "value": "εγγονός του Αγαθοκλή"
+    },
+    "en": {
+      "language": "en",
+      "value": "grandson of Agathocles of Syracuse, ancient Egyptian Greek nobleman"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "petit-fils d'Agathocle de Syracuse"
+    },
+    "he": {
+      "language": "he",
+      "value": "אציל יווני מצרי עתיק"
+    },
+    "it": {
+      "language": "it",
+      "value": "nipote di Agatocle di Siracusa"
+    }
+  },
+  "id": "Q135600",
+  "labels": {
+    "cs": {
+      "language": "cs",
+      "value": "Agathoklés"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αγαθοκλής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Agathocles"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Agathocles"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Agathocles"
+    },
+    "es": {
+      "language": "es",
+      "value": "Agathocles"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Agatokles"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Agathoclès"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἀγαθοκλῆς"
+    },
+    "he": {
+      "language": "he",
+      "value": "אגתוקלס"
+    },
+    "it": {
+      "language": "it",
+      "value": "Agatocle"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Agathocles"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Агафокл"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Агафокл"
+    }
+  },
+  "lastrevid": 17551837,
+  "modified": "2025-09-17T10:28:55Z",
+  "ns": 860,
+  "pageid": 163985,
+  "sitelinks": {},
+  "title": "Item:Q135600",
+  "type": "item"
+}

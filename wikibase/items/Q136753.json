@@ -1,0 +1,375 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus II of Commagene"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136753$8AB53CBE-3FF6-47B7-A347-46C0696A0F02",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139820"
+          },
+          "hash": "1be36edf31df0dbf3f81d8443a3f3d6048d9868d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136753$BF310665-8FA8-4CCE-8CED-4EA3A4D5D895",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136753$40514255-B6B1-4688-BE71-51AB9B95093C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136753$DF6468F8-20F7-476D-AD73-291C389FD650",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus_II_of_Commagene_(1)"
+          },
+          "hash": "ae57de621ad9e2ac49477f0e2464423f32b67ff0",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136753$DF37CD46-C35E-4A44-ABC0-83FFFD0424E8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72538",
+              "numeric-id": 72538
+            }
+          },
+          "hash": "65fe6e91316aca78cfa036a5a0070b5f6f267f9d",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136753$CA0AD1D0-7064-4ACF-B7B7-6B0FBF6C2434",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72541",
+              "numeric-id": 72541
+            }
+          },
+          "hash": "f9e5bce08a3f419d41d0e98411b78b04ab159292",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136753$1FC85195-32C3-4390-A5D9-30DD18D2E26E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136753$D4D82A13-FC70-4227-A1BA-F9E990831868",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0050-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "70800f3f3baa6408c9b5bc577712a17219641005",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136753$F24DF73F-13F8-4546-9132-BB40B48532AF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0029-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4c952fcf5492195a11025dec77a068ec28ec34f5",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136753$5AA00400-986E-4593-B718-4EBC05F5B415",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2457060"
+          },
+          "hash": "555e2a3994ff39eb62d5e06d71f0314c06c4e224",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136753$9C857C90-DB97-40BA-A74F-3E82C7AB26FC",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus II of Commagene Arms.svg"
+          },
+          "hash": "3f7a57f35b03e57db042cf3e28e1b51c422cf770",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu turcu (-50–-29)"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Kommagene"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Commagene"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Commagène"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Commagene"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Turks soeverein (-29v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król Kommageny"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Коммагени"
+    }
+  },
+  "id": "Q136753",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخس التانى من كوماجين"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох II"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc II de Commagena"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος Β΄ της Κομμαγηνής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus II of Commagene"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Antiochus II of Commagene"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Antiochus II of Commagene"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoc II de Commagena"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos II de Commagène"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס השני"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiochus II Epiphanes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco II di Commagene"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオコス2世"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus II of Commagene"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch II Epifanes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco II de Comagena"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco II de Comagena"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох II Коммагенский"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh II od Komagene"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Antiochus II of Commagene"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Antiochus II of Commagene"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Antiochus II of Commagene"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох II"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos II của Commagene"
+    }
+  },
+  "lastrevid": 17553611,
+  "modified": "2025-09-17T10:54:25Z",
+  "ns": 860,
+  "pageid": 165138,
+  "sitelinks": {},
+  "title": "Item:Q136753",
+  "type": "item"
+}

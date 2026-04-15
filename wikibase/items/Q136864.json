@@ -1,0 +1,289 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Ferchar mac Connaid"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136864$5F709BF0-4C16-43C4-8076-DC860ACCCA05",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "150589"
+          },
+          "hash": "8a5e89ac10276c108671c30ea0d525ae31fe40b4",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136864$2F72465B-3A24-4DC8-B6A0-516E1388DFC7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136864$3598DF0C-8735-4D63-90DF-86A77C9ABE84",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136864$DA9F5ABF-0C5A-427A-B41C-558B760E8658",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136536",
+              "numeric-id": 136536
+            }
+          },
+          "hash": "6c34b8f6833cc1602017068962ad04b7ea7b2390",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136864$31DD56A8-B3A2-4954-96BE-6F204AEA9866",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136864$F1BD5ABA-4B2F-41DB-8624-968CA5B31578",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0601-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "38344ff9ddc5933e263b1afa82f7516ceb95355b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136864$637BA2EA-D312-4349-A24D-94CF8C5E06A4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0650-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "565a3af572f534c3e1bf4d41ef7272bfa5c784e8",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136864$33256814-8A89-49D0-84F6-D1145398846E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q878693"
+          },
+          "hash": "d3aba44958eab3f44f2ca99b8c40e864e27d2ee5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136864$08929C87-A170-4093-81ED-B174B7ACC602",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Ferchar mac Connaid Arms.svg"
+          },
+          "hash": "d1296cdbbae47c8a36b5659f2c45f3212178d729",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei de Dál Riata"
+    },
+    "de": {
+      "language": "de",
+      "value": "König des iro-schottischen Reiches Dalriada"
+    },
+    "en": {
+      "language": "en",
+      "value": "King of Dál Riata"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "rí Dhál Riada"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך סקוטי גאלי, במאה השביעית אחרי הספירה."
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano"
+    }
+  },
+  "id": "Q136864",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Ferchar mac Connaid"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ferchar I."
+    },
+    "en": {
+      "language": "en",
+      "value": "Ferchar mac Connaid"
+    },
+    "es": {
+      "language": "es",
+      "value": "Ferchar mac Connaid"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ferchar mac Connaid"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Fearchar mac Connaidh"
+    },
+    "he": {
+      "language": "he",
+      "value": "פרכאר מק קונייד"
+    },
+    "it": {
+      "language": "it",
+      "value": "Ferchar mac Connaid"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Ferchar I av Dalriada"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ferchar mac Connaid"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ferchar mac Connaid"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Ферхар I"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Ferchar mac Connaid"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Ferchar mac Connaid"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Ферхар I мак Коннайд"
+    }
+  },
+  "lastrevid": 17553791,
+  "modified": "2025-09-17T10:56:58Z",
+  "ns": 860,
+  "pageid": 165249,
+  "sitelinks": {},
+  "title": "Item:Q136864",
+  "type": "item"
+}

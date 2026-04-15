@@ -1,0 +1,866 @@
+{
+  "aliases": {
+    "el": [
+      {
+        "language": "el",
+        "value": "Ἀντίοχος"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus"
+      },
+      {
+        "language": "en",
+        "value": "Ἀντίοχος"
+      },
+      {
+        "language": "en",
+        "value": "Antiochus II Theos"
+      },
+      {
+        "language": "en",
+        "value": "Antiochus II, ruler of the Seleucid Empire"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q73632$159D749C-753D-4124-B126-B9C203071DE1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "139879"
+          },
+          "hash": "4e93f492adfafc41f963daab6a99dc12110207ad",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q73632$018BCDA5-BA60-4F60-B3A7-46AE10BBC2B1",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736276"
+          },
+          "hash": "92d0bdeffea22c1eba1355dd873dc35faa298d10",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q73632$7B0E924F-250A-4D90-829A-EADBE6B0A4CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73500",
+              "numeric-id": 73500
+            }
+          },
+          "hash": "2e3b358655847527c703c9869ba25f6caf005302",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$1C74B408-CB73-4065-A58C-C121190FA6B8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73506",
+              "numeric-id": 73506
+            }
+          },
+          "hash": "92b96a29c39b62d6586504b6c2155f3a64f94654",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$4DCB94FB-38C3-4C72-A89A-097D479DE500",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78695",
+              "numeric-id": 78695
+            }
+          },
+          "hash": "9eedbc35078bd7950a2f5c8b490f7ff37bf56b84",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$D8098985-E79A-495A-BB36-EA6F7CB16A3A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135462",
+              "numeric-id": 135462
+            }
+          },
+          "hash": "73be6953b13d71fde89fbe19efb0355b12d0adb9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$D4ACFBD0-55EE-415B-A88B-937EFB0B1DB4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135606",
+              "numeric-id": 135606
+            }
+          },
+          "hash": "e16a42039ed0a3be15360d9ffb7360994498ff4d",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$FB77C919-8606-4EAD-ADE9-2C28DFF6F465",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135604",
+              "numeric-id": 135604
+            }
+          },
+          "hash": "870657fca9b8057ade2492f3f0b0ec3663a079f9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$1A949091-1DD1-424D-97B0-DE3E9587A10A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135607",
+              "numeric-id": 135607
+            }
+          },
+          "hash": "fac260121d46bec132b78367d12b0492c265bd3b",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$7B02174E-3E89-48A4-A0F0-E3106BDB9640",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165130",
+              "numeric-id": 165130
+            }
+          },
+          "hash": "405e1747684a49e1e62339ab11971570e6634056",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$104E81CA-39CA-443D-ABB8-0005477A8B3D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165103",
+              "numeric-id": 165103
+            }
+          },
+          "hash": "f00b8c36cc6b0dfc26fee4471983a8640ed2d50f",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$028A3073-E00C-4227-BC97-2937F7528FD7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165156",
+              "numeric-id": 165156
+            }
+          },
+          "hash": "967873027c6f5f1f2077336ba50f6be9e7e923e9",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q73632$7399A238-FD20-4B74-B3A1-2801FA81D78C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$BAE1AAE1-8259-4DF5-80A2-44F02DCDEAF3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q73632$8BEA9D8A-136C-4D5C-9F45-25BBB6C40C3E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus_II_Theos_(1)"
+          },
+          "hash": "55c55ec896126b8ad641c870acbb1f3e517ee427",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q73632$98CED152-CA0D-42A1-85A9-3DF8539DF58A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73629",
+              "numeric-id": 73629
+            }
+          },
+          "hash": "d6d999de36880c8bd195e435d56cd8e71291b254",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$FB2C17F6-A141-4772-83BC-2AF00135AD2A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135337",
+              "numeric-id": 135337
+            }
+          },
+          "hash": "25e015321e63d6cc975673a8e46a23ac2a0080b1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q73632$91346808-7C8F-46E4-A3A5-81AA6CF991EE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q165155",
+              "numeric-id": 165155
+            }
+          },
+          "hash": "b8b42173bece76aee5a660cac4b3d97c1a8a97fc",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q73632$5D004A35-DDFE-4D14-8300-23977CAD9E3F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73737",
+              "numeric-id": 73737
+            }
+          },
+          "hash": "2ecb9ed9c44b8564357123546683fde26fd1d072",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q73632$DB2C8C77-1BD6-4EE1-8CAE-166D9C578DCE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73740",
+              "numeric-id": 73740
+            }
+          },
+          "hash": "9ca03cb5f3bb3a0fa8b5bcea88e4561a6f649a73",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q73632$5C6287AF-9F80-45BF-8F93-7D231DD7C301",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q73632$17A93113-28F0-4696-B5CD-9D9A19297914",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0286-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "30a9976a27fe85d753b2ceb62c3cb98701bb33c0",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q73632$CC002B3D-6C50-447C-B88C-2D3C8B62E60C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0246-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5355fdb63d5c718d406b68ecd8261481cc2b09c0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q73632$7AF7D3ED-AF59-447B-B3E7-2D1D5292AEEB",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q222930"
+          },
+          "hash": "ac2d4fe9c8c8ad2493eabde71077790089eb0b80",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q73632$4608140D-087D-4345-BA10-A6F74359F25E",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006009035001"
+          },
+          "hash": "8da9c2d5cc5df5828c9c9d1d03c1c44351d811ab",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q73632$408E6B35-B638-4883-965E-7B7E4118D4EF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52175"
+          },
+          "hash": "5aa9c2a3f67a6bed394d23db3e30fbfa94ba9e8a",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q73632$6D6F7AC2-F131-448C-AB09-F328F3205E13",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus II Theos Arms.svg"
+          },
+          "hash": "ec4582a42f56f4c25e41b75a08652cb9dd7f571f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei selèucida"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "seleukovský panovník"
+    },
+    "de": {
+      "language": "de",
+      "value": "König des Seleukidenreiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Seleucid Empire from 261 BC to 246 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de la dinastía Seléucida"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך האימפריה הסלאוקית"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 261-246 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス朝の君主"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soevereine uit Syrië (286v Chr-246v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "król z dynastii Seleucydów"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царь Государства Селевкидов в 261 — 246 до н. э."
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj salevkidske države približno v letih 261–246 pr"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "краљ хеленистичког Селеукидског царства"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Seleukos kralı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "правитель держави Селевкідів"
+    }
+  },
+  "id": "Q73632",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس الثاني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخوس التانى"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "ایکینجی آنتیوخوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыёх II Тэас"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох II Теос"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc II Teos"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antiochos II. Theós"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antiochos 2. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος Β΄ Θεός"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus II Theos"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco II Theos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antioko II.a Theos"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس دوم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiokhos II Theos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos II"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Αντίοχος Β' Θεός"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס השני"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "II. Antiokhosz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiokhos II Theos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco II"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオコス2世テオス"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ანტიოქე II თეოსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안티오코스 2세"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Antîoxos II Theos"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antiochus II Theos"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Antiochas II Tėjas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Antiohs II Teos"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Antiokosy II Teosy"
+    },
+    "ml": {
+      "language": "ml",
+      "value": "അന്ത്യോക്കസ് II തിയോസ്"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antiokos II Theos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus II"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Antiokos II Theos"
+    },
+    "oc": {
+      "language": "oc",
+      "value": "Antiòc II Theòs"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch II Theos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco II Teos"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco II Teos"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох II Теос"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh II Teos"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Antioh II. Teos"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антиох II Тео"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Антиох II Тео"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Antioh II Teo"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antiochos II"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Антиохи II Теос"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Antiochus II Theos"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "II. Antiohos Theos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох II Теос"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "اینتی اوکس دؤم"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos II Theos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安条克二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安条克二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安条克二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安條克二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安條克二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安条克二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安條克二世"
+    }
+  },
+  "lastrevid": 17486428,
+  "modified": "2025-09-16T18:48:49Z",
+  "ns": 860,
+  "pageid": 88463,
+  "sitelinks": {
+    "evolutionismwiki": {
+      "badges": [],
+      "site": "evolutionismwiki",
+      "title": "Notes:Q73632",
+      "url": "https://evolutionism.miraheze.org/wiki/Notes:Q73632"
+    }
+  },
+  "title": "Item:Q73632",
+  "type": "item"
+}

@@ -1,0 +1,435 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antigone"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135333$222017C5-A78B-45C1-9A42-48A8DD51B8AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736302"
+          },
+          "hash": "83eaa3a6507d35407088a879f3c83b138094065d",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135333$AC1B74D7-7A0E-4010-9C05-38B11E184B1A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135451",
+              "numeric-id": 135451
+            }
+          },
+          "hash": "fbe3a7c00a35a0218bb36cce8a09cb10e47d6f41",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135333$C3CE0000-9A28-454E-8EA5-948B2579B735",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135452",
+              "numeric-id": 135452
+            }
+          },
+          "hash": "5ed44e015ea7e98cfa093be15631975d173219f8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135333$3AA1CBEB-0F43-443C-A6E3-20E5D561BC70",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135333$31E4BADC-6DBC-4A98-BFA4-4D3137D4A8EA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135333$718CF6C7-B298-4C49-B3E4-A701AF128572",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135450",
+              "numeric-id": 135450
+            }
+          },
+          "hash": "b8cbd66be724adf0225e6ab8d8bb8dad2fdbf2ed",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135333$509667B4-8639-4BD6-A571-6C34E3A90645",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q30453",
+              "numeric-id": 30453
+            }
+          },
+          "hash": "4b6215d7e59b3876fc0e42fee2ba26f4a9ec5214",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135333$6D552996-83E4-4F78-B636-2DA54931BE07",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q73728",
+              "numeric-id": 73728
+            }
+          },
+          "hash": "e2c2e7e9ccca965888611c17871d07ab7e95aade",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135333$2C1FBD0F-F136-4F12-A360-17E2B7E1F0DA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135333$2288B867-7753-45CF-9AD6-2446A35A59E7",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0350-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "468bbea6c3203e4378187e56a29fb6d5bdfeb651",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135333$F7ED55A9-CD70-4BD5-A84C-6D6F13BAF368",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0295-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "ed5b84acba21dd518e61dc8b35b314f45dd7c797",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135333$7EC9D97E-8431-45DB-AE91-B4105857348D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q269946"
+          },
+          "hash": "c2449e2fa4150e46ec6ecf8a69c8bbbbe19a74d6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135333$B3588F15-7F40-4478-9F3D-76949D011662",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antigone Arms.svg"
+          },
+          "hash": "784aa94170d3ccc03a402480a25ab9b79123be34",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "manželka Pyrrha Epirského"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tochter der Berenike I., Ehefrau des Pyrrhus"
+    },
+    "en": {
+      "language": "en",
+      "value": "wife of Pyrrhus I, king of Epire"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "épouse de Pyrrhus Ier, roi d'Épire"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "épeiroszi királyné"
+    },
+    "it": {
+      "language": "it",
+      "value": "moglie di Pirro"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "królowa Epiru"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "царица Эпира"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цариця Епіру"
+    }
+  },
+  "id": "Q135333",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Антыгона"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антигона"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antígona"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antigona"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antigone von Epirus"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντιγόνη της Ηπείρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antigone"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antígona de Epiro"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antigone"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Antagana"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיגונה מאפירוס"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Antigoné"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antigone d'Epiro"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antigone av Epirus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antigone"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antygona"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antigona do Épiro"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antigona do Épiro"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антигона Эпирская"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antigone av Epirus"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антігона"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "伊庇魯斯的安提戈涅"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "伊庇鲁斯的安提戈涅"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "伊庇鲁斯的安提戈涅"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "伊庇魯斯的安提戈涅"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "伊庇魯斯的安提戈涅"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "伊庇鲁斯的安提戈涅"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "伊庇魯斯的安提戈涅"
+    }
+  },
+  "lastrevid": 17551378,
+  "modified": "2025-09-17T10:22:18Z",
+  "ns": 860,
+  "pageid": 163718,
+  "sitelinks": {},
+  "title": "Item:Q135333",
+  "type": "item"
+}

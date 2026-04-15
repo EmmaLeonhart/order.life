@@ -1,0 +1,573 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Caesarion"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q136747$EB7E66C1-2446-4501-9641-866E71F8E7D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136747$2E9F970C-77E3-46A4-958F-72E65C371950",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136747$E9C05F09-CD6A-48CD-A8DF-A6BD2BCC4764",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q137158",
+              "numeric-id": 137158
+            }
+          },
+          "hash": "6c35e02a4d47c4fa18c8b8c0680578582506247a",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136747$B9D651F0-78C9-4505-A395-46F467E2AC03",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q70410",
+              "numeric-id": 70410
+            }
+          },
+          "hash": "ab9abd1467a28c220a22345390e0d8a1928ce8a1",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136747$79A8F61D-DA93-474D-A40B-A8D58F73043C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136747$5F1FB351-D992-4A3B-8C0E-B0E2A2330F40",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0047-06-23T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9683d7dc556ef9d692b70c16afa7e72438508253",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136747$4BA3E4D4-3881-4A71-8919-D0FCAB8A2A1B",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0030-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "09b7ea067b4122e2b4610f8d39dc86e2c1072792",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136747$705B32D9-CB5A-41F4-B56C-954299B0B804",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q39589"
+          },
+          "hash": "2780db13a96b9268b8d3fc67ed312afe7852bdb3",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136747$A9B18B60-0CD8-43D2-BE77-FFCDCE592D68",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Bass Cannon Arms.svg"
+          },
+          "hash": "d027a4e0138a2e3f14d98e48511ecc6cb6f691af",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ابن الملكة كليوبترا السابعة ملكة مصر والإمبراطور الروماني يوليوس قيصر"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "эгіпецкі фараон, сын Клеапатры і Юліюса Цэзара"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "фараон"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Egyptský král"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Pharo olaf yr Aifft Ptolemaidd o 44 i 30 CC"
+    },
+    "de": {
+      "language": "de",
+      "value": "König 44–30 v. Chr. von Ägypten"
+    },
+    "el": {
+      "language": "el",
+      "value": "Βασιλιάς της Αιγύπτου"
+    },
+    "en": {
+      "language": "en",
+      "value": "last pharaoh of Ptolemaic Egypt from 44 to 30 BC"
+    },
+    "es": {
+      "language": "es",
+      "value": "faraón e hijo de Julio César y Cleopatra"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Egyptin viimeinen faarao"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi d'Égypte"
+    },
+    "he": {
+      "language": "he",
+      "value": "בנם של קלאופטרה ויוליוס קיסר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "egyiptomi ptolemaida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "firaun terakhir Mesir Ptolemaik dari 44 hingga 30 SM"
+    },
+    "it": {
+      "language": "it",
+      "value": "ultimo faraone dell'Egitto tolemaico, figlio di Cleopatra e Giulio Cesare"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Zoon van Julius Caesar en Cleopatra"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "syn Juliusza Cezara i Kleopatry"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "último faraó da dinastia ptolemaica do Antigo Egito"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "último faraó da dinastia ptolemaica do Egito Antigo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "сын Клеопатры и Юлия Цезаря"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "son till Kleopatra och Julius Caesar"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Jül Sezar ve Kleopatra'nın oğlu olan Ptolemaios Kralı"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "古埃及君主"
+    }
+  },
+  "id": "Q136747",
+  "labels": {
+    "af": {
+      "language": "af",
+      "value": "Ptolemeus XV Caesarion"
+    },
+    "ar": {
+      "language": "ar",
+      "value": "بطليموس الخامس عشر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "بطليموس الخمستاشر"
+    },
+    "az": {
+      "language": "az",
+      "value": "XV Ptolemey"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "سزاریون"
+    },
+    "ban": {
+      "language": "ban",
+      "value": "Sésarion"
+    },
+    "be": {
+      "language": "be",
+      "value": "Пталамей XV Цэзарыён"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "Пталямэй XV Цэзарыён"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Цезарион"
+    },
+    "bs": {
+      "language": "bs",
+      "value": "Cezarion"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Cesarió"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Ptolemaios XV. Kaisarion"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Caesarion"
+    },
+    "da": {
+      "language": "da",
+      "value": "Cæsarion"
+    },
+    "de": {
+      "language": "de",
+      "value": "Ptolemaios XV."
+    },
+    "de-ch": {
+      "language": "de-ch",
+      "value": "Ptolemaios XV."
+    },
+    "el": {
+      "language": "el",
+      "value": "Πτολεμαίος ΙΕ΄ Καισαρίων"
+    },
+    "en": {
+      "language": "en",
+      "value": "Caesarion"
+    },
+    "en-ca": {
+      "language": "en-ca",
+      "value": "Caesarion"
+    },
+    "en-gb": {
+      "language": "en-gb",
+      "value": "Caesarion"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Cezariono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Cesarión"
+    },
+    "et": {
+      "language": "et",
+      "value": "Caesarion"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Zesarion"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "سزاریون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Ptolemaios XV"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Ptolémée XV"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Caesarion"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Πτολεμαῖος Καῖσαρ"
+    },
+    "he": {
+      "language": "he",
+      "value": "קיסריון"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Cezarion"
+    },
+    "ht": {
+      "language": "ht",
+      "value": "Ptolémée XV"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "XV. Ptolemaiosz"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Կեսարիոն"
+    },
+    "hyw": {
+      "language": "hyw",
+      "value": "Կեսարիոն"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kaisarion"
+    },
+    "is": {
+      "language": "is",
+      "value": "Caesarion"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tolomeo XV"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "プトレマイオス15世"
+    },
+    "jv": {
+      "language": "jv",
+      "value": "Caesarion"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "პტოლემე XV"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "카이사리온"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Ptolemėjas XV Cezarionas"
+    },
+    "lv": {
+      "language": "lv",
+      "value": "Cezarions"
+    },
+    "mg": {
+      "language": "mg",
+      "value": "Ptolemaiosy XV"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Птоломеј XV Цезарион"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Kaisarion"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Cæsarion"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Ptolemaeus XV Caesarion"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Cæsarion"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Ptolemeusz XV Cezarion"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Ptolemeu XV"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Ptolemeu XV"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Ptolemeu al XV-lea"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Птолемей XV Цезарион"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Cezarion"
+    },
+    "si": {
+      "language": "si",
+      "value": "සිසේරියන්"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Цезарион"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Caesarion"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "சிசேரியன்"
+    },
+    "th": {
+      "language": "th",
+      "value": "ปโตเลมีที่ 15 ซีซาเรียน"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Tolomeo XV Caesarion"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Caesarion"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Птолемей XV Цезаріон"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "سیزاریئن"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Caesarion"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Caesarion"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "恺撒里昂"
+    }
+  },
+  "lastrevid": 17614070,
+  "modified": "2025-09-20T22:40:33Z",
+  "ns": 860,
+  "pageid": 165132,
+  "sitelinks": {},
+  "title": "Item:Q136747",
+  "type": "item"
+}

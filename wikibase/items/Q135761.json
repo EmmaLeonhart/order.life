@@ -1,0 +1,361 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Clearchus of Heraclea"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135761$0C3095FE-D2CB-491F-BED3-A929D922CD00",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "667032"
+          },
+          "hash": "e71b053b183c5440318dc21874c4b68f01b79d4e",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135761$5C9E9B8D-2869-4AA2-B523-5B1566B8607F",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736594"
+          },
+          "hash": "cb786f20b7e74dc04d57adef89e388ecea7e3b45",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135761$66D183CB-DBB3-42F5-A4FB-667FE6283189",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135939",
+              "numeric-id": 135939
+            }
+          },
+          "hash": "f7a87ab43dfe7ab51a2bcb7efd79d76f628ca8d2",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135761$58A4868B-C0A5-4403-95F9-74F6B791C8CB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135610",
+              "numeric-id": 135610
+            }
+          },
+          "hash": "dc0311b0dbf560b590d934186d581f4b17df24bb",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135761$302228CD-245C-4F14-8C21-2D6F213D0E9D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135761$FCC171C9-9B57-474D-BC40-2B1393562CDF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135761$02D77453-CA26-4516-89C0-8A548305AC45",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135761$8A53AC84-66AC-4A5F-A76A-5B590656A8DC",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0400-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "5431532b87e112ab1d6b7724ff8ee19ef9e4a0a2",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135761$8443A4D0-6815-4038-B3B1-03FD5C680C1E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0352-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4b810abd268be68ab53a0ba090b57ad421c2b90f",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135761$65B16466-1189-44CC-87DC-54D737786601",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q984187"
+          },
+          "hash": "ba496d6635a33512588aaf0b9c7752446e06235e",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135761$9C986CE0-6EB1-4AAE-ADEC-B944F32BFEED",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Clearchus of Heraclea Arms.svg"
+          },
+          "hash": "24dc21b200ad159818bf1825e94e0bc634acd454",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "řecký vládce, tyrannos"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tyrann von Herakleia Pontike"
+    },
+    "dv": {
+      "language": "dv",
+      "value": "ލިޔުންތެރިއެއް"
+    },
+    "en": {
+      "language": "en",
+      "value": "Greek ruler of Heraclea (c. 401–353 BC)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "tyran d'Héraclée du Pont"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano greco antico"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "schrijver (????--351)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "tyran Heraklei Pontyjskiej"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "древнегреческий философ и тиран Гераклеи Понтийской в 363—352 годах до н. э."
+    }
+  },
+  "id": "Q135761",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Clearc d'Heraclea"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Klearchos I. Héraklejský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Klearchos von Herakleia I."
+    },
+    "en": {
+      "language": "en",
+      "value": "Clearchus of Heraclea"
+    },
+    "es": {
+      "language": "es",
+      "value": "Clearco de Heraclea"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کلیارخوس"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Cléarque d'Héraclée"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κλέαρχος"
+    },
+    "he": {
+      "language": "he",
+      "value": "קליארכוס מהראקליאה"
+    },
+    "id": {
+      "language": "id",
+      "value": "Klearkhos dari Heraklea"
+    },
+    "it": {
+      "language": "it",
+      "value": "Clearco I di Eraclea"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヘラクレアのクレアルコス"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Clearchus of Heraclea"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Klearchos I z Heraklei"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Clearco I de Heracleia Pôntica"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Clearco I de Heracleia Pôntica"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Клеарх"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Klearh od Herakleje"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Clearchus of Heraclea"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Клеарх од Хераклеје"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Клеарх"
+    }
+  },
+  "lastrevid": 17552085,
+  "modified": "2025-09-17T10:32:26Z",
+  "ns": 860,
+  "pageid": 164146,
+  "sitelinks": {},
+  "title": "Item:Q135761",
+  "type": "item"
+}

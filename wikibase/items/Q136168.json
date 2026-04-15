@@ -1,0 +1,469 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip I Philadelphus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136168$AB765B16-3C0B-42E7-BD0A-45469E136003",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00786171"
+          },
+          "hash": "c538a2bce715c83a1506111e1b83c82d958956f4",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136168$644A98D2-FE09-4029-938C-AB14FC24EA0E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136437",
+              "numeric-id": 136437
+            }
+          },
+          "hash": "83462797d652221136c1e84a6a45bec43c073ea0",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136168$92401F12-4845-4A29-8A98-1797CB22DA65",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136168$20A2364B-9E95-49D7-9F7C-42C939BC07F4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136168$38F626E6-06F8-4B25-A3B5-0D120CD47298",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip_I_Philadelphus_(1)"
+          },
+          "hash": "242232f0ff8351f39942fae8c6ff340ac34b8d22",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136168$59D75DF9-8FC0-41A0-94E1-7E1F4FA0E3DB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72891",
+              "numeric-id": 72891
+            }
+          },
+          "hash": "2ce83282597ea468f28168c1ce0cdc9a47c73849",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136168$18ED2EF0-A722-4EAA-9996-D807102F6366",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72888",
+              "numeric-id": 72888
+            }
+          },
+          "hash": "bc549374205056cd1ece94204cc913fa6cf564bf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136168$5C584D89-F1D9-43E3-8E1F-057D3F42A2B9",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136168$8A9576DC-C35C-4D8E-8D9D-A251D867F2F0",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0125-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0c1130bcd1d818777b22c3903202d075604a7b6a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136168$83A47CF3-2B56-4F94-949F-317E87717775",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0083-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "c8ca7e0d9295b2aba6cff7e375af43e40284ad23",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136168$245E1DC2-4F46-4D4F-801C-404C74F9B8CE",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q263489"
+          },
+          "hash": "c6e78970b07a1081590674b9e0025c8bfa144d1a",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q136168$6C21EAE6-DCC5-4604-9F56-F57D8F7F2782",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:52189"
+          },
+          "hash": "ead5cb359bbfbccfedb8d5348cd12bebea6f599e",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136168$7754EE76-1F61-4EFC-A76E-5DF04B8EF918",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip I Philadelphus Arms.svg"
+          },
+          "hash": "5b9e6879f06ec880d32589d143b03be53ed3fb64",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei selèucida"
+    },
+    "de": {
+      "language": "de",
+      "value": "König des Seleukidenreiches"
+    },
+    "en": {
+      "language": "en",
+      "value": "Seleucid ruler"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Siria (95 a. C.-83 a. C.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "he": {
+      "language": "he",
+      "value": "מלך הלניסטי של הממלכה הסלאוקית על סוריה"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Penguasa Seleukia"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 94-83 a.C.)"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "セレウコス朝シリアの王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Seleucidische rijk (125v Chr-83v Chr)"
+    }
+  },
+  "id": "Q136168",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فيليب الأول"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فيليب الاول"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "بیرینجی فیلیپ سلوکی"
+    },
+    "be": {
+      "language": "be",
+      "value": "Філіп I Філадэльф"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Филип I Филаделф"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Filip I Filadelf"
+    },
+    "da": {
+      "language": "da",
+      "value": "Filip 1. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philipp I. Philadelphos"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιππος Α΄ Φιλάδελφος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philip I Philadelphus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Filipo la 1-a Filadelfo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Filipo I Filadelfo"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Filipo I.a Filadelfo"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فیلیپ یکم سلوکی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Filippos I Filadelfos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippe Ier Philadelphe"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Φίλιππος Α' Φιλάδελφος"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיליפוס הראשון"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "I. Philipposz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Filipos I Filadelfus"
+    },
+    "it": {
+      "language": "it",
+      "value": "Filippo I Filadelfo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "フィリッポス1世フィラデルフォス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "필리포스 1세 필라델포스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Philippus I Philadelphus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Filip I Filadelfus"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Philippus I Philadelphus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Filip I Filadelfos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Filipe I Filadelfo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Filipe I Filadelfo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филипп I Филадельф"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Filip I Filadelf"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Филип I Филаделф"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Philip I Philadelphos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Філіпп I Філадельф"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Philippos I Philadelphos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "腓力一世"
+    }
+  },
+  "lastrevid": 17552677,
+  "modified": "2025-09-17T10:40:56Z",
+  "ns": 860,
+  "pageid": 164553,
+  "sitelinks": {},
+  "title": "Item:Q136168",
+  "type": "item"
+}

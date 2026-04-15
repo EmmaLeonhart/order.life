@@ -1,0 +1,505 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Mahalalel"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q132727$E0FA884D-5F30-4685-A1B3-8778A5DD2DD6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "32379|335685"
+          },
+          "hash": "96a069809249ef18f312d92bf38e1e89ccaf6351",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q132727$E22BCB87-D9CC-47D9-9017-2809D7F5E4FA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q131418",
+              "numeric-id": 131418
+            }
+          },
+          "hash": "38f1ae722b302950bca695956d68bad93c70a061",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q132727$0E31BA2B-57CB-473B-81CB-23AFC633EBA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q132727$DEC21185-2243-4F3A-B7D5-3C96A4A6D6F5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q132727$392B43C1-A007-4D85-92D5-529B046A685E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134842",
+              "numeric-id": 134842
+            }
+          },
+          "hash": "31993f16750d68f413e9721569f4d5a79893d040",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q132727$6C04FA18-78A2-4503-9DBE-FB62F1A97313",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134022",
+              "numeric-id": 134022
+            }
+          },
+          "hash": "ab179fb34622789529cf5d934424ac0fc0424262",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q132727$8B4AC85E-69E1-4B1F-90DB-8769F20C1626",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q134023",
+              "numeric-id": 134023
+            }
+          },
+          "hash": "b9399e35fd438109344b554b580f0403a9254c6d",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q132727$A6896236-7A96-4CAD-A332-828DBA563B0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q132727$B4BD2F0A-EC9E-467B-A384-3BCD114F9FD8",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+3609-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "9c087820148454115fe656bead557e4cfa2798e6",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q132727$977BFAEE-52C2-4FCC-95B1-BAC8FFCD5FCF",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+2714-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "6b389dd5216cb60d0d172232782fe4fe83e603a0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q132727$DC80D64E-016B-4957-ADC5-4C3C03F351AF",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q10297002"
+          },
+          "hash": "1e4b934f4d7bca235f74b471d96699e932936878",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P62": [
+      {
+        "id": "Q132727$D74CA0FB-15DD-46CF-B148-E0518A902423",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "6000000006376131062"
+          },
+          "hash": "3e79b5be8e2890c14fc60de907fcdd83f89c53b9",
+          "property": "P62",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q132727$9C8F5B72-5DD1-427B-BF35-9C2D4E8139BF",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Mahalalel Arms.svg"
+          },
+          "hash": "6953d7c2331c595a25d4551163611a8e223c024f",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ابن قينان وحفيد أنوش بن شيث، عاش 895 سنة."
+    },
+    "az": {
+      "language": "az",
+      "value": "Kənanın oğlu, Enosun nəvəsi, Şitin böyük nəvəsi, Adəm və Həvvanın böyük nəvəsi"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "biblická postava"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "(3609-2714)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Biblische Figur"
+    },
+    "en": {
+      "language": "en",
+      "value": "Son of Kenan, Grandson of Enos, Great Grandson of Seth, Great Great Grandson of Adam and Eve"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hijo de Cainan y descendiente de Adán y Eva"
+    },
+    "he": {
+      "language": "he",
+      "value": "דמות מקראית"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Biblijski lik"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Anak ni Kenan, Apo ni Enos, Dakilang Apo ni Seth, Dakilang Apo ni Adan at Eva"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan li sewi"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Kitab-ı Mukaddes'te adı geçen kişi (Luka 3:37)"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "حنوک ابن یارد کا دادا، کتاب پیدائش اور لوقا کی انجیل میں مذکور پیٹرآک(مقدس بزرگ)"
+    }
+  },
+  "id": "Q132727",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مهلائيل"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "مهلائيل"
+    },
+    "az": {
+      "language": "az",
+      "value": "Mahalalel"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "মহললেল"
+    },
+    "bo": {
+      "language": "bo",
+      "value": "མཱ་ཧ་ལཱ་ཨེལ།"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Mahalalel"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Mahalalel"
+    },
+    "da": {
+      "language": "da",
+      "value": "Mahalal'el"
+    },
+    "de": {
+      "language": "de",
+      "value": "Mahalalel"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μαλελεήλ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Mahalalel"
+    },
+    "es": {
+      "language": "es",
+      "value": "Malael"
+    },
+    "et": {
+      "language": "et",
+      "value": "Mahalalel"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "مهللئیل"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Mahalalel"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mahalalel"
+    },
+    "he": {
+      "language": "he",
+      "value": "מהללאל"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Mahalalel"
+    },
+    "id": {
+      "language": "id",
+      "value": "Mahalaleel"
+    },
+    "it": {
+      "language": "it",
+      "value": "Maalaleel"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マハラレル"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "마할랄렐"
+    },
+    "la": {
+      "language": "la",
+      "value": "Malaleel"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Малелеил"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Mahalalel"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Mahalalel"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Mahalaleel"
+    },
+    "pnb": {
+      "language": "pnb",
+      "value": "مہلل ایل"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Malalel"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Mahalaleel"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Малелеил"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Малелеил (син Кенанов)"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Mahalalel"
+    },
+    "tl": {
+      "language": "tl",
+      "value": "Mahalaleel"
+    },
+    "tok": {
+      "language": "tok",
+      "value": "jan Malalali"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Mahalalel"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Магалалієл"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "مہلل ایل"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Maleleil"
+    },
+    "yi": {
+      "language": "yi",
+      "value": "מהללאל"
+    },
+    "zea": {
+      "language": "zea",
+      "value": "Mahalalel"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "玛勒列"
+    }
+  },
+  "lastrevid": 17546401,
+  "modified": "2025-09-17T09:11:41Z",
+  "ns": 860,
+  "pageid": 161112,
+  "sitelinks": {},
+  "title": "Item:Q132727",
+  "type": "item"
+}

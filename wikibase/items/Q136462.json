@@ -1,0 +1,455 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Candaules"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q136462$CFC14A2B-BA58-4B9D-905F-DDB5890B172B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "410258"
+          },
+          "hash": "fe2333e04ba5d6cf623cf4a75f5972eab241da6d",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q136462$C4750BED-AD00-4545-9BF1-D1D50F488046",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00738477"
+          },
+          "hash": "60b5b90732a87a8923d566e0702a51b65818cba0",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136462$333D8191-C6E2-4BE9-94C9-A48491F9B8B4",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136462$0FFECA48-FDB3-49CB-B306-0EE7E2281ADD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136462$FC5AD5C2-800A-4AEA-9A0E-06BAFCB3C80D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74593",
+              "numeric-id": 74593
+            }
+          },
+          "hash": "80b7d0f02805ab08bae54651a45d72e32d310b5e",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136462$44207F45-DD30-4233-A47F-0C96E760178E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136766",
+              "numeric-id": 136766
+            }
+          },
+          "hash": "5d2e08b7e754a772070b713d26da6af3389ff3d1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136462$B8CFC57A-42A0-4B9A-B7FA-E2734D544501",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136462$A37A16BC-DED2-4A6D-B59D-D445B9D315D4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0800-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3d240ab2ead5742a62e159c6c19ff3d25f3c4d8d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136462$C811DCAC-E412-43A2-87F8-6F3872C0A3A6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0760-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "aeeede2f3be30591e540c824fe66881c5731de93",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136462$9985CBCD-50A7-4BBE-BB31-192EECC0A686",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q434217"
+          },
+          "hash": "1c91d8262a9cf10b113e7a49c3f404ab9e4906d6",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136462$7AAB3FA9-90AB-47B9-8584-F5E444D9D321",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Candaules Arms.svg"
+          },
+          "hash": "87c5c9f45fda69d4643887f1515312266412b16a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "af": {
+      "language": "af",
+      "value": "politikus"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "রাজনীতিবিদ"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "brenin Lydia"
+    },
+    "de": {
+      "language": "de",
+      "value": "König von Lydien; letzter König der Herakleiden-Dynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Lydia"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Lidia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Lyydian kuningas ja viimeinen herakleidihallitsija"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Lydie"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "քաղաքական գործիչ"
+    },
+    "id": {
+      "language": "id",
+      "value": "politikus"
+    },
+    "it": {
+      "language": "it",
+      "value": "re di Lidia"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Keyê Lîdyayê"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "политичар"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "político"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "лидийский царь"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "kralj Lidije; zadnji kralj dinastije Herakleidov"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "politikan"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "呂底亞國王"
+    }
+  },
+  "id": "Q136462",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Кандавъл"
+    },
+    "br": {
+      "language": "br",
+      "value": "Kandaules"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Candaules"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Candaules"
+    },
+    "de": {
+      "language": "de",
+      "value": "Sadyattes I."
+    },
+    "el": {
+      "language": "el",
+      "value": "Κανδαύλης"
+    },
+    "en": {
+      "language": "en",
+      "value": "Candaules"
+    },
+    "es": {
+      "language": "es",
+      "value": "Candaules"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Kandaules"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "کاندولا (شاه لیدیه)"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Kandaules"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Candaule"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Κανδαύλης"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Candaules"
+    },
+    "id": {
+      "language": "id",
+      "value": "Kandaules"
+    },
+    "io": {
+      "language": "io",
+      "value": "Kandaules"
+    },
+    "it": {
+      "language": "it",
+      "value": "Candaule"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "カンダウレス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "칸다울레스"
+    },
+    "ku": {
+      "language": "ku",
+      "value": "Kandaulês"
+    },
+    "la": {
+      "language": "la",
+      "value": "Candaules"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Kandaules"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Candaules"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Kandaules"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Candaules"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Candaules"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Кандавл"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Kandaul"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Kandaules"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Kandavel"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Kandaules"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Candaules"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Садіатт I"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "坎道列斯"
+    }
+  },
+  "lastrevid": 17553145,
+  "modified": "2025-09-17T10:47:45Z",
+  "ns": 860,
+  "pageid": 164847,
+  "sitelinks": {},
+  "title": "Item:Q136462",
+  "type": "item"
+}

@@ -1,0 +1,307 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Æthelburg of Wessex"
+      }
+    ]
+  },
+  "claims": {
+    "P2949": [
+      {
+        "id": "Q136470$BD9DADF6-0C53-488C-A923-AED29FCBF9F3",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Wessex-343"
+          },
+          "hash": "3ed3c79ea641d656b31d19a6764b9d67ccec30f6",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136470$EBAF4C3C-A3A5-4553-8A24-686360BB0F54",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136470$712D3971-2C09-47B9-B868-09BFDF21F1CD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136470$04EE6334-C3F2-445E-9F8E-913FE863FA88",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Æthelburg_of_Wessex_(1)"
+          },
+          "hash": "a7ff5506fe61aa06a4f4c551cb4ee0a1b0b27dea",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136470$DFA591C5-1255-4CEB-9E28-E385282B6342",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q123805",
+              "numeric-id": 123805
+            }
+          },
+          "hash": "19cee3078727bfc73f31a814d29c50fac325051a",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4638": [
+      {
+        "id": "Q136470$09751319-6201-48FA-8FC4-A69BF93DBEF2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "p16052.htm#i160516"
+          },
+          "hash": "743089a6e0ad4972d68bd16ae08ef5391847305a",
+          "property": "P4638",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136470$69B653E4-6E39-4E5D-8D75-4B57203AC53D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136470$283EB8A1-B010-4A14-B226-61764A29D930",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0673-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "bc6982e139171e89afa0f66477e764e4fe8bc920",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136470$F720E150-779D-4A8C-8DFB-8F02CBD39D36",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0740-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a32736054f5e764391399173ee6293614c3940ba",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136470$3305E600-1EAE-446B-A049-8F97C3A62D2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q4532956"
+          },
+          "hash": "e9c3c1bdf5b20d6d184fa4811a2bd2dfde072a36",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136470$E20733A2-A193-42CB-945F-E8CD8F770A7F",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Æthelburg of Wessex Arms.svg"
+          },
+          "hash": "a759cd389162ad611b414208fbe52eabb66d1a1c",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "bg": {
+      "language": "bg",
+      "value": "кралица на Уесекс"
+    },
+    "de": {
+      "language": "de",
+      "value": "Königin des Königreichs Wessex"
+    },
+    "en": {
+      "language": "en",
+      "value": "Anglo-Saxon royal consort"
+    }
+  },
+  "id": "Q136470",
+  "labels": {
+    "bg": {
+      "language": "bg",
+      "value": "Етелбург"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "ওয়েসেক্সের এথেলবার্গ"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Etelburga de Wessex"
+    },
+    "de": {
+      "language": "de",
+      "value": "Æthelburg"
+    },
+    "el": {
+      "language": "el",
+      "value": "Έθελμπουργκ του Ουέσσεξ"
+    },
+    "en": {
+      "language": "en",
+      "value": "Æthelburg of Wessex"
+    },
+    "es": {
+      "language": "es",
+      "value": "Æthelburg de Wessex"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Etelburga Wessexkoa"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Æthelburg de Wessex"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Æthelburg van Wessex"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Etelburga de Wessex"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Etelburga de Wessex"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Этельбурга Уэссекская"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Æthelburg av Wessex"
+    }
+  },
+  "lastrevid": 17553161,
+  "modified": "2025-09-17T10:47:58Z",
+  "ns": 860,
+  "pageid": 164855,
+  "sitelinks": {},
+  "title": "Item:Q136470",
+  "type": "item"
+}

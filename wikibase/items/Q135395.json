@@ -1,0 +1,228 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Tritantaechmes"
+      }
+    ]
+  },
+  "claims": {
+    "P39": [
+      {
+        "id": "Q135395$DAAA69A9-F180-41AE-96A9-47AC10BA2CB2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135395$B1B0B6FD-C18D-4578-9D39-271C4FE560FF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135395$2F198C5B-2B8F-4F81-80E7-963850E3F481",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135296",
+              "numeric-id": 135296
+            }
+          },
+          "hash": "3dd3f76a8450abb64fad9c5830f990415cba6a84",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135395$821AB7A0-D327-42F5-BC16-F0E875449F81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135395$6533050B-A072-4806-9518-34FDE96BF4A9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a38e3127a10aaf1da7fa9568af896b9a939bbd41",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135395$2C42ED83-2DFE-4104-A3B5-14875101E0C4",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0500-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "e45db41625ace5a2a118eb2e308c7beb9edefe8e",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135395$6817A8E9-DF26-42A4-9CD0-9CB14082B151",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q1666220"
+          },
+          "hash": "bda2b4a3feaabdec26e46b9824a2534a83e10b6c",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135395$08CC4D23-971B-4D64-A938-979BB1EC984C",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Tritantaechmes Arms.svg"
+          },
+          "hash": "a692a8cbcd08ffad9c59fabaa3943548a2920c02",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "persischer Feldherr und Satrap"
+    },
+    "en": {
+      "language": "en",
+      "value": "Persian military commander, son of Artabanus"
+    }
+  },
+  "id": "Q135395",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Tritantaichmes"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Tritantecmes (militar)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Tritantaichmes"
+    },
+    "en": {
+      "language": "en",
+      "value": "Tritantaechmes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Tritantecmes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Tritantaichmes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Tritantaichmes"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Тритантехм (сын Артабана)"
+    }
+  },
+  "lastrevid": 17551480,
+  "modified": "2025-09-17T10:23:45Z",
+  "ns": 860,
+  "pageid": 163780,
+  "sitelinks": {},
+  "title": "Item:Q135395",
+  "type": "item"
+}

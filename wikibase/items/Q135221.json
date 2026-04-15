@@ -1,0 +1,601 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Philip III of Macedon"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135221$29A3A7AE-C55F-484F-9610-21DBAA9C0246",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737567"
+          },
+          "hash": "ebff7919e2f0d6260e2bcd17e7d70d6873a0339c",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135221$21EB2E34-28CD-4A01-BA5C-B8D42DFAD1B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135221$4DB5A766-DB99-446B-A55B-50E26E71ACCF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135221$83A1D767-9374-4C87-B906-AFA241068A51",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135272",
+              "numeric-id": 135272
+            }
+          },
+          "hash": "1d35cc14559a17dd9e28fceab5bbf82421476d5f",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135221$E80DA8E5-F952-4C89-A664-62EBAD0EF57A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135177",
+              "numeric-id": 135177
+            }
+          },
+          "hash": "8dcd866b095925e30d6e6cb4722d2198fff22515",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q135221$466394E4-C9D4-44B3-BBC2-F3EB925F3F63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135217",
+              "numeric-id": 135217
+            }
+          },
+          "hash": "6ce0a39eab0cb75ad7983fb878bd1c4abf763a56",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135221$6DEB419D-D88F-45D9-8529-8E87D02A39C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135221$BC4BA8E0-D47E-4811-BFFF-80541B0B0835",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0359-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b6797238b7eddaf0dd260baa7e4250c9bc1b433b",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135221$32354FD9-6BF7-4454-9BB0-3F8A89E73347",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0317-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "1413edb6923f9707bd267a341c2204cb26a9a2ff",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135221$614A1E4D-0D36-4D3A-884D-DC62A2B00302",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q295530"
+          },
+          "hash": "1f884a5eedb88349e9aee18e2fc184fc5cee4c50",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P6821": [
+      {
+        "id": "Q135221$5F26B29C-7D2D-4A6A-A677-2BE0FDC35C62",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "alvin-person:51938"
+          },
+          "hash": "884ba3846f90f272cec57a83923eaaf513e9943f",
+          "property": "P6821",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135221$2D2C390A-89A2-4146-9735-A7A2CF22B725",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Philip III of Macedon Arms.svg"
+          },
+          "hash": "dbfc5af08fc4721ddba73f19a3783bbb369b4b3a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9495": [
+      {
+        "id": "Q135221$42E3EB0F-BF6D-4903-88FE-538F4BC42EB8",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "person/61b85481-828f-4dae-9f99-d1e012c08e20"
+          },
+          "hash": "98bbe518264c45618f80a2b6f258214eb93c5512",
+          "property": "P9495",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ar": {
+      "language": "ar",
+      "value": "ملك مقدوني"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "makedonský král"
+    },
+    "de": {
+      "language": "de",
+      "value": "makedonischer Herrscher"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Macedonia"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Makedonian kuningas"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "roi de Macédoine"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "rí na Macadóine"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Makedónia királya"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'impero macedone"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "マケドニア王"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "politicus uit Macedonië (359v Chr-317v Chr)"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "rei da Macedônia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "rei da Macedônia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "rege al Macedoniei"
+    },
+    "si": {
+      "language": "si",
+      "value": "තෙවන පිලිප් රජුගෙ පාලනය"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "MÖ 323 - MÖ 317 yılları arasında hüküm sürmüş Eski Makedonya Kralı"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "vua Macedonia"
+    }
+  },
+  "id": "Q135221",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "فيليبوس الثالث المقدوني"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "فيليبوس التالت المقدونى"
+    },
+    "az": {
+      "language": "az",
+      "value": "III Filip"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "اۆچونجو فیلیپ مقدونی"
+    },
+    "be": {
+      "language": "be",
+      "value": "Філіп III Арыдэй"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Филип III Аридей"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Filip III Arrideu"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Filip III. Arrhidaios"
+    },
+    "da": {
+      "language": "da",
+      "value": "Filip 3. af Makedonien"
+    },
+    "de": {
+      "language": "de",
+      "value": "Philipp III. Arrhidaios"
+    },
+    "el": {
+      "language": "el",
+      "value": "Φίλιππος Γ΄ της Μακεδονίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Philip III of Macedon"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Filipo la 3-a"
+    },
+    "es": {
+      "language": "es",
+      "value": "Filipo III de Macedonia"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Filipo III.a Mazedoniakoa"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فیلیپ سوم مقدونی"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Filippos III"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Philippe III de Macédoine"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Pilib III na Macadóine"
+    },
+    "he": {
+      "language": "he",
+      "value": "פיליפוס השלישי, מלך מוקדון"
+    },
+    "hi": {
+      "language": "hi",
+      "value": "फिलिप तीसरा,मैसेडोन"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Philipposz makedón király"
+    },
+    "hy": {
+      "language": "hy",
+      "value": "Փիլիպոս III Մակեդոնացի"
+    },
+    "id": {
+      "language": "id",
+      "value": "Filipus III dari Makedonia"
+    },
+    "it": {
+      "language": "it",
+      "value": "Filippo III Arrideo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ピリッポス3世"
+    },
+    "ka": {
+      "language": "ka",
+      "value": "ფილიპე III არიდაიოსი"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "필리포스 3세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Philippus rex Macedonum"
+    },
+    "lb": {
+      "language": "lb",
+      "value": "Philippe III. vu Makedonien"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Filipas Aridajas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Филип III Аридеј"
+    },
+    "nan": {
+      "language": "nan",
+      "value": "Philippos 3-sè (Macedonia)"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Filip III av Makedonia"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Philippus III van Macedonië"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Filip Arrhidaeus"
+    },
+    "ps": {
+      "language": "ps",
+      "value": "د مقدونيا دريم فيليپ نومی پاچا"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Filipe III da Macedónia"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Filipe III da Macedónia"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Filip al III-lea al Macedoniei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Филипп III Арридей"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Filip III od Makedonije"
+    },
+    "si": {
+      "language": "si",
+      "value": "මැසිඩෝනියාවේ තෙවන පිලිප්"
+    },
+    "sl": {
+      "language": "sl",
+      "value": "Filip III. Makedonski"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Filipi III i Maqedonisë"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Филип III Аридеј"
+    },
+    "sr-ec": {
+      "language": "sr-ec",
+      "value": "Филип III Аридеј"
+    },
+    "sr-el": {
+      "language": "sr-el",
+      "value": "Filip III Aridej"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Filip III av Makedonien"
+    },
+    "th": {
+      "language": "th",
+      "value": "พระเจ้าพีลิปโปสที่ 3 แห่งมาเกโดนีอา"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "III. Filip"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Філіпп III Македонський"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "فلپ سوم مقدونی"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Philippos III của Macedonia"
+    },
+    "wuu": {
+      "language": "wuu",
+      "value": "腓力三世 (马其顿)"
+    },
+    "yo": {
+      "language": "yo",
+      "value": "Filip 3k ilẹ̀ Makẹdóníà"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "腓力三世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "腓力三世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "腓力三世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "腓力三世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "腓力三世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "腓力三世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "腓力三世"
+    }
+  },
+  "lastrevid": 17551186,
+  "modified": "2025-09-17T10:19:36Z",
+  "ns": 860,
+  "pageid": 163606,
+  "sitelinks": {},
+  "title": "Item:Q135221",
+  "type": "item"
+}

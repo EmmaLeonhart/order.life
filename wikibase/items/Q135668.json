@@ -1,0 +1,431 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Megabyzus II"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135668$F7F0535B-595D-467B-84DB-B5399D3E0D0B",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "534181"
+          },
+          "hash": "e1ddb78338bc4dc724d3626318a77cc0a493e251",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135668$5A51025F-3DDE-4BFE-966A-C0D9FEBC5BB8",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135670",
+              "numeric-id": 135670
+            }
+          },
+          "hash": "a771accad5abbdafd1bc4f698cc3a0c830403a47",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135668$25314AB8-0924-4125-BFF2-E1325E695E52",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135669",
+              "numeric-id": 135669
+            }
+          },
+          "hash": "30f29988c507b2671257851ede1f9e2c63fcebd8",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135668$1DC3D9B8-808A-489B-BC28-8FCBBD8C7E35",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135668$B19A0492-BCD8-4952-BCA0-D2EA97B3B110",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135668$5A21ADA8-4257-4B0C-A10D-7203709AFE81",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135529",
+              "numeric-id": 135529
+            }
+          },
+          "hash": "292b90200f424f51d37ba9954fcf2c84a36bfcbe",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135668$6F237A67-F5C5-4B46-B726-36E6E3283953",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135793",
+              "numeric-id": 135793
+            }
+          },
+          "hash": "f6bf4e7bfd42e407f1b0e721098858a8b9de34e1",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135668$1437894A-EAAD-4A82-B232-8795AC8840FD",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135668$1F1A5B65-7084-4D49-BD72-0AD3DF81BF65",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0516-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "0a2673031b38da8031c9205b28a30b060d2b929a",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135668$71F25110-EEC8-40BE-92B1-8F8A042813D9",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0401-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "a32685df648ac40e949818f79ce3ac6afbec7e66",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135668$0375BD87-0A1F-4297-9943-A581EC1A5992",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q386532"
+          },
+          "hash": "cd580b25e7c02523c9f2fd1865a9df2675ba9c88",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P64": [
+      {
+        "id": "Q135668$499DFB21-AA61-48B3-AE33-BF72BF216231",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "Megabyzus II"
+          },
+          "hash": "303bcfcbbdf81e1118da84d7090eace56e6024dd",
+          "property": "P64",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135668$B57797F2-BCC0-444A-870B-C9AD45526216",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Megabyzus II Arms.svg"
+          },
+          "hash": "04dff9ce07ed2a25691cd73860f688d0173ad9c2",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "noble i militar persa"
+    },
+    "de": {
+      "language": "de",
+      "value": "persischer Adliger und Feldherr, Satrap von Syrien"
+    },
+    "el": {
+      "language": "el",
+      "value": "στρατηγός της Περσικής Αυτοκρατορίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "5th-century BC Achaemenid Persian general"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "فرمانده نظامی و ساتراپ هخامنشی سوریه"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général perse"
+    },
+    "he": {
+      "language": "he",
+      "value": "מצביא פרסי אחמני מהמאה ה-5 לפסה\"נ"
+    },
+    "it": {
+      "language": "it",
+      "value": "satrapo persiano"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "militair"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "பாரசீக தளபதி"
+    }
+  },
+  "id": "Q135668",
+  "labels": {
+    "ca": {
+      "language": "ca",
+      "value": "Megabazos"
+    },
+    "ceb": {
+      "language": "ceb",
+      "value": "Megabyzus"
+    },
+    "de": {
+      "language": "de",
+      "value": "Megabyzos II."
+    },
+    "el": {
+      "language": "el",
+      "value": "Μεγάβυζος ο Ζωπύρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Megabyzus II"
+    },
+    "es": {
+      "language": "es",
+      "value": "Megabizo II"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "بغابوخش دوم"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Mégabaze"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Μεγάβυζος"
+    },
+    "he": {
+      "language": "he",
+      "value": "מגביזוס"
+    },
+    "hr": {
+      "language": "hr",
+      "value": "Megabiz II."
+    },
+    "it": {
+      "language": "it",
+      "value": "Megabizo"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "メガビゾス"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "메가비조스"
+    },
+    "la": {
+      "language": "la",
+      "value": "Megabyzus"
+    },
+    "mul": {
+      "language": "mul",
+      "value": "Megabyzus II"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Megabyzos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Megabyzus"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Megabizo"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Megabizo"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Мегабиз"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Megabiz"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Megabyzus"
+    },
+    "ta": {
+      "language": "ta",
+      "value": "மெகாபிசஸ்"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Мегабіз (сатрап)"
+    },
+    "war": {
+      "language": "war",
+      "value": "Megabyzus"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "迈加比佐斯"
+    }
+  },
+  "lastrevid": 17551939,
+  "modified": "2025-09-17T10:30:23Z",
+  "ns": 860,
+  "pageid": 164053,
+  "sitelinks": {},
+  "title": "Item:Q135668",
+  "type": "item"
+}

@@ -1,0 +1,447 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus XII Dionysus"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136165$46D38164-2B5E-4207-B82B-0EF6F51B2E03",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736601"
+          },
+          "hash": "c5e49352e9cda76a2607cf4bccc718894888a076",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136165$A91726D1-B2EB-4D93-A92F-0EC5242FCC0F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136165$1F7CAAE5-92DF-48B3-8A8E-B7BFF88EADAF",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4159": [
+      {
+        "id": "Q136165$78761229-EEE2-4834-BE86-E3ACC88E7FC6",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus_XII_Dionysus_(1)"
+          },
+          "hash": "3693aaacb1e1d74d87ad7627050b30e4e76ad9b2",
+          "property": "P4159",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136165$39D56CC6-2B7E-4609-9AFE-3B8F4A97BD93",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72891",
+              "numeric-id": 72891
+            }
+          },
+          "hash": "2ce83282597ea468f28168c1ce0cdc9a47c73849",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136165$1E8AE4AB-AE8E-4AB4-AAC2-539432252025",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q72888",
+              "numeric-id": 72888
+            }
+          },
+          "hash": "bc549374205056cd1ece94204cc913fa6cf564bf",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136165$454BCA33-DCFE-4C55-BFD8-FCB8EC16CDBA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136165$5FBB9C7B-DB6C-4CC7-9FAA-2647791F5E48",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0150-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "4f42d5cef1540ef650f593ba3cfb1649ef9ea4d3",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136165$6D643BF0-3987-4314-97EC-516B07F4077D",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0084-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "060ae957f6261d2dfbc73c5f25bc43476c312804",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136165$94208223-A985-4E13-A63F-CEC419AB4ED9",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q311107"
+          },
+          "hash": "39870139c20d933c30235f0bd953ee0a335b1fe5",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136165$59FE575F-B144-4351-945B-DE31EC5EB98B",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus XII Dionysus Arms.svg"
+          },
+          "hash": "5e450636109c6a581906e24a2f03db96c4c4cd64",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "König des Seleukidenreichs"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Syria"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Siria (87 a. C. - 82 a. C.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Raja Suriah (87-82 SM)"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 86-82 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Seleucidische rijk (-84v Chr)"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Сирії"
+    }
+  },
+  "id": "Q136165",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس الثاني عشر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخوس التناشر"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "اوْنایکینجی آنتیوخوس"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох XII Дионисий"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc XII Dionisi"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Antiochos XII. Dionýsos"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antiochos 12. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos XII."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος ΙΒ' Διόνυσος"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus XII Dionysus"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Antioĥo la 12-a Dionizo"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco XII Dioniso"
+    },
+    "et": {
+      "language": "et",
+      "value": "Antiochos XII Dionysos"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antioko XII.a Dioniso"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس دوازدهم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiokhos XII Dionysos"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos XII"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס השנים עשר"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "XII. Antiokhosz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiokhos XII Dionisos"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco XII"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオコス12世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안티오코스 12세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antiochus XII Dionysus"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antiokos XII Dionysos"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus XII Dionysus"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch XII Dionizos"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco XII Dionísio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco XII Dionísio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох XII Дионис"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh XII Dioniz"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антиох XII Дионис"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antiochos XII"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох XII Діоніс"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos XII Dionysos"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安條克十二世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安条克十二世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安条克十二世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安條克十二世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安條克十二世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安条克十二世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安條克十二世"
+    }
+  },
+  "lastrevid": 17552671,
+  "modified": "2025-09-17T10:40:51Z",
+  "ns": 860,
+  "pageid": 164550,
+  "sitelinks": {},
+  "title": "Item:Q136165",
+  "type": "item"
+}

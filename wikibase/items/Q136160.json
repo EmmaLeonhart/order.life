@@ -1,0 +1,503 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Antiochus X Eusebes"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136160$4376570D-EDFB-4B5E-9FC0-97E906EF4D2D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736316"
+          },
+          "hash": "0fed9c2467c1d121b5d1f680943f5321631c6250",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136160$11248FF7-F52E-419B-8A79-B6EBC401E5B5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136162",
+              "numeric-id": 136162
+            }
+          },
+          "hash": "3c282f97f27d0707679900aa329c70e40b441b52",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136160$E67E7D57-8D6A-4AF2-989B-A6BDA2EE3B25",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136161",
+              "numeric-id": 136161
+            }
+          },
+          "hash": "b7cd58f142e9f304fb17169ab8a7c79d8ca5c475",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136160$0C8AA326-2981-4D8D-A0BC-ECEC758BE4AE",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136160$D2C1BB52-9485-4984-9996-3E607E8CBD0A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q136160$CB2436DE-5EF3-4CEF-B0BE-788CDA14FC63",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135922",
+              "numeric-id": 135922
+            }
+          },
+          "hash": "34150bf05a3f1ea443efd9d4fbba9f87fc08c1a1",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136160$35276D8A-616F-45A3-85A3-98383D6C8B0D",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136149",
+              "numeric-id": 136149
+            }
+          },
+          "hash": "63426cabbb67596a1acfad09b124d207cbebbe4b",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q136160$1B69A919-F43D-4AAC-87A9-E6EACA8E9AA2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q78402",
+              "numeric-id": 78402
+            }
+          },
+          "hash": "e2544eff681eff10f6936861452aac1211a1e8ac",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136160$FAC915F3-DFA3-409C-880F-4B59B15FBFEA",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136160$A50A9D16-321A-42EA-9340-A24E1A126FF6",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0200-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "84d034fa864e31e2031c345522d82ae19204df7d",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136160$FE4B896A-FC18-4188-971C-136F9E6228A2",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0088-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "b359f0b7f7387552143bd46f5059199ed634ccc7",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136160$20E6B0F0-1701-4DAC-AEAB-B0C3D955C143",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q310808"
+          },
+          "hash": "cd45d6739081dbe64ab2e435fc0d5a1e1825cb25",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136160$D996813D-4A8F-4697-A0E8-E41CE8CD0EF6",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Antiochus X Eusebes Arms.svg"
+          },
+          "hash": "e72ee8327dda151c9702af2d6bab1eddda2da73a",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ca": {
+      "language": "ca",
+      "value": "rei selèucida de Síria"
+    },
+    "de": {
+      "language": "de",
+      "value": "Prätendent in den verworrenen Familienfehden gegen Ende der Seleukidendynastie"
+    },
+    "en": {
+      "language": "en",
+      "value": "king of Syria"
+    },
+    "es": {
+      "language": "es",
+      "value": "rey de Siria (95 a. C.–90 a. C.)"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "souverain du royaume séleucide"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Penguasa Seleukia"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano dell'Impero seleucide (r. 95-93 a.C.)"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Seleucidische rijk (-88v Chr)"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Suriye kralı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "цар Сирії"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "vị vua của nhà Seleukos đã cai trị Syria thời kỳ Hy Lạp hóa"
+    }
+  },
+  "id": "Q136160",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "أنطيوخوس العاشر"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "انطيوخوس العاشر"
+    },
+    "azb": {
+      "language": "azb",
+      "value": "اوْنونجو آنتیوخوس"
+    },
+    "be": {
+      "language": "be",
+      "value": "Антыёх X Еўсеб Філапатар"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Антиох X Евсеб"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Antíoc X Èusebes"
+    },
+    "da": {
+      "language": "da",
+      "value": "Antiochos 10. af Seleukideriget"
+    },
+    "de": {
+      "language": "de",
+      "value": "Antiochos X."
+    },
+    "el": {
+      "language": "el",
+      "value": "Αντίοχος Ι' Ευσεβής"
+    },
+    "en": {
+      "language": "en",
+      "value": "Antiochus X Eusebes"
+    },
+    "es": {
+      "language": "es",
+      "value": "Antíoco X Eusebio"
+    },
+    "eu": {
+      "language": "eu",
+      "value": "Antioko X.a Eusebio"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آنتیوخوس دهم"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Antiokhos X Eusebes"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Antiochos X"
+    },
+    "he": {
+      "language": "he",
+      "value": "אנטיוכוס העשירי"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "X. Antiokhosz szeleukida uralkodó"
+    },
+    "id": {
+      "language": "id",
+      "value": "Antiokhos X Eusebes"
+    },
+    "it": {
+      "language": "it",
+      "value": "Antioco X"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アンティオコス10世"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "안티오코스 10세"
+    },
+    "la": {
+      "language": "la",
+      "value": "Antiochus X Eusebes"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Antiokos X Eusebes"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Antiochus X Eusebes"
+    },
+    "nn": {
+      "language": "nn",
+      "value": "Antiokos X Eusebes"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Antioch X Eusebes"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Antíoco X Eusébio"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Antíoco X Eusébio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Антиох X Евсеб Филопатор"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Antioh X Euzeb"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Антиох X Еусеб"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Antiochos X"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "X. Antiohos"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Антіох Х Евсеб"
+    },
+    "vi": {
+      "language": "vi",
+      "value": "Antiochos X Eusebes"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "安條克十世"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "安条克十世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "安条克十世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "安條克十世"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "安條克十世"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "安条克十世"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "安條克十世"
+    }
+  },
+  "lastrevid": 17552663,
+  "modified": "2025-09-17T10:40:45Z",
+  "ns": 860,
+  "pageid": 164545,
+  "sitelinks": {},
+  "title": "Item:Q136160",
+  "type": "item"
+}

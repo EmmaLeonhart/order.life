@@ -1,0 +1,295 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Apama"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q135438$1C750689-10BE-49CA-A335-21D451FE5FB4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00736552"
+          },
+          "hash": "46c97864ba3b133accafb4b4bef1a1669c909684",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q135438$C3CF94DD-6B70-4B3B-8B51-B282EF651771",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135324",
+              "numeric-id": 135324
+            }
+          },
+          "hash": "b57f9642be67382c6a290c2c510ea141732833ea",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135438$9014E96A-D74D-4952-8D06-A88BB5BCC523",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135438$6D48C053-AAFE-40A7-BC1A-48AFF43C94C5",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135438$176396BA-8049-42DF-864A-E3E7D6FF1953",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135437",
+              "numeric-id": 135437
+            }
+          },
+          "hash": "a62fb56faedc6e24abe8ddfdacc1547db7b73916",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135438$A2B84CA7-DF5D-494F-A981-83361F4E9B5E",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q74013",
+              "numeric-id": 74013
+            }
+          },
+          "hash": "c1facfc837d68e399ee16c5abcaa98e1c97ec7b9",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135438$98CF5976-1D06-4317-9049-BBFA6EAF5779",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153719",
+              "numeric-id": 153719
+            }
+          },
+          "hash": "b13089fc8bec4016f0842734a590d288c2e6ef4b",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135438$E2C41843-59A3-4366-BE7F-50AF17A4679E",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0450-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "3a2a9e4e2db5ed6e5a0a3d28134489b93b4389d7",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135438$9B28256C-1015-4DD8-B215-D41ABBEB3844",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q11906173"
+          },
+          "hash": "42f5d958ee1de59d06a4dfbe9e1aceecd8a7be23",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135438$2F67BBEE-FA7C-44FE-8AA0-C5FB76084500",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Apama Arms.svg"
+          },
+          "hash": "cf2f7c7afdc996ef9a1e4dc7e595456d6e5ce0d3",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "de": {
+      "language": "de",
+      "value": "persische Adlige"
+    },
+    "en": {
+      "language": "en",
+      "value": "daughter of Artaxerxes II of Persia"
+    },
+    "he": {
+      "language": "he",
+      "value": "בתו של ארתחשסתא השני"
+    },
+    "it": {
+      "language": "it",
+      "value": "figlia di Artaserse II di Persia"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "اردوشیر دوم کی بیٹی"
+    }
+  },
+  "id": "Q135438",
+  "labels": {
+    "be": {
+      "language": "be",
+      "value": "Апама"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Apama (filla d'Artaxerxes II)"
+    },
+    "de": {
+      "language": "de",
+      "value": "Apame"
+    },
+    "el": {
+      "language": "el",
+      "value": "Απάμα"
+    },
+    "en": {
+      "language": "en",
+      "value": "Apama"
+    },
+    "es": {
+      "language": "es",
+      "value": "Apama"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "آپاما"
+    },
+    "he": {
+      "language": "he",
+      "value": "אפאמה"
+    },
+    "it": {
+      "language": "it",
+      "value": "Apama"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Апама"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Опомо"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Апама"
+    },
+    "ur": {
+      "language": "ur",
+      "value": "آپاما"
+    }
+  },
+  "lastrevid": 17551564,
+  "modified": "2025-09-17T10:24:58Z",
+  "ns": 860,
+  "pageid": 163823,
+  "sitelinks": {},
+  "title": "Item:Q135438",
+  "type": "item"
+}

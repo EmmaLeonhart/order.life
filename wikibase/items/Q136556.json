@@ -1,0 +1,331 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Gwylog ap Beli"
+      }
+    ]
+  },
+  "claims": {
+    "P1819": [
+      {
+        "id": "Q136556$419A5D38-5B27-4466-B19F-54C22E42C2E4",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00773701"
+          },
+          "hash": "7453ba8ca4501387f0b69cd5d971ded1933c86c8",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P20": [
+      {
+        "id": "Q136556$BC29ED61-CFB8-415A-B707-B5F93F3A2B0C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136873",
+              "numeric-id": 136873
+            }
+          },
+          "hash": "7e3d656ea2bba5e3a1b10a1b198680ad13ff52d4",
+          "property": "P20",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2949": [
+      {
+        "id": "Q136556$EB7F1E47-3441-4AED-982E-734E49AA270D",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Ap_Beli-3"
+          },
+          "hash": "4169e91bf10ab511b9d51e7cd7d9048578f23e47",
+          "property": "P2949",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q136556$663C735B-22DF-41CA-BAAC-B6A45295C692",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q136556$6A9CEFFA-0DC4-4DBB-8FF6-2C71F5518380",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q136556$D8E74A96-1452-481D-9EE3-FC8A78193864",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q136292",
+              "numeric-id": 136292
+            }
+          },
+          "hash": "bed2ed2c22c305402231877fe773d0b0ad3ec3bb",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q136556$97E866AA-4B88-439E-937D-90F41B6CD654",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q136556$1013916C-08AF-4D1B-9D6A-77434C5EBD36",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 11,
+              "time": "+0601-01-01T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "cfaa7e548413f90d6a01cd0bdf6633f40d6933a8",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q136556$98B12C16-73A4-491D-847D-06806FD39EEA",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0725-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "32d208512bb76d527513f1501128ce29cedfb9d0",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q136556$FAC67327-C258-4D91-9673-A4F384C41A91",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q2295972"
+          },
+          "hash": "41b1f77d3e853ea0e3903ea2efaa540a2b019582",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q136556$3FA375E9-FA3C-4506-8AFA-080EA90F9EB0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Gwylog ap Beli Arms.svg"
+          },
+          "hash": "27a928482676e9a518bce87717b9e708a4edbf16",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "ast": {
+      "language": "ast",
+      "value": "soberanu galés (601–725)"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "tywysog Teyrnas Powys"
+    },
+    "en": {
+      "language": "en",
+      "value": "Ruler of Kingdom of Powys"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Roi de Powys"
+    },
+    "it": {
+      "language": "it",
+      "value": "sovrano gallese"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "soeverein uit Wales (-725)"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "король Поуиса"
+    }
+  },
+  "id": "Q136556",
+  "labels": {
+    "ast": {
+      "language": "ast",
+      "value": "Gwylog ap Beli"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Gwylog ap Beli"
+    },
+    "cy": {
+      "language": "cy",
+      "value": "Gwylog ap Beli"
+    },
+    "de": {
+      "language": "de",
+      "value": "Gwylog ap Beli"
+    },
+    "en": {
+      "language": "en",
+      "value": "Gwylog ap Beli"
+    },
+    "es": {
+      "language": "es",
+      "value": "Gwylog ap Beli"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Gwylog ap Beli"
+    },
+    "it": {
+      "language": "it",
+      "value": "Gwylog ap Beli"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "グゥイログ・アプ・ベリ"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Gwylog ap Beli"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гуилог ап Бели"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Gwylog ap Beli"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "圭洛格·阿普·贝利"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "圭洛格·阿普·贝利"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "圭洛格·阿普·貝利"
+    }
+  },
+  "lastrevid": 17553289,
+  "modified": "2025-09-17T10:49:50Z",
+  "ns": 860,
+  "pageid": 164941,
+  "sitelinks": {},
+  "title": "Item:Q136556",
+  "type": "item"
+}

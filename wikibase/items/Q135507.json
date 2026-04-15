@@ -1,0 +1,495 @@
+{
+  "aliases": {
+    "en": [
+      {
+        "language": "en",
+        "value": "Hephaestion"
+      }
+    ]
+  },
+  "claims": {
+    "P1185": [
+      {
+        "id": "Q135507$10F99053-133F-4FD5-B443-0043571EA3E2",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "538359"
+          },
+          "hash": "8a1d09546368f51366d14a7e010a3c305b5870c3",
+          "property": "P1185",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1819": [
+      {
+        "id": "Q135507$062FD66D-D6E2-48C0-8A9E-05590F1C3683",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "I00737919"
+          },
+          "hash": "45324a9f6943c78260ffb2143c1da6fd1652fca5",
+          "property": "P1819",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P39": [
+      {
+        "id": "Q135507$B579D078-186B-49C2-8724-F9FF878234F0",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q135507$38E29FF6-218F-4B77-9639-FE69C1FEE00C",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P42": [
+      {
+        "id": "Q135507$4FEC2090-4440-4001-8AA8-C6722D5D41D3",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135366",
+              "numeric-id": 135366
+            }
+          },
+          "hash": "964edaa2ea0f6aea576493bd3e1bfb9c75d0a382",
+          "property": "P42",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q135507$0712147B-6D78-4702-BA9B-965C5DEC9E7A",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q135641",
+              "numeric-id": 135641
+            }
+          },
+          "hash": "f4da7d8c1d256650863b2c73e8c0af7f5fe68492",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q135507$B7B892CF-C1D7-4F40-BBC6-26A4AD1DF2C2",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P56": [
+      {
+        "id": "Q135507$2C2C7248-24C2-4D31-BF1F-70113D9D9E4C",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0356-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "63907880a792f6b1f915c0fa3cbcf1f6b4607c72",
+          "property": "P56",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P57": [
+      {
+        "id": "Q135507$7ECAD265-62C4-4BAA-A1A0-303C65777317",
+        "mainsnak": {
+          "datatype": "time",
+          "datavalue": {
+            "type": "time",
+            "value": {
+              "after": 0,
+              "before": 0,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+              "precision": 9,
+              "time": "+0324-00-00T00:00:00Z",
+              "timezone": 0
+            }
+          },
+          "hash": "748fdd30a86652a3b488eff2e5b1fd6d10cf5504",
+          "property": "P57",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q135507$BF9328E4-4C15-4041-8348-B431E897B429",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q310739"
+          },
+          "hash": "61f793f4a980489214e344936a346067e1233eb8",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q135507$C2A8255F-05D6-45D9-A823-23CD299E9BC0",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Hephaestion Arms.svg"
+          },
+          "hash": "3e640651351ae58f2539a0164eebb3592538573b",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "cs": {
+      "language": "cs",
+      "value": "starověký makedonský šlechtic a generál v armádě Alexandra Velikého"
+    },
+    "de": {
+      "language": "de",
+      "value": "Freund und Offizier Alexanders des Großen"
+    },
+    "el": {
+      "language": "el",
+      "value": "Μακεδόνας ευγενής και στρατηγός, καλύτερος φίλος του Μεγάλου Αλεξάνδρου"
+    },
+    "en": {
+      "language": "en",
+      "value": "Macedonian nobleman and general, best friend of Alexander the Great (c. 356–324 BC)"
+    },
+    "es": {
+      "language": "es",
+      "value": "general y noble macedonio a las órdenes de Alejandro Magno"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "antiikin makedonialainen aristokraatti"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "général macédonien et favori d'Alexandre le Grand"
+    },
+    "it": {
+      "language": "it",
+      "value": "nobile macedone e generale nell'esercito di Alessandro Magno e suo amante"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "officier uit Macedonië (356v Chr-324v Chr)"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "macedoński dowódca i arystokrata"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "aristocrata macedônio"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "полководец, ближайший друг Александра Македонского"
+    }
+  },
+  "id": "Q135507",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "هيفايستيون"
+    },
+    "arz": {
+      "language": "arz",
+      "value": "هيفايستيون"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Hefestión"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Хефестион"
+    },
+    "br": {
+      "language": "br",
+      "value": "Hefaestion"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "Hefestió de Peŀla"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Hefaistión"
+    },
+    "cv": {
+      "language": "cv",
+      "value": "Гефестион"
+    },
+    "da": {
+      "language": "da",
+      "value": "Hefaistion"
+    },
+    "de": {
+      "language": "de",
+      "value": "Hephaistion"
+    },
+    "el": {
+      "language": "el",
+      "value": "Ηφαιστίωνας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Hephaestion"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Hefestiono"
+    },
+    "es": {
+      "language": "es",
+      "value": "Hefestión"
+    },
+    "fa": {
+      "language": "fa",
+      "value": "هفستیون"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "Hefaistion"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Héphaestion"
+    },
+    "ga": {
+      "language": "ga",
+      "value": "Hephaestion"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "Hefestión"
+    },
+    "grc": {
+      "language": "grc",
+      "value": "Ἡφαιδτίων"
+    },
+    "he": {
+      "language": "he",
+      "value": "הפאיסטיון"
+    },
+    "id": {
+      "language": "id",
+      "value": "Hephaestion"
+    },
+    "it": {
+      "language": "it",
+      "value": "Efestione"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "ヘファイスティオン"
+    },
+    "ko": {
+      "language": "ko",
+      "value": "헤파이스티온"
+    },
+    "la": {
+      "language": "la",
+      "value": "Hephaestio"
+    },
+    "lfn": {
+      "language": "lfn",
+      "value": "Hefestion"
+    },
+    "lt": {
+      "language": "lt",
+      "value": "Hefestionas"
+    },
+    "mk": {
+      "language": "mk",
+      "value": "Хефестион"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Hefaistion"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Hephaestion"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Hefajstion"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "Heféstion"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "Heféstion"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Гефестион"
+    },
+    "sh": {
+      "language": "sh",
+      "value": "Hefestion"
+    },
+    "sk": {
+      "language": "sk",
+      "value": "Héfaistión"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Хефестион"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Hefaistion"
+    },
+    "tg": {
+      "language": "tg",
+      "value": "Ҳефестиюн"
+    },
+    "th": {
+      "language": "th",
+      "value": "เฮฟีสเทียน"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Hephaestion"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "Гефестіон"
+    },
+    "uz": {
+      "language": "uz",
+      "value": "Gefestion tarixi"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "赫费斯提翁"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "赫费斯提翁"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "赫费斯提翁"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "赫費斯提翁"
+    },
+    "zh-hk": {
+      "language": "zh-hk",
+      "value": "赫費斯提翁"
+    },
+    "zh-sg": {
+      "language": "zh-sg",
+      "value": "赫费斯提翁"
+    },
+    "zh-tw": {
+      "language": "zh-tw",
+      "value": "赫費斯提翁"
+    }
+  },
+  "lastrevid": 17551678,
+  "modified": "2025-09-17T10:26:39Z",
+  "ns": 860,
+  "pageid": 163892,
+  "sitelinks": {},
+  "title": "Item:Q135507",
+  "type": "item"
+}
