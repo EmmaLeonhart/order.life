@@ -51,6 +51,23 @@ desk.
 
 - [`manu-yemo.md`](manu-yemo.md) — PIE founding pair; R1a and R1b;
   Yamnaya / Indo-European expansion.
+- [`manu-indian.md`](manu-indian.md) — Indian Manu as flood-
+  ancestor and lawgiver; parallels Noah and Moses.
+
+## Biblical narrative spine (patriarchs → Egypt)
+
+- [`abraham-jacob.md`](abraham-jacob.md) — patriarchal sequence;
+  Akedah, Jacob wrestling, twelve sons.
+- [`joseph-egypt.md`](joseph-egypt.md) — Joseph as bridge from
+  patriarchs to Exodus.
+- [`pharaohs.md`](pharaohs.md) — Egypt as civilization; Akhenaten,
+  Ramesside, BAC connection.
+
+## Hindu epics
+
+- [`ramayana.md`](ramayana.md) — Rama, Sita, Hanuman; Ayodhya hook.
+- [`mahabharata.md`](mahabharata.md) — Pandava-Kaurava war, Karna,
+  Draupadi, Bhagavad Gita.
 
 ## Late-mythic-cycle bridges
 
