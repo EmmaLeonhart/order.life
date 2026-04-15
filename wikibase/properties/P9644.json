@@ -1,0 +1,925 @@
+{
+  "aliases": {
+    "bn": [
+      {
+        "language": "bn",
+        "value": "জেনেনেট পদবী আইডি"
+      },
+      {
+        "language": "bn",
+        "value": "Geneanet family name ID"
+      }
+    ],
+    "ca": [
+      {
+        "language": "ca",
+        "value": "identificador Geneanet de nom de família"
+      }
+    ],
+    "dag": [
+      {
+        "language": "dag",
+        "value": "Daŋ yuli zuɣuŋmaa"
+      }
+    ],
+    "de": [
+      {
+        "language": "de",
+        "value": "Geneanet-Familiennamen-ID"
+      }
+    ],
+    "en": [
+      {
+        "language": "en",
+        "value": "Geneanet family name identifier"
+      },
+      {
+        "language": "en",
+        "value": "geneanet.org family name ID"
+      },
+      {
+        "language": "en",
+        "value": "geneanet.org family name identifier"
+      }
+    ],
+    "es": [
+      {
+        "language": "es",
+        "value": "Geneanet"
+      },
+      {
+        "language": "es",
+        "value": "Geneanet ID apellido"
+      },
+      {
+        "language": "es",
+        "value": "ID de Apellido GeneaNet"
+      }
+    ],
+    "fi": [
+      {
+        "language": "fi",
+        "value": "Geneanet-sukunimitunniste"
+      }
+    ],
+    "fr": [
+      {
+        "language": "fr",
+        "value": "Geneanet ID (nom de famille)"
+      }
+    ],
+    "hu": [
+      {
+        "language": "hu",
+        "value": "Geneanet-vezetéknévazonosító"
+      }
+    ],
+    "it": [
+      {
+        "language": "it",
+        "value": "Geneanet"
+      }
+    ],
+    "ja": [
+      {
+        "language": "ja",
+        "value": "Geneanet姓ID"
+      },
+      {
+        "language": "ja",
+        "value": "Geneanet名字識別子"
+      },
+      {
+        "language": "ja",
+        "value": "Geneanet名字ID"
+      },
+      {
+        "language": "ja",
+        "value": "Geneanet苗字識別子"
+      },
+      {
+        "language": "ja",
+        "value": "Geneanet苗字ID"
+      }
+    ],
+    "tr": [
+      {
+        "language": "tr",
+        "value": "Geneanet kimliği (soyadı)"
+      },
+      {
+        "language": "tr",
+        "value": "Geneanet soyadı tanımlayıcı"
+      },
+      {
+        "language": "tr",
+        "value": "Geneanet soyadı kimliği"
+      }
+    ]
+  },
+  "claims": {
+    "P1629": [
+      {
+        "id": "P9644$5B62E6F9-BA41-4261-8B2E-9D55B7B81457",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3100478",
+              "numeric-id": 3100478
+            }
+          },
+          "hash": "b8c0d7a157e0172401b535dda9c7f6ab2b7ee9a5",
+          "property": "P1629",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1630": [
+      {
+        "id": "P9644$0F13CC28-CC73-4558-A464-0D261AB8CDF5",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://en.geneanet.org/surnames/$1"
+          },
+          "hash": "18ee65aab070b0029f8121cdb9d1361144a7b9a8",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$CF7D5C7A-0A87-4F82-816F-9D2489A95D1D",
+        "mainsnak": {
+          "datatype": "string",
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.geneanet.org/nom-de-famille/$1"
+          },
+          "hash": "ca7947c824adf53949a0b93409f0bb956c307ff0",
+          "property": "P1630",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1659": [
+      {
+        "id": "P9644$9547B978-086C-42E4-8818-FA2931C40015",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 3370, 'id': 'P3370'}"
+          },
+          "hash": "200f4cb6b8edb3a3e3d2b2f70a58eaefd6b8e4d2",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$F9688C2E-A4E9-4D4F-975D-8E9B33D153E6",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 5452, 'id': 'P5452'}"
+          },
+          "hash": "303e5355c55f7a69da921d1a471753a6e120f6b9",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$1BC19CDD-D3DF-4575-9911-0AAC8BF9AADF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'entity-type': 'property', 'numeric-id': 6597, 'id': 'P6597'}"
+          },
+          "hash": "4fa87d7898e8e7f106eb14a86f86b854f55414ed",
+          "property": "P1659",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1855": [
+      {
+        "id": "P9644$E3C937A5-5024-4DB7-A309-017A8FF156A8",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q18001608",
+              "numeric-id": 18001608
+            }
+          },
+          "hash": "7583ea95f7bd32112da206040f234898d35a2c52",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$9192E6D2-4E37-4DE7-A32D-965F8DCBC022",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q1158446",
+              "numeric-id": 1158446
+            }
+          },
+          "hash": "be131c3f146115f3272260a35c7b6a50b38c01c3",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$AF19241E-8A8F-4021-A01B-0F9220319E63",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q26078995",
+              "numeric-id": 26078995
+            }
+          },
+          "hash": "4c8530b3b96148b1addb37498be5d2b859dc4221",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$0547FC3C-F82B-4A59-8469-48AB95BC8AD1",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q2817217",
+              "numeric-id": 2817217
+            }
+          },
+          "hash": "d9ce078b723af02305e883711844a66ce3664a9f",
+          "property": "P1855",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P1896": [
+      {
+        "id": "P9644$639EA381-9CC7-45B4-BC53-67D596CA4956",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.geneanet.org/"
+          },
+          "hash": "08705497af5766063ac1d4a72a45b7bacd518438",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$50DDD892-7EAF-4FB3-B6B1-AB62AD97ED39",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://en.geneanet.org"
+          },
+          "hash": "67f371f5c148bebb984f58835a2f39e4ad2bbd32",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$2877EBE8-E41D-41E0-AD43-97E106A1EC2B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://de.geneanet.org/"
+          },
+          "hash": "7a13ed7d4a11e333fb016293f961efaa4b6b8355",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$17B57478-0662-4DC5-9160-835D25E1632E",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://es.geneanet.org/"
+          },
+          "hash": "9ff04928ff22f794874da019557f99fc9946d91d",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$4267EAAA-21C4-43E6-8C07-9B6F57B78679",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://fi.geneanet.org/"
+          },
+          "hash": "25ecb3939d489470e75550a0d586e865db14c586",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$1D2204C8-7195-46FB-B8DA-E22BAA330D30",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.geneanet.org/?lang=fr"
+          },
+          "hash": "45d2b3df645ec69bbfe3e24317257ffdf229118d",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$EF5BE16B-5B9A-4F80-8878-C1F6F9C95D4A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://it.geneanet.org/"
+          },
+          "hash": "ab5a37d43bd26695e94a29d5ba2141b25b1d8b20",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$A0AE70BD-A34B-4267-B53D-DB2F27E5208F",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://nl.geneanet.org/"
+          },
+          "hash": "65606566faec2397b5a151ab4a4e2809a5b828d8",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$68C2DA91-8518-4DF7-81FB-051633BE347D",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://no.geneanet.org/"
+          },
+          "hash": "dbf4ea6c919c00e4d9afec047437aafcbe73381b",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$25E3E948-3171-4554-82B6-645C87004934",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://pt.geneanet.org/"
+          },
+          "hash": "89c3dd5157bf23d0135903f67e52e951fd5116b9",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$0B08F2E3-B645-4D57-9E4D-5123A86EF786",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://sv.geneanet.org/"
+          },
+          "hash": "e6ce6b4c3ab530e803a7e008add5a285b561cbc8",
+          "property": "P1896",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2302": [
+      {
+        "id": "P9644$516DD830-719A-4D37-9547-04895C2FC4CF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19474404",
+              "numeric-id": 19474404
+            }
+          },
+          "hash": "bc9f04ae1b17d1f0be97eae471d20ac6a83546ed",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$97B452B4-8251-4DCE-BCF8-B14033FBACB3",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503250",
+              "numeric-id": 21503250
+            }
+          },
+          "hash": "a00327947c6d834f33f6ee14916142d6a2008aef",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$5312FBA1-89DC-4972-8D57-CAAB8C55D1A2",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q52004125",
+              "numeric-id": 52004125
+            }
+          },
+          "hash": "eba677434c5f12338ab5fd1ce6a834ab3139856a",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$E3DCC7A0-69FE-4D98-B409-3393BDEA05E4",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q53869507",
+              "numeric-id": 53869507
+            }
+          },
+          "hash": "793a77bb61b7ab2ebc9b8ef826c2c4c236eeccc1",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$632FDBF5-43D1-49B5-91E9-655C07F258A7",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21502404",
+              "numeric-id": 21502404
+            }
+          },
+          "hash": "3ab788a79997cfb672590fc69472661329379611",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$8EF3C0B3-D863-455E-AF1A-15360369CFBD",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21503247",
+              "numeric-id": 21503247
+            }
+          },
+          "hash": "fede01024807ea412f925e250a71651eda314b38",
+          "property": "P2302",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2429": [
+      {
+        "id": "P9644$E9463C14-5FC3-4081-A4C9-66F52B6FEE3A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q21873886",
+              "numeric-id": 21873886
+            }
+          },
+          "hash": "cda3cee2c1da801de81136a0a0c54f6dcba8bc25",
+          "property": "P2429",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P2559": [
+      {
+        "id": "P9644$A5470666-174D-4507-B354-1C4439F7358C",
+        "mainsnak": {
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "de",
+              "text": "Die ID ist der Familienname in Großbuchstaben"
+            }
+          },
+          "hash": "ed808451c775b8daddd1627610b4758b874911bd",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$6AD771AE-43F3-4422-9381-52A7AE913C5B",
+        "mainsnak": {
+          "datavalue": {
+            "type": "monolingualtext",
+            "value": {
+              "language": "en",
+              "text": "The ID is the family name in capital letters."
+            }
+          },
+          "hash": "7a8365c691f865ce1ef22a7d26ae1a7e1f74ee8c",
+          "property": "P2559",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P31": [
+      {
+        "id": "P9644$52EA7FB9-7EAB-426F-9184-94AEE5C0A76F",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19643892",
+              "numeric-id": 19643892
+            }
+          },
+          "hash": "65f5b4005a94feedb8a77a5ee4de98c3566ea1fe",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$0A0B0A19-4565-4465-B6D4-F4D11F498CA6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q19847637",
+              "numeric-id": 19847637
+            }
+          },
+          "hash": "f4decee31e9752960d9623ea58d1dfd672b31341",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "P9644$B8744675-FF84-4383-A78E-E9792F2A6EAB",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q56249073",
+              "numeric-id": 56249073
+            }
+          },
+          "hash": "447896e6ed21d802ebb5f992fc7e36dc03e78b56",
+          "property": "P31",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P3254": [
+      {
+        "id": "P9644$9E560A11-D8EC-4E04-BCA7-E746A9BDC9CF",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "https://www.wikidata.org/wiki/Wikidata:Property_proposal/Geneanet_Family_Name_ID"
+          },
+          "hash": "e07cc09a6c9d2dc602d4f1d1988f76fcfce0ac6e",
+          "property": "P3254",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P4876": [
+      {
+        "id": "P9644$F0A8D284-DA58-4B39-8979-E2BD2B598E4A",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "{'amount': '+1032054', 'unit': '1'}"
+          },
+          "hash": "9960c5cb49182dd8680c8a094ca44e5463840b0a",
+          "property": "P4876",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P8966": [
+      {
+        "id": "P9644$C8BE7609-EDDD-4EFC-9BF2-4D5B6B97AC55",
+        "mainsnak": {
+          "datavalue": {
+            "type": "string",
+            "value": "^https?:\\/\\/(?:www|en)?\\.geneanet\\.org\\/(?:surnames|nom-de-famille)?\\/([^\\/?]+)"
+          },
+          "hash": "6f4fe2303fb585c2e501c166e6f3dbcc213ca31a",
+          "property": "P8966",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P9073": [
+      {
+        "id": "P9644$9962DF1B-A723-487A-B238-A428400F65ED",
+        "mainsnak": {
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q3100478",
+              "numeric-id": 3100478
+            }
+          },
+          "hash": "bc93d59993ad47653a0b6ec1f6b2b70e6a68858b",
+          "property": "P9073",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "datatype": "external-id",
+  "descriptions": {
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар для прозьвішча на Geneanet"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জেনেনেট-এ পরিবারিক নামের জন্য আইডি"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Daŋ yuli zuɣuŋmaa zaŋ ti Geneanet"
+    },
+    "de": {
+      "language": "de",
+      "value": "Identifikator für einen Familiennamen in der Genealogie-Datenbank von Geneanet"
+    },
+    "en": {
+      "language": "en",
+      "value": "ID for a family name on Geneanet"
+    },
+    "es": {
+      "language": "es",
+      "value": "perfil en la web de genealogía Geneanet"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant d'un nom de famille sur Geneanet"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "Geneanet上の姓の識別子"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator nazwiska w bazie genealogicznej Geneanet"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "идентификатор фамилии на сайте Geneanet"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Geneanet'te bir aile adı (soyadı) için tanımlayıcı"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор для прізвища на Geneanet"
+    }
+  },
+  "id": "P9644",
+  "labels": {
+    "ar": {
+      "language": "ar",
+      "value": "مُعرِّف اسم عائلة لدى \"جينيانت\" (Geneanet)"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "identificador Geneanet d'apellíu"
+    },
+    "be-tarask": {
+      "language": "be-tarask",
+      "value": "ідэнтыфікатар прозьвішча Geneanet"
+    },
+    "bn": {
+      "language": "bn",
+      "value": "জেনেনেট পরিবারিক নাম আইডি"
+    },
+    "ca": {
+      "language": "ca",
+      "value": "identificador Geneanet de cognom"
+    },
+    "dag": {
+      "language": "dag",
+      "value": "Geneanet daŋ yuli zuɣuŋmaa"
+    },
+    "de": {
+      "language": "de",
+      "value": "Geneanet-Familiennamen-Kennung"
+    },
+    "en": {
+      "language": "en",
+      "value": "Geneanet family name ID"
+    },
+    "es": {
+      "language": "es",
+      "value": "identificador Geneanet de apellido"
+    },
+    "fi": {
+      "language": "fi",
+      "value": "sukunimen Geneanet-tunniste"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "identifiant Geneanet d'un nom de famille"
+    },
+    "gl": {
+      "language": "gl",
+      "value": "identificador Geneanet de apelido"
+    },
+    "he": {
+      "language": "he",
+      "value": "מזהה שם משפחה ב־Geneanet"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "Geneanet-családnévazonosító"
+    },
+    "it": {
+      "language": "it",
+      "value": "identificativo Geneanet"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "Geneanet姓識別子"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Geneanet familienavn ID"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "GeneaNet-identificatiecode voor familienaam"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "identyfikator nazwiska Geneanet"
+    },
+    "pt": {
+      "language": "pt",
+      "value": "ID do nome de família no Geneanet"
+    },
+    "pt-br": {
+      "language": "pt-br",
+      "value": "ID do nome de família no Geneanet"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "код фамилии Geneanet"
+    },
+    "sr": {
+      "language": "sr",
+      "value": "Генеанет породично име"
+    },
+    "sv": {
+      "language": "sv",
+      "value": "Geneanet familjenamn-ID"
+    },
+    "tr": {
+      "language": "tr",
+      "value": "Geneanet aile adı kimliği"
+    },
+    "uk": {
+      "language": "uk",
+      "value": "ідентифікатор прізвища Geneanet"
+    },
+    "vec": {
+      "language": "vec",
+      "value": "ID Geneanet de nome de fameja"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "Geneanet姓氏标识符"
+    },
+    "zh-cn": {
+      "language": "zh-cn",
+      "value": "Geneanet姓氏标识符"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "Geneanet姓氏标识符"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "Geneanet姓氏標識符"
+    }
+  },
+  "lastrevid": 17395254,
+  "modified": "2025-09-10T05:12:32Z",
+  "ns": 862,
+  "pageid": 192041,
+  "title": "Property:P9644",
+  "type": "property"
+}
