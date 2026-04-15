@@ -77,17 +77,30 @@ descriptively, not morally.
 walk numeric ID ranges on `wiki.order.life` and save each entity as
 JSON under `wikibase/items/` and `wikibase/properties/`.
 
-The GitHub Action dispatch was hitting 503s. The script works when run
-locally (properties P1..P100 test: created=39 missing=61, no errors),
-so the plan is: run locally against bigger ranges, commit the data to
-master, then run network analysis on the genealogy graph once it's
-populated.
+Pivoted off blind range-walking. `wiki-scripts/wikibase_fill_missing.py`
+enumerates every existing item via the MediaWiki `allpages` API
+(namespace 860), writes the QID list to `wikibase/items_index.txt`, and
+fetches only what's missing on disk. Skips the sparse high-end import
+gaps entirely — much faster than walking Q1..Q200000.
+
+Snapshot (2026-04-15): 164,544 items on the wiki, ~60K still to fetch.
+Backfill running locally with `--commit-every 5000` (commits + pushes
+every ~30 min), targeting completion in ~7 hours.
+
+**Next phase — after import is done: genealogical analysis.** Build the
+genealogy graph from the dumped items and figure out how to assemble
+ancestral chains for the chapter-130–220 gap. The existing chapter
+structure (West Eurasian super-network, gateway ancestors like
+Charlemagne / Bustanai / Jesus-via-Rome / Muhammad-via-Rome, the Asian
+bridges) is the *narrative* frame; this analysis turns it into concrete
+named lineages by walking the actual P-statement graph.
 
 Action items on the data once it lands:
 - Empirical centrality: do Charlemagne / Bustanai actually pass the
   gateway-ancestor centrality test, or are other nodes doing the work?
 - Weakly-connected components: how scattered is Asia, really?
 - QA pass: cycles, impossible dates, excessive fan-out (conflation).
+- Lineage extraction for chapters 130–220.
 
 ## Workflow reminders
 
