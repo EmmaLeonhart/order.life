@@ -20,6 +20,11 @@ desk.
   covered but not at equal intensity; Southeast Asia low-intensity.
 - [`japan-emphasis.md`](japan-emphasis.md) — weighting rationale:
   Japanese = sacred language, Gaiad = Kojiki of humanity.
+- [`scope-caveats.md`](scope-caveats.md) — Japan bias is local to
+  this gap; medieval period is constraint-heavy; SE Asia is modern.
+- [`islam-syncretic.md`](islam-syncretic.md) — Islam portrayed as
+  syncretic (Confucianism, Hinduism, local); big Sufism coverage;
+  Islam into India and China.
 
 ## Opening & structural pivots
 
