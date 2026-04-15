@@ -1,0 +1,290 @@
+{
+  "aliases": {},
+  "claims": {
+    "P39": [
+      {
+        "id": "Q117259$36B628AE-D72F-4165-B5FC-52F43D7FD0F7",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153801",
+              "numeric-id": 153801
+            }
+          },
+          "hash": "b90991d245ed2a6e8cec5d5ae903ed799cdc2705",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      },
+      {
+        "id": "Q117259$0208A275-EBCA-4C84-AD7C-F17BE4323A2B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153802",
+              "numeric-id": 153802
+            }
+          },
+          "hash": "b9eb3a19c3f2fb9d80823c0663c5704bf3f90255",
+          "property": "P39",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P47": [
+      {
+        "id": "Q117259$482BD938-8966-43C1-B10F-D307E63CA9C6",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q117255",
+              "numeric-id": 117255
+            }
+          },
+          "hash": "905dd51fa7b9043f7dd86d5b0bd06d2354669522",
+          "property": "P47",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P48": [
+      {
+        "id": "Q117259$E59D6365-169B-4E78-BB0A-F8329415BF41",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q114339",
+              "numeric-id": 114339
+            }
+          },
+          "hash": "759731e0e7bf61f3d55a7310b48254ad8b6d0d41",
+          "property": "P48",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P55": [
+      {
+        "id": "Q117259$FCDC2F29-84E1-44A3-9E82-7D49F955407B",
+        "mainsnak": {
+          "datatype": "wikibase-item",
+          "datavalue": {
+            "type": "wikibase-entityid",
+            "value": {
+              "entity-type": "item",
+              "id": "Q153718",
+              "numeric-id": 153718
+            }
+          },
+          "hash": "2c0169b343dfa052299eaa3878c187394e4e584c",
+          "property": "P55",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P61": [
+      {
+        "id": "Q117259$D1263EAE-8EEF-4B0C-9B97-A67AA58719DC",
+        "mainsnak": {
+          "datatype": "external-id",
+          "datavalue": {
+            "type": "string",
+            "value": "Q240221"
+          },
+          "hash": "4c4665b2afe3b7d4b01c8ba2f12e3e344445e166",
+          "property": "P61",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ],
+    "P94": [
+      {
+        "id": "Q117259$DC5D509A-F29A-493B-8D7B-82D8448B3006",
+        "mainsnak": {
+          "datatype": "commonsMedia",
+          "datavalue": {
+            "type": "string",
+            "value": "Adalbert III of Bohemia Arms.svg"
+          },
+          "hash": "c40aaaadb20507cfdd8e3e8e0198bc622972fa44",
+          "property": "P94",
+          "snaktype": "value"
+        },
+        "rank": "normal",
+        "type": "statement"
+      }
+    ]
+  },
+  "descriptions": {
+    "arz": {
+      "language": "arz",
+      "value": "قسيس كاتوليك"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "salcburský arcibiskup"
+    },
+    "de": {
+      "language": "de",
+      "value": "Erzbischof von Salzburg"
+    },
+    "en": {
+      "language": "en",
+      "value": "Archbishop of Salzburg"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "ĉefepiskopo de Salcburgo"
+    },
+    "es": {
+      "language": "es",
+      "value": "arzobispo católico"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "archevêque catholique"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "salzburgi érsek"
+    },
+    "it": {
+      "language": "it",
+      "value": "arcivescovo cattolico"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "arhiepiscop de Salzburg"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "архиепископ Зальцбурга"
+    }
+  },
+  "id": "Q117259",
+  "labels": {
+    "arz": {
+      "language": "arz",
+      "value": "فويتش بوهيميا"
+    },
+    "ast": {
+      "language": "ast",
+      "value": "Adalbert de Boheme"
+    },
+    "be": {
+      "language": "be",
+      "value": "Войцех Багемскі"
+    },
+    "bg": {
+      "language": "bg",
+      "value": "Адалберт III Бохемски"
+    },
+    "cs": {
+      "language": "cs",
+      "value": "Vojtěch III. Salcburský"
+    },
+    "de": {
+      "language": "de",
+      "value": "Adalbert III. von Böhmen"
+    },
+    "el": {
+      "language": "el",
+      "value": "Αδαλβέρτος Γ΄ της Βοημίας"
+    },
+    "en": {
+      "language": "en",
+      "value": "Adalbert III of Bohemia"
+    },
+    "eo": {
+      "language": "eo",
+      "value": "Adalberto de Bohemio"
+    },
+    "es": {
+      "language": "es",
+      "value": "Adalberto III de Bohemia"
+    },
+    "fr": {
+      "language": "fr",
+      "value": "Adalbert III de Bohême"
+    },
+    "hu": {
+      "language": "hu",
+      "value": "III. Adalbert"
+    },
+    "it": {
+      "language": "it",
+      "value": "Adalberto III di Boemia"
+    },
+    "ja": {
+      "language": "ja",
+      "value": "アダルベルト3世"
+    },
+    "nb": {
+      "language": "nb",
+      "value": "Adalbert III. av Böhmen"
+    },
+    "nl": {
+      "language": "nl",
+      "value": "Adalbert III van Bohemen"
+    },
+    "pl": {
+      "language": "pl",
+      "value": "Wojciech Przemyślida"
+    },
+    "ro": {
+      "language": "ro",
+      "value": "Adalbert al III-lea al Boemiei"
+    },
+    "ru": {
+      "language": "ru",
+      "value": "Адальберт III Богемский"
+    },
+    "sq": {
+      "language": "sq",
+      "value": "Vojtech of Bohemia"
+    },
+    "zh": {
+      "language": "zh",
+      "value": "阿达尔贝特三世"
+    },
+    "zh-hans": {
+      "language": "zh-hans",
+      "value": "阿达尔贝特三世"
+    },
+    "zh-hant": {
+      "language": "zh-hant",
+      "value": "阿達爾貝特三世"
+    }
+  },
+  "lastrevid": 17529717,
+  "modified": "2025-09-17T05:25:38Z",
+  "ns": 860,
+  "pageid": 140728,
+  "sitelinks": {},
+  "title": "Item:Q117259",
+  "type": "item"
+}
